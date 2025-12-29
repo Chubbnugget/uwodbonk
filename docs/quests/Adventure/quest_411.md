@@ -1,0 +1,32 @@
+---
+id: 411
+category: Adventure
+status: untranslated
+---
+
+# Quest [Strange Frog] Details
+
+
+### Quest [Strange Frog] Details
+
+  | Attribute | Details |  
+  | :--- | :--- |  
+  | **Quest Name** | strange frog |  
+
+### Quest Contents
+Frogs have many characteristics, such as the ability to extend their tongues and eat insects. There's a rumor that there's a strange frog around here. I don't know if it's a frog or a completely different creature, so I'm asking you to look into it. Ask me at a bar in Luanda.
+
+  | Attribute | Details |  
+  | :--- | :--- |  
+  | **Chrono Quest** |  |  
+  | **Offer Method** | adventure quest |  
+  | **Difficulty** | 5 |  
+  | **Time Limit** | none |  
+  | **Town** | [Saint-Georges](port_76.md), [Cape](port_37.md) |  
+  | **Required Skills** | [Ecological research](item_463.md) (2), [Biology](item_434.md) (4), [West African languages](item_362.md) |  
+  | **Discovery** | [Small Creatures](ref_13.md) / [Clawed Frog](quest_2038.md) A frog with a unique appearance that lives in southern Africa. It has black claws and small, sunken eyes, making it look quite different from the average frog. During periods of extreme heat, they burrow into the soil and hibernate. Strange Frog Rank: 2, Points: 3, Difficulty: 4, Experience Points: 220 |  
+  | **Reward/Advance** | Remuneration: 59,000 / Advance payment: 10,000 |  
+  | **Exp/Fame** | Experience points: 130 / Fame: 65 |  
+  | **Items Obtained** | 5 request letters |  
+  | **Chain Quests** |  |  
+  | **Notes** | 1. Luanda bar customer 2. Luanda boy (north of the plaza departure point) 3. Luanda north (suburbs) ecological survey (near the pointed rock in the northwest, 66m west, 6m south) Bonus quest Sunday |  

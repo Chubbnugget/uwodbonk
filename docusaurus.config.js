@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'UWODBonk',
-  tagline: 'Dinosaurs are cool',
+  tagline: '',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -48,21 +48,7 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -73,13 +59,19 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        appId: 'BYEYO94311',
+        apiKey: '00d9c74be1902e7bdda61dbd1e85f34b',
+        indexName: 'uwodbonk',
+        contextualSearch: true,
+     },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'UWODBonk',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Site Logo',
+          src: 'img/logo.png',
         },
         items: [
           {
@@ -94,7 +86,6 @@ const config = {
             position: 'left',
             label: 'Quests',
           },
-          {to: '/blog', label: 'News', position: 'left'},
           {
             href: 'https://github.com/Chubbnugget/uwodbonk',
             label: 'GitHub',
@@ -137,7 +128,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} UWODBonk, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} UWODBonk.`,
       },
       prism: {
         theme: prismThemes.github,
