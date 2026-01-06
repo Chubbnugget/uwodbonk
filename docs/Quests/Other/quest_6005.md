@@ -26,4 +26,12 @@ Even if you say you are an adventurer, there are many different ways of living. 
 | **Exp/Fame** | Experience points: 120 / Fame: 100 |
 | **Items Obtained** | Merchant Guild Registration Certificate |
 | **Chain Quests** |  |
-| **Notes** | 1. Lisbon Merchant Guild Master x2 2. London Trading Post Owner Deliver 20 pork to the London Trading Post Owner. Pork is available in Oporto/Portsmouth/Rotterdam/Antwerp. Prerequisite is completion of intermediate level. This is a quest that will appear even after you graduate. If you can travel far, it's easier than a normal job change quest. 2019.04.21. Appears after completing the beginner's class. You will not be able to receive referrals until you complete the beginner's class. *Even if you know the contents of the quest, don't forget to talk to &color(red){``Lisbon Merchant Guild Master''. }; Bonus Quest Sunday |
+### Notes
+1. Lisbon Merchant Guild Master x2 
+2. London Trading Post Owner 
+
+Deliver 20 pork to the London Trading Post Owner. Pork is available in Oporto/Portsmouth/Rotterdam/Antwerp. 
+
+**Prerequisite:** Completion of intermediate level. 
+
+*Even if you know the contents, talk to the Guild Master.*

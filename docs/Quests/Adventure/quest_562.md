@@ -26,4 +26,4 @@ While turning over old books. There are a lot of legends that come out that seem
 | **Exp/Fame** | Experience points: 120 / Fame: 60 |
 | **Items Obtained** |  |
 | **Chain Quests** |  |
-| **Notes** | 1. Candia Tavern Trader 2. Candia North Visibility (near a small island {1168;3340}) Bonus Quest Tuesday |
+| **Notes** | 1. Candia Tavern Trader; 2. Candia North Visibility (near a small island \{1168;3340\}); **Bonus Quest Tuesday** |
