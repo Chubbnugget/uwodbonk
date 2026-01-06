@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 15 (Rank of skills required for discovery) |
 | **Experience** | 1400 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Baseball stadium" may be a mistake for "spherical", but it remains the same as the original. 
+| **Remarks** | "Baseball stadium" may be a mistake for "spherical", but it remains the same as the original.
 
  →It has been corrected. |
 | **最終更新** | 2019-08-03 12:33:53 Passing navigator @guest |

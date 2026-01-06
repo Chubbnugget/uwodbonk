@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | Ishigakecho |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A butterfly that lives mainly in East Asia and has wings with intricate black stripes on a white background. 
+| **explanation** | A butterfly that lives mainly in East Asia and has wings with intricate black stripes on a white background.
  It has the habit of perching with its wings spread horizontally. They are sensitive to people's signs and will run away as soon as you approach them. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

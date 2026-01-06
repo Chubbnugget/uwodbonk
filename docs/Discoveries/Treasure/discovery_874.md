@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Tamsui Dictionary |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A dictionary of the languages ​​spoken in Tamsui, compiled by the Hispanians. 
+| **explanation** | A dictionary of the languages ​​spoken in Tamsui, compiled by the Hispanians.
  It was used to propagate Catholicism to the indigenous people and immigrants of Taiwan Island. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

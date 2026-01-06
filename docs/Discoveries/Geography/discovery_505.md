@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Mount Tai |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A mountain that has been revered as the center of religion. 
+| **explanation** | A mountain that has been revered as the center of religion.
  This is the place where successive emperors since Qin Shihuang performed the ``Zen Ceremony'' to report the unification of the nation to heaven, and the entire mountain is dotted with shrines and mausoleums. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

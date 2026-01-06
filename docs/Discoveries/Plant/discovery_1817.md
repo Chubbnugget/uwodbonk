@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Forsythia |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A highly prolific plant that grows from Korea to China and Japan. 
+| **explanation** | A highly prolific plant that grows from Korea to China and Japan.
  It blooms yellow flowers in early spring, and produces sharp leaves when the flowers fall. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

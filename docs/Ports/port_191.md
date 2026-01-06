@@ -3,7 +3,6 @@ id: 191
 name: port royal
 type: Port
 ---
-
 # Port: ポートロイヤル
 
 import Tabs from '@theme/Tabs';
@@ -38,7 +37,6 @@ import TabItem from '@theme/TabItem';
 ### Description
 A port city located almost in the center of the Caribbean Sea. Because of its good location and the ability to anchor many ships, it became a base for buccaneer pirates. The town is full of pirates, but order seems to be maintained. Pirate Island: Requires a certain amount of notoriety or 1M bribe to enter the port. *To enter the port, you must accept the maritime quest "Request from Port Royal" in Santo Domingo.
 
-
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
@@ -66,13 +64,13 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
 
 #### [Trading products (precious metals)](Categories/category_8.md)
 
-| [gold dust](Items/Trade Goods/TradeGoods-Metals/item_111.md) | [Trading products (precious metals)](Categories/category_8.md) | 2,182 | (2,454) |  |
-| [silver](Items/Trade Goods/TradeGoods-Metals/item_136.md) | [Trading products (precious metals)](Categories/category_8.md) | 1,248 | (1,404) |  |
+| [gold dust](Items/Trade Goods/TradeGoods-Metals/item_111.md) | Trading products (precious metals) | 2,182 | (2,454) |  |
+| [silver](Items/Trade Goods/TradeGoods-Metals/item_136.md) | Trading products (precious metals) | 1,248 | (1,404) |  |
 
 #### [Trading goods (hobby goods)](Categories/category_10.md)
 
-| [cacao](Items/Trade Goods/TradeGoods-Sunddries/item_140.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 959 | (1,078) |  |
-| [peanuts](Items/Trade Goods/TradeGoods-Sunddries/item_134.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 174 | (195) |  |
+| [cacao](Items/Trade Goods/TradeGoods-Sunddries/item_140.md) | Trading goods (hobby goods) | 959 | (1,078) |  |
+| [peanuts](Items/Trade Goods/TradeGoods-Sunddries/item_134.md) | Trading goods (hobby goods) | 174 | (195) |  |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
@@ -93,17 +91,17 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
 
 #### [装備品（服飾品）](Categories/category_28.md)
 
-| [Notes of a famous explorer](Items/Equipment/Equipment-Accessory/item_119.md) | [装備品（服飾品）](Categories/category_28.md) | 8,000 | tool shop owner |  |
+| [Notes of a famous explorer](Items/Equipment/Equipment-Accessory/item_119.md) | 装備品（服飾品） | 8,000 | tool shop owner |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [Charlatan's Dowsing Rod](Items/Consumables/Consumables-Skill/item_118.md) | [Consumables (skill activation)](Categories/category_31.md) | 2,500 | tool shop owner |  |
-| [research monocle](Items/Consumables/Consumables-Skill/item_120.md) | [Consumables (skill activation)](Categories/category_31.md) | 2,500 | tool shop owner |  |
+| [Charlatan's Dowsing Rod](Items/Consumables/Consumables-Skill/item_118.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
+| [research monocle](Items/Consumables/Consumables-Skill/item_120.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
 
 #### [Consumables (other)](Categories/category_44.md)
 
-| [Dyed powder](Items/Consumables/Consumables-Other/item_3370.md) | [Consumables (other)](Categories/category_44.md) | 2,000 | tool shop owner |  |
-| [sewing tools](Items/Consumables/Consumables-Other/item_310.md) | [Consumables (other)](Categories/category_44.md) | 10,000 | tool shop owner |  |
+| [Dyed powder](Items/Consumables/Consumables-Other/item_3370.md) | Consumables (other) | 2,000 | tool shop owner |  |
+| [sewing tools](Items/Consumables/Consumables-Other/item_310.md) | Consumables (other) | 10,000 | tool shop owner |  |
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
@@ -112,16 +110,15 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
 
 #### [Consumables (condition recovery)](Categories/category_21.md)
 
-| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
-| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
+| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
+| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
 
 #### [Consumables (other)](Categories/category_44.md)
 
-| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
-| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
+| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | Consumables (other) | 500 | workshop craftsman |  |
+| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | Consumables (other) | 500 | workshop craftsman |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
-
 
 ### Shipyard Master
 
@@ -130,8 +127,7 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
 
 #### [Boat](Categories/category_43.md)
 
-| [Varsha](Items/Ships/item_201.md) | [Boat](Categories/category_43.md) | 2,000 | Shipyard Master |  |
-
+| [Varsha](Items/Ships/item_201.md) | Boat | 2,000 | Shipyard Master |  |
 
 ### Lumbermaker
 
@@ -140,8 +136,7 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
 
 #### [Ship parts (additional armor)](Categories/category_35.md)
 
-| [lightweight cedar board](Items/Ship Parts/Shipparts-Plates/item_325.md) | [Ship parts (additional armor)](Categories/category_35.md) | 880 | Lumbermaker |  |
-
+| [lightweight cedar board](Items/Ship Parts/Shipparts-Plates/item_325.md) | Ship parts (additional armor) | 880 | Lumbermaker |  |
 
 ### Sail-maker
 
@@ -150,8 +145,8 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
 
 #### [Ship parts (auxiliary sails)](Categories/category_33.md)
 
-| [Foretop Gernsur](Items/Ship Parts/Shipparts-Studding-Sail/item_282.md) | [Ship parts (auxiliary sails)](Categories/category_33.md) | 2,400 | Sail-maker |  |
-| [small inner jib](Items/Ship Parts/Shipparts-Studding-Sail/item_278.md) | [Ship parts (auxiliary sails)](Categories/category_33.md) | 500 | Sail-maker |  |
+| [Foretop Gernsur](Items/Ship Parts/Shipparts-Studding-Sail/item_282.md) | Ship parts (auxiliary sails) | 2,400 | Sail-maker |  |
+| [small inner jib](Items/Ship Parts/Shipparts-Studding-Sail/item_278.md) | Ship parts (auxiliary sails) | 500 | Sail-maker |  |
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
@@ -160,12 +155,12 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
 
 #### [Ship parts (special weapons)](Categories/category_37.md)
 
-| [small ram](Items/Ship Parts/Shipparts-Special-Weapons/item_190.md) | [Ship parts (special weapons)](Categories/category_37.md) | 1,000 | weapon craftsman |  |
-| [small ship forecastle](Items/Ship Parts/Shipparts-Special-Weapons/item_195.md) | [Ship parts (special weapons)](Categories/category_37.md) | 5,000 | weapon craftsman |  |
-| [additional small split](Items/Ship Parts/Shipparts-Special-Weapons/item_196.md) | [Ship parts (special weapons)](Categories/category_37.md) | 2,000 | weapon craftsman |  |
+| [small ram](Items/Ship Parts/Shipparts-Special-Weapons/item_190.md) | Ship parts (special weapons) | 1,000 | weapon craftsman |  |
+| [small ship forecastle](Items/Ship Parts/Shipparts-Special-Weapons/item_195.md) | Ship parts (special weapons) | 5,000 | weapon craftsman |  |
+| [additional small split](Items/Ship Parts/Shipparts-Special-Weapons/item_196.md) | Ship parts (special weapons) | 2,000 | weapon craftsman |  |
 
 #### [Ship parts (cannon)](Categories/category_38.md)
 
-| [2 falcon guns](Items/Ship Parts/Shipparts-Cannons/item_174.md) | [Ship parts (cannon)](Categories/category_38.md) | 500 | weapon craftsman |  |
+| [2 falcon guns](Items/Ship Parts/Shipparts-Cannons/item_174.md) | Ship parts (cannon) | 500 | weapon craftsman |  |
   </TabItem>
 </Tabs>

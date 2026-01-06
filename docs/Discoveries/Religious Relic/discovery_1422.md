@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 210 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Preste Joan's Pillar" 
+| **Remarks** | Quest "Preste Joan's Pillar"
 
  Discovery Name Card:105 |
 | **最終更新** | 2022-12-10 07:21:23 Sakon. |

@@ -10,7 +10,7 @@ category: Astronomical
 | **Discovery Type** | Astronomical |
 | **Discovery Name** | Siam |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Alpha Stars in Sagittarius. The name means arrow in Arabic and was originally 
+| **explanation** | Alpha Stars in Sagittarius. The name means arrow in Arabic and was originally
 
  It is said that the word referred to the entire Stars constellation. |
 | **Era** |  |

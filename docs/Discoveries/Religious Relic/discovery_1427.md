@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Anuketh statue |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A statue of a goddess said to bring about rising waters in the Nile River. 
+| **explanation** | A statue of a goddess said to bring about rising waters in the Nile River.
  Egypt may have prospered since ancient times thanks to the blessings of this goddess, who wore a papyrus staff and a crown with feathers. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

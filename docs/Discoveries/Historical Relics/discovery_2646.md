@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Ezana Stone |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A stone monument said to have been erected by King Ezana. 
+| **explanation** | A stone monument said to have been erected by King Ezana.
 
  Records of the king's conversion to Christianity and military expeditions into Northeast Africa are inscribed in three different languages. |
 | **Era** |  |

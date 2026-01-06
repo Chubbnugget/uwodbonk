@@ -15,7 +15,7 @@ category: Historic Site
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 690 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “The King Who Achieved Independence” 
+| **Remarks** | Quest “The King Who Achieved Independence”
 
  Discovery Name Card:345 |
 | **最終更新** | 2022-11-23 16:01:14 Sakon. |

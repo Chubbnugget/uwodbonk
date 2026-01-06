@@ -1,32 +1,28 @@
 ---
 id: 4204
 category: Other
-status: untranslated
 ---
-
 # Details of the quest [Measures to improve morale]
-
 
 ### Details of the quest [Measures to improve morale]
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Quest Name** | Measures to improve morale |  
+| Attribute | Details |
+| :--- | :--- |
+| **Quest Name** | Measures to improve morale |
 
 ### Quest Contents
 
-
-| Attribute | Details |  
-| :--- | :--- |  
-| **Chrono Quest** |  |  
-| **Offer Method** | Imperial command quest |  
-| **Difficulty** | 4 |  
-| **Time Limit** | none |  
-| **Town** | [Venice](Ports/port_30.md) |  
-| **Required Skills** | There are no required skills. |  
-| **Discovery** |  |  
-| **Reward/Advance** |  |  
-| **Exp/Fame** |  |  
-| **Items Obtained** | National Contribution Medal |  
-| **Chain Quests** |  |  
-| **Notes** | 1. Big rock in the southeast of the outskirts of Cairo [Delivery of 10 pieces of sauteed chicken with jam] [Suez Canal/Edict Quest (Venice)] |  
+| Attribute | Details |
+| :--- | :--- |
+| **Chrono Quest** |  |
+| **Offer Method** | Imperial command quest |
+| **Difficulty** | 4 |
+| **Time Limit** | none |
+| **Town** | [Venice](Ports/port_30.md) |
+| **Required Skills** | There are no required skills. |
+| **Discovery** |  |
+| **Reward/Advance** |  |
+| **Exp/Fame** |  |
+| **Items Obtained** | National Contribution Medal |
+| **Chain Quests** |  |
+| **Notes** | 1. Big rock in the southeast of the outskirts of Cairo [Delivery of 10 pieces of sauteed chicken with jam] [Suez Canal/Edict Quest (Venice)] |

@@ -15,7 +15,7 @@ category: Large Creature
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 310 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Map of animals with long necks" 
+| **Remarks** | "Map of animals with long necks"
 
  Discovery Name Card:155 |
 | **最終更新** | 2022-12-22 23:07:52 Sakon. |

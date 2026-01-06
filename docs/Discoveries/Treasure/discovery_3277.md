@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Collected Works of Bai |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A collection of works by Bai Juyi, a literary figure from the Central and Tang Dynasties. Read Hakushibunshu. 
+| **explanation** | A collection of works by Bai Juyi, a literary figure from the Central and Tang Dynasties. Read Hakushibunshu.
 
 He was known as a prolific poet during his lifetime, and was widely read regardless of his social status.
 

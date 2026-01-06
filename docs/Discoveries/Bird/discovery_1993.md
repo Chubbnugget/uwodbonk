@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | blue jay |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A colorful crow that lives on a small island in southern Japan. It is characterized by its lapis lazuli wings, white beak, and reddish-brown body. 
+| **explanation** | A colorful crow that lives on a small island in southern Japan. It is characterized by its lapis lazuli wings, white beak, and reddish-brown body.
  Despite their beautiful appearance, their voices are hoarse and noisy. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

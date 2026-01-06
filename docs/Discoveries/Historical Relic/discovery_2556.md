@@ -10,7 +10,7 @@ category: Historical Relic
 | **Discovery Type** | Historical Relic |
 | **Discovery Name** | Pied Piper of Hamelin |
 | **Rank** | (Number of Stars on Discovery Name card) |
-| **explanation** | The legend of the Pied Piper and the child who disappeared from the city of Hamelin. 
+| **explanation** | The legend of the Pied Piper and the child who disappeared from the city of Hamelin.
 
  There are various theories about what the legends indicate, including an epidemic, but the truth seems to be immigration to the east. |
 | **Era** |  |

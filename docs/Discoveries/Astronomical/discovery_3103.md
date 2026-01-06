@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 700 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Black Streak Floating in the Sky" 
+| **Remarks** | Quest "Black Streak Floating in the Sky"
 
  Discovery Name Card:350 |
 | **最終更新** | 2022-11-09 20:51:21 Sakon. |

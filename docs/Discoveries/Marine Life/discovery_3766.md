@@ -15,7 +15,7 @@ category: Marine Life
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 1040 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Compassionate Biology 
+| **Remarks** | Compassionate Biology
 
  Discovery Name Card:520 |
 | **最終更新** | 2023-01-23 11:45:38 Passing navigator @guest |

@@ -15,7 +15,7 @@ category: Marine Life
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 2 (Rank of skills required for discovery) |
 | **Experience** | 80 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Giant Tropical Fish" 
+| **Remarks** | Quest "Giant Tropical Fish"
 
  Discovery Name Card:40 |
 | **最終更新** | 2022-11-27 16:37:40 Sakon. |

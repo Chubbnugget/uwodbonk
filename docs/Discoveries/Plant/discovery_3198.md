@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | alfa rover |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Another name for carob in Portugal. 
+| **explanation** | Another name for carob in Portugal.
 
  The fruit is sweet and highly nutritious, so it is prized as an ingredient in sweets. |
 | **Era** |  |

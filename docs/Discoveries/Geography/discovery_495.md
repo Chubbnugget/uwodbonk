@@ -10,14 +10,14 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Mt.Fuji |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | An active volcano representing Japan with a graceful slope. Records of volcanic activity remain, and there is a possibility of future eruptions. 
+| **explanation** | An active volcano representing Japan with a graceful slope. Records of volcanic activity remain, and there is a possibility of future eruptions.
 
  It has also been an object of faith since ancient times, and is also called a sacred mountain. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 830 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Takamine in Waka Poetry” 
+| **Remarks** | Quest “Takamine in Waka Poetry”
 
  Discovery Name Card:415 |
 | **最終更新** | 2022-11-14 21:20:55 Sakon. |

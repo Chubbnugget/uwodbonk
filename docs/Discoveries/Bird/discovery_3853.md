@@ -15,7 +15,7 @@ category: Bird
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 880 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | pursuit quest 
+| **Remarks** | pursuit quest
 
  Discovery Name Card:440 |
 | **最終更新** | 2023-12-22 08:40:32 Passing navigator @guest |

@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | gilt bronze incense burner |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A large incense burner was discovered in what is believed to be the tomb of King Baekje. 
+| **explanation** | A large incense burner was discovered in what is believed to be the tomb of King Baekje.
 
  It is decorated with dragons, bees, and phoenixes, demonstrating the high level of Baekje craftsmanship. |
 | **Era** |  |

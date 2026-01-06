@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | ancient wooden tablet |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A wooden tag with letters written on it, discovered in Japan. It was created by the Era, who did not have the technology to make paper, and similar products can be found in China and other countries. 
+| **explanation** | A wooden tag with letters written on it, discovered in Japan. It was created by the Era, who did not have the technology to make paper, and similar products can be found in China and other countries.
  The letters spelled out give us a glimpse into the lives of people at the time. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

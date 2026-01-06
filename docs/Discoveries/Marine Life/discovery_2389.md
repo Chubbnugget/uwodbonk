@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Warasubo |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Biology has a long, slender blue-purple body and lives in China and Korea. 
+| **explanation** | Biology has a long, slender blue-purple body and lives in China and Korea.
  When they are born, they have normal eyes, but as they grow older, they degenerate and become buried under the skin. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

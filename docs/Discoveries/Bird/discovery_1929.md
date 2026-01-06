@@ -15,7 +15,7 @@ category: Bird
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 1110 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Rainbow Divine Bird” 
+| **Remarks** | Quest “Rainbow Divine Bird”
 
  Discovery Name Card:555 |
 | **最終更新** | 2022-11-27 17:39:33 Sakon. |

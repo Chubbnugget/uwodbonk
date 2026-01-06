@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | throat guard made of shellfish |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Shell ornaments discovered in a tomb near the Etowah River in North America. 
+| **explanation** | Shell ornaments discovered in a tomb near the Etowah River in North America.
 
  It is engraved with a unique figure that includes a geometric pattern. |
 | **Era** |  |

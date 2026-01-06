@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 750 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Investigating the island you wandered into” 
+| **Remarks** | Quest “Investigating the island you wandered into”
 
  Discovery Name Card:375 |
 | **最終更新** | 2022-11-11 21:23:48 Sakon. |

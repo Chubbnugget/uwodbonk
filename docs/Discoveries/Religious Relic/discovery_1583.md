@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Tripitaka woodblock print |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Tripitaka is a collection of sutras. 
+| **explanation** | Tripitaka is a collection of sutras.
 
 In the wake of the invasion from Khitan, production began in Goryeo to pray for national defense.
 

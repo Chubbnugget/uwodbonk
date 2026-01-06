@@ -15,9 +15,7 @@ category: Marine Life
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 500 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Further investigation of Sebald Island 
-
-
+| **Remarks** | Further investigation of Sebald Island
 
  Discovery Experience 500 Discovery Name Card Experience 250 |
 | **最終更新** | 2016-05-11 00:02:33 Gainor |

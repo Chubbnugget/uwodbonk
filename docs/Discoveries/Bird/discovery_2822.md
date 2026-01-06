@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | black-headed stork |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | This bird is said to be a symbol of the Pantanal Wetlands. 
+| **explanation** | This bird is said to be a symbol of the Pantanal Wetlands.
 
 It has a total length of 1.2m and a wingspan of 2m.
 

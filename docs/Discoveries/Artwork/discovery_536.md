@@ -15,7 +15,7 @@ category: Artwork
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | 1 (Rank of skills required for discovery) |
 | **Experience** | 50 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "The Abbot's Grave Goods" 
+| **Remarks** | Quest "The Abbot's Grave Goods"
 
  Discovery Name Card:25 |
 | **最終更新** | 2022-11-23 08:05:38 Sakon. |

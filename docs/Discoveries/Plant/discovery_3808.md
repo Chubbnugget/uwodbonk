@@ -15,7 +15,7 @@ category: Plant
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 860 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | pursuit quest 
+| **Remarks** | pursuit quest
 
  Discovery Name Card:430 |
 | **最終更新** | 2023-10-02 10:27:01 Passing navigator @guest |

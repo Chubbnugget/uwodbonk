@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Yanbaru rail |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A bird that lives only in the forest areas of northern Okinawa main island. Its wings are small and it cannot fly. 
+| **explanation** | A bird that lives only in the forest areas of northern Okinawa main island. Its wings are small and it cannot fly.
  Instead, they develop legs and can run around in the bushes. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

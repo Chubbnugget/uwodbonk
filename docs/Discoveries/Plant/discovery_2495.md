@@ -15,7 +15,7 @@ category: Plant
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 240 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Nuts that can be used as staple food” 
+| **Remarks** | Quest “Nuts that can be used as staple food”
 
  Discovery Name Card: 120 |
 | **最終更新** | 2022-11-27 17:04:59 Sakon. |

@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Hwarang Seki |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Karoseiki". A book said to have been written by Kim Daemun of Silla. 
+| **explanation** | The reading is "Karoseiki". A book said to have been written by Kim Daemun of Silla.
  Hwarangs were young men who were skilled in literature and military arts in the Silla era. He is said to have taken the lead during wartime and fought for his country. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

@@ -15,9 +15,7 @@ category: Fossils
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 1027 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | new continent dragon 
-
-
+| **Remarks** | new continent dragon
 
  Discovery Experience1027 Discovery Name Card Experience513 |
 | **最終更新** | 2016-09-11 18:32:54 Gainor |

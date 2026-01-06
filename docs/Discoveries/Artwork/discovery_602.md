@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Anken's ink painting |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | An ink painting by the Korean painter Anken. 
+| **explanation** | An ink painting by the Korean painter Anken.
 The Taogenkyo, which is said to have been dreamed of by King Anpyeong, the third son of Joseon king Sejong, is depicted in light ink.
  It is said that Anken completed this painting of Peach Source Land in just three days. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Tang Sancai |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Colorful pottery fired during the Tang Dynasty. 
+| **explanation** | Colorful pottery fired during the Tang Dynasty.
 
 It was mainly used as a burial gift for nobles.
 

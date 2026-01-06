@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 370 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Stars and Love Poems” 
+| **Remarks** | Quest “Stars and Love Poems”
 
  Discovery Name Card:175 |
 | **最終更新** | 2022-11-29 22:26:13 Sakon. |

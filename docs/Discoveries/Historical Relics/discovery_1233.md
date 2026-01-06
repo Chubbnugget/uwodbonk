@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Merenptah Inscription |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | An inscription believed to have been left in the Era of the ancient Egyptian pharaoh King Merneptah. 
+| **explanation** | An inscription believed to have been left in the Era of the ancient Egyptian pharaoh King Merneptah.
  It is badly damaged and difficult to read, but there are parts that read ``Sheken Canal'' and ``Etty Canal.'' |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

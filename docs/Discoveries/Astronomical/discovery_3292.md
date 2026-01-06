@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 780 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “The Last God” 
+| **Remarks** | Quest “The Last God”
 
  Discovery Name Card:390 |
 | **最終更新** | 2022-11-08 19:22:45 Sakon. |

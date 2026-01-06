@@ -15,7 +15,7 @@ category: Historic Site
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 193 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Generation of Brilliance” 
+| **Remarks** | Quest “Generation of Brilliance”
 
  Discovery Name Card:95 |
 | **最終更新** | 2022-11-23 22:05:19 Sakon. |

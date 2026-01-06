@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | 2 (Rank of skills required for discovery) |
 | **Experience** | 120 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | ancient greek history books 
-
-
+| **Remarks** | ancient greek history books
 
  Discovery Experience 120 Discovery Name Card Experience 60 |
 | **最終更新** | 2016-05-14 00:15:08 Gainor |

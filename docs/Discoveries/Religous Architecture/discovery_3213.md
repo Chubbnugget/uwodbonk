@@ -10,7 +10,7 @@ category: Religous Architecture
 | **Discovery Type** | Religous Architecture |
 | **Discovery Name** | Valaam Monastery |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A monastery located on Valaam Island, an island in Lake Ladoga. Its history dates back to before the Christianization of Russia, but due to geographical reasons, it was involved in many wars and was devastated at times. 
+| **explanation** | A monastery located on Valaam Island, an island in Lake Ladoga. Its history dates back to before the Christianization of Russia, but due to geographical reasons, it was involved in many wars and was devastated at times.
 
  It is said that it has recently been revived. |
 | **Era** |  |

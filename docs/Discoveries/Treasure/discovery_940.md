@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Guan-tei poetry bamboo |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A poem written by Guan Yu, a hero of the Three Kingdoms Era, to convey his loyalty to the ruler Liu Bei. 
+| **explanation** | A poem written by Guan Yu, a hero of the Three Kingdoms Era, to convey his loyalty to the ruler Liu Bei.
  It is said that by hiding the text with a picture of bamboo, the text was prevented from being noticed by others. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Mjolnir |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | The war hammer of Thor, the Norse god of thunder. Boasting tremendous destructive power, the only one he could not defeat with a single blow was Jormungandr, Loki's son. 
+| **explanation** | The war hammer of Thor, the Norse god of thunder. Boasting tremendous destructive power, the only one he could not defeat with a single blow was Jormungandr, Loki's son.
  In Northern Europe, Mjolnir is used as a talisman, made into a pendant, and used in rituals. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

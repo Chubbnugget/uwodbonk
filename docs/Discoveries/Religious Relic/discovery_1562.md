@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Bronze statue of Marshal Nakadan |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The pronunciation is ``Chudangensui no Gogo.'' A statue of a boy god worshiped in Taoism. It was delivered to Taipei. 
+| **explanation** | The pronunciation is ``Chudangensui no Gogo.'' A statue of a boy god worshiped in Taoism. It was delivered to Taipei.
  Marshal Nakadan is also called Prince Nata, and is depicted as fighting with a cloth containing magical power and a spear that emits fire. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

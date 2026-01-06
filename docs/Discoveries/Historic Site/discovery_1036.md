@@ -15,9 +15,7 @@ category: Historic Site
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 1200 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | ceremonial place 
-
-
+| **Remarks** | ceremonial place
 
  Discovery Experience 1200 Discovery Name Card Experience 600 |
 | **最終更新** | 2016-05-03 10:05:24 Gainor |

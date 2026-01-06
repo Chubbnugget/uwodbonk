@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Buen Jesús |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Captain Francisco de Ibarra's ship, one of the Spanish New World trading ships. 
+| **explanation** | Captain Francisco de Ibarra's ship, one of the Spanish New World trading ships.
  She was attacked and sunk by Admiral Oliver van Noort of the Netherlands Navy off the coast of Valparaiso. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

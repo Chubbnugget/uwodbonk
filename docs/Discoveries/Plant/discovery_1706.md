@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Hypericum perforatum |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant that grows naturally in the grasslands and mountains of East Asia, and blooms with yellow flowers in summer. 
+| **explanation** | A plant that grows naturally in the grasslands and mountains of East Asia, and blooms with yellow flowers in summer.
  Eating the leaves and then exposing them to sunlight can cause dermatitis. Generally, it is often used as a herbal medicine or wound medicine. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

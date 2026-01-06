@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | 太平青領書 |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the Taoist scriptures. From what Zhang Jiao obtained, it became the scripture of the Taiping Dao that he created. 
+| **explanation** | One of the Taoist scriptures. From what Zhang Jiao obtained, it became the scripture of the Taiping Dao that he created.
  Also known as the Taiping Ching. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

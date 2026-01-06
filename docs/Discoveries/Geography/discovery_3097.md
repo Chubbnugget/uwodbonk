@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Cape Chelyuskin |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | The northernmost cape of the Eurasian continent. 
+| **explanation** | The northernmost cape of the Eurasian continent.
 
  It will be an important navigational landmark on the Northeast Passage. |
 | **Era** |  |

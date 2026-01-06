@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 300 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Nearby fishing grounds” 
+| **Remarks** | Quest “Nearby fishing grounds”
 
  Discovery Name Card: 150 |
 | **最終更新** | 2022-11-06 11:02:42 Sakon. |

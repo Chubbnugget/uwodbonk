@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Santa Maria |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | Nao served as the flagship on explorer Cristobal Colon's first voyage. 
+| **explanation** | Nao served as the flagship on explorer Cristobal Colon's first voyage.
  After crossing the Atlantic Ocean, on Christmas Eve 1492, the ship ran aground on a reef on the island of Hispaniola and became unable to navigate. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

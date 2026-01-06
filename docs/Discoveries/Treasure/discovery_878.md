@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | 玉璽 |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Gyokuji". A seal used by the emperor, established by the First Emperor. 
+| **explanation** | The reading is "Gyokuji". A seal used by the emperor, established by the First Emperor.
  History books say it was made of jade, but it seems that for some reason it was covered in gold. It is thought to be a traditional jade seal, but it is not certain now. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

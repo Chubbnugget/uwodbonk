@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | hyacinth |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A flowering plant native to West Asia. Cultivated in Ottoman Türkiye. 
+| **explanation** | A flowering plant native to West Asia. Cultivated in Ottoman Türkiye.
 
  In Greek mythology, it is said that he was born from the blood of Hyacinthos, a beautiful young man who was favored by Apollo. |
 | **Era** |  |

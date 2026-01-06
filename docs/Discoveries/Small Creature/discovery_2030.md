@@ -10,7 +10,7 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | civet rat |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A rat that is distributed over a wide area, including Taiwan Island and China. They live in urban areas and agricultural areas. 
+| **explanation** | A rat that is distributed over a wide area, including Taiwan Island and China. They live in urban areas and agricultural areas.
  The offspring can be seen moving in tandem, holding their parent's tail or the tail of another offspring in their mouths. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

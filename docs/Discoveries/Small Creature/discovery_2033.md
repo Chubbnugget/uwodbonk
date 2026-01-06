@@ -10,7 +10,7 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | solenodon |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A nocturnal animal that lives in the tropical rainforests of the Caribbean, such as Haiti. 
+| **explanation** | A nocturnal animal that lives in the tropical rainforests of the Caribbean, such as Haiti.
  Its body length is about 30cm, and its distinctive feature is a long, slender snout. They insert their noses into narrow spaces and catch prey such as insects. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

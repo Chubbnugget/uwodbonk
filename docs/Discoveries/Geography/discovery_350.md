@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Mt Nana Loud |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A mountain located almost in the center of Pohnpei Island. 
+| **explanation** | A mountain located almost in the center of Pohnpei Island.
  At an altitude of about 800m, it is the highest on Pohnpei Island. There seem to be many waterfalls as well. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

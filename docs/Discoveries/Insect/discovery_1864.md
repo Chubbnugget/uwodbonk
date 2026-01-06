@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | paraponella |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | An ant with a body length of 3 cm. They live in groups, but because of their large size, they move alone. It has a powerful venom and its sting can be fatal. 
+| **explanation** | An ant with a body length of 3 cm. They live in groups, but because of their large size, they move alone. It has a powerful venom and its sting can be fatal.
  As a single insect, it is considered the strongest among insects. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

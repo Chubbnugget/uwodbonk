@@ -15,7 +15,7 @@ category: Historical Relics
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 363 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Origin of Manchester" 
+| **Remarks** | Quest "Origin of Manchester"
 
  Discovery Name Card:330 |
 | **最終更新** | 2022-12-02 20:28:27 Sakon. |

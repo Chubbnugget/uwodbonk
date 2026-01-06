@@ -15,7 +15,7 @@ category: Historic Site
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 630 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “The Ruined Dynasty” 
+| **Remarks** | Quest “The Ruined Dynasty”
 
  Discovery Name Card:315 |
 | **最終更新** | 2022-11-29 12:55:10 Sakon. |

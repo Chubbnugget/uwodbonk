@@ -15,7 +15,7 @@ category: Artwork
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | 160 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Nude paintings based on myths” 
+| **Remarks** | Quest “Nude paintings based on myths”
 
  Discovery Name Card:80 |
 | **最終更新** | 2022-11-23 16:12:58 Sakon. |

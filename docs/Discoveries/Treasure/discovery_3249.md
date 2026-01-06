@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Military history of Procopius |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A work by Procopius, a secretary who served Belisarius, a famous general of the Eastern Roman Empire. 
+| **explanation** | A work by Procopius, a secretary who served Belisarius, a famous general of the Eastern Roman Empire.
 
  It describes the reign of Justinian I, the emperor at the time, the greatness of Empress Theodora, and Belisarius's activities as a military commander. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Red-crowned crane |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A bird that lives in the wetlands of East Asia. Some overwinter near human settlements. 
+| **explanation** | A bird that lives in the wetlands of East Asia. Some overwinter near human settlements.
  The two colors of black and red stand out on its slender white body. Its elegant appearance can often be seen in Oriental art. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

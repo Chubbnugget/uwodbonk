@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Ryukyu |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | Islands including the main island of Okinawa. It is under the rule of the Ryukyu King. 
+| **explanation** | Islands including the main island of Okinawa. It is under the rule of the Ryukyu King.
  It is a place where there are exchanges with China and Japan, and ships frequently come and go. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

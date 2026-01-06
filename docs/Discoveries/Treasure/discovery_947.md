@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | 風信帖 |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Fusinjo". A letter sent by Kukai to Saicho. 
+| **explanation** | The reading is "Fusinjo". A letter sent by Kukai to Saicho.
  It is a famous Chinese style calligraphy that remains in Japan. Kukai was also famous as a calligrapher, and this letter is said to be his masterpiece. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

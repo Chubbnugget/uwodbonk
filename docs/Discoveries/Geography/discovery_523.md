@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | 長江 |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A great river flowing through northern Hangzhou that has been used as a central transportation route since ancient times. Rice cultivation is popular in this basin. 
+| **explanation** | A great river flowing through northern Hangzhou that has been used as a central transportation route since ancient times. Rice cultivation is popular in this basin.
  The lower reaches are also called the "Yangtze River." |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

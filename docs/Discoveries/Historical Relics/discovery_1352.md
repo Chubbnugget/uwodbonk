@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Lord |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "shaku". A sake vessel from the Shang Zhou era, which was also used as a ritual vessel. The three legs are said to represent heaven, earth, and god. 
+| **explanation** | The reading is "shaku". A sake vessel from the Shang Zhou era, which was also used as a ritual vessel. The three legs are said to represent heaven, earth, and god.
  A strange beast called Toutetsu is depicted on this lord. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

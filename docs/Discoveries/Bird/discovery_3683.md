@@ -15,9 +15,7 @@ category: Bird
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | pursuit quest 
-
-
+| **Remarks** | pursuit quest
 
 Looking at the log, it looks like a Congo peacock, so I replaced it.
 

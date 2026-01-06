@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | willow catfish |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A rare catfish that lives in mountain streams in Korea. 
+| **explanation** | A rare catfish that lives in mountain streams in Korea.
  Locally, it is called ``Sanmegi,'' which means mountain catfish. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

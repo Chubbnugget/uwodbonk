@@ -15,7 +15,7 @@ category: Historical Relics
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | 150 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Viking Country” 
+| **Remarks** | Quest “Viking Country”
 
  Discovery Name Card 75 |
 | **最終更新** | 2022-11-07 23:18:25 Sakon. |

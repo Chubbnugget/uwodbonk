@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Bei Nanlu |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the rivers that flows through the eastern part of Taiwan. 
+| **explanation** | One of the rivers that flows through the eastern part of Taiwan.
 Beinan refers to the head of the indigenous Beinan people.
  It is also called ``Little Yellow Mountain'' because the intricately carved river topography resembles China's Yellow Mountain. |
 | **Era** |  |

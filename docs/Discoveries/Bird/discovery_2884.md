@@ -15,9 +15,7 @@ category: Bird
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 140 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | hawaii bird map 
-
-
+| **Remarks** | hawaii bird map
 
  Discovery Experience 140 Discovery Name Card Experience 70 Cultural Contribution 20 |
 | **最終更新** | 2022-08-26 13:55:38 Maeda |

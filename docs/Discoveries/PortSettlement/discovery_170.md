@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | rome |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Italy's largest capital, which has existed since BC. 
+| **explanation** | Italy's largest capital, which has existed since BC.
 The city has gone through many changes over its long history, from a monarchy to a republic to an empire, and there are various ruins throughout the city.
  The Colosseum is one of those ruins. |
 | **Era** |  |

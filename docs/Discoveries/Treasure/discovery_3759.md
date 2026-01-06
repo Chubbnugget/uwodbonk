@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | flame drum |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A pair of large drums on the left and right used in gagaku. 
+| **explanation** | A pair of large drums on the left and right used in gagaku.
 
  Each one is decorated with carvings of dragons and phoenixes. The one that is said to have been donated by Yoritomo, the first shogun of the Kamakura shogunate, is famous. |
 | **Era** |  |

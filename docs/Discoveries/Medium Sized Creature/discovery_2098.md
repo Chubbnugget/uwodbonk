@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | argali |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A large sheep with a body length of around 120cm that lives mainly in highland areas, mainly in China. 
+| **explanation** | A large sheep with a body length of around 120cm that lives mainly in highland areas, mainly in China.
  Both sexes have horns, and the male's horns can grow to over 1 meter in length. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

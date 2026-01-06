@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | old scales |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | The scales of the sun god Ra. 
+| **explanation** | The scales of the sun god Ra.
  According to the ancient Egyptian Book of the Dead, it was used by Anubis to weigh the sins of the dead and determine the fate of their souls. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Fossils
 | **Discovery Type** | Fossils |
 | **Discovery Name** | stone with plant pattern |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A stone with strange patterns and undulations. They look like leaves of a fern plant... 
+| **explanation** | A stone with strange patterns and undulations. They look like leaves of a fern plant...
  Could ancient plants have been petrified? |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

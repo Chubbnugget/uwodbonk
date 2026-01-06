@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 1250 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Pearls produced by conch shells 
-
-
+| **Remarks** | Pearls produced by conch shells
 
  Discovery Experience1250 Discovery Name Card Experience625 |
 | **最終更新** | 2016-07-02 10:43:50 Gainor |

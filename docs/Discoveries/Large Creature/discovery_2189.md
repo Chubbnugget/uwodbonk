@@ -15,9 +15,7 @@ category: Large Creature
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 467 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | movement of the earth 
-
-
+| **Remarks** | movement of the earth
 
  Discovery Experience 467 Discovery Name Card Experience 233 |
 | **最終更新** | 2016-05-13 23:33:29 Gainor |

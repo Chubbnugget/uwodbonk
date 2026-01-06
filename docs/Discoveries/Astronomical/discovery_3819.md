@@ -10,7 +10,7 @@ category: Astronomical
 | **Discovery Type** | Astronomical |
 | **Discovery Name** | Answer |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | The brightest Stars in the constellation Little Bitis. Where the fox's head is 
+| **explanation** | The brightest Stars in the constellation Little Bitis. Where the fox's head is
 
 The name means goose in Latin. This is wako
 

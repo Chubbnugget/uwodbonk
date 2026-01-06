@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 270 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Ancient Greek Bard" 
+| **Remarks** | Quest "Ancient Greek Bard"
 
  Discovery Name Card:135 |
 | **最終更新** | 2022-11-30 09:30:58 Passing navigator @guest |

@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Kukai's shakujo |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Kuukai no Rakujo". A staff owned by Kukai, a Japanese Buddhist monk. 
+| **explanation** | The reading is "Kuukai no Rakujo". A staff owned by Kukai, a Japanese Buddhist monk.
  When shaken, the rings at the top touch each other and make noise. This sound is said to have various effects, such as erasing earthly desires. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

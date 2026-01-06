@@ -15,9 +15,7 @@ category: Plant
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 270 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | flame flower 
-
-
+| **Remarks** | flame flower
 
  Discovery Experience 270 Discovery Name Card Experience 135 |
 | **最終更新** | 2016-07-08 11:31:23 Gainor |

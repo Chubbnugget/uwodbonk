@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 1290 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Ice Land" 
+| **Remarks** | Quest "Ice Land"
 
  Discovery Name Card:645 |
 | **最終更新** | 2022-11-28 22:24:55 Passing navigator @guest |

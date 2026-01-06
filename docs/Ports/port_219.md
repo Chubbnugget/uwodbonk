@@ -3,7 +3,6 @@ id: 219
 name: manama
 type: Port
 ---
-
 # Port: マナーマ
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 A city in the northeast of Bahrain Island, located in the Persian Gulf. Because of its location, it flourished as a hub for maritime transportation. Pearls harvested from nearby waters are of extremely high quality and are prized even in Europe. Cultural area: Persia
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
@@ -85,20 +83,19 @@ A city in the northeast of Bahrain Island, located in the Persian Gulf. Because 
 
 #### [Equipment (body)](Categories/category_24.md)
 
-| [persian dress](Items/Equipment/Equipment-Body/item_1372.md) | [Equipment (body)](Categories/category_24.md) | 138,600 | tool shop owner |  |
+| [persian dress](Items/Equipment/Equipment-Body/item_1372.md) | Equipment (body) | 138,600 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [numbness medicine](Items/Consumables/Consumables-Landbattle/item_452.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 500 | tool shop owner |  |
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 200 | tool shop owner |  |
-| [hellfire torch](Items/Consumables/Consumables-Landbattle/item_233.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | tool shop owner |  |
+| [numbness medicine](Items/Consumables/Consumables-Landbattle/item_452.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
+| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [hellfire torch](Items/Consumables/Consumables-Landbattle/item_233.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
 
 #### [Consumables (naval/hand-to-hand combat)](Categories/category_30.md)
 
-| [strange smell](Items/Consumables/Consumables-navalhand-to-hand combat/item_809.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) | 3,000 | tool shop owner |  |
+| [strange smell](Items/Consumables/Consumables-navalhand-to-hand combat/item_809.md) | Consumables (naval/hand-to-hand combat) | 3,000 | tool shop owner |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
-
 
 ### Shipwright
 
@@ -107,10 +104,10 @@ A city in the northeast of Bahrain Island, located in the Persian Gulf. Because 
 
 #### [recipe book](Categories/category_22.md)
 
-| [Shipbuilding materials and ropes](Items/Recipe Book/item_1761.md) | [recipe book](Categories/category_22.md) | Fixed recipe | Shipwright |  |
+| [Shipbuilding materials and ropes](Items/Recipe Book/item_1761.md) | recipe book | Fixed recipe | Shipwright |  |
 
 #### [shipbuilding materials](Categories/category_47.md)
 
-| [舫綱](Items/Shipbuilding FS Material/item_1762.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipwright |  |
+| [舫綱](Items/Shipbuilding FS Material/item_1762.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
   </TabItem>
 </Tabs>

@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 140 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Unfinished map" 
+| **Remarks** | "Unfinished map"
 
  Discovery Name Card:70 |
 | **最終更新** | 2022-12-22 08:26:27 Sakon. |

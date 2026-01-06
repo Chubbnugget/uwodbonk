@@ -15,9 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 820 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | two names of warriors 
-
-
+| **Remarks** | two names of warriors
 
  Discovery Experience 820 Discovery Name Card Experience 410 |
 | **最終更新** | 2016-05-07 19:49:59 Gainor |

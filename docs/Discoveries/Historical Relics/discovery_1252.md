@@ -15,9 +15,7 @@ category: Historical Relics
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 780 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Roland's horn 
-
-
+| **Remarks** | Roland's horn
 
  Discovery Experience780 Discovery Name Card Experience390 |
 | **最終更新** | 2016-06-12 10:44:26 Gainor |

@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | cameroon mountain |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A volcano on the coast of central Africa. 
+| **explanation** | A volcano on the coast of central Africa.
 
 In BC, the Carthaginian navigator Hanno
 
@@ -19,9 +19,7 @@ In BC, the Carthaginian navigator Hanno
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 380 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | volcanic record 
-
-
+| **Remarks** | volcanic record
 
  Discovery Experience 380 Discovery Name Card Experience 190 |
 | **最終更新** | 2016-06-09 10:42:53 Gainor |

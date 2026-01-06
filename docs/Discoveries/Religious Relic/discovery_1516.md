@@ -15,9 +15,7 @@ category: Religious Relic
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 280 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | The monkey god who helps Rama 
-
-
+| **Remarks** | The monkey god who helps Rama
 
  Discovery Experience 280 Discovery Name Card Experience 140 |
 | **最終更新** | 2022-04-21 12:06:35 Mifuyu |

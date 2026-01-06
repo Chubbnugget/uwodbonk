@@ -15,7 +15,7 @@ category: Artwork
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | 1 (Rank of skills required for discovery) |
 | **Experience** | 65 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Twelve Tapestries” 
+| **Remarks** | Quest “Twelve Tapestries”
 
  Discovery Name Card:30 |
 | **最終更新** | 2022-11-23 18:48:28 Sakon. |

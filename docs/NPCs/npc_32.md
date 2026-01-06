@@ -3,47 +3,40 @@ id: 32
 name: peddler
 type: NPC
 ---
-
 # NPC: 行商人
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | peddler |  
-| **Notes** | Intermediate the purchase and sale of consumables. |  
-| **Last Updated** | 2006-09-02 09:00:00 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | peddler |
+| **Notes** | Intermediate the purchase and sale of consumables. |
+| **Last Updated** | 2006-09-02 09:00:00 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | peddler |  
-| **Notes** | Intermediate the purchase and sale of consumables. |  
-| **Last Updated** | 2006-09-02 09:00:00 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | peddler |
+| **Notes** | Intermediate the purchase and sale of consumables. |
+| **Last Updated** | 2006-09-02 09:00:00 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Agni's Firestick](Items/Consumables/Consumables-Landbattle/item_1737.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) |  | [Tenochtitlan](Ports/port_148.md) [Cape](Ports/port_37.md) [Luanda](Ports/port_77.md) [Santo Domingo](Ports/port_33.md) [Cairo](Ports/port_67.md) [Alexandria](Ports/port_63.md) [Havana](Ports/port_88.md) |
 | [Javelin](Items/Consumables/Consumables-Landbattle/item_1515.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) |  | [Genoa](Ports/port_11.md) [Sofala](Ports/port_71.md) [Candia](Ports/port_79.md) [Tenochtitlan](Ports/port_148.md) [Pisa](Ports/port_15.md) [Athens](Ports/port_28.md) |
 | [Javelin](Items/Consumables/Consumables-Landbattle/item_1515.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | [Zanzibar](Ports/port_38.md) |
@@ -79,8 +72,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Agni's Firestick](Items/Consumables/Consumables-Landbattle/item_1737.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) |  | [Tenochtitlan](Ports/port_148.md) [Cape](Ports/port_37.md) [Luanda](Ports/port_77.md) [Santo Domingo](Ports/port_33.md) [Cairo](Ports/port_67.md) [Alexandria](Ports/port_63.md) [Havana](Ports/port_88.md) |
 | [Javelin](Items/Consumables/Consumables-Landbattle/item_1515.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) |  | [Genoa](Ports/port_11.md) [Sofala](Ports/port_71.md) [Candia](Ports/port_79.md) [Tenochtitlan](Ports/port_148.md) [Pisa](Ports/port_15.md) [Athens](Ports/port_28.md) |
 | [Javelin](Items/Consumables/Consumables-Landbattle/item_1515.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | [Zanzibar](Ports/port_38.md) |

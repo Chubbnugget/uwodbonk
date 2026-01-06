@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Magatama of Requiem |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Tamashizume no Magatama". A special magatama used by Japanese Onmyoji in rituals. 
+| **explanation** | The reading is "Tamashizume no Magatama". A special magatama used by Japanese Onmyoji in rituals.
  In Japanese Shintoism, requiem seems to refer to the act of keeping the unstable souls of the living attached to their bodies. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

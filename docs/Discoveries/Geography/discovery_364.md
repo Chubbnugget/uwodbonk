@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | bass strait |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Strait between the Australian continent and the island of Tasmania. Due to its narrow width and shallow water depth, it is known as a difficult spot for ships. 
+| **explanation** | Strait between the Australian continent and the island of Tasmania. Due to its narrow width and shallow water depth, it is known as a difficult spot for ships.
  Indigenous Australians have passed down the story of how this strait was formed through folklore. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

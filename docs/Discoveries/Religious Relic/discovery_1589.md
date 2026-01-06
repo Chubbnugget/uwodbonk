@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | 媽祖像 |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Masozo". A statue of a Taoist goddess, worshiped as the guardian of navigation and fishing. 
+| **explanation** | The reading is "Masozo". A statue of a Taoist goddess, worshiped as the guardian of navigation and fishing.
 
  It is said that when immigrants from the mainland arrived on the island of Taiwan, they thanked Mazu, and she is widely believed. |
 | **Era** |  |

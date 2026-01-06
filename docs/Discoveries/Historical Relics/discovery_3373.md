@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | carafe |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A type of animal skin ship that has been passed down to Ireland since ancient times, and is also described in the works of Caesar and Pliny. The hull is covered with leather made from oak bark and coated with tallow. 
+| **explanation** | A type of animal skin ship that has been passed down to Ireland since ancient times, and is also described in the works of Caesar and Pliny. The hull is covered with leather made from oak bark and coated with tallow.
 
  One theory is that the same type of ship was used on Brendan's voyage. |
 | **Era** |  |

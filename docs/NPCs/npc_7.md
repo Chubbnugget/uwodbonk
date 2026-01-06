@@ -3,49 +3,42 @@ id: 7
 name: workshop craftsman
 type: NPC
 ---
-
 # NPC: 工房職人
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | workshop craftsman |  
-| **Notes** | A craftsman who creates consumables necessary for voyages. 
- Each town carries different products. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | workshop craftsman |
+| **Notes** | A craftsman who creates consumables necessary for voyages.
+ Each town carries different products. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | workshop craftsman |  
-| **Notes** | A craftsman who creates consumables necessary for voyages. 
- Each town carries different products. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | workshop craftsman |
+| **Notes** | A craftsman who creates consumables necessary for voyages.
+ Each town carries different products. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Blessings of the Andes](Items/Consumables/Consumables-Cooking/item_3136.md) | [Consumables (cooking)](Categories/category_32.md) | 50,000 | [Lima](Ports/port_162.md) |
 | [Islamic wardrobe](Items/Furniture/item_2792.md) | [Furniture](Categories/category_48.md) | Fixed recipe | [Trebizont](Ports/port_82.md) [Jaffa](Ports/port_64.md) |
 | [Indian weapon manufacturing method](Items/Recipe Book/item_5453.md) | [Recipe book](Categories/category_22.md) | Fixed recipe | [Calcutta](Ports/port_93.md) |
@@ -196,8 +189,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Blessings of the Andes](Items/Consumables/Consumables-Cooking/item_3136.md) | [Consumables (cooking)](Categories/category_32.md) | 50,000 | [Lima](Ports/port_162.md) |
 | [Islamic wardrobe](Items/Furniture/item_2792.md) | [Furniture](Categories/category_48.md) | Fixed recipe | [Trebizont](Ports/port_82.md) [Jaffa](Ports/port_64.md) |
 | [Indian weapon manufacturing method](Items/Recipe Book/item_5453.md) | [Recipe book](Categories/category_22.md) | Fixed recipe | [Calcutta](Ports/port_93.md) |

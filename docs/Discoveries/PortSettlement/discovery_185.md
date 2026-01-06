@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | Busan |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Busan". 
+| **explanation** | The reading is "Busan".
  Originally a fishing village, it developed into a trading base. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

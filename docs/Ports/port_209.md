@@ -3,7 +3,6 @@ id: 209
 name: rotterdam
 type: Port
 ---
-
 # Port: ロッテルダム
 
 import Tabs from '@theme/Tabs';
@@ -38,7 +37,6 @@ import TabItem from '@theme/TabItem';
 ### Description
 A city facing the North Sea. It is located at the point where several rivers, including the Rhine, flow into the North Sea. It developed as a port city from around the 16th century and has become a key point in Atlantic trade. Cultural area: Low Countries
 
-
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
@@ -62,11 +60,11 @@ A city facing the North Sea. It is located at the point where several rivers, in
 
 #### [交易品（酒類）](Categories/category_9.md)
 
-| [Andong soju](Items/Trade Goods/TradeGoods-Alcohol/item_3757.md) | [交易品（酒類）](Categories/category_9.md) | 32,500 | 37,700 |  |
+| [Andong soju](Items/Trade Goods/TradeGoods-Alcohol/item_3757.md) | 交易品（酒類） | 32,500 | 37,700 |  |
 
 #### [交易品（美術品）](Categories/category_14.md)
 
-| [oil painting](Items/Trade Goods/TradeGoods-Art/item_1088.md) | [交易品（美術品）](Categories/category_14.md) | (2,280) | 2,660 |  |
+| [oil painting](Items/Trade Goods/TradeGoods-Art/item_1088.md) | 交易品（美術品） | (2,280) | 2,660 |  |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
@@ -75,7 +73,7 @@ A city facing the North Sea. It is located at the point where several rivers, in
 
 #### [Trading Items (Firearms)](Categories/category_17.md)
 
-| [cannonball](Items/Trade Goods/TradeGoods-Firearms/item_144.md) | [Trading Items (Firearms)](Categories/category_17.md) | (1,552) | 1,810 |  |
+| [cannonball](Items/Trade Goods/TradeGoods-Firearms/item_144.md) | Trading Items (Firearms) | (1,552) | 1,810 |  |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
@@ -91,25 +89,25 @@ A city facing the North Sea. It is located at the point where several rivers, in
 
 #### [recipe book](Categories/category_22.md)
 
-| [Mode Design Collection Volume 1](Items/Recipe Book/item_92.md) | [recipe book](Categories/category_22.md) | 10,000 | tool shop owner |  |
-| [Sword training/application](Items/Recipe Book/item_589.md) | [recipe book](Categories/category_22.md) | 50,000 | tool shop owner |  |
-| [Textile secrets/fabric book](Items/Recipe Book/item_91.md) | [recipe book](Categories/category_22.md) | 10,000 | tool shop owner |  |
+| [Mode Design Collection Volume 1](Items/Recipe Book/item_92.md) | recipe book | 10,000 | tool shop owner |  |
+| [Sword training/application](Items/Recipe Book/item_589.md) | recipe book | 50,000 | tool shop owner |  |
+| [Textile secrets/fabric book](Items/Recipe Book/item_91.md) | recipe book | 10,000 | tool shop owner |  |
 
 #### [Equipment (belongings)](Categories/category_27.md)
 
-| [flintlock pistol](Items/Equipment/Equipment-Weapon/item_5122.md) | [Equipment (belongings)](Categories/category_27.md) | 3,000 | tool shop owner |  |
+| [flintlock pistol](Items/Equipment/Equipment-Weapon/item_5122.md) | Equipment (belongings) | 3,000 | tool shop owner |  |
 | 要投資（必要投資額：180,000） |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [black kite feather](Items/Consumables/Consumables-Landbattle/item_88.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 100 | tool shop owner |  |
-| [Assortment of wound medicine](Items/Consumables/Consumables-Landbattle/item_90.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 500 | tool shop owner |  |
-| [therapeutic drug](Items/Consumables/Consumables-Landbattle/item_89.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | tool shop owner |  |
-| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 100 | tool shop owner |  |
+| [black kite feather](Items/Consumables/Consumables-Landbattle/item_88.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
+| [Assortment of wound medicine](Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
+| [therapeutic drug](Items/Consumables/Consumables-Landbattle/item_89.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
 
 #### [Consumables (other)](Categories/category_44.md)
 
-| [fossil fuel](Items/Consumables/Consumables-Other/item_5425.md) | [Consumables (other)](Categories/category_44.md) | 100,000 | tool shop owner |  |
+| [fossil fuel](Items/Consumables/Consumables-Other/item_5425.md) | Consumables (other) | 100,000 | tool shop owner |  |
   </TabItem>
   <TabItem value="production factory" label="production factory">
 
@@ -118,10 +116,10 @@ A city facing the North Sea. It is located at the point where several rivers, in
 
 #### [recipe book](Categories/category_22.md)
 
-| [Production technology book/storage application edition (canning machine)](Items/Recipe Book/item_5149.md) | [recipe book](Categories/category_22.md) | Fixed recipe | production factory |  |
-| [Production technology book/Craft application edition (printing machine)](Items/Recipe Book/item_5147.md) | [recipe book](Categories/category_22.md) | Fixed recipe | production factory |  |
-| [Production technology book/Sewing application edition (loom)](Items/Recipe Book/item_5145.md) | [recipe book](Categories/category_22.md) | Fixed recipe | production factory |  |
-| [Production technology book/Cooking application edition (cooking table)](Items/Recipe Book/item_5150.md) | [recipe book](Categories/category_22.md) | Fixed recipe | production factory |  |
-| [Production technology book/casting application edition (blast furnace)](Items/Recipe Book/item_5148.md) | [recipe book](Categories/category_22.md) | Fixed recipe | production factory |  |
+| [Production technology book/storage application edition (canning machine)](Items/Recipe Book/item_5149.md) | recipe book | Fixed recipe | production factory |  |
+| [Production technology book/Craft application edition (printing machine)](Items/Recipe Book/item_5147.md) | recipe book | Fixed recipe | production factory |  |
+| [Production technology book/Sewing application edition (loom)](Items/Recipe Book/item_5145.md) | recipe book | Fixed recipe | production factory |  |
+| [Production technology book/Cooking application edition (cooking table)](Items/Recipe Book/item_5150.md) | recipe book | Fixed recipe | production factory |  |
+| [Production technology book/casting application edition (blast furnace)](Items/Recipe Book/item_5148.md) | recipe book | Fixed recipe | production factory |  |
   </TabItem>
 </Tabs>

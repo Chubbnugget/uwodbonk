@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 780 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | 2017.02.07 New addition 
+| **Remarks** | 2017.02.07 New addition
 
 In visibility R9, a message appeared saying "Skill Rank is insufficient to discover." Found in R11.
 

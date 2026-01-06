@@ -3,7 +3,6 @@ id: 208
 name: Le Havre
 type: Port
 ---
-
 # Port: ルアーブル
 
 import Tabs from '@theme/Tabs';
@@ -38,7 +37,6 @@ import TabItem from '@theme/TabItem';
 ### Description
 A port city in northern France. Located at the mouth of the Seine River. It thrives on trade. Industrial Revolution City I don't know the exact amount because it was a MAX investment.
 
-
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
@@ -62,28 +60,28 @@ A port city in northern France. Located at the mouth of the Seine River. It thri
 
 #### [交易品（調味料）](Categories/category_4.md)
 
-| [Choshi](Items/Trade Goods/TradeGoods-Seasonings/item_3793.md) | [交易品（調味料）](Categories/category_4.md) | (22,370) | 26,102 |  |
-| [Bean sauce](Items/Trade Goods/TradeGoods-Seasonings/item_3875.md) | [交易品（調味料）](Categories/category_4.md) | (24,981) | 29,149 |  |
-| [soy sauce](Items/Trade Goods/TradeGoods-Seasonings/item_3425.md) | [交易品（調味料）](Categories/category_4.md) | (25,794) | 30,097 |  |
+| [Choshi](Items/Trade Goods/TradeGoods-Seasonings/item_3793.md) | 交易品（調味料） | (22,370) | 26,102 |  |
+| [Bean sauce](Items/Trade Goods/TradeGoods-Seasonings/item_3875.md) | 交易品（調味料） | (24,981) | 29,149 |  |
+| [soy sauce](Items/Trade Goods/TradeGoods-Seasonings/item_3425.md) | 交易品（調味料） | (25,794) | 30,097 |  |
 
 #### [交易品（酒類）](Categories/category_9.md)
 
-| [Taiwan rice wine](Items/Trade Goods/TradeGoods-Alcohol/item_3672.md) | [交易品（酒類）](Categories/category_9.md) | (22,779) | 26,579 |  |
+| [Taiwan rice wine](Items/Trade Goods/TradeGoods-Alcohol/item_3672.md) | 交易品（酒類） | (22,779) | 26,579 |  |
 
 #### [Trading goods (hobby goods)](Categories/category_10.md)
 
-| [walnut](Items/Trade Goods/TradeGoods-Sunddries/item_522.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (606) | 707 |  |
-| [blueberry](Items/Trade Goods/TradeGoods-Sunddries/item_4657.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (1,116) | 1,302 |  |
-| [prune](Items/Trade Goods/TradeGoods-Sunddries/item_523.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (371) | 432 |  |
-| [raspberry](Items/Trade Goods/TradeGoods-Sunddries/item_4658.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (922) | 1,075 |  |
+| [walnut](Items/Trade Goods/TradeGoods-Sunddries/item_522.md) | Trading goods (hobby goods) | (606) | 707 |  |
+| [blueberry](Items/Trade Goods/TradeGoods-Sunddries/item_4657.md) | Trading goods (hobby goods) | (1,116) | 1,302 |  |
+| [prune](Items/Trade Goods/TradeGoods-Sunddries/item_523.md) | Trading goods (hobby goods) | (371) | 432 |  |
+| [raspberry](Items/Trade Goods/TradeGoods-Sunddries/item_4658.md) | Trading goods (hobby goods) | (922) | 1,075 |  |
 
 #### [Trading goods (artificial goods)](Categories/category_13.md)
 
-| [glasswork](Items/Trade Goods/TradeGoods-Luxuries/item_60.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (1,733) | 2,022 |  |
+| [glasswork](Items/Trade Goods/TradeGoods-Luxuries/item_60.md) | Trading goods (artificial goods) | (1,733) | 2,022 |  |
 
 #### [Trading Items (Firearms)](Categories/category_17.md)
 
-| [tanegashima gun](Items/Trade Goods/TradeGoods-Firearms/item_3423.md) | [Trading Items (Firearms)](Categories/category_17.md) | (23,415) | 27,322 |  |
+| [tanegashima gun](Items/Trade Goods/TradeGoods-Firearms/item_3423.md) | Trading Items (Firearms) | (23,415) | 27,322 |  |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
@@ -92,38 +90,38 @@ A port city in northern France. Located at the mouth of the Seine River. It thri
 
 #### [Trading items (food items)](Categories/category_3.md)
 
-| [duck meat](Items/Trade Goods/TradeGoods-Foodstuffs/item_32.md) | [Trading items (food items)](Categories/category_3.md) | (393) | 458 |  |
+| [duck meat](Items/Trade Goods/TradeGoods-Foodstuffs/item_32.md) | Trading items (food items) | (393) | 458 |  |
 
 #### [交易品（調味料）](Categories/category_4.md)
 
-| [Honey](Items/Trade Goods/TradeGoods-Seasonings/item_49.md) | [交易品（調味料）](Categories/category_4.md) | (908) | 1,059 |  |
+| [Honey](Items/Trade Goods/TradeGoods-Seasonings/item_49.md) | 交易品（調味料） | (908) | 1,059 |  |
 
 #### [交易品（酒類）](Categories/category_9.md)
 
-| [brandy](Items/Trade Goods/TradeGoods-Alcohol/item_9.md) | [交易品（酒類）](Categories/category_9.md) | (664) | 774 |  |
+| [brandy](Items/Trade Goods/TradeGoods-Alcohol/item_9.md) | 交易品（酒類） | (664) | 774 |  |
 
 #### [Trading goods (hobby goods)](Categories/category_10.md)
 
-| [pickles](Items/Trade Goods/TradeGoods-Sunddries/item_535.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (288) | 336 |  |
+| [pickles](Items/Trade Goods/TradeGoods-Sunddries/item_535.md) | Trading goods (hobby goods) | (288) | 336 |  |
 
 #### [Trading Goods (Spices)](Categories/category_11.md)
 
-| [rose](Items/Trade Goods/TradeGoods-Perfume/item_536.md) | [Trading Goods (Spices)](Categories/category_11.md) | (2,213) | 2,582 |  |
+| [rose](Items/Trade Goods/TradeGoods-Perfume/item_536.md) | Trading Goods (Spices) | (2,213) | 2,582 |  |
 
 #### [Trading goods (artificial goods)](Categories/category_13.md)
 
-| [lapidary work](Items/Trade Goods/TradeGoods-Luxuries/item_153.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (4,551) | 5,310 |  |
-| [ceramics](Items/Trade Goods/TradeGoods-Luxuries/item_152.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (1,327) | 1,548 |  |
+| [lapidary work](Items/Trade Goods/TradeGoods-Luxuries/item_153.md) | Trading goods (artificial goods) | (4,551) | 5,310 |  |
+| [ceramics](Items/Trade Goods/TradeGoods-Luxuries/item_152.md) | Trading goods (artificial goods) | (1,327) | 1,548 |  |
 
 #### [交易品（美術品）](Categories/category_14.md)
 
-| [marble statue](Items/Trade Goods/TradeGoods-Art/item_50.md) | [交易品（美術品）](Categories/category_14.md) | (2,961) | 3,454 |  |
-| [copperplate print](Items/Trade Goods/TradeGoods-Art/item_1087.md) | [交易品（美術品）](Categories/category_14.md) | (753) | 878 |  |
-| [青銅像](Items/Trade Goods/TradeGoods-Art/item_148.md) | [交易品（美術品）](Categories/category_14.md) | (1,079) | 1,259 |  |
+| [marble statue](Items/Trade Goods/TradeGoods-Art/item_50.md) | 交易品（美術品） | (2,961) | 3,454 |  |
+| [copperplate print](Items/Trade Goods/TradeGoods-Art/item_1087.md) | 交易品（美術品） | (753) | 878 |  |
+| [青銅像](Items/Trade Goods/TradeGoods-Art/item_148.md) | 交易品（美術品） | (1,079) | 1,259 |  |
 
 #### [交易品（織物）](Categories/category_20.md)
 
-| [woolen fabric](Items/Trade Goods/TradeGoods-Fabrics/item_163.md) | [交易品（織物）](Categories/category_20.md) | (921) | 1,074 |  |
+| [woolen fabric](Items/Trade Goods/TradeGoods-Fabrics/item_163.md) | 交易品（織物） | (921) | 1,074 |  |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
@@ -139,25 +137,25 @@ A port city in northern France. Located at the mouth of the Seine River. It thri
 
 #### [recipe book](Categories/category_22.md)
 
-| [Mode Design Collection Volume 1](Items/Recipe Book/item_92.md) | [recipe book](Categories/category_22.md) | 10,000 | tool shop owner |  |
-| [Sword training/application](Items/Recipe Book/item_589.md) | [recipe book](Categories/category_22.md) | 50,000 | tool shop owner |  |
-| [Textile secrets/fabric book](Items/Recipe Book/item_91.md) | [recipe book](Categories/category_22.md) | 10,000 | tool shop owner |  |
+| [Mode Design Collection Volume 1](Items/Recipe Book/item_92.md) | recipe book | 10,000 | tool shop owner |  |
+| [Sword training/application](Items/Recipe Book/item_589.md) | recipe book | 50,000 | tool shop owner |  |
+| [Textile secrets/fabric book](Items/Recipe Book/item_91.md) | recipe book | 10,000 | tool shop owner |  |
 
 #### [Equipment (belongings)](Categories/category_27.md)
 
-| [flintlock pistol](Items/Equipment/Equipment-Weapon/item_5122.md) | [Equipment (belongings)](Categories/category_27.md) | 3,000 | tool shop owner |  |
+| [flintlock pistol](Items/Equipment/Equipment-Weapon/item_5122.md) | Equipment (belongings) | 3,000 | tool shop owner |  |
 | 要投資（必要投資額：180,000） |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [black kite feather](Items/Consumables/Consumables-Landbattle/item_88.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 100 | tool shop owner |  |
-| [Assortment of wound medicine](Items/Consumables/Consumables-Landbattle/item_90.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 500 | tool shop owner |  |
-| [therapeutic drug](Items/Consumables/Consumables-Landbattle/item_89.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | tool shop owner |  |
-| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 100 | tool shop owner |  |
+| [black kite feather](Items/Consumables/Consumables-Landbattle/item_88.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
+| [Assortment of wound medicine](Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
+| [therapeutic drug](Items/Consumables/Consumables-Landbattle/item_89.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
 
 #### [Consumables (other)](Categories/category_44.md)
 
-| [fossil fuel](Items/Consumables/Consumables-Other/item_5425.md) | [Consumables (other)](Categories/category_44.md) | 100,000 | tool shop owner |  |
+| [fossil fuel](Items/Consumables/Consumables-Other/item_5425.md) | Consumables (other) | 100,000 | tool shop owner |  |
   </TabItem>
   <TabItem value="production factory" label="production factory">
 
@@ -166,10 +164,10 @@ A port city in northern France. Located at the mouth of the Seine River. It thri
 
 #### [recipe book](Categories/category_22.md)
 
-| [Production technology book/storage application edition (canning machine)](Items/Recipe Book/item_5149.md) | [recipe book](Categories/category_22.md) | Fixed recipe | production factory |  |
-| [Production technology book/Craft application edition (printing machine)](Items/Recipe Book/item_5147.md) | [recipe book](Categories/category_22.md) | Fixed recipe | production factory |  |
-| [Production technology book/Sewing application edition (loom)](Items/Recipe Book/item_5145.md) | [recipe book](Categories/category_22.md) | Fixed recipe | production factory |  |
-| [Production technology book/Cooking application edition (cooking table)](Items/Recipe Book/item_5150.md) | [recipe book](Categories/category_22.md) | Fixed recipe | production factory |  |
-| [Production technology book/casting application edition (blast furnace)](Items/Recipe Book/item_5148.md) | [recipe book](Categories/category_22.md) | Fixed recipe | production factory |  |
+| [Production technology book/storage application edition (canning machine)](Items/Recipe Book/item_5149.md) | recipe book | Fixed recipe | production factory |  |
+| [Production technology book/Craft application edition (printing machine)](Items/Recipe Book/item_5147.md) | recipe book | Fixed recipe | production factory |  |
+| [Production technology book/Sewing application edition (loom)](Items/Recipe Book/item_5145.md) | recipe book | Fixed recipe | production factory |  |
+| [Production technology book/Cooking application edition (cooking table)](Items/Recipe Book/item_5150.md) | recipe book | Fixed recipe | production factory |  |
+| [Production technology book/casting application edition (blast furnace)](Items/Recipe Book/item_5148.md) | recipe book | Fixed recipe | production factory |  |
   </TabItem>
 </Tabs>

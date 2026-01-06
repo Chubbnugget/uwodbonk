@@ -15,7 +15,7 @@ category: Marine Life
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 640 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Disappearing Giant Crab” 
+| **Remarks** | Quest “Disappearing Giant Crab”
 
  Discovery Name Card:320 |
 | **最終更新** | 2022-12-22 01:57:23 Sakon. |

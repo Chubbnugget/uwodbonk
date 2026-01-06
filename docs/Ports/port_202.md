@@ -3,7 +3,6 @@ id: 202
 name: Barrow
 type: Port
 ---
-
 # Port: バロー
 
 import Tabs from '@theme/Tabs';

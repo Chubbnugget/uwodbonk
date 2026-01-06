@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | Green pine beetle |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | An insect that lives in southern China. It is said that they never come down to earth in their entire lives. 
+| **explanation** | An insect that lives in southern China. It is said that they never come down to earth in their entire lives.
  It is often seen on tree leaves or in flight. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

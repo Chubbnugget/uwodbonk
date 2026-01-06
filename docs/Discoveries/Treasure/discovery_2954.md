@@ -15,7 +15,7 @@ category: Treasure
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 1030 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “List of Celestial Bodies” 
+| **Remarks** | Quest “List of Celestial Bodies”
 
  Discovery Name Card:515 |
 | **最終更新** | 2022-11-26 07:57:49 Sakon. |

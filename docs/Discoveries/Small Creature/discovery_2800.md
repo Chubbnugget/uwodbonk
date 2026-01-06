@@ -15,9 +15,7 @@ category: Small Creature
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 600 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | friendly animal 
-
-
+| **Remarks** | friendly animal
 
  Discovery Experience 600 Discovery Name Card Experience 300 |
 | **最終更新** | 2016-09-14 18:28:14 Gainor |

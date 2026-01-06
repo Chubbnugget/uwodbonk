@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | 顕戒論 |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Kenkairon". A book written by the Japanese Buddhist monk Saicho. 
+| **explanation** | The reading is "Kenkairon". A book written by the Japanese Buddhist monk Saicho.
  He criticizes the inequality of the Buddhist system in the Heian Era and explains the legitimacy of his own Buddhist thought. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

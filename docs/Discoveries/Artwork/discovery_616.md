@@ -10,16 +10,14 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Lee Gonglin's paintings |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A painting of a tiger drawn by Korean painter Lee Gong-rin. 
+| **explanation** | A painting of a tiger drawn by Korean painter Lee Gong-rin.
 
  Although it is realistic, the tiger's face is drawn in a comical way, giving it a cute and friendly atmosphere. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 440 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | various ink paintings 
-
-
+| **Remarks** | various ink paintings
 
  Discovery Experience 440 Discovery Name Card Experience 220 |
 | **最終更新** | 2016-06-09 16:08:37 Gainor |

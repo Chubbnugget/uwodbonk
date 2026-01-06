@@ -10,7 +10,7 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | Small-clawed otter |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A very small otter that is distributed in southern China and Indonesia. It has a flat body suitable for swimming. 
+| **explanation** | A very small otter that is distributed in southern China and Indonesia. It has a flat body suitable for swimming.
  They live in groups and get used to people. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

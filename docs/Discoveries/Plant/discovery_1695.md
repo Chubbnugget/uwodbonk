@@ -15,9 +15,7 @@ category: Plant
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 480 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | flowers dedicated to a friend 
-
-
+| **Remarks** | flowers dedicated to a friend
 
  Discovery Experience 480 Discovery Name Card Experience 240 |
 | **最終更新** | 2016-05-10 23:53:04 Gainor |

@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Concei Saung |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Its official name is Nossa Senhora da Conceição. 
+| **explanation** | Its official name is Nossa Senhora da Conceição.
  A Portuguese East India trading ship that transported royal treasures to India. Sunk near the Chagos Islands. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

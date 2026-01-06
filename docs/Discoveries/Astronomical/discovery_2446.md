@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | 2 (Rank of skills required for discovery) |
 | **Experience** | 330 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Stars shining in the southern sky” 
+| **Remarks** | Quest “Stars shining in the southern sky”
 
  Discovery Name Card:165 |
 | **最終更新** | 2022-10-30 16:52:57 Sakon. |

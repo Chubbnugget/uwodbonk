@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Kii Mountains |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A general term for sacred sites and mountains located in the Kii region of Japan. 
+| **explanation** | A general term for sacred sites and mountains located in the Kii region of Japan.
  Because of the rugged terrain, it has flourished as a training ground for monks who believe in mountain Buddhism and Shugendo. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

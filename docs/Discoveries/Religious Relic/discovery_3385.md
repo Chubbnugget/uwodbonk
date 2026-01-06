@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | mask of surya |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A mask shaped like the face of Surya, the sun god who appears in Indian mythology. 
+| **explanation** | A mask shaped like the face of Surya, the sun god who appears in Indian mythology.
 
  In India, faces of gods made of metal or stone are often displayed in temples and homes. Its face expresses the light and heat of the sun in the way local people feel. |
 | **Era** |  |

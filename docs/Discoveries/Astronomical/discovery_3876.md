@@ -10,7 +10,7 @@ category: Astronomical
 | **Discovery Type** | Astronomical |
 | **Discovery Name** | Zuben es kamali |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The Beta Stars of Libra are the brightest 3rd magnitude stars in this constellation. 
+| **explanation** | The Beta Stars of Libra are the brightest 3rd magnitude stars in this constellation.
 
 Although the Stars are pale, they are known as the only permanent Stars that appear green to the naked eye.
 

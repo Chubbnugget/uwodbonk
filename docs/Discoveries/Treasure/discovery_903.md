@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | 蘭亭序 |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A book written by Wang Xizhi. 
+| **explanation** | A book written by Wang Xizhi.
 
  Characters that appear many times in a sentence have different forms depending on the context. It is said that Emperor Taizong of the Tang Dynasty was so impressed with this that he had a calligrapher copy it. |
 | **Era** |  |

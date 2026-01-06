@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 650 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | A map of a city's coins 
-
-
+| **Remarks** | A map of a city's coins
 
  Discovery Experience 650 Discovery Name Card Experience 325 |
 | **最終更新** | 2016-06-07 09:38:40 Gainor |

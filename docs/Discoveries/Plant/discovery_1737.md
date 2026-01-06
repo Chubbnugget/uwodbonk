@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Shuukaido |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant that mainly lives in China. It produces red flowers from late summer to autumn. 
+| **explanation** | A plant that mainly lives in China. It produces red flowers from late summer to autumn.
  It prefers shade and humidity, and can be seen blooming in a variety of locations. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

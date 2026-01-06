@@ -15,9 +15,7 @@ category: Bird
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 936 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Love situation 
-
-
+| **Remarks** | Love situation
 
  Discovery Experience936 Discovery Name Card Experience468 |
 | **最終更新** | 2016-06-19 19:00:01 Gainor |

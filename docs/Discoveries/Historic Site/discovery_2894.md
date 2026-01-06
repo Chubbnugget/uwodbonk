@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | tulum ruins |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | Ruins of a fortified city built by the Mayans. 
+| **explanation** | Ruins of a fortified city built by the Mayans.
 
  It was one of the last cities of the Maya civilization, which flourished through trade between the 13th and 15th centuries. |
 | **Era** |  |

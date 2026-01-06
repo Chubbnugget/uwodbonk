@@ -10,7 +10,7 @@ category: Religous Architecture
 | **Discovery Type** | Religous Architecture |
 | **Discovery Name** | mont saint michel |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A monastery built on a small island in the Bay of Saint-Malo. The tides are strong, and you can walk across from the mainland when the tide is low. It was also used as a fortress during the Hundred Years' War between England and France. 
+| **explanation** | A monastery built on a small island in the Bay of Saint-Malo. The tides are strong, and you can walk across from the mainland when the tide is low. It was also used as a fortress during the Hundred Years' War between England and France.
 
  Because of its mystique, it is called the "Wonder of the West." |
 | **Era** |  |

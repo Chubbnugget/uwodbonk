@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Heimskringla |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | Meaning "ring of the world" in ancient Norse. A type of saga that is said to have been compiled around the 13th century. 
+| **explanation** | Meaning "ring of the world" in ancient Norse. A type of saga that is said to have been compiled around the 13th century.
 
  According to this saga, there is a guardian in each direction of Iceland. |
 | **Era** |  |

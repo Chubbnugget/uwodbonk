@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | sasuraiali |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | They live in savannahs and do not settle down, but wander in search of food. Compared to other ants, the head is larger and the eyes are degenerate. 
+| **explanation** | They live in savannahs and do not settle down, but wander in search of food. Compared to other ants, the head is larger and the eyes are degenerate.
  They travel in groups of nearly 1 million, attacking animals that get in their way and eating them down to bones. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

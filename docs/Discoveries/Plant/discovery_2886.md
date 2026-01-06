@@ -15,9 +15,7 @@ category: Plant
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 1040 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Shrubs with many medicinal properties 
-
-
+| **Remarks** | Shrubs with many medicinal properties
 
  Discovery Experience1040 Discovery Name Card Experience520 |
 | **最終更新** | 2016-06-19 13:23:40 Gainor |

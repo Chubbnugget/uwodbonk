@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Fragments of colored murals |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Part of the mural inside the Palenque ruins. 
+| **explanation** | Part of the mural inside the Palenque ruins.
  Although it is a fragment, it has delicate carvings. Although it has faded, there are traces of red paint in most areas, with details in green, blue, and yellow. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

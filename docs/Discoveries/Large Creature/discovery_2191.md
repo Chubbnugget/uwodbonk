@@ -10,16 +10,14 @@ category: Large Creature
 | **Discovery Type** | Large Creature |
 | **Discovery Name** | amur tiger |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A large tiger that lives on the eastern coast of Russia. 
+| **explanation** | A large tiger that lives on the eastern coast of Russia.
 
  It preys on large herbivorous animals living in the surrounding area. It may be considered one of the strongest animals, as it can even prey on bears. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 1090 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Tiger research in cold regions 
-
-
+| **Remarks** | Tiger research in cold regions
 
  Discovery Experience1090 Discovery Name Card Experience545 |
 | **最終更新** | 2016-07-26 21:02:06 Gainor |

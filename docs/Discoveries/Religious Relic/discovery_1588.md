@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | goddess pillar |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A statue of a goddess carved into a pillar at the Angkor ruins. 
+| **explanation** | A statue of a goddess carved into a pillar at the Angkor ruins.
  It celebrates the warm smiles seen in mother and child paintings by Da Vinci and Raphael. However, many parts of the Angkor ruins are made of sandstone, a fragile building material, and this pillar is no exception. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

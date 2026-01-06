@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | Oxford |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | An academic city located northwest of London. 
+| **explanation** | An academic city located northwest of London.
  It flourished as a distribution center for wool, but a convent was founded in the 8th century. In the 12th century, scholars began to gather there and developed as a capital of learning. |
 | **Era** |  |
 | **Deck Points** | 1 (Required Deck Points for debate deck) |

@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 310 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | [Imperial Order] “Guidepost to advance to the west coast of the New World” 
+| **Remarks** | [Imperial Order] “Guidepost to advance to the west coast of the New World”
 
  Lima adventure “South American topographic survey” |
 | **最終更新** | 2025-12-05 22:18:17 Passing navigator @guest |

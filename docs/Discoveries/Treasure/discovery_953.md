@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Yellow Emperor's internal affairs |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A book that serves as the standard for acupuncture and moxibustion medicine that has been passed down since ancient times. It is thought to have been compiled in the Era of the former Han period. 
+| **explanation** | A book that serves as the standard for acupuncture and moxibustion medicine that has been passed down since ancient times. It is thought to have been compiled in the Era of the former Han period.
  It is a compilation of multiple medical papers, and the author and editor are unknown. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Goryeo Geographic Book |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Komayochi Shizusho". This book is said to have been compiled by envoys from China when they visited Kaesong. 
+| **explanation** | The reading is "Komayochi Shizusho". This book is said to have been compiled by envoys from China when they visited Kaesong.
  According to the account, the envoy stopped at a temple called Anwa-sa Temple in Goryeo. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

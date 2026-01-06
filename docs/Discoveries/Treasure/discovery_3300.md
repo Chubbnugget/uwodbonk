@@ -15,7 +15,7 @@ category: Treasure
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 650 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Gaze to a foreign land” 
+| **Remarks** | Quest “Gaze to a foreign land”
 
  Discovery Name Card:325 |
 | **最終更新** | 2022-11-23 08:18:00 Sakon. |

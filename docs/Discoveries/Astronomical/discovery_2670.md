@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 930 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "The Hero's Last" 
+| **Remarks** | Quest "The Hero's Last"
 
  Discovery Name Card:465 |
 | **最終更新** | 2022-11-28 19:57:08 Passing navigator @guest |

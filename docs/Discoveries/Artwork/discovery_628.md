@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Kano Motonobu's landscape paintings |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the wall paintings created by Motonobu Kano, an artist from the Muromachi Era. 
+| **explanation** | One of the wall paintings created by Motonobu Kano, an artist from the Muromachi Era.
  By incorporating the style of Yamato-e into Kara-e, it became possible to compose a larger screen than ever before. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

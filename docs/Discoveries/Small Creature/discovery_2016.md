@@ -10,7 +10,7 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | Kinogale |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | An otter-like animal that lives in southern China. 
+| **explanation** | An otter-like animal that lives in southern China.
  A long, white beard grows from around the mouth to behind the eyes. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

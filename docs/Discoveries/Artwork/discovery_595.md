@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Tang court painting |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A painting depicting a scene in which women in the imperial court are practicing raku. Based on its customs, it is thought to have been painted during the Tang Dynasty. 
+| **explanation** | A painting depicting a scene in which women in the imperial court are practicing raku. Based on its customs, it is thought to have been painted during the Tang Dynasty.
  Details of the person depicted are unknown. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

@@ -3,47 +3,40 @@ id: 11
 name: lumber craftsman
 type: NPC
 ---
-
 # NPC: 製材職人
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | lumber craftsman |  
-| **Notes** | They sell ship parts (armor). Can produce shipbuilding materials. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | lumber craftsman |
+| **Notes** | They sell ship parts (armor). Can produce shipbuilding materials. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | lumber craftsman |  
-| **Notes** | They sell ship parts (armor). Can produce shipbuilding materials. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | lumber craftsman |
+| **Notes** | They sell ship parts (armor). Can produce shipbuilding materials. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Akagashi board](Items/Ship Parts/Shipparts-Plates/item_3654.md) | [Ship parts (additional armor)](Categories/category_35.md) | 70,000 | [重慶](Ports/port_174.md) [Hangzhou](Ports/port_173.md) [Anping](Ports/port_171.md) |
 | [Elm board](Items/Ship Parts/Shipparts-Plates/item_328.md) | [Ship parts (additional armor)](Categories/category_35.md) | 13,000 | [Gothenburg](Ports/port_221.md) [Jakarta](Ports/port_135.md) [Calicut](Ports/port_44.md) [Oporto](Ports/port_1.md) [Lisbon](Ports/port_2.md) [Cairo](Ports/port_67.md) [Brunei](Ports/port_142.md) [Ternate](Ports/port_146.md) [Seville](Ports/port_4.md) [Barcelona](Ports/port_8.md) [Sagres](Ports/port_214.md) [Marseille](Ports/port_10.md) [Syracuse](Ports/port_61.md) [Copenhagen](Ports/port_56.md) [Nantes](Ports/port_20.md) [London](Ports/port_23.md) [Hamburg](Ports/port_50.md) [Ragusa](Ports/port_29.md) [Amsterdam](Ports/port_49.md) [Amboina](Ports/port_145.md) [Venice](Ports/port_30.md) [Saint Petersburg](Ports/port_190.md) [Stockholm](Ports/port_31.md) [Kokkola](Ports/port_189.md) [Muscat](Ports/port_40.md) |
 | [Oak board](Items/Ship Parts/Shipparts-Plates/item_354.md) | [Ship parts (additional armor)](Categories/category_35.md) | 34,000 | [Lisbon](Ports/port_2.md) [Hamburg](Ports/port_50.md) [Oporto](Ports/port_1.md) [Marseille](Ports/port_10.md) [Ragusa](Ports/port_29.md) [London](Ports/port_23.md) [Venice](Ports/port_30.md) [Amsterdam](Ports/port_49.md) [Barcelona](Ports/port_8.md) [Syracuse](Ports/port_61.md) [Seville](Ports/port_4.md) [Nantes](Ports/port_20.md) [Sagres](Ports/port_214.md) [Saint Petersburg](Ports/port_190.md) |
@@ -90,8 +83,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Akagashi board](Items/Ship Parts/Shipparts-Plates/item_3654.md) | [Ship parts (additional armor)](Categories/category_35.md) | 70,000 | [重慶](Ports/port_174.md) [Hangzhou](Ports/port_173.md) [Anping](Ports/port_171.md) |
 | [Elm board](Items/Ship Parts/Shipparts-Plates/item_328.md) | [Ship parts (additional armor)](Categories/category_35.md) | 13,000 | [Gothenburg](Ports/port_221.md) [Jakarta](Ports/port_135.md) [Calicut](Ports/port_44.md) [Oporto](Ports/port_1.md) [Lisbon](Ports/port_2.md) [Cairo](Ports/port_67.md) [Brunei](Ports/port_142.md) [Ternate](Ports/port_146.md) [Seville](Ports/port_4.md) [Barcelona](Ports/port_8.md) [Sagres](Ports/port_214.md) [Marseille](Ports/port_10.md) [Syracuse](Ports/port_61.md) [Copenhagen](Ports/port_56.md) [Nantes](Ports/port_20.md) [London](Ports/port_23.md) [Hamburg](Ports/port_50.md) [Ragusa](Ports/port_29.md) [Amsterdam](Ports/port_49.md) [Amboina](Ports/port_145.md) [Venice](Ports/port_30.md) [Saint Petersburg](Ports/port_190.md) [Stockholm](Ports/port_31.md) [Kokkola](Ports/port_189.md) [Muscat](Ports/port_40.md) |
 | [Oak board](Items/Ship Parts/Shipparts-Plates/item_354.md) | [Ship parts (additional armor)](Categories/category_35.md) | 34,000 | [Lisbon](Ports/port_2.md) [Hamburg](Ports/port_50.md) [Oporto](Ports/port_1.md) [Marseille](Ports/port_10.md) [Ragusa](Ports/port_29.md) [London](Ports/port_23.md) [Venice](Ports/port_30.md) [Amsterdam](Ports/port_49.md) [Barcelona](Ports/port_8.md) [Syracuse](Ports/port_61.md) [Seville](Ports/port_4.md) [Nantes](Ports/port_20.md) [Sagres](Ports/port_214.md) [Saint Petersburg](Ports/port_190.md) |

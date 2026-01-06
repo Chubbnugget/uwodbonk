@@ -15,9 +15,7 @@ category: Bird
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 320 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Are there any rare birds? 
-
-
+| **Remarks** | Are there any rare birds?
 
  Discovery Experience 320 Discovery Name Card Experience 160 |
 | **最終更新** | 2016-06-11 17:02:40 Gainor |

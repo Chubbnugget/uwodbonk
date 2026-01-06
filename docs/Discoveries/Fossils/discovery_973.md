@@ -10,7 +10,7 @@ category: Fossils
 | **Discovery Type** | Fossils |
 | **Discovery Name** | giant elephant bone |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A large elephant bone discovered near the Yellow River. 
+| **explanation** | A large elephant bone discovered near the Yellow River.
  The space between the left and right fangs is so narrow that it seems impossible to pass through the nose. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

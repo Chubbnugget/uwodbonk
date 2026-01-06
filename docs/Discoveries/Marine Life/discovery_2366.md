@@ -15,7 +15,7 @@ category: Marine Life
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 230 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Nimble Crab” 
+| **Remarks** | Quest “Nimble Crab”
 
  Discovery Name Card:115 |
 | **最終更新** | 2022-12-22 09:15:58 Sakon. |

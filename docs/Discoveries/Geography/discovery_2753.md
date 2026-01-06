@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Mount Hecla |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A volcano in southern Iceland. 
+| **explanation** | A volcano in southern Iceland.
 
 Hekla means hood in the local language.
 

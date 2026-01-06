@@ -10,7 +10,7 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | Taiwan squirrel |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A squirrel that squeals like a dog and is widely distributed throughout Asia. Because the front teeth are so sharp, the bark of the tree used for sharpening them often has been scraped. 
+| **explanation** | A squirrel that squeals like a dog and is widely distributed throughout Asia. Because the front teeth are so sharp, the bark of the tree used for sharpening them often has been scraped.
  He has a rough temper and acts alone from childhood onwards. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

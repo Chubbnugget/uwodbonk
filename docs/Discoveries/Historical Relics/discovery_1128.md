@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Kerch style vase |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A vase made for the kingdom that flourished around Kaffa. 
+| **explanation** | A vase made for the kingdom that flourished around Kaffa.
  It appears that the kingdom that imported this vase also produced imitations. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

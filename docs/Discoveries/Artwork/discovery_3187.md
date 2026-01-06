@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | goldsmith prints |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A cutting-edge print made using goldsmithing techniques at the time. It was invented in Germany and is characterized by the use of fine lines. 
+| **explanation** | A cutting-edge print made using goldsmithing techniques at the time. It was invented in Germany and is characterized by the use of fine lines.
 
  With the spread of printing technology, it spread widely across Europe and played an important role in art history. |
 | **Era** |  |

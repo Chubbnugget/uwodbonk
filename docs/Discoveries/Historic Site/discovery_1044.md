@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | great wall of china |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A large, strong wall with a total length of over 6000km. 
+| **explanation** | A large, strong wall with a total length of over 6000km.
  It was first constructed by Emperor Qin Shihuang of the Qin Dynasty by connecting the city walls built on the north side of the country. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

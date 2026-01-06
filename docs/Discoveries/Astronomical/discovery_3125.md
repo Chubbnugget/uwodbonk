@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 15 (Rank of skills required for discovery) |
 | **Experience** | 1360 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “The Origin of the Stars” 
+| **Remarks** | Quest “The Origin of the Stars”
 
  Discovery Name Card:680 |
 | **最終更新** | 2022-12-02 20:42:12 Sakon. |

@@ -10,7 +10,7 @@ category: Astronomical
 | **Discovery Type** | Astronomical |
 | **Discovery Name** | peacock |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | It is the brightest star in the constellation Pavo and is a 2nd magnitude star. 
+| **explanation** | It is the brightest star in the constellation Pavo and is a 2nd magnitude star.
 
  The name means male peacock. |
 | **Era** | 19世紀 |

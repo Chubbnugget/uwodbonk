@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 1110 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | 海賊論 
-
-
+| **Remarks** | 海賊論
 
  Discovery Experience1110 Discovery Name Card Experience555 |
 | **最終更新** | 2016-06-12 18:05:24 Gainor |

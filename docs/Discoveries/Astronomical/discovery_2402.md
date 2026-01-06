@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 240 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “A Maiden’s Transformation Story” 
+| **Remarks** | Quest “A Maiden’s Transformation Story”
 
  Discovery Name Card: 120 |
 | **最終更新** | 2022-11-03 18:26:18 Sakon. |

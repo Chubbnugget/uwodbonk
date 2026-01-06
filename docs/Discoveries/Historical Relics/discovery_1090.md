@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Estrella |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Nossa Senhora da Estrela. 
+| **explanation** | Nossa Senhora da Estrela.
  A Portuguese East India trading ship wrecked northwest of Ascension Island in the Atlantic Ocean. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

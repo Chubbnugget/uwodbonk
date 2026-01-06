@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | nautilus |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | Biology has a shape similar to the face of a person wearing armor. 
+| **explanation** | Biology has a shape similar to the face of a person wearing armor.
  It uses its dozens of tentacles to catch its prey. It moves underwater by spouting water from what appears to be its mouth. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

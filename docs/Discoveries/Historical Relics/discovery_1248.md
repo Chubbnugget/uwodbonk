@@ -15,7 +15,7 @@ category: Historical Relics
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 456 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Research on Ancient Egyptian Language” 
+| **Remarks** | Quest “Research on Ancient Egyptian Language”
 
  Discovery Name Card:225 |
 | **最終更新** | 2022-11-23 17:46:51 Sakon. |

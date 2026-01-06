@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Upanishads |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the sacred texts of Hinduism. It is a book of philosophy and is also called a book of secrets. 
+| **explanation** | One of the sacred texts of Hinduism. It is a book of philosophy and is also called a book of secrets.
  It seems that the name came from the way a master teaches things to his disciples. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | shark bay |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A bay in western Australia. The seawater in the bay is so salty that only certain types of algae can survive there. 
+| **explanation** | A bay in western Australia. The seawater in the bay is so salty that only certain types of algae can survive there.
  Although it is a small area, unique environments can be seen in many places, such as a sandy beach made entirely of white shells. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

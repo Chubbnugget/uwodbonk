@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | human face pot |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A vase with a human face drawn on its abdomen was found on the island of Taiwan. 
+| **explanation** | A vase with a human face drawn on its abdomen was found on the island of Taiwan.
  The expressiveness of the work, such as the lightly drawn eyebrows and long slit eyes, shows that the people of the time had advanced pottery skills. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

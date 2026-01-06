@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 1170 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | ancient greek pirate king 
-
-
+| **Remarks** | ancient greek pirate king
 
  Discovery Experience1170 Discovery Name Card Experience585 |
 | **最終更新** | 2023-10-20 22:56:38 Alverus |

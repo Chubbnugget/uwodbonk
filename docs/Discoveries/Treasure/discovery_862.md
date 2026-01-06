@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | plum vase |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | It is a type of pottery, and is a general term for vessels that are tall with a small mouth, and have wide shoulders in relation to their feet. 
+| **explanation** | It is a type of pottery, and is a general term for vessels that are tall with a small mouth, and have wide shoulders in relation to their feet.
 
  Found in the old Era of China, those made in Jingdezhen are especially popular. |
 | **Era** |  |

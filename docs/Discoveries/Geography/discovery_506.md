@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Tamsui River |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A calm river flowing near fresh water. 
+| **explanation** | A calm river flowing near fresh water.
  Boasting an abundant amount of water, it is the main water source for the northern part of Taiwan Island. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

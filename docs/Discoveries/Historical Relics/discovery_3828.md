@@ -15,7 +15,7 @@ category: Historical Relics
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 583 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | salvage 
+| **Remarks** | salvage
 
  Discovery Name Card:265 |
 | **最終更新** | 2023-09-21 04:28:11 Salmon can |

@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Hinoki |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | An evergreen coniferous tree that grows in Japan and Taiwan. Grows well in dry locations. 
+| **explanation** | An evergreen coniferous tree that grows in Japan and Taiwan. Grows well in dry locations.
  The wood is highly durable, glossy, and fragrant, making it famous as a high-quality building material. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Tottori Sand Dunes |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Coastal sand dunes located in the Chugoku region of Japan. 
+| **explanation** | Coastal sand dunes located in the Chugoku region of Japan.
  It looks like a small-scale desert, but it rains and snows, and you can see many flora and fauna unique to sand dunes. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

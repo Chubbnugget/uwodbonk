@@ -15,9 +15,7 @@ category: Plant
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 380 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Searching for a theme for a play 
-
-
+| **Remarks** | Searching for a theme for a play
 
  Discovery Experience 380 Discovery Name Card Experience 190 |
 | **最終更新** | 2016-06-13 13:24:35 Gainor |

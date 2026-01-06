@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Shore eel |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A deep-sea fish characterized by its elongated body and long protruding jaw. 
+| **explanation** | A deep-sea fish characterized by its elongated body and long protruding jaw.
 
  It is thought that they use this jaw to feed on crustaceans. |
 | **Era** |  |

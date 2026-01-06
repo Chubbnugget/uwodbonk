@@ -15,9 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 480 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Cultural contribution level 35 
-
-
+| **Remarks** | Cultural contribution level 35
 
 summer?
 

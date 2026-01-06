@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Disguise tool of the dark history |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Ankogyoshi was a government official directly under the king who secretly inspected local officials in the Joseon Dynasty. Disguise yourself in the area you are dispatched to and conduct internal reconnaissance. 
+| **explanation** | Ankogyoshi was a government official directly under the king who secretly inspected local officials in the Joseon Dynasty. Disguise yourself in the area you are dispatched to and conduct internal reconnaissance.
  Use various disguise tools to obtain more information. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

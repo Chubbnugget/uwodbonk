@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | Hangzhou |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The pronunciation is "Hancho". It is said that Marco Polo praised the city as a beautiful and gorgeous city. 
+| **explanation** | The pronunciation is "Hancho". It is said that Marco Polo praised the city as a beautiful and gorgeous city.
  It is one of the birthplaces of civilization and is lined with many temples and historic sites. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

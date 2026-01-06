@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Gabicho |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | This bird lives in a wide range from southern China to Southeast Asia. They mostly run on the ground and do not fly high. 
+| **explanation** | This bird lives in a wide range from southern China to Southeast Asia. They mostly run on the ground and do not fly high.
  It has a distinctive eyebrow-like pattern around its eyes, which is why it is called ``painted eyebrow bird.'' |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

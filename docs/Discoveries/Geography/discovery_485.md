@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Kujukuri Beach |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A sandy beach on the Pacific coast of Japan. The coastal areas are rich in fishing grounds. 
+| **explanation** | A sandy beach on the Pacific coast of Japan. The coastal areas are rich in fishing grounds.
  The name comes from the long stretch of beach. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

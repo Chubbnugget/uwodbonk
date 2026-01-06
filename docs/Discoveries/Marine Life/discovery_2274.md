@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Crinoid |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | Undersea Biology. It is rooted in the deep ocean floor and sways gently. 
+| **explanation** | Undersea Biology. It is rooted in the deep ocean floor and sways gently.
  Their appearance is more similar to land plants than to underwater plants such as seaweed. However, it is likely to be an animal, as it sometimes moves underwater. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

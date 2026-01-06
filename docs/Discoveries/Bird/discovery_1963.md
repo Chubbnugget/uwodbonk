@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Harpagornis eagle |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A large eagle that lives in Aotearoa. 
+| **explanation** | A large eagle that lives in Aotearoa.
 
 When it grows large, its wingspan can reach up to 3 meters, making it an outstanding physique among eagles.
 
@@ -19,9 +19,7 @@ When it grows large, its wingspan can reach up to 3 meters, making it an outstan
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 13 (Rank of skills required for discovery) |
 | **Experience** | 1163 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | king of the sky 
-
-
+| **Remarks** | king of the sky
 
  Discovery Experience1163 Discovery Name Card Experience581 |
 | **最終更新** | 2016-07-17 18:57:28 Gainor |

@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | kematsu painting |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A painting depicting a monkey. 
+| **explanation** | A painting depicting a monkey.
  It is said to be the work of Mao Song, a painter from the Southern Song Dynasty, and is said to be a masterpiece that demonstrated excellent expressive power. |
 | **Era** |  |
 | **Deck Points** | 1 (Required Deck Points for debate deck) |

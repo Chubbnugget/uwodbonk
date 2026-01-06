@@ -10,7 +10,7 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | Ishikawa frog |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A frog that lives on Amami Oshima and the main island of Okinawa. 
+| **explanation** | A frog that lives on Amami Oshima and the main island of Okinawa.
  Its body, which resembles a green field encrusted with purple jewels, is worthy of being called Japan's most beautiful frog. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

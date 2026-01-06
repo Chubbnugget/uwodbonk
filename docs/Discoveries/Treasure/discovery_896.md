@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Shen-Nung Herbalism |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A pharmacology book that describes the effects of individual drugs, thought to have been compiled during the Later Han Dynasty. More than 300 drugs are classified by efficacy. 
+| **explanation** | A pharmacology book that describes the effects of individual drugs, thought to have been compiled during the Later Han Dynasty. More than 300 drugs are classified by efficacy.
  Shennong is an ancient legendary figure who is said to be the founder of agriculture and medicine. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

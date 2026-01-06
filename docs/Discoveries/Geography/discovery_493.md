@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | 太魯閣峡谷 |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A large canyon built from eroded marble that stretches to the southeast of Tamsui. 
+| **explanation** | A large canyon built from eroded marble that stretches to the southeast of Tamsui.
 The surrounding mountains are over 3000m high.
  The highlight is the cliffs created by nature. |
 | **Era** |  |

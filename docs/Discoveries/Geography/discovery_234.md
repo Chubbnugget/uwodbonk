@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 390 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Wild Desert" 
+| **Remarks** | Quest "Wild Desert"
 
  Discovery Name Card:195 |
 | **最終更新** | 2022-11-23 20:39:42 Sakon. |

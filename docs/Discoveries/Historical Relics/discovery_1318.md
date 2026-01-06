@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Left Chinto's skull |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Sachinjin no Zukotsu". A skull of a human who lived on the island of Taiwan a long time ago. 
+| **explanation** | The reading is "Sachinjin no Zukotsu". A skull of a human who lived on the island of Taiwan a long time ago.
  Bone and horn tools were also found in the surrounding area, and it is inferred that this was a human from the Era who lived a hunting lifestyle. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

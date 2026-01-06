@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Chinese eel |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A fish that lives on the bottom of the shallow sea. It got its name because its face resembles a dog called Chin. 
+| **explanation** | A fish that lives on the bottom of the shallow sea. It got its name because its face resembles a dog called Chin.
  They can often be seen in groups, peeking their heads out of the sand and facing the direction of the current. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Large Creature
 | **Discovery Type** | Large Creature |
 | **Discovery Name** | giant panda |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | An animal that mainly lives in southwestern China. It is characterized by its body fur, which is clearly separated into black and white. The tail does not grow much, so it is not noticeable. 
+| **explanation** | An animal that mainly lives in southwestern China. It is characterized by its body fur, which is clearly separated into black and white. The tail does not grow much, so it is not noticeable.
  They live alone and do not form groups or families. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

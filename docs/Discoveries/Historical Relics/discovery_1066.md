@@ -15,9 +15,7 @@ category: Historical Relics
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 150 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | ancient pipe map 
-
-
+| **Remarks** | ancient pipe map
 
  Discovery Experience 150 Discovery Name Card Experience 75 |
 | **最終更新** | 2016-06-07 09:39:17 Gainor |

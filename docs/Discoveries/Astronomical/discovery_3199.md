@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 480 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Fairy King of Comedy” 
+| **Remarks** | Quest “Fairy King of Comedy”
 
  Discovery Name Card:240 |
 | **最終更新** | 2022-12-06 19:39:08 Sakon. |

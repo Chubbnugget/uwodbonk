@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Anonymous |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant brought to Taiwan by the Low Countries. 
+| **explanation** | A plant brought to Taiwan by the Low Countries.
  It is also called Shakyamatsu because the surface of the fruit resembles the head of a Buddha statue. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

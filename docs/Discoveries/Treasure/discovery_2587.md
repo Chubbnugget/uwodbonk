@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 370 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | stylish table cloth 
-
-
+| **Remarks** | stylish table cloth
 
  Discovery Experience 370 Discovery Name Card Experience 185 |
 | **最終更新** | 2016-06-08 22:14:52 Gainor |

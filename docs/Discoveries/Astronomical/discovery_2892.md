@@ -15,9 +15,7 @@ category: Astronomical
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 350 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Observation equipment floating in the sky 
-
-
+| **Remarks** | Observation equipment floating in the sky
 
  Discovery Experience 350 Discovery Name Card Experience 175 |
 | **最終更新** | 2017-07-10 08:55:05 Arata Kashiwaba |

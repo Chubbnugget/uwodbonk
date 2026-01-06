@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Pompeii bread |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Bread found in the city of Pompeii, which was destroyed by a volcanic eruption. Covered in volcanic ash, it miraculously remained intact. 
+| **explanation** | Bread found in the city of Pompeii, which was destroyed by a volcanic eruption. Covered in volcanic ash, it miraculously remained intact.
  To make it easier to eat, I cut it with a knife into eight equal parts, and it was dry and black. It must have been right before the meal... |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

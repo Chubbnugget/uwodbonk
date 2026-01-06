@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | lacquer paper document |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is ``Urushigami Monjo''. Lacquer soaks into paper and remains in the soil without rotting. 
+| **explanation** | The reading is ``Urushigami Monjo''. Lacquer soaks into paper and remains in the soil without rotting.
 
  When storing lacquer, it is necessary to seal the container with a paper lid. However, in Japan at the time, paper was precious, so unnecessary documents were used as lids. |
 | **Era** |  |

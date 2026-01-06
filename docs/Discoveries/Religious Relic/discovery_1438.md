@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | inanna statue |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Inanna is the Sumerian goddess of fertility and love. He was worshiped as the guardian deity of Uruk. 
+| **explanation** | Inanna is the Sumerian goddess of fertility and love. He was worshiped as the guardian deity of Uruk.
 
  In Akkad it was called Ishtar. |
 | **Era** |  |

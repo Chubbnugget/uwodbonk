@@ -15,7 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 310 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Red Wolf Map" 
+| **Remarks** | "Red Wolf Map"
 
  Discovery Name Card:155 |
 | **最終更新** | 2022-11-12 18:04:26 Sakon. |

@@ -10,14 +10,14 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Black-bellied Ibis |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A type of ibis commonly seen in the Pantanal Wetlands. 
+| **explanation** | A type of ibis commonly seen in the Pantanal Wetlands.
 
  It makes a high-pitched cry while flying. The body surface below the chest is black. |
 | **Era** |  |
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 180 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Map of black-bellied birds" 
+| **Remarks** | "Map of black-bellied birds"
 
  Discovery Name Card:90 |
 | **最終更新** | 2022-11-12 20:20:56 Sakon. |

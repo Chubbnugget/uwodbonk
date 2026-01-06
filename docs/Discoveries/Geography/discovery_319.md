@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | taiga |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A coniferous forest that spreads throughout Siberia. 
+| **explanation** | A coniferous forest that spreads throughout Siberia.
  Apparently, the types of trees differ depending on the region, and the colors appear different when viewed from a distance. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

@@ -15,9 +15,7 @@ category: Bird
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 462 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | night parrot 
-
-
+| **Remarks** | night parrot
 
  Discovery Experience 462 Discovery Name Card Experience 231 |
 | **最終更新** | 2016-07-25 17:40:40 Gainor |

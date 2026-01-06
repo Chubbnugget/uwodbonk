@@ -15,9 +15,7 @@ category: Large Creature
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 350 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Black Shadow in the Forest" 
-
-
+| **Remarks** | Quest "Black Shadow in the Forest"
 
  Discovery Experience: 350 Discovery Name Card Experience: 175 |
 | **最終更新** | 2022-12-03 10:08:34 Sakon. |

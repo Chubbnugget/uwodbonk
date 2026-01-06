@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | pink iguana |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A large pink lizard with a body length of about 1m. 
+| **explanation** | A large pink lizard with a body length of about 1m.
  They only live on volcanoes on certain islands in the Galapagos Islands and are rarely seen. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

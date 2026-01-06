@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | pacific ocean |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | The sea was named after Magellan, who passed through the Straits of Magellan, because it was said to be a calm sea incomparable to the Atlantic Ocean. 
+| **explanation** | The sea was named after Magellan, who passed through the Straits of Magellan, because it was said to be a calm sea incomparable to the Atlantic Ocean.
  The area is much larger than Magellan predicted at the time of his voyage. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

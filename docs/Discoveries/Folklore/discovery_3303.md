@@ -10,7 +10,7 @@ category: Folklore
 | **Discovery Type** | Folklore |
 | **Discovery Name** | thunderbird |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A giant bird that is said to be able to control lightning. As a spirit of lightning that can freely strike lightning, 
+| **explanation** | A giant bird that is said to be able to control lightning. As a spirit of lightning that can freely strike lightning,
 
 Widely worshiped among Native Americans of North America. understand people's words,
 

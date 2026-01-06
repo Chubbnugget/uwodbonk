@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | bones in the catacombs |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Human bones buried under a church in Lima. The way the bones of the skull and other parts are arranged like a painting is impressive. 
+| **explanation** | Human bones buried under a church in Lima. The way the bones of the skull and other parts are arranged like a painting is impressive.
  There is little damage to the bones, and all of them maintain their original shape. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

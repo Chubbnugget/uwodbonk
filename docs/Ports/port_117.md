@@ -3,7 +3,6 @@ id: 117
 name: veracruz
 type: Port
 ---
-
 # Port: ヴェラクルス
 
 import Tabs from '@theme/Tabs';
@@ -38,7 +37,6 @@ import TabItem from '@theme/TabItem';
 ### Description
 The city's name means "True Cross" in Spanish. In the early 16th century, Hernán Cortés landed here, and it became the main gateway for maritime trade in the Gulf of Mexico. Suburbs: Southeast of Veracruz/South of Veracruz *Spanish is also spoken Cultural area: East coast of Central and South America
 
-
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
@@ -62,97 +60,97 @@ The city's name means "True Cross" in Spanish. In the early 16th century, Herná
 
 #### [交易品（繊維）](Categories/category_1.md)
 
-| [feather](Items/Trade Goods/TradeGoods-Fibers/item_585.md) | [交易品（繊維）](Categories/category_1.md) | (1,049) | 1,223 |  |
+| [feather](Items/Trade Goods/TradeGoods-Fibers/item_585.md) | 交易品（繊維） | (1,049) | 1,223 |  |
 | 同盟時82%=1050　90%=1100 |
 
 #### [Trading Goods (Dye)](Categories/category_2.md)
 
-| [ward](Items/Trade Goods/TradeGoods-Dye/item_57.md) | [Trading Goods (Dye)](Categories/category_2.md) | (2,338) | 2,727 |  |
-| [mimosa](Items/Trade Goods/TradeGoods-Dye/item_2281.md) | [Trading Goods (Dye)](Categories/category_2.md) | (1,149) | 1,340 |  |
+| [ward](Items/Trade Goods/TradeGoods-Dye/item_57.md) | Trading Goods (Dye) | (2,338) | 2,727 |  |
+| [mimosa](Items/Trade Goods/TradeGoods-Dye/item_2281.md) | Trading Goods (Dye) | (1,149) | 1,340 |  |
 | 同盟時1420＝106% |
 
 #### [交易品（調味料）](Categories/category_4.md)
 
-| [tamarind](Items/Trade Goods/TradeGoods-Seasonings/item_1968.md) | [交易品（調味料）](Categories/category_4.md) | (1,204) | 1,404 |  |
+| [tamarind](Items/Trade Goods/TradeGoods-Seasonings/item_1968.md) | 交易品（調味料） | (1,204) | 1,404 |  |
 | 同盟時1460=104% |
-| [apple cider vinegar](Items/Trade Goods/TradeGoods-Seasonings/item_882.md) | [交易品（調味料）](Categories/category_4.md) | (866) | 1,010 |  |
+| [apple cider vinegar](Items/Trade Goods/TradeGoods-Seasonings/item_882.md) | 交易品（調味料） | (866) | 1,010 |  |
 | 同盟時929=92% |
 
 #### [Trading products (medical products)](Categories/category_6.md)
 
-| [Nothing](Items/Trade Goods/TradeGoods-Medicine/item_1053.md) | [Trading products (medical products)](Categories/category_6.md) | (989) | 1,153 |  |
+| [Nothing](Items/Trade Goods/TradeGoods-Medicine/item_1053.md) | Trading products (medical products) | (989) | 1,153 |  |
 | 同盟時1210=105% |
 
 #### [交易品（酒類）](Categories/category_9.md)
 
-| [aquavit](Items/Trade Goods/TradeGoods-Alcohol/item_572.md) | [交易品（酒類）](Categories/category_9.md) | (1,475) | 1,720 |  |
-| [whiskey](Items/Trade Goods/TradeGoods-Alcohol/item_1.md) | [交易品（酒類）](Categories/category_9.md) | (1,517) | 1,770 |  |
-| [sherry](Items/Trade Goods/TradeGoods-Alcohol/item_844.md) | [交易品（酒類）](Categories/category_9.md) | (690) | 805 |  |
-| [gin](Items/Trade Goods/TradeGoods-Alcohol/item_291.md) | [交易品（酒類）](Categories/category_9.md) | (1,466) | 1,710 |  |
-| [fruit brandy](Items/Trade Goods/TradeGoods-Alcohol/item_1440.md) | [交易品（酒類）](Categories/category_9.md) | (1,140) | 1,330 |  |
+| [aquavit](Items/Trade Goods/TradeGoods-Alcohol/item_572.md) | 交易品（酒類） | (1,475) | 1,720 |  |
+| [whiskey](Items/Trade Goods/TradeGoods-Alcohol/item_1.md) | 交易品（酒類） | (1,517) | 1,770 |  |
+| [sherry](Items/Trade Goods/TradeGoods-Alcohol/item_844.md) | 交易品（酒類） | (690) | 805 |  |
+| [gin](Items/Trade Goods/TradeGoods-Alcohol/item_291.md) | 交易品（酒類） | (1,466) | 1,710 |  |
+| [fruit brandy](Items/Trade Goods/TradeGoods-Alcohol/item_1440.md) | 交易品（酒類） | (1,140) | 1,330 |  |
 | 同盟時100% |
 
 #### [Trading goods (hobby goods)](Categories/category_10.md)
 
-| [caviar](Items/Trade Goods/TradeGoods-Sunddries/item_2122.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (1,552) | 1,810 |  |
+| [caviar](Items/Trade Goods/TradeGoods-Sunddries/item_2122.md) | Trading goods (hobby goods) | (1,552) | 1,810 |  |
 | 同盟時1990=110% |
-| [durian](Items/Trade Goods/TradeGoods-Sunddries/item_1949.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (1,952) | 2,277 |  |
+| [durian](Items/Trade Goods/TradeGoods-Sunddries/item_1949.md) | Trading goods (hobby goods) | (1,952) | 2,277 |  |
 | 同盟時1480=65% |
-| [banana](Items/Trade Goods/TradeGoods-Sunddries/item_1947.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 530 | (596) |  |
-| [prune](Items/Trade Goods/TradeGoods-Sunddries/item_523.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (706) | 823 |  |
+| [banana](Items/Trade Goods/TradeGoods-Sunddries/item_1947.md) | Trading goods (hobby goods) | 530 | (596) |  |
+| [prune](Items/Trade Goods/TradeGoods-Sunddries/item_523.md) | Trading goods (hobby goods) | (706) | 823 |  |
 | 同盟時773-94% |
-| [macadamia nuts](Items/Trade Goods/TradeGoods-Sunddries/item_2282.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (925) | 1,079 |  |
+| [macadamia nuts](Items/Trade Goods/TradeGoods-Sunddries/item_2282.md) | Trading goods (hobby goods) | (925) | 1,079 |  |
 | 同盟時971=90% |
-| [black tea](Items/Trade Goods/TradeGoods-Sunddries/item_675.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (2,104) | 2,455 |  |
+| [black tea](Items/Trade Goods/TradeGoods-Sunddries/item_675.md) | Trading goods (hobby goods) | (2,104) | 2,455 |  |
 
 #### [Trading Goods (Spices)](Categories/category_11.md)
 
-| [jasmine](Items/Trade Goods/TradeGoods-Perfume/item_772.md) | [Trading Goods (Spices)](Categories/category_11.md) | (5,169) | 6,031 |  |
-| [eucalyptus](Items/Trade Goods/TradeGoods-Perfume/item_2278.md) | [Trading Goods (Spices)](Categories/category_11.md) | (838) | 977 |  |
+| [jasmine](Items/Trade Goods/TradeGoods-Perfume/item_772.md) | Trading Goods (Spices) | (5,169) | 6,031 |  |
+| [eucalyptus](Items/Trade Goods/TradeGoods-Perfume/item_2278.md) | Trading Goods (Spices) | (838) | 977 |  |
 | 同盟時898=92% |
-| [lira](Items/Trade Goods/TradeGoods-Perfume/item_30.md) | [Trading Goods (Spices)](Categories/category_11.md) | (1,410) | 1,645 |  |
+| [lira](Items/Trade Goods/TradeGoods-Perfume/item_30.md) | Trading Goods (Spices) | (1,410) | 1,645 |  |
 | 同盟時1480=90% |
-| [benzoin](Items/Trade Goods/TradeGoods-Perfume/item_1962.md) | [Trading Goods (Spices)](Categories/category_11.md) | (1,725) | 2,012 |  |
+| [benzoin](Items/Trade Goods/TradeGoods-Perfume/item_1962.md) | Trading Goods (Spices) | (1,725) | 2,012 |  |
 | 同盟時85%=1710 |
-| [sandalwood](Items/Trade Goods/TradeGoods-Perfume/item_771.md) | [Trading Goods (Spices)](Categories/category_11.md) | (3,497) | 4,080 |  |
+| [sandalwood](Items/Trade Goods/TradeGoods-Perfume/item_771.md) | Trading Goods (Spices) | (3,497) | 4,080 |  |
 
 #### [Trading Goods (Spices)](Categories/category_12.md)
 
-| [saffron](Items/Trade Goods/TradeGoods-Spices/item_845.md) | [Trading Goods (Spices)](Categories/category_12.md) | (4,612) | 5,381 |  |
-| [nutmeg](Items/Trade Goods/TradeGoods-Spices/item_1969.md) | [Trading Goods (Spices)](Categories/category_12.md) | (4,519) | 5,273 |  |
-| [mace](Items/Trade Goods/TradeGoods-Spices/item_2100.md) | [Trading Goods (Spices)](Categories/category_12.md) | (4,687) | 5,468 |  |
+| [saffron](Items/Trade Goods/TradeGoods-Spices/item_845.md) | Trading Goods (Spices) | (4,612) | 5,381 |  |
+| [nutmeg](Items/Trade Goods/TradeGoods-Spices/item_1969.md) | Trading Goods (Spices) | (4,519) | 5,273 |  |
+| [mace](Items/Trade Goods/TradeGoods-Spices/item_2100.md) | Trading Goods (Spices) | (4,687) | 5,468 |  |
 
 #### [Trading goods (artificial goods)](Categories/category_13.md)
 
-| [glasswork](Items/Trade Goods/TradeGoods-Luxuries/item_60.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (2,751) | 3,210 |  |
+| [glasswork](Items/Trade Goods/TradeGoods-Luxuries/item_60.md) | Trading goods (artificial goods) | (2,751) | 3,210 |  |
 | 同盟時100% |
 
 #### [Trading Items (Gemstones)](Categories/category_15.md)
 
-| [jade](Items/Trade Goods/TradeGoods-Gems/item_2015.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (4,060) | 4,737 |  |
-| [sapphire](Items/Trade Goods/TradeGoods-Gems/item_676.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (6,148) | 7,173 |  |
-| [diamond](Items/Trade Goods/TradeGoods-Gems/item_449.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (3,668) | 4,280 |  |
-| [pink diamond](Items/Trade Goods/TradeGoods-Gems/item_2874.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (11,602) | 13,537 |  |
-| [ruby](Items/Trade Goods/TradeGoods-Gems/item_773.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (5,628) | 6,566 |  |
+| [jade](Items/Trade Goods/TradeGoods-Gems/item_2015.md) | Trading Items (Gemstones) | (4,060) | 4,737 |  |
+| [sapphire](Items/Trade Goods/TradeGoods-Gems/item_676.md) | Trading Items (Gemstones) | (6,148) | 7,173 |  |
+| [diamond](Items/Trade Goods/TradeGoods-Gems/item_449.md) | Trading Items (Gemstones) | (3,668) | 4,280 |  |
+| [pink diamond](Items/Trade Goods/TradeGoods-Gems/item_2874.md) | Trading Items (Gemstones) | (11,602) | 13,537 |  |
+| [ruby](Items/Trade Goods/TradeGoods-Gems/item_773.md) | Trading Items (Gemstones) | (5,628) | 6,566 |  |
 
 #### [Trading Items (Arms)](Categories/category_16.md)
 
-| [damascus sword](Items/Trade Goods/TradeGoods-Weapons/item_903.md) | [Trading Items (Arms)](Categories/category_16.md) | (7,384) | 8,615 |  |
+| [damascus sword](Items/Trade Goods/TradeGoods-Weapons/item_903.md) | Trading Items (Arms) | (7,384) | 8,615 |  |
 | 同盟時109%=9390 |
 
 #### [Trading Items (Firearms)](Categories/category_17.md)
 
-| [musket gun](Items/Trade Goods/TradeGoods-Firearms/item_584.md) | [Trading Items (Firearms)](Categories/category_17.md) | (5,183) | 6,047 |  |
+| [musket gun](Items/Trade Goods/TradeGoods-Firearms/item_584.md) | Trading Items (Firearms) | (5,183) | 6,047 |  |
 
 #### [交易品（織物）](Categories/category_20.md)
 
-| [java chintz](Items/Trade Goods/TradeGoods-Fabrics/item_1970.md) | [交易品（織物）](Categories/category_20.md) | (2,772) | 3,234 |  |
+| [java chintz](Items/Trade Goods/TradeGoods-Fabrics/item_1970.md) | 交易品（織物） | (2,772) | 3,234 |  |
 | 同盟時90%=2910 |
-| [damask](Items/Trade Goods/TradeGoods-Fabrics/item_614.md) | [交易品（織物）](Categories/category_20.md) | (6,023) | 7,028 |  |
+| [damask](Items/Trade Goods/TradeGoods-Fabrics/item_614.md) | 交易品（織物） | (6,023) | 7,028 |  |
 | 同盟時7590=108% |
-| [turkish rug](Items/Trade Goods/TradeGoods-Fabrics/item_686.md) | [交易品（織物）](Categories/category_20.md) | (6,817) | 7,954 |  |
+| [turkish rug](Items/Trade Goods/TradeGoods-Fabrics/item_686.md) | 交易品（織物） | (6,817) | 7,954 |  |
 | 7280=80%　8510=107% |
-| [velvet](Items/Trade Goods/TradeGoods-Fabrics/item_902.md) | [交易品（織物）](Categories/category_20.md) | (5,914) | 6,900 |  |
+| [velvet](Items/Trade Goods/TradeGoods-Fabrics/item_902.md) | 交易品（織物） | (5,914) | 6,900 |  |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
@@ -161,117 +159,117 @@ The city's name means "True Cross" in Spanish. In the early 16th century, Herná
 
 #### [交易品（繊維）](Categories/category_1.md)
 
-| [sisal hemp](Items/Trade Goods/TradeGoods-Fibers/item_1766.md) | [交易品（繊維）](Categories/category_1.md) | 224 | 261 |  |
+| [sisal hemp](Items/Trade Goods/TradeGoods-Fibers/item_1766.md) | 交易品（繊維） | 224 | 261 |  |
 | ▲Special products from the same cultural area |
-| [ramy](Items/Trade Goods/TradeGoods-Fibers/item_1961.md) | [交易品（繊維）](Categories/category_1.md) | (222) | 259 |  |
+| [ramy](Items/Trade Goods/TradeGoods-Fibers/item_1961.md) | 交易品（繊維） | (222) | 259 |  |
 | 同盟時104%=269 |
-| [raw silk](Items/Trade Goods/TradeGoods-Fibers/item_677.md) | [交易品（繊維）](Categories/category_1.md) | (2,117) | 2,470 |  |
-| [wool](Items/Trade Goods/TradeGoods-Fibers/item_5.md) | [交易品（繊維）](Categories/category_1.md) | (403) | 470 |  |
+| [raw silk](Items/Trade Goods/TradeGoods-Fibers/item_677.md) | 交易品（繊維） | (2,117) | 2,470 |  |
+| [wool](Items/Trade Goods/TradeGoods-Fibers/item_5.md) | 交易品（繊維） | (403) | 470 |  |
 
 #### [Trading Goods (Dye)](Categories/category_2.md)
 
-| [Gerep](Items/Trade Goods/TradeGoods-Dye/item_1814.md) | [Trading Goods (Dye)](Categories/category_2.md) | (500) | 583 |  |
-| [cochineal](Items/Trade Goods/TradeGoods-Dye/item_1817.md) | [Trading Goods (Dye)](Categories/category_2.md) | (630) | 734 |  |
-| [貝紫](Items/Trade Goods/TradeGoods-Dye/item_110.md) | [Trading Goods (Dye)](Categories/category_2.md) | (3,919) | 4,572 |  |
+| [Gerep](Items/Trade Goods/TradeGoods-Dye/item_1814.md) | Trading Goods (Dye) | (500) | 583 |  |
+| [cochineal](Items/Trade Goods/TradeGoods-Dye/item_1817.md) | Trading Goods (Dye) | (630) | 734 |  |
+| [貝紫](Items/Trade Goods/TradeGoods-Dye/item_110.md) | Trading Goods (Dye) | (3,919) | 4,572 |  |
 
 #### [Trading items (food items)](Categories/category_3.md)
 
-| [mushroom](Items/Trade Goods/TradeGoods-Foodstuffs/item_160.md) | [Trading items (food items)](Categories/category_3.md) | 32 | (36) |  |
-| [duck meat](Items/Trade Goods/TradeGoods-Foodstuffs/item_32.md) | [Trading items (food items)](Categories/category_3.md) | (528) | 616 |  |
-| [pumpkin](Items/Trade Goods/TradeGoods-Foodstuffs/item_137.md) | [Trading items (food items)](Categories/category_3.md) | (124) | 144 |  |
-| [Cassava](Items/Trade Goods/TradeGoods-Foodstuffs/item_1805.md) | [Trading items (food items)](Categories/category_3.md) | 72 | (81) |  |
-| [egg](Items/Trade Goods/TradeGoods-Foodstuffs/item_40.md) | [Trading items (food items)](Categories/category_3.md) | (31) | 36 |  |
-| [wheat](Items/Trade Goods/TradeGoods-Foodstuffs/item_16.md) | [Trading items (food items)](Categories/category_3.md) | 112 | (126) |  |
-| [Paddy rice](Items/Trade Goods/TradeGoods-Foodstuffs/item_654.md) | [Trading items (food items)](Categories/category_3.md) | 117 | (131) |  |
-| [mutton](Items/Trade Goods/TradeGoods-Foodstuffs/item_33.md) | [Trading items (food items)](Categories/category_3.md) | 551 | (619) |  |
-| [魚肉](Items/Trade Goods/TradeGoods-Foodstuffs/item_10.md) | [Trading items (food items)](Categories/category_3.md) | 204 | (229) |  |
-| [chicken meat](Items/Trade Goods/TradeGoods-Foodstuffs/item_29.md) | [Trading items (food items)](Categories/category_3.md) | (581) | 677 |  |
+| [mushroom](Items/Trade Goods/TradeGoods-Foodstuffs/item_160.md) | Trading items (food items) | 32 | (36) |  |
+| [duck meat](Items/Trade Goods/TradeGoods-Foodstuffs/item_32.md) | Trading items (food items) | (528) | 616 |  |
+| [pumpkin](Items/Trade Goods/TradeGoods-Foodstuffs/item_137.md) | Trading items (food items) | (124) | 144 |  |
+| [Cassava](Items/Trade Goods/TradeGoods-Foodstuffs/item_1805.md) | Trading items (food items) | 72 | (81) |  |
+| [egg](Items/Trade Goods/TradeGoods-Foodstuffs/item_40.md) | Trading items (food items) | (31) | 36 |  |
+| [wheat](Items/Trade Goods/TradeGoods-Foodstuffs/item_16.md) | Trading items (food items) | 112 | (126) |  |
+| [Paddy rice](Items/Trade Goods/TradeGoods-Foodstuffs/item_654.md) | Trading items (food items) | 117 | (131) |  |
+| [mutton](Items/Trade Goods/TradeGoods-Foodstuffs/item_33.md) | Trading items (food items) | 551 | (619) |  |
+| [魚肉](Items/Trade Goods/TradeGoods-Foodstuffs/item_10.md) | Trading items (food items) | 204 | (229) |  |
+| [chicken meat](Items/Trade Goods/TradeGoods-Foodstuffs/item_29.md) | Trading items (food items) | (581) | 677 |  |
 
 #### [交易品（調味料）](Categories/category_4.md)
 
-| [coconut vinegar](Items/Trade Goods/TradeGoods-Seasonings/item_1988.md) | [交易品（調味料）](Categories/category_4.md) | (428) | 499 |  |
-| [peanut oil](Items/Trade Goods/TradeGoods-Seasonings/item_596.md) | [交易品（調味料）](Categories/category_4.md) | (415) | 484 |  |
-| [salt](Items/Trade Goods/TradeGoods-Seasonings/item_42.md) | [交易品（調味料）](Categories/category_4.md) | (234) | 272 |  |
+| [coconut vinegar](Items/Trade Goods/TradeGoods-Seasonings/item_1988.md) | 交易品（調味料） | (428) | 499 |  |
+| [peanut oil](Items/Trade Goods/TradeGoods-Seasonings/item_596.md) | 交易品（調味料） | (415) | 484 |  |
+| [salt](Items/Trade Goods/TradeGoods-Seasonings/item_42.md) | 交易品（調味料） | (234) | 272 |  |
 
 #### [交易品（雑貨）](Categories/category_5.md)
 
-| [Western books](Items/Trade Goods/TradeGoods-Misc/item_293.md) | [交易品（雑貨）](Categories/category_5.md) | 566 | 658 |  |
+| [Western books](Items/Trade Goods/TradeGoods-Misc/item_293.md) | 交易品（雑貨） | 566 | 658 |  |
 
 #### [Trading products (medical products)](Categories/category_6.md)
 
-| [cinchona bark](Items/Trade Goods/TradeGoods-Medicine/item_2121.md) | [Trading products (medical products)](Categories/category_6.md) | (700) | 816 |  |
-| [dandelion](Items/Trade Goods/TradeGoods-Medicine/item_1089.md) | [Trading products (medical products)](Categories/category_6.md) | (258) | 300 |  |
-| [belladonna](Items/Trade Goods/TradeGoods-Medicine/item_1056.md) | [Trading products (medical products)](Categories/category_6.md) | (478) | 557 |  |
+| [cinchona bark](Items/Trade Goods/TradeGoods-Medicine/item_2121.md) | Trading products (medical products) | (700) | 816 |  |
+| [dandelion](Items/Trade Goods/TradeGoods-Medicine/item_1089.md) | Trading products (medical products) | (258) | 300 |  |
+| [belladonna](Items/Trade Goods/TradeGoods-Medicine/item_1056.md) | Trading products (medical products) | (478) | 557 |  |
 
 #### [Trading products (precious metals)](Categories/category_8.md)
 
-| [gold dust](Items/Trade Goods/TradeGoods-Metals/item_111.md) | [Trading products (precious metals)](Categories/category_8.md) | (1,894) | 2,209 |  |
+| [gold dust](Items/Trade Goods/TradeGoods-Metals/item_111.md) | Trading products (precious metals) | (1,894) | 2,209 |  |
 
 #### [交易品（酒類）](Categories/category_9.md)
 
-| [tequila](Items/Trade Goods/TradeGoods-Alcohol/item_108.md) | [交易品（酒類）](Categories/category_9.md) | (1,023) | 1,193 |  |
-| [brandy](Items/Trade Goods/TradeGoods-Alcohol/item_9.md) | [交易品（酒類）](Categories/category_9.md) | 1,460 | (1,642) |  |
-| [wine](Items/Trade Goods/TradeGoods-Alcohol/item_11.md) | [交易品（酒類）](Categories/category_9.md) | 606 | (681) |  |
+| [tequila](Items/Trade Goods/TradeGoods-Alcohol/item_108.md) | 交易品（酒類） | (1,023) | 1,193 |  |
+| [brandy](Items/Trade Goods/TradeGoods-Alcohol/item_9.md) | 交易品（酒類） | 1,460 | (1,642) |  |
+| [wine](Items/Trade Goods/TradeGoods-Alcohol/item_11.md) | 交易品（酒類） | 606 | (681) |  |
 
 #### [Trading goods (hobby goods)](Categories/category_10.md)
 
-| [tobacco](Items/Trade Goods/TradeGoods-Sunddries/item_109.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (546) | 636 |  |
+| [tobacco](Items/Trade Goods/TradeGoods-Sunddries/item_109.md) | Trading goods (hobby goods) | (546) | 636 |  |
 | ▲Special products from neighboring cultural areas |
-| [chicle](Items/Trade Goods/TradeGoods-Sunddries/item_4083.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (842) | 982 |  |
+| [chicle](Items/Trade Goods/TradeGoods-Sunddries/item_4083.md) | Trading goods (hobby goods) | (842) | 982 |  |
 | ▲Special products from neighboring cultural areas |
-| [pineapple](Items/Trade Goods/TradeGoods-Sunddries/item_867.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (905) | 1,055 |  |
-| [papaya](Items/Trade Goods/TradeGoods-Sunddries/item_1948.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (417) | 486 |  |
+| [pineapple](Items/Trade Goods/TradeGoods-Sunddries/item_867.md) | Trading goods (hobby goods) | (905) | 1,055 |  |
+| [papaya](Items/Trade Goods/TradeGoods-Sunddries/item_1948.md) | Trading goods (hobby goods) | (417) | 486 |  |
 | 同盟時427=88% |
-| [peanuts](Items/Trade Goods/TradeGoods-Sunddries/item_134.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (160) | 186 |  |
+| [peanuts](Items/Trade Goods/TradeGoods-Sunddries/item_134.md) | Trading goods (hobby goods) | (160) | 186 |  |
 | ▲Special products from the same cultural area |
 
 #### [Trading Goods (Spices)](Categories/category_12.md)
 
-| [basil](Items/Trade Goods/TradeGoods-Spices/item_126.md) | [Trading Goods (Spices)](Categories/category_12.md) | 52 | (58) |  |
-| [vanilla](Items/Trade Goods/TradeGoods-Spices/item_1810.md) | [Trading Goods (Spices)](Categories/category_12.md) | 389 | (437) |  |
+| [basil](Items/Trade Goods/TradeGoods-Spices/item_126.md) | Trading Goods (Spices) | 52 | (58) |  |
+| [vanilla](Items/Trade Goods/TradeGoods-Spices/item_1810.md) | Trading Goods (Spices) | 389 | (437) |  |
 
 #### [Trading goods (artificial goods)](Categories/category_13.md)
 
-| [lapidary work](Items/Trade Goods/TradeGoods-Luxuries/item_153.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (6,197) | 7,230 |  |
+| [lapidary work](Items/Trade Goods/TradeGoods-Luxuries/item_153.md) | Trading goods (artificial goods) | (6,197) | 7,230 |  |
 | 同盟時5780=80% 7230=100% |
-| [silversmith](Items/Trade Goods/TradeGoods-Luxuries/item_619.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (2,425) | 2,829 |  |
-| [luxury furniture](Items/Trade Goods/TradeGoods-Luxuries/item_1048.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (2,472) | 2,884 |  |
+| [silversmith](Items/Trade Goods/TradeGoods-Luxuries/item_619.md) | Trading goods (artificial goods) | (2,425) | 2,829 |  |
+| [luxury furniture](Items/Trade Goods/TradeGoods-Luxuries/item_1048.md) | Trading goods (artificial goods) | (2,472) | 2,884 |  |
 
 #### [交易品（美術品）](Categories/category_14.md)
 
-| [marble statue](Items/Trade Goods/TradeGoods-Art/item_50.md) | [交易品（美術品）](Categories/category_14.md) | (2,664) | 3,108 |  |
-| [wooden statue](Items/Trade Goods/TradeGoods-Art/item_95.md) | [交易品（美術品）](Categories/category_14.md) | (995) | 1,160 |  |
+| [marble statue](Items/Trade Goods/TradeGoods-Art/item_50.md) | 交易品（美術品） | (2,664) | 3,108 |  |
+| [wooden statue](Items/Trade Goods/TradeGoods-Art/item_95.md) | 交易品（美術品） | (995) | 1,160 |  |
 
 #### [Trading Items (Gemstones)](Categories/category_15.md)
 
-| [opal](Items/Trade Goods/TradeGoods-Gems/item_2006.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (2,293) | 2,675 |  |
-| [garnet](Items/Trade Goods/TradeGoods-Gems/item_1005.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (1,941) | 2,264 |  |
-| [crystal](Items/Trade Goods/TradeGoods-Gems/item_893.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (1,146) | 1,337 |  |
-| [pearl](Items/Trade Goods/TradeGoods-Gems/item_769.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (4,885) | 5,700 |  |
+| [opal](Items/Trade Goods/TradeGoods-Gems/item_2006.md) | Trading Items (Gemstones) | (2,293) | 2,675 |  |
+| [garnet](Items/Trade Goods/TradeGoods-Gems/item_1005.md) | Trading Items (Gemstones) | (1,941) | 2,264 |  |
+| [crystal](Items/Trade Goods/TradeGoods-Gems/item_893.md) | Trading Items (Gemstones) | (1,146) | 1,337 |  |
+| [pearl](Items/Trade Goods/TradeGoods-Gems/item_769.md) | Trading Items (Gemstones) | (4,885) | 5,700 |  |
 | 同盟時100% |
 
 #### [Trading Items (Arms)](Categories/category_16.md)
 
-| [dagger](Items/Trade Goods/TradeGoods-Weapons/item_143.md) | [Trading Items (Arms)](Categories/category_16.md) | (809) | 943 |  |
+| [dagger](Items/Trade Goods/TradeGoods-Weapons/item_143.md) | Trading Items (Arms) | (809) | 943 |  |
 | 同盟時829=88% |
 
 #### [Trading Items (Firearms)](Categories/category_17.md)
 
-| [大砲](Items/Trade Goods/TradeGoods-Firearms/item_4.md) | [Trading Items (Firearms)](Categories/category_17.md) | 5,253 | (5,910) |  |
-| [cannonball](Items/Trade Goods/TradeGoods-Firearms/item_144.md) | [Trading Items (Firearms)](Categories/category_17.md) | 1,748 | 1,770 |  |
+| [大砲](Items/Trade Goods/TradeGoods-Firearms/item_4.md) | Trading Items (Firearms) | 5,253 | (5,910) |  |
+| [cannonball](Items/Trade Goods/TradeGoods-Firearms/item_144.md) | Trading Items (Firearms) | 1,748 | 1,770 |  |
 | 同盟時1840=104% |
 
 #### [Trading Goods (Livestock)](Categories/category_18.md)
 
-| [duck](Items/Trade Goods/TradeGoods-Livestock/item_38.md) | [Trading Goods (Livestock)](Categories/category_18.md) | (60) | 69 |  |
-| [cow](Items/Trade Goods/TradeGoods-Livestock/item_17.md) | [Trading Goods (Livestock)](Categories/category_18.md) | 339 | (381) |  |
-| [chicken](Items/Trade Goods/TradeGoods-Livestock/item_252.md) | [Trading Goods (Livestock)](Categories/category_18.md) | (48) | 55 |  |
+| [duck](Items/Trade Goods/TradeGoods-Livestock/item_38.md) | Trading Goods (Livestock) | (60) | 69 |  |
+| [cow](Items/Trade Goods/TradeGoods-Livestock/item_17.md) | Trading Goods (Livestock) | 339 | (381) |  |
+| [chicken](Items/Trade Goods/TradeGoods-Livestock/item_252.md) | Trading Goods (Livestock) | (48) | 55 |  |
 
 #### [交易品（工業品）](Categories/category_19.md)
 
-| [rubber](Items/Trade Goods/TradeGoods-Wares/item_2819.md) | [交易品（工業品）](Categories/category_19.md) | (660) | 770 |  |
-| [wood](Items/Trade Goods/TradeGoods-Wares/item_277.md) | [交易品（工業品）](Categories/category_19.md) | (694) | 809 |  |
-| [paper](Items/Trade Goods/TradeGoods-Wares/item_625.md) | [交易品（工業品）](Categories/category_19.md) | 475 | 552 |  |
+| [rubber](Items/Trade Goods/TradeGoods-Wares/item_2819.md) | 交易品（工業品） | (660) | 770 |  |
+| [wood](Items/Trade Goods/TradeGoods-Wares/item_277.md) | 交易品（工業品） | (694) | 809 |  |
+| [paper](Items/Trade Goods/TradeGoods-Wares/item_625.md) | 交易品（工業品） | 475 | 552 |  |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
@@ -290,31 +288,31 @@ The city's name means "True Cross" in Spanish. In the early 16th century, Herná
 
 #### [recipe book](Categories/category_22.md)
 
-| [How to sew a poncho dress](Items/Recipe Book/item_1816.md) | [recipe book](Categories/category_22.md) | Fixed recipe | tool shop owner |  |
+| [How to sew a poncho dress](Items/Recipe Book/item_1816.md) | recipe book | Fixed recipe | tool shop owner |  |
 
 #### [Equipment (body)](Categories/category_24.md)
 
-| [Surcoat](Items/Equipment/Equipment-Body/item_131.md) | [Equipment (body)](Categories/category_24.md) | 30,000 | tool shop owner |  |
+| [Surcoat](Items/Equipment/Equipment-Body/item_131.md) | Equipment (body) | 30,000 | tool shop owner |  |
 
 #### [Equipment (legs)](Categories/category_26.md)
 
-| [boots](Items/Equipment/Equipment-Feet/item_365.md) | [Equipment (legs)](Categories/category_26.md) | 100 | tool shop owner |  |
+| [boots](Items/Equipment/Equipment-Feet/item_365.md) | Equipment (legs) | 100 | tool shop owner |  |
 
 #### [Equipment (belongings)](Categories/category_27.md)
 
-| [long sword](Items/Equipment/Equipment-Weapon/item_302.md) | [Equipment (belongings)](Categories/category_27.md) | 15,400 | tool shop owner |  |
+| [long sword](Items/Equipment/Equipment-Weapon/item_302.md) | Equipment (belongings) | 15,400 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [Taheebo juice](Items/Consumables/Consumables-Landbattle/item_1807.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | tool shop owner |  |
-| [taheebo bottle](Items/Consumables/Consumables-Landbattle/item_1823.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 600 | tool shop owner |  |
+| [Taheebo juice](Items/Consumables/Consumables-Landbattle/item_1807.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [taheebo bottle](Items/Consumables/Consumables-Landbattle/item_1823.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 | 要投資（必要投資額：120,000） |
-| [tonic](Items/Consumables/Consumables-Landbattle/item_1678.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 150 | tool shop owner |  |
+| [tonic](Items/Consumables/Consumables-Landbattle/item_1678.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
 
 #### [Consumables (request documents)](Categories/category_45.md)
 
-| [spice purchase order](Items/Consumables/Consumables-Documents/item_4918.md) | [Consumables (request documents)](Categories/category_45.md) | 60,000 | tool shop owner |  |
+| [spice purchase order](Items/Consumables/Consumables-Documents/item_4918.md) | Consumables (request documents) | 60,000 | tool shop owner |  |
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
@@ -323,13 +321,13 @@ The city's name means "True Cross" in Spanish. In the early 16th century, Herná
 
 #### [Consumables (condition recovery)](Categories/category_21.md)
 
-| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
-| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
+| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
+| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
 
 #### [Consumables (other)](Categories/category_44.md)
 
-| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
-| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
+| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | Consumables (other) | 500 | workshop craftsman |  |
+| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | Consumables (other) | 500 | workshop craftsman |  |
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
@@ -338,26 +336,25 @@ The city's name means "True Cross" in Spanish. In the early 16th century, Herná
 
 #### [Consumables (condition recovery)](Categories/category_21.md)
 
-| [spare sail](Items/Consumables/Consumables-Recovery/item_242.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
-| [recreational sake barrel](Items/Consumables/Consumables-Recovery/item_83.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
-| [fire extinguishing sand](Items/Consumables/Consumables-Recovery/item_68.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
+| [spare sail](Items/Consumables/Consumables-Recovery/item_242.md) | Consumables (condition recovery) |  | peddler |  |
+| [recreational sake barrel](Items/Consumables/Consumables-Recovery/item_83.md) | Consumables (condition recovery) |  | peddler |  |
+| [fire extinguishing sand](Items/Consumables/Consumables-Recovery/item_68.md) | Consumables (condition recovery) |  | peddler |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [suma juice](Items/Consumables/Consumables-Landbattle/item_1825.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) |  | peddler |  |
-| [chili pepper sauce](Items/Consumables/Consumables-Landbattle/item_1826.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) |  | peddler |  |
-| [煙玉](Items/Consumables/Consumables-Landbattle/item_86.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) |  | peddler |  |
+| [suma juice](Items/Consumables/Consumables-Landbattle/item_1825.md) | Consumables (land battle/deck battle) |  | peddler |  |
+| [chili pepper sauce](Items/Consumables/Consumables-Landbattle/item_1826.md) | Consumables (land battle/deck battle) |  | peddler |  |
+| [煙玉](Items/Consumables/Consumables-Landbattle/item_86.md) | Consumables (land battle/deck battle) |  | peddler |  |
 
 #### [Consumables (naval/hand-to-hand combat)](Categories/category_30.md)
 
-| [flag of calm](Items/Consumables/Consumables-navalhand-to-hand combat/item_84.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |  | peddler |  |
+| [flag of calm](Items/Consumables/Consumables-navalhand-to-hand combat/item_84.md) | Consumables (naval/hand-to-hand combat) |  | peddler |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [landmark ribbon](Items/Consumables/Consumables-Skill/item_316.md) | [Consumables (skill activation)](Categories/category_31.md) |  | peddler |  |
+| [landmark ribbon](Items/Consumables/Consumables-Skill/item_316.md) | Consumables (skill activation) |  | peddler |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
-
 
 ### Shipyard Master
 
@@ -366,12 +363,11 @@ The city's name means "True Cross" in Spanish. In the early 16th century, Herná
 
 #### [Boat](Categories/category_43.md)
 
-| [Varsha](Items/Ships/item_201.md) | [Boat](Categories/category_43.md) | 2,000 | Shipyard Master |  |
-| [bergantine](Items/Ships/item_208.md) | [Boat](Categories/category_43.md) | 148,800 | Shipyard Master |  |
-| [commercial varsha](Items/Ships/item_204.md) | [Boat](Categories/category_43.md) | 5,200 | Shipyard Master |  |
-| [Battle Barsha](Items/Ships/item_203.md) | [Boat](Categories/category_43.md) | 5,100 | Shipyard Master |  |
-| [exploration barsha](Items/Ships/item_202.md) | [Boat](Categories/category_43.md) | 5,000 | Shipyard Master |  |
-
+| [Varsha](Items/Ships/item_201.md) | Boat | 2,000 | Shipyard Master |  |
+| [bergantine](Items/Ships/item_208.md) | Boat | 148,800 | Shipyard Master |  |
+| [commercial varsha](Items/Ships/item_204.md) | Boat | 5,200 | Shipyard Master |  |
+| [Battle Barsha](Items/Ships/item_203.md) | Boat | 5,100 | Shipyard Master |  |
+| [exploration barsha](Items/Ships/item_202.md) | Boat | 5,000 | Shipyard Master |  |
 
 ### Shipwright
 
@@ -380,11 +376,11 @@ The city's name means "True Cross" in Spanish. In the early 16th century, Herná
 
 #### [recipe book](Categories/category_22.md)
 
-| [Shipbuilding materials/reinforced ropes](Items/Recipe Book/item_1767.md) | [recipe book](Categories/category_22.md) | Fixed recipe | Shipwright |  |
+| [Shipbuilding materials/reinforced ropes](Items/Recipe Book/item_1767.md) | recipe book | Fixed recipe | Shipwright |  |
 
 #### [shipbuilding materials](Categories/category_47.md)
 
-| [reinforced rope](Items/Shipbuilding FS Material/item_1685.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipwright |  |
-| [Specially processed rope](Items/Shipbuilding FS Material/item_4062.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipwright |  |
+| [reinforced rope](Items/Shipbuilding FS Material/item_1685.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
+| [Specially processed rope](Items/Shipbuilding FS Material/item_4062.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
   </TabItem>
 </Tabs>

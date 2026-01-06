@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 230 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | aztec emperor 
-
-
+| **Remarks** | aztec emperor
 
  Discovery Experience 230 Discovery Name Card Experience 115 |
 | **最終更新** | 2016-05-14 00:21:15 Gainor |

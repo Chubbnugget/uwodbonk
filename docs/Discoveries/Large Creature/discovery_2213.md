@@ -10,7 +10,7 @@ category: Large Creature
 | **Discovery Type** | Large Creature |
 | **Discovery Name** | Sambar |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Deer are distributed over wide areas such as Taiwan Island and India. Grows to over 150cm in total length, and males have horns. 
+| **explanation** | Deer are distributed over wide areas such as Taiwan Island and India. Grows to over 150cm in total length, and males have horns.
  They are nocturnal and can be seen resting in the shade of trees during the day. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

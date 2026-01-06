@@ -10,7 +10,7 @@ category: Fossils
 | **Discovery Type** | Fossils |
 | **Discovery Name** | Starfish Fossils |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Fossils are starfish with five arms extended. beautiful 
+| **explanation** | Fossils are starfish with five arms extended. beautiful
 
  It has a Stars shape. |
 | **Era** |  |

@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 370 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "King Minos' Daughter" 
+| **Remarks** | Quest "King Minos' Daughter"
 
  Discovery Name Card:175 |
 | **最終更新** | 2022-11-05 12:28:31 Sakon. |

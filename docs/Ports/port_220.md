@@ -3,7 +3,6 @@ id: 220
 name: Yanbu
 type: Port
 ---
-
 # Port: ヤンブー
 
 import Tabs from '@theme/Tabs';
@@ -38,7 +37,6 @@ import TabItem from '@theme/TabItem';
 ### Description
 A port town facing the Red Sea. Since ancient times, it has connected the Mediterranean world with Egypt and other countries. It flourished as a transit trading port for spices and spices. To the northeast of the city are steep mountains, and the scenery is fantastic. Cultural area: Arab
 
-
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
@@ -69,7 +67,7 @@ A port town facing the Red Sea. Since ancient times, it has connected the Medite
 
 #### [Trading goods (hobby goods)](Categories/category_10.md)
 
-| [raisins](Items/Trade Goods/TradeGoods-Sunddries/item_35.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 321 | (361) |  |
+| [raisins](Items/Trade Goods/TradeGoods-Sunddries/item_35.md) | Trading goods (hobby goods) | 321 | (361) |  |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
@@ -85,17 +83,16 @@ A port town facing the Red Sea. Since ancient times, it has connected the Medite
 
 #### [Equipment (body)](Categories/category_24.md)
 
-| [damask dolman](Items/Equipment/Equipment-Body/item_795.md) | [Equipment (body)](Categories/category_24.md) | 181,700 | tool shop owner |  |
+| [damask dolman](Items/Equipment/Equipment-Body/item_795.md) | Equipment (body) | 181,700 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [numbness medicine](Items/Consumables/Consumables-Landbattle/item_452.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 500 | tool shop owner |  |
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 200 | tool shop owner |  |
-| [hellfire torch](Items/Consumables/Consumables-Landbattle/item_233.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | tool shop owner |  |
-| [explosive drug](Items/Consumables/Consumables-Landbattle/item_558.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | tool shop owner |  |
+| [numbness medicine](Items/Consumables/Consumables-Landbattle/item_452.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
+| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [hellfire torch](Items/Consumables/Consumables-Landbattle/item_233.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [explosive drug](Items/Consumables/Consumables-Landbattle/item_558.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
-
 
 ### Shipwright
 
@@ -104,10 +101,10 @@ A port town facing the Red Sea. Since ancient times, it has connected the Medite
 
 #### [recipe book](Categories/category_22.md)
 
-| [Shipbuilding materials and ropes](Items/Recipe Book/item_1761.md) | [recipe book](Categories/category_22.md) | Fixed recipe | Shipwright |  |
+| [Shipbuilding materials and ropes](Items/Recipe Book/item_1761.md) | recipe book | Fixed recipe | Shipwright |  |
 
 #### [shipbuilding materials](Categories/category_47.md)
 
-| [舫綱](Items/Shipbuilding FS Material/item_1762.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipwright |  |
+| [舫綱](Items/Shipbuilding FS Material/item_1762.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
   </TabItem>
 </Tabs>

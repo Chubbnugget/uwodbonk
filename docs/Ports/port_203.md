@@ -3,7 +3,6 @@ id: 203
 name: acropolis
 type: Port
 ---
-
 # Port: アクロポリス
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 The capital of the legendary land of Atlantis. It is an impregnable fortified city with a circular structure, surrounded by canals, and protected by high walls. There is also a warehouse guard and a temple (Temple of Poseidon). Traveling on the Ship of the Sun Secret Quest [2015/12/3 Phone@Administrator] For convenience, the icon on the map has been set at the same location as Candia. Also, since you can receive imperial command quests from Sokoban, there is a "middleman" for the sake of the quest database.
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
@@ -74,31 +72,31 @@ The capital of the legendary land of Atlantis. It is an impregnable fortified ci
 
 #### [Equipment (head)](Categories/category_23.md)
 
-| [access world](Items/Equipment/Equipment-Head/item_5017.md) | [Equipment (head)](Categories/category_23.md) | 5,000 | tool shop owner |  |
+| [access world](Items/Equipment/Equipment-Head/item_5017.md) | Equipment (head) | 5,000 | tool shop owner |  |
 
 #### [Equipment (body)](Categories/category_24.md)
 
-| [Pruha](Items/Equipment/Equipment-Body/item_5016.md) | [Equipment (body)](Categories/category_24.md) | 5,000 | tool shop owner |  |
-| [Protos Pruha (for women)](Items/Equipment/Equipment-Body/item_5014.md) | [Equipment (body)](Categories/category_24.md) | 50,000 | tool shop owner |  |
-| [Protos Pruha (for men)](Items/Equipment/Equipment-Body/item_5015.md) | [Equipment (body)](Categories/category_24.md) | 50,000 | tool shop owner |  |
+| [Pruha](Items/Equipment/Equipment-Body/item_5016.md) | Equipment (body) | 5,000 | tool shop owner |  |
+| [Protos Pruha (for women)](Items/Equipment/Equipment-Body/item_5014.md) | Equipment (body) | 50,000 | tool shop owner |  |
+| [Protos Pruha (for men)](Items/Equipment/Equipment-Body/item_5015.md) | Equipment (body) | 50,000 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [傷薬](Items/Consumables/Consumables-Landbattle/item_317.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 150 | tool shop owner |  |
-| [throwing knife](Items/Consumables/Consumables-Landbattle/item_560.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 150 | tool shop owner |  |
-| [hellfire torch](Items/Consumables/Consumables-Landbattle/item_233.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | tool shop owner |  |
-| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 100 | tool shop owner |  |
+| [傷薬](Items/Consumables/Consumables-Landbattle/item_317.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [throwing knife](Items/Consumables/Consumables-Landbattle/item_560.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [hellfire torch](Items/Consumables/Consumables-Landbattle/item_233.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | [Consumables (skill activation)](Categories/category_31.md) | 2,500 | tool shop owner |  |
+| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
 
 #### [Consumables (other)](Categories/category_44.md)
 
-| [ancient knowledge book](Items/Consumables/Consumables-Other/item_5103.md) | [Consumables (other)](Categories/category_44.md) | 3,000,000 | tool shop owner |  |
-| [The lost ancient celestial globe](Items/Consumables/Consumables-Other/item_5102.md) | [Consumables (other)](Categories/category_44.md) | 400,000 | tool shop owner |  |
-| [Special rice made with lots of love](Items/Consumables/Consumables-Other/item_5105.md) | [Consumables (other)](Categories/category_44.md) | 3,000,000 | tool shop owner |  |
-| [War beast amulet](Items/Consumables/Consumables-Other/item_5104.md) | [Consumables (other)](Categories/category_44.md) | 1,500,000 | tool shop owner |  |
-| [stone chalice](Items/Consumables/Consumables-Other/item_5019.md) | [Consumables (other)](Categories/category_44.md) | 10,000,000 | tool shop owner |  |
+| [ancient knowledge book](Items/Consumables/Consumables-Other/item_5103.md) | Consumables (other) | 3,000,000 | tool shop owner |  |
+| [The lost ancient celestial globe](Items/Consumables/Consumables-Other/item_5102.md) | Consumables (other) | 400,000 | tool shop owner |  |
+| [Special rice made with lots of love](Items/Consumables/Consumables-Other/item_5105.md) | Consumables (other) | 3,000,000 | tool shop owner |  |
+| [War beast amulet](Items/Consumables/Consumables-Other/item_5104.md) | Consumables (other) | 1,500,000 | tool shop owner |  |
+| [stone chalice](Items/Consumables/Consumables-Other/item_5019.md) | Consumables (other) | 10,000,000 | tool shop owner |  |
   </TabItem>
 </Tabs>

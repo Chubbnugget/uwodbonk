@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | steller jay |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | This bird lives from Canada to the west coast of North America, and is often seen in mountainous areas. 
+| **explanation** | This bird lives from Canada to the west coast of North America, and is often seen in mountainous areas.
 
  They are omnivorous, eating fruits, insects, and bird eggs. It has a fine black crest on its head, but the feathers from the neck down are bright blue, and its cry is somewhat noisy. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | hearth-shaped earthenware |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | An earthenware pot shaped like a brazier. It is said to have been often used during the Gaya Era. 
+| **explanation** | An earthenware pot shaped like a brazier. It is said to have been often used during the Gaya Era.
  As pottery making techniques developed, the pottery became larger, and various patterns such as triangular and semicircular shapes began to be drawn on it. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

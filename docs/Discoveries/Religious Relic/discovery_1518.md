@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | heart scarab |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A special amulet shaped like a scarab. The Book of the Dead is engraved on the back. 
+| **explanation** | A special amulet shaped like a scarab. The Book of the Dead is engraved on the back.
  It was placed over the mummy's heart as a prayer for resurrection. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

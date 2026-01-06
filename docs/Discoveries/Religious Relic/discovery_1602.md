@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Wu Zetian's fake sutra |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A fake sutra created by Wu Zetian and others by modifying the "Great Cloud Sutra" in the Buddhist scriptures. 
+| **explanation** | A fake sutra created by Wu Zetian and others by modifying the "Great Cloud Sutra" in the Buddhist scriptures.
  By including a prophecy of the emergence of an empress, he used it as a stepping stone to gaining the position of emperor himself. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

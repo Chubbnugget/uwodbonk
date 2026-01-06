@@ -15,11 +15,9 @@ category: Marine Life
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 480 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Upper Paraguay River. Waterside to the right of the entrance. 
+| **Remarks** | Upper Paraguay River. Waterside to the right of the entrance.
 
 Fishing R10+1
-
-
 
  Discovery Experience 480 Discovery Name Card Experience 240 |
 | **最終更新** | 2016-05-07 21:46:23 Gainor |

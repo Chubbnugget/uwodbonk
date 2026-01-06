@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | 2 (Rank of skills required for discovery) |
 | **Experience** | 370 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Ethiopian Queen’s Stars” 
+| **Remarks** | Quest “Ethiopian Queen’s Stars”
 
  Discovery Name Card:185 |
 | **最終更新** | 2022-10-30 18:59:28 Sakon. |

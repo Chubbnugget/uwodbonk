@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Yakushima |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | An island in the southern part of Kyushu. It has mountains over 1000m and has a lot of rain. 
+| **explanation** | An island in the southern part of Kyushu. It has mountains over 1000m and has a lot of rain.
  Its rich nature fosters diverse biology. The island can be called the Galapagos of the East. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

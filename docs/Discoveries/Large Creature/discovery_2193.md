@@ -15,7 +15,7 @@ category: Large Creature
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 450 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Request for cooperation in bear investigation” 
+| **Remarks** | Quest “Request for cooperation in bear investigation”
 
  Discovery Name Card:225 |
 | **最終更新** | 2022-11-03 18:35:29 Sakon. |

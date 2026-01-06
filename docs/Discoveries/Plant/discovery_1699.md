@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Unnan primrose |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant with pale purple or pink flowers found in southern China. 
+| **explanation** | A plant with pale purple or pink flowers found in southern China.
 
 Flowers bloom for a long time and are fragrant.
 
@@ -19,9 +19,7 @@ Flowers bloom for a long time and are fragrant.
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 280 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Searching for flowers for city girls 
-
-
+| **Remarks** | Searching for flowers for city girls
 
  Discovery Experience 280 Discovery Name Card Experience 140 |
 | **最終更新** | 2016-07-25 13:33:49 Gainor |

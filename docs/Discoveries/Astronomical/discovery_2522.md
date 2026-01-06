@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 270 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Observation record of bright Stars" 
+| **Remarks** | "Observation record of bright Stars"
 
  Discovery Name Card:135 |
 | **最終更新** | 2022-11-26 20:03:48 Sakon. |

@@ -1,32 +1,29 @@
 ---
 id: 6749
 category: Other
-status: untranslated
 ---
-
 # Details of the quest [Astronomer's Observation Record]
-
 
 ### Details of the quest [Astronomer's Observation Record]
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Quest Name** | Astronomer's observation record |  
+| Attribute | Details |
+| :--- | :--- |
+| **Quest Name** | Astronomer's observation record |
 
 ### Quest Contents
 Observation off the grain coast
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Chrono Quest** |  |  
-| **Offer Method** | astronomy |  
-| **Difficulty** | 21 |  
-| **Time Limit** | none |  
-| **Town** | [Lisbon](Ports/port_2.md) |  
-| **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (21), [Visibility](Skills/Skill-Adventure/item_458.md) (21) |  
-| **Discovery** | [Astronomical](Categories/category_18.md) / [Global Cluster of Scorpius](Quests/Other/quest_3791.md) A spherical cluster of stars located at the back of the constellation Scorpius. It can be seen with the naked eye. Rank: 5, Points: 10 |  
-| **Reward/Advance** |  |  
-| **Exp/Fame** | Experience points: 700 |  
-| **Items Obtained** |  |  
-| **Chain Quests** |  |  
-| **Notes** | Visual recognition 21 Astronomy 21 Requires completion of the Book of Great Men ``Copernicus'' *Cape Verde is a prerequisite. Check with 2 characters |  
+| Attribute | Details |
+| :--- | :--- |
+| **Chrono Quest** |  |
+| **Offer Method** | astronomy |
+| **Difficulty** | 21 |
+| **Time Limit** | none |
+| **Town** | [Lisbon](Ports/port_2.md) |
+| **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (21), [Visibility](Skills/Skill-Adventure/item_458.md) (21) |
+| **Discovery** | [Astronomical](Categories/category_18.md) / [Global Cluster of Scorpius](Quests/Other/quest_3791.md) A spherical cluster of stars located at the back of the constellation Scorpius. It can be seen with the naked eye. Rank: 5, Points: 10 |
+| **Reward/Advance** |  |
+| **Exp/Fame** | Experience points: 700 |
+| **Items Obtained** |  |
+| **Chain Quests** |  |
+| **Notes** | Visual recognition 21 Astronomy 21 Requires completion of the Book of Great Men ``Copernicus'' *Cape Verde is a prerequisite. Check with 2 characters |

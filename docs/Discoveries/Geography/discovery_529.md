@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Koyasan |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the mountains that make up the Kii Mountains. 
+| **explanation** | One of the mountains that make up the Kii Mountains.
 It is said that Kukai trained during the Heian Era. Although it is called "Mountain", it is not the name of the mountain itself.
  It is considered a sacred place in Japanese Buddhism, and many monks still visit it today to practice ascetic practices. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | white woodpecker |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A type of woodpecker commonly seen in the Pantanal Marshes. 
+| **explanation** | A type of woodpecker commonly seen in the Pantanal Marshes.
 
  It can perch on vertical tree trunks, but it does not make the drumming sound typical of woodpeckers. |
 | **Era** |  |

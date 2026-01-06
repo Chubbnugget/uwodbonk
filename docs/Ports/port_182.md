@@ -3,7 +3,6 @@ id: 182
 name: machu picchu
 type: Port
 ---
-
 # Port: マチュピチュ
 
 import Tabs from '@theme/Tabs';
@@ -38,7 +37,6 @@ import TabItem from '@theme/TabItem';
 ### Description
 A city of the Inca Empire surrounded by high peaks in the hinterland northeast of Lima. Means "old peak" in Quechua. The terraced fields, living quarters, and temples are laid out in a planned manner, demonstrating the Inca's advanced architectural techniques.
 
-
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
@@ -72,28 +70,28 @@ A city of the Inca Empire surrounded by high peaks in the hinterland northeast o
 
 #### [Consumables (condition recovery)](Categories/category_21.md)
 
-| [Shrine Maiden Chicha](Items/Consumables/Consumables-Recovery/item_2992.md) | [Consumables (condition recovery)](Categories/category_21.md) | 30,000 | tool shop owner |  |
+| [Shrine Maiden Chicha](Items/Consumables/Consumables-Recovery/item_2992.md) | Consumables (condition recovery) | 30,000 | tool shop owner |  |
 
 #### [Equipment (head)](Categories/category_23.md)
 
-| [inca kerchief](Items/Equipment/Equipment-Head/item_3036.md) | [Equipment (head)](Categories/category_23.md) | 200,000 | tool shop owner |  |
-| [Inca folk hat](Items/Equipment/Equipment-Head/item_3044.md) | [Equipment (head)](Categories/category_23.md) | 200,000 | tool shop owner |  |
-| [gold filigree headdress](Items/Equipment/Equipment-Head/item_3055.md) | [Equipment (head)](Categories/category_23.md) | 300,000 | tool shop owner |  |
+| [inca kerchief](Items/Equipment/Equipment-Head/item_3036.md) | Equipment (head) | 200,000 | tool shop owner |  |
+| [Inca folk hat](Items/Equipment/Equipment-Head/item_3044.md) | Equipment (head) | 200,000 | tool shop owner |  |
+| [gold filigree headdress](Items/Equipment/Equipment-Head/item_3055.md) | Equipment (head) | 300,000 | tool shop owner |  |
 
 #### [Equipment (belongings)](Categories/category_27.md)
 
-| [木槍](Items/Equipment/Equipment-Weapon/item_438.md) | [Equipment (belongings)](Categories/category_27.md) | 34,400 | tool shop owner |  |
-| [hunter's spear](Items/Equipment/Equipment-Weapon/item_655.md) | [Equipment (belongings)](Categories/category_27.md) | 38,700 | tool shop owner |  |
+| [木槍](Items/Equipment/Equipment-Weapon/item_438.md) | Equipment (belongings) | 34,400 | tool shop owner |  |
+| [hunter's spear](Items/Equipment/Equipment-Weapon/item_655.md) | Equipment (belongings) | 38,700 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 200 | tool shop owner |  |
-| [tonic](Items/Consumables/Consumables-Landbattle/item_1678.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 150 | tool shop owner |  |
-| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 600 | tool shop owner |  |
+| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [tonic](Items/Consumables/Consumables-Landbattle/item_1678.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | [Consumables (skill activation)](Categories/category_31.md) | 2,500 | tool shop owner |  |
+| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
   </TabItem>
 </Tabs>

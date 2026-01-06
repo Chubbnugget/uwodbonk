@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 13 (Rank of skills required for discovery) |
 | **Experience** | 1180 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Mystery of the hair ornament” 
+| **Remarks** | Quest “Mystery of the hair ornament”
 
  Discovery Name Card:590 |
 | **最終更新** | 2022-11-29 12:09:07 Sakon. |

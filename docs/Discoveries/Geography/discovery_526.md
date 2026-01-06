@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | 雪山山脈 |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A mountain range that runs north-south across the island of Taiwan. Many ancient roads have been discovered. 
+| **explanation** | A mountain range that runs north-south across the island of Taiwan. Many ancient roads have been discovered.
  Some of the passages appear to be used by the indigenous Atayal people. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

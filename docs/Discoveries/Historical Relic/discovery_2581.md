@@ -15,9 +15,7 @@ category: Historical Relic
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 3030 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Robber's Bow 
-
-
+| **Remarks** | Robber's Bow
 
 Experience 3030 when discovered Fame 2420 when discovered
 

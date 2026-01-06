@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Jeju Current |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | An ocean current that flows between the Korean Peninsula and Jeju Island. 
+| **explanation** | An ocean current that flows between the Korean Peninsula and Jeju Island.
  Because it is connected to the warm Tsushima Current, the climate of the island floating on the ocean current is warm. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

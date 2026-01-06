@@ -15,7 +15,7 @@ category: Insect
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 320 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Creeping Sharp Flower" 
+| **Remarks** | Quest "Creeping Sharp Flower"
 
  Discovery Name Card:160 |
 | **最終更新** | 2023-01-16 18:33:57 Passing navigator @guest |

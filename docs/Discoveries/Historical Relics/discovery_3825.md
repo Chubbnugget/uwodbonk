@@ -15,7 +15,7 @@ category: Historical Relics
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 640 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | pursuit quest 
+| **Remarks** | pursuit quest
 
  Discovery Name Card:320 |
 | **最終更新** | 2023-09-23 22:27:11 Passing navigator @guest |

@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 360 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | pursuit quest 
+| **Remarks** | pursuit quest
 
  Discovery Name Card:180 |
 | **最終更新** | 2025-04-11 23:53:39 Passing navigator @guest |

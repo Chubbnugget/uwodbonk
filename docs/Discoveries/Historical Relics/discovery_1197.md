@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | barbarigo trading ship |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the galley merchant fleet commanded by Nicolo Barbarigo. 
+| **explanation** | One of the galley merchant fleet commanded by Nicolo Barbarigo.
  The ship sank near Urbo Island while en route from Alexandria to Venice for Christmas. |
 | **Era** |  |
 | **Deck Points** | 2 (Required Deck Points for debate deck) |

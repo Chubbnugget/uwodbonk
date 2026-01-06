@@ -10,7 +10,7 @@ category: Historical Relic
 | **Discovery Type** | Historical Relic |
 | **Discovery Name** | Picatrix |
 | **Rank** | (Number of Stars on Discovery Name card) |
-| **explanation** | An Arabic book on magic and divination Stars entitled ``The Master of the Wise''. 
+| **explanation** | An Arabic book on magic and divination Stars entitled ``The Master of the Wise''.
 
  It has also been translated and is widely distributed in Europe. |
 | **Era** |  |

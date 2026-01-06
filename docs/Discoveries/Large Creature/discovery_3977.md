@@ -15,7 +15,7 @@ category: Large Creature
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 1020 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | pursuit quest 
+| **Remarks** | pursuit quest
 
  Discovery Name Card:510 |
 | **最終更新** | 2025-10-22 23:59:27 Passing navigator @guest |

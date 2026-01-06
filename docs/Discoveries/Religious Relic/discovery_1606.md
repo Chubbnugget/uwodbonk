@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Firewalking Mikoshi |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Hiwatari no Mikoshi". Mikoshi has been passed down on the island of Taiwan since ancient times. It was used in purification rituals. 
+| **explanation** | The reading is "Hiwatari no Mikoshi". Mikoshi has been passed down on the island of Taiwan since ancient times. It was used in purification rituals.
 
  It is said that carrying this mikoshi and walking on the hot ashes will remove impurities and avoid disaster. |
 | **Era** |  |

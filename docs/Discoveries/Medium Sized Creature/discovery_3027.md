@@ -15,9 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | 2017.02.07 New discovery 
-
-
+| **Remarks** | 2017.02.07 New discovery
 
  Surprisingly! ? Not large biology or marine biology, but medium biology. |
 | **最終更新** | 2017-02-12 20:31:22 Pochi |

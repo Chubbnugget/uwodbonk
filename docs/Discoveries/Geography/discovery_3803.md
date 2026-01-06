@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 340 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | pursuit quest 
+| **Remarks** | pursuit quest
 
  Discovery Name Card:170 |
 | **最終更新** | 2023-06-22 11:34:23 Passing navigator @guest |

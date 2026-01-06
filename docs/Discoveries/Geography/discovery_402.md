@@ -15,9 +15,7 @@ category: Geography
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 2 (Rank of skills required for discovery) |
 | **Experience** | 90 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | African Geography Survey 
-
-
+| **Remarks** | African Geography Survey
 
  Discovery Experience 90 Discovery Name Card Experience 45 |
 | **最終更新** | 2016-05-10 17:42:05 Purple edge |

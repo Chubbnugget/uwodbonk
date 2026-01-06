@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | guava |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A shrub found in tropical and subtropical regions such as Central and South America. 
+| **explanation** | A shrub found in tropical and subtropical regions such as Central and South America.
 
  Guava fruit has been eaten by the indigenous peoples of Central America since before Christ, but when it was introduced to Southeast Asia in the 16th and 17th centuries, guava leaves were used as tea leaves. |
 | **Era** |  |

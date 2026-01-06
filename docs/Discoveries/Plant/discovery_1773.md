@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Hamagou |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A seaside plant that is widely distributed in relatively warm regions from East Asia to Australia. The fruit is used as a herbal medicine. 
+| **explanation** | A seaside plant that is widely distributed in relatively warm regions from East Asia to Australia. The fruit is used as a herbal medicine.
  The branches and leaves have a scent and are used as ingredients for incense. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

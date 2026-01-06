@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | 紅毛城 |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | The Red Castle was built by the Hispanians. It has been abandoned since Zheng Chenggong conquered Taiwan Island. 
+| **explanation** | The Red Castle was built by the Hispanians. It has been abandoned since Zheng Chenggong conquered Taiwan Island.
  It looks glamorous from the outside, but a strange atmosphere emanates from underground... |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

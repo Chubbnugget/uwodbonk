@@ -3,47 +3,40 @@ id: 13
 name: weapon craftsman
 type: NPC
 ---
-
 # NPC: 武器職人
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | weapon craftsman |  
-| **Notes** | They sell ship parts (weapons). Can produce shipbuilding materials. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | weapon craftsman |
+| **Notes** | They sell ship parts (weapons). Can produce shipbuilding materials. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | weapon craftsman |  
-| **Notes** | They sell ship parts (weapons). Can produce shipbuilding materials. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | weapon craftsman |
+| **Notes** | They sell ship parts (weapons). Can produce shipbuilding materials. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [4 Enfer guns](Items/Ship Parts/Shipparts-Cannons/item_391.md) | [Ship parts (cannon)](Categories/category_38.md) | 26,600 | [Gothenburg](Ports/port_221.md) [Plymouth](Ports/port_25.md) [Lisbon](Ports/port_2.md) [Famagusta](Ports/port_66.md) [Bordeaux](Ports/port_26.md) [Inhambane](Ports/port_216.md) [Pisa](Ports/port_15.md) [Marseille](Ports/port_10.md) [Copenhagen](Ports/port_56.md) [Hamburg](Ports/port_50.md) [Tripoli](Ports/port_58.md) [Santo Domingo](Ports/port_33.md) [Genoa](Ports/port_11.md) [Curry](Ports/port_21.md) [Naples](Ports/port_60.md) [Cairo](Ports/port_67.md) [Venice](Ports/port_30.md) [Amsterdam](Ports/port_49.md) [Calicut](Ports/port_44.md) [Antwerp](Ports/port_22.md) [London](Ports/port_23.md) [Sagres](Ports/port_214.md) [Barcelona](Ports/port_8.md) [Lübeck](Ports/port_62.md) [Stockholm](Ports/port_31.md) [Seville](Ports/port_4.md) [Tunis](Ports/port_46.md) [Luanda](Ports/port_77.md) [Kokkola](Ports/port_189.md) [Beirut](Ports/port_65.md) [Athens](Ports/port_28.md) [Zanzibar](Ports/port_38.md) |
 | [6 Enfer guns](Items/Ship Parts/Shipparts-Cannons/item_392.md) | [Ship parts (cannon)](Categories/category_38.md) | 81,000 | [Lisbon](Ports/port_2.md) [Athens](Ports/port_28.md) [Marseille](Ports/port_10.md) [Famagusta](Ports/port_66.md) [Inhambane](Ports/port_216.md) [Plymouth](Ports/port_25.md) [Gothenburg](Ports/port_221.md) [Beirut](Ports/port_65.md) [Zanzibar](Ports/port_38.md) [Luanda](Ports/port_77.md) [Tunis](Ports/port_46.md) [Stockholm](Ports/port_31.md) [Seville](Ports/port_4.md) [Lübeck](Ports/port_62.md) [Calicut](Ports/port_44.md) [Cairo](Ports/port_67.md) [Barcelona](Ports/port_8.md) [Sagres](Ports/port_214.md) [London](Ports/port_23.md) [Antwerp](Ports/port_22.md) [Amsterdam](Ports/port_49.md) [Venice](Ports/port_30.md) [Naples](Ports/port_60.md) [Kokkola](Ports/port_189.md) [Curry](Ports/port_21.md) [Genoa](Ports/port_11.md) [Santo Domingo](Ports/port_33.md) [Tripoli](Ports/port_58.md) [Hamburg](Ports/port_50.md) [Pisa](Ports/port_15.md) [Bordeaux](Ports/port_26.md) [Copenhagen](Ports/port_56.md) |
 | [2 Exploder guns](Items/Ship Parts/Shipparts-Cannons/item_1416.md) | [Ship parts (cannon)](Categories/category_38.md) | 7,100 | [Tripoli](Ports/port_58.md) [Pisa](Ports/port_15.md) [Venice](Ports/port_30.md) [Syracuse](Ports/port_61.md) [Marseille](Ports/port_10.md) [San Francisco](Ports/port_198.md) [Genoa](Ports/port_11.md) [Tunis](Ports/port_46.md) [Luanda](Ports/port_77.md) [Cairo](Ports/port_67.md) [Naples](Ports/port_60.md) |
@@ -210,8 +203,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [4 Enfer guns](Items/Ship Parts/Shipparts-Cannons/item_391.md) | [Ship parts (cannon)](Categories/category_38.md) | 26,600 | [Gothenburg](Ports/port_221.md) [Plymouth](Ports/port_25.md) [Lisbon](Ports/port_2.md) [Famagusta](Ports/port_66.md) [Bordeaux](Ports/port_26.md) [Inhambane](Ports/port_216.md) [Pisa](Ports/port_15.md) [Marseille](Ports/port_10.md) [Copenhagen](Ports/port_56.md) [Hamburg](Ports/port_50.md) [Tripoli](Ports/port_58.md) [Santo Domingo](Ports/port_33.md) [Genoa](Ports/port_11.md) [Curry](Ports/port_21.md) [Naples](Ports/port_60.md) [Cairo](Ports/port_67.md) [Venice](Ports/port_30.md) [Amsterdam](Ports/port_49.md) [Calicut](Ports/port_44.md) [Antwerp](Ports/port_22.md) [London](Ports/port_23.md) [Sagres](Ports/port_214.md) [Barcelona](Ports/port_8.md) [Lübeck](Ports/port_62.md) [Stockholm](Ports/port_31.md) [Seville](Ports/port_4.md) [Tunis](Ports/port_46.md) [Luanda](Ports/port_77.md) [Kokkola](Ports/port_189.md) [Beirut](Ports/port_65.md) [Athens](Ports/port_28.md) [Zanzibar](Ports/port_38.md) |
 | [6 Enfer guns](Items/Ship Parts/Shipparts-Cannons/item_392.md) | [Ship parts (cannon)](Categories/category_38.md) | 81,000 | [Lisbon](Ports/port_2.md) [Athens](Ports/port_28.md) [Marseille](Ports/port_10.md) [Famagusta](Ports/port_66.md) [Inhambane](Ports/port_216.md) [Plymouth](Ports/port_25.md) [Gothenburg](Ports/port_221.md) [Beirut](Ports/port_65.md) [Zanzibar](Ports/port_38.md) [Luanda](Ports/port_77.md) [Tunis](Ports/port_46.md) [Stockholm](Ports/port_31.md) [Seville](Ports/port_4.md) [Lübeck](Ports/port_62.md) [Calicut](Ports/port_44.md) [Cairo](Ports/port_67.md) [Barcelona](Ports/port_8.md) [Sagres](Ports/port_214.md) [London](Ports/port_23.md) [Antwerp](Ports/port_22.md) [Amsterdam](Ports/port_49.md) [Venice](Ports/port_30.md) [Naples](Ports/port_60.md) [Kokkola](Ports/port_189.md) [Curry](Ports/port_21.md) [Genoa](Ports/port_11.md) [Santo Domingo](Ports/port_33.md) [Tripoli](Ports/port_58.md) [Hamburg](Ports/port_50.md) [Pisa](Ports/port_15.md) [Bordeaux](Ports/port_26.md) [Copenhagen](Ports/port_56.md) |
 | [2 Exploder guns](Items/Ship Parts/Shipparts-Cannons/item_1416.md) | [Ship parts (cannon)](Categories/category_38.md) | 7,100 | [Tripoli](Ports/port_58.md) [Pisa](Ports/port_15.md) [Venice](Ports/port_30.md) [Syracuse](Ports/port_61.md) [Marseille](Ports/port_10.md) [San Francisco](Ports/port_198.md) [Genoa](Ports/port_11.md) [Tunis](Ports/port_46.md) [Luanda](Ports/port_77.md) [Cairo](Ports/port_67.md) [Naples](Ports/port_60.md) |

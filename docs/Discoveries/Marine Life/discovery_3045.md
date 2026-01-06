@@ -15,7 +15,7 @@ category: Marine Life
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 190 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | 2017.02.07 New addition 
+| **Remarks** | 2017.02.07 New addition
 
  Possibly based on the discovery of Golomyanka |
 | **最終更新** | 2022-06-01 11:50:36 Mifuyu |

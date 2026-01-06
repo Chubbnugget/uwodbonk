@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | book of kels |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A handwritten manuscript of the Bible produced around the 8th century. It is richly decorated with Celtic patterns and has a beauty that makes it hard to believe that it is a book. 
+| **explanation** | A handwritten manuscript of the Bible produced around the 8th century. It is richly decorated with Celtic patterns and has a beauty that makes it hard to believe that it is a book.
  Contains the four Gospels of Matthew, Mark, John, and Luke. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

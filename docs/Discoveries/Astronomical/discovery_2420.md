@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | 180 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Legend of Beauty" 
+| **Remarks** | Quest "Legend of Beauty"
 
  Discovery Name Card:90 |
 | **最終更新** | 2022-12-04 20:43:35 Sakon. |

@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Fusafujitsugi |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant that blooms in clusters of small flowers at the tips of its branches, mainly living in China. 
+| **explanation** | A plant that blooms in clusters of small flowers at the tips of its branches, mainly living in China.
  Butterflies often gather there, attracted by its aroma. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Zurna |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | Traditional Ottoman woodwind instrument. 
+| **explanation** | Traditional Ottoman woodwind instrument.
  It is a musical instrument that produces a very loud sound and is used as an accompaniment for military music and dances during festivals. Not suitable for indoor performance. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

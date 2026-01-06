@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Yayoi pottery |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Thin, hard earthenware discovered in Japan. It has a practical appearance with modest patterns and decorations. 
+| **explanation** | Thin, hard earthenware discovered in Japan. It has a practical appearance with modest patterns and decorations.
  It is used for a wide variety of purposes, including cooking and storage, and is made in a variety of shapes to suit different purposes. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Oriental lily |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant native to North America. It grows up to 2m in height and blooms with large yellow flowers. 
+| **explanation** | A plant native to North America. It grows up to 2m in height and blooms with large yellow flowers.
  In addition to seeds, it also reproduces by underground rhizomes. |
 | **Era** |  |
 | **Deck Points** | 2 (Required Deck Points for debate deck) |

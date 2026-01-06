@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Collection of past and present stories |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Konjaku Monogatariyu". A Japanese book containing over 1,000 tales from Japan, India, and China. 
+| **explanation** | The reading is "Konjaku Monogatariyu". A Japanese book containing over 1,000 tales from Japan, India, and China.
  A distinctive feature of the story is that all stories begin with the phrase ``Now is the past.'' |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | 金門島 |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | This island was once the base of Zheng Chenggong. 
+| **explanation** | This island was once the base of Zheng Chenggong.
  A product made from sugar and peanuts called kuto is famous. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

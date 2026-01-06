@@ -10,16 +10,14 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Kotai |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A fish about 30cm long that is distributed in Taiwan Island and China. Used for food and medicine. 
+| **explanation** | A fish about 30cm long that is distributed in Taiwan Island and China. Used for food and medicine.
 
  There are individuals with various body colors such as red, brown, and green. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 200 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | *Creepy fish map 
-
-
+| **Remarks** | *Creepy fish map
 
  *Discovery Name Card 100 |
 | **最終更新** | 2023-10-01 21:11:10 Sakon. |

@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | king sari |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant native to southern Europe. It blooms in clusters of butterfly-shaped yellow flowers in early summer. 
+| **explanation** | A plant native to southern Europe. It blooms in clusters of butterfly-shaped yellow flowers in early summer.
  The whole thing is poisonous, so be careful. |
 | **Era** |  |
 | **Deck Points** | 2 (Required Deck Points for debate deck) |

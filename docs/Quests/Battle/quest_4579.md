@@ -1,32 +1,28 @@
 ---
 id: 4579
 category: Battle
-status: untranslated
 ---
-
 # Details of the quest [Correspondence between the Guild and Hamburg]
-
 
 ### Details of the quest [Correspondence between the Guild and Hamburg]
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Quest Name** | Correspondence between the Guild and Hamburg |  
+| Attribute | Details |
+| :--- | :--- |
+| **Quest Name** | Correspondence between the Guild and Hamburg |
 
 ### Quest Contents
 
-
-| Attribute | Details |  
-| :--- | :--- |  
-| **Chrono Quest** |  |  
-| **Offer Method** | maritime quest |  
-| **Difficulty** | 2 |  
-| **Time Limit** | none |  
-| **Town** | [Amsterdam](Ports/port_49.md) |  
-| **Required Skills** | [Dutch](Skills/Skills-Language/item_599.md), [German](Skills/Skills-Language/item_600.md) |  
-| **Discovery** |  |  
-| **Reward/Advance** |  |  
-| **Exp/Fame** |  |  
-| **Items Obtained** | 2 request letters |  
-| **Chain Quests** |  |  
-| **Notes** | 1.Hamburg Departure Officer 2.Amsterdam Maritime Guild Master |  
+| Attribute | Details |
+| :--- | :--- |
+| **Chrono Quest** |  |
+| **Offer Method** | maritime quest |
+| **Difficulty** | 2 |
+| **Time Limit** | none |
+| **Town** | [Amsterdam](Ports/port_49.md) |
+| **Required Skills** | [Dutch](Skills/Skills-Language/item_599.md), [German](Skills/Skills-Language/item_600.md) |
+| **Discovery** |  |
+| **Reward/Advance** |  |
+| **Exp/Fame** |  |
+| **Items Obtained** | 2 request letters |
+| **Chain Quests** |  |
+| **Notes** | 1.Hamburg Departure Officer 2.Amsterdam Maritime Guild Master |

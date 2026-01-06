@@ -3,7 +3,6 @@ id: 185
 name: rome
 type: Port
 ---
-
 # Port: ローマ
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 Italy's largest capital, which has existed since BC. The city has gone through many changes over its long history, from a monarchy to a republic to an empire, and there are various ruins throughout the city. The Colosseum is one of those ruins. *Travel by horse-drawn carriage from Naples.
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
@@ -75,41 +73,41 @@ Italy's largest capital, which has existed since BC. The city has gone through m
 
 #### [Equipment (head)](Categories/category_23.md)
 
-| [beret with wings](Items/Equipment/Equipment-Head/item_364.md) | [Equipment (head)](Categories/category_23.md) | 3,800 | tool shop owner |  |
+| [beret with wings](Items/Equipment/Equipment-Head/item_364.md) | Equipment (head) | 3,800 | tool shop owner |  |
 
 #### [Equipment (body)](Categories/category_24.md)
 
-| [Surcoat](Items/Equipment/Equipment-Body/item_131.md) | [Equipment (body)](Categories/category_24.md) | 30,000 | tool shop owner |  |
-| [gilet](Items/Equipment/Equipment-Body/item_78.md) | [Equipment (body)](Categories/category_24.md) | 27,500 | tool shop owner |  |
-| [tunic](Items/Equipment/Equipment-Body/item_2400.md) | [Equipment (body)](Categories/category_24.md) | 100 | tool shop owner |  |
-| [petticoat](Items/Equipment/Equipment-Body/item_415.md) | [Equipment (body)](Categories/category_24.md) | 3,800 | tool shop owner |  |
+| [Surcoat](Items/Equipment/Equipment-Body/item_131.md) | Equipment (body) | 30,000 | tool shop owner |  |
+| [gilet](Items/Equipment/Equipment-Body/item_78.md) | Equipment (body) | 27,500 | tool shop owner |  |
+| [tunic](Items/Equipment/Equipment-Body/item_2400.md) | Equipment (body) | 100 | tool shop owner |  |
+| [petticoat](Items/Equipment/Equipment-Body/item_415.md) | Equipment (body) | 3,800 | tool shop owner |  |
 
 #### [Equipment (legs)](Categories/category_26.md)
 
-| [buckle boots](Items/Equipment/Equipment-Feet/item_417.md) | [Equipment (legs)](Categories/category_26.md) | 100 | tool shop owner |  |
+| [buckle boots](Items/Equipment/Equipment-Feet/item_417.md) | Equipment (legs) | 100 | tool shop owner |  |
 
 #### [Equipment (belongings)](Categories/category_27.md)
 
-| [short sword](Items/Equipment/Equipment-Weapon/item_301.md) | [Equipment (belongings)](Categories/category_27.md) | 9,300 | tool shop owner |  |
-| [spear](Items/Equipment/Equipment-Weapon/item_555.md) | [Equipment (belongings)](Categories/category_27.md) | 34,400 | tool shop owner |  |
-| [matchlock shooting gun](Items/Equipment/Equipment-Weapon/item_103.md) | [Equipment (belongings)](Categories/category_27.md) | 3,000 | tool shop owner |  |
-| [long sword](Items/Equipment/Equipment-Weapon/item_302.md) | [Equipment (belongings)](Categories/category_27.md) | 15,400 | tool shop owner |  |
-| [priest's cane](Items/Equipment/Equipment-Weapon/item_517.md) | [Equipment (belongings)](Categories/category_27.md) | 10,900 | tool shop owner |  |
+| [short sword](Items/Equipment/Equipment-Weapon/item_301.md) | Equipment (belongings) | 9,300 | tool shop owner |  |
+| [spear](Items/Equipment/Equipment-Weapon/item_555.md) | Equipment (belongings) | 34,400 | tool shop owner |  |
+| [matchlock shooting gun](Items/Equipment/Equipment-Weapon/item_103.md) | Equipment (belongings) | 3,000 | tool shop owner |  |
+| [long sword](Items/Equipment/Equipment-Weapon/item_302.md) | Equipment (belongings) | 15,400 | tool shop owner |  |
+| [priest's cane](Items/Equipment/Equipment-Weapon/item_517.md) | Equipment (belongings) | 10,900 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [escape rope](Items/Consumables/Consumables-Landbattle/item_4925.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 25,000 | tool shop owner |  |
+| [escape rope](Items/Consumables/Consumables-Landbattle/item_4925.md) | Consumables (land battle/deck battle) | 25,000 | tool shop owner |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [dowsing rod](Items/Consumables/Consumables-Skill/item_304.md) | [Consumables (skill activation)](Categories/category_31.md) | 500 | tool shop owner |  |
-| [Traveler's Notes](Items/Consumables/Consumables-Skill/item_305.md) | [Consumables (skill activation)](Categories/category_31.md) | 500 | tool shop owner |  |
-| [片眼鏡](Items/Consumables/Consumables-Skill/item_306.md) | [Consumables (skill activation)](Categories/category_31.md) | 500 | tool shop owner |  |
-| [簡易望遠鏡](Items/Consumables/Consumables-Skill/item_303.md) | [Consumables (skill activation)](Categories/category_31.md) | 500 | tool shop owner |  |
+| [dowsing rod](Items/Consumables/Consumables-Skill/item_304.md) | Consumables (skill activation) | 500 | tool shop owner |  |
+| [Traveler's Notes](Items/Consumables/Consumables-Skill/item_305.md) | Consumables (skill activation) | 500 | tool shop owner |  |
+| [片眼鏡](Items/Consumables/Consumables-Skill/item_306.md) | Consumables (skill activation) | 500 | tool shop owner |  |
+| [簡易望遠鏡](Items/Consumables/Consumables-Skill/item_303.md) | Consumables (skill activation) | 500 | tool shop owner |  |
 
 #### [Consumables (other)](Categories/category_44.md)
 
-| [Dyed powder](Items/Consumables/Consumables-Other/item_3370.md) | [Consumables (other)](Categories/category_44.md) | 2,000 | tool shop owner |  |
+| [Dyed powder](Items/Consumables/Consumables-Other/item_3370.md) | Consumables (other) | 2,000 | tool shop owner |  |
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
@@ -118,22 +116,22 @@ Italy's largest capital, which has existed since BC. The city has gone through m
 
 #### [Consumables (condition recovery)](Categories/category_21.md)
 
-| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
-| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
+| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
+| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [四分儀](Items/Consumables/Consumables-Skill/item_346.md) | [Consumables (skill activation)](Categories/category_31.md) | 500 | workshop craftsman |  |
+| [四分儀](Items/Consumables/Consumables-Skill/item_346.md) | Consumables (skill activation) | 500 | workshop craftsman |  |
 
 #### [Consumables (other)](Categories/category_44.md)
 
-| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
-| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
+| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | Consumables (other) | 500 | workshop craftsman |  |
+| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | Consumables (other) | 500 | workshop craftsman |  |
 
 #### [furniture](Categories/category_48.md)
 
-| [Mannequin (usually female)](Items/Furniture/item_2234.md) | [furniture](Categories/category_48.md) | 3,000 | workshop craftsman |  |
-| [Mannequin (usually male)](Items/Furniture/item_2233.md) | [furniture](Categories/category_48.md) | 3,000 | workshop craftsman |  |
+| [Mannequin (usually female)](Items/Furniture/item_2234.md) | furniture | 3,000 | workshop craftsman |  |
+| [Mannequin (usually male)](Items/Furniture/item_2233.md) | furniture | 3,000 | workshop craftsman |  |
   </TabItem>
   <TabItem value="salesperson" label="salesperson">
 
@@ -142,7 +140,7 @@ Italy's largest capital, which has existed since BC. The city has gone through m
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [drunken liquor](Items/Consumables/Consumables-Landbattle/item_448.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | salesperson |  |
-| [sticky oil](Items/Consumables/Consumables-Landbattle/item_231.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 150 | salesperson |  |
+| [drunken liquor](Items/Consumables/Consumables-Landbattle/item_448.md) | Consumables (land battle/deck battle) | 300 | salesperson |  |
+| [sticky oil](Items/Consumables/Consumables-Landbattle/item_231.md) | Consumables (land battle/deck battle) | 150 | salesperson |  |
   </TabItem>
 </Tabs>

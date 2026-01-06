@@ -10,16 +10,14 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | sisters pool |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A general term for two lakes of different sizes located in the mountains of Alishan. 
+| **explanation** | A general term for two lakes of different sizes located in the mountains of Alishan.
 
  Legend has it that two girls who lived in Alishan once ended their lives here. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 320 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Sister's Fate" 
-
-
+| **Remarks** | Quest "Sister's Fate"
 
  Discovery Experience 320 Discovery Name Card Experience 160 |
 | **最終更新** | 2022-10-14 22:27:32 Sakon. |

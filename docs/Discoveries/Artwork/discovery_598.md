@@ -15,7 +15,7 @@ category: Artwork
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 2 (Rank of skills required for discovery) |
 | **Experience** | 120 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Paired Tenma Statue” 
+| **Remarks** | Quest “Paired Tenma Statue”
 
  Discovery Name Card:60 |
 | **最終更新** | 2022-10-13 22:06:51 Sakon. |

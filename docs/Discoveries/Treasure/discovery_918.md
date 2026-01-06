@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Chung's seal |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A metal stamp engraved with "Mr. Zheng." 
+| **explanation** | A metal stamp engraved with "Mr. Zheng."
  It is believed that the Chung clan used it as a seal during trade. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

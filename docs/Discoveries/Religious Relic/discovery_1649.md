@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | birdman picture |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | In Rapa Nui, there is a belief in the bird man (Tangata Manu), who is an incarnation of the god Makemake. 
+| **explanation** | In Rapa Nui, there is a belief in the bird man (Tangata Manu), who is an incarnation of the god Makemake.
  Birdmen are said to have extremely strong spiritual power, and those who obtain the title of birdman through a ritual can hold full power over the island for one year. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

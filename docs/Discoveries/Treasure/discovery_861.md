@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | pillow book |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | An essay written by Sei Shonagon in the Heian Era. The themes include seasonal nature, court events, and human behavior. 
+| **explanation** | An essay written by Sei Shonagon in the Heian Era. The themes include seasonal nature, court events, and human behavior.
  The content is witty and the author's excellent sensibilities are evident throughout. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

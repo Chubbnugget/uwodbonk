@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Sao Paulo |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A large, sturdy Portuguese ship, one of the East India trading vessels. 
+| **explanation** | A large, sturdy Portuguese ship, one of the East India trading vessels.
  On her way to India, she took a route around the east of Madagascar, but on the way she encountered a storm and was swept off the west coast of Sumatra, where she was shipwrecked. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

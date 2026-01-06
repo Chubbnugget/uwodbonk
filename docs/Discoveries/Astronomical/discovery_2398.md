@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 1100 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Investigation of the Twin Fish Palace” 
+| **Remarks** | Quest “Investigation of the Twin Fish Palace”
 
  Discovery Name Card:550 |
 | **最終更新** | 2022-10-13 23:26:52 Sakon. |

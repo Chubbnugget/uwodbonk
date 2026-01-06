@@ -15,9 +15,7 @@ category: Insect
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 820 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | flying crocodile 
-
-
+| **Remarks** | flying crocodile
 
  Discovery Experience 820 Discovery Name Card Experience 410 |
 | **最終更新** | 2016-11-25 09:28:41 Gainor |

@@ -15,9 +15,7 @@ category: Small Creature
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 750 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | golden flying object 
-
-
+| **Remarks** | golden flying object
 
  Discovery Experience 350 Discovery Name Card Experience 175 |
 | **最終更新** | 2016-06-19 12:31:51 Gainor |

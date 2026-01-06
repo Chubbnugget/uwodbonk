@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | 1 (Rank of skills required for discovery) |
 | **Experience** | 110 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “The Giant of the Southern Sky” 
+| **Remarks** | Quest “The Giant of the Southern Sky”
 
  Discovery Name Card:55 |
 | **最終更新** | 2022-10-30 16:50:21 Sakon. |

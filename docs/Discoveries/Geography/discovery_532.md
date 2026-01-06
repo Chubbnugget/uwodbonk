@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Yellow River |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A large river that flows through the northern part of Mt. Untai. 
+| **explanation** | A large river that flows through the northern part of Mt. Untai.
 The downstream area is called ``Nakahara'' and is the birthplace of ancient civilization.
  Since ancient times, the river has often flooded and the flow of the river has changed. |
 | **Era** |  |

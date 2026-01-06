@@ -10,7 +10,7 @@ category: Large Creature
 | **Discovery Type** | Large Creature |
 | **Discovery Name** | Hanabutsu monitor lizard |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A large lizard with a body length of over 4m. The body is slender but long, with the tail occupying 2/3 of the body. 
+| **explanation** | A large lizard with a body length of over 4m. The body is slender but long, with the tail occupying 2/3 of the body.
  Because it lives in trees and has a ferocious personality, it is called the forest crocodile in its native habitat. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

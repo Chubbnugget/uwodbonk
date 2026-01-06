@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 15 (Rank of skills required for discovery) |
 | **Experience** | 490 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Discovery Name Card:245 
+| **Remarks** | Discovery Name Card:245
 
  central atlantic visibility |
 | **最終更新** | 2025-05-26 00:16:30 Passing navigator @guest |

@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Takasago Mashiko |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A bird that lives in forests and farmland at the foot of mountains. 
+| **explanation** | A bird that lives in forests and farmland at the foot of mountains.
  Males have a bright red color and are very conspicuous, but they are rarely seen. On the island of Taiwan, it can be found in Alishan. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

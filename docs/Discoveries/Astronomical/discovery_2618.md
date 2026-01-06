@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 690 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Stars made in the Netherlands” 
+| **Remarks** | Quest “Stars made in the Netherlands”
 
  Discovery Name Card:345 |
 | **最終更新** | 2022-11-06 12:10:11 Sakon. |

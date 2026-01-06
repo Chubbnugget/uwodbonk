@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 150 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Red Sea Southeast of Seila (near 1972.4235) 
+| **Remarks** | Red Sea Southeast of Seila (near 1972.4235)
 
  Stars sky Sea level change immediately after sunset |
 | **最終更新** | 2022-10-27 11:13:54 Nyorori |

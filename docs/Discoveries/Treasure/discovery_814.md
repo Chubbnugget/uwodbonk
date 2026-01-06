@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Medical encyclopedia |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Encyclopedia of medical knowledge written by Al Razi. 
+| **explanation** | Encyclopedia of medical knowledge written by Al Razi.
  The author's experiences and opinions seem to have been added to the culmination of Greek, Arabic, and Indian medicine. Surgical medical tools are also described. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

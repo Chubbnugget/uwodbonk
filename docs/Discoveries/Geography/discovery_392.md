@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 340 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest TP “Selection of second supply port candidate site” 
+| **Remarks** | Quest TP “Selection of second supply port candidate site”
 
  Discovery Name Card:170 |
 | **最終更新** | 2022-12-10 08:50:31 Sakon. |

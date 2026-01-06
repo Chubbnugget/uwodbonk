@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 270 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “A key point for east-west trade” 
+| **Remarks** | Quest “A key point for east-west trade”
 
  Discovery Name Card:135 |
 | **最終更新** | 2022-11-14 20:49:51 Sakon. |

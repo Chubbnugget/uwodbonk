@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Taiwan whole island map |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A pictorial map that seems to be an overall map of Taiwan Island. 
+| **explanation** | A pictorial map that seems to be an overall map of Taiwan Island.
  Most maps of the Taiwan area depicted it as three islands, but this map shows it as one island. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

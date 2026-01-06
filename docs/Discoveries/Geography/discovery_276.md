@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | gobi desert |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A vast desert area that spreads across Mongolia. 
+| **explanation** | A vast desert area that spreads across Mongolia.
  Gobi means "dry land" in Mongolian, and as the name suggests, it is a place where dry winds blow. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 720 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “How the Inca Royals Sleep” 
+| **Remarks** | Quest “How the Inca Royals Sleep”
 
  Discovery Name Card:360 |
 | **最終更新** | 2022-10-30 11:27:09 Sakon. |

@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 470 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Strange Connection" 
+| **Remarks** | Quest "Strange Connection"
 
  Discovery Name Card:235 |
 | **最終更新** | 2022-11-23 06:33:11 Sakon. |

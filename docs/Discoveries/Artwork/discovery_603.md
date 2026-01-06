@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Anken's landscape painting |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | An ink painting by the Korean painter Anken. 
+| **explanation** | An ink painting by the Korean painter Anken.
  Eight landscapes expressing the seasons are depicted. There are two pairs: early spring and late spring, early summer and late summer, early autumn and late autumn, and early winter and late winter. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

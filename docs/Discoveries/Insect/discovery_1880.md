@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | Yokotsuna Assassin Turtle |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | An insect distributed from China to Southeast Asia. They live in groups on the trunks of large trees. 
+| **explanation** | An insect distributed from China to Southeast Asia. They live in groups on the trunks of large trees.
  They pierce other insects with their elongated mouths and suck out their body fluids. Humans can also be stung, so be careful. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

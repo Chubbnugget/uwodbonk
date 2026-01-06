@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 380 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Caribbean ore map 
-
-
+| **Remarks** | Caribbean ore map
 
  Discovery Experience 380 Discovery Name Card Experience 190 |
 | **最終更新** | 2016-06-07 09:37:01 Gainor |

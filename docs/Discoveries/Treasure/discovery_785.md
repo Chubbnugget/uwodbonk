@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | lariat |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A lasso used to catch animals such as cows. 
+| **explanation** | A lasso used to catch animals such as cows.
 
  The end of the trap has a loop that tightens when it is placed around the animal's body and pulled. |
 | **Era** |  |

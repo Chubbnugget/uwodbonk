@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 40 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "The Guild's First Job" "Virgin's Stained Glass" 
+| **Remarks** | Quest "The Guild's First Job" "Virgin's Stained Glass"
 
  Discovery Name Card:20 |
 | **最終更新** | 2022-11-23 16:23:46 Sakon. |

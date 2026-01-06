@@ -15,9 +15,7 @@ category: Historical Relics
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Inside the ruins of Macedonia 
-
-
+| **Remarks** | Inside the ruins of Macedonia
 
 From the in-game log
 

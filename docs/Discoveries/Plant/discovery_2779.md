@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | red clover |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A grass native to Europe with pink flowers. 
+| **explanation** | A grass native to Europe with pink flowers.
 
  It is used as grass and herb, and has the effect of fertilizing the soil. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | 重慶 |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The pronunciation is "Chongchin". The city is located on the upper reaches of the Yangtze River and is surrounded by nature. 
+| **explanation** | The pronunciation is "Chongchin". The city is located on the upper reaches of the Yangtze River and is surrounded by nature.
  Summers are extremely hot, but winters are relatively pleasant. It is said that this name was given because there were double auspicious events in this area. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Red butterfly |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A bird that lives only on the island of Taiwan. The body length is about 30 cm, but the tail is short. 
+| **explanation** | A bird that lives only on the island of Taiwan. The body length is about 30 cm, but the tail is short.
  It is characterized by its sturdy legs and beak. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

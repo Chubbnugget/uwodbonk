@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Aigyokushi |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A rare plant that only grows in the mountains of Taiwan. 
+| **explanation** | A rare plant that only grows in the mountains of Taiwan.
  A sweet called aigyoku is made from this fruit. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

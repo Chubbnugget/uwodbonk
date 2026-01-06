@@ -3,7 +3,6 @@ id: 223
 name: Request for deletion
 type: Port
 ---
-
 # Port: 削除要請
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 What's the point of continuing to make meaningless updates for more than 5 years? Do you understand, management? I'll disturb you by closing this DB.
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">

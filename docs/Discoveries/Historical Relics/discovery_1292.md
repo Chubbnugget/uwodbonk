@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | ancient iron ingot |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A rotting block of iron. 
+| **explanation** | A rotting block of iron.
  It seems that iron bars were used as currency. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

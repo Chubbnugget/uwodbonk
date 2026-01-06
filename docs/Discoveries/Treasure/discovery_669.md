@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Tortoise comb |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A comb made of tortoiseshell. 
+| **explanation** | A comb made of tortoiseshell.
 
 While making use of the tortoiseshell material, it is also decorated with detailed decorations.
 

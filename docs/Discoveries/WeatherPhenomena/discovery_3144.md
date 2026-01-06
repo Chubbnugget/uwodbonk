@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 360 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | calicut north 
+| **Remarks** | calicut north
 
  Proceed north from the entrance and observe a little east of the first three-way intersection. |
 | **最終更新** | 2017-05-06 01:11:44 Hiyokomaru |

@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | French miscellaneous dialect |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A book written by politician Jeong Do-chun. Jeong Dojeon was highly used by Lee Seong-gye, the founder of the Joseon Dynasty. 
+| **explanation** | A book written by politician Jeong Do-chun. Jeong Dojeon was highly used by Lee Seong-gye, the founder of the Joseon Dynasty.
  This book is said to have established the foundation of a policy centered on Confucianism. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Ruan |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Gen". A musical instrument thought to have been made during the Han Dynasty. 
+| **explanation** | The reading is "Gen". A musical instrument thought to have been made during the Han Dynasty.
  Wu Zetian named it Ruan Xian because Ruan Xian, one of the Seven Sages of the Bamboo Forest, used it as a favorite. It seems that it is now called Nguyen. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

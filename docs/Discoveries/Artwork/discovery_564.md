@@ -15,7 +15,7 @@ category: Artwork
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | 170 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Another Tower of Babel” 
+| **Remarks** | Quest “Another Tower of Babel”
 
  Discovery Name Card:85 |
 | **最終更新** | 2022-12-07 05:49:04 Sakon. |

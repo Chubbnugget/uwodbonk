@@ -15,7 +15,7 @@ category: Historical Relics
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 540 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Ancient Architectural Guidebook” 
+| **Remarks** | Quest “Ancient Architectural Guidebook”
 
  Discovery Name Card:270 |
 | **最終更新** | 2022-12-07 20:00:45 Sakon. |

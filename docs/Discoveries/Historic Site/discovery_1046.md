@@ -10,14 +10,14 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | Azuchi Castle |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A Japanese castle with a five-layer, seven-story castle tower. Its magnificent appearance shows the power of the castle builder. 
+| **explanation** | A Japanese castle with a five-layer, seven-story castle tower. Its magnificent appearance shows the power of the castle builder.
 
  The castle tower has not been used since the fire broke out. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 1120 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Afterglow of Conquest” 
+| **Remarks** | Quest “Afterglow of Conquest”
 
  Discovery Name Card:560 |
 | **最終更新** | 2022-12-02 13:58:21 Passing navigator @guest |

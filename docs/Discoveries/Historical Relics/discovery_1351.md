@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | heat orchid castle map |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Zeelandia Jozu". A picture that is thought to have been drawn from a bird's-eye view of the castle. 
+| **explanation** | The reading is "Zeelandia Jozu". A picture that is thought to have been drawn from a bird's-eye view of the castle.
  It is unknown who painted it, but it appears to have been preserved in good condition. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

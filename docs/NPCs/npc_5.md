@@ -3,49 +3,42 @@ id: 5
 name: maritime guild
 type: NPC
 ---
-
 # NPC: 海事ギルド
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | maritime guild |  
-| **Notes** | Introducing maritime quests. 
- Also, the guild master handles skills. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | maritime guild |
+| **Notes** | Introducing maritime quests.
+ Also, the guild master handles skills. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | maritime guild |  
-| **Notes** | Introducing maritime quests. 
- Also, the guild master handles skills. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | maritime guild |
+| **Notes** | Introducing maritime quests.
+ Also, the guild master handles skills. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Arabic](Skills/Skills-Language/item_440.md) | [Skills (Language)](Categories/category_42.md) | 10,000 | [Athens](Ports/port_28.md) |
 | [Dutch](Skills/Skills-Language/item_599.md) | [Skills (Language)](Categories/category_42.md) | 1,000 | [Seville](Ports/port_4.md) |
 | [Greek](Skills/Skills-Language/item_604.md) | [Skills (Language)](Categories/category_42.md) | 6,000 | [Venice](Ports/port_30.md) |
@@ -70,8 +63,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Arabic](Skills/Skills-Language/item_440.md) | [Skills (Language)](Categories/category_42.md) | 10,000 | [Athens](Ports/port_28.md) |
 | [Dutch](Skills/Skills-Language/item_599.md) | [Skills (Language)](Categories/category_42.md) | 1,000 | [Seville](Ports/port_4.md) |
 | [Greek](Skills/Skills-Language/item_604.md) | [Skills (Language)](Categories/category_42.md) | 6,000 | [Venice](Ports/port_30.md) |

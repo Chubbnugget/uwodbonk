@@ -15,9 +15,7 @@ category: Historical Relics
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 14 (Rank of skills required for discovery) |
 | **Experience** | 1209 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | At the end of a fierce battle 
-
-
+| **Remarks** | At the end of a fierce battle
 
  Discovery Experience1209 Discovery Name Card Experience604 |
 | **最終更新** | 2016-07-30 23:15:26 Gainor |

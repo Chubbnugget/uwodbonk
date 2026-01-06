@@ -10,7 +10,7 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | Dormouse |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A small rat-like animal measuring 6 to 8 cm that lives only in Japan. They hibernate in groups for nearly half a year. 
+| **explanation** | A small rat-like animal measuring 6 to 8 cm that lives only in Japan. They hibernate in groups for nearly half a year.
  When attacked by an enemy, it flees, leaving behind the hair on its tail, but the hair that falls out does not regrow. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

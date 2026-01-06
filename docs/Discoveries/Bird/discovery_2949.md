@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Gyrfalcon |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A bird that inhabits the alpine belt of the North American continent and the northern part of the Eurasian continent. 
+| **explanation** | A bird that inhabits the alpine belt of the North American continent and the northern part of the Eurasian continent.
 
  The total length is about 50 cm, and the width of the wingspan is over 1 m. |
 | **Era** |  |

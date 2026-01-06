@@ -15,9 +15,7 @@ category: Plant
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 440 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | sweet scented tree 
-
-
+| **Remarks** | sweet scented tree
 
  Discovery Experience 440 Discovery Name Card Experience 220 |
 | **最終更新** | 2016-05-14 00:05:57 Gainor |

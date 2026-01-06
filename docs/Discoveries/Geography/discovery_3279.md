@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 390 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Literature research” 
+| **Remarks** | Quest “Literature research”
 
  Discovery Name Card:195 |
 | **最終更新** | 2022-12-31 13:18:19 Sakon. |

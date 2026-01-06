@@ -15,9 +15,7 @@ category: Insect
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 923 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | palm warrior 
-
-
+| **Remarks** | palm warrior
 
  Discovery Experience923 Discovery Name Card Experience461 |
 | **最終更新** | 2016-07-17 18:56:25 Gainor |

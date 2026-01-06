@@ -10,7 +10,7 @@ category: Astronomical
 | **Discovery Type** | Astronomical |
 | **Discovery Name** | Iapetus |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | Mamoru Stars is the second largest Earth Stars after Titan and Rare. 
+| **explanation** | Mamoru Stars is the second largest Earth Stars after Titan and Rare.
 
  The surface is clearly divided into bright and dark areas, making it difficult to observe depending on the situation. |
 | **Era** | 17世紀第4期 |

@@ -15,9 +15,7 @@ category: Geography
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 200 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | unfinished map 
-
-
+| **Remarks** | unfinished map
 
  Outside the gates of Copiapo |
 | **最終更新** | 2015-02-04 21:13:24 Passing navigator @guest |

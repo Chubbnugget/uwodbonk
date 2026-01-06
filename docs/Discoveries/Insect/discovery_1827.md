@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | Ussuri Wolf Kiri |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A large longhorn beetle that mainly lives on the Korean Peninsula. Large ones exceed 10 cm. 
+| **explanation** | A large longhorn beetle that mainly lives on the Korean Peninsula. Large ones exceed 10 cm.
  It lives on a tree called the red hornbeam and can be seen in the summer. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

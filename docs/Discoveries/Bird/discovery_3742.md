@@ -15,7 +15,7 @@ category: Bird
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 230 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Unusual bird map" 
+| **Remarks** | "Unusual bird map"
 
  Discovery Name Card:115 |
 | **最終更新** | 2022-11-12 21:03:15 Sakon. |

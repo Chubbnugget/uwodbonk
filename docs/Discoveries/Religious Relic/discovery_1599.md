@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | broken sword fragment |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A fragment of a sword said to have been left by Jumong, the first king of Goguryeo, to his son Suiri. 
+| **explanation** | A fragment of a sword said to have been left by Jumong, the first king of Goguryeo, to his son Suiri.
  Ruiri grew up without knowing his father, and one day his mother told him his father's words, ``If you can find the hidden sword, you are my son.'' It is said that Rui successfully found the sword and became the second king of Goguryeo. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

@@ -15,7 +15,7 @@ category: Treasure
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 360 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Galileo's Works" 
+| **Remarks** | Quest "Galileo's Works"
 
  Discovery Name Card:180 |
 | **最終更新** | 2022-11-22 18:57:04 Sakon. |

@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Ipachi Manuscript |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the manuscripts of the "Primitive Chronicle" compiled in the 15th century. 
+| **explanation** | One of the manuscripts of the "Primitive Chronicle" compiled in the 15th century.
  Information seems to have been added not only from the original text but also from books compiled afterward. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

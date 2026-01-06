@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Kojukei |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A bird with a unique song that lives in southern China and the island of Taiwan. 
+| **explanation** | A bird with a unique song that lives in southern China and the island of Taiwan.
  He has a cautious personality and rarely shows himself. In the early morning, they seem to go out in groups to look for food. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | gardenia |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant distributed in Japan, China, Taiwan, the Indochina Peninsula, etc. mainly 
+| **explanation** | A plant distributed in Japan, China, Taiwan, the Indochina Peninsula, etc. mainly
 
  It grows in forests in clusters and is characterized by its white flowers that bloom with a strong fragrance from early summer to summer. The fruit is used in Chinese medicine, as well as as food and dye. |
 | **Era** |  |

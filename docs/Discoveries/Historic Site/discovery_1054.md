@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | 豫園 |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Yuen". 
+| **explanation** | The reading is "Yuen".
 This garden was given by a Sichuan official to his parents who were nostalgic for their hometown.
  This name has the meaning of a peaceful and enjoyable garden. |
 | **Era** |  |

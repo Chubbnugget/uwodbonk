@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | Hikarikometsuki |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A nocturnal insect that lives in Central and South America. 
+| **explanation** | A nocturnal insect that lives in Central and South America.
 
  It is said to emit the most intense light among all luminescent insects, with the white spots on its chest emitting pale green light and the base of its body emitting orange light. |
 | **Era** |  |

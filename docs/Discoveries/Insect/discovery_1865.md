@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | Higurashi |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Cicadas live in the dark forests of East Asia and sing "Kana kana kana...". 
+| **explanation** | Cicadas live in the dark forests of East Asia and sing "Kana kana kana...".
  It was named the cicada that makes the sun go down because it often sings at dusk. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

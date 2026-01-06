@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | madateha |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A type of Nymphaea butterfly that lives in the Korean region. It is characterized by a cut-out hole at the tip of its front wings. 
+| **explanation** | A type of Nymphaea butterfly that lives in the Korean region. It is characterized by a cut-out hole at the tip of its front wings.
  It was named because its shape resembles a window. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

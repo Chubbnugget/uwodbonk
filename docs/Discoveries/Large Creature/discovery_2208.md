@@ -15,9 +15,7 @@ category: Large Creature
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 170 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | camel-like animal 
-
-
+| **Remarks** | camel-like animal
 
  Discovery Experience 340 Discovery Name Card Experience 170 |
 | **最終更新** | 2016-05-02 12:07:15 Gainor |

@@ -15,7 +15,7 @@ category: Treasure
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 350 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Medusa's eyes that protect people" 
+| **Remarks** | Quest "Medusa's eyes that protect people"
 
  Discovery Name Card:175 |
 | **最終更新** | 2022-11-26 19:25:20 Sakon. |

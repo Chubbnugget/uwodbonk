@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | copper pail |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A copper bucket that seems to have been made around the 12th century. 
+| **explanation** | A copper bucket that seems to have been made around the 12th century.
  It is engraved with the name of the region where it was probably made and the year, but the owner is unknown. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

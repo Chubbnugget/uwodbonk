@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | inner meridian diagram |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | It is a landscape-like depiction of the side of the human body, and is a pictorial version of the Taoist training method called Neidanju. 
+| **explanation** | It is a landscape-like depiction of the side of the human body, and is a pictorial version of the Taoist training method called Neidanju.
 
  Animals and celestial bodies are placed on the human body diagram with symbolic meaning. |
 | **Era** |  |

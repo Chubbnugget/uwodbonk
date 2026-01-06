@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | snowy owl |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | large owl. Beautiful pure white feathers. 
+| **explanation** | large owl. Beautiful pure white feathers.
  They do not live at high altitudes and are often found in grasslands in cold regions. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

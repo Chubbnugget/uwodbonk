@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Onagadori |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A type of chicken native to Japan. It is said that it was born due to a mutation. 
+| **explanation** | A type of chicken native to Japan. It is said that it was born due to a mutation.
  Some of the male's tail feathers are extremely long because they do not regrow. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

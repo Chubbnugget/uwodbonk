@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Rafflesia arnoldii |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | It is a parasitic species that is widely distributed in Southeast Asia, and produces thick, large flowers that are nearly 1 meter in diameter. 
+| **explanation** | It is a parasitic species that is widely distributed in Southeast Asia, and produces thick, large flowers that are nearly 1 meter in diameter.
 
  Apparently it was discovered by an English research team, but it must have taken courage to even get close to it, as it emits a terrible odor that attracts insects. |
 | **Era** |  |

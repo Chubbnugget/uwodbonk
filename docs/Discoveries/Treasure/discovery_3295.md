@@ -15,7 +15,7 @@ category: Treasure
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 800 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Prayer and Atonement” 
+| **Remarks** | Quest “Prayer and Atonement”
 
  Discovery Name Card: 400 |
 | **最終更新** | 2022-11-11 20:53:07 Sakon. |

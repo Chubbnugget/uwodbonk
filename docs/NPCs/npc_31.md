@@ -3,47 +3,40 @@ id: 31
 name: shipwright
 type: NPC
 ---
-
 # NPC: 船大工
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | shipwright |  
-| **Notes** | Modify and repair ships. Can produce shipbuilding materials. |  
-| **Last Updated** | 2006-09-02 09:00:00 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | shipwright |
+| **Notes** | Modify and repair ships. Can produce shipbuilding materials. |
+| **Last Updated** | 2006-09-02 09:00:00 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | shipwright |  
-| **Notes** | Modify and repair ships. Can produce shipbuilding materials. |  
-| **Last Updated** | 2006-09-02 09:00:00 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | shipwright |
+| **Notes** | Modify and repair ships. Can produce shipbuilding materials. |
+| **Last Updated** | 2006-09-02 09:00:00 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Elm material](Items/Shipbuilding FS Material/item_3542.md) | [Shipbuilding materials](Categories/category_47.md) | Fixed recipe | [Bremen](Ports/port_105.md) [Candia](Ports/port_79.md) |
 | [Oak material](Items/Shipbuilding FS Material/item_3569.md) | [Shipbuilding materials](Categories/category_47.md) | Fixed recipe | [Candia](Ports/port_79.md) [Bremen](Ports/port_105.md) |
 | [Cedar material](Items/Shipbuilding FS Material/item_3539.md) | [Shipbuilding materials](Categories/category_47.md) | Fixed recipe | [Candia](Ports/port_79.md) [Bremen](Ports/port_105.md) |
@@ -129,8 +122,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Elm material](Items/Shipbuilding FS Material/item_3542.md) | [Shipbuilding materials](Categories/category_47.md) | Fixed recipe | [Bremen](Ports/port_105.md) [Candia](Ports/port_79.md) |
 | [Oak material](Items/Shipbuilding FS Material/item_3569.md) | [Shipbuilding materials](Categories/category_47.md) | Fixed recipe | [Candia](Ports/port_79.md) [Bremen](Ports/port_105.md) |
 | [Cedar material](Items/Shipbuilding FS Material/item_3539.md) | [Shipbuilding materials](Categories/category_47.md) | Fixed recipe | [Candia](Ports/port_79.md) [Bremen](Ports/port_105.md) |

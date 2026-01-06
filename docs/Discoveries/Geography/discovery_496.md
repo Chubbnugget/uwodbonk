@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 330 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Further east of the archipelago” 
+| **Remarks** | Quest “Further east of the archipelago”
 
  Discovery Name Card:165 |
 | **最終更新** | 2022-11-05 18:42:57 Sakon. |

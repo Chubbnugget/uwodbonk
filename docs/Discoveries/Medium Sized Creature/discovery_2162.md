@@ -15,7 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 660 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Animals that build a home” 
+| **Remarks** | Quest “Animals that build a home”
 
  Discovery Name Card:185 |
 | **最終更新** | 2022-10-31 05:38:29 Sakon. |

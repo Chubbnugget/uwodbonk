@@ -10,14 +10,14 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | european ground squirrel |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | This squirrel, which lives in northeastern Europe, is about 20 cm long and lives in long, tunnel-like burrows in grasslands and meadows. 
+| **explanation** | This squirrel, which lives in northeastern Europe, is about 20 cm long and lives in long, tunnel-like burrows in grasslands and meadows.
 
  Eats leaves, roots, and seeds of plants. They seem to carry food stuffed into their cheek pouches and take it back to their nests. |
 | **Era** |  |
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | 2 (Rank of skills required for discovery) |
 | **Experience** | 80 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Outside the gates of Salonica, 
+| **Remarks** | Outside the gates of Salonica,
 
 Near the single cedar tree in the southeast.
 

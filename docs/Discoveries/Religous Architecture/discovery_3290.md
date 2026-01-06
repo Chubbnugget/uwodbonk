@@ -15,7 +15,7 @@ category: Religous Architecture
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 15 (Rank of skills required for discovery) |
 | **Experience** | 1190 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Longing for Eden” 
+| **Remarks** | Quest “Longing for Eden”
 
  Discovery Name Card:550 |
 | **最終更新** | 2022-11-14 20:28:43 Sakon. |

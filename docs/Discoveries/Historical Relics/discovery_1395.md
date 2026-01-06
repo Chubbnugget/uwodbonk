@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | gold and silver bow |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A glittering large bow decorated with gold and silver. Contrary to its beautiful appearance, it is quite heavy and requires a considerable amount of muscle strength to operate. 
+| **explanation** | A glittering large bow decorated with gold and silver. Contrary to its beautiful appearance, it is quite heavy and requires a considerable amount of muscle strength to operate.
  The Vikings used bows in naval battles, and it is said that the presence of a master archer could make the difference between victory and defeat. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

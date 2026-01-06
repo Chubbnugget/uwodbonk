@@ -10,14 +10,14 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Keploy Falls |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A waterfall cascading down from Pohnpei's largest mountain. 
+| **explanation** | A waterfall cascading down from Pohnpei's largest mountain.
 
  Pohnpei Island has a lot of rain, so the waterfalls have a lot of water and are very impressive. Eels live in the basin of the waterfall. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 360 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Recommended local procurement” 
+| **Remarks** | Quest “Recommended local procurement”
 
  Discovery Name Card:180 |
 | **最終更新** | 2022-11-12 17:55:52 Sakon. |

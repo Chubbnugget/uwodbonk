@@ -15,9 +15,7 @@ category: Marine Life
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 270 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | black crocodile map 
-
-
+| **Remarks** | black crocodile map
 
  Discovery Experience 270 Discovery Name Card Experience 135 |
 | **最終更新** | 2016-06-18 15:20:08 Gainor |

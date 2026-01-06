@@ -15,7 +15,7 @@ category: Small Creature
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 1500 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | pursuit quest 
+| **Remarks** | pursuit quest
 
  Discovery Name Card:750 |
 | **最終更新** | 2023-04-18 09:06:59 Passing navigator @guest |

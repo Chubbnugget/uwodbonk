@@ -10,7 +10,7 @@ category: Astronomical
 | **Discovery Type** | Astronomical |
 | **Discovery Name** | Acrux |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | The brightest Stars in the southern constellation Sagittarius. It corresponds to the bottom of the cross. It is the southernmost shining 1st class Star. 
+| **explanation** | The brightest Stars in the southern constellation Sagittarius. It corresponds to the bottom of the cross. It is the southernmost shining 1st class Star.
 
  It was named Acrux because it is an alpha star in the southern constellation Crux. |
 | **Era** | 19世紀 |

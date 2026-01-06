@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Black-tailed gull |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A seabird that lives in the waters around Japan. Although it is a type of seagull, it does not migrate extensively depending on the season. 
+| **explanation** | A seabird that lives in the waters around Japan. Although it is a type of seagull, it does not migrate extensively depending on the season.
  The voice that cries, "Myaah, meow," sounds a lot like a cat. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

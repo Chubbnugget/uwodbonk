@@ -3,47 +3,40 @@ id: 54
 name: production factory
 type: NPC
 ---
-
 # NPC: 生産工場
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | production factory |  
-| **Notes** | Production factory in Manchester |  
-| **Last Updated** | 2016-04-21 02:14:28 Phone@Administrator |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | production factory |
+| **Notes** | Production factory in Manchester |
+| **Last Updated** | 2016-04-21 02:14:28 Phone@Administrator |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | production factory |  
-| **Notes** | Production factory in Manchester |  
-| **Last Updated** | 2016-04-21 02:14:28 Phone@Administrator |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | production factory |
+| **Notes** | Production factory in Manchester |
+| **Last Updated** | 2016-04-21 02:14:28 Phone@Administrator |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Clermont](Items/Ships/item_5421.md) | [Ship](Categories/category_43.md) | Fixed recipe | [Viana do Castelo](Ports/port_206.md) |
 | [Production technology book/Storage basics (canning machine)](Items/Recipe Book/item_5132.md) | [Recipe book](Categories/category_22.md) | Fixed recipe | [Manchester](Ports/port_204.md) |
 | [Production technology book/Storage application edition (canning machine)] (item_5149.md) | [Recipe book](Categories/category_22.md) | Fixed recipe | [Viana do Castelo](Ports/port_206.md) [Le Havre](Ports/port_208.md) [Portsmouth](Ports/port_210.md) [Cattero](Ports/port_207.md) [Bilbao](Ports/port_205.md) [Rotterdam](Ports/port_209.md) |
@@ -58,8 +51,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Clermont](Items/Ships/item_5421.md) | [Ship](Categories/category_43.md) | Fixed recipe | [Viana do Castelo](Ports/port_206.md) |
 | [Production technology book/Storage basics (canning machine)](Items/Recipe Book/item_5132.md) | [Recipe book](Categories/category_22.md) | Fixed recipe | [Manchester](Ports/port_204.md) |
 | [Production technology book/Storage application edition (canning machine)] (item_5149.md) | [Recipe book](Categories/category_22.md) | Fixed recipe | [Viana do Castelo](Ports/port_206.md) [Le Havre](Ports/port_208.md) [Portsmouth](Ports/port_210.md) [Cattero](Ports/port_207.md) [Bilbao](Ports/port_205.md) [Rotterdam](Ports/port_209.md) |

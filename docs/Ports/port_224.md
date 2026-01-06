@@ -3,7 +3,6 @@ id: 224
 name: Deletion request 2
 type: Port
 ---
-
 # Port: 削除要請２
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 A mystery? ＿
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">

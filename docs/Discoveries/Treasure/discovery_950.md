@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Goryeo celadon |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A celadon vase that was often made in the Goryeo Era. 
+| **explanation** | A celadon vase that was often made in the Goryeo Era.
  It has a beautiful jade-like color and is considered a masterpiece. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

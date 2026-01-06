@@ -15,7 +15,7 @@ category: Small Creature
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | west siberian plain 
+| **Remarks** | west siberian plain
 
  Caucasus region resurvey reward |
 | **最終更新** | 2015-10-05 02:24:49 Hiyokomaru |

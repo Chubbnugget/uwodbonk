@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 650 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Lion of the Sky" 
+| **Remarks** | Quest "Lion of the Sky"
 
  Discovery Name Card:325 |
 | **最終更新** | 2022-12-21 00:37:11 Passing navigator @guest |

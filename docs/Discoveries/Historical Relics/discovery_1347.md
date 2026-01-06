@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | 漢書 |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A history book about the Former Han Era. 
+| **explanation** | A history book about the Former Han Era.
  It is distinctive in that it focuses on each person, such as the emperor. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

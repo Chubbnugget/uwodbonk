@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | The Tale of Genji |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A full-length novel written by Murasaki Shikibu. The story is set in the Heian Era court. 
+| **explanation** | A full-length novel written by Murasaki Shikibu. The story is set in the Heian Era court.
  This is a romantic novel full of emotion, depicting the life of a glamorous aristocrat and the complex relationships between people. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

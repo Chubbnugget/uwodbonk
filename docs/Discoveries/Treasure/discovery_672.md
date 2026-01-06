@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 260 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Continuing to hold on to the feeling of nostalgia 
-
-
+| **Remarks** | Continuing to hold on to the feeling of nostalgia
 
  Discovery Experience 260 Discovery Name Card Experience 130 |
 | **最終更新** | 2016-06-16 10:48:26 Gainor |

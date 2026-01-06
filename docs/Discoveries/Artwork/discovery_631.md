@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Paintings of Shin Saim-dang |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A painting created by the Korean female painter Shin Saim-dang. 
+| **explanation** | A painting created by the Korean female painter Shin Saim-dang.
 
  The gorgeous coloring and delicate style of painting are eye-catching. It seems that paintings with grass and insects as subjects were fun for Joseon painters. |
 | **Era** |  |

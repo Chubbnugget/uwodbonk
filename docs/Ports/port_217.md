@@ -3,7 +3,6 @@ id: 217
 name: Mangalore
 type: Port
 ---
-
 # Port: マンガロール
 
 import Tabs from '@theme/Tabs';
@@ -80,33 +79,32 @@ import TabItem from '@theme/TabItem';
 
 #### [Equipment (body)](Categories/category_24.md)
 
-| [kurta](Items/Equipment/Equipment-Body/item_1334.md) | [Equipment (body)](Categories/category_24.md) | 83,500 | tool shop owner |  |
-| [sari](Items/Equipment/Equipment-Body/item_1335.md) | [Equipment (body)](Categories/category_24.md) | 106,100 | tool shop owner |  |
+| [kurta](Items/Equipment/Equipment-Body/item_1334.md) | Equipment (body) | 83,500 | tool shop owner |  |
+| [sari](Items/Equipment/Equipment-Body/item_1335.md) | Equipment (body) | 106,100 | tool shop owner |  |
 
 #### [装備品（服飾品）](Categories/category_28.md)
 
-| [emerald earrings](Items/Equipment/Equipment-Accessory/item_657.md) | [装備品（服飾品）](Categories/category_28.md) | 4,000,000 | tool shop owner |  |
+| [emerald earrings](Items/Equipment/Equipment-Accessory/item_657.md) | 装備品（服飾品） | 4,000,000 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 200 | tool shop owner |  |
-| [hellfire torch](Items/Consumables/Consumables-Landbattle/item_233.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | tool shop owner |  |
-| [Arsenite poison](Items/Consumables/Consumables-Landbattle/item_663.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 400 | tool shop owner |  |
+| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [hellfire torch](Items/Consumables/Consumables-Landbattle/item_233.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [Arsenite poison](Items/Consumables/Consumables-Landbattle/item_663.md) | Consumables (land battle/deck battle) | 400 | tool shop owner |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [enchanting incense](Items/Consumables/Consumables-Skill/item_664.md) | [Consumables (skill activation)](Categories/category_31.md) | 1,000 | tool shop owner |  |
+| [enchanting incense](Items/Consumables/Consumables-Skill/item_664.md) | Consumables (skill activation) | 1,000 | tool shop owner |  |
 
 #### [Consumables (request documents)](Categories/category_45.md)
 
-| [Arms purchase order form](Items/Consumables/Consumables-Documents/item_2978.md) | [Consumables (request documents)](Categories/category_45.md) | 30,000 | tool shop owner |  |
+| [Arms purchase order form](Items/Consumables/Consumables-Documents/item_2978.md) | Consumables (request documents) | 30,000 | tool shop owner |  |
 
 #### [Consumables (lots, treasure chests)](Categories/category_50.md)
 
-| [Fun box (NO.6)](Items/Consumables/Consumables-Treasure-Chests/item_4758.md) | [Consumables (lots, treasure chests)](Categories/category_50.md) | 50,000,000 | tool shop owner |  |
+| [Fun box (NO.6)](Items/Consumables/Consumables-Treasure-Chests/item_4758.md) | Consumables (lots, treasure chests) | 50,000,000 | tool shop owner |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
-
 
 ### Shipwright
 
@@ -115,10 +113,10 @@ import TabItem from '@theme/TabItem';
 
 #### [recipe book](Categories/category_22.md)
 
-| [Shipbuilding materials and ropes](Items/Recipe Book/item_1761.md) | [recipe book](Categories/category_22.md) | Fixed recipe | Shipwright |  |
+| [Shipbuilding materials and ropes](Items/Recipe Book/item_1761.md) | recipe book | Fixed recipe | Shipwright |  |
 
 #### [shipbuilding materials](Categories/category_47.md)
 
-| [舫綱](Items/Shipbuilding FS Material/item_1762.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipwright |  |
+| [舫綱](Items/Shipbuilding FS Material/item_1762.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
   </TabItem>
 </Tabs>

@@ -15,7 +15,7 @@ category: Marine Life
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 620 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Unidentified Marine Biology” 
+| **Remarks** | Quest “Unidentified Marine Biology”
 
  Discovery Name Card:310 |
 | **最終更新** | 2022-12-22 09:24:33 Sakon. |

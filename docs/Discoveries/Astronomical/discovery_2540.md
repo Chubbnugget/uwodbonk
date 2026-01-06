@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 510 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | “Gemini Stars Group” 
+| **Remarks** | “Gemini Stars Group”
 
  hDiscovery Name Card:255 |
 | **最終更新** | 2022-12-02 12:50:16 Passing navigator @guest |

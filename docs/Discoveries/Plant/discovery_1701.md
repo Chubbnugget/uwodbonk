@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Enju |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant with many white flowers that grows mainly in China. 
+| **explanation** | A plant with many white flowers that grows mainly in China.
  It is also famous as a medicinal plant, and the dried flower buds are used as a hemostatic agent. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

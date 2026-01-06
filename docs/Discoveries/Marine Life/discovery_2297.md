@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Clione |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | Marine biology that lives in cold regions. Its body is semi-transparent, and its internal organs are visible. 
+| **explanation** | Marine biology that lives in cold regions. Its body is semi-transparent, and its internal organs are visible.
  The sight of them floating gently in the sea is magical. The name is said to originate from a goddess in Greek mythology. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

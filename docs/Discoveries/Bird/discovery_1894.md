@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | golden eagle |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A large bird that is widespread in North America. 
+| **explanation** | A large bird that is widespread in North America.
  Its wingspan can reach more than 2 meters. The whole body is covered with dark brown feathers, but the back of the head is covered with shiny yellow feathers. They may also attack deer and foxes. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

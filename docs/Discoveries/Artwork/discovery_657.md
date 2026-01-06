@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Guo Xi's landscape paintings |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A painting by Guo Xi, a court painter of the Northern Song Era. 
+| **explanation** | A painting by Guo Xi, a court painter of the Northern Song Era.
  Guo Xi, who was familiar with nature, expressed the subtle changes in the landscape due to the seasons and weather with skillful brush strokes. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 519 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | The western tip of the island, west of Las Palmas. 
+| **Remarks** | The western tip of the island, west of Las Palmas.
 
  It seems to be limited to cloudy days. |
 | **最終更新** | 2017-05-09 21:53:53 Sakura @ Guest |

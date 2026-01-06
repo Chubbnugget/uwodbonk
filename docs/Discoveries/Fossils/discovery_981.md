@@ -15,9 +15,7 @@ category: Fossils
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 700 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Collared Dragon Investigation 
-
-
+| **Remarks** | Collared Dragon Investigation
 
  Discovery Experience700 Discovery Name Card Experience350 |
 | **最終更新** | 2016-05-03 16:43:42 Gainor |

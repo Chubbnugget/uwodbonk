@@ -3,7 +3,6 @@ id: 877
 name: Amberjack
 type:  Item
 ---
-
 # Amberjack
 
 import Tabs from '@theme/Tabs';
@@ -11,37 +10,37 @@ import TabItem from '@theme/TabItem';
 
 ## Basic Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Item Name** | Amberjack |  
-| **Type** | Trade Goods |  
-| **Group** | [Trade Goods](Categories/category_3.md) |  
-| **Sold by NPC** | [Collecting (fishing)](NPCs/npc_15.md) |  
-| **Description** | It is characterized by a yellow line running from head to tail. The flesh is delicious. Selling price 400 Amount converted to food 8 |  
-| **Last Updated** | 2009-10-03 14:54:14 Passing navigator @guest |  
+| Attribute | Details |
+| :--- | :--- |
+| **Item Name** | Amberjack |
+| **Type** | Trade Goods |
+| **Group** | [Trade Goods](Categories/category_3.md) |
+| **Sold by NPC** | [Collecting (fishing)](NPCs/npc_15.md) |
+| **Description** | It is characterized by a yellow line running from head to tail. The flesh is delicious. Selling price 400 Amount converted to food 8 |
+| **Last Updated** | 2009-10-03 14:54:14 Passing navigator @guest |
 
 ## Trade Data
 
 <Tabs>
   <TabItem value="t0" label="Where to Buy">
 
-| City | Region | Purchase Price | Ally Price | Description |  
-| --- | --- | --- | --- | --- |  
-| There is no purchase information |  
+| City | Region | Purchase Price | Ally Price | Description |
+| --- | --- | --- | --- | --- |
+| There is no purchase information |
 
   </TabItem>
   <TabItem value="t1" label="Sale Price (Specialty)">
 
-| City | Region | Sale Price | Ally Price | Description |  
-| --- | --- | --- | --- | --- |  
-| No sale information is registered for which specialty product judgment is set. |  
+| City | Region | Sale Price | Ally Price | Description |
+| --- | --- | --- | --- | --- |
+| No sale information is registered for which specialty product judgment is set. |
 
   </TabItem>
   <TabItem value="t2" label="Sale Price (Standard)">
 
-| City | Region | Sale Price | Ally Price | Description |  
-| --- | --- | --- | --- | --- |  
-| There is no sale information |  
+| City | Region | Sale Price | Ally Price | Description |
+| --- | --- | --- | --- | --- |
+| There is no sale information |
 
   </TabItem>
 </Tabs>

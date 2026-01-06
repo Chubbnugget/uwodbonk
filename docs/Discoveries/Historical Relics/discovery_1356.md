@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | silver helmet |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A Viking helmet left at L'Anse aux Meadows. 
+| **explanation** | A Viking helmet left at L'Anse aux Meadows.
 It is decorated with silver and silver, so it does not seem to belong to an ordinary warrior.
  Is there a source of silver nearby, or was it obtained through trade? |
 | **Era** |  |

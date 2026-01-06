@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 13 (Rank of skills required for discovery) |
 | **Experience** | 1170 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | A jewel where fairies live 
-
-
+| **Remarks** | A jewel where fairies live
 
  Discovery Experience1170 Discovery Name Card Experience585 |
 | **最終更新** | 2016-07-30 23:16:42 Gainor |

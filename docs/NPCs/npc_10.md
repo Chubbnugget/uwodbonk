@@ -3,47 +3,40 @@ id: 10
 name: Shipyard Master
 type: NPC
 ---
-
 # NPC: Shipyard Master
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | shipbuilding master |  
-| **Notes** | I'm selling a boat. Can build ships. Special shipbuilding is possible. Can produce shipbuilding materials. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | shipbuilding master |
+| **Notes** | I'm selling a boat. Can build ships. Special shipbuilding is possible. Can produce shipbuilding materials. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | shipbuilding master |  
-| **Notes** | I'm selling a boat. Can build ships. Special shipbuilding is possible. Can produce shipbuilding materials. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | shipbuilding master |
+| **Notes** | I'm selling a boat. Can build ships. Special shipbuilding is possible. Can produce shipbuilding materials. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [2-deck medium-sized hull](Items/Shipbuilding FS Material/item_1721.md) | [Shipbuilding materials](Categories/category_47.md) | Fixed recipe | [Hamburg](Ports/port_50.md) [Oporto](Ports/port_1.md) [Ragusa](Ports/port_29.md) [Nantes](Ports/port_20.md) |
 | [2-deck type large hull](Items/Shipbuilding FS Material/item_1820.md) | [Shipbuilding materials](Categories/category_47.md) | Fixed recipe | [Grand Cayman](Ports/port_114.md) [Caracas](Ports/port_120.md) [Cayenne](Ports/port_111.md) [Trujillo](Ports/port_115.md) [Willemstad](Ports/port_119.md) [Pernambuco](Ports/port_112.md) |
 | [2 mast cogs](Items/Ships/item_265.md) | [Ship](Categories/category_43.md) | 96,000 | [Copenhagen](Ports/port_56.md) [Antwerp](Ports/port_22.md) [Gothenburg](Ports/port_221.md) [Stockholm](Ports/port_31.md) [Bordeaux](Ports/port_26.md) [London](Ports/port_23.md) [Curry](Ports/port_21.md) [Hamburg](Ports/port_50.md) [Lübeck](Ports/port_62.md) [Bergen](Ports/port_69.md) [Danzig](Ports/port_101.md) [Amsterdam](Ports/port_49.md) [Nantes](Ports/port_20.md) [Plymouth](Ports/port_25.md) [Kokkola](Ports/port_189.md) [Bremen](Ports/port_105.md) [Groningen](Ports/port_96.md) |
@@ -188,8 +181,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [2-deck medium-sized hull](Items/Shipbuilding FS Material/item_1721.md) | [Shipbuilding materials](Categories/category_47.md) | Fixed recipe | [Hamburg](Ports/port_50.md) [Oporto](Ports/port_1.md) [Ragusa](Ports/port_29.md) [Nantes](Ports/port_20.md) |
 | [2-deck type large hull](Items/Shipbuilding FS Material/item_1820.md) | [Shipbuilding materials](Categories/category_47.md) | Fixed recipe | [Grand Cayman](Ports/port_114.md) [Caracas](Ports/port_120.md) [Cayenne](Ports/port_111.md) [Trujillo](Ports/port_115.md) [Willemstad](Ports/port_119.md) [Pernambuco](Ports/port_112.md) |
 | [2 mast cogs](Items/Ships/item_265.md) | [Ship](Categories/category_43.md) | 96,000 | [Copenhagen](Ports/port_56.md) [Antwerp](Ports/port_22.md) [Gothenburg](Ports/port_221.md) [Stockholm](Ports/port_31.md) [Bordeaux](Ports/port_26.md) [London](Ports/port_23.md) [Curry](Ports/port_21.md) [Hamburg](Ports/port_50.md) [Lübeck](Ports/port_62.md) [Bergen](Ports/port_69.md) [Danzig](Ports/port_101.md) [Amsterdam](Ports/port_49.md) [Nantes](Ports/port_20.md) [Plymouth](Ports/port_25.md) [Kokkola](Ports/port_189.md) [Bremen](Ports/port_105.md) [Groningen](Ports/port_96.md) |

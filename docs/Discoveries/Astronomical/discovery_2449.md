@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 510 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Lion's Tail" 
+| **Remarks** | Quest "Lion's Tail"
 
  Discovery Name Card:255 |
 | **最終更新** | 2022-12-21 00:35:42 Passing navigator @guest |

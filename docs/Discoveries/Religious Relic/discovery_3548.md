@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 280 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Praise our great goddess” 
+| **Remarks** | Quest “Praise our great goddess”
 
  Discovery Name Card:140 |
 | **最終更新** | 2022-12-31 10:05:53 Sakon. |

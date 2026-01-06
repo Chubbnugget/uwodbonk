@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 320 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Cross-Island Route” 
+| **Remarks** | Quest “Cross-Island Route”
 
  Discovery Name Card:160 |
 | **最終更新** | 2022-10-27 23:20:00 Sakon. |

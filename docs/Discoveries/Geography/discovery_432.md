@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Marquesas Islands |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | An archipelago in the South Pacific located approximately 1,500 km northeast of Tahiti. 
+| **explanation** | An archipelago in the South Pacific located approximately 1,500 km northeast of Tahiti.
  The name of the archipelago in the indigenous language is Te Henua Enana. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

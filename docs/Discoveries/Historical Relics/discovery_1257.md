@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Legacy of the Three Kingdoms |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A five-volume history book said to have been compiled by Ikzen, a high priest of Goryeo. 
+| **explanation** | A five-volume history book said to have been compiled by Ikzen, a high priest of Goryeo.
  Unlike the Sankoku Shiki, it also includes stories, folklore, and Buddhism. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

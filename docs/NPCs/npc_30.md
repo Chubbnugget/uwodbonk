@@ -3,45 +3,38 @@ id: 30
 name: bar master
 type: NPC
 ---
-
 # NPC: 酒場マスター
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | bar master |  
-| **Last Updated** | 2006-09-02 09:00:00 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | bar master |
+| **Last Updated** | 2006-09-02 09:00:00 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | bar master |  
-| **Last Updated** | 2006-09-02 09:00:00 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | bar master |
+| **Last Updated** | 2006-09-02 09:00:00 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Sakura](Items/Aides/item_3399.md) | [Adjutant](Categories/category_46.md) | 100,000 | [Sakai](Ports/port_179.md) |
 | [Isaac](Items/Aides/item_1572.md) | [Adjutant](Categories/category_46.md) | 100,000 | [Lisbon](Ports/port_2.md) [London](Ports/port_23.md) |
 | [Iqbal](Items/Aides/item_1594.md) | [Adjutant](Categories/category_46.md) | 100,000 | [Tunis](Ports/port_46.md) [Istanbul](Ports/port_78.md) |
@@ -114,8 +107,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Sakura](Items/Aides/item_3399.md) | [Adjutant](Categories/category_46.md) | 100,000 | [Sakai](Ports/port_179.md) |
 | [Isaac](Items/Aides/item_1572.md) | [Adjutant](Categories/category_46.md) | 100,000 | [Lisbon](Ports/port_2.md) [London](Ports/port_23.md) |
 | [Iqbal](Items/Aides/item_1594.md) | [Adjutant](Categories/category_46.md) | 100,000 | [Tunis](Ports/port_46.md) [Istanbul](Ports/port_78.md) |

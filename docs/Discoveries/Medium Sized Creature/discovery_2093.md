@@ -15,9 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 220 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | brown sea monster 
-
-
+| **Remarks** | brown sea monster
 
  Discovery Experience 220 Discovery Name Card Experience 110 |
 | **最終更新** | 2016-07-25 17:43:08 Gainor |

@@ -10,7 +10,7 @@ category: Large Creature
 | **Discovery Type** | Large Creature |
 | **Discovery Name** | Takin |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | An animal with large curved horns that lives in southwestern China. 
+| **explanation** | An animal with large curved horns that lives in southwestern China.
  They form large flocks in the summer, but have the habit of dispersing into smaller flocks in the winter. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

@@ -10,14 +10,14 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | 蘭嶼島 |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A remote island off the southeast coast of Taiwan Island. 
+| **explanation** | A remote island off the southeast coast of Taiwan Island.
 
  There are many things to see, such as large caves created by seawater erosion and strangely shaped rocks. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 380 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Island Clues Collection” 
+| **Remarks** | Quest “Island Clues Collection”
 
  Discovery Name Card:190 |
 | **最終更新** | 2022-12-31 18:10:28 Sakon. |

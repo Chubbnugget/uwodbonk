@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Kyoto doll |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Dolls made near Sakai, Japan. Apparently they are often transported to Edo towns as souvenirs. 
+| **explanation** | Dolls made near Sakai, Japan. Apparently they are often transported to Edo towns as souvenirs.
  It is said that it was originally used to take on disaster in place of a child. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

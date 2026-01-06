@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Shakao hitting table |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Shacao is a drink made by crushing the roots of trees. 
+| **explanation** | Shacao is a drink made by crushing the roots of trees.
 
  People probably made shakao and held rituals here. |
 | **Era** |  |

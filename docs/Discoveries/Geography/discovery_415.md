@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 120 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "The Most Beautiful Sea" 
+| **Remarks** | Quest "The Most Beautiful Sea"
 
  Discovery Name Card:60 |
 | **最終更新** | 2022-12-09 00:12:15 Sakon. |

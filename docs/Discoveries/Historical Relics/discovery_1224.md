@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Bon Jesus |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Portuguese East India trading ship. 
+| **explanation** | Portuguese East India trading ship.
  While en route from Lisbon to India, the ship ran aground on a reef east of Madagascar and sank. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

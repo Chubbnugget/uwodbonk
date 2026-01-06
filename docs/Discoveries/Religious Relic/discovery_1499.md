@@ -15,9 +15,7 @@ category: Religious Relic
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 200 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Map of Mesoamerican Artifacts 
-
-
+| **Remarks** | Map of Mesoamerican Artifacts
 
  Discovery Name Card:100 |
 | **最終更新** | 2022-10-13 21:22:10 Sakon. |

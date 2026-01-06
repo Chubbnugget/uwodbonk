@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Victory Monument |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A monument left by Rameses II, the ancient Egyptian pharaoh, as a commemoration of his victory in battle. 
+| **explanation** | A monument left by Rameses II, the ancient Egyptian pharaoh, as a commemoration of his victory in battle.
  It is a relic worthy of a man who fought in numerous wars, including the Battle of Kadesh. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Hirona |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | The official name is La Girona. One of the ships of the Spanish fleet that set out to invade England. 
+| **explanation** | The official name is La Girona. One of the ships of the Spanish fleet that set out to invade England.
  The fleet was defeated by the English Navy. During the rout, the Hirona hit a reef off the coast of Ireland and sank. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

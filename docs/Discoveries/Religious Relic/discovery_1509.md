@@ -15,9 +15,7 @@ category: Religious Relic
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 820 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Mesopotamian literary figure 
-
-
+| **Remarks** | Mesopotamian literary figure
 
  Discovery Experience 820 Discovery Name Card Experience 410 |
 | **最終更新** | 2016-07-03 16:59:34 Gainor |

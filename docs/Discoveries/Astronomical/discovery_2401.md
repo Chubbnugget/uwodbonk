@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 240 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "The Legend of the Hound" 
+| **Remarks** | Quest "The Legend of the Hound"
 
  Discovery Name Card: 120 |
 | **最終更新** | 2022-10-30 16:51:10 Sakon. |

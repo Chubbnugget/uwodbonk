@@ -3,47 +3,40 @@ id: 12
 name: sailmaker
 type: NPC
 ---
-
 # NPC: 製帆職人
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | sailmaker |  
-| **Notes** | We sell ship parts (auxiliary sails). Can produce shipbuilding materials. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | sailmaker |
+| **Notes** | We sell ship parts (auxiliary sails). Can produce shipbuilding materials. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | sailmaker |  
-| **Notes** | We sell ship parts (auxiliary sails). Can produce shipbuilding materials. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | sailmaker |
+| **Notes** | We sell ship parts (auxiliary sails). Can produce shipbuilding materials. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Outer jib](Items/Ship Parts/Shipparts-Studding-Sail/item_331.md) | [Ship parts (auxiliary sail)](Categories/category_33.md) | 18,000 | [Jambi](Ports/port_144.md) [Ceuta](Ports/port_16.md) [Kokkola](Ports/port_189.md) [Ternate](Ports/port_146.md) [Pisa](Ports/port_15.md) [Valencia](Ports/port_6.md) [Antwerp](Ports/port_22.md) [Venice](Ports/port_30.md) [Lisbon](Ports/port_2.md) [Sagres](Ports/port_214.md) [Salonika](Ports/port_80.md) [Saint Petersburg](Ports/port_190.md) [Amboina](Ports/port_145.md) [Luanda](Ports/port_77.md) [Goa](Ports/port_45.md) [Seville](Ports/port_4.md) [Malacca](Ports/port_128.md) [Bergen](Ports/port_69.md) [Santo Domingo](Ports/port_33.md) [Muscat](Ports/port_40.md) [Manila](Ports/port_141.md) [Marseille](Ports/port_10.md) [Ragusa](Ports/port_29.md) [Oporto](Ports/port_1.md) [Amsterdam](Ports/port_49.md) [London](Ports/port_23.md) |
 | [Outer & Inner Jib](Items/Ship Parts/Shipparts-Studding-Sail/item_332.md) | [Ship parts (auxiliary sail)](Categories/category_33.md) | 23,000 | [Bergen](Ports/port_69.md) [Saint Petersburg](Ports/port_190.md) [Valencia](Ports/port_6.md) [Goa](Ports/port_45.md) [Muscat](Ports/port_40.md) [Oporto](Ports/port_1.md) [Pisa](Ports/port_15.md) [Kokkola](Ports/port_189.md) [Antwerp](Ports/port_22.md) [Sagres](Ports/port_214.md) [Venice](Ports/port_30.md) [Lisbon](Ports/port_2.md) [Salonika](Ports/port_80.md) [Jambi](Ports/port_144.md) [Manila](Ports/port_141.md) [Ceuta](Ports/port_16.md) [Santo Domingo](Ports/port_33.md) [Seville](Ports/port_4.md) [London](Ports/port_23.md) [Malacca](Ports/port_128.md) [Marseille](Ports/port_10.md) [Luanda](Ports/port_77.md) |
 | [Outer & Inner Jib](Items/Ship Parts/Shipparts-Studding-Sail/item_332.md) | [Ship parts (auxiliary sails)](Categories/category_33.md) | 23,000 | [Amsterdam](Ports/port_49.md) [Ragusa](Ports/port_29.md) [Amboina](Ports/port_145.md) [Ternate](Ports/port_146.md) |
@@ -94,8 +87,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Outer jib](Items/Ship Parts/Shipparts-Studding-Sail/item_331.md) | [Ship parts (auxiliary sail)](Categories/category_33.md) | 18,000 | [Jambi](Ports/port_144.md) [Ceuta](Ports/port_16.md) [Kokkola](Ports/port_189.md) [Ternate](Ports/port_146.md) [Pisa](Ports/port_15.md) [Valencia](Ports/port_6.md) [Antwerp](Ports/port_22.md) [Venice](Ports/port_30.md) [Lisbon](Ports/port_2.md) [Sagres](Ports/port_214.md) [Salonika](Ports/port_80.md) [Saint Petersburg](Ports/port_190.md) [Amboina](Ports/port_145.md) [Luanda](Ports/port_77.md) [Goa](Ports/port_45.md) [Seville](Ports/port_4.md) [Malacca](Ports/port_128.md) [Bergen](Ports/port_69.md) [Santo Domingo](Ports/port_33.md) [Muscat](Ports/port_40.md) [Manila](Ports/port_141.md) [Marseille](Ports/port_10.md) [Ragusa](Ports/port_29.md) [Oporto](Ports/port_1.md) [Amsterdam](Ports/port_49.md) [London](Ports/port_23.md) |
 | [Outer & Inner Jib](Items/Ship Parts/Shipparts-Studding-Sail/item_332.md) | [Ship parts (auxiliary sails)](Categories/category_33.md) | 23,000 | [Bergen](Ports/port_69.md) [Saint Petersburg](Ports/port_190.md) [Venice](Ports/port_30.md) [Manila](Ports/port_141.md) |
 | [Outer & Inner Jib](Items/Ship Parts/Shipparts-Studding-Sail/item_332.md) | [Ship parts (auxiliary sail)](Categories/category_33.md) | 23,000 | [Amsterdam](Ports/port_49.md) [Valencia](Ports/port_6.md) [Goa](Ports/port_45.md) [Ragusa](Ports/port_29.md) [Muscat](Ports/port_40.md) [Oporto](Ports/port_1.md) [Pisa](Ports/port_15.md) [Kokkola](Ports/port_189.md) [Antwerp](Ports/port_22.md) [Sagres](Ports/port_214.md) [Amboina](Ports/port_145.md) [Lisbon](Ports/port_2.md) [Salonika](Ports/port_80.md) [Ternate](Ports/port_146.md) [Jambi](Ports/port_144.md) [Ceuta](Ports/port_16.md) [Santo Domingo](Ports/port_33.md) [Seville](Ports/port_4.md) [London](Ports/port_23.md) [Malacca](Ports/port_128.md) [Marseille](Ports/port_10.md) [Luanda](Ports/port_77.md) |

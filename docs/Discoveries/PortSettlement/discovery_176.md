@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | Anping |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Anpin". The city is the political and military center of Taiwan Island. 
+| **explanation** | The reading is "Anpin". The city is the political and military center of Taiwan Island.
  It was determined to be a suitable place to anchor ships, and it became a large port. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

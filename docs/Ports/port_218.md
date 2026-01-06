@@ -3,7 +3,6 @@ id: 218
 name: visakhapatnam
 type: Port
 ---
-
 # Port: ヴィシャーカパトナム
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 A port city located on the east coast of India, there are many Buddhist ruins, and the city has prospered under the patronage of King Ashoka of the Mauryan Dynasty, where Buddhist pilgrimages have been conducted since ancient times.The changes in rulers have left traces of the cityscape. Cultural area: India
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
@@ -83,30 +81,29 @@ A port city located on the east coast of India, there are many Buddhist ruins, a
 
 #### [Equipment (body)](Categories/category_24.md)
 
-| [salwar](Items/Equipment/Equipment-Body/item_1468.md) | [Equipment (body)](Categories/category_24.md) | 45,600 | tool shop owner |  |
-| [Pijamas](Items/Equipment/Equipment-Body/item_1467.md) | [Equipment (body)](Categories/category_24.md) | 284,200 | tool shop owner |  |
+| [salwar](Items/Equipment/Equipment-Body/item_1468.md) | Equipment (body) | 45,600 | tool shop owner |  |
+| [Pijamas](Items/Equipment/Equipment-Body/item_1467.md) | Equipment (body) | 284,200 | tool shop owner |  |
 
 #### [Equipment (belongings)](Categories/category_27.md)
 
-| [Narnari](Items/Equipment/Equipment-Weapon/item_1842.md) | [Equipment (belongings)](Categories/category_27.md) | 42,000 | tool shop owner |  |
+| [Narnari](Items/Equipment/Equipment-Weapon/item_1842.md) | Equipment (belongings) | 42,000 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 200 | tool shop owner |  |
-| [hellfire torch](Items/Consumables/Consumables-Landbattle/item_233.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | tool shop owner |  |
-| [Arsenite poison](Items/Consumables/Consumables-Landbattle/item_663.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 400 | tool shop owner |  |
+| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [hellfire torch](Items/Consumables/Consumables-Landbattle/item_233.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [Arsenite poison](Items/Consumables/Consumables-Landbattle/item_663.md) | Consumables (land battle/deck battle) | 400 | tool shop owner |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [enchanting incense](Items/Consumables/Consumables-Skill/item_664.md) | [Consumables (skill activation)](Categories/category_31.md) | 1,000 | tool shop owner |  |
+| [enchanting incense](Items/Consumables/Consumables-Skill/item_664.md) | Consumables (skill activation) | 1,000 | tool shop owner |  |
 
 #### [Consumables (request documents)](Categories/category_45.md)
 
-| [Luxury goods purchase order form](Items/Consumables/Consumables-Documents/item_4778.md) | [Consumables (request documents)](Categories/category_45.md) | 40,000 | tool shop owner |  |
-| [Arms purchase order form](Items/Consumables/Consumables-Documents/item_2978.md) | [Consumables (request documents)](Categories/category_45.md) | 30,000 | tool shop owner |  |
+| [Luxury goods purchase order form](Items/Consumables/Consumables-Documents/item_4778.md) | Consumables (request documents) | 40,000 | tool shop owner |  |
+| [Arms purchase order form](Items/Consumables/Consumables-Documents/item_2978.md) | Consumables (request documents) | 30,000 | tool shop owner |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
-
 
 ### Shipwright
 
@@ -115,10 +112,10 @@ A port city located on the east coast of India, there are many Buddhist ruins, a
 
 #### [recipe book](Categories/category_22.md)
 
-| [Shipbuilding materials and ropes](Items/Recipe Book/item_1761.md) | [recipe book](Categories/category_22.md) | Fixed recipe | Shipwright |  |
+| [Shipbuilding materials and ropes](Items/Recipe Book/item_1761.md) | recipe book | Fixed recipe | Shipwright |  |
 
 #### [shipbuilding materials](Categories/category_47.md)
 
-| [舫綱](Items/Shipbuilding FS Material/item_1762.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipwright |  |
+| [舫綱](Items/Shipbuilding FS Material/item_1762.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
   </TabItem>
 </Tabs>

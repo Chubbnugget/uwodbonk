@@ -15,7 +15,7 @@ category: Plant
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 210 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Under the dead leaves" 
+| **Remarks** | Quest "Under the dead leaves"
 
  Discovery Name Card:105 |
 | **最終更新** | 2023-01-31 11:47:45 Passing navigator @guest |

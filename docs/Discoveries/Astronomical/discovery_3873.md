@@ -10,7 +10,7 @@ category: Astronomical
 | **Discovery Type** | Astronomical |
 | **Discovery Name** | Zavyava |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Virgo Beta Stars. It is a 4th class star and is located around the left shoulder of the goddess. 
+| **explanation** | Virgo Beta Stars. It is a 4th class star and is located around the left shoulder of the goddess.
 
  The name is said to originate from the Arabic word meaning "one corner". |
 | **Era** |  |

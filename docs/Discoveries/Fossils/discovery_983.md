@@ -15,9 +15,7 @@ category: Fossils
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 370 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | winged dragon bones 
-
-
+| **Remarks** | winged dragon bones
 
  Discovery Experience 370 Discovery Name Card Experience 185 |
 | **最終更新** | 2016-07-22 17:03:17 Gainor |

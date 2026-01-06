@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | black swallowtail |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Butterflies live in a wide area, including Taiwan Island and China. It has glossy black wings, but the male's hind wings have a pattern that changes color over time. 
+| **explanation** | Butterflies live in a wide area, including Taiwan Island and China. It has glossy black wings, but the male's hind wings have a pattern that changes color over time.
  It prefers darker places than other swallowtail butterflies. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

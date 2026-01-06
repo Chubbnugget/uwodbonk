@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Avalon Peninsula |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A peninsula located southeast of Terra Nova Island. The topography is complex and there are many bays. 
+| **explanation** | A peninsula located southeast of Terra Nova Island. The topography is complex and there are many bays.
  It is also an excellent fishing ground. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

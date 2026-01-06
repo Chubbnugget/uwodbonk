@@ -1,32 +1,28 @@
 ---
 id: 4682
 category: Other
-status: untranslated
 ---
-
 # Quest [Delivery of antiques]
-
 
 ### Quest [Delivery of antiques] Details
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Quest Name** | Delivery of antiques |  
+| Attribute | Details |
+| :--- | :--- |
+| **Quest Name** | Delivery of antiques |
 
 ### Quest Contents
 
-
-| Attribute | Details |  
-| :--- | :--- |  
-| **Chrono Quest** | 紀元前 |  
-| **Offer Method** | trade quest |  
-| **Difficulty** | 7 |  
-| **Time Limit** | none |  
-| **Town** | [Marseille](Ports/port_10.md) |  
-| **Required Skills** | [Korean](Skills/Skills-Language/item_3744.md) |  
-| **Discovery** |  |  
-| **Reward/Advance** |  |  
-| **Exp/Fame** |  |  
-| **Items Obtained** |  |  
-| **Chain Quests** |  |  
-| **Notes** | 1. Hanyang Trader [Give 50 barrels of antiques] Bonus quest target Category 3 36 pieces |  
+| Attribute | Details |
+| :--- | :--- |
+| **Chrono Quest** | 紀元前 |
+| **Offer Method** | trade quest |
+| **Difficulty** | 7 |
+| **Time Limit** | none |
+| **Town** | [Marseille](Ports/port_10.md) |
+| **Required Skills** | [Korean](Skills/Skills-Language/item_3744.md) |
+| **Discovery** |  |
+| **Reward/Advance** |  |
+| **Exp/Fame** |  |
+| **Items Obtained** |  |
+| **Chain Quests** |  |
+| **Notes** | 1. Hanyang Trader [Give 50 barrels of antiques] Bonus quest target Category 3 36 pieces |

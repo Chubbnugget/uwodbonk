@@ -15,7 +15,7 @@ category: Small Creature
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 630 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Spiny Frog” 
+| **Remarks** | Quest “Spiny Frog”
 
  Discovery Name Card:315 |
 | **最終更新** | 2022-11-30 15:41:21 Passing navigator @guest |

@@ -15,7 +15,7 @@ category: Artwork
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 900 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | pursuit quest 
+| **Remarks** | pursuit quest
 
  Discovery Name Card: 450 |
 | **最終更新** | 2023-02-09 17:59:10 Passing navigator @guest |

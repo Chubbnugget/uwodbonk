@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Alishan |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A general term for the mountains in the central and southern part of the island of Taiwan. 
+| **explanation** | A general term for the mountains in the central and southern part of the island of Taiwan.
  It is home to many rare animals and plants that grow naturally in tropical regions. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

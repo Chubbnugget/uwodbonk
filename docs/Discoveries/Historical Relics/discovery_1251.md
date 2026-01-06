@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | History of the founding of Rome |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | The history of the founding of Rome, reconstructed from scattered materials and documents. 
+| **explanation** | The history of the founding of Rome, reconstructed from scattered materials and documents.
  There are over 100 volumes of Livy's works, which are said to be the original, so it seems that there are still not enough volumes. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

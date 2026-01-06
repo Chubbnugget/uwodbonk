@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | white sugar dessert |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Models of mansions and castles made using only white sugar. It has been served at banquets for royalty and aristocrats throughout Europe since ancient times, and after enjoying the sight of it, it was broken into pieces and served to the guests. 
+| **explanation** | Models of mansions and castles made using only white sugar. It has been served at banquets for royalty and aristocrats throughout Europe since ancient times, and after enjoying the sight of it, it was broken into pieces and served to the guests.
 
  It seems that they sometimes put on extravagant decorations to show off their family's financial strength. |
 | **Era** |  |

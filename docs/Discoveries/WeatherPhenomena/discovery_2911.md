@@ -10,14 +10,14 @@ category: WeatherPhenomena
 | **Discovery Type** | WeatherPhenomena |
 | **Discovery Name** | 漁火光柱 |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A phenomenon in which pillars of light appear to be floating in the sky, such as on the ocean. 
+| **explanation** | A phenomenon in which pillars of light appear to be floating in the sky, such as on the ocean.
 
  We don't know the details of the cause, but there are towns and fishing boats in the direction of the pillar, so the lights from those places may have some kind of influence. |
 | **Era** |  |
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 380 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Visible slightly east of the Azores beach 
+| **Remarks** | Visible slightly east of the Azores beach
 
  Clear skies at night |
 | **最終更新** | 2016-08-03 21:38:06 ykoiull |

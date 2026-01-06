@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 490 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Hard decision" 
+| **Remarks** | Quest "Hard decision"
 
  Discovery Name Card:245 |
 | **最終更新** | 2022-11-05 11:23:31 Sakon. |

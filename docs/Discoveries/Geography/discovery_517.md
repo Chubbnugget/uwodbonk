@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Ryuzu Rock |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A rock shaped like a dragon's head on the coast of Jeju Island. 
+| **explanation** | A rock shaped like a dragon's head on the coast of Jeju Island.
  Legend has it that when a dragon that lived in Bailutan tried to go out to sea, it was angered by the Emperor and was turned into stone. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

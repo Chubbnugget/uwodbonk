@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Gaku Hydrangea |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant native to Japan that blooms in clusters of small flowers. The color of the flowers changes depending on the soil and the number of days since flowering. 
+| **explanation** | A plant native to Japan that blooms in clusters of small flowers. The color of the flowers changes depending on the soil and the number of days since flowering.
  Large decorative flowers surround smaller central flowers, reminiscent of a framed painting. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

@@ -3,47 +3,40 @@ id: 33
 name: salesperson
 type: NPC
 ---
-
 # NPC: 販売員
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | salesperson |  
-| **Notes** | Intermediate the purchase and sale of consumables (meals). |  
-| **Last Updated** | 2007-08-22 20:45:00 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | salesperson |
+| **Notes** | Intermediate the purchase and sale of consumables (meals). |
+| **Last Updated** | 2007-08-22 20:45:00 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | salesperson |  
-| **Notes** | Intermediate the purchase and sale of consumables (meals). |  
-| **Last Updated** | 2007-08-22 20:45:00 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | salesperson |
+| **Notes** | Intermediate the purchase and sale of consumables (meals). |
+| **Last Updated** | 2007-08-22 20:45:00 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Onigiri](Items/Consumables/Consumables-Cooking/item_3407.md) | [Consumables (cooking)](Categories/category_32.md) |  | [Sakai](Ports/port_179.md) |
 | [Mushroom sautéed with butter](Items/Consumables/Consumables-Cooking/item_1061.md) | [Consumables (cooking)](Categories/category_32.md) |  | [Marseille](Ports/port_10.md) |
 | [Mushroom pasta](Items/Consumables/Consumables-Cooking/item_1071.md) | [Consumables (cooking)](Categories/category_32.md) |  | [Athens](Ports/port_28.md) [Venice](Ports/port_30.md) |
@@ -152,8 +145,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Onigiri](Items/Consumables/Consumables-Cooking/item_3407.md) | [Consumables (cooking)](Categories/category_32.md) |  | [Sakai](Ports/port_179.md) |
 | [Mushroom sautéed with butter](Items/Consumables/Consumables-Cooking/item_1061.md) | [Consumables (cooking)](Categories/category_32.md) |  | [Marseille](Ports/port_10.md) |
 | [Mushroom pasta](Items/Consumables/Consumables-Cooking/item_1071.md) | [Consumables (cooking)](Categories/category_32.md) |  | [Athens](Ports/port_28.md) [Venice](Ports/port_30.md) |

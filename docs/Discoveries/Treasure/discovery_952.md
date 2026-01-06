@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Deerskin ball |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A ball used for kemari. 
+| **explanation** | A ball used for kemari.
  Kemari is a game that was introduced to Japan from China. Several people took turns kicking the ball to keep it from falling to the ground, and it was popular among aristocrats and samurai. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

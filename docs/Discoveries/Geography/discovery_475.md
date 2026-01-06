@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | lebanon mountains |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Mountains near Beirut. Lebanon was named after the Aramaic word laban, which means "white", because of the snow that accumulates there. 
+| **explanation** | Mountains near Beirut. Lebanon was named after the Aramaic word laban, which means "white", because of the snow that accumulates there.
  Cedar of Lebanon once grew wild in abundance, but a large amount of it was cut down for the construction of the ancient Egyptian pyramids. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

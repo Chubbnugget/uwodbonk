@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 690 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Stars made in Poland” 
+| **Remarks** | Quest “Stars made in Poland”
 
  Discovery Name Card:345 |
 | **最終更新** | 2022-11-29 07:49:53 Sakon. |

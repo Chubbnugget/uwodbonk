@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | 飛魚服 |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | Uniform of the Jinyiwei, a secret agency of the Ming Dynasty. Clothes given by the emperor to those who have achieved great achievements. 
+| **explanation** | Uniform of the Jinyiwei, a secret agency of the Ming Dynasty. Clothes given by the emperor to those who have achieved great achievements.
 
 One of the. A flying fish is a snake with fins and a tail shaped like a fish.
 

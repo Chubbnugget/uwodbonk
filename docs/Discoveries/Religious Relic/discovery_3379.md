@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Avercombe's Letters |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the letters sent to his followers by Avakum, a priest who was one of the leaders of the Russian Old Believers. 
+| **explanation** | One of the letters sent to his followers by Avakum, a priest who was one of the leaders of the Russian Old Believers.
 
  He was imprisoned for 15 years for opposing church reforms by Tsar Alexei and others, and is said to have written his autobiography and letters in the colloquial language of the time. |
 | **Era** |  |

@@ -15,9 +15,7 @@ category: Historical Relics
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 510 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | dungeon 
-
-
+| **Remarks** | dungeon
 
  Discovery Experience 510 Discovery Name Card Experience 255 |
 | **最終更新** | 2016-05-31 18:43:10 Gainor |

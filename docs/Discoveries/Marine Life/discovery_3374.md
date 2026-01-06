@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Kimayu penguin |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Penguins live mainly in the fjords of Aotearoa's South Island. Among the Maori, it is called Tawaki. 
+| **explanation** | Penguins live mainly in the fjords of Aotearoa's South Island. Among the Maori, it is called Tawaki.
 
  It has long, bright yellow crown feathers on its head, which is why it is called the yellow-browed penguin. |
 | **Era** |  |

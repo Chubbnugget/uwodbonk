@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 1160 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Consultation about the Bible” 
+| **Remarks** | Quest “Consultation about the Bible”
 
  Discovery Name Card:580 |
 | **最終更新** | 2022-12-08 05:41:11 Sakon. |

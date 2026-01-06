@@ -10,7 +10,7 @@ category: Astronomical
 | **Discovery Type** | Astronomical |
 | **Discovery Name** | Surafat |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | 3rd class Stars located in the constellation Lyra. The name means turtle in Arabic; 
+| **explanation** | 3rd class Stars located in the constellation Lyra. The name means turtle in Arabic;
 
 It is said that this name originates from the fact that kotos were made by stringing strings on the shell.
 

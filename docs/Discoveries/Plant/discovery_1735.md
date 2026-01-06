@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | striped ash |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant with small, white flowers that grows in Taiwan and India. It has a unique aroma and its leaves are glossy. 
+| **explanation** | A plant with small, white flowers that grows in Taiwan and India. It has a unique aroma and its leaves are glossy.
  It bears small fruits in autumn. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 470 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Icelandic Basin 19th century 
+| **Remarks** | Icelandic Basin 19th century
 
  Discovery Name Card:235 |
 | **最終更新** | 2022-10-20 22:27:25 Sakon. |

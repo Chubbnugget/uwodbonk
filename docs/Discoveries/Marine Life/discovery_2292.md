@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Kikouraiketsugyo |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | This fish is locally called ``fansogari.'' 
+| **explanation** | This fish is locally called ``fansogari.''
  ``Sogari'' seems to mean koraiketsugyo. Originally, the oriole is said to be a brown individual, and yellow individuals are rare. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

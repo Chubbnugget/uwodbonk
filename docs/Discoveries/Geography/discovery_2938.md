@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 650 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Geography survey near the Bering Strait” 
+| **Remarks** | Quest “Geography survey near the Bering Strait”
 
  Discovery Name Card:325 |
 | **最終更新** | 2022-11-28 22:12:35 Passing navigator @guest |

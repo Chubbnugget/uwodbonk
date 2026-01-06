@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Temple and shrine auspicious picture scroll |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A Japanese picture scroll that is a collection of miracle stories about a certain temple and the Buddhist monks associated with it. 
+| **explanation** | A Japanese picture scroll that is a collection of miracle stories about a certain temple and the Buddhist monks associated with it.
  The scenes of people seeking faith, regardless of their status, are vividly depicted. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 360 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | West Siberian Plain, near Northeast Oiwa 
+| **Remarks** | West Siberian Plain, near Northeast Oiwa
 
 Probably winter/night/sunny weather
 

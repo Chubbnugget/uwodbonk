@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 1010 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “The prophesied comet Stars will appear” 
+| **Remarks** | Quest “The prophesied comet Stars will appear”
 
  Discovery Name Card:505 |
 | **最終更新** | 2022-11-21 18:19:39 Sakon. |

@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 660 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | man with a book 
-
-
+| **Remarks** | man with a book
 
  Discovery Experience660 Discovery Name Card Experience330 |
 | **最終更新** | 2016-05-07 14:20:19 Gainor |

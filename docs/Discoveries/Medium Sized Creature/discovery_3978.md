@@ -15,7 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 720 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | pursuit quest 
+| **Remarks** | pursuit quest
 
  Discovery Name Card:360 |
 | **最終更新** | 2025-10-25 17:48:50 Passing navigator @guest |

@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | bird and beast portrait |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A portion of Japanese picture scrolls depicting anthropomorphic animals. 
+| **explanation** | A portion of Japanese picture scrolls depicting anthropomorphic animals.
 
  The life of common people at the time is vividly expressed through the use of animals. |
 | **Era** |  |

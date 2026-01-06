@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Statue of Fukutoku Seishin |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is ``Fukutokusei Shin no Zou''. It is a statue of a nature god born from a belief in praying for a good harvest and wealth accumulation, and is also called the Land God. 
+| **explanation** | The reading is ``Fukutokusei Shin no Zou''. It is a statue of a nature god born from a belief in praying for a good harvest and wealth accumulation, and is also called the Land God.
 
  It is popular on the island of Taiwan mainly as a god of good fortune that brings wealth to people. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | gilt bronze ossuary |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the ossuary vessels made after the Asuka Era. The remains are placed in a gilt bronze vessel. 
+| **explanation** | One of the ossuary vessels made after the Asuka Era. The remains are placed in a gilt bronze vessel.
  There are inscriptions engraved on the lid and body to commemorate the deceased. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

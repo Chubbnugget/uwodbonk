@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 245 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | old knife 
-
-
+| **Remarks** | old knife
 
  Discovery Experience 490 Discovery Name Card Experience 245 |
 | **最終更新** | 2016-05-03 09:48:32 Gainor |

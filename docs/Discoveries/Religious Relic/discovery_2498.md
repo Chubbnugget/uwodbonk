@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Fragments of the Second Temple of Jerusalem |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Fragments of the Judean temple built in Jerusalem to replace Solomon's temple destroyed during the Babylonian captivity. 
+| **explanation** | Fragments of the Judean temple built in Jerusalem to replace Solomon's temple destroyed during the Babylonian captivity.
 
  It is inscribed in Hebrew as "To the Place of Wandering." |
 | **Era** |  |

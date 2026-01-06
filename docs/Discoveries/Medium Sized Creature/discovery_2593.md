@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | greek tortoise |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A turtle that lives in the arid lands of North Africa and southeastern Europe. The color and shape of the pattern differs depending on where they live, but the common feature is that they have thorn-like scales at the base of their hind legs. 
+| **explanation** | A turtle that lives in the arid lands of North Africa and southeastern Europe. The color and shape of the pattern differs depending on where they live, but the common feature is that they have thorn-like scales at the base of their hind legs.
 
  The name comes from the Greek mosaic pattern. |
 | **Era** |  |

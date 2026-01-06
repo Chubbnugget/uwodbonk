@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 15 (Rank of skills required for discovery) |
 | **Experience** | 1370 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “The rest of the guardian divine beasts” 
+| **Remarks** | Quest “The rest of the guardian divine beasts”
 
  Discovery Name Card:685 |
 | **最終更新** | 2022-11-30 15:44:07 Passing navigator @guest |

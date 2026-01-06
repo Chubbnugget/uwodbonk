@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 14 (Rank of skills required for discovery) |
 | **Experience** | 1209 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | A flower that never scatters 
-
-
+| **Remarks** | A flower that never scatters
 
  Discovery Experience1209 Discovery Name Card Experience604 |
 | **最終更新** | 2016-07-17 13:03:55 Gainor |

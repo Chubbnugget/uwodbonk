@@ -15,7 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | 770 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Pursuit quest “Additional seal investigation” 
+| **Remarks** | Pursuit quest “Additional seal investigation”
 
  Discovery Name Card:385 |
 | **最終更新** | 2023-01-23 00:42:13 Passing navigator @guest |

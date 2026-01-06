@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Torharban |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A stone statue that means "stone old man." Apparently it was originally made on Jeju Island. 
+| **explanation** | A stone statue that means "stone old man." Apparently it was originally made on Jeju Island.
  They are said to be placed on street corners and entrances to buildings to ward off evil spirits. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

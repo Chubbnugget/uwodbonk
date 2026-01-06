@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 250 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Soldier Conditions” 
+| **Remarks** | Quest “Soldier Conditions”
 
  Discovery Name Card:125 |
 | **最終更新** | 2022-11-03 17:44:56 Sakon. |

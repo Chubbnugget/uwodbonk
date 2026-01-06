@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | galapagos penguin |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A rare penguin that lives in tropical regions. It is smaller than other penguins, with a body length of about 35 cm. It is characterized by a posture that seems to be bent forward. 
+| **explanation** | A rare penguin that lives in tropical regions. It is smaller than other penguins, with a body length of about 35 cm. It is characterized by a posture that seems to be bent forward.
  It lives only in the Galapagos Islands. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

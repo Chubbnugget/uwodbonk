@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | Kibanoro |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A deer distributed from the Korean Peninsula to northern China. Both males and females have no horns, and the canine teeth on the upper jaw are well-developed and elongated. 
+| **explanation** | A deer distributed from the Korean Peninsula to northern China. Both males and females have no horns, and the canine teeth on the upper jaw are well-developed and elongated.
  Perhaps because they are so wary, they rarely show themselves. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

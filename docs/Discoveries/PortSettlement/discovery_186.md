@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | Nagasaki |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A town located in northwestern Kyushu. Because of its complicated coastline, it has developed as a port city since ancient times. 
+| **explanation** | A town located in northwestern Kyushu. Because of its complicated coastline, it has developed as a port city since ancient times.
  The city also has active trade with East Asian and European countries. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

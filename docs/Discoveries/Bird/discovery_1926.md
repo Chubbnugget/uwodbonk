@@ -15,7 +15,7 @@ category: Bird
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 360 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Peacock Farm Plan” 
+| **Remarks** | Quest “Peacock Farm Plan”
 
  Discovery Name Card:180 |
 | **最終更新** | 2022-11-12 08:00:26 Sakon. |

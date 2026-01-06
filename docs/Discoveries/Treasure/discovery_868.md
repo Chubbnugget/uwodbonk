@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Eiraku Grand Encyclopedia |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A collection of original books from various books such as astronomy, topography, and Yin-Yang. It even covers valuable documents from before the Ming Dynasty. 
+| **explanation** | A collection of original books from various books such as astronomy, topography, and Yin-Yang. It even covers valuable documents from before the Ming Dynasty.
  However, since it was a huge volume of over 20,000 volumes, only a portion of it has been made into manuscripts. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | mandala illustration |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is ``Mandarazu''. A type of Japanese religious painting that originated in ancient India. 
+| **explanation** | The reading is ``Mandarazu''. A type of Japanese religious painting that originated in ancient India.
  A mandala is an expression of the Buddhist worldview. This image depicts the Pure Land of Paradise centered around Amida Nyorai. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

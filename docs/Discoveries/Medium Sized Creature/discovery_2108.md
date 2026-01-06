@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | giant salamander |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A fat lizard-like creature that lives mainly in the upper reaches of rivers in western Japan. Some are over 1m long. 
+| **explanation** | A fat lizard-like creature that lives mainly in the upper reaches of rivers in western Japan. Some are over 1m long.
  Their behavior on land is slow, but they are agile in water. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

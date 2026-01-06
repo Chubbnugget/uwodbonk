@@ -3,7 +3,6 @@ id: 172
 name: freshwater
 type: Port
 ---
-
 # Port: 淡水
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 The reading is "Dancey". It is a city located in the northern part of Taiwan Island, with a large river flowing nearby. It was a town founded by Zheng Chenggong who expelled the Dutch people. Waiter: Jianhong (unreportable) (Help girl: Chu Hime) Suburb: Southeast Tamsui Cultural area: Taiwan Island
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
@@ -93,35 +91,34 @@ The reading is "Dancey". It is a city located in the northern part of Taiwan Isl
 
 #### [recipe book](Categories/category_22.md)
 
-| [East Asian accessories and crafts](Items/Recipe Book/item_3409.md) | [recipe book](Categories/category_22.md) | 800,000 | tool shop owner |  |
-| [East Asian accessories/sewing edition](Items/Recipe Book/item_3387.md) | [recipe book](Categories/category_22.md) | 800,000 | tool shop owner |  |
+| [East Asian accessories and crafts](Items/Recipe Book/item_3409.md) | recipe book | 800,000 | tool shop owner |  |
+| [East Asian accessories/sewing edition](Items/Recipe Book/item_3387.md) | recipe book | 800,000 | tool shop owner |  |
 
 #### [Equipment (head)](Categories/category_23.md)
 
-| [Ayuyo](Items/Equipment/Equipment-Head/item_3441.md) | [Equipment (head)](Categories/category_23.md) | 102,000 | tool shop owner |  |
-| [Babel crown](Items/Equipment/Equipment-Head/item_3601.md) | [Equipment (head)](Categories/category_23.md) | 102,000 | tool shop owner |  |
+| [Ayuyo](Items/Equipment/Equipment-Head/item_3441.md) | Equipment (head) | 102,000 | tool shop owner |  |
+| [Babel crown](Items/Equipment/Equipment-Head/item_3601.md) | Equipment (head) | 102,000 | tool shop owner |  |
 
 #### [Equipment (body)](Categories/category_24.md)
 
-| [mattress skirt](Items/Equipment/Equipment-Body/item_3666.md) | [Equipment (body)](Categories/category_24.md) | 154,000 | tool shop owner |  |
+| [mattress skirt](Items/Equipment/Equipment-Body/item_3666.md) | Equipment (body) | 154,000 | tool shop owner |  |
 
 #### [Equipment (legs)](Categories/category_26.md)
 
-| [shoe](Items/Equipment/Equipment-Feet/item_3603.md) | [Equipment (legs)](Categories/category_26.md) | 56,000 | tool shop owner |  |
-| [shoes](Items/Equipment/Equipment-Feet/item_3471.md) | [Equipment (legs)](Categories/category_26.md) | 48,000 | tool shop owner |  |
+| [shoe](Items/Equipment/Equipment-Feet/item_3603.md) | Equipment (legs) | 56,000 | tool shop owner |  |
+| [shoes](Items/Equipment/Equipment-Feet/item_3471.md) | Equipment (legs) | 48,000 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 200 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 150 | tool shop owner |  |
-| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 600 | tool shop owner |  |
+| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | [Consumables (skill activation)](Categories/category_31.md) | 2,500 | tool shop owner |  |
+| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
-
 
 ### Shipyard Master
 
@@ -130,22 +127,21 @@ The reading is "Dancey". It is a city located in the northern part of Taiwan Isl
 
 #### [recipe book](Categories/category_22.md)
 
-| [East Asian sail making methods](Items/Recipe Book/item_3417.md) | [recipe book](Categories/category_22.md) | Fixed recipe | Shipyard Master |  |
+| [East Asian sail making methods](Items/Recipe Book/item_3417.md) | recipe book | Fixed recipe | Shipyard Master |  |
 
 #### [Boat](Categories/category_43.md)
 
-| [Cruise ship](Items/Ships/item_3659.md) | [Boat](Categories/category_43.md) | 15,800,000 | Shipyard Master |  |
-| [Hirofune](Items/Ships/item_3652.md) | [Boat](Categories/category_43.md) | 7,600,000 | Shipyard Master |  |
-| [Research wide boat](Items/Ships/item_3657.md) | [Boat](Categories/category_43.md) | 15,200,000 | Shipyard Master |  |
-| [護衛用広船](Items/Ships/item_3660.md) | [Boat](Categories/category_43.md) | 16,200,000 | Shipyard Master |  |
-| [wide ship for transportation](Items/Ships/item_3658.md) | [Boat](Categories/category_43.md) | 15,600,000 | Shipyard Master |  |
+| [Cruise ship](Items/Ships/item_3659.md) | Boat | 15,800,000 | Shipyard Master |  |
+| [Hirofune](Items/Ships/item_3652.md) | Boat | 7,600,000 | Shipyard Master |  |
+| [Research wide boat](Items/Ships/item_3657.md) | Boat | 15,200,000 | Shipyard Master |  |
+| [護衛用広船](Items/Ships/item_3660.md) | Boat | 16,200,000 | Shipyard Master |  |
+| [wide ship for transportation](Items/Ships/item_3658.md) | Boat | 15,600,000 | Shipyard Master |  |
 
 #### [shipbuilding materials](Categories/category_47.md)
 
-| [medium junk sail](Items/Shipbuilding FS Material/item_3559.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipyard Master |  |
-| [large junk sail](Items/Shipbuilding FS Material/item_3538.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipyard Master |  |
-| [small junk sail](Items/Shipbuilding FS Material/item_3558.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipyard Master |  |
-
+| [medium junk sail](Items/Shipbuilding FS Material/item_3559.md) | shipbuilding materials | Fixed recipe | Shipyard Master |  |
+| [large junk sail](Items/Shipbuilding FS Material/item_3538.md) | shipbuilding materials | Fixed recipe | Shipyard Master |  |
+| [small junk sail](Items/Shipbuilding FS Material/item_3558.md) | shipbuilding materials | Fixed recipe | Shipyard Master |  |
 
 ### Shipwright
 
@@ -154,11 +150,11 @@ The reading is "Dancey". It is a city located in the northern part of Taiwan Isl
 
 #### [recipe book](Categories/category_22.md)
 
-| [East Asian cabin design methods](Items/Recipe Book/item_3397.md) | [recipe book](Categories/category_22.md) | Fixed recipe | Shipwright |  |
+| [East Asian cabin design methods](Items/Recipe Book/item_3397.md) | recipe book | Fixed recipe | Shipwright |  |
 
 #### [shipbuilding materials](Categories/category_47.md)
 
-| [assault cabin](Items/Shipbuilding FS Material/item_3568.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipwright |  |
-| [East Asia trade hold](Items/Shipbuilding FS Material/item_3537.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipwright |  |
+| [assault cabin](Items/Shipbuilding FS Material/item_3568.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
+| [East Asia trade hold](Items/Shipbuilding FS Material/item_3537.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
   </TabItem>
 </Tabs>

@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | 450 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Copernicus' Request" 
+| **Remarks** | Quest "Copernicus' Request"
 
  Discovery Name Card:225 |
 | **最終更新** | 2022-11-26 17:48:03 Sakon. |

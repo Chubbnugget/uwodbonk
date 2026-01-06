@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | angel fall |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A large waterfall located in the northern part of the South American continent. 
+| **explanation** | A large waterfall located in the northern part of the South American continent.
  Because the drop is nearly 1km, most of the flowing water scatters on the way down. Therefore, there are no waterfall basins. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

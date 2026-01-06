@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | hoppo seminar |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A cicada with a small body and red eyes that lives only on the island of Taiwan. They sing often in the morning and evening, and their calls can be heard over long distances. 
+| **explanation** | A cicada with a small body and red eyes that lives only on the island of Taiwan. They sing often in the morning and evening, and their calls can be heard over long distances.
  Also known as Hoppo Higurashi. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

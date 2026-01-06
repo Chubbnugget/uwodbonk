@@ -15,9 +15,7 @@ category: Astronomical
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 510 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Discovered off the coast of Madagascar, 3rd period of the 18th century 
-
-
+| **Remarks** | Discovered off the coast of Madagascar, 3rd period of the 18th century
 
  Discovery Name Card:255 |
 | **最終更新** | 2022-10-14 11:32:05 Sakon. |

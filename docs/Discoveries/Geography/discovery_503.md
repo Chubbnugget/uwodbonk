@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | iceberg |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Among the ice floes floating in the Arctic Ocean, this iceberg is one of the largest and tallest. 
+| **explanation** | Among the ice floes floating in the Arctic Ocean, this iceberg is one of the largest and tallest.
  A ship that collides with one another will inevitably sink. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

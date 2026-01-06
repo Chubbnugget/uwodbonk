@@ -15,9 +15,7 @@ category: Religious Relic
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 612 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | The end of the Angkor dynasty 
-
-
+| **Remarks** | The end of the Angkor dynasty
 
  Discovery Experience612 Discovery Name Card Experience306 |
 | **最終更新** | 2016-07-04 14:16:56 Gainor |

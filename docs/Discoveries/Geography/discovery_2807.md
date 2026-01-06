@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | pantanal wetlands |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A vast wetland located upstream of the Paraguay River. 
+| **explanation** | A vast wetland located upstream of the Paraguay River.
 
 During the rainy season, the river overflows and nearly 80% of the area is submerged under water.
 

@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 310 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Around the west coast of India (3250, 3990) 
+| **Remarks** | Around the west coast of India (3250, 3990)
 
 Adventure experience 310
 

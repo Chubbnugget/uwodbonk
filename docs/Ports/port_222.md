@@ -3,7 +3,6 @@ id: 222
 name: "\"Xi'an\""
 type: Port
 ---
-
 # Port: 西安
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 The reading is "Sian". It was the capital of several successive dynasties, including the Han and Tang dynasties. During the Tang Dynasty, it was called "Chang'an" and was considered one of the world's largest cities. It is also considered the starting point of the Silk Road. *Move by horse-drawn carriage from Mt. Undai. *To reach it, you must complete the Treasure Hunt Prosperous Capital and possess the "Topography of the Ancient Capital."
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">

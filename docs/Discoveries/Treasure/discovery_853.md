@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 520 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Thoughts of a great power 
-
-
+| **Remarks** | Thoughts of a great power
 
  Discovery Experience 520 Discovery Name Card Experience 260 |
 | **最終更新** | 2016-06-07 09:45:08 Gainor |

@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | code of hammurabi |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A written law promulgated by King Hammurabi of ancient Babylon. 
+| **explanation** | A written law promulgated by King Hammurabi of ancient Babylon.
  The phrase ``an eye for an eye'' means to give just punishment. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

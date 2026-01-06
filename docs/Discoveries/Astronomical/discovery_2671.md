@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 700 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Southern Landmark” 
+| **Remarks** | Quest “Southern Landmark”
 
  Discovery Name Card:350 |
 | **最終更新** | 2022-11-06 12:26:56 Sakon. |

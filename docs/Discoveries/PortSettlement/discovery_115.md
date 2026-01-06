@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | Pinjarra |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A town near the southwestern tip of Australia. The town's name is a corruption of an indigenous word referring to the nearby marshland. 
+| **explanation** | A town near the southwestern tip of Australia. The town's name is a corruption of an indigenous word referring to the nearby marshland.
  The inland area of ​​southwestern Australia is home to rich iron ore and gold mines, and is attracting attention as a shipping port for these minerals. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

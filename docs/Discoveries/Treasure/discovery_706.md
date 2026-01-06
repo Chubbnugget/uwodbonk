@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | gooseli |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | Traditional Russian stringed instrument. Improvements were made to the shape and number of strings with each era, including wing-shaped, helmet-shaped, and box-shaped. 
+| **explanation** | Traditional Russian stringed instrument. Improvements were made to the shape and number of strings with each era, including wing-shaped, helmet-shaped, and box-shaped.
 
  It is said to have been used by Russian minstrels. |
 | **Era** |  |

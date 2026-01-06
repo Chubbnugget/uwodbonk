@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Rubaiyat |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A collection of quatrains written by Omar Khayyam. 
+| **explanation** | A collection of quatrains written by Omar Khayyam.
  Means quatrain in Persian. He continues to sing praises for good sake and sake princesses, and insists on momentary hedonism. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 14 (Rank of skills required for discovery) |
 | **Experience** | 1222 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | To the king's path... 
-
-
+| **Remarks** | To the king's path...
 
  Discovery Experience1222 Discovery Name Card Experience611 |
 | **最終更新** | 2016-06-16 10:50:00 Gainor |

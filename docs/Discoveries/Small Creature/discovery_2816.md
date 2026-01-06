@@ -10,7 +10,7 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | fool |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | An animal with a body length of 60 to 80 cm that lives in Central and South America. The body is bright reddish-brown, with thin dotted lines on both sides. 
+| **explanation** | An animal with a body length of 60 to 80 cm that lives in Central and South America. The body is bright reddish-brown, with thin dotted lines on both sides.
 
  Although it has a stocky build, it is agile and a good swimmer. |
 | **Era** |  |

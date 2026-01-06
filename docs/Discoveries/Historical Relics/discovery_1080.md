@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Anne |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A trading ship wrecked off the coast of the Peloponnese. 
+| **explanation** | A trading ship wrecked off the coast of the Peloponnese.
  After delivering pilgrims to Jaffa, she was shipwrecked on her way back to England. |
 | **Era** |  |
 | **Deck Points** | 2 (Required Deck Points for debate deck) |

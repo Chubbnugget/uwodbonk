@@ -15,7 +15,7 @@ category: Religous Architecture
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 250 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Temple Mural Investigation” 
+| **Remarks** | Quest “Temple Mural Investigation”
 
  Discovery Name Card:125 |
 | **最終更新** | 2022-11-25 17:45:52 Sakon. |

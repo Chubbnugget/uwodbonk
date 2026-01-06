@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | musk swallowtail |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A butterfly that lives widely in East Asia. It has elongated hind wings. 
+| **explanation** | A butterfly that lives widely in East Asia. It has elongated hind wings.
  Males have black feathers with a velvety sheen, while females have relatively plain brown feathers. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

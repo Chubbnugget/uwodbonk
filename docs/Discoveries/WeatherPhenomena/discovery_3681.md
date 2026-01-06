@@ -10,7 +10,7 @@ category: WeatherPhenomena
 | **Discovery Type** | WeatherPhenomena |
 | **Discovery Name** | mirage |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | Near the mouth of the Yellow River in western East Asia. 
+| **explanation** | Near the mouth of the Yellow River in western East Asia.
 
  A phenomenon in which you can see scenery that should be below the horizon. It is said to occur when light rays are refracted due to temperature differences on the sea surface. In China, there is a legend that the spiritual animal ``Shin'' emits ``qi'' and causes a ``lou'' pavilion to appear. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | four apostles |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Painting by Dürer. It depicts four apostles. 
+| **explanation** | Painting by Dürer. It depicts four apostles.
  The bright red and white costumes are so bright that you can almost hear them rustling. In Christianity, red represents charity and white represents innocence. |
 | **Era** |  |
 | **Deck Points** | 2 (Required Deck Points for debate deck) |

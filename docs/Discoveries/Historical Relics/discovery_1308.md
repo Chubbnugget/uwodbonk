@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | clay figure |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | An earthenware pottery in the shape of a human discovered in Japan. Although it has an odd shape, it has a feminine feel to it. 
+| **explanation** | An earthenware pottery in the shape of a human discovered in Japan. Although it has an odd shape, it has a feminine feel to it.
  There are signs that some parts were deliberately destroyed, but the purpose is unknown. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

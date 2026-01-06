@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | Tofe |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Ruins of ancient Carthage. 
+| **explanation** | Ruins of ancient Carthage.
 
  It is considered a sanctuary for the gods Baal Hamon and Tanit, and many tombstones have been found there. |
 | **Era** |  |

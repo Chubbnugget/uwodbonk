@@ -10,14 +10,14 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | missionary's letter |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A letter written by Gaspar Villela, a Portuguese missionary. 
+| **explanation** | A letter written by Gaspar Villela, a Portuguese missionary.
 
  There are descriptions of the Japanese port city of Sakai that are described as being like Venice. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 780 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Sakai's Reputation" 
+| **Remarks** | Quest "Sakai's Reputation"
 
  Discovery Name Card:390 |
 | **最終更新** | 2022-12-02 14:01:10 Passing navigator @guest |

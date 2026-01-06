@@ -3,7 +3,6 @@ id: 193
 name: mangazeya
 type: Port
 ---
-
 # Port: マンガゼヤ
 
 import Tabs from '@theme/Tabs';

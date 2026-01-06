@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Iwato Shimenawa |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Iwato no Shimenawa". Shimenawa is a straw rope with paper drops attached. It is used as a talisman or as a place for gods to descend. 
+| **explanation** | The reading is "Iwato no Shimenawa". Shimenawa is a straw rope with paper drops attached. It is used as a talisman or as a place for gods to descend.
  In Japanese mythology, when Amaterasu Omikami was pulled out of a rock door, the entrance to the rock door was blocked off with a shimenawa rope so that she would never be able to enter again. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

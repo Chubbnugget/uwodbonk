@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Tsukiyotake |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A poisonous mushroom that grows in clusters on dead broad-leaved trees. If you accidentally eat it, it can cause hallucinations that make your vision turn blue. 
+| **explanation** | A poisonous mushroom that grows in clusters on dead broad-leaved trees. If you accidentally eat it, it can cause hallucinations that make your vision turn blue.
  It has been known as a poisonous mushroom in Japan since ancient times, and it also appears in stories of the past and present. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

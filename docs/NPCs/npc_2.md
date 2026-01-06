@@ -3,49 +3,42 @@ id: 2
 name: tool shop owner
 type: NPC
 ---
-
 # NPC: 道具屋主人
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | tool shop owner |  
-| **Notes** | A merchant who sells consumables and books needed for voyages. 
- Each town carries different products. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | tool shop owner |
+| **Notes** | A merchant who sells consumables and books needed for voyages.
+ Each town carries different products. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | tool shop owner |  
-| **Notes** | A merchant who sells consumables and books needed for voyages. 
- Each town carries different products. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | tool shop owner |
+| **Notes** | A merchant who sells consumables and books needed for voyages.
+ Each town carries different products. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Enjoy box (NO.1)](Items/Consumables/Consumables-Treasure-Chests/item_4753.md) | [Consumables (lots, treasure chests)](Categories/category_50.md) | 50,000,000 | [San Francisco](Ports/port_198.md) [Manchester](Ports/port_204.md) [Luanda](Ports/port_77.md) [Gabon](Ports/port_215.md) |
 | [Enjoy box (NO.3)](Items/Consumables/Consumables-Treasure-Chests/item_4756.md) | [Consumables (lots, treasure chests)](Categories/category_50.md) | 50,000,000 | [Candia](Ports/port_79.md) [Naples](Ports/port_60.md) [Salonika](Ports/port_80.md) |
 | [Enjoy box (NO.4)](Items/Consumables/Consumables-Treasure-Chests/item_4754.md) | [Consumables (lots, treasure chests)](Categories/category_50.md) | 50,000,000 | [San Francisco](Ports/port_198.md) [Davao](Ports/port_140.md) |
@@ -621,8 +614,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Enjoy box (NO.1)](Items/Consumables/Consumables-Treasure-Chests/item_4753.md) | [Consumables (lots, treasure chests)](Categories/category_50.md) | 50,000,000 | [San Francisco](Ports/port_198.md) [Manchester](Ports/port_204.md) [Luanda](Ports/port_77.md) [Gabon](Ports/port_215.md) |
 | [Enjoy box (NO.3)](Items/Consumables/Consumables-Treasure-Chests/item_4756.md) | [Consumables (lots, treasure chests)](Categories/category_50.md) | 50,000,000 | [Candia](Ports/port_79.md) [Naples](Ports/port_60.md) [Salonika](Ports/port_80.md) |
 | [Enjoy box (NO.4)](Items/Consumables/Consumables-Treasure-Chests/item_4754.md) | [Consumables (lots, treasure chests)](Categories/category_50.md) | 50,000,000 | [San Francisco](Ports/port_198.md) [Davao](Ports/port_140.md) |

@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Death poem of Jeong Daoden |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Jeong Do-jeon was a scholar and politician from the late Goryeo period and early Joseon Dynasty. It was heavily used by Lee Seong-gye. 
+| **explanation** | Jeong Do-jeon was a scholar and politician from the late Goryeo period and early Joseon Dynasty. It was heavily used by Lee Seong-gye.
 
  Just as Zheng Daoden was planning to send troops to Liaodong, he was assassinated by a political enemy. This poem is said to have been composed on that occasion. |
 | **Era** |  |

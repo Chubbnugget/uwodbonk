@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 370 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | South of San Francisco, about 2 minutes 10531,3347 
+| **Remarks** | South of San Francisco, about 2 minutes 10531,3347
 
  Daytime cloudy sky |
 | **最終更新** | 2019-10-17 23:22:23 digiharuka |

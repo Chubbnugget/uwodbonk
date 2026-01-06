@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Kaya's short armor |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A short iron armor made by Kaya Era. 
+| **explanation** | A short iron armor made by Kaya Era.
  Short armor is a weapon mainly used to protect the torso. It consists of triangular iron plates fixed with studs, and spiral iron plates attached to the chest and back. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

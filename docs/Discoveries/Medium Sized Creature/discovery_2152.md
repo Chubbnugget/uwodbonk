@@ -15,9 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 473 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Slow-moving Biology 
-
-
+| **Remarks** | Slow-moving Biology
 
  Discovery Experience 473 Discovery Name Card Experience 236 |
 | **最終更新** | 2016-05-12 20:15:22 Gainor |

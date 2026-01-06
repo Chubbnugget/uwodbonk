@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 230 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Observation records of astronomers" 
+| **Remarks** | "Observation records of astronomers"
 
  Discovery Name Card:115 |
 | **最終更新** | 2022-10-30 18:33:21 Sakon. |

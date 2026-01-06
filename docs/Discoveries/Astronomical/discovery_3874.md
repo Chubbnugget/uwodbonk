@@ -10,7 +10,7 @@ category: Astronomical
 | **Discovery Type** | Astronomical |
 | **Discovery Name** | Polymer |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Gamma Stars of Virgo. Among the permanent stars of this Stars constellation, it is second only to Spica. 
+| **explanation** | Gamma Stars of Virgo. Among the permanent stars of this Stars constellation, it is second only to Spica.
 
 The second brightest 3rd magnitude Stars. Roman mythology called Camene
 
@@ -19,7 +19,7 @@ The second brightest 3rd magnitude Stars. Roman mythology called Camene
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 380 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Continued: Science Stars” 
+| **Remarks** | Quest “Continued: Science Stars”
 
  Discovery Name Card:190 |
 | **最終更新** | 2024-06-25 18:02:10 Sayaka |

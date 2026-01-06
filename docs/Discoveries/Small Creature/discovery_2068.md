@@ -15,9 +15,7 @@ category: Small Creature
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 810 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | animals living in the prairie 
-
-
+| **Remarks** | animals living in the prairie
 
  Discovery Experience810 Discovery Name Card Experience405 |
 | **最終更新** | 2016-09-10 17:25:56 Gainor |

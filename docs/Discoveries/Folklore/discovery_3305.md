@@ -10,7 +10,7 @@ category: Folklore
 | **Discovery Type** | Folklore |
 | **Discovery Name** | Umibozu |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A monster that appears in the sea at night and is said to destroy ships. Mainly a black shaved head 
+| **explanation** | A monster that appears in the sea at night and is said to destroy ships. Mainly a black shaved head
 
 He is said to be a giant. There are various shapes and sizes depending on the tradition,
 

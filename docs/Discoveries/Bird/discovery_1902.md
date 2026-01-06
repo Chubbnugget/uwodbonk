@@ -15,9 +15,7 @@ category: Bird
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 1131 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | ruler of the sky 
-
-
+| **Remarks** | ruler of the sky
 
  Discovery Experience1131 Discovery Name Card Experience565 |
 | **最終更新** | 2016-05-12 20:19:29 Gainor |

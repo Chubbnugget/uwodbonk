@@ -10,7 +10,7 @@ category: Religous Architecture
 | **Discovery Type** | Religous Architecture |
 | **Discovery Name** | Nanmadol ruins |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A mysterious building on the island of Pohnpei. Huge stones that would be impossible to move by human power were piled up to form the castle wall. 
+| **explanation** | A mysterious building on the island of Pohnpei. Huge stones that would be impossible to move by human power were piled up to form the castle wall.
  It is also called the ``maritime city'' because it cannot be visited unless the tide is high. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

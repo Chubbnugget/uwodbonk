@@ -15,9 +15,7 @@ category: Plant
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 620 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | bewitching plant 
-
-
+| **Remarks** | bewitching plant
 
  Discovery Experience620 Discovery Name Card Experience310 |
 | **最終更新** | 2016-07-10 10:31:20 Gainor |

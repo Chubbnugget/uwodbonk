@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | butterfly loach |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A freshwater fish that lives around Korea. 
+| **explanation** | A freshwater fish that lives around Korea.
  It is a beautiful loach with a black striped pattern on a white background. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

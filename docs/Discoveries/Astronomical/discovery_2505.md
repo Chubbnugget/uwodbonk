@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 460 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Stars constellation including the North Pole Stars” 
+| **Remarks** | Quest “Stars constellation including the North Pole Stars”
 
  Discovery Name Card:230 |
 | **最終更新** | 2022-11-03 15:59:55 Sakon. |

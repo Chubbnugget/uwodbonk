@@ -15,9 +15,7 @@ category: Bird
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 930 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Request for investigation to a distant place 
-
-
+| **Remarks** | Request for investigation to a distant place
 
  Cultural contribution level 50 |
 | **最終更新** | 2022-08-26 09:46:49 Maeda |

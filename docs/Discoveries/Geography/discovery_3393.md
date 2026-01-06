@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 330 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Unfinished map (San Francisco)" 
+| **Remarks** | "Unfinished map (San Francisco)"
 
  Discovery Name Card:165 |
 | **最終更新** | 2022-12-10 09:14:25 Sakon. |

@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | silk painting |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Hakuga". 
+| **explanation** | The reading is "Hakuga".
 
 Han means silk cloth, and Hanga refers to ancient Chinese paintings drawn on such silk cloth.
 

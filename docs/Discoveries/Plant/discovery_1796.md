@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | plumeria |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Flowers found in tropical countries. 
+| **explanation** | Flowers found in tropical countries.
  It is characterized by its sweet scent and distinct petal color, and is often used as hair ornaments. The stems break easily, and the white milky sap secreted from them is said to be both poisonous and medicinal. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

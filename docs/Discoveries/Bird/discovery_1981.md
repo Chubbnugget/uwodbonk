@@ -15,9 +15,7 @@ category: Bird
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 280 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | pink bird 
-
-
+| **Remarks** | pink bird
 
  Discovery Experience 280 Discovery Name Card Experience 140 |
 | **最終更新** | 2016-06-10 21:07:15 Gainor |

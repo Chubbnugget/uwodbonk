@@ -10,7 +10,7 @@ category: Large Creature
 | **Discovery Type** | Large Creature |
 | **Discovery Name** | american horse deer |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Animals commonly seen in the Pantanal Wetlands. 
+| **explanation** | Animals commonly seen in the Pantanal Wetlands.
 
 It is said to be the largest deer living in South America.
 
@@ -19,9 +19,7 @@ It is said to be the largest deer living in South America.
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 100 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | large deer map 
-
-
+| **Remarks** | large deer map
 
  Discovery Experience 100 Discovery Name Card Experience 50 |
 | **最終更新** | 2016-06-18 15:26:22 Gainor |

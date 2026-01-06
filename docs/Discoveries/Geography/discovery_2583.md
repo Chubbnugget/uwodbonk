@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | pindos mountains |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A mountain range on the western side of Greece. 
+| **explanation** | A mountain range on the western side of Greece.
 
  It is about 160km long and has a series of 2000m high mountains. Because it soars across the Balkan Peninsula, it is called the roof of Greece or the backbone of Greece. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Dongui Hokan |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A 25-volume medical book written by Xu Chu. 
+| **explanation** | A 25-volume medical book written by Xu Chu.
  This medical book, which was influenced by Taoism, is based on the Ming Dynasty's Li Zhu medicine, but it also incorporates a lot of Korea's unique medicine. This will greatly contribute to the future development of medicine. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | serpent mound |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A snake-shaped hill in eastern North America. There is a moat around the hill, and it appears to be a mausoleum, but there are many parts that are unknown. 
+| **explanation** | A snake-shaped hill in eastern North America. There is a moat around the hill, and it appears to be a mausoleum, but there are many parts that are unknown.
  The shape of the snake may be related to the constellation Stars. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

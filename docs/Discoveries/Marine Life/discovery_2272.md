@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | moray eel |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Lives in warm, shallow seas. It is elongated and has small fins, resembling a thick snake. When an enemy comes near, it opens its mouth wide to threaten, and sometimes bites with its sharp teeth. 
+| **explanation** | Lives in warm, shallow seas. It is elongated and has small fins, resembling a thick snake. When an enemy comes near, it opens its mouth wide to threaten, and sometimes bites with its sharp teeth.
  The body pattern and color are not fixed and appear to be diverse. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

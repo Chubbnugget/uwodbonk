@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | 金剛山 |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Mountains with peaks extending north, south, east and west. 
+| **explanation** | Mountains with peaks extending north, south, east and west.
  Apparently, the father of Jeong Do-jeon, a politician in the early Joseon Dynasty, secluded himself in these mountains for ten years to train. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

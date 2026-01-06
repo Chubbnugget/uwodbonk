@@ -10,7 +10,7 @@ category: Large Creature
 | **Discovery Type** | Large Creature |
 | **Discovery Name** | indian rhinoceros |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A rhinoceros that lives in the grasslands of northeastern India. 
+| **explanation** | A rhinoceros that lives in the grasslands of northeastern India.
 
 There is one horn on the head. The skin of the body is stiff and folded like armor.
 

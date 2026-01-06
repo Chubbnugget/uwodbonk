@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | 漢拏山 |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A volcano located almost in the center of Jeju Island. Apparently there is also a lake at the top of the mountain that is associated with various legends. 
+| **explanation** | A volcano located almost in the center of Jeju Island. Apparently there is also a lake at the top of the mountain that is associated with various legends.
  According to records, there appears to have been an eruption in the Koryo Era. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

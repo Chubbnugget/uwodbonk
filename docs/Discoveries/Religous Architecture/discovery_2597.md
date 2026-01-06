@@ -15,9 +15,7 @@ category: Religous Architecture
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Study of frescoes 
-
-
+| **Remarks** | Study of frescoes
 
  Discovery Experience 220 Discovery Name Card Experience 110 |
 | **最終更新** | 2016-06-14 15:19:18 Gainor |

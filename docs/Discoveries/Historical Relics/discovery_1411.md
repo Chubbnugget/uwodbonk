@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | birdman copper plate |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A copper plate with a unique decoration. The figure of a person with wings is depicted. 
+| **explanation** | A copper plate with a unique decoration. The figure of a person with wings is depicted.
 
  It was placed in a tomb near the Etowah River in North America as a burial gift for a person of high status. |
 | **Era** |  |

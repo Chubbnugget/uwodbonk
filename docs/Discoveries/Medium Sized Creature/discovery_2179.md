@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | Yakushima macaque |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A small monkey that lives on Yakushima. The body hair is coarse and somewhat long. 
+| **explanation** | A small monkey that lives on Yakushima. The body hair is coarse and somewhat long.
  The hair on the adult male's head is divided from the center to the left and right. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

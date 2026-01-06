@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | battle picture scroll |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A Japanese picture scroll that summarizes the history of a certain samurai family. The main focus is the depiction of battles. 
+| **explanation** | A Japanese picture scroll that summarizes the history of a certain samurai family. The main focus is the depiction of battles.
  The scenes depicted in vivid colors not only allow us to witness the exploits of samurai, but also convey the horror of war. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

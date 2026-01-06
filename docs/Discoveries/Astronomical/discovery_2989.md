@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 630 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Another North Pole Stars” 
+| **Remarks** | Quest “Another North Pole Stars”
 
  Discovery Name Card:315 |
 | **最終更新** | 2022-11-03 22:04:16 Sakon. |

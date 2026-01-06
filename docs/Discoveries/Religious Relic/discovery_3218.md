@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Holy Grand Duchess Olga's baptismal gown |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | The baptismal gown is said to have been worn by Olga, the wife of Grand Duke Igor I of Kiev, when she was baptized in Constantinople. 
+| **explanation** | The baptismal gown is said to have been worn by Olga, the wife of Grand Duke Igor I of Kiev, when she was baptized in Constantinople.
 
  Although it is a simple baptismal gown, it has unique embroidery. |
 | **Era** |  |

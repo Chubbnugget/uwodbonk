@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | gift butterfly |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A butterfly with a bright yellow and black mottled pattern that lives only in Japan. 
+| **explanation** | A butterfly with a bright yellow and black mottled pattern that lives only in Japan.
  The larva matures in the summer and becomes a pupa under fallen leaves, where it survives the winter. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

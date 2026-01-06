@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Sagisou |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant that lives in Japan and other parts of Far East Asia, and tends to grow in clusters in low-lying wetlands such as valleys. 
+| **explanation** | A plant that lives in Japan and other parts of Far East Asia, and tends to grow in clusters in low-lying wetlands such as valleys.
 
  It is called this name because the opening of the flower looks like a white heron spreading its wings. |
 | **Era** |  |

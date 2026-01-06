@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | yellow band |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the three geological formations in Chomolungma. 
+| **explanation** | One of the three geological formations in Chomolungma.
 
  Several Fossils have been found in the strata. By studying these Fossils, you will be able to find out what the area was like in the past. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | 諸葛弓弩 |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Shokatsujudo". A repeating crossbow invented during the Ming Dynasty. 
+| **explanation** | The reading is "Shokatsujudo". A repeating crossbow invented during the Ming Dynasty.
  By storing ten arrows in the top of the bow, it was possible to fire them continuously. It is thought to be named after Zhuge Liang, the military commander of the Three Kingdoms Era. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 15 (Rank of skills required for discovery) |
 | **Experience** | 1330 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Small and Cute Stars” 
+| **Remarks** | Quest “Small and Cute Stars”
 
  Discovery Name Card:665 |
 | **最終更新** | 2022-12-05 23:33:16 Sakon. |

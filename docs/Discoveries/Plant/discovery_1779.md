@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Holly Ginnanten |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A drought-resistant shrub distributed in Taiwan Island and southern China. It produces small, yellow flowers clustered together in a cylindrical shape. 
+| **explanation** | A drought-resistant shrub distributed in Taiwan Island and southern China. It produces small, yellow flowers clustered together in a cylindrical shape.
  The edges of the leaves are jagged and the tips are stiff needles. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

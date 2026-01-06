@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Historical Records of the Three Kingdoms |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A history book that tells the history of ancient Korea. The history of Silla, Baekje, and Goguryeo is written in 50 volumes. 
+| **explanation** | A history book that tells the history of ancient Korea. The history of Silla, Baekje, and Goguryeo is written in 50 volumes.
  It is said that it took about two years to compile by a Goryeo Confucian scholar. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

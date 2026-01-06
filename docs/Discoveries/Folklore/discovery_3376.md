@@ -10,7 +10,7 @@ category: Folklore
 | **Discovery Type** | Folklore |
 | **Discovery Name** | Snow Princess |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | An incarnation of snow in the form of a young girl who appears on snowy mountains at night. 
+| **explanation** | An incarnation of snow in the form of a young girl who appears on snowy mountains at night.
 
  Legend has it that it appears before those who enter the mountain and eats their living liver or freezes them to death. On the other hand, there are also stories of her bonding with a human, producing a child, and being with her husband until the end. |
 | **Era** |  |

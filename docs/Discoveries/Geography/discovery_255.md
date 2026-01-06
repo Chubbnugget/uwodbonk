@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | greenland |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | An island located northwest of Iceland. Obstructed by ice sheets and perpetual snow, it is impossible to see the details of the island. 
+| **explanation** | An island located northwest of Iceland. Obstructed by ice sheets and perpetual snow, it is impossible to see the details of the island.
  They can only live in small parts of the coast where there is no ice. However, the Vikings called this land the "Green Country" and invited settlers. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

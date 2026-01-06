@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Gold bronze Kannon Bodhisattva statue |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A Bodhisattva statue with a shape commonly seen in Korea. 
+| **explanation** | A Bodhisattva statue with a shape commonly seen in Korea.
  It seems that there are many different ways to make these statues, such as wooden statues painted with gilt bronze and cast. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

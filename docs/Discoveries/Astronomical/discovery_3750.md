@@ -10,7 +10,7 @@ category: Astronomical
 | **Discovery Type** | Astronomical |
 | **Discovery Name** | Akbens |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | Alpha Stars in Cancer. 
+| **explanation** | Alpha Stars in Cancer.
 
  It is located in the same place as the crab's left claw. The name means "claw" in Arabic. |
 | **Era** | 16世紀第1期 |

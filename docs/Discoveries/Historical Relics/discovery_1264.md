@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Secret History of the Yuan Dynasty |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | History book of Mongolia. Author unknown. 
+| **explanation** | History book of Mongolia. Author unknown.
  It focuses on the life of Genghis Khan, but also touches on the reign of his successor, Ogodei. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

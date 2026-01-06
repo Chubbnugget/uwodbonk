@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | Shima Daiker |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A type of herbivore that lives in Africa. It looks a lot like a fawn, but it's a cormorant. 
+| **explanation** | A type of herbivore that lives in Africa. It looks a lot like a fawn, but it's a cormorant.
 
 Belongs to the family Lingidae. The height is about 50cm. There are many black horizontal stripes on the waist.
 

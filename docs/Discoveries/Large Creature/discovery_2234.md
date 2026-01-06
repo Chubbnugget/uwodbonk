@@ -15,7 +15,7 @@ category: Large Creature
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | 140 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Brown bear habitat investigation” 
+| **Remarks** | Quest “Brown bear habitat investigation”
 
  Discovery Name Card:70 |
 | **最終更新** | 2022-11-03 18:07:05 Sakon. |

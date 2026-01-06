@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | Hosoocho |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A swallowtail butterfly that lives on the Korean Peninsula. It is so called because of the long projections on its hind wings. 
+| **explanation** | A swallowtail butterfly that lives on the Korean Peninsula. It is so called because of the long projections on its hind wings.
  It flies gently low above the ground. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

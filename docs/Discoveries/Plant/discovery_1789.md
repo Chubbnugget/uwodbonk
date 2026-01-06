@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Fukujusou |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant that grows in mountain forests. Produces golden yellow flowers in early spring. 
+| **explanation** | A plant that grows in mountain forests. Produces golden yellow flowers in early spring.
  They do not produce nectar, but instead collect sunlight and create a warm place that attracts insects for pollination. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

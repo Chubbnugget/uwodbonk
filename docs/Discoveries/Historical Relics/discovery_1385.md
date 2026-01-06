@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | 資治通鑑 |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The pronunciation is "shijitsugan". A history book that covers the period from the Spring and Autumn Era to the Song Dynasty. 
+| **explanation** | The pronunciation is "shijitsugan". A history book that covers the period from the Spring and Autumn Era to the Song Dynasty.
  It is written in a style different from ``Shiji'' and ``Chinese books,'' and is thought to have focused on readability. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

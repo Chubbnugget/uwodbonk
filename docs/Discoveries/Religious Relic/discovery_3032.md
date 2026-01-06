@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 1360 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | A coffin that feels so good you'll die 
+| **Remarks** | A coffin that feels so good you'll die
 
  2017.02.07 New addition |
 | **最終更新** | 2022-09-02 13:21:10 Mifuyu |

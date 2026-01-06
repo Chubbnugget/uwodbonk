@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Great auk |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A type of seabird that cannot fly. 
+| **explanation** | A type of seabird that cannot fly.
  It is said to be the first creature in biology that came to be called a "penguin," but its ecology seems to be different from the penguins we know. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

@@ -15,9 +15,7 @@ category: Artwork
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 160 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | North American basket map 
-
-
+| **Remarks** | North American basket map
 
  Discovery Experience 160 Discovery Name Card Experience 80 |
 | **最終更新** | 2017-12-03 19:40:56 Taxi |

@@ -10,16 +10,14 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | pink sand beach |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A beach on Harbor Island in the Caribbean Sea. Located in the northern part of Eleuthera Island in the Bahamas. 
+| **explanation** | A beach on Harbor Island in the Caribbean Sea. Located in the northern part of Eleuthera Island in the Bahamas.
 
  The white sand is mixed with reddish shells and crushed coral, giving it a pink appearance. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 1180 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | pink beach 
-
-
+| **Remarks** | pink beach
 
  Discovery Experience 1180 Discovery Name Card Experience 590 |
 | **最終更新** | 2016-06-15 00:15:54 Gainor |

@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Celebes Island |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A complex-shaped island located to the east of Kalimantan. The island is generally mountainous and is home to a wide variety of biology different from those found west of Kalimantan. 
+| **explanation** | A complex-shaped island located to the east of Kalimantan. The island is generally mountainous and is home to a wide variety of biology different from those found west of Kalimantan.
  The culture of the people living on the island varies greatly depending on the location. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

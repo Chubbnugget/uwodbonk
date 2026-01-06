@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Hatchani |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | Korean clothing worn by those who have studied Confucianism and those who teach Confucianism. 
+| **explanation** | Korean clothing worn by those who have studied Confucianism and those who teach Confucianism.
 
  Confucianism in Korea is not a religion but a science, but many people study Confucianism and act based on its ideas. |
 | **Era** |  |

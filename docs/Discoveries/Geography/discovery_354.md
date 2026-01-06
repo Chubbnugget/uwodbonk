@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 624 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Where the sun rises” 
+| **Remarks** | Quest “Where the sun rises”
 
  Discovery Name Card:300 |
 | **最終更新** | 2022-11-14 21:02:00 Sakon. |

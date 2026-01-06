@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Hyams Beach |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The coast in the southeastern part of the Australian continent. 
+| **explanation** | The coast in the southeastern part of the Australian continent.
 
  It is characterized by its pure white, fine-grained sand. |
 | **Era** |  |

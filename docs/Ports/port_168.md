@@ -3,7 +3,6 @@ id: 168
 name: Nagasaki
 type: Port
 ---
-
 # Port: 長崎
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 A town located in northwestern Kyushu. Because of its complicated coastline, it has developed as a port city since ancient times. The city also has active trade with East Asian and European countries. Tavern man: Takaji (helpful girl: Yuu) Suburb: Nagasaki North Cultural area: Japan
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
@@ -94,32 +92,32 @@ A town located in northwestern Kyushu. Because of its complicated coastline, it 
 
 #### [recipe book](Categories/category_22.md)
 
-| [East Asian accessories/sewing edition](Items/Recipe Book/item_3387.md) | [recipe book](Categories/category_22.md) | 800,000 | tool shop owner |  |
+| [East Asian accessories/sewing edition](Items/Recipe Book/item_3387.md) | recipe book | 800,000 | tool shop owner |  |
 
 #### [Equipment (head)](Categories/category_23.md)
 
-| [Hairpin](Items/Equipment/Equipment-Head/item_3384.md) | [Equipment (head)](Categories/category_23.md) | 102,000 | tool shop owner |  |
-| [折烏帽子](Items/Equipment/Equipment-Head/item_3383.md) | [Equipment (head)](Categories/category_23.md) | 102,000 | tool shop owner |  |
+| [Hairpin](Items/Equipment/Equipment-Head/item_3384.md) | Equipment (head) | 102,000 | tool shop owner |  |
+| [折烏帽子](Items/Equipment/Equipment-Head/item_3383.md) | Equipment (head) | 102,000 | tool shop owner |  |
 
 #### [Equipment (body)](Categories/category_24.md)
 
-| [Kosode (for women)](Items/Equipment/Equipment-Body/item_5077.md) | [Equipment (body)](Categories/category_24.md) | 154,000 | tool shop owner |  |
-| [Kosode (for men)](Items/Equipment/Equipment-Body/item_3379.md) | [Equipment (body)](Categories/category_24.md) | 154,000 | tool shop owner |  |
+| [Kosode (for women)](Items/Equipment/Equipment-Body/item_5077.md) | Equipment (body) | 154,000 | tool shop owner |  |
+| [Kosode (for men)](Items/Equipment/Equipment-Body/item_3379.md) | Equipment (body) | 154,000 | tool shop owner |  |
 
 #### [Equipment (legs)](Categories/category_26.md)
 
-| [Zori sandals](Items/Equipment/Equipment-Feet/item_3386.md) | [Equipment (legs)](Categories/category_26.md) | 56,000 | tool shop owner |  |
-| [Straw sandals](Items/Equipment/Equipment-Feet/item_3385.md) | [Equipment (legs)](Categories/category_26.md) | 48,000 | tool shop owner |  |
+| [Zori sandals](Items/Equipment/Equipment-Feet/item_3386.md) | Equipment (legs) | 56,000 | tool shop owner |  |
+| [Straw sandals](Items/Equipment/Equipment-Feet/item_3385.md) | Equipment (legs) | 48,000 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 200 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 150 | tool shop owner |  |
-| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 600 | tool shop owner |  |
+| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | [Consumables (skill activation)](Categories/category_31.md) | 2,500 | tool shop owner |  |
+| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
@@ -128,20 +126,19 @@ A town located in northwestern Kyushu. Because of its complicated coastline, it 
 
 #### [Consumables (condition recovery)](Categories/category_21.md)
 
-| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
-| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
+| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
+| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
 
 #### [recipe book](Categories/category_22.md)
 
-| [Japanese weapons](Items/Recipe Book/item_3405.md) | [recipe book](Categories/category_22.md) | Fixed recipe | workshop craftsman |  |
+| [Japanese weapons](Items/Recipe Book/item_3405.md) | recipe book | Fixed recipe | workshop craftsman |  |
 
 #### [Consumables (other)](Categories/category_44.md)
 
-| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
-| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
+| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | Consumables (other) | 500 | workshop craftsman |  |
+| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | Consumables (other) | 500 | workshop craftsman |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
-
 
 ### Shipyard Master
 
@@ -150,12 +147,11 @@ A town located in northwestern Kyushu. Because of its complicated coastline, it 
 
 #### [recipe book](Categories/category_22.md)
 
-| [East Asian sail making methods](Items/Recipe Book/item_3417.md) | [recipe book](Categories/category_22.md) | Fixed recipe | Shipyard Master |  |
+| [East Asian sail making methods](Items/Recipe Book/item_3417.md) | recipe book | Fixed recipe | Shipyard Master |  |
 
 #### [Boat](Categories/category_43.md)
 
-| [Hishigaki Kaisen](Items/Ships/item_3388.md) | [Boat](Categories/category_43.md) | 8,400,000 | Shipyard Master |  |
-
+| [Hishigaki Kaisen](Items/Ships/item_3388.md) | Boat | 8,400,000 | Shipyard Master |  |
 
 ### Lumbermaker
 
@@ -164,8 +160,7 @@ A town located in northwestern Kyushu. Because of its complicated coastline, it 
 
 #### [Ship parts (additional armor)](Categories/category_35.md)
 
-| [Zelkova board](Items/Ship Parts/Shipparts-Plates/item_3395.md) | [Ship parts (additional armor)](Categories/category_35.md) | 50,000 | Lumbermaker |  |
-
+| [Zelkova board](Items/Ship Parts/Shipparts-Plates/item_3395.md) | Ship parts (additional armor) | 50,000 | Lumbermaker |  |
 
 ### Sail-maker
 
@@ -174,7 +169,7 @@ A town located in northwestern Kyushu. Because of its complicated coastline, it 
 
 #### [Ship parts (auxiliary sails)](Categories/category_33.md)
 
-| [補助用和帆](Items/Ship Parts/Shipparts-Studding-Sail/item_3389.md) | [Ship parts (auxiliary sails)](Categories/category_33.md) | 13,000 | Sail-maker |  |
+| [補助用和帆](Items/Ship Parts/Shipparts-Studding-Sail/item_3389.md) | Ship parts (auxiliary sails) | 13,000 | Sail-maker |  |
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
@@ -183,13 +178,13 @@ A town located in northwestern Kyushu. Because of its complicated coastline, it 
 
 #### [Ship parts (special weapons)](Categories/category_37.md)
 
-| [Boathouse](Items/Ship Parts/Shipparts-Special-Weapons/item_3394.md) | [Ship parts (special weapons)](Categories/category_37.md) | 35,000 | weapon craftsman |  |
+| [Boathouse](Items/Ship Parts/Shipparts-Special-Weapons/item_3394.md) | Ship parts (special weapons) | 35,000 | weapon craftsman |  |
 
 #### [Ship parts (cannon)](Categories/category_38.md)
 
-| [仏郎機砲10門](Items/Ship Parts/Shipparts-Cannons/item_3393.md) | [Ship parts (cannon)](Categories/category_38.md) | 200,000 | weapon craftsman |  |
-| [仏郎機砲4門](Items/Ship Parts/Shipparts-Cannons/item_3390.md) | [Ship parts (cannon)](Categories/category_38.md) | 32,000 | weapon craftsman |  |
-| [仏郎機砲6門](Items/Ship Parts/Shipparts-Cannons/item_3391.md) | [Ship parts (cannon)](Categories/category_38.md) | 70,000 | weapon craftsman |  |
-| [仏郎機砲8門](Items/Ship Parts/Shipparts-Cannons/item_3392.md) | [Ship parts (cannon)](Categories/category_38.md) | 130,000 | weapon craftsman |  |
+| [仏郎機砲10門](Items/Ship Parts/Shipparts-Cannons/item_3393.md) | Ship parts (cannon) | 200,000 | weapon craftsman |  |
+| [仏郎機砲4門](Items/Ship Parts/Shipparts-Cannons/item_3390.md) | Ship parts (cannon) | 32,000 | weapon craftsman |  |
+| [仏郎機砲6門](Items/Ship Parts/Shipparts-Cannons/item_3391.md) | Ship parts (cannon) | 70,000 | weapon craftsman |  |
+| [仏郎機砲8門](Items/Ship Parts/Shipparts-Cannons/item_3392.md) | Ship parts (cannon) | 130,000 | weapon craftsman |  |
   </TabItem>
 </Tabs>

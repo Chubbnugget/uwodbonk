@@ -15,7 +15,7 @@ category: Historical Relics
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 740 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Wine Merchant in Colonial City” 
+| **Remarks** | Quest “Wine Merchant in Colonial City”
 
  Discovery Name Card:370 |
 | **最終更新** | 2022-11-27 23:57:11 Sakon. |

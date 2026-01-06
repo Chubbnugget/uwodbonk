@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | bengela current |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A cold current flowing north along the west coast of Africa. 
+| **explanation** | A cold current flowing north along the west coast of Africa.
  Fish seem to grow easily in this area and can be caught in abundance. Is there a secret in the flow of the tide? |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

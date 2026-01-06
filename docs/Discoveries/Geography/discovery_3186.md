@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 400 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Things Rooted in the Barren Land” 
+| **Remarks** | Quest “Things Rooted in the Barren Land”
 
  Discovery Name Card:200 |
 | **最終更新** | 2022-11-18 06:48:34 Sakon. |

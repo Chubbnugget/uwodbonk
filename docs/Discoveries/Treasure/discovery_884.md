@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | 申聞鼓 |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | (Shinbunko) A drum placed in front of the gates of the Joseon royal palace. It is said that when the people asked for an audience with the king, they were beaten. 
+| **explanation** | (Shinbunko) A drum placed in front of the gates of the Joseon royal palace. It is said that when the people asked for an audience with the king, they were beaten.
 
  It is eye-catching with its flashy color scheme similar to the clothes of the yangban. |
 | **Era** |  |

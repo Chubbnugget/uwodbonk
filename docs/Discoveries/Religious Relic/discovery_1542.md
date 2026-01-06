@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 672 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "The Man from the Golden Land" 
+| **Remarks** | Quest "The Man from the Golden Land"
 
  Discovery Name Card:335 |
 | **最終更新** | 2022-12-10 08:17:15 Sakon. |

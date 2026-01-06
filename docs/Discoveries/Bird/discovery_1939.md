@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Sankei |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A large bird that lives on the island of Taiwan. The male's body length is approximately 70 cm. 
+| **explanation** | A large bird that lives on the island of Taiwan. The male's body length is approximately 70 cm.
  They are very wary and rarely appear. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | journey to sacred places |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A record of pilgrimages to holy places written by Egeria, a woman from the southern part of the Iberian Peninsula, which was a province of Hispania under the Roman Empire in the 4th century. 
+| **explanation** | A record of pilgrimages to holy places written by Egeria, a woman from the southern part of the Iberian Peninsula, which was a province of Hispania under the Roman Empire in the 4th century.
 
  It describes the events that occurred when he went on a pilgrimage from the Iberian Peninsula to Jerusalem, Sinai Peninsula, and other places. |
 | **Era** |  |

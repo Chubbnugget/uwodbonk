@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Suikoden |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A Ming Dynasty popular novel that was often read by the people. 
+| **explanation** | A Ming Dynasty popular novel that was often read by the people.
  A story about 108 good men who gather in a fortress built to overthrow corrupt government officials and save the country. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

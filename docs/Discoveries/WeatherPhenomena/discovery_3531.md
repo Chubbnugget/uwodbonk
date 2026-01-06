@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 260 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | In front of Stockholm port. night. Probably winter (observed on the night just after winter) 
+| **Remarks** | In front of Stockholm port. night. Probably winter (observed on the night just after winter)
 
  Discovery Name Card:130 |
 | **最終更新** | 2023-03-20 11:07:13 Maeda |

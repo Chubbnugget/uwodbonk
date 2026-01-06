@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | 史記 |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A history book from ancient times to the Han Dynasty. 
+| **explanation** | A history book from ancient times to the Han Dynasty.
  It was initially named ``Taishi Kosho,'' but later came to be called ``Shiji.'' |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

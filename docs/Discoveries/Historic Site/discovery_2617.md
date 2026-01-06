@@ -15,7 +15,7 @@ category: Historic Site
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 280 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Birthplace of Hercules" 
+| **Remarks** | Quest "Birthplace of Hercules"
 
  Discovery Name Card:140 |
 | **最終更新** | 2022-11-28 19:51:10 Passing navigator @guest |

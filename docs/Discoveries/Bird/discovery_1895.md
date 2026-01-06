@@ -15,9 +15,7 @@ category: Bird
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 470 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | white beard bird 
-
-
+| **Remarks** | white beard bird
 
  Adventure experience 470 Card experience 235 |
 | **最終更新** | 2016-05-03 18:37:54 Gainor |

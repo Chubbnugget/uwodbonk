@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | 鶯歌石 |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | The pronunciation is "Oukaseki". 
+| **explanation** | The pronunciation is "Oukaseki".
  A huge rock in the mountains of Taipei. There is a legend that a monster bird that was causing harm to people by spewing miasma was shot down by Zheng Chengggong and turned into stone. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

@@ -3,7 +3,6 @@ id: 149
 name: ushuaia
 type: Port
 ---
-
 # Port: ウシュアイア
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 Music is Oceania You can use the minimum functions of the town by going to the command center from the Harbor Office on a special transport ship.
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">

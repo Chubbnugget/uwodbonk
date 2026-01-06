@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Terceira Island |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the islands in the Azores. When it was first discovered, it was called "Brazil Island" and was even depicted on Pizzigano's nautical charts. 
+| **explanation** | One of the islands in the Azores. When it was first discovered, it was called "Brazil Island" and was even depicted on Pizzigano's nautical charts.
 
  In addition to the port town of Angra do Heroismo, which means "Port of Heroes," many forts have been built to protect against pirates. |
 | **Era** |  |

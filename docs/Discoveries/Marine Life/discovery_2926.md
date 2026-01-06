@@ -15,7 +15,7 @@ category: Marine Life
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 530 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Candy-like crab” 
+| **Remarks** | Quest “Candy-like crab”
 
  Discovery Name Card:275 |
 | **最終更新** | 2022-12-22 09:12:25 Sakon. |

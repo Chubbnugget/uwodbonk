@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | The Great Ceremony of the State of Yi |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A legal code that served as the standard for politics in the Joseon Dynasty. 
+| **explanation** | A legal code that served as the standard for politics in the Joseon Dynasty.
 
  It is said that in addition to politics, regulations in various areas such as economics, culture, military, etc. are written down. It has been revised several times in the past. |
 | **Era** |  |

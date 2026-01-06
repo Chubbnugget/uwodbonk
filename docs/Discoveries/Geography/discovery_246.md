@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 270 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Sacred Rivers of India" 
+| **Remarks** | Quest "Sacred Rivers of India"
 
  Discovery Name Card:135 |
 | **最終更新** | 2022-11-14 20:39:59 Sakon. |

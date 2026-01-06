@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | Quanzhou |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The pronunciation is "chuwancho". A city that once prospered as a base for maritime trade. 
+| **explanation** | The pronunciation is "chuwancho". A city that once prospered as a base for maritime trade.
  At the end of the Jin Dynasty, many immigrants came from the Central Plains, and the technology and culture of the Central Plains has been passed down. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

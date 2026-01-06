@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Azuchi Castle Tile |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Black eave tiles on the roof of Azuchi Castle. There is a three-pronged crest on the front, and the concave part is covered with gold leaf. 
+| **explanation** | Black eave tiles on the roof of Azuchi Castle. There is a three-pronged crest on the front, and the concave part is covered with gold leaf.
  There are traces of smoke left by the fire. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

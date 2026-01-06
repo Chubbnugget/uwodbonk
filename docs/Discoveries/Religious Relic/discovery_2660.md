@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Code of Ur-Nammu |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A legal code promulgated by Ur-Nammu, the first king of the Third Dynasty of Ur. It is said to have influenced the Code of Hammurabi of ancient Babylon. 
+| **explanation** | A legal code promulgated by Ur-Nammu, the first king of the Third Dynasty of Ur. It is said to have influenced the Code of Hammurabi of ancient Babylon.
 
  Penalties are prescribed with emphasis on compensation for damages. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Tatara ship |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A traditional boat handed down by the indigenous people of Taiwan who live on Lanyu Island. It is shaped like a gondola and is unstable. 
+| **explanation** | A traditional boat handed down by the indigenous people of Taiwan who live on Lanyu Island. It is shaped like a gondola and is unstable.
  Used to go fishing with friends. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

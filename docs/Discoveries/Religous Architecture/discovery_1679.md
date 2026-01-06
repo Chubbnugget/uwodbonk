@@ -10,7 +10,7 @@ category: Religous Architecture
 | **Discovery Type** | Religous Architecture |
 | **Discovery Name** | Silla stone Buddha |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A stone Buddha believed to have been made during the early Silla Era. 
+| **explanation** | A stone Buddha believed to have been made during the early Silla Era.
  Because Buddhism was popular in Silla, many stone Buddha statues remain. The oldest stone Buddha in Korea appears to have a missing nose, as there is a legend that if you cut off your nose and drink it, you will be cured of illness. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

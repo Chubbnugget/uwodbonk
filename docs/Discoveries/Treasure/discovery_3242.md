@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Collection of cantigas of the Virgin Mary |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A collection of hymns to the Virgin Mary said to have been written by King Alfonso X of Castile himself. 
+| **explanation** | A collection of hymns to the Virgin Mary said to have been written by King Alfonso X of Castile himself.
 
  Although his reign was plagued with failures in the military and domestic politics, he left a great influence on cultural projects, and this collection of poems is considered his masterpiece. |
 | **Era** |  |

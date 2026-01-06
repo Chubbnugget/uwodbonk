@@ -15,7 +15,7 @@ category: Marine Life
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 1680 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | pursuit quest 
+| **Remarks** | pursuit quest
 
  Discovery Name Card:840 |
 | **最終更新** | 2023-04-17 15:03:21 Passing navigator @guest |

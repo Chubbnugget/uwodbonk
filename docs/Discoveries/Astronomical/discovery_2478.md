@@ -15,9 +15,7 @@ category: Astronomical
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | 2 (Rank of skills required for discovery) |
 | **Experience** | 350 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Stars of the Goddess of Beauty” 
-
-
+| **Remarks** | Quest “Stars of the Goddess of Beauty”
 
  Discovery Name Card:175 |
 | **最終更新** | 2022-10-13 05:53:12 Sakon. |

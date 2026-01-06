@@ -1,11 +1,8 @@
 ---
-source_url: https://gvdb.mydns.jp/db/module/TradeDB/action/ItemGroupShow?id=40
 id: 40
 name: Skill (trade)
 type: Category
-status: untranslated
 ---
-
 # Item Group: Skills (Trade)
 
 ## Overview
@@ -18,8 +15,8 @@ status: untranslated
 ## Included Items
 This group contains the following items found in the database:
 
-| Item Name | Base Price | Acquisition Method | Origin Type |  
-| :--- | :--- | :--- | :--- |  
+| Item Name | Base Price | Acquisition Method | Origin Type |
+| :--- | :--- | :--- | :--- |
 | **[accounting](Skills/Skill-Trade/item_466.md)** | `20000` | - | Other |
 | **[storage](Skills/Skill-Trade/item_473.md)** | `8000` | - | Other |
 | **[Pharmaceutical trading](Skills/Skill-Trade/item_486.md)** | `15000` | - | Other |

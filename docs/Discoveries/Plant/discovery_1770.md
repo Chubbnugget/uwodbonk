@@ -15,9 +15,7 @@ category: Plant
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 360 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | insect repellent again 
-
-
+| **Remarks** | insect repellent again
 
  Discovery Experience 360 ​​Discovery Name Card Experience 180 |
 | **最終更新** | 2016-05-06 16:52:43 Gainor |

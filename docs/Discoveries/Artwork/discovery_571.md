@@ -15,9 +15,7 @@ category: Artwork
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 280 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Old Saint" 
-
-
+| **Remarks** | Quest "Old Saint"
 
  Discovery Name Card:140 |
 | **最終更新** | 2022-10-13 08:59:12 Sakon. |

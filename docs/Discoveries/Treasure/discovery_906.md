@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | 訓民正音 |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | This book is said to have been compiled by order of Sejong, the fourth king of the Joseon Dynasty. 
+| **explanation** | This book is said to have been compiled by order of Sejong, the fourth king of the Joseon Dynasty.
 
  It describes Hangul, which is used to write the Korean language. |
 | **Era** |  |

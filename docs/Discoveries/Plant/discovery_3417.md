@@ -15,7 +15,7 @@ category: Plant
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 1070 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “A flower that only happens once in a hundred years” 
+| **Remarks** | Quest “A flower that only happens once in a hundred years”
 
  Discovery Name Card:535 |
 | **最終更新** | 2022-11-27 15:57:02 Sakon. |

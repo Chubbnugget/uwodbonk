@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Belisarius' Treasure Sword |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A sword said to have been worn by Belisarius, a general who was active during the reign of Emperor Justinian I of the Eastern Roman Empire. 
+| **explanation** | A sword said to have been worn by Belisarius, a general who was active during the reign of Emperor Justinian I of the Eastern Roman Empire.
 
  Although he was an excellent tactician and often won victories with a small number of cavalry, it is said that he was unlucky in his later years. |
 | **Era** |  |

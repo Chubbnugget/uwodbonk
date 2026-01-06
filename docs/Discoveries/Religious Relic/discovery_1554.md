@@ -10,14 +10,14 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | warochiri document |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A book by a missionary that summarizes the myths and folklore of the Andes. 
+| **explanation** | A book by a missionary that summarizes the myths and folklore of the Andes.
 
  Various myths and legends are recorded, including the battle between Pariakaka, the god of water, and the god of fire. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 1070 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Future of Tradition” 
+| **Remarks** | Quest “Future of Tradition”
 
  Discovery Name Card:535 |
 | **最終更新** | 2022-10-30 12:07:19 Sakon. |

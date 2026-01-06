@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Rakuchu Rakugai-zu |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A folding screen painting depicting the city and suburbs of Kyoto, the capital of Japan, looking down from a high position. 
+| **explanation** | A folding screen painting depicting the city and suburbs of Kyoto, the capital of Japan, looking down from a high position.
 
  While it is a gorgeous piece of art, it can also serve as a historical document that shows the state of the city and its people. |
 | **Era** |  |

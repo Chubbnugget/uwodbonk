@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Amphora with octopus drawings |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A pot found in the ruins of Crete. Amphora is the name of a type of jar that was used for transporting and storing alcohol and oil. 
+| **explanation** | A pot found in the ruins of Crete. Amphora is the name of a type of jar that was used for transporting and storing alcohol and oil.
  The paintings are drawn in a sophisticated style with smooth lines. Marine biology such as octopuses was a symbol of food and wealth for islanders surrounded by the sea. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

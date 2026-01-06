@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Aboukir shipwreck |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A Catalan trading ship. 
+| **explanation** | A Catalan trading ship.
  It sank in Aboukir Bay, northeast of Alexandria. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

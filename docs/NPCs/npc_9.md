@@ -3,47 +3,40 @@ id: 9
 name: sculptor
 type: NPC
 ---
-
 # NPC: 彫刻家
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | sculptor |  
-| **Notes** | I sell ship parts (figureheads). |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | sculptor |
+| **Notes** | I sell ship parts (figureheads). |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | sculptor |  
-| **Notes** | I sell ship parts (figureheads). |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | sculptor |
+| **Notes** | I sell ship parts (figureheads). |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Dolphin statue](Items/Ship Parts/Shipparts-Figurehead/item_169.md) | [Ship parts (figurehead)](Categories/category_34.md) | 500 | [Luanda](Ports/port_77.md) [Calicut](Ports/port_44.md) [Amboina](Ports/port_145.md) [Grand Cayman](Ports/port_114.md) [Malindi](Ports/port_107.md) [Famagusta](Ports/port_66.md) [Pernambuco](Ports/port_112.md) [Naples](Ports/port_60.md) [Caracas](Ports/port_120.md) [Santo Domingo](Ports/port_33.md) [Lima](Ports/port_162.md) [Ternate](Ports/port_146.md) [Genoa](Ports/port_11.md) [Willemstad](Ports/port_119.md) [Mogadishu](Ports/port_39.md) [Malaga](Ports/port_5.md) [Tunis](Ports/port_46.md) [Cayenne](Ports/port_111.md) [Salonika](Ports/port_80.md) [Cape Verde](Ports/port_54.md) [Trujillo](Ports/port_115.md) |
 | [Whale statue](Items/Ship Parts/Shipparts-Figurehead/item_172.md) | [Ship parts (figurehead)](Categories/category_34.md) | 12,000 | [Willemstad](Ports/port_119.md) [Cape Verde](Ports/port_54.md) [Malaga](Ports/port_5.md) [Grand Cayman](Ports/port_114.md) [Malindi](Ports/port_107.md) [Amboina](Ports/port_145.md) [Salonika](Ports/port_80.md) [Mogadishu](Ports/port_39.md) [Santo Domingo](Ports/port_33.md) [Lima](Ports/port_162.md) [Genoa](Ports/port_11.md) [Famagusta](Ports/port_66.md) [Trujillo](Ports/port_115.md) [Tunis](Ports/port_46.md) [Pernambuco](Ports/port_112.md) [Cayenne](Ports/port_111.md) [Calicut](Ports/port_44.md) [Luanda](Ports/port_77.md) [Naples](Ports/port_60.md) [Ternate](Ports/port_146.md) [Caracas](Ports/port_120.md) |
 | [Shark statue](Items/Ship Parts/Shipparts-Figurehead/item_171.md) | [Ship parts (figurehead)](Categories/category_34.md) | 8,600 | [Santo Domingo](Ports/port_33.md) [Caracas](Ports/port_120.md) [Willemstad](Ports/port_119.md) [Amboina](Ports/port_145.md) [Mogadishu](Ports/port_39.md) [Malindi](Ports/port_107.md) [Famagusta](Ports/port_66.md) [Naples](Ports/port_60.md) [Cape Verde](Ports/port_54.md) [Genoa](Ports/port_11.md) [Cayenne](Ports/port_111.md) [Tunis](Ports/port_46.md) [Lima](Ports/port_162.md) [Ternate](Ports/port_146.md) [Calicut](Ports/port_44.md) [Grand Cayman](Ports/port_114.md) [Trujillo](Ports/port_115.md) [Luanda](Ports/port_77.md) [Pernambuco](Ports/port_112.md) [Salonika](Ports/port_80.md) [Malaga](Ports/port_5.md) |
@@ -85,8 +78,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Dolphin statue](Items/Ship Parts/Shipparts-Figurehead/item_169.md) | [Ship parts (figurehead)](Categories/category_34.md) | 500 | [Luanda](Ports/port_77.md) [Calicut](Ports/port_44.md) [Amboina](Ports/port_145.md) [Grand Cayman](Ports/port_114.md) [Malindi](Ports/port_107.md) [Famagusta](Ports/port_66.md) [Pernambuco](Ports/port_112.md) [Naples](Ports/port_60.md) [Caracas](Ports/port_120.md) [Santo Domingo](Ports/port_33.md) [Lima](Ports/port_162.md) [Ternate](Ports/port_146.md) [Genoa](Ports/port_11.md) [Willemstad](Ports/port_119.md) [Mogadishu](Ports/port_39.md) [Malaga](Ports/port_5.md) [Tunis](Ports/port_46.md) [Cayenne](Ports/port_111.md) [Salonika](Ports/port_80.md) [Cape Verde](Ports/port_54.md) [Trujillo](Ports/port_115.md) |
 | [Whale statue](Items/Ship Parts/Shipparts-Figurehead/item_172.md) | [Ship parts (figurehead)](Categories/category_34.md) | 12,000 | [Willemstad](Ports/port_119.md) [Cape Verde](Ports/port_54.md) [Malaga](Ports/port_5.md) [Grand Cayman](Ports/port_114.md) [Malindi](Ports/port_107.md) [Amboina](Ports/port_145.md) [Salonika](Ports/port_80.md) [Mogadishu](Ports/port_39.md) [Santo Domingo](Ports/port_33.md) [Lima](Ports/port_162.md) [Genoa](Ports/port_11.md) [Famagusta](Ports/port_66.md) [Trujillo](Ports/port_115.md) [Tunis](Ports/port_46.md) [Pernambuco](Ports/port_112.md) [Cayenne](Ports/port_111.md) [Calicut](Ports/port_44.md) [Luanda](Ports/port_77.md) [Naples](Ports/port_60.md) [Ternate](Ports/port_146.md) [Caracas](Ports/port_120.md) |
 | [Shark statue](Items/Ship Parts/Shipparts-Figurehead/item_171.md) | [Ship parts (figurehead)](Categories/category_34.md) | 8,600 | [Santo Domingo](Ports/port_33.md) [Caracas](Ports/port_120.md) [Willemstad](Ports/port_119.md) [Amboina](Ports/port_145.md) [Mogadishu](Ports/port_39.md) [Malindi](Ports/port_107.md) [Famagusta](Ports/port_66.md) [Naples](Ports/port_60.md) [Cape Verde](Ports/port_54.md) [Genoa](Ports/port_11.md) [Cayenne](Ports/port_111.md) [Tunis](Ports/port_46.md) [Lima](Ports/port_162.md) [Ternate](Ports/port_146.md) [Calicut](Ports/port_44.md) [Grand Cayman](Ports/port_114.md) [Trujillo](Ports/port_115.md) [Luanda](Ports/port_77.md) [Pernambuco](Ports/port_112.md) [Salonika](Ports/port_80.md) [Malaga](Ports/port_5.md) |

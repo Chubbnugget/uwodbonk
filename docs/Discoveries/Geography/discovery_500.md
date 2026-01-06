@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Wuyishan |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A mountain that maintains a warm temperature and is home to trees that produce tea leaves. 
+| **explanation** | A mountain that maintains a warm temperature and is home to trees that produce tea leaves.
  There are ruins from the Song Dynasty and a study hall used by the founder of Neo-Confucianism. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 950 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Fish Drinking Nectar” 
+| **Remarks** | Quest “Fish Drinking Nectar”
 
  Discovery Name Card:475 |
 | **最終更新** | 2022-10-14 09:13:34 Sakon. |

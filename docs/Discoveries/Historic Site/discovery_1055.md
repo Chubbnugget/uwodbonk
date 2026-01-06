@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | Tomb of Kim Gyeong-shin |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Tomb of Silla General Kim Gyeong-shin. 
+| **explanation** | Tomb of Silla General Kim Gyeong-shin.
  Kim Gyeong-shin was a native of Hwarang and was highly trusted by King Muyeol. Although he made a great contribution to the unification of the three kingdoms of Silla, he died just before unification and was buried here. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

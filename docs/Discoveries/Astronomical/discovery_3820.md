@@ -10,7 +10,7 @@ category: Astronomical
 | **Discovery Type** | Astronomical |
 | **Discovery Name** | Gamma Stars in Sagittarius |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | The brightest Stars in the constellation Cancer. The position is at the arrowhead, and the alpha 
+| **explanation** | The brightest Stars in the constellation Cancer. The position is at the arrowhead, and the alpha
 
  It is brighter than Stars Siam and is a 3rd magnitude Star. |
 | **Era** |  |

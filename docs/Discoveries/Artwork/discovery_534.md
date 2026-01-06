@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | adam and eve |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A sculptural copperplate print depicting a man, woman, and animals against a paradise background. This was the earliest of Dürer's four major copperplate engravings. The theme is "original sin." 
+| **explanation** | A sculptural copperplate print depicting a man, woman, and animals against a paradise background. This was the earliest of Dürer's four major copperplate engravings. The theme is "original sin."
  Using Vitruvius' human proportions, the ideal form of ancient sculpture is presented. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

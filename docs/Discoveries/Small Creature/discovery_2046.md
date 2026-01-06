@@ -10,7 +10,7 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | tomato frog |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | It lives in the forests of northwestern Madagascar. 
+| **explanation** | It lives in the forests of northwestern Madagascar.
  They usually hide underground or under fallen leaves. The webs are small and slow moving. Due to limited habitat, the number of individuals is small. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

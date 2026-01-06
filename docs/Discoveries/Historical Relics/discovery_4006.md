@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Wooden tablet of laws and regulations |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A wooden tablet containing a description of Japan's oldest Ritsuryo code, the Asuka Kiyomihara Rei. Asuka Jo 
+| **explanation** | A wooden tablet containing a description of Japan's oldest Ritsuryo code, the Asuka Kiyomihara Rei. Asuka Jo
 
 The Mihara Rei was Japan's first legal code established by Emperor Tenmu and Emperor Jito.
 

@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | poongi |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A musical instrument originating from India. 
+| **explanation** | A musical instrument originating from India.
 
  You can make sounds by blowing into the tip of the gourd. It is also played when a snake charmer manipulates a snake. |
 | **Era** |  |

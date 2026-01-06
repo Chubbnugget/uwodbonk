@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 290 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Visible off the coast of Terra Nova 
+| **Remarks** | Visible off the coast of Terra Nova
 
 "Observation records of astronomers"
 

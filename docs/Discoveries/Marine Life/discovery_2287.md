@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Kamurchy |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A large carnivorous freshwater fish that is widely distributed from the Korean Peninsula to China. It lives in ponds and swamps with a lot of aquatic plants. 
+| **explanation** | A large carnivorous freshwater fish that is widely distributed from the Korean Peninsula to China. It lives in ponds and swamps with a lot of aquatic plants.
  It has a large mouth and sharp teeth. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

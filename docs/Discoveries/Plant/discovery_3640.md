@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Muyuuju |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the three sacred trees of Buddhism, this tree is said to be associated with the birth of Buddha. 
+| **explanation** | One of the three sacred trees of Buddhism, this tree is said to be associated with the birth of Buddha.
 
  It blooms pale red-orange flowers and is popular in India as the tree that fulfills the love of maidens and the tree of happiness. |
 | **Era** |  |

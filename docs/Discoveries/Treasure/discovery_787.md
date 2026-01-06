@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Lindisfarne Gospel |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Manuscript of the Gospels of Matthew, Mark, John, and Luke. Like the Book of Kells, it is an illuminated manuscript, but written in Latin. 
+| **explanation** | Manuscript of the Gospels of Matthew, Mark, John, and Luke. Like the Book of Kells, it is an illuminated manuscript, but written in Latin.
  At the time of its creation, it was bound with jewels and precious metals, but it seems that it was lost to the Vikings. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

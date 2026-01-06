@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | gaspé peninsula |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A peninsula located south of the mouth of the St. Lawrence River. 
+| **explanation** | A peninsula located south of the mouth of the St. Lawrence River.
  Many ancient Fossils have been excavated on the southern coast of the peninsula. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

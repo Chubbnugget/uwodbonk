@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Seven stories |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Rumi's book. 
+| **explanation** | Rumi's book.
 
  It seems to be a collection of Islamic stories. Rumi wrote many books in the form of poetry, and this story is written in prose form. |
 | **Era** |  |

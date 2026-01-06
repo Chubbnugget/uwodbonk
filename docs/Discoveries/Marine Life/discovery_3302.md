@@ -15,7 +15,7 @@ category: Marine Life
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 15 (Rank of skills required for discovery) |
 | **Experience** | 1240 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Fish or Whale?” 
+| **Remarks** | Quest “Fish or Whale?”
 
  Discovery Name Card:620 |
 | **最終更新** | 2022-11-27 14:01:31 Sakon. |

@@ -15,9 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 500 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | singing dog 
-
-
+| **Remarks** | singing dog
 
  Discovery Experience 500 Discovery Name Card Experience 250 |
 | **最終更新** | 2016-05-12 20:22:24 Gainor |

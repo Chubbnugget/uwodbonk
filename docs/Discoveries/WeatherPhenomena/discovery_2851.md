@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 220 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | A phenomenon in which sandstorms occur on the other side of the Sahara river. 
+| **Remarks** | A phenomenon in which sandstorms occur on the other side of the Sahara river.
 
  Places along rivers do not experience sandstorms. |
 | **最終更新** | 2016-04-22 09:26:50 Gone Napo |

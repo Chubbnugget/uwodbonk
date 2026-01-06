@@ -10,14 +10,14 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | call duck |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | Also known as Nakia Hill. It is said to be an improved breed of duck in the Netherlands. They were used as decoys to lure wild ducks with their loud cries. 
+| **explanation** | Also known as Nakia Hill. It is said to be an improved breed of duck in the Netherlands. They were used as decoys to lure wild ducks with their loud cries.
 
  They are also popular as pet pets. |
 | **Era** |  |
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 610 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Little Western Duck" 
+| **Remarks** | Quest "Little Western Duck"
 
  Discovery Name Card:305 |
 | **最終更新** | 2022-11-27 23:17:09 Sakon. |

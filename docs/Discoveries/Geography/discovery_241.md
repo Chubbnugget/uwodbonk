@@ -15,9 +15,7 @@ category: Geography
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 810 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Black cloud swirling cave 
-
-
+| **Remarks** | Black cloud swirling cave
 
  Discovery Experience810 Discovery Name Card Experience405 |
 | **最終更新** | 2016-09-10 17:26:13 Gainor |

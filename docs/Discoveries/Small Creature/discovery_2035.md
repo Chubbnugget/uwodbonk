@@ -15,9 +15,7 @@ category: Small Creature
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 205 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | A shadow descending in the dark night 
-
-
+| **Remarks** | A shadow descending in the dark night
 
  Discovery Experience 205 Discovery Name Card Experience 102 |
 | **最終更新** | 2016-05-12 20:14:05 Gainor |

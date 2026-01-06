@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | boston |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A port city located in the northeastern part of the North American continent. 
+| **explanation** | A port city located in the northeastern part of the North American continent.
 
  The city was founded by English Puritans who settled there. |
 | **Era** |  |

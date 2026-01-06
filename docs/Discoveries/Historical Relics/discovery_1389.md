@@ -15,7 +15,7 @@ category: Historical Relics
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 744 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "The size of Zheng He's ship" 
+| **Remarks** | Quest "The size of Zheng He's ship"
 
  Discovery Name Card:372 |
 | **最終更新** | 2022-10-14 15:04:28 Sakon. |

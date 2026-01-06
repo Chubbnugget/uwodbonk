@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | Omurasaki |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A butterfly distributed throughout East Asia. Males have shiny blue-purple wings. 
+| **explanation** | A butterfly distributed throughout East Asia. Males have shiny blue-purple wings.
  They have excellent flight abilities, and if you are nearby, you can hear the sound of their wings flapping. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

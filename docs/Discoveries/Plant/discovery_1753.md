@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Takasago lily |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant whose flowers are dyed red on the outside, often seen in the mountains of Taiwan. 
+| **explanation** | A plant whose flowers are dyed red on the outside, often seen in the mountains of Taiwan.
 
  It blooms in about a year, so it often grows in wastelands. |
 | **Era** |  |

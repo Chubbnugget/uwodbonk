@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Akame |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | This fish lives only in a fairly narrow area, from the coast of Tosa to the eastern coast of Kyushu. Although it is a large fish over 1 meter long, it prefers living near river mouths rather than the open ocean. 
+| **explanation** | This fish lives only in a fairly narrow area, from the coast of Tosa to the eastern coast of Kyushu. Although it is a large fish over 1 meter long, it prefers living near river mouths rather than the open ocean.
  It is said that it got its name because its eyes appear red depending on the angle at which the light hits them. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

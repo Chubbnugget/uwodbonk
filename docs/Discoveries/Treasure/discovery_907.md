@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | mysterious stone tablet |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | "I have received the jade mask. I have completely cleared my grudge against you. You are the best adventurer. 
+| **explanation** | "I have received the jade mask. I have completely cleared my grudge against you. You are the best adventurer.
 "Schrettenwalder"
  The stone tablets are European in style and new. |
 | **Era** |  |

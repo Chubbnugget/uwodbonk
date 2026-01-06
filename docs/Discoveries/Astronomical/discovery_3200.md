@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 710 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | mid atlantic 
+| **Remarks** | mid atlantic
 
 Equipment is required as it cannot be found in 18th century-3.
 

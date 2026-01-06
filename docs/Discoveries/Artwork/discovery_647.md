@@ -15,9 +15,7 @@ category: Artwork
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 1070 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | what the boy wanted to see 
-
-
+| **Remarks** | what the boy wanted to see
 
  Discovery Experience1070 Discovery Name Card Experience535 |
 | **最終更新** | 2016-06-16 10:53:11 Gainor |

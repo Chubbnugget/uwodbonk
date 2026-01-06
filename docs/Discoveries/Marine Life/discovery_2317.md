@@ -15,9 +15,7 @@ category: Marine Life
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 451 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | free seaweed 
-
-
+| **Remarks** | free seaweed
 
  Discovery Experience 451 Discovery Name Card Experience 225 |
 | **最終更新** | 2016-07-25 17:45:59 Gainor |

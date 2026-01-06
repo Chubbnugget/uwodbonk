@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 740 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Relationship between desert and sea” 
+| **Remarks** | Quest “Relationship between desert and sea”
 
  Discovery Name Card:370 |
 | **最終更新** | 2022-11-24 23:00:58 Sakon. |

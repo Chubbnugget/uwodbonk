@@ -15,7 +15,7 @@ category: Historical Relics
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 290 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Transmitted grave goods” 
+| **Remarks** | Quest “Transmitted grave goods”
 
  Discovery Name Card:145 |
 | **最終更新** | 2022-11-25 17:21:10 Sakon. |

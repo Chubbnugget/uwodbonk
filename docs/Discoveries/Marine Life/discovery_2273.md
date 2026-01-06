@@ -15,7 +15,7 @@ category: Marine Life
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 480 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Gentle Shark” 
+| **Remarks** | Quest “Gentle Shark”
 
  Discovery Name Card:240 |
 | **最終更新** | 2022-11-27 16:40:50 Sakon. |

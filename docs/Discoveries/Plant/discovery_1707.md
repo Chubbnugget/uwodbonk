@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Kaentake mushroom |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A highly poisonous mushroom distributed in China and Japan. It grows near rotting trees. 
+| **explanation** | A highly poisonous mushroom distributed in China and Japan. It grows near rotting trees.
  It got its name from its bright red cap and flame-like shape. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

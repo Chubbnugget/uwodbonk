@@ -15,7 +15,7 @@ category: Insect
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 320 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Pitch black insect map" 
+| **Remarks** | "Pitch black insect map"
 
  Discovery Name Card:160 |
 | **最終更新** | 2022-11-27 22:16:43 Sakon. |

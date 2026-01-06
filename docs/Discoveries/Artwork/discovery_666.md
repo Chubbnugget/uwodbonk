@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Huang Gongwang's ink painting |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | An ink painting by Huang Gongbang, a painter from the end of the Yuan Dynasty. 
+| **explanation** | An ink painting by Huang Gongbang, a painter from the end of the Yuan Dynasty.
  The various landscapes are depicted using shades of ink, and the total length of the painting is over 6 meters. |
 | **Era** |  |
 | **Deck Points** | 1 (Required Deck Points for debate deck) |

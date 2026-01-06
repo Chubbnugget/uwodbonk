@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 380 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | East coast of the North American continent (landing point) during the day? Sunny weather? Near the south end of the southeast beach, visibility R9 or higher may be required? 
+| **Remarks** | East coast of the North American continent (landing point) during the day? Sunny weather? Near the south end of the southeast beach, visibility R9 or higher may be required?
 
  It seems that Experience is an adventure job and has been registered as 760, which has been corrected. |
 | **最終更新** | 2021-04-14 18:50:36 Passing navigator @guest |

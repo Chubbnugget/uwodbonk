@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | giant eel |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A fish that can grow to more than twice the size of a normal eel. 
+| **explanation** | A fish that can grow to more than twice the size of a normal eel.
  However, they are a different species from eels and can be distinguished by their somewhat stocky body shape and mottled patterns. |
 | **Era** |  |
 | **Deck Points** | 2 (Required Deck Points for debate deck) |

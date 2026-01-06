@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | Pohang |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Pohan". 
+| **explanation** | The reading is "Pohan".
  Located on the east coast of the Korean Peninsula. There are beautiful mountains near the city. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

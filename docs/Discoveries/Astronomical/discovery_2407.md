@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 600 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Ancient Egyptian Stars” 
+| **Remarks** | Quest “Ancient Egyptian Stars”
 
  Discovery Name Card:300 |
 | **最終更新** | 2022-11-21 20:54:30 Sakon. |

@@ -15,7 +15,7 @@ category: Historical Relics
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 930 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “The Story of Years Past” 
+| **Remarks** | Quest “The Story of Years Past”
 
  Discovery Name Card:465 |
 | **最終更新** | 2022-11-06 12:30:03 Sakon. |

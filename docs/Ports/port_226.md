@@ -3,7 +3,6 @@ id: 226
 name: Deletion request 4
 type: Port
 ---
-
 # Port: 削除要請４
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 Koei, do you know why you keep making such meta shitty comments? What's boring?
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">

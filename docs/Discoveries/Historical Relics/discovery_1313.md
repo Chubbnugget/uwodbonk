@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Haniwa |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Haniwa". Unglazed pottery made in Japan. In addition to those shaped like people, horses, and houses, there are also cylindrical ones. 
+| **explanation** | The reading is "Haniwa". Unglazed pottery made in Japan. In addition to those shaped like people, horses, and houses, there are also cylindrical ones.
  They are often placed around the graves of influential people or inside the tombs. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

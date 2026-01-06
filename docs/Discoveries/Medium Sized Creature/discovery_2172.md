@@ -15,7 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 1040 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Giant Antelope in the Forest” 
+| **Remarks** | Quest “Giant Antelope in the Forest”
 
  Discovery Name Card:520 |
 | **最終更新** | 2022-12-03 10:07:42 Sakon. |

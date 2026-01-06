@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | direm silver coin |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A silver coin produced during the Sasanian Era. 
+| **explanation** | A silver coin produced during the Sasanian Era.
  The obverse side is engraved with a bust of the king facing right, and the reverse side is engraved with the sacred fire used in worship. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

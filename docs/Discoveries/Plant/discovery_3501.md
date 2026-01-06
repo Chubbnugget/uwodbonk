@@ -15,7 +15,7 @@ category: Plant
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | 860 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Pursuit quest “Additional investigation of sugar maple” 
+| **Remarks** | Pursuit quest “Additional investigation of sugar maple”
 
  Discovery Name Card:445 |
 | **最終更新** | 2023-01-23 00:42:47 Passing navigator @guest |

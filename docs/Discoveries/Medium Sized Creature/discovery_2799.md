@@ -15,7 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 470 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Strange Rumor Investigation” 
+| **Remarks** | Quest “Strange Rumor Investigation”
 
  Discovery Name Card:235 |
 | **最終更新** | 2022-11-13 15:28:57 Sakon. |

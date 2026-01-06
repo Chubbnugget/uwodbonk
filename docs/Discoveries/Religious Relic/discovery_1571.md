@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Yatagarasu flag |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Yatagarasu no Hata". A flag with a three-legged crow on it. 
+| **explanation** | The reading is "Yatagarasu no Hata". A flag with a three-legged crow on it.
 
 In Japanese mythology, this crow is said to be a messenger of the gods.
 
@@ -19,9 +19,7 @@ In Japanese mythology, this crow is said to be a messenger of the gods.
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 360 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | angel bird 
-
-
+| **Remarks** | angel bird
 
  Discovery Experience 360 ​​Discovery Name Card Experience 180 |
 | **最終更新** | 2016-07-27 20:28:11 Gainor |

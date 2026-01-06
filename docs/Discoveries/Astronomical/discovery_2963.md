@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 970 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Stars essential for navigation” 
+| **Remarks** | Quest “Stars essential for navigation”
 
  Discovery Name Card:475 |
 | **最終更新** | 2022-11-06 11:49:36 Sakon. |

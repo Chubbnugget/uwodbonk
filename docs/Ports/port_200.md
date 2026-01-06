@@ -3,7 +3,6 @@ id: 200
 name: Sitka
 type: Port
 ---
-
 # Port: シトカ
 
 import Tabs from '@theme/Tabs';

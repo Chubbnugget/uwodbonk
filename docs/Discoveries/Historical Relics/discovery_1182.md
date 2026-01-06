@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Naram Singh monument |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A stone monument of Naram Sin, who is said to have ruled the Akkadian Empire in the northern region of Babylonia in the southern Mesopotamian civilization. 
+| **explanation** | A stone monument of Naram Sin, who is said to have ruled the Akkadian Empire in the northern region of Babylonia in the southern Mesopotamian civilization.
  Naram Singh repeatedly expanded the territory of his empire and made himself a god. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

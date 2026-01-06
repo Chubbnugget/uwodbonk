@@ -3,7 +3,6 @@ id: 230
 name: Deletion request 11
 type: Port
 ---
-
 # Port: 削除要請11
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 Final Fantasy X Vandalism
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">

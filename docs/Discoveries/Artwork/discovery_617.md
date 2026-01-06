@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Li Di's paintings |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A cow painting drawn by Li Di, a court painter during the Song Dynasty. 
+| **explanation** | A cow painting drawn by Li Di, a court painter during the Song Dynasty.
  Paintings featuring domesticated cattle often have the meaning of celebrating a peaceful rural village free of war. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

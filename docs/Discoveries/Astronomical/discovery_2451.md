@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 770 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Beautiful Stars Gathering” 
+| **Remarks** | Quest “Beautiful Stars Gathering”
 
  Discovery Name Card:385 |
 | **最終更新** | 2022-11-29 20:06:06 Sakon. |

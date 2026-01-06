@@ -3,47 +3,40 @@ id: 34
 name: translator
 type: NPC
 ---
-
 # NPC: 翻訳家
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | translator |  
-| **Notes** | Intermediate the purchase and sale of translation memos. |  
-| **Last Updated** | 2007-08-22 20:45:00 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | translator |
+| **Notes** | Intermediate the purchase and sale of translation memos. |
+| **Last Updated** | 2007-08-22 20:45:00 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | translator |  
-| **Notes** | Intermediate the purchase and sale of translation memos. |  
-| **Last Updated** | 2007-08-22 20:45:00 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | translator |
+| **Notes** | Intermediate the purchase and sale of translation memos. |
+| **Last Updated** | 2007-08-22 20:45:00 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [African languages ​​translation memo](Items/Consumables/Consumables-Skill/item_2302.md) | [Consumables (skill activation)](Categories/category_31.md) |  | [Saint-Georges](Ports/port_76.md) [Cape](Ports/port_37.md) [Zanzibar](Ports/port_38.md) |
 | [American languages ​​translation memo](Items/Consumables/Consumables-Skill/item_2276.md) | [Consumables (skill activation)](Categories/category_31.md) |  | [Portobello](Ports/port_110.md) [Santo Domingo](Ports/port_33.md) [Rio de Janeiro](Ports/port_122.md) |
 | [Altaic languages ​​translation memo](Items/Consumables/Consumables-Skill/item_2530.md) | [Consumables (skill activation)](Categories/category_31.md) |  | [Istanbul](Ports/port_78.md) [Alexandria](Ports/port_63.md) [Tunis](Ports/port_46.md) |
@@ -56,8 +49,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [African languages ​​translation memo](Items/Consumables/Consumables-Skill/item_2302.md) | [Consumables (skill activation)](Categories/category_31.md) |  | [Saint-Georges](Ports/port_76.md) [Cape](Ports/port_37.md) [Zanzibar](Ports/port_38.md) |
 | [American languages ​​translation memo](Items/Consumables/Consumables-Skill/item_2276.md) | [Consumables (skill activation)](Categories/category_31.md) |  | [Portobello](Ports/port_110.md) [Santo Domingo](Ports/port_33.md) [Rio de Janeiro](Ports/port_122.md) |
 | [Altaic languages ​​translation memo](Items/Consumables/Consumables-Skill/item_2530.md) | [Consumables (skill activation)](Categories/category_31.md) |  | [Istanbul](Ports/port_78.md) [Alexandria](Ports/port_63.md) [Tunis](Ports/port_46.md) |

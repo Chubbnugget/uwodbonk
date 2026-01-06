@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Jomon people's residence ruins |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Ruins of ancient dwellings that remain in Japan. The ground was dug and used as a floor, and pillars were erected there. 
+| **explanation** | Ruins of ancient dwellings that remain in Japan. The ground was dug and used as a floor, and pillars were erected there.
  This area may have once been a village, and there are several similar remains around it. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

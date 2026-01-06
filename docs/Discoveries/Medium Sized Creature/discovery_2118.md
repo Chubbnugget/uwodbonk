@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | Golden stork |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A monkey that lives in the cold region of western China. It is covered with long orange hair. 
+| **explanation** | A monkey that lives in the cold region of western China. It is covered with long orange hair.
  Its main characteristics are its pale face and crushed-shaped nose. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

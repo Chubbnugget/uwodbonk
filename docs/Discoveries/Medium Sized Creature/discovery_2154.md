@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | Japanese pit viper |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A thick, short-bodied snake that can be found all over Japan. Although it is poisonous, its personality is not that harsh. 
+| **explanation** | A thick, short-bodied snake that can be found all over Japan. Although it is poisonous, its personality is not that harsh.
  Due to its nourishing and tonic effects, the skin and flesh are used in medicine. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

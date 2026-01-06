@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Mount Nemrut |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A mountain with an altitude of about 2000m that rises in eastern Türkiye. 
+| **explanation** | A mountain with an altitude of about 2000m that rises in eastern Türkiye.
  It seems that there are carvings of divine statues lined up at the top. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

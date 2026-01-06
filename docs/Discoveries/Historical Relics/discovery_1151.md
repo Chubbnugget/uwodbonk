@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Chagas |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | The official name is Ras Think Chagas. 
+| **explanation** | The official name is Ras Think Chagas.
 One of Portugal's East India trading ships.
  On her way back from India, she was attacked by English pirates near the Azores and sunk. |
 | **Era** |  |

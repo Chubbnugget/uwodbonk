@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 320 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Imperial command quest “[Important point for advancing to the Spice Islands”] 
+| **Remarks** | Imperial command quest “[Important point for advancing to the Spice Islands”]
 
 Imperial command alternative quest “The narrow road leading to the eastern country”
 

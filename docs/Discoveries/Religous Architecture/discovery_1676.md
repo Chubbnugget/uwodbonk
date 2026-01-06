@@ -10,7 +10,7 @@ category: Religous Architecture
 | **Discovery Type** | Religous Architecture |
 | **Discovery Name** | Bulguksa Temple ruins |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | The site of a Buddhist temple said to have been built in Silla Era. 
+| **explanation** | The site of a Buddhist temple said to have been built in Silla Era.
 It seems that a temple divided into three areas was placed on top of an embankment made of stone walls.
  It is said that it was destroyed during the Era of King Sejong, the fourth king of the Joseon Dynasty. |
 | **Era** |  |

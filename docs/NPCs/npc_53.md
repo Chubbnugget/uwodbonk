@@ -3,45 +3,38 @@ id: 53
 name: trading merchant
 type: NPC
 ---
-
 # NPC: 取引商人
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | trading merchant |  
-| **Last Updated** | 2016-04-21 03:09:58 Phone@Administrator |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | trading merchant |
+| **Last Updated** | 2016-04-21 03:09:58 Phone@Administrator |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | trading merchant |  
-| **Last Updated** | 2016-04-21 03:09:58 Phone@Administrator |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | trading merchant |
+| **Last Updated** | 2016-04-21 03:09:58 Phone@Administrator |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Spare rudder](Items/Consumables/Consumables-Recovery/item_243.md) | [Consumables (condition recovery)](Categories/category_21.md) | 4,465 | [Marseille](Ports/port_10.md) |
 | [Spare rudder](Items/Consumables/Consumables-Recovery/item_243.md) | [Consumables (condition recovery)](Categories/category_21.md) | 3,000 | [Amsterdam](Ports/port_49.md) [Istanbul](Ports/port_78.md) |
 | [Spare rudder](Items/Consumables/Consumables-Recovery/item_243.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | [Lisbon](Ports/port_2.md) [Venice](Ports/port_30.md) [London](Ports/port_23.md) [Seville](Ports/port_4.md) |
@@ -63,8 +56,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Spare rudder](Items/Consumables/Consumables-Recovery/item_243.md) | [Consumables (condition recovery)](Categories/category_21.md) | 4,465 | [Marseille](Ports/port_10.md) |
 | [Spare rudder](Items/Consumables/Consumables-Recovery/item_243.md) | [Consumables (condition recovery)](Categories/category_21.md) | 3,000 | [Amsterdam](Ports/port_49.md) [Istanbul](Ports/port_78.md) |
 | [Spare rudder](Items/Consumables/Consumables-Recovery/item_243.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | [Lisbon](Ports/port_2.md) [Venice](Ports/port_30.md) [London](Ports/port_23.md) [Seville](Ports/port_4.md) |

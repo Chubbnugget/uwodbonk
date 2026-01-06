@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 14 (Rank of skills required for discovery) |
 | **Experience** | 1209 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | source of spiritual power 
-
-
+| **Remarks** | source of spiritual power
 
  Discovery Experience1209 Discovery Name Card Experience604 |
 | **最終更新** | 2016-06-18 15:18:26 Gainor |

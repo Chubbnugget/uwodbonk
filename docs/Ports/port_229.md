@@ -3,7 +3,6 @@ id: 229
 name: samarkand
 type: Port
 ---
-
 # Port: サマルカンド
 
 import Tabs from '@theme/Tabs';
@@ -38,7 +37,6 @@ import TabItem from '@theme/TabItem';
 ### Description
 A city that flourished as a strategic point on the Silk Road. As a relay point connecting east and west, it has long been a place of trade and cultural exchange, and the blue tiles that were created as a result of this decorate many mosques and mausoleums, and are also known as the Blue City. *Moved from Xi'an with a caravan broker. Inland city. *To move, you need to progress through Chapter 2 of Episode: East-West Trade
 
-
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
@@ -72,7 +70,7 @@ A city that flourished as a strategic point on the Silk Road. As a relay point c
 
 #### [recipe book](Categories/category_22.md)
 
-| [How to make Shennong's secret medicine](Items/Recipe Book/item_6541.md) | [recipe book](Categories/category_22.md) | Fixed recipe | tool shop owner |  |
+| [How to make Shennong's secret medicine](Items/Recipe Book/item_6541.md) | recipe book | Fixed recipe | tool shop owner |  |
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
@@ -81,6 +79,6 @@ A city that flourished as a strategic point on the Silk Road. As a relay point c
 
 #### [recipe book](Categories/category_22.md)
 
-| [How to make a bonfire of congratulations](Items/Recipe Book/item_6538.md) | [recipe book](Categories/category_22.md) | Fixed recipe | workshop craftsman |  |
+| [How to make a bonfire of congratulations](Items/Recipe Book/item_6538.md) | recipe book | Fixed recipe | workshop craftsman |  |
   </TabItem>
 </Tabs>

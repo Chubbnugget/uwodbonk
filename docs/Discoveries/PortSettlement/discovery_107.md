@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | Patani |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The capital of the Kingdom of Patani, a Malay country whose official religion is Islam. 
+| **explanation** | The capital of the Kingdom of Patani, a Malay country whose official religion is Islam.
  It was one of the first Malay dynasties to become Islamic. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

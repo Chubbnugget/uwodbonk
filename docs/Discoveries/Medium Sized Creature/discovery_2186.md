@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | ringed seal |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A small seal that widely inhabits drift ice areas. The body shape is round. 
+| **explanation** | A small seal that widely inhabits drift ice areas. The body shape is round.
  There are black and gray markings on the back. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

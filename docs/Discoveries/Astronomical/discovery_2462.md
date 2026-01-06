@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | 1 (Rank of skills required for discovery) |
 | **Experience** | 120 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Stars Sky Guide” 
+| **Remarks** | Quest “Stars Sky Guide”
 
  Discovery Name Card:60 |
 | **最終更新** | 2022-10-23 19:53:44 Sakon. |

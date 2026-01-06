@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 484 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Land of the Beginning" 
+| **Remarks** | Quest "Land of the Beginning"
 
  Discovery Name Card:240 |
 | **最終更新** | 2022-11-30 07:31:45 Passing navigator @guest |

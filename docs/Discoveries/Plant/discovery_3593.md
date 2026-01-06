@@ -15,7 +15,7 @@ category: Plant
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 1190 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Dyeed Tree” 
+| **Remarks** | Quest “Dyeed Tree”
 
  Discovery Name Card:595 |
 | **最終更新** | 2023-01-31 13:21:00 Passing navigator @guest |

@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | great currant |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A medium-sized bird that lives in the rainforests of South America. A distinctive curled crest can be seen on the head. 
+| **explanation** | A medium-sized bird that lives in the rainforests of South America. A distinctive curled crest can be seen on the head.
 
  It seems to have poor flight ability and always lives on the ground or in low trees. |
 | **Era** |  |

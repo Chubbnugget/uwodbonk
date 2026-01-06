@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | 澎湖島 |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | This island was once used by Zheng Chenggong as a stepping stone on his way to Taiwan. 
+| **explanation** | This island was once used by Zheng Chenggong as a stepping stone on his way to Taiwan.
  Although it has been devastated by the influence of pirates, there are many traces that suggest that humans have lived here since ancient times. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

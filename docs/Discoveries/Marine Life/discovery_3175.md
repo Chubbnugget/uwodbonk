@@ -15,7 +15,7 @@ category: Marine Life
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 370 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Found while fishing. I caught it from the Mamiya Strait to the Sea of ​​Japan. 
+| **Remarks** | Found while fishing. I caught it from the Mamiya Strait to the Sea of ​​Japan.
 
  Sea of ​​Okhotsk (near 6533,2497) |
 | **最終更新** | 2022-08-26 15:56:52 Mifuyu |

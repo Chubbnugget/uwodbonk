@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 480 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Stars from the Bible” 
+| **Remarks** | Quest “Stars from the Bible”
 
  Discovery Name Card:240 |
 | **最終更新** | 2022-12-08 20:58:37 Sakon. |

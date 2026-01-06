@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Yamadori |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A bird that lives in the mountain forests south of Honshu in Japan. The male makes a sound by beating his chest with his wings. 
+| **explanation** | A bird that lives in the mountain forests south of Honshu in Japan. The male makes a sound by beating his chest with his wings.
  Its long tail feathers have been used in literary works as a metaphor for the length of things. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

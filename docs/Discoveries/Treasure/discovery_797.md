@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Three Kingdoms |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A historical book that records the rise and fall from the end of the Han Dynasty to the Three Kingdoms Era. 
+| **explanation** | A historical book that records the rise and fall from the end of the Han Dynasty to the Three Kingdoms Era.
 It is said to have been compiled by Chen Shou of Shu.
  There are many stories based on this. |
 | **Era** |  |

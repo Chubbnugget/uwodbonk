@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Huizong's flower and bird paintings |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A work by Emperor Huizong of the Song Dynasty. 
+| **explanation** | A work by Emperor Huizong of the Song Dynasty.
  Huizong was skilled at painting flowers and birds, and this painting is also highly praised for its elegance. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

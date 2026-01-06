@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Silla wooden tablet |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A heavily damaged wooden tablet. It is a place where many relics of Silla are discovered and are often excavated. 
+| **explanation** | A heavily damaged wooden tablet. It is a place where many relics of Silla are discovered and are often excavated.
  It appears to be a record of events that happened in the area in the past, but it is too damaged to be deciphered. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

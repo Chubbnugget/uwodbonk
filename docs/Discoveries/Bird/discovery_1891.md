@@ -15,9 +15,7 @@ category: Bird
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 240 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Ecological survey of cranes in North America 
-
-
+| **Remarks** | Ecological survey of cranes in North America
 
  Discovery Experience 240 Discovery Name Card Experience 120 |
 | **最終更新** | 2016-05-04 18:45:36 Gainor |

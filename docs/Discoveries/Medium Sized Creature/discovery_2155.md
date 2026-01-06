@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | newfoundland |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | This dog originates from Terra Nova, on the northeastern coast of North America. 
+| **explanation** | This dog originates from Terra Nova, on the northeastern coast of North America.
  In addition to being large and resistant to cold and strong, they are also good swimmers, so they are useful as fishing dogs, helping fishermen with their work. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

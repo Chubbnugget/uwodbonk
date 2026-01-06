@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Yuan Rong |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | The pronunciation is "Genju". It is an improved version of a crossbow called a rengo, and is capable of firing multiple arrows at once. 
+| **explanation** | The pronunciation is "Genju". It is an improved version of a crossbow called a rengo, and is capable of firing multiple arrows at once.
  It is said to have been invented by Zhuge Liang, a military strategist from Shu during the Three Kingdoms Era, in order to fight against Wei. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

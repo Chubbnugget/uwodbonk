@@ -15,7 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 612 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Monkey with a scary face" 
+| **Remarks** | Quest "Monkey with a scary face"
 
  Discovery Name Card:300 |
 | **最終更新** | 2022-11-13 16:37:19 Sakon. |

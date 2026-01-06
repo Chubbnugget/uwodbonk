@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | chibi |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | Cao Cao, who conquered northern China at the end of the Later Han Dynasty, joined the combined forces of Sun Quan and Liu Bei. 
+| **explanation** | Cao Cao, who conquered northern China at the end of the Later Han Dynasty, joined the combined forces of Sun Quan and Liu Bei.
 
 The place where it is said that they were defeated. Allied forces razed Cao Cao's army
 

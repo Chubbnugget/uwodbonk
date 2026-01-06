@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | Changdeokgung Palace |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Gyeongbokgung palace. 
+| **explanation** | Gyeongbokgung palace.
  While other palaces are often built by artificially creating topography to show their dignity, this villa was built according to the natural topography. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

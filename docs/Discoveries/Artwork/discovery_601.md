@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Jiang Xi face ink painting |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | An ink painting by Korean artist Kang Xiyan. 
+| **explanation** | An ink painting by Korean artist Kang Xiyan.
 
 Jiang Xiyan, who studied painting during the Ming Dynasty, was highly praised for his outstanding skills in drawing bamboo.
 
@@ -19,9 +19,7 @@ Jiang Xiyan, who studied painting during the Ming Dynasty, was highly praised fo
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 170 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | A mysterious ink painting map 
-
-
+| **Remarks** | A mysterious ink painting map
 
  Discovery Experience 170 Discovery Name Card Experience 85 |
 | **最終更新** | 2016-06-19 12:04:12 Gainor |

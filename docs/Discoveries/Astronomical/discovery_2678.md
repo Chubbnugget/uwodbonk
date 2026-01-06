@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 1070 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Find the disappeared Stars” 
+| **Remarks** | Quest “Find the disappeared Stars”
 
  Discovery Name Card:535 |
 | **最終更新** | 2022-11-29 07:31:57 Sakon. |

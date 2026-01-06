@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Japanese fuki violets |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant that inhabits the Korean Peninsula and northeastern China. Prefers sunny places. 
+| **explanation** | A plant that inhabits the Korean Peninsula and northeastern China. Prefers sunny places.
  Like other violets, the flowers are simple. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

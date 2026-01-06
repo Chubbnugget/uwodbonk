@@ -15,7 +15,7 @@ category: Small Creature
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | 250 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “High-speed hairball” 
+| **Remarks** | Quest “High-speed hairball”
 
  Discovery Name Card:125 |
 | **最終更新** | 2022-11-28 15:20:21 Passing navigator @guest |

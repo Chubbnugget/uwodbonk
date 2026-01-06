@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 720 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | A hero that will be passed down from generation to generation 
-
-
+| **Remarks** | A hero that will be passed down from generation to generation
 
  Discovery Experience720 Discovery Name Card Experience360 |
 | **最終更新** | 2016-06-16 10:43:51 Gainor |

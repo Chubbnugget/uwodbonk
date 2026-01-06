@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 300 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Wine Etiquette” 
+| **Remarks** | Quest “Wine Etiquette”
 
  Discovery Name Card: 150 |
 | **最終更新** | 2022-10-30 16:54:46 Sakon. |

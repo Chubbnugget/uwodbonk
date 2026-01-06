@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | grinning |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Lives in the tropical Pacific Ocean. It is characterized by a tail that is as long as its body, and it catches small fish by whipping its tail like a whip. 
+| **explanation** | Lives in the tropical Pacific Ocean. It is characterized by a tail that is as long as its body, and it catches small fish by whipping its tail like a whip.
  It is rare for sharks to jump on the sea surface. Her personality is rather quiet. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

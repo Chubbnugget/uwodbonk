@@ -3,7 +3,6 @@ id: 170
 name: Quanzhou
 type: Port
 ---
-
 # Port: 泉州
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 The pronunciation is "chuwancho". A city that once prospered as a base for maritime trade. At the end of the Jin Dynasty, many immigrants came from the Central Plains, and the technology and culture of the Central Plains has been passed down.
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
@@ -93,34 +91,33 @@ The pronunciation is "chuwancho". A city that once prospered as a base for marit
 
 #### [recipe book](Categories/category_22.md)
 
-| [East Asian accessories/sewing edition](Items/Recipe Book/item_3387.md) | [recipe book](Categories/category_22.md) | 800,000 | tool shop owner |  |
+| [East Asian accessories/sewing edition](Items/Recipe Book/item_3387.md) | recipe book | 800,000 | tool shop owner |  |
 
 #### [Equipment (head)](Categories/category_23.md)
 
-| [Square flat towel](Items/Equipment/Equipment-Head/item_3607.md) | [Equipment (head)](Categories/category_23.md) | 102,000 | tool shop owner |  |
-| [頭巾](Items/Equipment/Equipment-Head/item_3551.md) | [Equipment (head)](Categories/category_23.md) | 82,000 | tool shop owner |  |
+| [Square flat towel](Items/Equipment/Equipment-Head/item_3607.md) | Equipment (head) | 102,000 | tool shop owner |  |
+| [頭巾](Items/Equipment/Equipment-Head/item_3551.md) | Equipment (head) | 82,000 | tool shop owner |  |
 
 #### [Equipment (body)](Categories/category_24.md)
 
-| [Hufu](Items/Equipment/Equipment-Body/item_3874.md) | [Equipment (body)](Categories/category_24.md) | 154,000 | tool shop owner |  |
+| [Hufu](Items/Equipment/Equipment-Body/item_3874.md) | Equipment (body) | 154,000 | tool shop owner |  |
 
 #### [Equipment (legs)](Categories/category_26.md)
 
-| [shoe](Items/Equipment/Equipment-Feet/item_3603.md) | [Equipment (legs)](Categories/category_26.md) | 56,000 | tool shop owner |  |
-| [shoes](Items/Equipment/Equipment-Feet/item_3471.md) | [Equipment (legs)](Categories/category_26.md) | 48,000 | tool shop owner |  |
+| [shoe](Items/Equipment/Equipment-Feet/item_3603.md) | Equipment (legs) | 56,000 | tool shop owner |  |
+| [shoes](Items/Equipment/Equipment-Feet/item_3471.md) | Equipment (legs) | 48,000 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 200 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 150 | tool shop owner |  |
-| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 600 | tool shop owner |  |
+| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | [Consumables (skill activation)](Categories/category_31.md) | 2,500 | tool shop owner |  |
+| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
-
 
 ### Shipyard Master
 
@@ -129,10 +126,10 @@ The pronunciation is "chuwancho". A city that once prospered as a base for marit
 
 #### [Boat](Categories/category_43.md)
 
-| [寧波船](Items/Ships/item_3915.md) | [Boat](Categories/category_43.md) | 16,200,000 | Shipyard Master |  |
-| [Cruise ship](Items/Ships/item_3659.md) | [Boat](Categories/category_43.md) | 15,800,000 | Shipyard Master |  |
-| [armed sand barge](Items/Ships/item_3914.md) | [Boat](Categories/category_43.md) | 7,600,000 | Shipyard Master |  |
-| [sand ship](Items/Ships/item_3913.md) | [Boat](Categories/category_43.md) | 7,500,000 | Shipyard Master |  |
-| [wide ship for transportation](Items/Ships/item_3658.md) | [Boat](Categories/category_43.md) | 15,600,000 | Shipyard Master |  |
+| [寧波船](Items/Ships/item_3915.md) | Boat | 16,200,000 | Shipyard Master |  |
+| [Cruise ship](Items/Ships/item_3659.md) | Boat | 15,800,000 | Shipyard Master |  |
+| [armed sand barge](Items/Ships/item_3914.md) | Boat | 7,600,000 | Shipyard Master |  |
+| [sand ship](Items/Ships/item_3913.md) | Boat | 7,500,000 | Shipyard Master |  |
+| [wide ship for transportation](Items/Ships/item_3658.md) | Boat | 15,600,000 | Shipyard Master |  |
   </TabItem>
 </Tabs>

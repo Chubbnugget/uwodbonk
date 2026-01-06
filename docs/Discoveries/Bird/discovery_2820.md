@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Ichimonji Pigeon |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A type of pigeon commonly seen in the Pantanal Marshes. 
+| **explanation** | A type of pigeon commonly seen in the Pantanal Marshes.
 
 Its distinctive feature is that when its wings are folded, the pattern of a single letter is clearly visible.
 

@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | solomon islands |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the archipelago discovered by the 16th century Spanish explorer Álvaro de Mendaña de Neira. 
+| **explanation** | One of the archipelago discovered by the 16th century Spanish explorer Álvaro de Mendaña de Neira.
 
  The island's name comes from Mendaña, who assumed it to be King Solomon's Treasures Island after finding gold dust on its shores. |
 | **Era** |  |

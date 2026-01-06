@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Baal's Jewel |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the jewels that the Biblical King Solomon sealed away 72 demons and spirits. It is said that Baal is sealed in this gem. The degree of authenticity is unknown. 
+| **explanation** | One of the jewels that the Biblical King Solomon sealed away 72 demons and spirits. It is said that Baal is sealed in this gem. The degree of authenticity is unknown.
  If you look closely at the jewel, there is a scratch on it and the words ``Shallow Sea'' are engraved on it. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

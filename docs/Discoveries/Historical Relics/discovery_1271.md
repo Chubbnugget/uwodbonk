@@ -15,7 +15,7 @@ category: Historical Relics
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | 190 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Doctor's Oath" 
+| **Remarks** | Quest "Doctor's Oath"
 
  Discovery Name Card:95 |
 | **最終更新** | 2022-11-23 18:36:23 Sakon. |

@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 230 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Mother Goddess of the Andes” 
+| **Remarks** | Quest “Mother Goddess of the Andes”
 
  Discovery Name Card:115 |
 | **最終更新** | 2022-10-30 12:03:39 Sakon. |

@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | Ojirosanae |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A small and slender dragonfly that is a specialty of Japan. It lives in mountain streams in mountainous and hilly areas. 
+| **explanation** | A small and slender dragonfly that is a specialty of Japan. It lives in mountain streams in mountainous and hilly areas.
  This name comes from the white tip of the male's tail. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

@@ -15,7 +15,7 @@ category: Historic Site
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 530 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Sea Horn" 
+| **Remarks** | Quest "Sea Horn"
 
  Discovery Name Card:265 |
 | **最終更新** | 2022-12-07 19:59:41 Sakon. |

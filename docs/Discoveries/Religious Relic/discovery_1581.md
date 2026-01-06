@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Nestorian popular Chinese stele in the Qin Dynasty |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is ``Taishinkeikyouryukochuugokuhi''. A monument that records the doctrine and missionary status of Keikyo, one of the Christian sects. 
+| **explanation** | The reading is ``Taishinkeikyouryukochuugokuhi''. A monument that records the doctrine and missionary status of Keikyo, one of the Christian sects.
  Jingkyo was widespread during the Tang Dynasty, but it seems that this monument was also rejected due to Wuzong's anti-Buddhist policy. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

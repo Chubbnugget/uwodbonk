@@ -15,9 +15,7 @@ category: Marine Life
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 720 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Crocodile or fish? 
-
-
+| **Remarks** | Crocodile or fish?
 
  Discovery Experience720 Discovery Name Card Experience360 |
 | **最終更新** | 2016-06-07 08:56:43 Gainor |

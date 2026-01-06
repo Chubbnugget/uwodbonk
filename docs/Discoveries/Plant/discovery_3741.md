@@ -15,7 +15,7 @@ category: Plant
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 210 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Landed on the southeast coast of Taiwan Island. 
+| **Remarks** | Landed on the southeast coast of Taiwan Island.
 
  Near the red flowers of the South Island. |
 | **最終更新** | 2022-10-21 18:26:11 Mifuyu |

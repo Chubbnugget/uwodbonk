@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | harmonica |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Kou Koukin". Toys from the indigenous people of Taiwan. 
+| **explanation** | The reading is "Kou Koukin". Toys from the indigenous people of Taiwan.
  It is made of bamboo or metal. It has multiple valves with different pitches. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

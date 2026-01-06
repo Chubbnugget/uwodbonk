@@ -3,7 +3,6 @@ id: 192
 name: Narvik
 type: Port
 ---
-
 # Port: ナルヴィク
 
 import Tabs from '@theme/Tabs';

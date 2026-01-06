@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Lord Suga's Mausoleum |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is ``Kanko no Goreibyo''. Lord Suga refers to Michizane Sugawara. 
+| **explanation** | The reading is ``Kanko no Goreibyo''. Lord Suga refers to Michizane Sugawara.
 
  Michizane, who is said to have died harboring a grudge, was once feared to bring a curse. Currently, he is worshiped as the god of learning. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | isle of skye |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | An island in the north and west of Britain. 
+| **explanation** | An island in the north and west of Britain.
  The origin of the name is said to be derived from the ancient Norse language or from the name of the Norse god Scathach. It is also sometimes called ``Mist Island.'' |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

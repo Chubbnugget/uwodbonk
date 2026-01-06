@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Todaiji fragrant tree |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the finest fragrant woods stored in the Shosoin of Todaiji Temple. 
+| **explanation** | One of the finest fragrant woods stored in the Shosoin of Todaiji Temple.
  Shosoin contains many fragrant woods such as agarwood, musk, and sandalwood, which were used not only for incense but also for medicine. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

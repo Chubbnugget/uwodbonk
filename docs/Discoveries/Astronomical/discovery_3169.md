@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 15 (Rank of skills required for discovery) |
 | **Experience** | 1460 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Request to investigate Hangzhou” 
+| **Remarks** | Quest “Request to investigate Hangzhou”
 
  Discovery Name Card:730 |
 | **最終更新** | 2022-11-30 17:23:16 Passing navigator @guest |

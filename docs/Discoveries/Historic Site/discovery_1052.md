@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | heat orchid castle |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Zeelandiajo". A fort built by the Netherlands on the island of Taiwan. 
+| **explanation** | The reading is "Zeelandiajo". A fort built by the Netherlands on the island of Taiwan.
  It was a strong castle built of stone and had a large harbor that could accommodate a large number of ships. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

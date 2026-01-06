@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | 方丈記 |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Essay written by Nagaaki Kamo. This is Japanese literature that expresses sadness and emotion over the changing world of people. 
+| **explanation** | Essay written by Nagaaki Kamo. This is Japanese literature that expresses sadness and emotion over the changing world of people.
  It consists of descriptions of the disasters of the time and descriptions of his own life in the hermitage. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

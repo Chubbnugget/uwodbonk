@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Joseon Gyeonggukden |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A legal code that was used before the Keikoku Daiten. 
+| **explanation** | A legal code that was used before the Keikoku Daiten.
  By writing this legal code, Jeong Dojeon created the basis of the legal system of the Joseon Dynasty. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

@@ -15,9 +15,7 @@ category: Geography
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 220 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | beautiful island 
-
-
+| **Remarks** | beautiful island
 
  Discovery Experience 220 Discovery Name Card Experience 110 |
 | **最終更新** | 2016-06-12 21:26:49 Gainor |

@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Blue sea slug |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A small sea slug about 5 to 8 cm. They live along the eastern and southern coasts of Africa. 
+| **explanation** | A small sea slug about 5 to 8 cm. They live along the eastern and southern coasts of Africa.
  With its bright blue and silver body colors, it looks like a jewel of the sea. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

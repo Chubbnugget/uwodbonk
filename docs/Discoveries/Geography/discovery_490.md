@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Iki |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "iki". An island located in the Genkai Sea in northwestern Kyushu. 
+| **explanation** | The reading is "iki". An island located in the Genkai Sea in northwestern Kyushu.
 The climate is relatively warm due to the influence of the warm Tsushima Current.
  Since ancient times, it has served as a transit point on the sea route, connecting the Korean Peninsula and Kyushu. |
 | **Era** |  |

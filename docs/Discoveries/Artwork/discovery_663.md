@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Gu Aizhi's drawings |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A painting drawn by the Eastern Jin dynasty painter Gu Yuzhi. It is a painting that depicts a moral book. 
+| **explanation** | A painting drawn by the Eastern Jin dynasty painter Gu Yuzhi. It is a painting that depicts a moral book.
 
  It seems that several copies were made in later generations, probably for educational purposes. |
 | **Era** |  |

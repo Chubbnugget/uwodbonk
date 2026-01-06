@@ -10,14 +10,14 @@ category: Large Creature
 | **Discovery Type** | Large Creature |
 | **Discovery Name** | polar bear |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | An all-white bear that lives in the Arctic Circle. 
+| **explanation** | An all-white bear that lives in the Arctic Circle.
 
  It has a smaller head and a longer neck than other bears. They are primarily active on land, but they can occasionally be seen swimming. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 730 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Bear of the Ice Land" 
+| **Remarks** | Quest "Bear of the Ice Land"
 
  Discovery Name Card:365 |
 | **最終更新** | 2022-11-28 19:48:10 Passing navigator @guest |

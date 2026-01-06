@@ -3,49 +3,42 @@ id: 3
 name: adventure guild
 type: NPC
 ---
-
 # NPC: 冒険ギルド
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | adventure guild |  
-| **Notes** | Introducing adventure quests. 
- Also, the guild master handles skills. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | adventure guild |
+| **Notes** | Introducing adventure quests.
+ Also, the guild master handles skills. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | adventure guild |  
-| **Notes** | Introducing adventure quests. 
- Also, the guild master handles skills. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | adventure guild |
+| **Notes** | Introducing adventure quests.
+ Also, the guild master handles skills. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Mon-Khmer languages](Skills/Skills-Language/item_1974.md) | [Skills (Language)](Categories/category_42.md) | 500,000 | [Calicut](Ports/port_44.md) |
 | [Geography](Skills/Skill-Adventure/item_343.md) | [Skill (Adventure)](Categories/category_39.md) | 5,000 | [London](Ports/port_23.md) [Seville](Ports/port_4.md) [Genoa](Ports/port_11.md) |
 | [Religious Studies](Skills/Skill-Adventure/item_340.md) | [Skill (Adventure)](Categories/category_39.md) | 8,000 | [Istanbul](Ports/port_78.md) |
@@ -70,8 +63,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Mon-Khmer languages](Skills/Skills-Language/item_1974.md) | [Skills (Language)](Categories/category_42.md) | 500,000 | [Calicut](Ports/port_44.md) |
 | [Geography](Skills/Skill-Adventure/item_343.md) | [Skill (Adventure)](Categories/category_39.md) | 5,000 | [London](Ports/port_23.md) [Seville](Ports/port_4.md) [Genoa](Ports/port_11.md) |
 | [Religious Studies](Skills/Skill-Adventure/item_340.md) | [Skill (Adventure)](Categories/category_39.md) | 8,000 | [Istanbul](Ports/port_78.md) |

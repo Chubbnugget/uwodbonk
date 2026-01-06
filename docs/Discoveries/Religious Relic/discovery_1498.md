@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 1060 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Field Goddess Theft Case” 
+| **Remarks** | Quest “Field Goddess Theft Case”
 
  Discovery Name Card:530 |
 | **最終更新** | 2022-10-30 12:10:56 Sakon. |

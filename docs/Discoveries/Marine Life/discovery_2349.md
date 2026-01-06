@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Hana pilotdo |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Creatures that live in temperate and tropical seas. Collisions with other Biology etc. leave scratches on the skin. 
+| **explanation** | Creatures that live in temperate and tropical seas. Collisions with other Biology etc. leave scratches on the skin.
  The damaged area looks like a flower is blooming, so it is called a giant flower head. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

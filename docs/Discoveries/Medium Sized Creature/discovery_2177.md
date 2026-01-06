@@ -15,7 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | 1 (Rank of skills required for discovery) |
 | **Experience** | 12 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Wild Sheep Map" 
+| **Remarks** | "Wild Sheep Map"
 
  Discovery Name Card:6 |
 | **最終更新** | 2022-12-31 11:48:04 Sakon. |

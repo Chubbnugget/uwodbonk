@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Deeper from the northern coast of Africa, near the diagonal rocks of the Sahara 
+| **Remarks** | Deeper from the northern coast of Africa, near the diagonal rocks of the Sahara
 
  during the day |
 | **最終更新** | 2017-02-09 01:45:10 Atton |

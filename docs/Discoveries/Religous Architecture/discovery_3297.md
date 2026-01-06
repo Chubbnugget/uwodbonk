@@ -15,7 +15,7 @@ category: Religous Architecture
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | 250 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “The Lifeline of the Knights” 
+| **Remarks** | Quest “The Lifeline of the Knights”
 
  Discovery Name Card:125 |
 | **最終更新** | 2022-11-23 22:09:11 Sakon. |

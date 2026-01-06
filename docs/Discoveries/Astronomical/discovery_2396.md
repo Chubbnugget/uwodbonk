@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 940 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Archer aiming at scorpion" 
+| **Remarks** | Quest "Archer aiming at scorpion"
 
  Discovery Name Card 470 |
 | **最終更新** | 2022-10-30 16:59:33 Sakon. |

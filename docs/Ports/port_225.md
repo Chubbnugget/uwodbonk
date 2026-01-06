@@ -3,7 +3,6 @@ id: 225
 name: Deletion request 3
 type: Port
 ---
-
 # Port: 削除要請３
 
 import Tabs from '@theme/Tabs';

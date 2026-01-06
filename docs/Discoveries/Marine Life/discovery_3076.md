@@ -15,7 +15,7 @@ category: Marine Life
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 600 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Fishing Discovery Name 
+| **Remarks** | Fishing Discovery Name
 
  north of edinburgh |
 | **最終更新** | 2017-06-26 11:27:48 Sakai Hidemasa |

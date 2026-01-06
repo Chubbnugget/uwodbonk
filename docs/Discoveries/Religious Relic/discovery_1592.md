@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Yamabushi training tools |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is ``Yamabushi no Shugendugu.'' A set of tools used by Shugendo practitioners in their training. 
+| **explanation** | The reading is ``Yamabushi no Shugendugu.'' A set of tools used by Shugendo practitioners in their training.
  Shugendo is a Japanese religion that combines mountain worship with Buddhism and Shinto. Ascetics wear these and seclude themselves in the mountains to accumulate penance. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

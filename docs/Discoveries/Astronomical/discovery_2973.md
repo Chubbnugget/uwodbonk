@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 380 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Continued: Science Stars” 
+| **Remarks** | Quest “Continued: Science Stars”
 
  Discovery Name Card:190 |
 | **最終更新** | 2022-12-06 19:33:32 Sakon. |

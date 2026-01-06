@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 520 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Lost Culture” 
+| **Remarks** | Quest “Lost Culture”
 
  Discovery Name Card:260 |
 | **最終更新** | 2022-11-17 23:25:29 Sakon. |

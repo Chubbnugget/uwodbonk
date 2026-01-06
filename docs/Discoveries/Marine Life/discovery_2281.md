@@ -15,9 +15,7 @@ category: Marine Life
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 506 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | giant sea monster 
-
-
+| **Remarks** | giant sea monster
 
  Discovery Experience 506 Discovery Name Card Experience 253 |
 | **最終更新** | 2016-05-12 20:17:50 Gainor |

@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Yankee Doodle lyrics |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A memo containing the lyrics of folk songs that were popular in North America during the American Revolutionary War. 
+| **explanation** | A memo containing the lyrics of folk songs that were popular in North America during the American Revolutionary War.
 
  There are many parody songs, and the lyrics have various meanings. |
 | **Era** |  |

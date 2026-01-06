@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Saxifrage |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Lives only in Australia. It has multiple leaves shaped like a small bottle with a lid. Insects that fall into these bottle-shaped leaves will melt away after a while. 
+| **explanation** | Lives only in Australia. It has multiple leaves shaped like a small bottle with a lid. Insects that fall into these bottle-shaped leaves will melt away after a while.
  This plant may be absorbing nutrients from insects. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

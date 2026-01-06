@@ -10,7 +10,7 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | Kourairis |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A squirrel that lives in the forest areas of the Korean Peninsula. The long hair tufts at the tips of the ears are distinctive. 
+| **explanation** | A squirrel that lives in the forest areas of the Korean Peninsula. The long hair tufts at the tips of the ears are distinctive.
  Their habit of eating tree buds and nuts is the same as other squirrels. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

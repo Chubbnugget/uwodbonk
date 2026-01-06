@@ -15,7 +15,7 @@ category: Marine Life
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 640 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Fishing in the depths of the first tributary from the mouth of the Amazon River 
+| **Remarks** | Fishing in the depths of the first tributary from the mouth of the Amazon River
 
 Experience:640
 

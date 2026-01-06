@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Urga |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | Mongolian traditional tools. 
+| **explanation** | Mongolian traditional tools.
  It is a long stick with a looped rope attached to the end, and is used to capture small horses and other animals. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

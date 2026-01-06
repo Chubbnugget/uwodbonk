@@ -15,7 +15,7 @@ category: Large Creature
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 260 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Animal with horns and mane" 
+| **Remarks** | Quest "Animal with horns and mane"
 
  Discovery Name Card:130 |
 | **最終更新** | 2022-12-03 09:26:44 Sakon. |

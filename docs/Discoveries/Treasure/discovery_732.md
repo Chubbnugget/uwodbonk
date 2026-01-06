@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | sonnet collection |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A collection of 154 poems published by Shakespeare. It is written in sonnet form. The main themes are various views on love, human beauty, and death. 
+| **explanation** | A collection of 154 poems published by Shakespeare. It is written in sonnet form. The main themes are various views on love, human beauty, and death.
  A sonnet is a 14-line poem that was established in Italy in the early 12th century. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

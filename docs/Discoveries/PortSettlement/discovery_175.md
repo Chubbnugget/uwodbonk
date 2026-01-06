@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | Sakai |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A port town facing Osaka Bay and thriving with trade. It is a land of free spirit where merchants gather. 
+| **explanation** | A port town facing Osaka Bay and thriving with trade. It is a land of free spirit where merchants gather.
  It seems that Japan's leading figures are also paying attention to this city's excellent economic structure. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

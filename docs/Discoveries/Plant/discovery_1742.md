@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Jomon Sugi |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A huge tree on Yakushima. It grows to a height of over 30m, and the circumference of the trunk is 16m. 
+| **explanation** | A huge tree on Yakushima. It grows to a height of over 30m, and the circumference of the trunk is 16m.
  The thick, undulating trunk speaks of its strong vitality. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

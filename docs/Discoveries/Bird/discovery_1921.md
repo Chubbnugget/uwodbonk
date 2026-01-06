@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Kitataki |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A type of woodpecker that lives widely from the Korean Peninsula to China and India. 
+| **explanation** | A type of woodpecker that lives widely from the Korean Peninsula to China and India.
  They nest in large dead trees. Distinctive red feathers on the top of the head and cheeks. Also, the bright color scheme, with the upper body being black and the lower body being white, is eye-catching. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

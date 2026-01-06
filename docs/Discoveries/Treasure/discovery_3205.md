@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | galus pottery |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Islamic pottery made using a technique called ``kakiotoshi.'' 
+| **explanation** | Islamic pottery made using a technique called ``kakiotoshi.''
 
  It is distinctive in that the pattern is colored with green glaze. |
 | **Era** |  |

@@ -15,9 +15,7 @@ category: Insect
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 1040 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Dream or reality? 
-
-
+| **Remarks** | Dream or reality?
 
  Discovery Experience1040 Discovery Name Card Experience520 |
 | **最終更新** | 2016-06-19 18:57:29 Gainor |

@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 1020 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Investigation of the Treasure Palace” 
+| **Remarks** | Quest “Investigation of the Treasure Palace”
 
  Discovery Name Card:510 |
 | **最終更新** | 2022-10-13 21:07:02 Sakon. |

@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | De Noronha Islands |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | These islands are located off the coast of Cape San Roque and consist of 20 volcanic islands. 
+| **explanation** | These islands are located off the coast of Cape San Roque and consist of 20 volcanic islands.
 
  It is blessed with beautiful nature. |
 | **Era** |  |

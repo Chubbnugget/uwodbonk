@@ -15,9 +15,7 @@ category: Small Creature
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 255 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | shrinking body 
-
-
+| **Remarks** | shrinking body
 
  Discovery Experience 255 Discovery Name Card Experience 127 |
 | **最終更新** | 2016-05-07 21:37:28 Gainor |

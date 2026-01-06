@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | Hermann's tortoise |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A tortoise that lives in southern Europe. 
+| **explanation** | A tortoise that lives in southern Europe.
 They live in dry plains and are omnivorous, but they mainly eat leaves and fruits of plants.
  Although there are various theories, it is said that this turtle was the model for Aesop's fable, ``The Tortoise and the Hare.'' |
 | **Era** |  |

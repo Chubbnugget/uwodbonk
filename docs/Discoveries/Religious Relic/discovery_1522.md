@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 1157 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Guardian of the Maiden's Room" 
+| **Remarks** | Quest "Guardian of the Maiden's Room"
 
  Discovery Name Card:550 |
 | **最終更新** | 2022-11-10 07:05:04 Sakon. |

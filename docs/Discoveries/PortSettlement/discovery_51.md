@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | st petersburg |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A port city in the Russian Empire located at the easternmost tip of the Gulf of Finland on the Baltic Sea. 
+| **explanation** | A port city in the Russian Empire located at the easternmost tip of the Gulf of Finland on the Baltic Sea.
  The city's name comes from Saint Peter. It developed into a cultural city where theater, art, and literature flourished. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

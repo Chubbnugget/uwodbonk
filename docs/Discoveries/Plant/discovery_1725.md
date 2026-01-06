@@ -15,9 +15,7 @@ category: Plant
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 2 (Rank of skills required for discovery) |
 | **Experience** | 90 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | african noble flowers 
-
-
+| **Remarks** | african noble flowers
 
  Discovery Experience 90 Discovery Name Card Experience 45 |
 | **最終更新** | 2016-09-20 21:39:18 Gainor |

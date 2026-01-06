@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | black-faced spoonbill |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A type of heron commonly seen in the northwestern part of the Korean Peninsula. The feathers all over the body are white, with only the face and beak being completely black, making these parts stand out. 
+| **explanation** | A type of heron commonly seen in the northwestern part of the Korean Peninsula. The feathers all over the body are white, with only the face and beak being completely black, making these parts stand out.
  In summer, the neck turns yellow and yellow feathers grow from the back of the head. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

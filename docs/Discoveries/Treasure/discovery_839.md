@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Story of Uji Artifacts |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Ujishui Monogatari". A collection of Japanese fables consisting of Buddhist fables and secular fables. 
+| **explanation** | The reading is "Ujishui Monogatari". A collection of Japanese fables consisting of Buddhist fables and secular fables.
  Among similar collections of stories, there is relatively little moral content, and there are many humorous stories. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

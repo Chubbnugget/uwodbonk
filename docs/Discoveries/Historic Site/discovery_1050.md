@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | 景福宮 |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A luxurious palace built as the royal palace of the Joseon Dynasty. 
+| **explanation** | A luxurious palace built as the royal palace of the Joseon Dynasty.
  It is said that the name of the palace was given with a prayer that the king, his descendants, and all the people would enjoy the blessings of peace and prosperity. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

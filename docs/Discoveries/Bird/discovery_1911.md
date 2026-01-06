@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | magpie |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A type of crow that lives in the Korean Peninsula and parts of Japan. 
+| **explanation** | A type of crow that lives in the Korean Peninsula and parts of Japan.
 Because of its clicking sound, it is also called the ``Clicking Garas'' in some areas.
  When flying, the white markings on the wings are noticeable. |
 | **Era** |  |

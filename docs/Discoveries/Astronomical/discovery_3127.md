@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 15 (Rank of skills required for discovery) |
 | **Experience** | 1430 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Burning of Stars” 
+| **Remarks** | Quest “Burning of Stars”
 
  Discovery Name Card:715 |
 | **最終更新** | 2022-11-30 20:41:42 Sakon. |

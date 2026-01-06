@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | Ocelot cat |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | It is a medium-sized cat that lives in southern China, India, Nepal, and Sumatra, and is called a "biao" in China. 
+| **explanation** | It is a medium-sized cat that lives in southern China, India, Nepal, and Sumatra, and is called a "biao" in China.
 
  It is mainly prized for its fur, and there are rumors that its bones have medicinal properties, but the truth of this is unknown. |
 | **Era** |  |

@@ -15,9 +15,7 @@ category: Geography
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 250 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | unfinished map 
-
-
+| **Remarks** | unfinished map
 
  Discovery Experience 250 Discovery Name Card Experience 125 Cultural Contribution 40 |
 | **最終更新** | 2022-08-26 14:01:34 Maeda |

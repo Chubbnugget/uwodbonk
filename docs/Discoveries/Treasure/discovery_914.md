@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | dancer's fan |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A fan used in Korean dances. 
+| **explanation** | A fan used in Korean dances.
  There is a wide range of types, from those with gorgeous and beautiful decorations to those with simple patterns. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

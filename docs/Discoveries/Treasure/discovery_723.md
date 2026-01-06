@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | djembe |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A musical instrument played throughout West Africa. Also called djembe. 
+| **explanation** | A musical instrument played throughout West Africa. Also called djembe.
 It is a single-sided drum with a diameter of about 30 cm and a depth of about 60 cm.
  It is held between the legs and struck with bare hands, and depending on the shape of the hand and the position of the strike, a variety of sounds can be produced, from high to low tones. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | Chin |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | It is said that this dog was introduced to Japan from China through Korea. The body height is only about 25cm. 
+| **explanation** | It is said that this dog was introduced to Japan from China through Korea. The body height is only about 25cm.
  Their fur is delicate and shiny, and their personalities are gentle and docile. This is a pet dog suitable for indoor breeding. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

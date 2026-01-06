@@ -10,7 +10,7 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | Moria tree frog |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A frog endemic to Japan. It is mainly distributed in Honshu and Sado Island. 
+| **explanation** | A frog endemic to Japan. It is mainly distributed in Honshu and Sado Island.
  Unlike most frogs, which lay their eggs in the water, this frog lays its eggs on tree branches that protrude above the water's surface. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

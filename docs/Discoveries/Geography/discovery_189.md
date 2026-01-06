@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 1010 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “The Road to the Land of Grapes” 
+| **Remarks** | Quest “The Road to the Land of Grapes”
 
  Discovery Name Card:505 |
 | **最終更新** | 2022-12-23 19:08:51 Sakon. |

@@ -3,7 +3,6 @@ id: 763
 name: red sea bream
 type:  Item
 ---
-
 # red sea bream
 
 import Tabs from '@theme/Tabs';
@@ -11,37 +10,37 @@ import TabItem from '@theme/TabItem';
 
 ## Basic Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Item Name** | red sea bream |  
-| **Type** | Trade Goods |  
-| **Group** | [Trade Goods](Categories/category_3.md) |  
-| **Sold by NPC** | [Collecting (fishing)](NPCs/npc_15.md) |  
-| **Description** | A large fish known for its beautiful pink body and wonderful taste. |  
-| **Last Updated** | 2005-07-15 01:10:29 When is it? |  
+| Attribute | Details |
+| :--- | :--- |
+| **Item Name** | red sea bream |
+| **Type** | Trade Goods |
+| **Group** | [Trade Goods](Categories/category_3.md) |
+| **Sold by NPC** | [Collecting (fishing)](NPCs/npc_15.md) |
+| **Description** | A large fish known for its beautiful pink body and wonderful taste. |
+| **Last Updated** | 2005-07-15 01:10:29 When is it? |
 
 ## Trade Data
 
 <Tabs>
   <TabItem value="t0" label="Where to Buy">
 
-| City | Region | Purchase Price | Ally Price | Description |  
-| --- | --- | --- | --- | --- |  
-| There is no purchase information |  
+| City | Region | Purchase Price | Ally Price | Description |
+| --- | --- | --- | --- | --- |
+| There is no purchase information |
 
   </TabItem>
   <TabItem value="t1" label="Sale Price (Specialty)">
 
-| City | Region | Sale Price | Ally Price | Description |  
-| --- | --- | --- | --- | --- |  
-| No sale information is registered for which specialty product judgment is set. |  
+| City | Region | Sale Price | Ally Price | Description |
+| --- | --- | --- | --- | --- |
+| No sale information is registered for which specialty product judgment is set. |
 
   </TabItem>
   <TabItem value="t2" label="Sale Price (Standard)">
 
-| City | Region | Sale Price | Ally Price | Description |  
-| --- | --- | --- | --- | --- |  
-| There is no sale information |  
+| City | Region | Sale Price | Ally Price | Description |
+| --- | --- | --- | --- | --- |
+| There is no sale information |
 
   </TabItem>
 </Tabs>

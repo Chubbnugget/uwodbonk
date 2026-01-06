@@ -3,7 +3,6 @@ id: 176
 name: 漢陽
 type: Port
 ---
-
 # Port: 漢陽
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 The reading is "Hanyan". It has the meaning of ``the land north of Hansui''. It has a long history as it was the capital of the Baekje period, and many relics have been discovered. Tavern woman: Yonghye (unreportable) Cultural area: Korea
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
@@ -93,41 +91,41 @@ The reading is "Hanyan". It has the meaning of ``the land north of Hansui''. It 
 
 #### [recipe book](Categories/category_22.md)
 
-| [Swordsmith's Secret](Items/Recipe Book/item_3404.md) | [recipe book](Categories/category_22.md) | 2,500,000 | tool shop owner |  |
-| [Korean specialties](Items/Recipe Book/item_3770.md) | [recipe book](Categories/category_22.md) | 350,000 | tool shop owner |  |
-| [調味料大全・秘境編](Items/Recipe Book/item_3403.md) | [recipe book](Categories/category_22.md) | 700,000 | tool shop owner |  |
+| [Swordsmith's Secret](Items/Recipe Book/item_3404.md) | recipe book | 2,500,000 | tool shop owner |  |
+| [Korean specialties](Items/Recipe Book/item_3770.md) | recipe book | 350,000 | tool shop owner |  |
+| [調味料大全・秘境編](Items/Recipe Book/item_3403.md) | recipe book | 700,000 | tool shop owner |  |
 
 #### [Equipment (head)](Categories/category_23.md)
 
-| [Ayanmo](Items/Equipment/Equipment-Head/item_3605.md) | [Equipment (head)](Categories/category_23.md) | 102,000 | tool shop owner |  |
-| [Samo](Items/Equipment/Equipment-Head/item_3582.md) | [Equipment (head)](Categories/category_23.md) | 102,000 | tool shop owner |  |
+| [Ayanmo](Items/Equipment/Equipment-Head/item_3605.md) | Equipment (head) | 102,000 | tool shop owner |  |
+| [Samo](Items/Equipment/Equipment-Head/item_3582.md) | Equipment (head) | 102,000 | tool shop owner |  |
 
 #### [Equipment (body)](Categories/category_24.md)
 
-| [Satoboku](Items/Equipment/Equipment-Body/item_3761.md) | [Equipment (body)](Categories/category_24.md) | 404,000 | tool shop owner |  |
-| [Chimajeogori](Items/Equipment/Equipment-Body/item_3748.md) | [Equipment (body)](Categories/category_24.md) | 404,000 | tool shop owner |  |
-| [Bajijeogori](Items/Equipment/Equipment-Body/item_3740.md) | [Equipment (body)](Categories/category_24.md) | 154,000 | tool shop owner |  |
+| [Satoboku](Items/Equipment/Equipment-Body/item_3761.md) | Equipment (body) | 404,000 | tool shop owner |  |
+| [Chimajeogori](Items/Equipment/Equipment-Body/item_3748.md) | Equipment (body) | 404,000 | tool shop owner |  |
+| [Bajijeogori](Items/Equipment/Equipment-Body/item_3740.md) | Equipment (body) | 154,000 | tool shop owner |  |
 
 #### [Equipment (legs)](Categories/category_26.md)
 
-| [Kossin](Items/Equipment/Equipment-Feet/item_3554.md) | [Equipment (legs)](Categories/category_26.md) | 56,000 | tool shop owner |  |
-| [Mocka](Items/Equipment/Equipment-Feet/item_3440.md) | [Equipment (legs)](Categories/category_26.md) | 56,000 | tool shop owner |  |
+| [Kossin](Items/Equipment/Equipment-Feet/item_3554.md) | Equipment (legs) | 56,000 | tool shop owner |  |
+| [Mocka](Items/Equipment/Equipment-Feet/item_3440.md) | Equipment (legs) | 56,000 | tool shop owner |  |
 
 #### [Equipment (belongings)](Categories/category_27.md)
 
-| [粧刀](Items/Equipment/Equipment-Weapon/item_3763.md) | [Equipment (belongings)](Categories/category_27.md) | 700,000 | tool shop owner |  |
+| [粧刀](Items/Equipment/Equipment-Weapon/item_3763.md) | Equipment (belongings) | 700,000 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 200 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 150 | tool shop owner |  |
-| [Assortment of therapeutic drugs](Items/Consumables/Consumables-Landbattle/item_564.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 900 | tool shop owner |  |
-| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 600 | tool shop owner |  |
+| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [Assortment of therapeutic drugs](Items/Consumables/Consumables-Landbattle/item_564.md) | Consumables (land battle/deck battle) | 900 | tool shop owner |  |
+| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [捕獲網](Items/Consumables/Consumables-Skill/item_315.md) | [Consumables (skill activation)](Categories/category_31.md) | 300 | tool shop owner |  |
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | [Consumables (skill activation)](Categories/category_31.md) | 2,500 | tool shop owner |  |
+| [捕獲網](Items/Consumables/Consumables-Skill/item_315.md) | Consumables (skill activation) | 300 | tool shop owner |  |
+| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
@@ -136,17 +134,17 @@ The reading is "Hanyan". It has the meaning of ``the land north of Hansui''. It 
 
 #### [Consumables (condition recovery)](Categories/category_21.md)
 
-| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
-| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
+| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
+| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
 
 #### [recipe book](Categories/category_22.md)
 
-| [Korean weapons](Items/Recipe Book/item_3762.md) | [recipe book](Categories/category_22.md) | Fixed recipe | workshop craftsman |  |
+| [Korean weapons](Items/Recipe Book/item_3762.md) | recipe book | Fixed recipe | workshop craftsman |  |
 
 #### [Consumables (other)](Categories/category_44.md)
 
-| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
-| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
+| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | Consumables (other) | 500 | workshop craftsman |  |
+| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | Consumables (other) | 500 | workshop craftsman |  |
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
@@ -155,20 +153,20 @@ The reading is "Hanyan". It has the meaning of ``the land north of Hansui''. It 
 
 #### [Consumables (condition recovery)](Categories/category_21.md)
 
-| [Nekoirazu](Items/Consumables/Consumables-Recovery/item_70.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
-| [spare sail](Items/Consumables/Consumables-Recovery/item_242.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
-| [reserve rudder](Items/Consumables/Consumables-Recovery/item_243.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
-| [fire extinguishing sand](Items/Consumables/Consumables-Recovery/item_68.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
-| [clean deck brush](Items/Consumables/Consumables-Recovery/item_72.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
+| [Nekoirazu](Items/Consumables/Consumables-Recovery/item_70.md) | Consumables (condition recovery) |  | peddler |  |
+| [spare sail](Items/Consumables/Consumables-Recovery/item_242.md) | Consumables (condition recovery) |  | peddler |  |
+| [reserve rudder](Items/Consumables/Consumables-Recovery/item_243.md) | Consumables (condition recovery) |  | peddler |  |
+| [fire extinguishing sand](Items/Consumables/Consumables-Recovery/item_68.md) | Consumables (condition recovery) |  | peddler |  |
+| [clean deck brush](Items/Consumables/Consumables-Recovery/item_72.md) | Consumables (condition recovery) |  | peddler |  |
 
 #### [Consumables (naval/hand-to-hand combat)](Categories/category_30.md)
 
-| [evacuation bell](Items/Consumables/Consumables-navalhand-to-hand combat/item_919.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |  | peddler |  |
+| [evacuation bell](Items/Consumables/Consumables-navalhand-to-hand combat/item_919.md) | Consumables (naval/hand-to-hand combat) |  | peddler |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [life aid](Items/Consumables/Consumables-Skill/item_67.md) | [Consumables (skill activation)](Categories/category_31.md) |  | peddler |  |
-| [landmark ribbon](Items/Consumables/Consumables-Skill/item_316.md) | [Consumables (skill activation)](Categories/category_31.md) |  | peddler |  |
+| [life aid](Items/Consumables/Consumables-Skill/item_67.md) | Consumables (skill activation) |  | peddler |  |
+| [landmark ribbon](Items/Consumables/Consumables-Skill/item_316.md) | Consumables (skill activation) |  | peddler |  |
   </TabItem>
   <TabItem value="salesperson" label="salesperson">
 
@@ -177,14 +175,13 @@ The reading is "Hanyan". It has the meaning of ``the land north of Hansui''. It 
 
 #### [Consumables (cooking)](Categories/category_32.md)
 
-| [Kujeolpan](Items/Consumables/Consumables-Cooking/item_3776.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
-| [Tegutan](Items/Consumables/Consumables-Cooking/item_3774.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
-| [Bulgogi](Items/Consumables/Consumables-Cooking/item_3773.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
-| [Yakshiku](Items/Consumables/Consumables-Cooking/item_3775.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
-| [Yukgaejang](Items/Consumables/Consumables-Cooking/item_3772.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
+| [Kujeolpan](Items/Consumables/Consumables-Cooking/item_3776.md) | Consumables (cooking) |  | salesperson |  |
+| [Tegutan](Items/Consumables/Consumables-Cooking/item_3774.md) | Consumables (cooking) |  | salesperson |  |
+| [Bulgogi](Items/Consumables/Consumables-Cooking/item_3773.md) | Consumables (cooking) |  | salesperson |  |
+| [Yakshiku](Items/Consumables/Consumables-Cooking/item_3775.md) | Consumables (cooking) |  | salesperson |  |
+| [Yukgaejang](Items/Consumables/Consumables-Cooking/item_3772.md) | Consumables (cooking) |  | salesperson |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
-
 
 ### Shipyard Master
 
@@ -193,19 +190,18 @@ The reading is "Hanyan". It has the meaning of ``the land north of Hansui''. It 
 
 #### [recipe book](Categories/category_22.md)
 
-| [East Asian hull manufacturing methods](Items/Recipe Book/item_3406.md) | [recipe book](Categories/category_22.md) | Fixed recipe | Shipyard Master |  |
+| [East Asian hull manufacturing methods](Items/Recipe Book/item_3406.md) | recipe book | Fixed recipe | Shipyard Master |  |
 
 #### [Boat](Categories/category_43.md)
 
-| [send ship](Items/Ships/item_3766.md) | [Boat](Categories/category_43.md) | 8,400,000 | Shipyard Master |  |
-| [Battleship](Items/Ships/item_3767.md) | [Boat](Categories/category_43.md) | 16,600,000 | Shipyard Master |  |
-| [漕運船](Items/Ships/item_3765.md) | [Boat](Categories/category_43.md) | 7,900,000 | Shipyard Master |  |
+| [send ship](Items/Ships/item_3766.md) | Boat | 8,400,000 | Shipyard Master |  |
+| [Battleship](Items/Ships/item_3767.md) | Boat | 16,600,000 | Shipyard Master |  |
+| [漕運船](Items/Ships/item_3765.md) | Boat | 7,900,000 | Shipyard Master |  |
 
 #### [shipbuilding materials](Categories/category_47.md)
 
-| [east asia large paddle ship](Items/Shipbuilding FS Material/item_3488.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipyard Master |  |
-| [East Asia large hull](Items/Shipbuilding FS Material/item_3487.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipyard Master |  |
-
+| [east asia large paddle ship](Items/Shipbuilding FS Material/item_3488.md) | shipbuilding materials | Fixed recipe | Shipyard Master |  |
+| [East Asia large hull](Items/Shipbuilding FS Material/item_3487.md) | shipbuilding materials | Fixed recipe | Shipyard Master |  |
 
 ### Lumbermaker
 
@@ -214,8 +210,7 @@ The reading is "Hanyan". It has the meaning of ``the land north of Hansui''. It 
 
 #### [Ship parts (additional armor)](Categories/category_35.md)
 
-| [Zelkova board](Items/Ship Parts/Shipparts-Plates/item_3395.md) | [Ship parts (additional armor)](Categories/category_35.md) | 50,000 | Lumbermaker |  |
-
+| [Zelkova board](Items/Ship Parts/Shipparts-Plates/item_3395.md) | Ship parts (additional armor) | 50,000 | Lumbermaker |  |
 
 ### Sail-maker
 
@@ -224,8 +219,7 @@ The reading is "Hanyan". It has the meaning of ``the land north of Hansui''. It 
 
 #### [Ship parts (auxiliary sails)](Categories/category_33.md)
 
-| [Auxiliary junk sail](Items/Ship Parts/Shipparts-Studding-Sail/item_3653.md) | [Ship parts (auxiliary sails)](Categories/category_33.md) | 12,000 | Sail-maker |  |
-
+| [Auxiliary junk sail](Items/Ship Parts/Shipparts-Studding-Sail/item_3653.md) | Ship parts (auxiliary sails) | 12,000 | Sail-maker |  |
 
 ### Shipwright
 
@@ -234,12 +228,12 @@ The reading is "Hanyan". It has the meaning of ``the land north of Hansui''. It 
 
 #### [recipe book](Categories/category_22.md)
 
-| [East Asian reinforced board manufacturing method](Items/Recipe Book/item_3472.md) | [recipe book](Categories/category_22.md) | Fixed recipe | Shipwright |  |
+| [East Asian reinforced board manufacturing method](Items/Recipe Book/item_3472.md) | recipe book | Fixed recipe | Shipwright |  |
 
 #### [shipbuilding materials](Categories/category_47.md)
 
-| [Deck reinforcement iron plate](Items/Shipbuilding FS Material/item_3655.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipwright |  |
-| [hull bulkhead](Items/Shipbuilding FS Material/item_3656.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipwright |  |
+| [Deck reinforcement iron plate](Items/Shipbuilding FS Material/item_3655.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
+| [hull bulkhead](Items/Shipbuilding FS Material/item_3656.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
@@ -248,13 +242,13 @@ The reading is "Hanyan". It has the meaning of ``the land north of Hansui''. It 
 
 #### [Ship parts (special weapons)](Categories/category_37.md)
 
-| [Boathouse](Items/Ship Parts/Shipparts-Special-Weapons/item_3394.md) | [Ship parts (special weapons)](Categories/category_37.md) | 35,000 | weapon craftsman |  |
+| [Boathouse](Items/Ship Parts/Shipparts-Special-Weapons/item_3394.md) | Ship parts (special weapons) | 35,000 | weapon craftsman |  |
 
 #### [Ship parts (cannon)](Categories/category_38.md)
 
-| [黄字銃筒10門](Items/Ship Parts/Shipparts-Cannons/item_3782.md) | [Ship parts (cannon)](Categories/category_38.md) | 110,000 | weapon craftsman |  |
-| [黄字銃筒4門](Items/Ship Parts/Shipparts-Cannons/item_3779.md) | [Ship parts (cannon)](Categories/category_38.md) | 18,000 | weapon craftsman |  |
-| [黄字銃筒6門](Items/Ship Parts/Shipparts-Cannons/item_3780.md) | [Ship parts (cannon)](Categories/category_38.md) | 38,000 | weapon craftsman |  |
-| [黄字銃筒8門](Items/Ship Parts/Shipparts-Cannons/item_3781.md) | [Ship parts (cannon)](Categories/category_38.md) | 66,000 | weapon craftsman |  |
+| [黄字銃筒10門](Items/Ship Parts/Shipparts-Cannons/item_3782.md) | Ship parts (cannon) | 110,000 | weapon craftsman |  |
+| [黄字銃筒4門](Items/Ship Parts/Shipparts-Cannons/item_3779.md) | Ship parts (cannon) | 18,000 | weapon craftsman |  |
+| [黄字銃筒6門](Items/Ship Parts/Shipparts-Cannons/item_3780.md) | Ship parts (cannon) | 38,000 | weapon craftsman |  |
+| [黄字銃筒8門](Items/Ship Parts/Shipparts-Cannons/item_3781.md) | Ship parts (cannon) | 66,000 | weapon craftsman |  |
   </TabItem>
 </Tabs>

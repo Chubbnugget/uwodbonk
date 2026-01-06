@@ -3,7 +3,6 @@ id: 199
 name: tacoma
 type: Port
 ---
-
 # Port: タコマ
 
 import Tabs from '@theme/Tabs';
@@ -38,7 +37,6 @@ import TabItem from '@theme/TabItem';
 ### Description
 A city in western North America that flourishes as a port city. There is a vast forest in the eastern part of the city, and the lumber industry is thriving. Ore purchase order
 
-
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
@@ -67,33 +65,33 @@ A city in western North America that flourishes as a port city. There is a vast 
 
 #### [交易品（繊維）](Categories/category_1.md)
 
-| [Green ramie](Items/Trade Goods/TradeGoods-Fibers/item_3428.md) | [交易品（繊維）](Categories/category_1.md) | 12,182 | (13,706) |  |
-| [deerskin](Items/Trade Goods/TradeGoods-Fibers/item_3648.md) | [交易品（繊維）](Categories/category_1.md) | 12,646 | (14,228) |  |
+| [Green ramie](Items/Trade Goods/TradeGoods-Fibers/item_3428.md) | 交易品（繊維） | 12,182 | (13,706) |  |
+| [deerskin](Items/Trade Goods/TradeGoods-Fibers/item_3648.md) | 交易品（繊維） | 12,646 | (14,228) |  |
 
 #### [交易品（雑貨）](Categories/category_5.md)
 
-| [lantern](Items/Trade Goods/TradeGoods-Misc/item_3683.md) | [交易品（雑貨）](Categories/category_5.md) | (2,691) | 3,140 |  |
+| [lantern](Items/Trade Goods/TradeGoods-Misc/item_3683.md) | 交易品（雑貨） | (2,691) | 3,140 |  |
 
 #### [交易品（酒類）](Categories/category_9.md)
 
-| [aquavit](Items/Trade Goods/TradeGoods-Alcohol/item_572.md) | [交易品（酒類）](Categories/category_9.md) | (1,505) | 1,755 |  |
-| [Taiwan rice wine](Items/Trade Goods/TradeGoods-Alcohol/item_3672.md) | [交易品（酒類）](Categories/category_9.md) | 12,150 | (13,670) |  |
-| [Sake](Items/Trade Goods/TradeGoods-Alcohol/item_3424.md) | [交易品（酒類）](Categories/category_9.md) | 11,861 | (13,344) |  |
+| [aquavit](Items/Trade Goods/TradeGoods-Alcohol/item_572.md) | 交易品（酒類） | (1,505) | 1,755 |  |
+| [Taiwan rice wine](Items/Trade Goods/TradeGoods-Alcohol/item_3672.md) | 交易品（酒類） | 12,150 | (13,670) |  |
+| [Sake](Items/Trade Goods/TradeGoods-Alcohol/item_3424.md) | 交易品（酒類） | 11,861 | (13,344) |  |
 
 #### [Trading goods (hobby goods)](Categories/category_10.md)
 
-| [Aigyoku](Items/Trade Goods/TradeGoods-Sunddries/item_3677.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 11,803 | (13,279) |  |
-| [cranberry](Items/Trade Goods/TradeGoods-Sunddries/item_4008.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (766) | 893 |  |
-| [raspberry](Items/Trade Goods/TradeGoods-Sunddries/item_5419.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 2,957 | (3,326) |  |
+| [Aigyoku](Items/Trade Goods/TradeGoods-Sunddries/item_3677.md) | Trading goods (hobby goods) | 11,803 | (13,279) |  |
+| [cranberry](Items/Trade Goods/TradeGoods-Sunddries/item_4008.md) | Trading goods (hobby goods) | (766) | 893 |  |
+| [raspberry](Items/Trade Goods/TradeGoods-Sunddries/item_5419.md) | Trading goods (hobby goods) | 2,957 | (3,326) |  |
 
 #### [Trading goods (artificial goods)](Categories/category_13.md)
 
-| [Darla Hest](Items/Trade Goods/TradeGoods-Luxuries/item_6190.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (7,859) | 9,170 |  |
-| [湖筆](Items/Trade Goods/TradeGoods-Luxuries/item_3898.md) | [Trading goods (artificial goods)](Categories/category_13.md) | 3,234 | (3,638) |  |
+| [Darla Hest](Items/Trade Goods/TradeGoods-Luxuries/item_6190.md) | Trading goods (artificial goods) | (7,859) | 9,170 |  |
+| [湖筆](Items/Trade Goods/TradeGoods-Luxuries/item_3898.md) | Trading goods (artificial goods) | 3,234 | (3,638) |  |
 
 #### [交易品（美術品）](Categories/category_14.md)
 
-| [taiwan wood carving](Items/Trade Goods/TradeGoods-Art/item_3697.md) | [交易品（美術品）](Categories/category_14.md) | 12,212 | (13,739) |  |
+| [taiwan wood carving](Items/Trade Goods/TradeGoods-Art/item_3697.md) | 交易品（美術品） | 12,212 | (13,739) |  |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
@@ -102,28 +100,28 @@ A city in western North America that flourishes as a port city. There is a vast 
 
 #### [Trading items (food items)](Categories/category_3.md)
 
-| [european crayfish](Items/Trade Goods/TradeGoods-Foodstuffs/item_6188.md) | [Trading items (food items)](Categories/category_3.md) | (5,434) | 6,340 |  |
+| [european crayfish](Items/Trade Goods/TradeGoods-Foodstuffs/item_6188.md) | Trading items (food items) | (5,434) | 6,340 |  |
 
 #### [Trading products (medical products)](Categories/category_6.md)
 
-| [nettle](Items/Trade Goods/TradeGoods-Medicine/item_6189.md) | [Trading products (medical products)](Categories/category_6.md) | (559) | 652 |  |
+| [nettle](Items/Trade Goods/TradeGoods-Medicine/item_6189.md) | Trading products (medical products) | (559) | 652 |  |
 
 #### [交易品（酒類）](Categories/category_9.md)
 
-| [vodka](Items/Trade Goods/TradeGoods-Alcohol/item_579.md) | [交易品（酒類）](Categories/category_9.md) | (1,128) | 1,316 |  |
+| [vodka](Items/Trade Goods/TradeGoods-Alcohol/item_579.md) | 交易品（酒類） | (1,128) | 1,316 |  |
 
 #### [交易品（美術品）](Categories/category_14.md)
 
-| [wooden statue](Items/Trade Goods/TradeGoods-Art/item_95.md) | [交易品（美術品）](Categories/category_14.md) | (1,009) | 1,177 |  |
-| [stone statue](Items/Trade Goods/TradeGoods-Art/item_899.md) | [交易品（美術品）](Categories/category_14.md) | (1,475) | 1,721 |  |
+| [wooden statue](Items/Trade Goods/TradeGoods-Art/item_95.md) | 交易品（美術品） | (1,009) | 1,177 |  |
+| [stone statue](Items/Trade Goods/TradeGoods-Art/item_899.md) | 交易品（美術品） | (1,475) | 1,721 |  |
 
 #### [Trading Goods (Livestock)](Categories/category_18.md)
 
-| [rat](Items/Trade Goods/TradeGoods-Livestock/item_2710.md) | [Trading Goods (Livestock)](Categories/category_18.md) | 18 | (20) |  |
+| [rat](Items/Trade Goods/TradeGoods-Livestock/item_2710.md) | Trading Goods (Livestock) | 18 | (20) |  |
 
 #### [交易品（工業品）](Categories/category_19.md)
 
-| [coal](Items/Trade Goods/TradeGoods-Wares/item_359.md) | [交易品（工業品）](Categories/category_19.md) | (466) | 543 |  |
+| [coal](Items/Trade Goods/TradeGoods-Wares/item_359.md) | 交易品（工業品） | (466) | 543 |  |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
@@ -139,36 +137,36 @@ A city in western North America that flourishes as a port city. There is a vast 
 
 #### [recipe book](Categories/category_22.md)
 
-| [Mode Design Collection Volume 1](Items/Recipe Book/item_92.md) | [recipe book](Categories/category_22.md) | 10,000 | tool shop owner |  |
-| [Sword training/application](Items/Recipe Book/item_589.md) | [recipe book](Categories/category_22.md) | 50,000 | tool shop owner |  |
-| [Textile secrets/fabric book](Items/Recipe Book/item_91.md) | [recipe book](Categories/category_22.md) | 10,000 | tool shop owner |  |
+| [Mode Design Collection Volume 1](Items/Recipe Book/item_92.md) | recipe book | 10,000 | tool shop owner |  |
+| [Sword training/application](Items/Recipe Book/item_589.md) | recipe book | 50,000 | tool shop owner |  |
+| [Textile secrets/fabric book](Items/Recipe Book/item_91.md) | recipe book | 10,000 | tool shop owner |  |
 
 #### [Equipment (body)](Categories/category_24.md)
 
-| [gunslinger's wear](Items/Equipment/Equipment-Body/item_4689.md) | [Equipment (body)](Categories/category_24.md) | 76,000 | tool shop owner |  |
+| [gunslinger's wear](Items/Equipment/Equipment-Body/item_4689.md) | Equipment (body) | 76,000 | tool shop owner |  |
 | 時代限定（19世紀） １９世紀限定 |
-| [gunslingers vest](Items/Equipment/Equipment-Body/item_4740.md) | [Equipment (body)](Categories/category_24.md) | 76,000 | tool shop owner |  |
+| [gunslingers vest](Items/Equipment/Equipment-Body/item_4740.md) | Equipment (body) | 76,000 | tool shop owner |  |
 | 時代限定（19世紀） 【時代固定】19世紀 |
 
 #### [Equipment (legs)](Categories/category_26.md)
 
-| [work boots](Items/Equipment/Equipment-Feet/item_4863.md) | [Equipment (legs)](Categories/category_26.md) | 8,000 | tool shop owner |  |
+| [work boots](Items/Equipment/Equipment-Feet/item_4863.md) | Equipment (legs) | 8,000 | tool shop owner |  |
 | 時代限定（19世紀） 19世紀限定 |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [black kite feather](Items/Consumables/Consumables-Landbattle/item_88.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 100 | tool shop owner |  |
-| [Assortment of wound medicine](Items/Consumables/Consumables-Landbattle/item_90.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 500 | tool shop owner |  |
-| [therapeutic drug](Items/Consumables/Consumables-Landbattle/item_89.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 300 | tool shop owner |  |
-| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 100 | tool shop owner |  |
+| [black kite feather](Items/Consumables/Consumables-Landbattle/item_88.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
+| [Assortment of wound medicine](Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
+| [therapeutic drug](Items/Consumables/Consumables-Landbattle/item_89.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
 
 #### [Consumables (other)](Categories/category_44.md)
 
-| [fossil fuel](Items/Consumables/Consumables-Other/item_5425.md) | [Consumables (other)](Categories/category_44.md) | 100,000 | tool shop owner |  |
+| [fossil fuel](Items/Consumables/Consumables-Other/item_5425.md) | Consumables (other) | 100,000 | tool shop owner |  |
 
 #### [Consumables (request documents)](Categories/category_45.md)
 
-| [Seasoning purchase order form](Items/Consumables/Consumables-Documents/item_4777.md) | [Consumables (request documents)](Categories/category_45.md) | 20,000 | tool shop owner |  |
-| [Ore purchase order](Items/Consumables/Consumables-Documents/item_5461.md) | [Consumables (request documents)](Categories/category_45.md) | 60,000 | tool shop owner |  |
+| [Seasoning purchase order form](Items/Consumables/Consumables-Documents/item_4777.md) | Consumables (request documents) | 20,000 | tool shop owner |  |
+| [Ore purchase order](Items/Consumables/Consumables-Documents/item_5461.md) | Consumables (request documents) | 60,000 | tool shop owner |  |
   </TabItem>
 </Tabs>

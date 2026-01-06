@@ -15,9 +15,7 @@ category: Astronomical
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 650 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Visual recognition 
-
-
+| **Remarks** | Visual recognition
 
  Discovery Experience 650 Discovery Name Card Experience 325 |
 | **最終更新** | 2021-07-28 02:04:55 Farley |

@@ -15,13 +15,9 @@ category: WeatherPhenomena
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 340 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | The required visibility rank is between 8 and 11 because visibility rank 7 was insufficient and observation was possible at 11. 
-
-
+| **Remarks** | The required visibility rank is between 8 and 11 because visibility rank 7 was insufficient and observation was possible at 11.
 
 I was able to find it with R10.
-
-
 
  There are few cloudy days, so you tend to have to wait quite a while. |
 | **最終更新** | 2022-05-18 10:37:04 Mifuyu |

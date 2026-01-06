@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | isle of iona |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A very small island located in the north and west of Britain. You can walk around the island in one day. 
+| **explanation** | A very small island located in the north and west of Britain. You can walk around the island in one day.
  The believers carried out missionary activities based on the monastery built on this island by the monk Columba. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

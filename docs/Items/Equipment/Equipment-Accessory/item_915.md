@@ -3,7 +3,6 @@ id: 915
 name: malachite ring
 type:  Item
 ---
-
 # malachite ring
 
 import Tabs from '@theme/Tabs';
@@ -11,15 +10,15 @@ import TabItem from '@theme/TabItem';
 
 ## Basic Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Item Name** | malachite ring |  
-| **Type** | thing |  
-| **Group** | [Equipment（服飾品）](Categories/category_28.md) |  
-| **Sold by NPC** | [Tool shop owner] (npc_2.md) |  
-| **Purchase Price** | 7,000,000 |  
-| **Description** | Durability 20 Formal wear 40 Effect when used: Enhancement of wooing skills Dye trading +2 Operation +1 Required fame 500 |  
-| **Last Updated** | 2007-11-13 10:23:40 Passing navigator @guest |  
+| Attribute | Details |
+| :--- | :--- |
+| **Item Name** | malachite ring |
+| **Type** | thing |
+| **Group** | [Equipment（服飾品）](Categories/category_28.md) |
+| **Sold by NPC** | [Tool shop owner] (npc_2.md) |
+| **Purchase Price** | 7,000,000 |
+| **Description** | Durability 20 Formal wear 40 Effect when used: Enhancement of wooing skills Dye trading +2 Operation +1 Required fame 500 |
+| **Last Updated** | 2007-11-13 10:23:40 Passing navigator @guest |
 
 ## Trade Data
 

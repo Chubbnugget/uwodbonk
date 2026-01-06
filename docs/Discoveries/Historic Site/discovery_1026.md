@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | hadrian's wall |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A fortification built in Era of the Roman Empire by order of Emperor Hadrian. Its purpose was to prevent the Celts from invading the empire's territory. 
+| **explanation** | A fortification built in Era of the Roman Empire by order of Emperor Hadrian. Its purpose was to prevent the Celts from invading the empire's territory.
  It took 10 years to construct over a distance of over 110km. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

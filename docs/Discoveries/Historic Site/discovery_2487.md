@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | Nineveh |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A city that was the capital of the late Assyrian Empire. 
+| **explanation** | A city that was the capital of the late Assyrian Empire.
 
  It is said that Ashurbanipal's library was there, containing books from all over Assyria. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: Fossils
 | **Discovery Type** | Fossils |
 | **Discovery Name** | A lizard-like stone with fangs |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A stone resembling a lizard excavated at Joggins. 
+| **explanation** | A stone resembling a lizard excavated at Joggins.
  The jaw seems long and thin for a lizard, but did this kind of biology exist in ancient times? |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

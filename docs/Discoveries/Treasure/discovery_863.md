@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 740 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | A military book for mercenaries 
-
-
+| **Remarks** | A military book for mercenaries
 
  Discovery Experience740 Discovery Name Card Experience370 |
 | **最終更新** | 2016-06-07 10:36:55 Gainor |

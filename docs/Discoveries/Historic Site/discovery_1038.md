@@ -15,9 +15,7 @@ category: Historic Site
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 490 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | sweet inviting scent 
-
-
+| **Remarks** | sweet inviting scent
 
  Discovery Experience 490 Discovery Name Card Experience 245 |
 | **最終更新** | 2016-07-05 09:45:41 Gainor |

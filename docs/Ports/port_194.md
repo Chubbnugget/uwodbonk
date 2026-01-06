@@ -3,7 +3,6 @@ id: 194
 name: Tiksi
 type: Port
 ---
-
 # Port: ティクシ
 
 import Tabs from '@theme/Tabs';

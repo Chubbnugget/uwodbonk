@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | skellig michael |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A solitary island off the west coast of Ireland. 
+| **explanation** | A solitary island off the west coast of Ireland.
  Means "Michael's Rock" in Irish. The island itself is a rocky mountain with a steep slope, and there is a monastery near the top of the mountain. In the past, it is said to have withstood attacks from Vikings. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

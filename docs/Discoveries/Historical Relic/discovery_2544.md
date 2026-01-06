@@ -15,9 +15,7 @@ category: Historical Relic
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Sword of the Lioness of Brittany 
-
-
+| **Remarks** | Sword of the Lioness of Brittany
 
  Experience 2260 when discovered; Fame 1800 when discovered |
 | **最終更新** | 2018-10-16 19:57:59 Arata Kashiwaba |

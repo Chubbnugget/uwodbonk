@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | 論語 |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A book in which disciples recorded the words and deeds of Confucius, a thinker from the Spring and Autumn Era. Consists of a total of 20 stories. 
+| **explanation** | A book in which disciples recorded the words and deeds of Confucius, a thinker from the Spring and Autumn Era. Consists of a total of 20 stories.
  It is also an important book in Confucianism, as it is a subject in the imperial examinations. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

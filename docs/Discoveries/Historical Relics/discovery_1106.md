@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Capitana |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The Caravelle served as the flagship on Cristobal Colon's fourth voyage, ``The Sublime Voyage.'' 
+| **explanation** | The Caravelle served as the flagship on Cristobal Colon's fourth voyage, ``The Sublime Voyage.''
  A little more than a year after being lost in a collision with the Bermuda, she was rescued by Diego Mendez and disposed of in Santa Gloria Bay. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

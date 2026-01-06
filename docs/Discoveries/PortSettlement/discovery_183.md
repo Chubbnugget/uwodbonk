@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | 澳門 |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Macau". A city with a large port. 
+| **explanation** | The reading is "Macau". A city with a large port.
  It was a small village centered on fishing, but after the Portuguese settled there, it became a key point for trade between Europe and East Asia. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

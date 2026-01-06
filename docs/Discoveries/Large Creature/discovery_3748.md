@@ -15,7 +15,7 @@ category: Large Creature
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 1300 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Pursuit quest “Additional investigation of Amur leopard” 
+| **Remarks** | Pursuit quest “Additional investigation of Amur leopard”
 
  Discovery Name Card:650 |
 | **最終更新** | 2023-01-19 00:10:28 Passing navigator @guest |

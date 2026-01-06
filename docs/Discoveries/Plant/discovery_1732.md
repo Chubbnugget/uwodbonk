@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | hawthorn |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant that lives in China. It is said that it was also used in Christ's crown. 
+| **explanation** | A plant that lives in China. It is said that it was also used in Christ's crown.
  It is also used for bonsai and garden trees, and the fruit is used for food and medicine. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

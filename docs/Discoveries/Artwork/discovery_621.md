@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Momasu's paintings |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Paintings of flowers and animals by Mao Yi, a painter from the Southern Song Era. It is thought to be an auspicious map. 
+| **explanation** | Paintings of flowers and animals by Mao Yi, a painter from the Southern Song Era. It is thought to be an auspicious map.
  Although it is an old painting, its color has hardly faded. |
 | **Era** |  |
 | **Deck Points** | 2 (Required Deck Points for debate deck) |

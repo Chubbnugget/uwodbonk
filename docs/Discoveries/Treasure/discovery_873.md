@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 13 (Rank of skills required for discovery) |
 | **Experience** | 1210 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Pirate tales from Europe 
-
-
+| **Remarks** | Pirate tales from Europe
 
  Discovery Experience1210 Discovery Name Card Experience605 |
 | **最終更新** | 2016-06-14 16:18:26 Gainor |

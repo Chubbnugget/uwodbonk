@@ -10,7 +10,7 @@ category: Fossils
 | **Discovery Type** | Fossils |
 | **Discovery Name** | Dragon bones with long neck and tail |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | An elongated Biology bone found near Chongqing. The length of the neck and tail is noticeable. 
+| **explanation** | An elongated Biology bone found near Chongqing. The length of the neck and tail is noticeable.
  It has hands and feet that seem suitable for swimming, but based on the size of its feet, it may have walked on land. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | 獅子舞 |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A traditional folk performing art in which people dress up as lions and dance to music. 
+| **explanation** | A traditional folk performing art in which people dress up as lions and dance to music.
  It was widely developed during the Tang Dynasty and is now performed in public on New Year's Day and other occasions. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

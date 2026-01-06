@@ -3,7 +3,6 @@ id: 147
 name: Holo
 type: Port
 ---
-
 # Port: ホロ
 
 import Tabs from '@theme/Tabs';
@@ -38,7 +37,6 @@ import TabItem from '@theme/TabItem';
 ### Description
 In the mid-15th century, an Islamic kingdom called the Kingdom of Sulu was established around Jolo. In recent years, Hispania has expanded into the region, but has encountered strong resistance from the Kingdom of Sulu. Pirate Island: Requires a certain amount of notoriety or 1M bribe to enter the port.
 
-
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
@@ -54,15 +52,15 @@ In the mid-15th century, an Islamic kingdom called the Kingdom of Sulu was estab
 
 #### [Trading goods (artificial goods)](Categories/category_13.md)
 
-| [glasswork](Items/Trade Goods/TradeGoods-Luxuries/item_60.md) | [Trading goods (artificial goods)](Categories/category_13.md) | 2,560 | (2,880) |  |
+| [glasswork](Items/Trade Goods/TradeGoods-Luxuries/item_60.md) | Trading goods (artificial goods) | 2,560 | (2,880) |  |
 
 #### [Trading Items (Gemstones)](Categories/category_15.md)
 
-| [pink diamond](Items/Trade Goods/TradeGoods-Gems/item_2874.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 4,243 | (4,773) |  |
+| [pink diamond](Items/Trade Goods/TradeGoods-Gems/item_2874.md) | Trading Items (Gemstones) | 4,243 | (4,773) |  |
 
 #### [交易品（織物）](Categories/category_20.md)
 
-| [velvet](Items/Trade Goods/TradeGoods-Fabrics/item_902.md) | [交易品（織物）](Categories/category_20.md) | 5,409 | (6,085) |  |
+| [velvet](Items/Trade Goods/TradeGoods-Fabrics/item_902.md) | 交易品（織物） | 5,409 | (6,085) |  |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
@@ -71,13 +69,13 @@ In the mid-15th century, an Islamic kingdom called the Kingdom of Sulu was estab
 
 #### [Trading Goods (Spices)](Categories/category_12.md)
 
-| [cloves](Items/Trade Goods/TradeGoods-Spices/item_1092.md) | [Trading Goods (Spices)](Categories/category_12.md) | 488 | (549) |  |
-| [nutmeg](Items/Trade Goods/TradeGoods-Spices/item_1969.md) | [Trading Goods (Spices)](Categories/category_12.md) | 534 | (600) |  |
-| [mace](Items/Trade Goods/TradeGoods-Spices/item_2100.md) | [Trading Goods (Spices)](Categories/category_12.md) | 707 | (795) |  |
+| [cloves](Items/Trade Goods/TradeGoods-Spices/item_1092.md) | Trading Goods (Spices) | 488 | (549) |  |
+| [nutmeg](Items/Trade Goods/TradeGoods-Spices/item_1969.md) | Trading Goods (Spices) | 534 | (600) |  |
+| [mace](Items/Trade Goods/TradeGoods-Spices/item_2100.md) | Trading Goods (Spices) | 707 | (795) |  |
 
 #### [Trading goods (artificial goods)](Categories/category_13.md)
 
-| [silversmith](Items/Trade Goods/TradeGoods-Luxuries/item_619.md) | [Trading goods (artificial goods)](Categories/category_13.md) | 3,130 | (3,521) |  |
+| [silversmith](Items/Trade Goods/TradeGoods-Luxuries/item_619.md) | Trading goods (artificial goods) | 3,130 | (3,521) |  |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
@@ -96,10 +94,10 @@ In the mid-15th century, an Islamic kingdom called the Kingdom of Sulu was estab
 
 #### [Equipment (belongings)](Categories/category_27.md)
 
-| [Executioners](Items/Equipment/Equipment-Weapon/item_2105.md) | [Equipment (belongings)](Categories/category_27.md) | 800,000 | tool shop owner |  |
-| [banded ax](Items/Equipment/Equipment-Weapon/item_6162.md) | [Equipment (belongings)](Categories/category_27.md) | 800,000 | tool shop owner |  |
-| [Brigand shot](Items/Equipment/Equipment-Weapon/item_6160.md) | [Equipment (belongings)](Categories/category_27.md) | 800,000 | tool shop owner |  |
-| [rogue club](Items/Equipment/Equipment-Weapon/item_6161.md) | [Equipment (belongings)](Categories/category_27.md) | 800,000 | tool shop owner |  |
+| [Executioners](Items/Equipment/Equipment-Weapon/item_2105.md) | Equipment (belongings) | 800,000 | tool shop owner |  |
+| [banded ax](Items/Equipment/Equipment-Weapon/item_6162.md) | Equipment (belongings) | 800,000 | tool shop owner |  |
+| [Brigand shot](Items/Equipment/Equipment-Weapon/item_6160.md) | Equipment (belongings) | 800,000 | tool shop owner |  |
+| [rogue club](Items/Equipment/Equipment-Weapon/item_6161.md) | Equipment (belongings) | 800,000 | tool shop owner |  |
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
@@ -108,20 +106,19 @@ In the mid-15th century, an Islamic kingdom called the Kingdom of Sulu was estab
 
 #### [Consumables (condition recovery)](Categories/category_21.md)
 
-| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
-| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
+| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
+| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
 
 #### [recipe book](Categories/category_22.md)
 
-| [How to dye pirate clothes](Items/Recipe Book/item_2536.md) | [recipe book](Categories/category_22.md) | Fixed recipe | workshop craftsman |  |
+| [How to dye pirate clothes](Items/Recipe Book/item_2536.md) | recipe book | Fixed recipe | workshop craftsman |  |
 
 #### [Consumables (other)](Categories/category_44.md)
 
-| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
-| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
+| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | Consumables (other) | 500 | workshop craftsman |  |
+| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | Consumables (other) | 500 | workshop craftsman |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
-
 
 ### Shipyard Master
 
@@ -130,6 +127,6 @@ In the mid-15th century, an Islamic kingdom called the Kingdom of Sulu was estab
 
 #### [Boat](Categories/category_43.md)
 
-| [Varsha](Items/Ships/item_201.md) | [Boat](Categories/category_43.md) | 2,000 | Shipyard Master |  |
+| [Varsha](Items/Ships/item_201.md) | Boat | 2,000 | Shipyard Master |  |
   </TabItem>
 </Tabs>

@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 200 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Persian Sea" 
+| **Remarks** | Quest "Persian Sea"
 
  Discovery Name Card:100 |
 | **最終更新** | 2022-11-14 19:59:43 Sakon. |

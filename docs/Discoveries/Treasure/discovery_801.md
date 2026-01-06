@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Mid-Autumn Festival Post |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A work by Wang Xianzhi, the son of the calligrapher Wang Xizhi of the Eastern Jin Era. 
+| **explanation** | A work by Wang Xianzhi, the son of the calligrapher Wang Xizhi of the Eastern Jin Era.
 It is called this name because the beginning of the work begins with ``Mid-autumn.''
  This is a textbook that lists Gyosho. |
 | **Era** |  |

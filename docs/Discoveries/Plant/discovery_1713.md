@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Karamurasaki Azalea |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant that blooms pink-purple flowers in spring, mainly living in Korea. 
+| **explanation** | A plant that blooms pink-purple flowers in spring, mainly living in Korea.
  It is admired by people as a flower that heralds spring. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

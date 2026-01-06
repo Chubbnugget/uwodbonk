@@ -15,9 +15,7 @@ category: Historical Relics
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 13 (Rank of skills required for discovery) |
 | **Experience** | 1230 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | another name for Noah 
-
-
+| **Remarks** | another name for Noah
 
  Discovery Experience1230 Discovery Name Card Experience615 |
 | **最終更新** | 2016-06-11 20:35:28 Gainor |

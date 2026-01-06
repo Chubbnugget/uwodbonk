@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | mosi o tunya |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A large waterfall located in the southern part of the African continent. 
+| **explanation** | A large waterfall located in the southern part of the African continent.
  Mosi-o-Tunya means "thundering smoke" in the local language. As the name suggests, during the rainy season when the amount of water increases, the sound of water echoes like thunder. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

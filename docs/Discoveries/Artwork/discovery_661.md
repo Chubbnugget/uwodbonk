@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Sesshu's landscape paintings |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | An ink painting by Sesshu, a Zen monk from the Muromachi era. 
+| **explanation** | An ink painting by Sesshu, a Zen monk from the Muromachi era.
  The stunning landscape is expressed with a strong and free brushstroke, giving it a sense of openness. |
 | **Era** |  |
 | **Deck Points** | 2 (Required Deck Points for debate deck) |

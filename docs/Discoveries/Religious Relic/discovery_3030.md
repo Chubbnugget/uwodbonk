@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 1450 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Legend of the High Priestess 
+| **Remarks** | Legend of the High Priestess
 
  2017.02.07 New addition |
 | **最終更新** | 2022-09-01 16:25:29 Mifuyu |

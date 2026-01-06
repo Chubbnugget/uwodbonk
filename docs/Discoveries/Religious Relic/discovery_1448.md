@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 270 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Tragic Crusade" 
+| **Remarks** | Quest "Tragic Crusade"
 
  Discovery Name Card:135 |
 | **最終更新** | 2022-11-23 17:21:03 Sakon. |

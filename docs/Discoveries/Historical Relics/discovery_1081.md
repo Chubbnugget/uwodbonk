@@ -15,7 +15,7 @@ category: Historical Relics
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 360 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “The Stone Wall of the Incas” 
+| **Remarks** | Quest “The Stone Wall of the Incas”
 
  Discovery Name Card:180 |
 | **最終更新** | 2022-12-09 00:30:16 Sakon. |

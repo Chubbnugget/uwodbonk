@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 320 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Molucca Sea Additional Investigation” 
+| **Remarks** | Quest “Molucca Sea Additional Investigation”
 
  Discovery Name Card:160 |
 | **最終更新** | 2022-10-14 22:07:45 Sakon. |

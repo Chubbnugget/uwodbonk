@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Lazuli cup |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A cup that is often excavated in places connected to Silla. It is made of beautiful lapis lazuli glass. 
+| **explanation** | A cup that is often excavated in places connected to Silla. It is made of beautiful lapis lazuli glass.
 
  Although there is no special decoration, it is very eye-catching. |
 | **Era** |  |

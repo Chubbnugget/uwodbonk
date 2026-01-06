@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Statue to ward off evil spirits |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Hekijazou". A beast statue used to ward off evil spirits. It was discovered in the ruins of Chongqing. 
+| **explanation** | The reading is "Hekijazou". A beast statue used to ward off evil spirits. It was discovered in the ruins of Chongqing.
  A tsuya is a mythical beast that was believed to drive away evil spirits. |
 | **Era** |  |
 | **Deck Points** | 1 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | ginger lily |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant that blooms white flowers in late summer. 
+| **explanation** | A plant that blooms white flowers in late summer.
  It has a strong but refreshing aroma and seems to be good as a fragrance. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

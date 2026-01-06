@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 1 (Rank of skills required for discovery) |
 | **Experience** | 40 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Investigation of the Canary Islands” 
+| **Remarks** | Quest “Investigation of the Canary Islands”
 
  Discovery Name Card:20 |
 | **最終更新** | 2022-11-11 21:07:20 Sakon. |

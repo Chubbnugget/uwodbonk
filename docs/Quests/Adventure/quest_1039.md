@@ -1,32 +1,29 @@
 ---
 id: 1039
 category: Adventure
-status: untranslated
 ---
-
 # Quest [Western Advancement of Nomads]
-
 
 ### Quest [Western Advancement of Nomads] Details
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Quest Name** | Western Advancement of Nomads |  
+| Attribute | Details |
+| :--- | :--- |
+| **Quest Name** | Western Advancement of Nomads |
 
 ### Quest Contents
 Long ago, nomadic tribes from the far east moved westward. You know that too, right? This is a request to find out about the characteristics and tactics of that army. I'm sure their territory extended to the north of Istanbul, so maybe you could find out something by going to Istanbul?
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Chrono Quest** |  |  
-| **Offer Method** | adventure quest |  
-| **Difficulty** | 7 |  
-| **Time Limit** | none |  
-| **Town** | [Venice](Ports/port_30.md), [Athens](Ports/port_28.md) |  
-| **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (5), [Archaeology](Skills/Skill-Adventure/item_342.md) (7), [Unlocking](Skills/Skill-Adventure/item_460.md) (5) |  
-| **Discovery** | [Historical Relics](Categories/category_7.md) / [Batu's Treasure](Quests/Adventure/quest_1196.md) Batu is the son of Juchi, Genghis Khan's eldest son. He conducted a large-scale expedition to Europe and established the Kipchak Khanate. This seems to be part of Batu's property. Nomadic tribe's westward advance Rank: 3, Points: 3, Difficulty: 7, Experience points: 495 |  
-| **Reward/Advance** | Remuneration: 132,000 / Advance payment: 0 |  
-| **Exp/Fame** | Experience points: 150 / Fame: 80 |  
-| **Items Obtained** | Request letter*7 |  
-| **Chain Quests** |  |  
-| **Notes** | 1. Istanbul Guard (Topkapi Palace, top right of the map) 2. Northwestern coast of the Black Sea 67m east from the large rock in the southwest, 88m north Search Bonus Quest Thursday |  
+| Attribute | Details |
+| :--- | :--- |
+| **Chrono Quest** |  |
+| **Offer Method** | adventure quest |
+| **Difficulty** | 7 |
+| **Time Limit** | none |
+| **Town** | [Venice](Ports/port_30.md), [Athens](Ports/port_28.md) |
+| **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (5), [Archaeology](Skills/Skill-Adventure/item_342.md) (7), [Unlocking](Skills/Skill-Adventure/item_460.md) (5) |
+| **Discovery** | [Historical Relics](Categories/category_7.md) / [Batu's Treasure](Quests/Adventure/quest_1196.md) Batu is the son of Juchi, Genghis Khan's eldest son. He conducted a large-scale expedition to Europe and established the Kipchak Khanate. This seems to be part of Batu's property. Nomadic tribe's westward advance Rank: 3, Points: 3, Difficulty: 7, Experience points: 495 |
+| **Reward/Advance** | Remuneration: 132,000 / Advance payment: 0 |
+| **Exp/Fame** | Experience points: 150 / Fame: 80 |
+| **Items Obtained** | Request letter*7 |
+| **Chain Quests** |  |
+| **Notes** | 1. Istanbul Guard (Topkapi Palace, top right of the map) 2. Northwestern coast of the Black Sea 67m east from the large rock in the southwest, 88m north Search Bonus Quest Thursday |

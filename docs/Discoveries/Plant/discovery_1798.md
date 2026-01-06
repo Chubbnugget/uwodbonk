@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Housairan |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant that grows wild in the southern region of China, extending all the way to the island of Taiwan. It blooms from January to February and is used for New Year's floor decorations. 
+| **explanation** | A plant that grows wild in the southern region of China, extending all the way to the island of Taiwan. It blooms from January to February and is used for New Year's floor decorations.
  It was highly valued as an ornamental and was preferred by the upper class. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

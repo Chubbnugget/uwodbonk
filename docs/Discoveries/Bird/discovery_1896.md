@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Warbler |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A small bird distributed in East Asia. It is also called the bird that heralds spring because it makes a charming cry from early spring to summer. 
+| **explanation** | A small bird distributed in East Asia. It is also called the bird that heralds spring because it makes a charming cry from early spring to summer.
  Contrary to the beauty of her voice, her plumage is plain. Because they are very wary, they rarely show themselves. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

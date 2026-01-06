@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Kerch Strait |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A narrow strait that connects the Black Sea and the Sea of ​​Azov. 
+| **explanation** | A narrow strait that connects the Black Sea and the Sea of ​​Azov.
  It is said that an ancient city called the Bosphorus Kingdom once flourished around this area. |
 | **Era** |  |
 | **Deck Points** | 2 (Required Deck Points for debate deck) |

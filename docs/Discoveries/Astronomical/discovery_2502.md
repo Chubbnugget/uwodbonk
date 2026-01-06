@@ -15,9 +15,7 @@ category: Astronomical
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 350 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "The Great King Who Ascended to Heaven" 
-
-
+| **Remarks** | Quest "The Great King Who Ascended to Heaven"
 
  Discovery Name Card:175 |
 | **最終更新** | 2022-10-12 16:31:20 Sakon. |

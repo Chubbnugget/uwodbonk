@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 370 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Ethiopian Princess" 
+| **Remarks** | Quest "Ethiopian Princess"
 
  Discovery Name Card:185 |
 | **最終更新** | 2022-11-03 15:56:15 Sakon. |

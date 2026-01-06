@@ -15,7 +15,7 @@ category: Bird
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 490 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Cute Stranger" 
+| **Remarks** | Quest "Cute Stranger"
 
  Discovery Name Card:245 |
 | **最終更新** | 2022-11-27 18:41:51 Sakon. |

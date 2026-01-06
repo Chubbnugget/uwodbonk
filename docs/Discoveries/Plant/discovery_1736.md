@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Shaga |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant that blooms ultramarine flowers in spring, native to China and Japan. 
+| **explanation** | A plant that blooms ultramarine flowers in spring, native to China and Japan.
  Although it grows in dark places, the flowers only last for one day and wither the day after they bloom. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

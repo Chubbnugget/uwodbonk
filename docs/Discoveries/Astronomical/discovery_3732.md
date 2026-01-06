@@ -10,9 +10,7 @@ category: Astronomical
 | **Discovery Type** | Astronomical |
 | **Discovery Name** | Mencal |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | Giant red Stars at the tip of the nose of the constellation Cetacea. The name means "nostril" in Arabic. 
-
-
+| **explanation** | Giant red Stars at the tip of the nose of the constellation Cetacea. The name means "nostril" in Arabic.
 
  Card: Experience410 |
 | **Era** | 17世紀第3期 |

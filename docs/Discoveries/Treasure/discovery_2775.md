@@ -15,7 +15,7 @@ category: Treasure
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 350 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Map of ancient Egyptian artifacts" 
+| **Remarks** | "Map of ancient Egyptian artifacts"
 
  Discovery Name Card:175 |
 | **最終更新** | 2022-12-31 12:49:50 Sakon. |

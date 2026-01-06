@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 660 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Indian bird Star constellation” 
+| **Remarks** | Quest “Indian bird Star constellation”
 
  Discovery Name Card:330 |
 | **最終更新** | 2022-11-05 19:27:15 Sakon. |

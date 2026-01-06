@@ -15,7 +15,7 @@ category: Artwork
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | 2 (Rank of skills required for discovery) |
 | **Experience** | 110 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Pictures based on Greek mythology” 
+| **Remarks** | Quest “Pictures based on Greek mythology”
 
  Discovery Name Card:55 |
 | **最終更新** | 2022-11-05 12:55:41 Sakon. |

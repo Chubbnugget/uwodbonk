@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Crested Bumblebee |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A small bird with a total length of about 15 cm that lives on the island of Taiwan. It is characterized by a dark brown crown-like head and round eyes. 
+| **explanation** | A small bird with a total length of about 15 cm that lives on the island of Taiwan. It is characterized by a dark brown crown-like head and round eyes.
  They are friendly and come close to humans. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

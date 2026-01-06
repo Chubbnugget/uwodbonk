@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | European river dolphin |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A dolphin that lives in the lower reaches of the Yangtze River. His eyes seem to have deteriorated due to living in a murky river. 
+| **explanation** | A dolphin that lives in the lower reaches of the Yangtze River. His eyes seem to have deteriorated due to living in a murky river.
  別名、長江女神。 |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

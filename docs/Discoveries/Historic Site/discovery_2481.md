@@ -15,9 +15,7 @@ category: Historic Site
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 760 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | An errand from Mr. Da Vinci 
-
-
+| **Remarks** | An errand from Mr. Da Vinci
 
  Discovery Experience760 Discovery Name Card Experience380 |
 | **最終更新** | 2016-07-12 14:49:08 Gainor |

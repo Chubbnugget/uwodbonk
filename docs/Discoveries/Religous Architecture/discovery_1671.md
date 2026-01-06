@@ -15,7 +15,7 @@ category: Religous Architecture
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 648 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Land of Towers” 
+| **Remarks** | Quest “Land of Towers”
 
  Discovery Name Card:320 |
 | **最終更新** | 2022-11-12 17:20:24 Sakon. |

@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 270 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Found in Whanganui West (outskirts of Whanganui). 
+| **Remarks** | Found in Whanganui West (outskirts of Whanganui).
 
 I was able to find it just outside the suburbs.
 

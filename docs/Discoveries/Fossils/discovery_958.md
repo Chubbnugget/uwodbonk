@@ -10,7 +10,7 @@ category: Fossils
 | **Discovery Type** | Fossils |
 | **Discovery Name** | turtle-like dragon bones |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | The bones of Biology, which had a tortoise-like body, were found near Quanzhu. 
+| **explanation** | The bones of Biology, which had a tortoise-like body, were found near Quanzhu.
  Its abdomen is greatly swollen, giving it the appearance of carrying a shell on its back. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

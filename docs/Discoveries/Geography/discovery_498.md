@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Osorezan |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A mountain in northern Tohoku. Although it is called a "mountain," it seems that it is not the name of the mountain itself. 
+| **explanation** | A mountain in northern Tohoku. Although it is called a "mountain," it seems that it is not the name of the mountain itself.
  It is revered by the locals as an object of faith, and it is said that human souls go to this mountain after death. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

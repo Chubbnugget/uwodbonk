@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Silla inscription |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A stone monument believed to have been built during the Goguryeo Era. There are letters engraved on all four sides. 
+| **explanation** | A stone monument believed to have been built during the Goguryeo Era. There are letters engraved on all four sides.
  It seems to be about the relationship between Goguryeo and Silla, but it is badly damaged and difficult to decipher. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

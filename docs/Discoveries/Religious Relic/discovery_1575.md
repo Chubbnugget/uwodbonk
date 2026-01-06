@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Nankai Yorikinaihoden |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | The pronunciation is ``Something Ikikinai Hoden.'' 
+| **explanation** | The pronunciation is ``Something Ikikinai Hoden.''
 
  A book written by the Tang monk Gijo that conveys the precepts of food, clothing, and shelter in India. It contains detailed instructions on how to wear clothing and the rules for eating and drinking. |
 | **Era** |  |

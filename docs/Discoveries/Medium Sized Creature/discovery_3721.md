@@ -15,7 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 830 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Lost Cat" 
+| **Remarks** | Quest "Lost Cat"
 
  Discovery Name Card:415 |
 | **最終更新** | 2022-11-27 23:13:22 Sakon. |

@@ -15,7 +15,7 @@ category: Treasure
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 1 (Rank of skills required for discovery) |
 | **Experience** | 60 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “The Greatest Epic of Ancient Greece” 
+| **Remarks** | Quest “The Greatest Epic of Ancient Greece”
 
  Discovery Name Card:30 |
 | **最終更新** | 2022-12-05 22:58:11 Sakon. |

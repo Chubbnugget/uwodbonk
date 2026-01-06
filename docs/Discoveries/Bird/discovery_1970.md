@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Snake sardine |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A type of eagle that is distributed from central to southern Africa. 
+| **explanation** | A type of eagle that is distributed from central to southern Africa.
  It is sometimes called the ``scribe bird'' because it has multiple long crown feathers on the back of its head that look like quills. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

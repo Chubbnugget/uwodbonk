@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Gotland |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | The largest island in the Baltic Sea. It is said that people have lived there since the prehistoric Era. It was an important trading force in the Era of the Hanseatic League. 
+| **explanation** | The largest island in the Baltic Sea. It is said that people have lived there since the prehistoric Era. It was an important trading force in the Era of the Hanseatic League.
  It is also called ``God's Island'' or ``God's Country.'' |
 | **Era** |  |
 | **Deck Points** | 2 (Required Deck Points for debate deck) |

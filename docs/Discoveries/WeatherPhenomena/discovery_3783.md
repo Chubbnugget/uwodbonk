@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 450 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Banda Sea 5902.5021 
+| **Remarks** | Banda Sea 5902.5021
 
  Sunny evening, about 10 seconds |
 | **最終更新** | 2023-04-13 17:28:20 Passing navigator @guest |

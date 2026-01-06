@@ -10,7 +10,7 @@ category: Religous Architecture
 | **Discovery Type** | Religous Architecture |
 | **Discovery Name** | Santiago Cathedral |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Its official name is the Cathedral of Santiago de Compostela, and it is the final stop on the Pilgrimage Route of St. James, which stretches from France to the Iberian Peninsula. 
+| **explanation** | Its official name is the Cathedral of Santiago de Compostela, and it is the final stop on the Pilgrimage Route of St. James, which stretches from France to the Iberian Peninsula.
 
  According to tradition, the body of the apostle James, a disciple of Christ, is kept here. |
 | **Era** |  |

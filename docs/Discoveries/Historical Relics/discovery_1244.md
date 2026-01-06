@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Lavrenty Manuscript |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A manuscript of the Primitive Chronicle, transcribed by the monk Lavrenti in the 14th century. 
+| **explanation** | A manuscript of the Primitive Chronicle, transcribed by the monk Lavrenti in the 14th century.
  Records from some years have been removed, but the reason is unknown. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

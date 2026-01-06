@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | Chilean common |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A spider that lives in South America. Their brown appearance gives them a plain appearance, but they are very beautiful right after they shed their skin. 
+| **explanation** | A spider that lives in South America. Their brown appearance gives them a plain appearance, but they are very beautiful right after they shed their skin.
  It is relatively docile. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

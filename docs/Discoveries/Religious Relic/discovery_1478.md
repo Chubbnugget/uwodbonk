@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 720 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Aztec Fertility God” 
+| **Remarks** | Quest “Aztec Fertility God”
 
  Discovery Name Card:360 |
 | **最終更新** | 2022-12-03 12:21:43 Sakon. |

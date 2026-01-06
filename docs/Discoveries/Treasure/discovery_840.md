@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | guardian's hat |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A special hat worn by Korean yangban. 
+| **explanation** | A special hat worn by Korean yangban.
  The yangban is divided into civilian and military officers, and this hat belongs to military officers. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

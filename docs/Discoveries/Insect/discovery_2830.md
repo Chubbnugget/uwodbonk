@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | Scarlet swan butterfly |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A butterfly that can be found in the rainforests of Central and South America. 
+| **explanation** | A butterfly that can be found in the rainforests of Central and South America.
 
  It has glass-like transparent wings, and the hind wings have a pattern that looks like a blur of red or purple. |
 | **Era** |  |

@@ -15,7 +15,7 @@ category: Fossils
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | 48 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | strange stone map 
+| **Remarks** | strange stone map
 
  Landing on the southern coast of Africa |
 | **最終更新** | 2015-12-29 08:35:08 Gottan |

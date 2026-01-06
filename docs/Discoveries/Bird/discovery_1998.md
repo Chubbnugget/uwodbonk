@@ -15,9 +15,7 @@ category: Bird
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 620 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | white bird and black bird 
-
-
+| **Remarks** | white bird and black bird
 
  Discovery Experience620 Discovery Name Card Experience310 |
 | **最終更新** | 2016-05-11 08:06:15 Gainor |

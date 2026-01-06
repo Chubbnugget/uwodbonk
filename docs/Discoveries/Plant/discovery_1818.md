@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Rosa fetida persiana |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A yellow rose native to Persia. Also called "Persian Yellow". 
+| **explanation** | A yellow rose native to Persia. Also called "Persian Yellow".
  The bright yellow petals are layered over and over again. Its small leaves are fragrant. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | djed pillar |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A pillar symbolizing "eternal stability". It is also said to be the backbone of the ancient Egyptian god Osiris. 
+| **explanation** | A pillar symbolizing "eternal stability". It is also said to be the backbone of the ancient Egyptian god Osiris.
  It signifies the power of rebirth and is expressed in the form of murals and amulets. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

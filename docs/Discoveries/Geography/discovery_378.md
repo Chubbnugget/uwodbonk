@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 220 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “The place that separates north and south” 
+| **Remarks** | Quest “The place that separates north and south”
 
  Discovery Name Card:110 |
 | **最終更新** | 2022-11-12 07:29:55 Sakon. |

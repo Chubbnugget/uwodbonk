@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | Jiuquan stone |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A mysterious stone that appears in Korean mythology. 
+| **explanation** | A mysterious stone that appears in Korean mythology.
  It is said that if you pour water into the hollow of this stone, it will turn into alcohol before you know it. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

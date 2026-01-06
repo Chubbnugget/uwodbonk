@@ -10,7 +10,7 @@ category: Religous Architecture
 | **Discovery Type** | Religous Architecture |
 | **Discovery Name** | temple of eleusis |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Ruins of the Temple of Demeter at Eleusis near Athens. 
+| **explanation** | Ruins of the Temple of Demeter at Eleusis near Athens.
 
 The existence of the mysteries performed in this temple was widely known in ancient times.
 

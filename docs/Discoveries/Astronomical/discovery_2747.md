@@ -10,7 +10,7 @@ category: Astronomical
 | **Discovery Type** | Astronomical |
 | **Discovery Name** | triton |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | Mamoru Stars of Kaiou Stars. It is one of the largest in the solar system. 
+| **explanation** | Mamoru Stars of Kaiou Stars. It is one of the largest in the solar system.
 
 It is characterized by orbiting in the opposite direction to the rotation direction of Kaioh Stars.
 

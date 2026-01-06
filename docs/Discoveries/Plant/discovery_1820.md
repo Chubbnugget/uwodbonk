@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Zheng Erpinsong |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A pine tree with wide branches. The tree is said to be several hundred years old and is admired by people. 
+| **explanation** | A pine tree with wide branches. The tree is said to be several hundred years old and is admired by people.
  It is said that when King Sejo, the seventh king of the Joseon Dynasty, passed by this tree, the branches that had grown up lifted up to make way for him. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

@@ -15,9 +15,7 @@ category: Plant
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 390 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | a tree that blooms with flames 
-
-
+| **Remarks** | a tree that blooms with flames
 
  Discovery Experience 390 Discovery Name Card Experience 195 |
 | **最終更新** | 2016-05-07 19:49:09 Gainor |

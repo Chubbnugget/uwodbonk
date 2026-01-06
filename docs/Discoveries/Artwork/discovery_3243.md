@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Icon of the Dormition |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the icons passed down in the Orthodox Church, depicting the events of the death of the Virgin Mary. 
+| **explanation** | One of the icons passed down in the Orthodox Church, depicting the events of the death of the Virgin Mary.
 
  The custom of celebrating Mary's eternal rest is said to have originated in the East, and became established in Western Europe as the Assumption of the Virgin Mary. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Shuri |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A freshwater fish that lives in the rivers of Korea. 
+| **explanation** | A freshwater fish that lives in the rivers of Korea.
  They have a strange habit of following the death of one half of their mate. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

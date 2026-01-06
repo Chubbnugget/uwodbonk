@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 630 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Where the battle goes” 
+| **Remarks** | Quest “Where the battle goes”
 
  Discovery Name Card:315 |
 | **最終更新** | 2022-10-30 19:01:20 Sakon. |

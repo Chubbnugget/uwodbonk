@@ -15,9 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 490 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | wise man of south america 
-
-
+| **Remarks** | wise man of south america
 
  Discovery Experience 490 Discovery Name Card Experience 245 |
 | **最終更新** | 2016-07-09 12:52:37 Gainor |

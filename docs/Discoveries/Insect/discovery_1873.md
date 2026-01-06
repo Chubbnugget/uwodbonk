@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | Maimaikaburi |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | An insect endemic to Japan that lives from the plains to the mountains. 
+| **explanation** | An insect endemic to Japan that lives from the plains to the mountains.
  It sticks its head into the shell of a snail, dissolves it in its digestive juices, and preys on it. The name comes from the way he wears it. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

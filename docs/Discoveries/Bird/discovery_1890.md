@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | American Black-capped Chickadee |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A small bird that lives in the northern part of North America. 
+| **explanation** | A small bird that lives in the northern part of North America.
  It seems that they are sensitive to danger and use different calls depending on the level of danger to alert other species of birds. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Stars |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Sensei Dai". A tower-like structure said to have been built at the end of the Silla era. 
+| **explanation** | The reading is "Sensei Dai". A tower-like structure said to have been built at the end of the Silla era.
  Legend has it that this was an astronomical observatory and was used for fortune-telling. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

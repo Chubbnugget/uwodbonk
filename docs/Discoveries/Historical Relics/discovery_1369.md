@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Jomon pottery |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | Earthenware with a distinctive rope pattern discovered in Japan. It has low strength and breaks easily. 
+| **explanation** | Earthenware with a distinctive rope pattern discovered in Japan. It has low strength and breaks easily.
  It is thought to have been made during the Era, when the technology for firing earthenware was underdeveloped. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

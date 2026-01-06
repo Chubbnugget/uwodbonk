@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | laurel wreath |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A crown made by braiding branches with leaves still attached. 
+| **explanation** | A crown made by braiding branches with leaves still attached.
  According to Greek mythology, Daphne turned herself into a witch after refusing Apollo's courtship. Dejected, Apollo weaved the branches into a crown, which he continued to wear for the rest of his life. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

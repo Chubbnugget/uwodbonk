@@ -15,9 +15,7 @@ category: Bird
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 320 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | clearly black and white 
-
-
+| **Remarks** | clearly black and white
 
  Cultural contribution level 30 |
 | **最終更新** | 2022-08-25 14:51:11 Maeda |

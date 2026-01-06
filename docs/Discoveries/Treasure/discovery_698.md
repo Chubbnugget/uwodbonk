@@ -10,16 +10,14 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | glass perfume bottle |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A gorgeous glass perfume bottle with plenty of decorations. Two eagle heads are carved on the lid. 
+| **explanation** | A gorgeous glass perfume bottle with plenty of decorations. Two eagle heads are carved on the lid.
 
  The text at the bottom says, ``Someday we must overcome something big.His sword is heavy, but his heart is wider and kinder than the soil of Flanders.'' |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 1014 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Memories of bottling 
-
-
+| **Remarks** | Memories of bottling
 
  Discovery Experience1014 Discovery Name Card Experience507 |
 | **最終更新** | 2016-06-13 16:41:36 Gainor |

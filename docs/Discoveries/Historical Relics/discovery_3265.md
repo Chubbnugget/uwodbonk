@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Amarna Documents |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Ancient Egyptian diplomatic document from the Era when Amenhoteb IV was pharaoh. There were many books of diplomatic correspondence addressed to the pharaoh from high-ranking officials of neighboring countries ruled by Egypt, most of which were written in Akkadian, the official language at the time. 
+| **explanation** | Ancient Egyptian diplomatic document from the Era when Amenhoteb IV was pharaoh. There were many books of diplomatic correspondence addressed to the pharaoh from high-ranking officials of neighboring countries ruled by Egypt, most of which were written in Akkadian, the official language at the time.
 
  written |
 | **Era** |  |

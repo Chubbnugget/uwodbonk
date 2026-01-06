@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 650 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Night Sky Sextant” 
+| **Remarks** | Quest “Night Sky Sextant”
 
  Discovery Name Card:325 |
 | **最終更新** | 2022-11-06 11:30:55 Sakon. |

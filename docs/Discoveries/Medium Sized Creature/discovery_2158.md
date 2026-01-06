@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | Baikalok |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Deer are common on Taiwan Island. It is called Baikalok (Plum Blossom Deer) because of the white spots on its body that resemble plum blossoms. 
+| **explanation** | Deer are common on Taiwan Island. It is called Baikalok (Plum Blossom Deer) because of the white spots on its body that resemble plum blossoms.
  Since ancient times, their antlers and deer skin have been prized, and they have been the subject of hunting. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

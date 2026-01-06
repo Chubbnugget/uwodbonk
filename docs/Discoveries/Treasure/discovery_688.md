@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 1105 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Immortal Stars 
-
-
+| **Remarks** | Immortal Stars
 
  Discovery Experience1105 Discovery Name Card Experience552 |
 | **最終更新** | 2016-05-15 19:47:26 Gainor |

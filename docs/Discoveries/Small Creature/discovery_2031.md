@@ -10,7 +10,7 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | Swainho Kinobori Lizard |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A lizard with a total length of about 20 cm that lives only on the island of Taiwan. It sticks well to the tree trunk. 
+| **explanation** | A lizard with a total length of about 20 cm that lives only on the island of Taiwan. It sticks well to the tree trunk.
 
  Its body color resembles that of a tree, but it has a yellow stripe on its back, making it easy to spot. |
 | **Era** |  |

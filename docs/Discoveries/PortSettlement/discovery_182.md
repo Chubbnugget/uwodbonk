@@ -10,7 +10,7 @@ category: PortSettlement
 | **Discovery Type** | PortSettlement |
 | **Discovery Name** | 漢陽 |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The reading is "Hanyan". It has the meaning of ``the land north of Hansui.'' 
+| **explanation** | The reading is "Hanyan". It has the meaning of ``the land north of Hansui.''
  It has a long history as it was the capital of the Baekje era, and many relics have been discovered there. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

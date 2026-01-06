@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | 大唐西域記 |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A record of the travels of the Tang monk Xuanzang, who recorded Buddhist ruins and daily life in the western regions and India. 
+| **explanation** | A record of the travels of the Tang monk Xuanzang, who recorded Buddhist ruins and daily life in the western regions and India.
 
  It spans 12 volumes and has had a great influence on future generations. |
 | **Era** |  |

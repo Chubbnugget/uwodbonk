@@ -10,7 +10,7 @@ category: Religous Architecture
 | **Discovery Type** | Religous Architecture |
 | **Discovery Name** | laojunyan |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A huge stone statue of the Taoist god Taishang Laojun. 
+| **explanation** | A huge stone statue of the Taoist god Taishang Laojun.
  Local people believe that touching the statue's beard will bring good luck. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

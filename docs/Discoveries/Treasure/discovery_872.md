@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Pirate's Hidden Treasures |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | It was stuffed with gold and silver treasures that a certain pirate had stolen and stashed away. 
+| **explanation** | It was stuffed with gold and silver treasures that a certain pirate had stolen and stashed away.
 
  The box is old as it seems to have been left alone for a long time, but the contents are in good condition. |
 | **Era** |  |

@@ -3,7 +3,6 @@ id: 173
 name: Hangzhou
 type: Port
 ---
-
 # Port: 杭州
 
 import Tabs from '@theme/Tabs';
@@ -37,7 +36,6 @@ import TabItem from '@theme/TabItem';
 
 ### Description
 The pronunciation is "Hancho". It is said that Marco Polo praised the city as a beautiful and gorgeous city. It is one of the birthplaces of civilization and is lined with many temples and historic sites. Tavern woman: Kogumo (unreportable)
-
 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
@@ -92,41 +90,41 @@ The pronunciation is "Hancho". It is said that Marco Polo praised the city as a 
 
 #### [recipe book](Categories/category_22.md)
 
-| [Swordsmith's Secret](Items/Recipe Book/item_3404.md) | [recipe book](Categories/category_22.md) | 2,500,000 | tool shop owner |  |
-| [Famous dishes of southern China](Items/Recipe Book/item_3880.md) | [recipe book](Categories/category_22.md) | 350,000 | tool shop owner |  |
-| [調味料大全・秘境編](Items/Recipe Book/item_3403.md) | [recipe book](Categories/category_22.md) | 700,000 | tool shop owner |  |
+| [Swordsmith's Secret](Items/Recipe Book/item_3404.md) | recipe book | 2,500,000 | tool shop owner |  |
+| [Famous dishes of southern China](Items/Recipe Book/item_3880.md) | recipe book | 350,000 | tool shop owner |  |
+| [調味料大全・秘境編](Items/Recipe Book/item_3403.md) | recipe book | 700,000 | tool shop owner |  |
 
 #### [Equipment (head)](Categories/category_23.md)
 
-| [Square flat towel](Items/Equipment/Equipment-Head/item_3607.md) | [Equipment (head)](Categories/category_23.md) | 102,000 | tool shop owner |  |
-| [頭巾](Items/Equipment/Equipment-Head/item_3551.md) | [Equipment (head)](Categories/category_23.md) | 82,000 | tool shop owner |  |
+| [Square flat towel](Items/Equipment/Equipment-Head/item_3607.md) | Equipment (head) | 102,000 | tool shop owner |  |
+| [頭巾](Items/Equipment/Equipment-Head/item_3551.md) | Equipment (head) | 82,000 | tool shop owner |  |
 
 #### [Equipment (body)](Categories/category_24.md)
 
-| [official uniform](Items/Equipment/Equipment-Body/item_3872.md) | [Equipment (body)](Categories/category_24.md) | 404,000 | tool shop owner |  |
-| [Kosode back](Items/Equipment/Equipment-Body/item_3810.md) | [Equipment (body)](Categories/category_24.md) | 404,000 | tool shop owner |  |
-| [Hufu](Items/Equipment/Equipment-Body/item_3874.md) | [Equipment (body)](Categories/category_24.md) | 154,000 | tool shop owner |  |
+| [official uniform](Items/Equipment/Equipment-Body/item_3872.md) | Equipment (body) | 404,000 | tool shop owner |  |
+| [Kosode back](Items/Equipment/Equipment-Body/item_3810.md) | Equipment (body) | 404,000 | tool shop owner |  |
+| [Hufu](Items/Equipment/Equipment-Body/item_3874.md) | Equipment (body) | 154,000 | tool shop owner |  |
 
 #### [Equipment (legs)](Categories/category_26.md)
 
-| [shoe](Items/Equipment/Equipment-Feet/item_3603.md) | [Equipment (legs)](Categories/category_26.md) | 56,000 | tool shop owner |  |
-| [shoes](Items/Equipment/Equipment-Feet/item_3471.md) | [Equipment (legs)](Categories/category_26.md) | 48,000 | tool shop owner |  |
+| [shoe](Items/Equipment/Equipment-Feet/item_3603.md) | Equipment (legs) | 56,000 | tool shop owner |  |
+| [shoes](Items/Equipment/Equipment-Feet/item_3471.md) | Equipment (legs) | 48,000 | tool shop owner |  |
 
 #### [Equipment (belongings)](Categories/category_27.md)
 
-| [Yan Yue Dao](Items/Equipment/Equipment-Weapon/item_3951.md) | [Equipment (belongings)](Categories/category_27.md) | 700,000 | tool shop owner |  |
+| [Yan Yue Dao](Items/Equipment/Equipment-Weapon/item_3951.md) | Equipment (belongings) | 700,000 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 200 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 150 | tool shop owner |  |
-| [Assortment of therapeutic drugs](Items/Consumables/Consumables-Landbattle/item_564.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 900 | tool shop owner |  |
-| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 600 | tool shop owner |  |
+| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [Assortment of therapeutic drugs](Items/Consumables/Consumables-Landbattle/item_564.md) | Consumables (land battle/deck battle) | 900 | tool shop owner |  |
+| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [捕獲網](Items/Consumables/Consumables-Skill/item_315.md) | [Consumables (skill activation)](Categories/category_31.md) | 300 | tool shop owner |  |
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | [Consumables (skill activation)](Categories/category_31.md) | 2,500 | tool shop owner |  |
+| [捕獲網](Items/Consumables/Consumables-Skill/item_315.md) | Consumables (skill activation) | 300 | tool shop owner |  |
+| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
@@ -135,13 +133,13 @@ The pronunciation is "Hancho". It is said that Marco Polo praised the city as a 
 
 #### [Consumables (condition recovery)](Categories/category_21.md)
 
-| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
-| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
+| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
+| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
 
 #### [Consumables (other)](Categories/category_44.md)
 
-| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
-| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
+| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | Consumables (other) | 500 | workshop craftsman |  |
+| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | Consumables (other) | 500 | workshop craftsman |  |
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
@@ -150,20 +148,20 @@ The pronunciation is "Hancho". It is said that Marco Polo praised the city as a 
 
 #### [Consumables (condition recovery)](Categories/category_21.md)
 
-| [Nekoirazu](Items/Consumables/Consumables-Recovery/item_70.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
-| [spare sail](Items/Consumables/Consumables-Recovery/item_242.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
-| [reserve rudder](Items/Consumables/Consumables-Recovery/item_243.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
-| [rope of punishment](Items/Consumables/Consumables-Recovery/item_71.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
-| [fire extinguishing sand](Items/Consumables/Consumables-Recovery/item_68.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
+| [Nekoirazu](Items/Consumables/Consumables-Recovery/item_70.md) | Consumables (condition recovery) |  | peddler |  |
+| [spare sail](Items/Consumables/Consumables-Recovery/item_242.md) | Consumables (condition recovery) |  | peddler |  |
+| [reserve rudder](Items/Consumables/Consumables-Recovery/item_243.md) | Consumables (condition recovery) |  | peddler |  |
+| [rope of punishment](Items/Consumables/Consumables-Recovery/item_71.md) | Consumables (condition recovery) |  | peddler |  |
+| [fire extinguishing sand](Items/Consumables/Consumables-Recovery/item_68.md) | Consumables (condition recovery) |  | peddler |  |
 
 #### [Consumables (naval/hand-to-hand combat)](Categories/category_30.md)
 
-| [flag of calm](Items/Consumables/Consumables-navalhand-to-hand combat/item_84.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |  | peddler |  |
+| [flag of calm](Items/Consumables/Consumables-navalhand-to-hand combat/item_84.md) | Consumables (naval/hand-to-hand combat) |  | peddler |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [life aid](Items/Consumables/Consumables-Skill/item_67.md) | [Consumables (skill activation)](Categories/category_31.md) |  | peddler |  |
-| [landmark ribbon](Items/Consumables/Consumables-Skill/item_316.md) | [Consumables (skill activation)](Categories/category_31.md) |  | peddler |  |
+| [life aid](Items/Consumables/Consumables-Skill/item_67.md) | Consumables (skill activation) |  | peddler |  |
+| [landmark ribbon](Items/Consumables/Consumables-Skill/item_316.md) | Consumables (skill activation) |  | peddler |  |
   </TabItem>
   <TabItem value="salesperson" label="salesperson">
 
@@ -172,14 +170,13 @@ The pronunciation is "Hancho". It is said that Marco Polo praised the city as a 
 
 #### [Consumables (cooking)](Categories/category_32.md)
 
-| [tousher markyu](Items/Consumables/Consumables-Cooking/item_3974.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
-| [steamed stuffed bun](Items/Consumables/Consumables-Cooking/item_3976.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
-| [月餅](Items/Consumables/Consumables-Cooking/item_3973.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
-| [Almond tofu](Items/Consumables/Consumables-Cooking/item_3975.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
-| [Shumai](Items/Consumables/Consumables-Cooking/item_3972.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
+| [tousher markyu](Items/Consumables/Consumables-Cooking/item_3974.md) | Consumables (cooking) |  | salesperson |  |
+| [steamed stuffed bun](Items/Consumables/Consumables-Cooking/item_3976.md) | Consumables (cooking) |  | salesperson |  |
+| [月餅](Items/Consumables/Consumables-Cooking/item_3973.md) | Consumables (cooking) |  | salesperson |  |
+| [Almond tofu](Items/Consumables/Consumables-Cooking/item_3975.md) | Consumables (cooking) |  | salesperson |  |
+| [Shumai](Items/Consumables/Consumables-Cooking/item_3972.md) | Consumables (cooking) |  | salesperson |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
-
 
 ### Shipyard Master
 
@@ -188,20 +185,19 @@ The pronunciation is "Hancho". It is said that Marco Polo praised the city as a 
 
 #### [recipe book](Categories/category_22.md)
 
-| [East Asian hull manufacturing methods](Items/Recipe Book/item_3406.md) | [recipe book](Categories/category_22.md) | Fixed recipe | Shipyard Master |  |
+| [East Asian hull manufacturing methods](Items/Recipe Book/item_3406.md) | recipe book | Fixed recipe | Shipyard Master |  |
 
 #### [Boat](Categories/category_43.md)
 
-| [Da'an houseboat](Items/Ships/item_4205.md) | [Boat](Categories/category_43.md) | 12,000,000 | Shipyard Master |  |
-| [寧波船](Items/Ships/item_3915.md) | [Boat](Categories/category_43.md) | 16,200,000 | Shipyard Master |  |
-| [armed sand barge](Items/Ships/item_3914.md) | [Boat](Categories/category_43.md) | 7,600,000 | Shipyard Master |  |
-| [sand ship](Items/Ships/item_3913.md) | [Boat](Categories/category_43.md) | 7,500,000 | Shipyard Master |  |
-| [wide ship for transportation](Items/Ships/item_3658.md) | [Boat](Categories/category_43.md) | 15,600,000 | Shipyard Master |  |
+| [Da'an houseboat](Items/Ships/item_4205.md) | Boat | 12,000,000 | Shipyard Master |  |
+| [寧波船](Items/Ships/item_3915.md) | Boat | 16,200,000 | Shipyard Master |  |
+| [armed sand barge](Items/Ships/item_3914.md) | Boat | 7,600,000 | Shipyard Master |  |
+| [sand ship](Items/Ships/item_3913.md) | Boat | 7,500,000 | Shipyard Master |  |
+| [wide ship for transportation](Items/Ships/item_3658.md) | Boat | 15,600,000 | Shipyard Master |  |
 
 #### [shipbuilding materials](Categories/category_47.md)
 
-| [East Asia large hull](Items/Shipbuilding FS Material/item_3487.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipyard Master |  |
-
+| [East Asia large hull](Items/Shipbuilding FS Material/item_3487.md) | shipbuilding materials | Fixed recipe | Shipyard Master |  |
 
 ### Lumbermaker
 
@@ -210,8 +206,7 @@ The pronunciation is "Hancho". It is said that Marco Polo praised the city as a 
 
 #### [Ship parts (additional armor)](Categories/category_35.md)
 
-| [Akagashi board](Items/Ship Parts/Shipparts-Plates/item_3654.md) | [Ship parts (additional armor)](Categories/category_35.md) | 70,000 | Lumbermaker |  |
-
+| [Akagashi board](Items/Ship Parts/Shipparts-Plates/item_3654.md) | Ship parts (additional armor) | 70,000 | Lumbermaker |  |
 
 ### Sail-maker
 
@@ -220,11 +215,11 @@ The pronunciation is "Hancho". It is said that Marco Polo praised the city as a 
 
 #### [recipe book](Categories/category_22.md)
 
-| [Book of Shipbuilding Materials and Sewing Volume 3](Items/Recipe Book/item_1913.md) | [recipe book](Categories/category_22.md) | Fixed recipe | Sail-maker |  |
+| [Book of Shipbuilding Materials and Sewing Volume 3](Items/Recipe Book/item_1913.md) | recipe book | Fixed recipe | Sail-maker |  |
 
 #### [Ship parts (auxiliary sails)](Categories/category_33.md)
 
-| [Auxiliary junk sail](Items/Ship Parts/Shipparts-Studding-Sail/item_3653.md) | [Ship parts (auxiliary sails)](Categories/category_33.md) | 12,000 | Sail-maker |  |
+| [Auxiliary junk sail](Items/Ship Parts/Shipparts-Studding-Sail/item_3653.md) | Ship parts (auxiliary sails) | 12,000 | Sail-maker |  |
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
@@ -233,13 +228,13 @@ The pronunciation is "Hancho". It is said that Marco Polo praised the city as a 
 
 #### [Ship parts (special weapons)](Categories/category_37.md)
 
-| [Boathouse](Items/Ship Parts/Shipparts-Special-Weapons/item_3394.md) | [Ship parts (special weapons)](Categories/category_37.md) | 35,000 | weapon craftsman |  |
+| [Boathouse](Items/Ship Parts/Shipparts-Special-Weapons/item_3394.md) | Ship parts (special weapons) | 35,000 | weapon craftsman |  |
 
 #### [Ship parts (cannon)](Categories/category_38.md)
 
-| [仏郎機砲10門](Items/Ship Parts/Shipparts-Cannons/item_3393.md) | [Ship parts (cannon)](Categories/category_38.md) | 200,000 | weapon craftsman |  |
-| [仏郎機砲4門](Items/Ship Parts/Shipparts-Cannons/item_3390.md) | [Ship parts (cannon)](Categories/category_38.md) | 32,000 | weapon craftsman |  |
-| [仏郎機砲6門](Items/Ship Parts/Shipparts-Cannons/item_3391.md) | [Ship parts (cannon)](Categories/category_38.md) | 70,000 | weapon craftsman |  |
-| [仏郎機砲8門](Items/Ship Parts/Shipparts-Cannons/item_3392.md) | [Ship parts (cannon)](Categories/category_38.md) | 130,000 | weapon craftsman |  |
+| [仏郎機砲10門](Items/Ship Parts/Shipparts-Cannons/item_3393.md) | Ship parts (cannon) | 200,000 | weapon craftsman |  |
+| [仏郎機砲4門](Items/Ship Parts/Shipparts-Cannons/item_3390.md) | Ship parts (cannon) | 32,000 | weapon craftsman |  |
+| [仏郎機砲6門](Items/Ship Parts/Shipparts-Cannons/item_3391.md) | Ship parts (cannon) | 70,000 | weapon craftsman |  |
+| [仏郎機砲8門](Items/Ship Parts/Shipparts-Cannons/item_3392.md) | Ship parts (cannon) | 130,000 | weapon craftsman |  |
   </TabItem>
 </Tabs>

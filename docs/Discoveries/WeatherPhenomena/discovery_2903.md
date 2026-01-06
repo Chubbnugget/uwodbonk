@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 390 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Discovered right in front of Sakai 
+| **Remarks** | Discovered right in front of Sakai
 
  From sunny evening until sunset. Sometimes it's not even on a sunny evening. |
 | **最終更新** | 2016-08-06 00:41:03 Nicolette |

@@ -15,9 +15,7 @@ category: Insect
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 820 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Ants that carnivores fear 
-
-
+| **Remarks** | Ants that carnivores fear
 
  Discovery Experience 820 Discovery Name Card Experience 410 |
 | **最終更新** | 2016-09-14 18:29:43 Gainor |

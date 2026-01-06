@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 365 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Island near Cuba” 
+| **Remarks** | Quest “Island near Cuba”
 
  Discovery Name Card:180 |
 | **最終更新** | 2022-12-06 21:07:37 Sakon. |

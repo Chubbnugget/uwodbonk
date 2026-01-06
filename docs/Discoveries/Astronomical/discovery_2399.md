@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 440 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Stars appearing in the epic” 
+| **Remarks** | Quest “Stars appearing in the epic”
 
  Discovery Name Card:220 |
 | **最終更新** | 2022-12-05 23:05:50 Sakon. |

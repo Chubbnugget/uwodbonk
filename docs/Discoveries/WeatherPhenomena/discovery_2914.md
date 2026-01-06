@@ -10,7 +10,7 @@ category: WeatherPhenomena
 | **Discovery Type** | WeatherPhenomena |
 | **Discovery Name** | aurora |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A phenomenon in which what looks like a band of light is observed around the north and south poles. 
+| **explanation** | A phenomenon in which what looks like a band of light is observed around the north and south poles.
 
 The color varies from pale yellow to red.
 

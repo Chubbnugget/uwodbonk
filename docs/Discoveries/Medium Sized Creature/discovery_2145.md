@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | Chindken |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A medium-sized dog commonly seen in areas around the Korean Peninsula. It seems to have originated from Jindo in Korea, hence the name. 
+| **explanation** | A medium-sized dog commonly seen in areas around the Korean Peninsula. It seems to have originated from Jindo in Korea, hence the name.
  Its curly tail is adorable. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

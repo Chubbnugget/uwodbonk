@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | lapis lazuli necklace |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A necklace that has been passed down from generation to generation as an heirloom among some of the indigenous people of Taiwan. 
+| **explanation** | A necklace that has been passed down from generation to generation as an heirloom among some of the indigenous people of Taiwan.
  Lazuli beads are believed to have sacred power and are used in rituals to cure illnesses. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

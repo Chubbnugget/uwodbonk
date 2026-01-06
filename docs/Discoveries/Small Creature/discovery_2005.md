@@ -15,9 +15,7 @@ category: Small Creature
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 550 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | The sound of water echoing in the darkness of the night 
-
-
+| **Remarks** | The sound of water echoing in the darkness of the night
 
  Discovery Experience 550 Discovery Name Card Experience 275 |
 | **最終更新** | 2016-06-13 13:27:18 Gainor |

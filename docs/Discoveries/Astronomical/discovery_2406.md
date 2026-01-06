@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 930 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Giant Crab Palace Investigation” 
+| **Remarks** | Quest “Giant Crab Palace Investigation”
 
  Discovery Name Card:465 |
 | **最終更新** | 2022-10-13 19:17:17 Sakon. |

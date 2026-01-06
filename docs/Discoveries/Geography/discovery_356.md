@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | loch ness |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A lake in northern Britain. The lake is approximately 2km wide and has a very long and narrow shape. 
+| **explanation** | A lake in northern Britain. The lake is approximately 2km wide and has a very long and narrow shape.
 The blue-black sparkling color of the water is distinctive.
  Rumor has it that there is a mysterious creature living there, but it is unknown how true or false it is. |
 | **Era** |  |

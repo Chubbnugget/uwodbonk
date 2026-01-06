@@ -15,7 +15,7 @@ category: WeatherPhenomena
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 315 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Insufficient skill is displayed at visibility R7. 
+| **Remarks** | Insufficient skill is displayed at visibility R7.
 
  Confirmed discovery with visual R8. |
 | **最終更新** | 2022-02-11 09:55:03 Chaim@Guest |

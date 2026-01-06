@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | moon shaped stone pillar |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A pillar about 20cm thick that was left at the site of an ancient cultural village on the island of Taiwan. 
+| **explanation** | A pillar about 20cm thick that was left at the site of an ancient cultural village on the island of Taiwan.
  There are various theories, including that it was a stone used for rituals, and that it was a wall of a building. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

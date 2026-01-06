@@ -15,7 +15,7 @@ category: Large Creature
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 1040 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "King of Beasts" 
+| **Remarks** | Quest "King of Beasts"
 
  Discovery Name Card:520 |
 | **最終更新** | 2022-12-22 19:49:53 Sakon. |

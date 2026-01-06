@@ -15,7 +15,7 @@ category: Small Creature
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 2 (Rank of skills required for discovery) |
 | **Experience** | 80 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | catch the salamander 
+| **Remarks** | catch the salamander
 
 It seems to be a rare Discovery Name.
 

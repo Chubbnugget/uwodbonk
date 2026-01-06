@@ -10,14 +10,14 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Wrangel Island |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A small island floating in the Chukchi Sea. 
+| **explanation** | A small island floating in the Chukchi Sea.
 
  It is home to many animals from the far north, and is visited by migratory birds during the summer. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 650 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Far North Biology Research Site” 
+| **Remarks** | Quest “Far North Biology Research Site”
 
  Discovery Name Card:325 |
 | **最終更新** | 2022-11-28 22:22:51 Passing navigator @guest |

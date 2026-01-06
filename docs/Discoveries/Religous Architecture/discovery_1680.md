@@ -10,7 +10,7 @@ category: Religous Architecture
 | **Discovery Type** | Religous Architecture |
 | **Discovery Name** | Leshan Big Buddha |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A stone-carved seated Buddha about 70m high carved into the west wall of a mountain in Sichuan. It was created to pray for flood control and safe navigation. 
+| **explanation** | A stone-carved seated Buddha about 70m high carved into the west wall of a mountain in Sichuan. It was created to pray for flood control and safe navigation.
  When it was first completed, its entire body was painted gold. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

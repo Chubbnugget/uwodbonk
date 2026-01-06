@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 820 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Stars made in France” 
+| **Remarks** | Quest “Stars made in France”
 
  Discovery Name Card:410 |
 | **最終更新** | 2022-11-30 15:26:30 Passing navigator @guest |

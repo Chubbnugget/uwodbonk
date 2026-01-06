@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | xanadu |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A city in the southern part of the Mongolian Plateau. It was built by the emperor of the Yuan Dynasty and served as the capital during the summer. 
+| **explanation** | A city in the southern part of the Mongolian Plateau. It was built by the emperor of the Yuan Dynasty and served as the capital during the summer.
  It was described in "Touhou Kenroku" as an elegant city with the highest level of technology, and became the object of admiration for many navigators. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Southern pond turtle |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A nocturnal turtle that is distributed over a wide area of ​​China. During the day they spend their time in the mud and burrows on the bottom of the water. 
+| **explanation** | A nocturnal turtle that is distributed over a wide area of ​​China. During the day they spend their time in the mud and burrows on the bottom of the water.
  They can be quite aggressive, such as biting other individuals. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

@@ -15,7 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 350 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Monkey ecology survey” 
+| **Remarks** | Quest “Monkey ecology survey”
 
  Discovery Name Card:175 |
 | **最終更新** | 2022-11-27 16:23:05 Sakon. |

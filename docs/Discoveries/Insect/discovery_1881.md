@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | Yonagunisan |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A large moth that is widely distributed from India to East Asia. Japan is the northernmost point of distribution. 
+| **explanation** | A large moth that is widely distributed from India to East Asia. Japan is the northernmost point of distribution.
  They do not have mouths and cannot eat any food after emerging. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

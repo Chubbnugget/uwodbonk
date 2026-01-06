@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 15 (Rank of skills required for discovery) |
 | **Experience** | 1410 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Legendary Spirit Beast” 
+| **Remarks** | Quest “Legendary Spirit Beast”
 
  Discovery Name Card:705 |
 | **最終更新** | 2022-11-20 21:24:21 Sakon. |

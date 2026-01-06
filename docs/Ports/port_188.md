@@ -3,7 +3,6 @@ id: 188
 name: Hawaii
 type: Port
 ---
-
 # Port: ハワイ
 
 import Tabs from '@theme/Tabs';
@@ -38,7 +37,6 @@ import TabItem from '@theme/TabItem';
 ### Description
 2013/4/2 Added in 2nd Age Chapter 3 "Conquering Emperor". 2013/07/02 Upgraded to town in 2nd Age Chapter 4 “Northern Hunter”
 
-
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
@@ -67,25 +65,25 @@ import TabItem from '@theme/TabItem';
 
 #### [交易品（繊維）](Categories/category_1.md)
 
-| [deerskin](Items/Trade Goods/TradeGoods-Fibers/item_3648.md) | [交易品（繊維）](Categories/category_1.md) | (4,655) | 5,431 |  |
+| [deerskin](Items/Trade Goods/TradeGoods-Fibers/item_3648.md) | 交易品（繊維） | (4,655) | 5,431 |  |
 
 #### [Trading goods (hobby goods)](Categories/category_10.md)
 
-| [raspberry](Items/Trade Goods/TradeGoods-Sunddries/item_5419.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 2,410 | (2,711) |  |
+| [raspberry](Items/Trade Goods/TradeGoods-Sunddries/item_5419.md) | Trading goods (hobby goods) | 2,410 | (2,711) |  |
 
 #### [Trading Goods (Spices)](Categories/category_12.md)
 
-| [cloves](Items/Trade Goods/TradeGoods-Spices/item_1092.md) | [Trading Goods (Spices)](Categories/category_12.md) | (492) | 574 |  |
-| [nutmeg](Items/Trade Goods/TradeGoods-Spices/item_1969.md) | [Trading Goods (Spices)](Categories/category_12.md) | (517) | 603 |  |
-| [mace](Items/Trade Goods/TradeGoods-Spices/item_2100.md) | [Trading Goods (Spices)](Categories/category_12.md) | (679) | 792 |  |
+| [cloves](Items/Trade Goods/TradeGoods-Spices/item_1092.md) | Trading Goods (Spices) | (492) | 574 |  |
+| [nutmeg](Items/Trade Goods/TradeGoods-Spices/item_1969.md) | Trading Goods (Spices) | (517) | 603 |  |
+| [mace](Items/Trade Goods/TradeGoods-Spices/item_2100.md) | Trading Goods (Spices) | (679) | 792 |  |
 
 #### [Trading goods (artificial goods)](Categories/category_13.md)
 
-| [glasswork](Items/Trade Goods/TradeGoods-Luxuries/item_60.md) | [Trading goods (artificial goods)](Categories/category_13.md) | 3,158 | (3,553) |  |
+| [glasswork](Items/Trade Goods/TradeGoods-Luxuries/item_60.md) | Trading goods (artificial goods) | 3,158 | (3,553) |  |
 
 #### [Trading Items (Arms)](Categories/category_16.md)
 
-| [Japanese sword](Items/Trade Goods/TradeGoods-Weapons/item_3437.md) | [Trading Items (Arms)](Categories/category_16.md) | (4,374) | 5,103 |  |
+| [Japanese sword](Items/Trade Goods/TradeGoods-Weapons/item_3437.md) | Trading Items (Arms) | (4,374) | 5,103 |  |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
@@ -107,27 +105,27 @@ import TabItem from '@theme/TabItem';
 
 #### [recipe book](Categories/category_22.md)
 
-| [Traditional cuisine of tropical islands Volume 1](Items/Recipe Book/item_4698.md) | [recipe book](Categories/category_22.md) | 100,000 | tool shop owner |  |
+| [Traditional cuisine of tropical islands Volume 1](Items/Recipe Book/item_4698.md) | recipe book | 100,000 | tool shop owner |  |
 
 #### [Equipment (belongings)](Categories/category_27.md)
 
-| [木槍](Items/Equipment/Equipment-Weapon/item_438.md) | [Equipment (belongings)](Categories/category_27.md) | 34,400 | tool shop owner |  |
-| [hunter's spear](Items/Equipment/Equipment-Weapon/item_655.md) | [Equipment (belongings)](Categories/category_27.md) | 38,700 | tool shop owner |  |
+| [木槍](Items/Equipment/Equipment-Weapon/item_438.md) | Equipment (belongings) | 34,400 | tool shop owner |  |
+| [hunter's spear](Items/Equipment/Equipment-Weapon/item_655.md) | Equipment (belongings) | 38,700 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [boomerang](Items/Consumables/Consumables-Landbattle/item_454.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 150 | tool shop owner |  |
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 200 | tool shop owner |  |
-| [catapult](Items/Consumables/Consumables-Landbattle/item_311.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 30 | tool shop owner |  |
-| [Assortment of therapeutic drugs](Items/Consumables/Consumables-Landbattle/item_564.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 900 | tool shop owner |  |
-| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 600 | tool shop owner |  |
+| [boomerang](Items/Consumables/Consumables-Landbattle/item_454.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [catapult](Items/Consumables/Consumables-Landbattle/item_311.md) | Consumables (land battle/deck battle) | 30 | tool shop owner |  |
+| [Assortment of therapeutic drugs](Items/Consumables/Consumables-Landbattle/item_564.md) | Consumables (land battle/deck battle) | 900 | tool shop owner |  |
+| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | [Consumables (skill activation)](Categories/category_31.md) | 2,500 | tool shop owner |  |
+| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
 
 #### [Consumables (request documents)](Categories/category_45.md)
 
-| [Pharmaceutical purchase order](Items/Consumables/Consumables-Documents/item_4924.md) | [Consumables (request documents)](Categories/category_45.md) | 20,000 | tool shop owner |  |
+| [Pharmaceutical purchase order](Items/Consumables/Consumables-Documents/item_4924.md) | Consumables (request documents) | 20,000 | tool shop owner |  |
   </TabItem>
 </Tabs>

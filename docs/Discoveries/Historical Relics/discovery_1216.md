@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Flamengo |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | One of Portugal's East India trading ships. 
+| **explanation** | One of Portugal's East India trading ships.
  On her way back from India, she weathered a storm off the coast of the Cape of Good Hope, but was wrecked off the coast of Sao Tome and sank. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

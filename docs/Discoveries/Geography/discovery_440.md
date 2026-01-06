@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 473 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “A River Named Big River” 
+| **Remarks** | Quest “A River Named Big River”
 
  Discovery Name Card:235 |
 | **最終更新** | 2022-12-09 00:08:14 Sakon. |

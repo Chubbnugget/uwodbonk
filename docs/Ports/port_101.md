@@ -3,7 +3,6 @@ id: 101
 name: danzig
 type: Port
 ---
-
 # Port: ダンツィヒ
 
 import Tabs from '@theme/Tabs';
@@ -38,7 +37,6 @@ import TabItem from '@theme/TabItem';
 ### Description
 A city built around the 10th century. In the 14th century, it also joined the Hanseatic League. Due to its active shipbuilding industry, it established itself as a shipbuilding city. Cultural area: Northern Europe
 
-
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
@@ -66,48 +64,48 @@ A city built around the 10th century. In the 14th century, it also joined the Ha
 
 #### [交易品（雑貨）](Categories/category_5.md)
 
-| [old ink stick](Items/Trade Goods/TradeGoods-Misc/item_3921.md) | [交易品（雑貨）](Categories/category_5.md) | (37,451) | 43,700 |  |
+| [old ink stick](Items/Trade Goods/TradeGoods-Misc/item_3921.md) | 交易品（雑貨） | (37,451) | 43,700 |  |
 
 #### [Trading goods (hobby goods)](Categories/category_10.md)
 
-| [black tea](Items/Trade Goods/TradeGoods-Sunddries/item_675.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 2,780 | (3,127) |  |
+| [black tea](Items/Trade Goods/TradeGoods-Sunddries/item_675.md) | Trading goods (hobby goods) | 2,780 | (3,127) |  |
 
 #### [Trading Goods (Spices)](Categories/category_11.md)
 
-| [jasmine](Items/Trade Goods/TradeGoods-Perfume/item_772.md) | [Trading Goods (Spices)](Categories/category_11.md) | 6,809 | (7,660) |  |
-| [geranium](Items/Trade Goods/TradeGoods-Perfume/item_145.md) | [Trading Goods (Spices)](Categories/category_11.md) | 1,300 | (1,462) |  |
-| [sandalwood](Items/Trade Goods/TradeGoods-Perfume/item_771.md) | [Trading Goods (Spices)](Categories/category_11.md) | 4,683 | (5,268) |  |
+| [jasmine](Items/Trade Goods/TradeGoods-Perfume/item_772.md) | Trading Goods (Spices) | 6,809 | (7,660) |  |
+| [geranium](Items/Trade Goods/TradeGoods-Perfume/item_145.md) | Trading Goods (Spices) | 1,300 | (1,462) |  |
+| [sandalwood](Items/Trade Goods/TradeGoods-Perfume/item_771.md) | Trading Goods (Spices) | 4,683 | (5,268) |  |
 
 #### [Trading goods (artificial goods)](Categories/category_13.md)
 
-| [Tumbaga](Items/Trade Goods/TradeGoods-Luxuries/item_3028.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (21,004) | 24,508 |  |
+| [Tumbaga](Items/Trade Goods/TradeGoods-Luxuries/item_3028.md) | Trading goods (artificial goods) | (21,004) | 24,508 |  |
 
 #### [交易品（美術品）](Categories/category_14.md)
 
-| [oil painting](Items/Trade Goods/TradeGoods-Art/item_1088.md) | [交易品（美術品）](Categories/category_14.md) | (2,237) | 2,610 |  |
+| [oil painting](Items/Trade Goods/TradeGoods-Art/item_1088.md) | 交易品（美術品） | (2,237) | 2,610 |  |
 
 #### [Trading Items (Gemstones)](Categories/category_15.md)
 
-| [aventurine](Items/Trade Goods/TradeGoods-Gems/item_678.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 6,110 | 6,510 |  |
-| [opal](Items/Trade Goods/TradeGoods-Gems/item_2006.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 7,655 | (8,612) |  |
-| [cat's eye](Items/Trade Goods/TradeGoods-Gems/item_1047.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 10,500 | 11,200 |  |
-| [sapphire](Items/Trade Goods/TradeGoods-Gems/item_676.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 12,800 | 13,500 |  |
-| [diamond](Items/Trade Goods/TradeGoods-Gems/item_449.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 8,977 | (10,100) |  |
-| [pink diamond](Items/Trade Goods/TradeGoods-Gems/item_2874.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 14,673 | (16,508) |  |
+| [aventurine](Items/Trade Goods/TradeGoods-Gems/item_678.md) | Trading Items (Gemstones) | 6,110 | 6,510 |  |
+| [opal](Items/Trade Goods/TradeGoods-Gems/item_2006.md) | Trading Items (Gemstones) | 7,655 | (8,612) |  |
+| [cat's eye](Items/Trade Goods/TradeGoods-Gems/item_1047.md) | Trading Items (Gemstones) | 10,500 | 11,200 |  |
+| [sapphire](Items/Trade Goods/TradeGoods-Gems/item_676.md) | Trading Items (Gemstones) | 12,800 | 13,500 |  |
+| [diamond](Items/Trade Goods/TradeGoods-Gems/item_449.md) | Trading Items (Gemstones) | 8,977 | (10,100) |  |
+| [pink diamond](Items/Trade Goods/TradeGoods-Gems/item_2874.md) | Trading Items (Gemstones) | 14,673 | (16,508) |  |
 
 #### [Trading Items (Arms)](Categories/category_16.md)
 
-| [damascus sword](Items/Trade Goods/TradeGoods-Weapons/item_903.md) | [Trading Items (Arms)](Categories/category_16.md) | (6,721) | 7,842 |  |
+| [damascus sword](Items/Trade Goods/TradeGoods-Weapons/item_903.md) | Trading Items (Arms) | (6,721) | 7,842 |  |
 
 #### [交易品（工業品）](Categories/category_19.md)
 
-| [Japanese paper](Items/Trade Goods/TradeGoods-Wares/item_3438.md) | [交易品（工業品）](Categories/category_19.md) | (24,768) | 28,900 |  |
-| [羊皮紙](Items/Trade Goods/TradeGoods-Wares/item_53.md) | [交易品（工業品）](Categories/category_19.md) | 1,620 | (1,822) |  |
+| [Japanese paper](Items/Trade Goods/TradeGoods-Wares/item_3438.md) | 交易品（工業品） | (24,768) | 28,900 |  |
+| [羊皮紙](Items/Trade Goods/TradeGoods-Wares/item_53.md) | 交易品（工業品） | 1,620 | (1,822) |  |
 
 #### [交易品（織物）](Categories/category_20.md)
 
-| [Awaiyo](Items/Trade Goods/TradeGoods-Fabrics/item_3002.md) | [交易品（織物）](Categories/category_20.md) | (10,360) | 12,088 |  |
-| [damask](Items/Trade Goods/TradeGoods-Fabrics/item_614.md) | [交易品（織物）](Categories/category_20.md) | 6,435 | (7,240) |  |
+| [Awaiyo](Items/Trade Goods/TradeGoods-Fabrics/item_3002.md) | 交易品（織物） | (10,360) | 12,088 |  |
+| [damask](Items/Trade Goods/TradeGoods-Fabrics/item_614.md) | 交易品（織物） | 6,435 | (7,240) |  |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
@@ -116,51 +114,51 @@ A city built around the 10th century. In the 14th century, it also joined the Ha
 
 #### [交易品（繊維）](Categories/category_1.md)
 
-| [flax](Items/Trade Goods/TradeGoods-Fibers/item_64.md) | [交易品（繊維）](Categories/category_1.md) | 243 | 254 |  |
+| [flax](Items/Trade Goods/TradeGoods-Fibers/item_64.md) | 交易品（繊維） | 243 | 254 |  |
 | ▲Special products from the same cultural area |
-| [raw silk](Items/Trade Goods/TradeGoods-Fibers/item_677.md) | [交易品（繊維）](Categories/category_1.md) | 2,256 | (2,538) |  |
-| [feather](Items/Trade Goods/TradeGoods-Fibers/item_585.md) | [交易品（繊維）](Categories/category_1.md) | 658 | (740) |  |
+| [raw silk](Items/Trade Goods/TradeGoods-Fibers/item_677.md) | 交易品（繊維） | 2,256 | (2,538) |  |
+| [feather](Items/Trade Goods/TradeGoods-Fibers/item_585.md) | 交易品（繊維） | 658 | (740) |  |
 
 #### [Trading products (medical products)](Categories/category_6.md)
 
-| [Maca](Items/Trade Goods/TradeGoods-Medicine/item_3000.md) | [Trading products (medical products)](Categories/category_6.md) | (1,911) | 2,229 |  |
+| [Maca](Items/Trade Goods/TradeGoods-Medicine/item_3000.md) | Trading products (medical products) | (1,911) | 2,229 |  |
 
 #### [Trading products (precious metals)](Categories/category_8.md)
 
-| [gold](Items/Trade Goods/TradeGoods-Metals/item_659.md) | [Trading products (precious metals)](Categories/category_8.md) | (7,762) | 9,057 |  |
-| [silver](Items/Trade Goods/TradeGoods-Metals/item_136.md) | [Trading products (precious metals)](Categories/category_8.md) | 2,807 | (3,158) |  |
+| [gold](Items/Trade Goods/TradeGoods-Metals/item_659.md) | Trading products (precious metals) | (7,762) | 9,057 |  |
+| [silver](Items/Trade Goods/TradeGoods-Metals/item_136.md) | Trading products (precious metals) | 2,807 | (3,158) |  |
 
 #### [交易品（酒類）](Categories/category_9.md)
 
-| [aquavit](Items/Trade Goods/TradeGoods-Alcohol/item_572.md) | [交易品（酒類）](Categories/category_9.md) | 585 | (658) |  |
+| [aquavit](Items/Trade Goods/TradeGoods-Alcohol/item_572.md) | 交易品（酒類） | 585 | (658) |  |
 | ▲Special products from the same cultural area |
-| [whiskey](Items/Trade Goods/TradeGoods-Alcohol/item_1.md) | [交易品（酒類）](Categories/category_9.md) | 700 | (787) |  |
+| [whiskey](Items/Trade Goods/TradeGoods-Alcohol/item_1.md) | 交易品（酒類） | 700 | (787) |  |
 | ▲Special products from neighboring cultural areas |
-| [Beer](Items/Trade Goods/TradeGoods-Alcohol/item_2.md) | [交易品（酒類）](Categories/category_9.md) | (281) | 327 |  |
+| [Beer](Items/Trade Goods/TradeGoods-Alcohol/item_2.md) | 交易品（酒類） | (281) | 327 |  |
 
 #### [Trading goods (artificial goods)](Categories/category_13.md)
 
-| [lapidary work](Items/Trade Goods/TradeGoods-Luxuries/item_153.md) | [Trading goods (artificial goods)](Categories/category_13.md) | 3,900 | (4,387) |  |
-| [goldsmith](Items/Trade Goods/TradeGoods-Luxuries/item_687.md) | [Trading goods (artificial goods)](Categories/category_13.md) | 5,817 | (6,544) |  |
+| [lapidary work](Items/Trade Goods/TradeGoods-Luxuries/item_153.md) | Trading goods (artificial goods) | 3,900 | (4,387) |  |
+| [goldsmith](Items/Trade Goods/TradeGoods-Luxuries/item_687.md) | Trading goods (artificial goods) | 5,817 | (6,544) |  |
 
 #### [Trading Items (Gemstones)](Categories/category_15.md)
 
-| [pearl](Items/Trade Goods/TradeGoods-Gems/item_769.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 11,569 | 12,599 |  |
-| [ivory](Items/Trade Goods/TradeGoods-Gems/item_699.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 4,120 | 4,330 |  |
+| [pearl](Items/Trade Goods/TradeGoods-Gems/item_769.md) | Trading Items (Gemstones) | 11,569 | 12,599 |  |
+| [ivory](Items/Trade Goods/TradeGoods-Gems/item_699.md) | Trading Items (Gemstones) | 4,120 | 4,330 |  |
 
 #### [Trading Items (Arms)](Categories/category_16.md)
 
-| [western armor](Items/Trade Goods/TradeGoods-Weapons/item_6.md) | [Trading Items (Arms)](Categories/category_16.md) | 2,852 | (3,208) |  |
+| [western armor](Items/Trade Goods/TradeGoods-Weapons/item_6.md) | Trading Items (Arms) | 2,852 | (3,208) |  |
 | ▲Special products from neighboring cultural areas |
 
 #### [交易品（工業品）](Categories/category_19.md)
 
-| [sulfur](Items/Trade Goods/TradeGoods-Wares/item_66.md) | [交易品（工業品）](Categories/category_19.md) | 413 | (464) |  |
-| [鋼](Items/Trade Goods/TradeGoods-Wares/item_573.md) | [交易品（工業品）](Categories/category_19.md) | 1,260 | (1,417) |  |
+| [sulfur](Items/Trade Goods/TradeGoods-Wares/item_66.md) | 交易品（工業品） | 413 | (464) |  |
+| [鋼](Items/Trade Goods/TradeGoods-Wares/item_573.md) | 交易品（工業品） | 1,260 | (1,417) |  |
 
 #### [交易品（織物）](Categories/category_20.md)
 
-| [satin](Items/Trade Goods/TradeGoods-Fabrics/item_996.md) | [交易品（織物）](Categories/category_20.md) | 4,370 | (4,916) |  |
+| [satin](Items/Trade Goods/TradeGoods-Fabrics/item_996.md) | 交易品（織物） | 4,370 | (4,916) |  |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
@@ -179,21 +177,21 @@ A city built around the 10th century. In the 14th century, it also joined the Ha
 
 #### [recipe book](Categories/category_22.md)
 
-| [Spear training/application](Items/Recipe Book/item_1141.md) | [recipe book](Categories/category_22.md) | 50,000 | tool shop owner |  |
+| [Spear training/application](Items/Recipe Book/item_1141.md) | recipe book | 50,000 | tool shop owner |  |
 | 要投資（必要投資額：500,000） |
 
 #### [Equipment (belongings)](Categories/category_27.md)
 
-| [snap lock shooting gun](Items/Equipment/Equipment-Weapon/item_267.md) | [Equipment (belongings)](Categories/category_27.md) | 8,000 | tool shop owner |  |
+| [snap lock shooting gun](Items/Equipment/Equipment-Weapon/item_267.md) | Equipment (belongings) | 8,000 | tool shop owner |  |
 
 #### [Consumables (land battle/deck battle)](Categories/category_29.md)
 
-| [poison](Items/Consumables/Consumables-Landbattle/item_269.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 250 | tool shop owner |  |
-| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 100 | tool shop owner |  |
+| [poison](Items/Consumables/Consumables-Landbattle/item_269.md) | Consumables (land battle/deck battle) | 250 | tool shop owner |  |
+| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | [Consumables (skill activation)](Categories/category_31.md) | 2,500 | tool shop owner |  |
+| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
@@ -202,19 +200,18 @@ A city built around the 10th century. In the 14th century, it also joined the Ha
 
 #### [Consumables (condition recovery)](Categories/category_21.md)
 
-| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
-| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
+| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
+| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
 
 #### [recipe book](Categories/category_22.md)
 
-| [Marine life sculpture](Items/Recipe Book/item_273.md) | [recipe book](Categories/category_22.md) | 10,000 | workshop craftsman |  |
+| [Marine life sculpture](Items/Recipe Book/item_273.md) | recipe book | 10,000 | workshop craftsman |  |
 
 #### [Consumables (skill activation)](Categories/category_31.md)
 
-| [四分儀](Items/Consumables/Consumables-Skill/item_346.md) | [Consumables (skill activation)](Categories/category_31.md) | 500 | workshop craftsman |  |
+| [四分儀](Items/Consumables/Consumables-Skill/item_346.md) | Consumables (skill activation) | 500 | workshop craftsman |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
-
 
 ### Shipyard Master
 
@@ -223,20 +220,20 @@ A city built around the 10th century. In the 14th century, it also joined the Ha
 
 #### [Boat](Categories/category_43.md)
 
-| [2 mast cogs](Items/Ships/item_265.md) | [Boat](Categories/category_43.md) | 96,000 | Shipyard Master |  |
-| [warwick cog](Items/Ships/item_336.md) | [Boat](Categories/category_43.md) | 230,000 | Shipyard Master |  |
-| [carrack](Items/Ships/item_236.md) | [Boat](Categories/category_43.md) | 720,000 | Shipyard Master |  |
-| [Hansa Cog](Items/Ships/item_263.md) | [Boat](Categories/category_43.md) | 24,000 | Shipyard Master |  |
-| [Varsha](Items/Ships/item_201.md) | [Boat](Categories/category_43.md) | 2,000 | Shipyard Master |  |
-| [hooker](Items/Ships/item_335.md) | [Boat](Categories/category_43.md) | 220,000 | Shipyard Master |  |
-| [commercial carrack](Items/Ships/item_239.md) | [Boat](Categories/category_43.md) | 728,000 | Shipyard Master |  |
-| [commercial large carrack](Items/Ships/item_409.md) | [Boat](Categories/category_43.md) | 1,840,000 | Shipyard Master |  |
-| [large carrack](Items/Ships/item_408.md) | [Boat](Categories/category_43.md) | 1,800,000 | Shipyard Master |  |
-| [small carrack](Items/Ships/item_219.md) | [Boat](Categories/category_43.md) | 480,000 | Shipyard Master |  |
-| [small caravel](Items/Ships/item_206.md) | [Boat](Categories/category_43.md) | 92,000 | Shipyard Master |  |
-| [combat carrack](Items/Ships/item_238.md) | [Boat](Categories/category_43.md) | 720,000 | Shipyard Master |  |
-| [armed cog](Items/Ships/item_264.md) | [Boat](Categories/category_43.md) | 25,000 | Shipyard Master |  |
-| [light caravelle](Items/Ships/item_207.md) | [Boat](Categories/category_43.md) | 92,000 | Shipyard Master |  |
-| [transport carrack](Items/Ships/item_222.md) | [Boat](Categories/category_43.md) | 488,000 | Shipyard Master |  |
+| [2 mast cogs](Items/Ships/item_265.md) | Boat | 96,000 | Shipyard Master |  |
+| [warwick cog](Items/Ships/item_336.md) | Boat | 230,000 | Shipyard Master |  |
+| [carrack](Items/Ships/item_236.md) | Boat | 720,000 | Shipyard Master |  |
+| [Hansa Cog](Items/Ships/item_263.md) | Boat | 24,000 | Shipyard Master |  |
+| [Varsha](Items/Ships/item_201.md) | Boat | 2,000 | Shipyard Master |  |
+| [hooker](Items/Ships/item_335.md) | Boat | 220,000 | Shipyard Master |  |
+| [commercial carrack](Items/Ships/item_239.md) | Boat | 728,000 | Shipyard Master |  |
+| [commercial large carrack](Items/Ships/item_409.md) | Boat | 1,840,000 | Shipyard Master |  |
+| [large carrack](Items/Ships/item_408.md) | Boat | 1,800,000 | Shipyard Master |  |
+| [small carrack](Items/Ships/item_219.md) | Boat | 480,000 | Shipyard Master |  |
+| [small caravel](Items/Ships/item_206.md) | Boat | 92,000 | Shipyard Master |  |
+| [combat carrack](Items/Ships/item_238.md) | Boat | 720,000 | Shipyard Master |  |
+| [armed cog](Items/Ships/item_264.md) | Boat | 25,000 | Shipyard Master |  |
+| [light caravelle](Items/Ships/item_207.md) | Boat | 92,000 | Shipyard Master |  |
+| [transport carrack](Items/Ships/item_222.md) | Boat | 488,000 | Shipyard Master |  |
   </TabItem>
 </Tabs>

@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | America Fuji |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A type of Fuji that is distributed in southern North America. 
+| **explanation** | A type of Fuji that is distributed in southern North America.
  The flowers are smaller than this species, and the inflorescence is about 15 cm long. |
 | **Era** |  |
 | **Deck Points** | 2 (Required Deck Points for debate deck) |

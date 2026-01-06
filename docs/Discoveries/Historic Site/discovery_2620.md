@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | Walled City of the Knights of Rhodes |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A fortified city built on the island of Rhodes by the Knights of St. John, who lost their home base. 
+| **explanation** | A fortified city built on the island of Rhodes by the Knights of St. John, who lost their home base.
 
  The 12m high castle wall that surrounds the entire city is 4km long and is said to have repelled enemy attacks many times. |
 | **Era** |  |

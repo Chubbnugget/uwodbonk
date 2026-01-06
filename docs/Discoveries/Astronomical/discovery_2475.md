@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 520 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Retrograde Stars” 
+| **Remarks** | Quest “Retrograde Stars”
 
  Discovery Name Card:260 |
 | **最終更新** | 2022-10-30 15:49:50 Sakon. |

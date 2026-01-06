@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Zion |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A pale purple flower that blooms in autumn and is native to a wide range of regions including China and Korea. It is called ``Shien'' because of its appearance. 
+| **explanation** | A pale purple flower that blooms in autumn and is native to a wide range of regions including China and Korea. It is called ``Shien'' because of its appearance.
  Zion root is also used as a Chinese herbal medicine. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

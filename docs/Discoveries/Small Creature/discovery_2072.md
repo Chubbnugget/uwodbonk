@@ -10,7 +10,7 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | Mara |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A rat that lives in the grasslands of South America. Move by jumping up and down. Males and females always travel together and remain as a pair for life. 
+| **explanation** | A rat that lives in the grasslands of South America. Move by jumping up and down. Males and females always travel together and remain as a pair for life.
  Also, males are very obedient to females. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

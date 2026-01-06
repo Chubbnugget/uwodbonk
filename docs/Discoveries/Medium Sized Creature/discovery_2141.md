@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | Taiwan hub |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A highly venomous snake that lives mainly on Taiwan Island and China. Their faces are long and slender, and they have long fangs, so when bitten, the poison travels deep into the body. 
+| **explanation** | A highly venomous snake that lives mainly on Taiwan Island and China. Their faces are long and slender, and they have long fangs, so when bitten, the poison travels deep into the body.
  It is mostly active in trees and is nocturnal. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

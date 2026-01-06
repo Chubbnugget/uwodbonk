@@ -15,9 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 480 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | four-eyed deer 
-
-
+| **Remarks** | four-eyed deer
 
 Discovery Experience 480 Discovery Name Card Experience 240
 

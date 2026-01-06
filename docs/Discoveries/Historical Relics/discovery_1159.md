@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Soren |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A ship of the Swedish fleet that participated in the battle between Poland and Sweden off the coast of Danzig. 
+| **explanation** | A ship of the Swedish fleet that participated in the battle between Poland and Sweden off the coast of Danzig.
  When he was attacked by the flagship of the Polish fleet and was about to be captured, he blew up the ship himself and sank it. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

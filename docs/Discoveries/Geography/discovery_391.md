@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Cape Farvel |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A cape located at the southernmost tip of Greenland. 
+| **explanation** | A cape located at the southernmost tip of Greenland.
  Most of Greenland is covered in ice and snow, but in summer you can see the land along the coast, such as these capes. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

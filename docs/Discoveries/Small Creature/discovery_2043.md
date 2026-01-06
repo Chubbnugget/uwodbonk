@@ -15,9 +15,7 @@ category: Small Creature
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 220 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | flying lizard 
-
-
+| **Remarks** | flying lizard
 
  Discovery Experience 220 Discovery Name Card Experience 110 |
 | **最終更新** | 2016-07-26 12:30:58 Gainor |

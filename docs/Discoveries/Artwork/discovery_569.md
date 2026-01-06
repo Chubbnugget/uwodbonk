@@ -15,7 +15,7 @@ category: Artwork
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 220 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Da Vinci's first masterpiece" 
+| **Remarks** | Quest "Da Vinci's first masterpiece"
 
  Discovery Name Card:110 |
 | **最終更新** | 2022-11-23 09:28:22 Sakon. |

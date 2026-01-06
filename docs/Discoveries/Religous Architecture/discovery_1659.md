@@ -10,7 +10,7 @@ category: Religous Architecture
 | **Discovery Type** | Religous Architecture |
 | **Discovery Name** | sphinx of giza |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A huge statue sitting next to the Pyramid of Giza. He has the face of a pharaoh and the body of a lion. In ancient Egypt, it was considered to be the embodiment of the greatness of the pharaoh. 
+| **explanation** | A huge statue sitting next to the Pyramid of Giza. He has the face of a pharaoh and the body of a lion. In ancient Egypt, it was considered to be the embodiment of the greatness of the pharaoh.
  In Greek mythology, it is said to be a monster with the face of a woman, the body of a lion, and the wings of an eagle. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

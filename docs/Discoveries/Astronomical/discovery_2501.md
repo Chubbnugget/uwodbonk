@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 5 (Rank of skills required for discovery) |
 | **Experience** | 340 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “What lies between parent and child” 
+| **Remarks** | Quest “What lies between parent and child”
 
  Discovery Name Card:170 |
 | **最終更新** | 2022-11-03 22:01:37 Sakon. |

@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 10 (Rank of skills required for discovery) |
 | **Experience** | 770 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Legendary Doctor" 
+| **Remarks** | Quest "Legendary Doctor"
 
  Discovery Name Card:375 |
 | **最終更新** | 2022-11-23 18:52:53 Sakon. |

@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | mural painted with handprints |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | Cave paintings created by indigenous people. It means ``Cave of Many Hands''. 
+| **explanation** | Cave paintings created by indigenous people. It means ``Cave of Many Hands''.
  In addition to the handprints left with red pigment, there are also paintings depicting wild animals found in the area. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

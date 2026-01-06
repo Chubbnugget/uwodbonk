@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 504 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Hawaiian Snow God” 
+| **Remarks** | Quest “Hawaiian Snow God”
 
  Discovery Name Card:250 |
 | **最終更新** | 2022-12-04 22:35:15 Sakon. |

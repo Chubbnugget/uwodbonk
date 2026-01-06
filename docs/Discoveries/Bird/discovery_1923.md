@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Kinkei |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A bird that lives in the mountains of southwestern China. It has a flashy appearance with red and shiny gold as its main colors. 
+| **explanation** | A bird that lives in the mountains of southwestern China. It has a flashy appearance with red and shiny gold as its main colors.
  They are very cautious, good at hiding and are rarely seen. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

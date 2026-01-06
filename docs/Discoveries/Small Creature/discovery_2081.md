@@ -10,7 +10,7 @@ category: Small Creature
 | **Discovery Type** | Small Creature |
 | **Discovery Name** | European lizard |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A small lizard commonly found on the islands of the Galapagos Islands. Each island looks a little different. 
+| **explanation** | A small lizard commonly found on the islands of the Galapagos Islands. Each island looks a little different.
 
  Males are larger, and females have a bright red throat. |
 | **Era** |  |

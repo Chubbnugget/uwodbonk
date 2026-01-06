@@ -3,49 +3,42 @@ id: 4
 name: merchant guild
 type: NPC
 ---
-
 # NPC: 商人ギルド
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | merchant guild |  
-| **Notes** | Introducing merchant quests. 
- Also, the guild master handles skills. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | merchant guild |
+| **Notes** | Introducing merchant quests.
+ Also, the guild master handles skills. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | merchant guild |  
-| **Notes** | Introducing merchant quests. 
- Also, the guild master handles skills. |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | merchant guild |
+| **Notes** | Introducing merchant quests.
+ Also, the guild master handles skills. |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Arabic](Skills/Skills-Language/item_440.md) | [Skills (Language)](Categories/category_42.md) | 10,000 | [Genoa](Ports/port_11.md) |
 | [Greek](Skills/Skills-Language/item_604.md) | [Skills (Language)](Categories/category_42.md) | 6,000 | [Naples](Ports/port_60.md) |
 | [Turkish](Skills/Skills-Language/item_602.md) | [Skills (Language)](Categories/category_42.md) | 10,000 | [Tunis](Ports/port_46.md) |
@@ -71,8 +64,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Arabic](Skills/Skills-Language/item_440.md) | [Skills (Language)](Categories/category_42.md) | 10,000 | [Genoa](Ports/port_11.md) |
 | [Greek](Skills/Skills-Language/item_604.md) | [Skills (Language)](Categories/category_42.md) | 6,000 | [Naples](Ports/port_60.md) |
 | [Turkish](Skills/Skills-Language/item_602.md) | [Skills (Language)](Categories/category_42.md) | 10,000 | [Tunis](Ports/port_46.md) |

@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | jade cicada |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | The pronunciation is "Gyokusen". A cicada-shaped burial ball from the Shang Dynasty. 
+| **explanation** | The pronunciation is "Gyokusen". A cicada-shaped burial ball from the Shang Dynasty.
  In ancient times, it was believed that if a corpse was buried with all its holes covered with funerary beads, it would prevent it from decomposing. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

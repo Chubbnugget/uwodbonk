@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Great Crested Shelduck |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A bird that lives in wetlands from the Korean Peninsula to northeastern China. 
+| **explanation** | A bird that lives in wetlands from the Korean Peninsula to northeastern China.
  It was named because of its crown-like decorative feathers. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | King Baekje's sword |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A ring-headed sword discovered in the ruins of Baekje. 
+| **explanation** | A ring-headed sword discovered in the ruins of Baekje.
  The handle has a dragon decoration. It was probably used by the King of Baekje. |
 | **Era** |  |
 | **Deck Points** | 9 (Required Deck Points for debate deck) |

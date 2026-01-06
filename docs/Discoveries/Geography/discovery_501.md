@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Wulingyuan |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A scenic spot lined with unique stone pillars. 
+| **explanation** | A scenic spot lined with unique stone pillars.
 It is said that there are over 3000 pillars.
  There is a local legend that an emperor of the Han Dynasty lived and died here. |
 | **Era** |  |

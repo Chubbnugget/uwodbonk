@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Nigella |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant that blooms along the coast of the Mediterranean Sea. It is characterized by black seeds with a sweet strawberry-like scent and brightly colored flowers. 
+| **explanation** | A plant that blooms along the coast of the Mediterranean Sea. It is characterized by black seeds with a sweet strawberry-like scent and brightly colored flowers.
 This species is also used as a spice.
  Another name: Crotanesou. |
 | **Era** |  |

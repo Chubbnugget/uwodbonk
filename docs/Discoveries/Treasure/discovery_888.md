@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Hundred Step Snake Pot |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A pottery vase in the shape of a 100-paced snake (Hyapoda). 
+| **explanation** | A pottery vase in the shape of a 100-paced snake (Hyapoda).
  In the system of the Rukai and Paiwan peoples, the indigenous people of Taiwan, it is considered a symbol of aristocratic status, and commoners cannot own it. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

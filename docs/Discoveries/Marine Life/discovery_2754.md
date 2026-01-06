@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Mendako |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | This is a type of octopus that lives in the deep sea, and unlike normal octopuses, it only has one row of suckers. 
+| **explanation** | This is a type of octopus that lives in the deep sea, and unlike normal octopuses, it only has one row of suckers.
 
 Its body is so soft that it collapses when taken out of the water.
 

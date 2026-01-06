@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 770 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Off the coast of Hawaii 
+| **Remarks** | Off the coast of Hawaii
 
  Discovery Name Card:385 |
 | **最終更新** | 2022-10-20 21:32:22 Sakon. |

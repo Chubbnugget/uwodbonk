@@ -15,9 +15,7 @@ category: Marine Life
 | **Deck Points** | 7 (Required Deck Points for debate deck) |
 | **Difficulty** | 12 (Rank of skills required for discovery) |
 | **Experience** | 1124 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | living stone fish 
-
-
+| **Remarks** | living stone fish
 
  Discovery Experience1124 Discovery Name Card Experience562 |
 | **最終更新** | 2016-07-30 23:30:45 Gainor |

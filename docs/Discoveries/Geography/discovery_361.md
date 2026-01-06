@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 473 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Swaying Giant Island” 
+| **Remarks** | Quest “Swaying Giant Island”
 
  Discovery Name Card:236 |
 | **最終更新** | 2022-11-05 18:51:04 Sakon. |

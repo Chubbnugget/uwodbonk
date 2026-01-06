@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | 240 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Sandwiched between two skies” 
+| **Remarks** | Quest “Sandwiched between two skies”
 
  Discovery Name Card: 120 |
 | **最終更新** | 2022-12-04 23:30:08 Sakon. |

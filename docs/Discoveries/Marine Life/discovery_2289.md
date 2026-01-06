@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Candil |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A small catfish that lives in the Amazon River basin. 
+| **explanation** | A small catfish that lives in the Amazon River basin.
 全長10cm程度。
  They burrow into the gills of large fish, eating them and sucking their blood. The gill covers have sharp spines that act as barbs. The head is flat to facilitate entry into the gills. |
 | **Era** |  |

@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 2 (Required Deck Points for debate deck) |
 | **Difficulty** | 3 (Rank of skills required for discovery) |
 | **Experience** | 190 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Servant of Zeus" 
+| **Remarks** | Quest "Servant of Zeus"
 
  Discovery Name Card:190 |
 | **最終更新** | 2022-10-27 22:37:37 Sakon. |

@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | longan |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant that produces many small yellow-white flowers in early summer in warm regions such as Taiwan Island and southern China. 
+| **explanation** | A plant that produces many small yellow-white flowers in early summer in warm regions such as Taiwan Island and southern China.
 The fruit is about 2 cm in diameter.
  The name comes from the fact that when the fruit is cut in half, it looks like a dragon's eye. |
 | **Era** |  |

@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Statue of Tushtra |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | An egg-shaped monster statue with a duck-like beak and wings, created in the late Preclassic period. What was discovered at the ruins of La Mojara 
+| **explanation** | An egg-shaped monster statue with a duck-like beak and wings, created in the late Preclassic period. What was discovered at the ruins of La Mojara
 
 The same characters are engraved. Long-term calendar dates are engraved from the chest to the belly.
 

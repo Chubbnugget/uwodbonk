@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | 武寧王陵 |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | The tomb of King Muryeong, the 25th king of Baekje. 
+| **explanation** | The tomb of King Muryeong, the 25th king of Baekje.
  King Muryeong is said to have built close ties with China and Japan in order to restore Baekje's national power. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

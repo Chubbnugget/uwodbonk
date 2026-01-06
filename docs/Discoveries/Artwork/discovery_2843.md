@@ -15,9 +15,7 @@ category: Artwork
 | **Deck Points** | (Required Deck Points for debate deck) |
 | **Difficulty** | (Rank of skills required for discovery) |
 | **Experience** | 470 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Beautiful baskets from West Africa 
-
-
+| **Remarks** | Beautiful baskets from West Africa
 
  Discovery Experience 470 Discovery Name Card Experience 235 |
 | **最終更新** | 2016-09-20 21:37:47 Gainor |

@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | fox razor |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant that grows naturally in the bright forests of Korea and Japan. It puts out leaves in early spring and thickens the bulbs, but apparently they drop in summer. 
+| **explanation** | A plant that grows naturally in the bright forests of Korea and Japan. It puts out leaves in early spring and thickens the bulbs, but apparently they drop in summer.
  It produces pretty flowers, but is poisonous. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

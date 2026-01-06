@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | date palm |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A tree distributed in the Middle East and North Africa. The tree is over 15m tall and has leaves about 3m long. 
+| **explanation** | A tree distributed in the Middle East and North Africa. The tree is over 15m tall and has leaves about 3m long.
  It has been prized since ancient times in regions such as Mesopotamia and Egypt, as it produces highly nutritious fruit. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

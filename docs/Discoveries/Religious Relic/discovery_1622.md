@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 732 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Symbol of Faith" 
+| **Remarks** | Quest "Symbol of Faith"
 
  Discovery Name Card:350 |
 | **最終更新** | 2022-11-22 21:07:05 Sakon. |

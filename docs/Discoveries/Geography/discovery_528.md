@@ -10,14 +10,14 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Qingcheng Mountain |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the mountains near Chongqing and the birthplace of Taoism. 
+| **explanation** | One of the mountains near Chongqing and the birthplace of Taoism.
 
  It is said that this name was given because there are many old trees and the area is covered in green throughout the year. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 480 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “In search of immortality” 
+| **Remarks** | Quest “In search of immortality”
 
  Discovery Name Card:240 |
 | **最終更新** | 2022-12-31 17:55:41 Sakon. |

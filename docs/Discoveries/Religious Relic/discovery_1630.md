@@ -10,7 +10,7 @@ category: Religious Relic
 | **Discovery Type** | Religious Relic |
 | **Discovery Name** | decorative sutra |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Genre paintings are drawn on high-quality, decorated paper, and Buddhist sutras are copied onto them. 
+| **explanation** | Genre paintings are drawn on high-quality, decorated paper, and Buddhist sutras are copied onto them.
  It represents the gorgeous aristocratic culture of the Heian Era, and is highly regarded as art. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

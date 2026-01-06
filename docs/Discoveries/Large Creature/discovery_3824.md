@@ -15,7 +15,7 @@ category: Large Creature
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 220 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Habitat map of subarctic animals" 
+| **Remarks** | "Habitat map of subarctic animals"
 
  Discovery Name Card:110 |
 | **最終更新** | 2023-09-20 03:23:14 Salmon can |

@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Mabinogion |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A manuscript that compiles ancient Welsh folklore into one book. 
+| **explanation** | A manuscript that compiles ancient Welsh folklore into one book.
 
  It includes the ``Mabinogi Four Branches,'' which are said to be based on old myths, and the ``Three Romances of the Court of Arsul,'' which are said to be the prototype of the Arthurian legend. |
 | **Era** |  |

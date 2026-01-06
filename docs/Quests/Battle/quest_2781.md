@@ -1,32 +1,28 @@
 ---
 id: 2781
 category: Battle
-status: untranslated
 ---
-
 # Details of the quest [Research sample procurement]
-
 
 ### Details of the quest [Research sample procurement]
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Quest Name** | Sourcing research samples |  
+| Attribute | Details |
+| :--- | :--- |
+| **Quest Name** | Sourcing research samples |
 
 ### Quest Contents
 
-
-| Attribute | Details |  
-| :--- | :--- |  
-| **Chrono Quest** |  |  
-| **Offer Method** | maritime quest |  
-| **Difficulty** | 3 |  
-| **Time Limit** | none |  
-| **Town** | [Alexandria](Ports/port_63.md) |  
-| **Required Skills** | [Arabic](Skills/Skills-Language/item_440.md), [Spanish](Skills/Skills-Language/item_425.md) |  
-| **Discovery** |  |  
-| **Reward/Advance** |  |  
-| **Exp/Fame** |  |  
-| **Items Obtained** |  |  
-| **Chain Quests** |  |  
-| **Notes** | Type: Delivery Time Limit: None Reward: 29,000 Advance payment: 25,000 Destination: Mehmet Sharuk of Alexandria Delivery item: Musket x 5 ■How to procure a musket Purchased in Seville (Investment required: Spanish territory). |  
+| Attribute | Details |
+| :--- | :--- |
+| **Chrono Quest** |  |
+| **Offer Method** | maritime quest |
+| **Difficulty** | 3 |
+| **Time Limit** | none |
+| **Town** | [Alexandria](Ports/port_63.md) |
+| **Required Skills** | [Arabic](Skills/Skills-Language/item_440.md), [Spanish](Skills/Skills-Language/item_425.md) |
+| **Discovery** |  |
+| **Reward/Advance** |  |
+| **Exp/Fame** |  |
+| **Items Obtained** |  |
+| **Chain Quests** |  |
+| **Notes** | Type: Delivery Time Limit: None Reward: 29,000 Advance payment: 25,000 Destination: Mehmet Sharuk of Alexandria Delivery item: Musket x 5 ■How to procure a musket Purchased in Seville (Investment required: Spanish territory). |

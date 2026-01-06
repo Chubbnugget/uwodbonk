@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Makie inkstone box |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A box made in Japan for storing inkstones and brushes. This is an excellent craft that uses the maki-e technique. 
+| **explanation** | A box made in Japan for storing inkstones and brushes. This is an excellent craft that uses the maki-e technique.
  Makie is a technique in which a pattern is drawn with lacquer on the surface of lacquerware, and then, before the lacquer dries, metal powder such as gold powder is sprinkled on it to fix it. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

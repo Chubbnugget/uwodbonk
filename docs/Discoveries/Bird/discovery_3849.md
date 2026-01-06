@@ -10,14 +10,14 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Sun jack |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A bird that lives in the mountains from East Asia to South Asia. They live in forests and build nests in trees. 
+| **explanation** | A bird that lives in the mountains from East Asia to South Asia. They live in forests and build nests in trees.
 
  It has a black head and red beak just like the Japanese mountain butterfly, but its characteristics are different, such as its white belly and the hair on the back of its head that looks like white spots. |
 | **Era** |  |
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 8 (Rank of skills required for discovery) |
 | **Experience** | 820 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | pursuit quest 
+| **Remarks** | pursuit quest
 
  Discovery Name Card:410 |
 | **最終更新** | 2023-12-20 15:23:04 Passing navigator @guest |

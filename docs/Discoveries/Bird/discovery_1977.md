@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | Osprey |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A large bird that inhabits coastal areas in almost all regions, including North America. 
+| **explanation** | A large bird that inhabits coastal areas in almost all regions, including North America.
  They fly low over the water and catch fish. It is blackish brown overall, but has pure white feathers on the top of its head. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

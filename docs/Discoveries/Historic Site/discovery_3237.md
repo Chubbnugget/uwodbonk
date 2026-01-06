@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | castel del monte |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A castle built by Holy Roman Emperor Frederick II. 
+| **explanation** | A castle built by Holy Roman Emperor Frederick II.
 
  Although it is unclear what purpose it was built for, there is a theory that it was not a military fort, but a hunting base. It has a distinctive structure incorporating an octagonal shape. |
 | **Era** |  |

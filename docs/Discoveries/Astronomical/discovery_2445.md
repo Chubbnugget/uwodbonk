@@ -15,7 +15,7 @@ category: Astronomical
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 240 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Observation record of Tree Stars" 
+| **Remarks** | "Observation record of Tree Stars"
 
  Discovery Name Card: 120 |
 | **最終更新** | 2022-10-30 15:48:24 Sakon. |

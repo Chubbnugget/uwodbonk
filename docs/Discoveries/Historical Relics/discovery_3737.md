@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Istanbul runic inscriptions |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | A cathedral was built in the imperial capital of Constantinople during the Byzantine Era. A runic inscription remains on the railing. 
+| **explanation** | A cathedral was built in the imperial capital of Constantinople during the Byzantine Era. A runic inscription remains on the railing.
 
  It is said to have been carved by descendants of the Vikings known as the "Vayag" who were dispatched as mercenaries. |
 | **Era** |  |

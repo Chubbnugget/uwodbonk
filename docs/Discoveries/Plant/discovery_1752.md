@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Taiwanese Mokugenji |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A plant with yellow flowers that grows mainly on the island of Taiwan. The pink cluster-like fruits are so small that they can be mistaken for flowers. 
+| **explanation** | A plant with yellow flowers that grows mainly on the island of Taiwan. The pink cluster-like fruits are so small that they can be mistaken for flowers.
  It is also said to be the tree that heralds autumn. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

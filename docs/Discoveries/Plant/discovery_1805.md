@@ -10,7 +10,7 @@ category: Plant
 | **Discovery Type** | Plant |
 | **Discovery Name** | Rose of Sharon |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | In Korea, this plant is revered as a flower that symbolizes the prosperity of the country. Many flowers bloom on one branch, and the way they bloom one after another even when they fall gives a sense of eternity. 
+| **explanation** | In Korea, this plant is revered as a flower that symbolizes the prosperity of the country. Many flowers bloom on one branch, and the way they bloom one after another even when they fall gives a sense of eternity.
  The dried bark and flowers can also be used as medicine. |
 | **Era** |  |
 | **Deck Points** | 6 (Required Deck Points for debate deck) |

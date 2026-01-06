@@ -15,7 +15,7 @@ category: Religious Relic
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 9 (Rank of skills required for discovery) |
 | **Experience** | 300 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Map of gold-worked statues with animals" 
+| **Remarks** | "Map of gold-worked statues with animals"
 
  Discovery Name Card: 150 |
 | **最終更新** | 2022-10-14 10:52:35 Sakon. |

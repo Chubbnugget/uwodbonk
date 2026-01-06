@@ -10,7 +10,7 @@ category: Bird
 | **Discovery Type** | Bird |
 | **Discovery Name** | pheasant |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A bird unique to Japan that lives in bright forests and grasslands. 
+| **explanation** | A bird unique to Japan that lives in bright forests and grasslands.
  Males have a shiny green color from chest to belly, and bright red around the eyes, giving them an eye-catching appearance. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

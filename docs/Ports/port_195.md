@@ -3,7 +3,6 @@ id: 195
 name: Petropavlovsk
 type: Port
 ---
-
 # Port: ペトロパブロフスク
 
 import Tabs from '@theme/Tabs';

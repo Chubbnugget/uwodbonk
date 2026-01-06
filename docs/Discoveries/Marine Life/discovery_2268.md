@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Itou |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A freshwater fish that lives in the northernmost rivers of Japan. Falling into the sea like a salmon. 
+| **explanation** | A freshwater fish that lives in the northernmost rivers of Japan. Falling into the sea like a salmon.
  It is said to be the largest fish that lives in freshwater areas in Japan, and it can eat not only fish but also snakes and rats. |
 | **Era** |  |
 | **Deck Points** | 3 (Required Deck Points for debate deck) |

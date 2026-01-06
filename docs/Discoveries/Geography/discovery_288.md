@@ -10,7 +10,7 @@ category: Geography
 | **Discovery Type** | Geography |
 | **Discovery Name** | Zagros Mountains |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A huge mountain range that stretches from near Hormuz to the outskirts of Türkiye. The ruins of a once prosperous dynasty remain within the mountain range. 
+| **explanation** | A huge mountain range that stretches from near Hormuz to the outskirts of Türkiye. The ruins of a once prosperous dynasty remain within the mountain range.
 
  It is said that the legendary ship that was able to escape the flood exists somewhere in this mountain range, but the truth is unknown. |
 | **Era** |  |

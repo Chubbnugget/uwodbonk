@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | iconostasis |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A wall covered with icons. They are placed in various places within the church. 
+| **explanation** | A wall covered with icons. They are placed in various places within the church.
  The pattern drawn on the icon also differs depending on where it is placed. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

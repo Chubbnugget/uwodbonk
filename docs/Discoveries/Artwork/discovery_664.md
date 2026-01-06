@@ -10,7 +10,7 @@ category: Artwork
 | **Discovery Type** | Artwork |
 | **Discovery Name** | Goryeo Buddhist painting |
 | **Rank** | ★★★☆☆(3) (Number of Stars on Discovery Name card) |
-| **explanation** | A Buddhist painting that was often painted during the Goryeo Era. 
+| **explanation** | A Buddhist painting that was often painted during the Goryeo Era.
  In this Era, Amida Nyorai, Yoryu Kannon, and Jizo Bodhisattva appear to have become popular, and are often seen. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

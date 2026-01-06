@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Poetry of Eulji Mundeok |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | Eulji Mundeok was a general of Goguryeo. 
+| **explanation** | Eulji Mundeok was a general of Goguryeo.
 
 When the Sui army attacked, Eulji Mundeok sent this poem urging a truce.
 

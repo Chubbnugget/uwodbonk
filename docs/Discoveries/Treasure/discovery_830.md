@@ -10,7 +10,7 @@ category: Treasure
 | **Discovery Type** | Treasure |
 | **Discovery Name** | Seal of Tenkafubu |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A seal with the four characters ``Tenka Fubu'' engraved on it. In early modern Japan, such seals were used in place of signatures on documents. 
+| **explanation** | A seal with the four characters ``Tenka Fubu'' engraved on it. In early modern Japan, such seals were used in place of signatures on documents.
  It is said to represent the user's political ideology, but the details are unknown. |
 | **Era** |  |
 | **Deck Points** | 7 (Required Deck Points for debate deck) |

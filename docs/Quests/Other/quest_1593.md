@@ -1,32 +1,29 @@
 ---
 id: 1593
 category: Other
-status: untranslated
 ---
-
 # Quest [Large Weasel Map]
-
 
 ### Quest [Large Weasel Map] Details
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Quest Name** | Large Weasel Map |  
+| Attribute | Details |
+| :--- | :--- |
+| **Quest Name** | Large Weasel Map |
 
 ### Quest Contents
 Landed in the upper reaches of the Amazon River. Near the giant dead tree on the way to the center.
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Chrono Quest** |  |  
-| **Offer Method** | biology |  
-| **Difficulty** | 4 |  
-| **Time Limit** | none |  
-| **Town** | [Grand Cayman](Ports/port_114.md), [Trujillo](Ports/port_115.md), [Willemstad](Ports/port_119.md), [Caracas](Ports/port_120.md), [Cayenne](Ports/port_111.md), [Pernambuco](Ports/port_112.md) |  
-| **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (4), [Biology](Skills/Skill-Adventure/item_434.md) (4) |  
-| **Discovery** | [Medium-sized creature](Categories/category_14.md) / [Giant otter](Quests/Adventure/quest_2107.md) A large weasel that lives in the Amazon River basin. It can grow up to 1.5 meters in length, and it catches and eats fish and crabs. Large Weasel Map Rank: 1, Points: 4, Difficulty: 4, Experience Points: 100 |  
-| **Reward/Advance** |  |  
-| **Exp/Fame** | Experience points: 100 |  
-| **Items Obtained** |  |  
-| **Chain Quests** |  |  
-| **Notes** |  |  
+| Attribute | Details |
+| :--- | :--- |
+| **Chrono Quest** |  |
+| **Offer Method** | biology |
+| **Difficulty** | 4 |
+| **Time Limit** | none |
+| **Town** | [Grand Cayman](Ports/port_114.md), [Trujillo](Ports/port_115.md), [Willemstad](Ports/port_119.md), [Caracas](Ports/port_120.md), [Cayenne](Ports/port_111.md), [Pernambuco](Ports/port_112.md) |
+| **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (4), [Biology](Skills/Skill-Adventure/item_434.md) (4) |
+| **Discovery** | [Medium-sized creature](Categories/category_14.md) / [Giant otter](Quests/Adventure/quest_2107.md) A large weasel that lives in the Amazon River basin. It can grow up to 1.5 meters in length, and it catches and eats fish and crabs. Large Weasel Map Rank: 1, Points: 4, Difficulty: 4, Experience Points: 100 |
+| **Reward/Advance** |  |
+| **Exp/Fame** | Experience points: 100 |
+| **Items Obtained** |  |
+| **Chain Quests** |  |
+| **Notes** |  |

@@ -15,9 +15,7 @@ category: Historical Relics
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 320 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | A mask shaped like a god 
-
-
+| **Remarks** | A mask shaped like a god
 
  Discovery Experience 320 Discovery Name Card Experience 160 |
 | **最終更新** | 2016-05-03 20:42:47 Gainor |

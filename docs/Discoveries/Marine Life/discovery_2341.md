@@ -10,7 +10,7 @@ category: Marine Life
 | **Discovery Type** | Marine Life |
 | **Discovery Name** | Japanese fish shark |
 | **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
-| **explanation** | A large shark that lives in cold waters such as the far northern part of the North Atlantic. It has a stocky body and swims very slowly. 
+| **explanation** | A large shark that lives in cold waters such as the far northern part of the North Atlantic. It has a stocky body and swims very slowly.
  They prey not only on fish but also on animals such as seals. |
 | **Era** |  |
 | **Deck Points** | 8 (Required Deck Points for debate deck) |

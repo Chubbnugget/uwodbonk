@@ -15,7 +15,7 @@ category: Medium Sized Creature
 | **Deck Points** | 1 (Required Deck Points for debate deck) |
 | **Difficulty** | 2 (Rank of skills required for discovery) |
 | **Experience** | 28 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | "Wildcat Map" 
+| **Remarks** | "Wildcat Map"
 
  Discovery Name Card:14 |
 | **最終更新** | 2022-12-22 20:31:38 Sakon. |

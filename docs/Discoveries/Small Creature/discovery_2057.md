@@ -15,9 +15,7 @@ category: Small Creature
 | **Deck Points** | 6 (Required Deck Points for debate deck) |
 | **Difficulty** | 6 (Rank of skills required for discovery) |
 | **Experience** | 355 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Flat Biology Survey 
-
-
+| **Remarks** | Flat Biology Survey
 
  Discovery Experience 355 Discovery Name Card Experience 177 |
 | **最終更新** | 2016-05-04 21:39:02 Gainor |

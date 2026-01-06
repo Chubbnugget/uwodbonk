@@ -15,9 +15,7 @@ category: Treasure
 | **Deck Points** | 8 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 1053 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | blood colored gem 
-
-
+| **Remarks** | blood colored gem
 
  Discovery Experience1053 Discovery Name Card Experience526 |
 | **最終更新** | 2016-07-29 12:21:26 Gainor |

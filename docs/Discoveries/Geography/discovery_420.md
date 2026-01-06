@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 4 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 1040 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "It's the Emperor's Mountain" 
+| **Remarks** | Quest "It's the Emperor's Mountain"
 
  Discovery Name Card:520 |
 | **最終更新** | 2022-11-24 22:59:53 Sakon. |

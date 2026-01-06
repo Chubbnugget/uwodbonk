@@ -15,9 +15,7 @@ category: Large Creature
 | **Deck Points** | 10 (Required Deck Points for debate deck) |
 | **Difficulty** | 13 (Rank of skills required for discovery) |
 | **Experience** | 1100 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | spirit bear 
-
-
+| **Remarks** | spirit bear
 
  Discovery Experience 1100 Discovery Name Card Experience 550 |
 | **最終更新** | 2016-05-04 19:52:16 Gainor |

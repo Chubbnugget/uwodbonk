@@ -10,7 +10,7 @@ category: Medium Sized Creature
 | **Discovery Type** | Medium Sized Creature |
 | **Discovery Name** | Yakushika |
 | **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
-| **explanation** | A type of deer that lives on Yakushima. It is one size smaller than the deer that live in mainland Japan. 
+| **explanation** | A type of deer that lives on Yakushima. It is one size smaller than the deer that live in mainland Japan.
  Most of their antlers have two branches, one less than mainland deer. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

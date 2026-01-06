@@ -15,7 +15,7 @@ category: Treasure
 | **Deck Points** | 9 (Required Deck Points for debate deck) |
 | **Difficulty** | 11 (Rank of skills required for discovery) |
 | **Experience** | 700 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Approaching the history of the world” 
+| **Remarks** | Quest “Approaching the history of the world”
 
  Discovery Name Card:350 |
 | **最終更新** | 2022-11-07 22:38:39 Sakon. |

@@ -15,7 +15,7 @@ category: Plant
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 4 (Rank of skills required for discovery) |
 | **Experience** | 260 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest "Tableware Tree" 
+| **Remarks** | Quest "Tableware Tree"
 
  Discovery Name Card:130 |
 | **最終更新** | 2022-11-28 15:19:52 Passing navigator @guest |

@@ -10,7 +10,7 @@ category: Historical Relics
 | **Discovery Type** | Historical Relics |
 | **Discovery Name** | Witte Leo |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | One of the East Indies trading ships from the Low Countries, which means a white lion. 
+| **explanation** | One of the East Indies trading ships from the Low Countries, which means a white lion.
  While returning home from East Asia with a cargo of spices, the ship was attacked by a Portuguese carrack and sank off the coast of St. Helena Island. |
 | **Era** |  |
 | **Deck Points** | 4 (Required Deck Points for debate deck) |

@@ -10,7 +10,7 @@ category: Insect
 | **Discovery Type** | Insect |
 | **Discovery Name** | Monkro Benikamikiri |
 | **Rank** | ★★☆☆☆(2) (Number of Stars on Discovery Name card) |
-| **explanation** | A showy-looking longhorn beetle that is distributed throughout the Korean Peninsula and East Asia, including Japan. 
+| **explanation** | A showy-looking longhorn beetle that is distributed throughout the Korean Peninsula and East Asia, including Japan.
  The red feathers dyed with black patterns are conspicuous. |
 | **Era** |  |
 | **Deck Points** | 5 (Required Deck Points for debate deck) |

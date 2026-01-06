@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 5 (Required Deck Points for debate deck) |
 | **Difficulty** | 7 (Rank of skills required for discovery) |
 | **Experience** | 510 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | unfinished map 
+| **Remarks** | unfinished map
 
  *5 Is there any prerequisite to the problem? |
 | **最終更新** | 2022-05-26 11:03:30 Maeda |

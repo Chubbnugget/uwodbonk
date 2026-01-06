@@ -10,7 +10,7 @@ category: Historic Site
 | **Discovery Type** | Historic Site |
 | **Discovery Name** | Kaalibangan ruins |
 | **Rank** | ★★★★★(5) (Number of Stars on Discovery Name card) |
-| **explanation** | Ruins of the Indus Valley Civilization in western India. It is said that in ancient times it was a city built on the left bank of a large river. 
+| **explanation** | Ruins of the Indus Valley Civilization in western India. It is said that in ancient times it was a city built on the left bank of a large river.
 
  It is very different from Mohenjodaro and other places in that there are only a few sections using baked bricks, and most of them are made of sun-dried bricks. |
 | **Era** |  |

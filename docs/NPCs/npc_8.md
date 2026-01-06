@@ -3,47 +3,40 @@ id: 8
 name: Painter
 type: NPC
 ---
-
 # NPC: 塗装職人
 
 ## NPC: General Information
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | Painter |  
-| **Notes** | They sell ship parts (emblems). |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | Painter |
+| **Notes** | They sell ship parts (emblems). |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
 
-| Attribute | Details |  
-| :--- | :--- |  
-| **Name** | Painter |  
-| **Notes** | They sell ship parts (emblems). |  
-| **Last Updated** | 2005-04-15 02:00:34 System |  
+| Attribute | Details |
+| :--- | :--- |
+| **Name** | Painter |
+| **Notes** | They sell ship parts (emblems). |
+| **Last Updated** | 2005-04-15 02:00:34 System |
 
 ## NPC: Name
-
 
 ## NPC: City
 
-
 ## NPC: Discovery Preferences
-
 
 ## NPC: Location
 
-
 ## NPC: Notes
-
 
 ## NPC: Last Updated
 
-
 ## NPC: Items / Inventory
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Admiral](Items/Ship Parts/Shipparts-Crests/item_548.md) | [Ship parts (emblem)](Categories/category_36.md) | 5,000 | [Cayenne](Ports/port_111.md) [Muscat](Ports/port_40.md) [Pernambuco](Ports/port_112.md) [Zanzibar](Ports/port_38.md) [Pisa](Ports/port_15.md) [Ternate](Ports/port_146.md) [Grand Cayman](Ports/port_114.md) [Holmes](Ports/port_41.md) [Alexandria](Ports/port_63.md) [Santo Domingo](Ports/port_33.md) [Trujillo](Ports/port_115.md) [Goa](Ports/port_45.md) [Jaffa](Ports/port_64.md) [Santiago](Ports/port_35.md) [Willemstad](Ports/port_119.md) [Istanbul](Ports/port_78.md) [Nantes](Ports/port_20.md) [Amboina](Ports/port_145.md) [Lima](Ports/port_162.md) [Parma](Ports/port_7.md) [Stockholm](Ports/port_31.md) [Saint-Georges](Ports/port_76.md) [Caracas](Ports/port_120.md) |
 | [Animal](Items/Ship Parts/Shipparts-Crests/item_692.md) | [Ship parts (emblem)](Categories/category_36.md) | 5,000 | [Istanbul](Ports/port_78.md) |
 | [Anchor](Items/Ship Parts/Shipparts-Crests/item_549.md) | [Ship parts (emblem)](Categories/category_36.md) | 5,000 | [Muscat](Ports/port_40.md) [Pernambuco](Ports/port_112.md) [Saint-Georges](Ports/port_76.md) [Pisa](Ports/port_15.md) [Alexandria](Ports/port_63.md) [Lima](Ports/port_162.md) [Nantes](Ports/port_20.md) [Istanbul](Ports/port_78.md) [Cayenne](Ports/port_111.md) [Stockholm](Ports/port_31.md) [Grand Cayman](Ports/port_114.md) [Amboina](Ports/port_145.md) [Ternate](Ports/port_146.md) [Santo Domingo](Ports/port_33.md) [Willemstad](Ports/port_119.md) [Santiago](Ports/port_35.md) [Parma](Ports/port_7.md) [Caracas](Ports/port_120.md) [Jaffa](Ports/port_64.md) [Zanzibar](Ports/port_38.md) [Goa](Ports/port_45.md) [Holmes](Ports/port_41.md) [Trujillo](Ports/port_115.md) |
@@ -71,8 +64,8 @@ type: NPC
 
 ## NPC: Item Name
 
-| Item Name | Group | Purchase Price | Notes |  
-| --- | --- | --- | --- |  
+| Item Name | Group | Purchase Price | Notes |
+| --- | --- | --- | --- |
 | [Admiral](Items/Ship Parts/Shipparts-Crests/item_548.md) | [Ship parts (emblem)](Categories/category_36.md) | 5,000 | [Cayenne](Ports/port_111.md) [Muscat](Ports/port_40.md) [Pernambuco](Ports/port_112.md) [Zanzibar](Ports/port_38.md) [Pisa](Ports/port_15.md) [Ternate](Ports/port_146.md) [Grand Cayman](Ports/port_114.md) [Holmes](Ports/port_41.md) [Alexandria](Ports/port_63.md) [Santo Domingo](Ports/port_33.md) [Trujillo](Ports/port_115.md) [Goa](Ports/port_45.md) [Jaffa](Ports/port_64.md) [Santiago](Ports/port_35.md) [Willemstad](Ports/port_119.md) [Istanbul](Ports/port_78.md) [Nantes](Ports/port_20.md) [Amboina](Ports/port_145.md) [Lima](Ports/port_162.md) [Parma](Ports/port_7.md) [Stockholm](Ports/port_31.md) [Saint-Georges](Ports/port_76.md) [Caracas](Ports/port_120.md) |
 | [Animal](Items/Ship Parts/Shipparts-Crests/item_692.md) | [Ship parts (emblem)](Categories/category_36.md) | 5,000 | [Istanbul](Ports/port_78.md) |
 | [Anchor](Items/Ship Parts/Shipparts-Crests/item_549.md) | [Ship parts (emblem)](Categories/category_36.md) | 5,000 | [Muscat](Ports/port_40.md) [Pernambuco](Ports/port_112.md) [Saint-Georges](Ports/port_76.md) [Pisa](Ports/port_15.md) [Alexandria](Ports/port_63.md) [Lima](Ports/port_162.md) [Nantes](Ports/port_20.md) [Istanbul](Ports/port_78.md) [Cayenne](Ports/port_111.md) [Stockholm](Ports/port_31.md) [Grand Cayman](Ports/port_114.md) [Amboina](Ports/port_145.md) [Ternate](Ports/port_146.md) [Santo Domingo](Ports/port_33.md) [Willemstad](Ports/port_119.md) [Santiago](Ports/port_35.md) [Parma](Ports/port_7.md) [Caracas](Ports/port_120.md) [Jaffa](Ports/port_64.md) [Zanzibar](Ports/port_38.md) [Goa](Ports/port_45.md) [Holmes](Ports/port_41.md) [Trujillo](Ports/port_115.md) |

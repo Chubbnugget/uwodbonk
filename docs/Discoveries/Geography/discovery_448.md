@@ -15,7 +15,7 @@ category: Geography
 | **Deck Points** | 3 (Required Deck Points for debate deck) |
 | **Difficulty** | 1 (Rank of skills required for discovery) |
 | **Experience** | 20 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
-| **Remarks** | Quest “Topographic Survey of the Balearic Islands” 
+| **Remarks** | Quest “Topographic Survey of the Balearic Islands”
 
  Discovery Name Card:10 |
 | **最終更新** | 2022-11-23 08:42:05 Sakon. |
