@@ -1,0 +1,892 @@
+---
+id: 60
+name: naples
+type: Port
+---
+
+# Port: ナポリ
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+![Port Map](./maps/map_60.png)
+
+## General Information
+
+| Attribute | Details |
+| :--- | :--- |
+| **Port Name** | naples |
+| **Port Type** | port of alliance |
+| **Region** | eastern europe |
+| **Sea Area** | ionian sea |
+| **Required Language** | italian |
+| **Coordinates** | （616，3118） |
+| **Investment Reward** | [roman mythology sculpture](Items/Recipe Book/item_730.md) （必要投資額：1,500,000ドゥカード） |
+
+### Available Facilities
+
+| guild | intermediary | exchange | tool shop | workshop craftsman | Painter | sculptor | peddler |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ○ | ○ | ○ | ○ | ○ |   | ○ | ○ |
+| Shipyard Master | Lumbermaker | Sail-maker | weapon craftsman | master | TavernFemale | archive | salesperson |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ○ |   |   | ○ | ○ | ○ | ○ | ○ |
+| Shipwright | 銀行 | street worker | 王宮 | Trading post | church | suburbs | translator |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ○ | ○ |   | ○ | ○ | ○ | ○ | ○ |
+
+### Description
+A historic city founded by the Greeks before BC. It was once called Neapolis, which means "new city." It is still a large city located in the center of the Mediterranean Sea and is an important center for Mediterranean trade. Tavern woman: Giovanna Coach (moves to Rome) *Arabic is also spoken, and there is a bank NPC near the adventurer's guild Suburbs: Near Naples Cultural area: Italy/Southern France
+
+
+<Tabs>
+  <TabItem value="trade_goods_sales" label="Trade Goods Sales">
+
+| item | group | purchase price | 同盟時 | remarks |
+| --- | --- | --- | --- | --- |
+| [glasswork](Items/Trade Goods/TradeGoods-Luxuries/item_60.md) | [Trading goods (artificial goods)](Categories/category_13.md) | 1,230 | 1,100 |  |
+| When in alliance: confirmed at 100% |
+| [pasta](Items/Trade Goods/TradeGoods-Foodstuffs/item_635.md) | [Trading items (food items)](Categories/category_3.md) | (82) | 72 |  |
+| Investment required (Required investment amount: 500,000) When allied: Confirmed at 100% Added in EO Chapter 4 |
+| [hazelnut](Items/Trade Goods/TradeGoods-Sunddries/item_125.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 284 | (249) |  |
+| 要投資（必要投資額：400,000） EO第4章で追加 |
+| [lavender](Items/Trade Goods/TradeGoods-Perfume/item_150.md) | [Trading Goods (Spices)](Categories/category_11.md) | (772) | 676 |  |
+| When in alliance: confirmed at 100% |
+| [lemon oil](Items/Trade Goods/TradeGoods-Perfume/item_151.md) | [Trading Goods (Spices)](Categories/category_11.md) | 533 | (467) |  |
+| [lapidary work](Items/Trade Goods/TradeGoods-Luxuries/item_153.md) | [Trading goods (artificial goods)](Categories/category_13.md) | 4,180 | 3,760 |  |
+| When in alliance: confirmed at 100% |
+| [beef](Items/Trade Goods/TradeGoods-Foodstuffs/item_26.md) | [Trading items (food items)](Categories/category_3.md) | 630 | 568 |  |
+| 要投資（必要投資額：240,000） |
+| [copperplate print](Items/Trade Goods/TradeGoods-Art/item_1087.md) | [交易品（美術品）](Categories/category_14.md) | 648 | 584 |  |
+| 要投資（必要投資額：500,000） |
+| [ceramics](Items/Trade Goods/TradeGoods-Luxuries/item_152.md) | [Trading goods (artificial goods)](Categories/category_13.md) | 1,340 | 1,260 |  |
+| When in alliance: confirmed at 100% |
+| [青銅像](Items/Trade Goods/TradeGoods-Art/item_148.md) | [交易品（美術品）](Categories/category_14.md) | (987) | 864 |  |
+| When in alliance: confirmed at 100% |
+  </TabItem>
+  <TabItem value="sale_specialty" label="Sale (Specialty)">
+
+| item | group | sale price | 同盟時 | remarks |
+| --- | --- | --- | --- | --- |
+
+#### [交易品（繊維）](Categories/category_1.md)
+
+| [flax](Items/Trade Goods/TradeGoods-Fibers/item_64.md) | [交易品（繊維）](Categories/category_1.md) | (275) | 320 |  |
+| When in alliance: confirmed at 100% |
+| [feather](Items/Trade Goods/TradeGoods-Fibers/item_585.md) | [交易品（繊維）](Categories/category_1.md) | 837 | 927 |  |
+| 同盟時871-94% |
+
+#### [Trading Goods (Dye)](Categories/category_2.md)
+
+| [Safflower](Items/Trade Goods/TradeGoods-Dye/item_1059.md) | [Trading Goods (Dye)](Categories/category_2.md) | 645 | (725) |  |
+| [mayan blue](Items/Trade Goods/TradeGoods-Dye/item_1096.md) | [Trading Goods (Dye)](Categories/category_2.md) | (1,399) | 1,632 |  |
+| [log wood](Items/Trade Goods/TradeGoods-Dye/item_1813.md) | [Trading Goods (Dye)](Categories/category_2.md) | 1,388 | (1,561) |  |
+
+#### [Trading items (food items)](Categories/category_3.md)
+
+| [buckwheat](Items/Trade Goods/TradeGoods-Foodstuffs/item_3430.md) | [Trading items (food items)](Categories/category_3.md) | (45,164) | 52,700 |  |
+| When in alliance: confirmed at 100% |
+| [cactus](Items/Trade Goods/TradeGoods-Foodstuffs/item_2740.md) | [Trading items (food items)](Categories/category_3.md) | 409 | (460) |  |
+| [taro](Items/Trade Goods/TradeGoods-Foodstuffs/item_1960.md) | [Trading items (food items)](Categories/category_3.md) | 256 | (288) |  |
+
+#### [交易品（調味料）](Categories/category_4.md)
+
+| [Gochujang](Items/Trade Goods/TradeGoods-Seasonings/item_3591.md) | [交易品（調味料）](Categories/category_4.md) | (6,608) | 7,710 |  |
+| 98％＝7580　104％＝7980 |
+| [apple cider vinegar](Items/Trade Goods/TradeGoods-Seasonings/item_882.md) | [交易品（調味料）](Categories/category_4.md) | 494 | 499 |  |
+| [Sha Cha Ji](Items/Trade Goods/TradeGoods-Seasonings/item_3689.md) | [交易品（調味料）](Categories/category_4.md) | (32,453) | 37,867 |  |
+| [soy sauce](Items/Trade Goods/TradeGoods-Seasonings/item_3425.md) | [交易品（調味料）](Categories/category_4.md) | (45,250) | 52,800 |  |
+| 98％＝51800　104％＝54900 |
+| [black vinegar](Items/Trade Goods/TradeGoods-Seasonings/item_3475.md) | [交易品（調味料）](Categories/category_4.md) | (4,611) | 5,380 |  |
+| 98％＝5290　104％＝5560 |
+
+#### [交易品（雑貨）](Categories/category_5.md)
+
+| [Japanese books](Items/Trade Goods/TradeGoods-Misc/item_3439.md) | [交易品（雑貨）](Categories/category_5.md) | 34,566 | 40,100 |  |
+| When in alliance: confirmed at 100% |
+| [lantern](Items/Trade Goods/TradeGoods-Misc/item_3683.md) | [交易品（雑貨）](Categories/category_5.md) | (36,144) | 42,174 |  |
+
+#### [Trading products (medical products)](Categories/category_6.md)
+
+| [Saikaku](Items/Trade Goods/TradeGoods-Medicine/item_1959.md) | [Trading products (medical products)](Categories/category_6.md) | (4,114) | 4,800 |  |
+| When in alliance: confirmed at 100% |
+| [heath](Items/Trade Goods/TradeGoods-Medicine/item_63.md) | [Trading products (medical products)](Categories/category_6.md) | (358) | 417 |  |
+| 同盟時491-118% |
+| [Borei](Items/Trade Goods/TradeGoods-Medicine/item_3678.md) | [Trading products (medical products)](Categories/category_6.md) | 44,898 | 52,100 |  |
+| 98％＝51100　105％＝54700 |
+| [Nothing](Items/Trade Goods/TradeGoods-Medicine/item_1053.md) | [Trading products (medical products)](Categories/category_6.md) | 735 | (826) |  |
+
+#### [Trading Items (Iron Stone)](Categories/category_7.md)
+
+| [Hokutolite](Items/Trade Goods/TradeGoods-Minerals/item_3694.md) | [Trading Items (Iron Stone)](Categories/category_7.md) | (32,224) | 37,600 |  |
+| 98％＝36900　103％＝38700 |
+| [white porcelain ore](Items/Trade Goods/TradeGoods-Minerals/item_3433.md) | [Trading Items (Iron Stone)](Categories/category_7.md) | (25,945) | 30,274 |  |
+| [red copper ore](Items/Trade Goods/TradeGoods-Minerals/item_3863.md) | [Trading Items (Iron Stone)](Categories/category_7.md) | (24,890) | 29,043 |  |
+
+#### [Trading products (precious metals)](Categories/category_8.md)
+
+| [platinum](Items/Trade Goods/TradeGoods-Metals/item_2178.md) | [Trading products (precious metals)](Categories/category_8.md) | 8,480 | (9,540) |  |
+
+#### [交易品（酒類）](Categories/category_9.md)
+
+| [aquavit](Items/Trade Goods/TradeGoods-Alcohol/item_572.md) | [交易品（酒類）](Categories/category_9.md) | 810 | 897 |  |
+| 98％＝883 102％＝911 |
+| [whiskey](Items/Trade Goods/TradeGoods-Alcohol/item_1.md) | [交易品（酒類）](Categories/category_9.md) | (823) | 960 |  |
+| When in alliance: confirmed at 100% |
+| [gin](Items/Trade Goods/TradeGoods-Alcohol/item_291.md) | [交易品（酒類）](Categories/category_9.md) | 913 | (1,027) |  |
+| [fruit brandy](Items/Trade Goods/TradeGoods-Alcohol/item_1440.md) | [交易品（酒類）](Categories/category_9.md) | (667) | 778 |  |
+
+#### [Trading goods (hobby goods)](Categories/category_10.md)
+
+| [cacao](Items/Trade Goods/TradeGoods-Sunddries/item_140.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 1,286 | (1,446) |  |
+| [eggplant](Items/Trade Goods/TradeGoods-Sunddries/item_3426.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (32,652) | 38,100 |  |
+| When in alliance: confirmed at 100% |
+| [banana](Items/Trade Goods/TradeGoods-Sunddries/item_1947.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 511 | (574) |  |
+| [dried figs](Items/Trade Goods/TradeGoods-Sunddries/item_611.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 365 | (410) |  |
+| [dried apple](Items/Trade Goods/TradeGoods-Sunddries/item_19.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 416 | (468) |  |
+| [Korean tea](Items/Trade Goods/TradeGoods-Sunddries/item_3751.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 31,076 | (34,963) |  |
+| [black tea](Items/Trade Goods/TradeGoods-Sunddries/item_675.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (2,303) | 2,687 |  |
+| 同盟時2310=86% |
+| [金針花](Items/Trade Goods/TradeGoods-Sunddries/item_3739.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 9,567 | (10,763) |  |
+
+#### [Trading Goods (Spices)](Categories/category_11.md)
+
+| [gardenia](Items/Trade Goods/TradeGoods-Perfume/item_1091.md) | [Trading Goods (Spices)](Categories/category_11.md) | (23,619) | 27,559 |  |
+| 98％＝36600　104％＝38800 |
+| [jasmine](Items/Trade Goods/TradeGoods-Perfume/item_772.md) | [Trading Goods (Spices)](Categories/category_11.md) | (5,108) | 5,960 |  |
+| [daffodil](Items/Trade Goods/TradeGoods-Perfume/item_612.md) | [Trading Goods (Spices)](Categories/category_11.md) | 924 | (1,039) |  |
+| [lily of the valley](Items/Trade Goods/TradeGoods-Perfume/item_358.md) | [Trading Goods (Spices)](Categories/category_11.md) | 1,461 | (1,643) |  |
+| [geranium](Items/Trade Goods/TradeGoods-Perfume/item_145.md) | [Trading Goods (Spices)](Categories/category_11.md) | 1,096 | 1,270 |  |
+| ●Special products of West Africa |
+| [Hamanasu](Items/Trade Goods/TradeGoods-Perfume/item_3692.md) | [Trading Goods (Spices)](Categories/category_11.md) | (30,938) | 36,100 |  |
+| When in alliance: confirmed at 100% |
+| [sandalwood](Items/Trade Goods/TradeGoods-Perfume/item_771.md) | [Trading Goods (Spices)](Categories/category_11.md) | (4,091) | 4,773 |  |
+| [龍脳](Items/Trade Goods/TradeGoods-Perfume/item_1676.md) | [Trading Goods (Spices)](Categories/category_11.md) | 2,944 | (3,312) |  |
+
+#### [Trading Goods (Spices)](Categories/category_12.md)
+
+| [garam masala](Items/Trade Goods/TradeGoods-Spices/item_965.md) | [Trading Goods (Spices)](Categories/category_12.md) | 735 | (826) |  |
+| [cloves](Items/Trade Goods/TradeGoods-Spices/item_1092.md) | [Trading Goods (Spices)](Categories/category_12.md) | (7,166) | 8,361 |  |
+| [Kouzuku](Items/Trade Goods/TradeGoods-Spices/item_3690.md) | [Trading Goods (Spices)](Categories/category_12.md) | (32,138) | 37,500 |  |
+| 98％＝36800　103％＝38600 |
+| [pepper](Items/Trade Goods/TradeGoods-Spices/item_58.md) | [Trading Goods (Spices)](Categories/category_12.md) | 9,311 | (10,475) |  |
+| [nutmeg](Items/Trade Goods/TradeGoods-Spices/item_1969.md) | [Trading Goods (Spices)](Categories/category_12.md) | (12,338) | 14,396 |  |
+| [mace](Items/Trade Goods/TradeGoods-Spices/item_2100.md) | [Trading Goods (Spices)](Categories/category_12.md) | (12,641) | 14,750 |  |
+| [chili pepper](Items/Trade Goods/TradeGoods-Spices/item_1831.md) | [Trading Goods (Spices)](Categories/category_12.md) | 1,471 | (1,655) |  |
+| [Grapefruit](Items/Trade Goods/TradeGoods-Spices/item_3422.md) | [Trading Goods (Spices)](Categories/category_12.md) | (34,538) | 40,300 |  |
+| 98％＝39500　105％＝42300 |
+
+#### [Trading goods (artificial goods)](Categories/category_13.md)
+
+| [Tumbaga](Items/Trade Goods/TradeGoods-Luxuries/item_3028.md) | [Trading goods (artificial goods)](Categories/category_13.md) | 21,834 | (24,565) |  |
+| [Song Baici](Items/Trade Goods/TradeGoods-Luxuries/item_3904.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (32,827) | 38,304 |  |
+| [lacquerware](Items/Trade Goods/TradeGoods-Luxuries/item_3435.md) | [Trading goods (artificial goods)](Categories/category_13.md) | 36,112 | (40,629) |  |
+
+#### [Trading Items (Gemstones)](Categories/category_15.md)
+
+| [opal](Items/Trade Goods/TradeGoods-Gems/item_2006.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (7,024) | 8,196 |  |
+| [sapphire](Items/Trade Goods/TradeGoods-Gems/item_676.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (10,627) | 12,400 |  |
+| [diamond](Items/Trade Goods/TradeGoods-Gems/item_449.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (6,417) | 7,487 |  |
+| [topaz](Items/Trade Goods/TradeGoods-Gems/item_1097.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (5,500) | 6,417 |  |
+| [pink diamond](Items/Trade Goods/TradeGoods-Gems/item_2874.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (12,941) | 15,100 |  |
+| When in alliance: confirmed at 100% |
+| [ruby](Items/Trade Goods/TradeGoods-Gems/item_773.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (11,056) | 12,900 |  |
+| [taiwan sapphire](Items/Trade Goods/TradeGoods-Gems/item_3695.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (32,903) | 38,393 |  |
+| [amber](Items/Trade Goods/TradeGoods-Gems/item_618.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (3,951) | 4,610 |  |
+
+#### [Trading Items (Arms)](Categories/category_16.md)
+
+| [damascus sword](Items/Trade Goods/TradeGoods-Weapons/item_903.md) | [Trading Items (Arms)](Categories/category_16.md) | (4,685) | 5,466 |  |
+
+#### [Trading Items (Firearms)](Categories/category_17.md)
+
+| [tanegashima gun](Items/Trade Goods/TradeGoods-Firearms/item_3423.md) | [Trading Items (Firearms)](Categories/category_17.md) | 23,654 | (26,613) |  |
+| [銅手銃](Items/Trade Goods/TradeGoods-Firearms/item_3700.md) | [Trading Items (Firearms)](Categories/category_17.md) | 30,273 | (34,060) |  |
+
+#### [交易品（工業品）](Categories/category_19.md)
+
+| [rubber](Items/Trade Goods/TradeGoods-Wares/item_2819.md) | [交易品（工業品）](Categories/category_19.md) | 1,610 | (1,811) |  |
+| [papyrus](Items/Trade Goods/TradeGoods-Wares/item_616.md) | [交易品（工業品）](Categories/category_19.md) | (458) | 534 |  |
+| [paint](Items/Trade Goods/TradeGoods-Wares/item_3411.md) | [交易品（工業品）](Categories/category_19.md) | (2,623) | 3,060 |  |
+| When in alliance: confirmed at 100% |
+
+#### [交易品（織物）](Categories/category_20.md)
+
+| [indian chintz](Items/Trade Goods/TradeGoods-Fabrics/item_159.md) | [交易品（織物）](Categories/category_20.md) | 2,344 | 2,733 |  |
+| [dutch calico](Items/Trade Goods/TradeGoods-Fabrics/item_1435.md) | [交易品（織物）](Categories/category_20.md) | (1,177) | 1,373 |  |
+| 同盟時1290-94% |
+| [gobelin weave](Items/Trade Goods/TradeGoods-Fabrics/item_1276.md) | [交易品（織物）](Categories/category_20.md) | 4,110 | 4,240 |  |
+| [damask](Items/Trade Goods/TradeGoods-Fabrics/item_614.md) | [交易品（織物）](Categories/category_20.md) | (3,454) | 4,030 |  |
+| [turkish rug](Items/Trade Goods/TradeGoods-Fabrics/item_686.md) | [交易品（織物）](Categories/category_20.md) | (4,318) | 5,038 |  |
+| ●Turkish specialties |
+| [flannel](Items/Trade Goods/TradeGoods-Fabrics/item_149.md) | [交易品（織物）](Categories/category_20.md) | (1,423) | 1,660 |  |
+| When in alliance: confirmed at 100% |
+  </TabItem>
+  <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
+
+| item | group | sale price | 同盟時 | remarks |
+| --- | --- | --- | --- | --- |
+
+#### [交易品（繊維）](Categories/category_1.md)
+
+| [camel hair](Items/Trade Goods/TradeGoods-Fibers/item_577.md) | [交易品（繊維）](Categories/category_1.md) | (443) | 516 |  |
+| [goat hair](Items/Trade Goods/TradeGoods-Fibers/item_770.md) | [交易品（繊維）](Categories/category_1.md) | 1,284 | (1,444) |  |
+| [raw silk](Items/Trade Goods/TradeGoods-Fibers/item_677.md) | [交易品（繊維）](Categories/category_1.md) | 1,834 | (2,063) |  |
+| [cotton](Items/Trade Goods/TradeGoods-Fibers/item_610.md) | [交易品（繊維）](Categories/category_1.md) | 612 | 651 |  |
+| [wool](Items/Trade Goods/TradeGoods-Fibers/item_5.md) | [交易品（繊維）](Categories/category_1.md) | 469 | 502 |  |
+| [numb](Items/Trade Goods/TradeGoods-Fibers/item_900.md) | [交易品（繊維）](Categories/category_1.md) | (11) | 12 |  |
+| [jute](Items/Trade Goods/TradeGoods-Fibers/item_128.md) | [交易品（繊維）](Categories/category_1.md) | (181) | 211 |  |
+
+#### [Trading Goods (Dye)](Categories/category_2.md)
+
+| [ward](Items/Trade Goods/TradeGoods-Dye/item_57.md) | [Trading Goods (Dye)](Categories/category_2.md) | 907 | 907 |  |
+| [persian berry](Items/Trade Goods/TradeGoods-Dye/item_693.md) | [Trading Goods (Dye)](Categories/category_2.md) | 1,378 | (1,550) |  |
+| [貝紫](Items/Trade Goods/TradeGoods-Dye/item_110.md) | [Trading Goods (Dye)](Categories/category_2.md) | (3,943) | 4,600 |  |
+
+#### [Trading items (food items)](Categories/category_3.md)
+
+| [fava beans](Items/Trade Goods/TradeGoods-Foodstuffs/item_102.md) | [Trading items (food items)](Categories/category_3.md) | 94 | 94 |  |
+| [duck meat](Items/Trade Goods/TradeGoods-Foodstuffs/item_32.md) | [Trading items (food items)](Categories/category_3.md) | 430 | 456 |  |
+| [olive](Items/Trade Goods/TradeGoods-Foodstuffs/item_47.md) | [Trading items (food items)](Categories/category_3.md) | (262) | 305 |  |
+| [turnip](Items/Trade Goods/TradeGoods-Foodstuffs/item_55.md) | [Trading items (food items)](Categories/category_3.md) | 77 | 84 |  |
+| [Quinoa](Items/Trade Goods/TradeGoods-Foodstuffs/item_2994.md) | [Trading items (food items)](Categories/category_3.md) | (330) | 385 |  |
+| When in alliance: confirmed at 100% |
+| [sausage](Items/Trade Goods/TradeGoods-Foodstuffs/item_27.md) | [Trading items (food items)](Categories/category_3.md) | 527 | (592) |  |
+| [cheese](Items/Trade Goods/TradeGoods-Foodstuffs/item_20.md) | [Trading items (food items)](Categories/category_3.md) | 374 | (420) |  |
+| [Sugar beet](Items/Trade Goods/TradeGoods-Foodstuffs/item_1846.md) | [Trading items (food items)](Categories/category_3.md) | (225) | 262 |  |
+| [ham](Items/Trade Goods/TradeGoods-Foodstuffs/item_290.md) | [Trading items (food items)](Categories/category_3.md) | 427 | (480) |  |
+| [bacon](Items/Trade Goods/TradeGoods-Foodstuffs/item_566.md) | [Trading items (food items)](Categories/category_3.md) | 380 | (427) |  |
+| [barley](Items/Trade Goods/TradeGoods-Foodstuffs/item_124.md) | [Trading items (food items)](Categories/category_3.md) | 78 | (87) |  |
+| [Red bean](Items/Trade Goods/TradeGoods-Foodstuffs/item_3419.md) | [Trading items (food items)](Categories/category_3.md) | (264) | 308 |  |
+| When in alliance: confirmed at 100% |
+| [wheat](Items/Trade Goods/TradeGoods-Foodstuffs/item_16.md) | [Trading items (food items)](Categories/category_3.md) | 61 | (68) |  |
+| [Paddy rice](Items/Trade Goods/TradeGoods-Foodstuffs/item_654.md) | [Trading items (food items)](Categories/category_3.md) | (93) | 108 |  |
+| When in alliance: confirmed at 100% |
+| [beef](Items/Trade Goods/TradeGoods-Foodstuffs/item_26.md) | [Trading items (food items)](Categories/category_3.md) | (244) | 284 |  |
+| 要投資（必要投資額：240,000） |
+| [mutton](Items/Trade Goods/TradeGoods-Foodstuffs/item_33.md) | [Trading items (food items)](Categories/category_3.md) | 463 | 490 |  |
+| [red bean](Items/Trade Goods/TradeGoods-Foodstuffs/item_123.md) | [Trading items (food items)](Categories/category_3.md) | (123) | 143 |  |
+| [陸稲](Items/Trade Goods/TradeGoods-Foodstuffs/item_100.md) | [Trading items (food items)](Categories/category_3.md) | (96) | 112 |  |
+| When in alliance: confirmed at 100% |
+| [餡](Items/Trade Goods/TradeGoods-Foodstuffs/item_3474.md) | [Trading items (food items)](Categories/category_3.md) | (1,286) | 1,500 |  |
+| When in alliance: confirmed at 100% |
+| [魚肉](Items/Trade Goods/TradeGoods-Foodstuffs/item_10.md) | [Trading items (food items)](Categories/category_3.md) | (165) | 192 |  |
+| [chicken meat](Items/Trade Goods/TradeGoods-Foodstuffs/item_29.md) | [Trading items (food items)](Categories/category_3.md) | 298 | 331 |  |
+| When in alliance: confirmed at 100% |
+
+#### [交易品（調味料）](Categories/category_4.md)
+
+| [almond oil](Items/Trade Goods/TradeGoods-Seasonings/item_578.md) | [交易品（調味料）](Categories/category_4.md) | (615) | 717 |  |
+| [olive oil](Items/Trade Goods/TradeGoods-Seasonings/item_48.md) | [交易品（調味料）](Categories/category_4.md) | (291) | 339 |  |
+| [coconut vinegar](Items/Trade Goods/TradeGoods-Seasonings/item_1988.md) | [交易品（調味料）](Categories/category_4.md) | (444) | 518 |  |
+| [jam](Items/Trade Goods/TradeGoods-Seasonings/item_427.md) | [交易品（調味料）](Categories/category_4.md) | (540) | 629 |  |
+| 98％＝616　102％＝641 |
+| [herbal vinegar](Items/Trade Goods/TradeGoods-Seasonings/item_908.md) | [交易品（調味料）](Categories/category_4.md) | (155) | 180 |  |
+| When in alliance: confirmed at 100% |
+| [butter](Items/Trade Goods/TradeGoods-Seasonings/item_3.md) | [交易品（調味料）](Categories/category_4.md) | 383 | (430) |  |
+| [white vinegar](Items/Trade Goods/TradeGoods-Seasonings/item_56.md) | [交易品（調味料）](Categories/category_4.md) | (155) | 180 |  |
+| [wine vinegar](Items/Trade Goods/TradeGoods-Seasonings/item_429.md) | [交易品（調味料）](Categories/category_4.md) | (509) | 593 |  |
+| [salt](Items/Trade Goods/TradeGoods-Seasonings/item_42.md) | [交易品（調味料）](Categories/category_4.md) | (234) | 272 |  |
+| When in alliance: confirmed at 100% |
+| [sugar](Items/Trade Goods/TradeGoods-Seasonings/item_94.md) | [交易品（調味料）](Categories/category_4.md) | (833) | 971 |  |
+| 98％＝952　101％＝981 |
+| [Honey](Items/Trade Goods/TradeGoods-Seasonings/item_49.md) | [交易品（調味料）](Categories/category_4.md) | 939 | (1,056) |  |
+
+#### [Trading products (medical products)](Categories/category_6.md)
+
+| [peonies](Items/Trade Goods/TradeGoods-Medicine/item_1051.md) | [Trading products (medical products)](Categories/category_6.md) | (370) | 431 |  |
+| [digitalis](Items/Trade Goods/TradeGoods-Medicine/item_2148.md) | [Trading products (medical products)](Categories/category_6.md) | 378 | 392 |  |
+| [senna](Items/Trade Goods/TradeGoods-Medicine/item_155.md) | [Trading products (medical products)](Categories/category_6.md) | (414) | 483 |  |
+| [dandelion](Items/Trade Goods/TradeGoods-Medicine/item_1089.md) | [Trading products (medical products)](Categories/category_6.md) | (252) | 294 |  |
+| When in alliance: confirmed at 100% |
+| [belladonna](Items/Trade Goods/TradeGoods-Medicine/item_1056.md) | [Trading products (medical products)](Categories/category_6.md) | (471) | 549 |  |
+| When in alliance: confirmed at 100% |
+| [Mandragora](Items/Trade Goods/TradeGoods-Medicine/item_1054.md) | [Trading products (medical products)](Categories/category_6.md) | 1,000 | (1,125) |  |
+| [mercury agent](Items/Trade Goods/TradeGoods-Medicine/item_703.md) | [Trading products (medical products)](Categories/category_6.md) | (1,234) | 1,439 |  |
+
+#### [Trading Items (Iron Stone)](Categories/category_7.md)
+
+| [tin ore](Items/Trade Goods/TradeGoods-Minerals/item_23.md) | [Trading Items (Iron Stone)](Categories/category_7.md) | (504) | 587 |  |
+| When in alliance: confirmed at 100% |
+| [zinc ore](Items/Trade Goods/TradeGoods-Minerals/item_626.md) | [Trading Items (Iron Stone)](Categories/category_7.md) | (424) | 494 |  |
+| When in alliance: confirmed at 100% |
+| [Saltpeter](Items/Trade Goods/TradeGoods-Minerals/item_884.md) | [Trading Items (Iron Stone)](Categories/category_7.md) | (1,783) | 2,080 |  |
+| [iron ore](Items/Trade Goods/TradeGoods-Minerals/item_146.md) | [Trading Items (Iron Stone)](Categories/category_7.md) | (672) | 784 |  |
+| [lead ore](Items/Trade Goods/TradeGoods-Minerals/item_21.md) | [Trading Items (Iron Stone)](Categories/category_7.md) | (444) | 517 |  |
+| When in alliance: confirmed at 100% |
+| [copper ore](Items/Trade Goods/TradeGoods-Minerals/item_65.md) | [Trading Items (Iron Stone)](Categories/category_7.md) | 910 | (1,023) |  |
+
+#### [Trading products (precious metals)](Categories/category_8.md)
+
+| [gold](Items/Trade Goods/TradeGoods-Metals/item_659.md) | [Trading products (precious metals)](Categories/category_8.md) | (9,088) | 10,604 |  |
+| [silver](Items/Trade Goods/TradeGoods-Metals/item_136.md) | [Trading products (precious metals)](Categories/category_8.md) | (2,469) | 2,880 |  |
+| When in alliance: confirmed at 100% |
+
+#### [交易品（酒類）](Categories/category_9.md)
+
+| [sherry](Items/Trade Goods/TradeGoods-Alcohol/item_844.md) | [交易品（酒類）](Categories/category_9.md) | 481 | 518 |  |
+| When in alliance: confirmed at 100% |
+| [Beer](Items/Trade Goods/TradeGoods-Alcohol/item_2.md) | [交易品（酒類）](Categories/category_9.md) | (366) | 427 |  |
+| [brandy](Items/Trade Goods/TradeGoods-Alcohol/item_9.md) | [交易品（酒類）](Categories/category_9.md) | 794 | 794 |  |
+| When in alliance: confirmed at 100% |
+| [palm wine](Items/Trade Goods/TradeGoods-Alcohol/item_436.md) | [交易品（酒類）](Categories/category_9.md) | (417) | 486 |  |
+| [rum](Items/Trade Goods/TradeGoods-Alcohol/item_139.md) | [交易品（酒類）](Categories/category_9.md) | (646) | 753 |  |
+| [liqueur](Items/Trade Goods/TradeGoods-Alcohol/item_18.md) | [交易品（酒類）](Categories/category_9.md) | 632 | 647 |  |
+| [wine](Items/Trade Goods/TradeGoods-Alcohol/item_11.md) | [交易品（酒類）](Categories/category_9.md) | (442) | 515 |  |
+| When in alliance: confirmed at 100% |
+| [Shochu](Items/Trade Goods/TradeGoods-Alcohol/item_3449.md) | [交易品（酒類）](Categories/category_9.md) | 6,225 | (7,003) |  |
+
+#### [Trading goods (hobby goods)](Categories/category_10.md)
+
+| [almond](Items/Trade Goods/TradeGoods-Sunddries/item_367.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (179) | 208 |  |
+| ▲Special products from neighboring cultural areas |
+| [walnut](Items/Trade Goods/TradeGoods-Sunddries/item_522.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 484 | 488 |  |
+| [pickles](Items/Trade Goods/TradeGoods-Sunddries/item_535.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (255) | 297 |  |
+| When in alliance: confirmed at 100% |
+| [prune](Items/Trade Goods/TradeGoods-Sunddries/item_523.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 374 | 374 |  |
+| [hazelnut](Items/Trade Goods/TradeGoods-Sunddries/item_125.md) | [Trading goods (hobby goods)](Categories/category_10.md) | 126 | (141) |  |
+| 要投資（必要投資額：400,000） EO第4章で追加 |
+| [Yerba mate tea](Items/Trade Goods/TradeGoods-Sunddries/item_1808.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (354) | 413 |  |
+| [raisins](Items/Trade Goods/TradeGoods-Sunddries/item_35.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (304) | 354 |  |
+
+#### [Trading Goods (Spices)](Categories/category_11.md)
+
+| [oakmoss](Items/Trade Goods/TradeGoods-Perfume/item_819.md) | [Trading Goods (Spices)](Categories/category_11.md) | 840 | 840 |  |
+| [rose](Items/Trade Goods/TradeGoods-Perfume/item_536.md) | [Trading Goods (Spices)](Categories/category_11.md) | 2,950 | 2,950 |  |
+| [Ryushu incense](Items/Trade Goods/TradeGoods-Perfume/item_101.md) | [Trading Goods (Spices)](Categories/category_11.md) | (3,454) | 4,030 |  |
+| 98％＝3950　107％＝4310 |
+| [Musk](Items/Trade Goods/TradeGoods-Perfume/item_158.md) | [Trading Goods (Spices)](Categories/category_11.md) | 4,214 | 4,536 |  |
+
+#### [Trading Goods (Spices)](Categories/category_12.md)
+
+| [oregano](Items/Trade Goods/TradeGoods-Spices/item_430.md) | [Trading Goods (Spices)](Categories/category_12.md) | (457) | 533 |  |
+| When in alliance: confirmed at 100% |
+| [garlic](Items/Trade Goods/TradeGoods-Spices/item_526.md) | [Trading Goods (Spices)](Categories/category_12.md) | 324 | 338 |  |
+| [cumin](Items/Trade Goods/TradeGoods-Spices/item_156.md) | [Trading Goods (Spices)](Categories/category_12.md) | (975) | 1,137 |  |
+| [coriander](Items/Trade Goods/TradeGoods-Spices/item_1044.md) | [Trading Goods (Spices)](Categories/category_12.md) | (415) | 484 |  |
+| When in alliance: confirmed at 100% |
+| [Sesame](Items/Trade Goods/TradeGoods-Spices/item_437.md) | [Trading Goods (Spices)](Categories/category_12.md) | 339 | (381) |  |
+| [saffron](Items/Trade Goods/TradeGoods-Spices/item_845.md) | [Trading Goods (Spices)](Categories/category_12.md) | 2,429 | (2,732) |  |
+| [ginger](Items/Trade Goods/TradeGoods-Spices/item_112.md) | [Trading Goods (Spices)](Categories/category_12.md) | (1,797) | 2,096 |  |
+| [celery](Items/Trade Goods/TradeGoods-Spices/item_431.md) | [Trading Goods (Spices)](Categories/category_12.md) | (123) | 143 |  |
+| When in alliance: confirmed at 100% |
+| [parsley](Items/Trade Goods/TradeGoods-Spices/item_46.md) | [Trading Goods (Spices)](Categories/category_12.md) | (127) | 148 |  |
+| When in alliance: confirmed at 100% |
+| [fennel](Items/Trade Goods/TradeGoods-Spices/item_1045.md) | [Trading Goods (Spices)](Categories/category_12.md) | (317) | 369 |  |
+| 98％＝361　103％＝380 |
+| [mint](Items/Trade Goods/TradeGoods-Spices/item_816.md) | [Trading Goods (Spices)](Categories/category_12.md) | (174) | 202 |  |
+
+#### [Trading goods (artificial goods)](Categories/category_13.md)
+
+| [coral work](Items/Trade Goods/TradeGoods-Luxuries/item_595.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (2,589) | 3,020 |  |
+| [dragonfly ball](Items/Trade Goods/TradeGoods-Luxuries/item_294.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (1,046) | 1,220 |  |
+| [皮革製品](Items/Trade Goods/TradeGoods-Luxuries/item_12.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (1,132) | 1,320 |  |
+| When in alliance: confirmed at 100% |
+| [Ivory work](Items/Trade Goods/TradeGoods-Luxuries/item_1090.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (2,820) | 3,290 |  |
+| When in alliance: confirmed at 100% |
+| [goldsmith](Items/Trade Goods/TradeGoods-Luxuries/item_687.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (2,597) | 3,030 |  |
+| [silversmith](Items/Trade Goods/TradeGoods-Luxuries/item_619.md) | [Trading goods (artificial goods)](Categories/category_13.md) | 2,819 | 3,030 |  |
+| [luxury clothing](Items/Trade Goods/TradeGoods-Luxuries/item_165.md) | [Trading goods (artificial goods)](Categories/category_13.md) | (3,754) | 4,380 |  |
+
+#### [交易品（美術品）](Categories/category_14.md)
+
+| [古美術品](Items/Trade Goods/TradeGoods-Art/item_51.md) | [交易品（美術品）](Categories/category_14.md) | 3,530 | 3,580 |  |
+| When in alliance: confirmed at 100% |
+| [marble statue](Items/Trade Goods/TradeGoods-Art/item_50.md) | [交易品（美術品）](Categories/category_14.md) | 3,024 | 3,094 |  |
+| [wooden statue](Items/Trade Goods/TradeGoods-Art/item_95.md) | [交易品（美術品）](Categories/category_14.md) | (1,123) | 1,310 |  |
+| 98％＝1280　102％＝1330 |
+| [oil painting](Items/Trade Goods/TradeGoods-Art/item_1088.md) | [交易品（美術品）](Categories/category_14.md) | (1,869) | 2,180 |  |
+| When in alliance: confirmed at 100% |
+| [stone statue](Items/Trade Goods/TradeGoods-Art/item_899.md) | [交易品（美術品）](Categories/category_14.md) | (1,560) | 1,820 |  |
+| 98％＝1780　103％＝1870 |
+
+#### [Trading Items (Gemstones)](Categories/category_15.md)
+
+| [Agate](Items/Trade Goods/TradeGoods-Gems/item_107.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (4,639) | 5,412 |  |
+| [emerald](Items/Trade Goods/TradeGoods-Gems/item_777.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 7,860 | (8,843) |  |
+| [coral](Items/Trade Goods/TradeGoods-Gems/item_141.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 2,805 | 3,420 |  |
+| [crystal](Items/Trade Goods/TradeGoods-Gems/item_893.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (1,843) | 2,150 |  |
+| [pearl](Items/Trade Goods/TradeGoods-Gems/item_769.md) | [Trading Items (Gemstones)](Categories/category_15.md) | (8,373) | 9,770 |  |
+| When in alliance: confirmed at 100% |
+| [ivory](Items/Trade Goods/TradeGoods-Gems/item_699.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 3,590 | (4,039) |  |
+
+#### [Trading Items (Arms)](Categories/category_16.md)
+
+| [crossbow](Items/Trade Goods/TradeGoods-Weapons/item_537.md) | [Trading Items (Arms)](Categories/category_16.md) | (876) | 1,022 |  |
+| [two-handed sword](Items/Trade Goods/TradeGoods-Weapons/item_24.md) | [Trading Items (Arms)](Categories/category_16.md) | 1,648 | (1,854) |  |
+| [scimitar](Items/Trade Goods/TradeGoods-Weapons/item_142.md) | [Trading Items (Arms)](Categories/category_16.md) | 1,060 | (1,192) |  |
+| [one handed sword](Items/Trade Goods/TradeGoods-Weapons/item_433.md) | [Trading Items (Arms)](Categories/category_16.md) | (969) | 1,130 |  |
+| When in alliance: confirmed at 100% |
+| [dagger](Items/Trade Goods/TradeGoods-Weapons/item_143.md) | [Trading Items (Arms)](Categories/category_16.md) | 923 | (1,038) |  |
+| [western armor](Items/Trade Goods/TradeGoods-Weapons/item_6.md) | [Trading Items (Arms)](Categories/category_16.md) | 2,771 | (3,117) |  |
+| [長弓](Items/Trade Goods/TradeGoods-Weapons/item_1049.md) | [Trading Items (Arms)](Categories/category_16.md) | 783 | (880) |  |
+
+#### [Trading Items (Firearms)](Categories/category_17.md)
+
+| [arquebus gun](Items/Trade Goods/TradeGoods-Firearms/item_14.md) | [Trading Items (Firearms)](Categories/category_17.md) | (1,637) | 1,910 |  |
+| When in alliance: confirmed at 100% |
+| [musket gun](Items/Trade Goods/TradeGoods-Firearms/item_584.md) | [Trading Items (Firearms)](Categories/category_17.md) | (2,374) | 2,770 |  |
+| When in alliance: confirmed at 100% |
+| [大砲](Items/Trade Goods/TradeGoods-Firearms/item_4.md) | [Trading Items (Firearms)](Categories/category_17.md) | (3,009) | 3,510 |  |
+| When in alliance: confirmed at 100% |
+| [bullet](Items/Trade Goods/TradeGoods-Firearms/item_13.md) | [Trading Items (Firearms)](Categories/category_17.md) | (783) | 913 |  |
+| When in alliance: confirmed at 100% |
+| [gunpowder](Items/Trade Goods/TradeGoods-Firearms/item_352.md) | [Trading Items (Firearms)](Categories/category_17.md) | 1,142 | (1,284) |  |
+| [cannonball](Items/Trade Goods/TradeGoods-Firearms/item_144.md) | [Trading Items (Firearms)](Categories/category_17.md) | (1,509) | 1,760 |  |
+| When in alliance: confirmed at 100% |
+
+#### [Trading Goods (Livestock)](Categories/category_18.md)
+
+| [duck](Items/Trade Goods/TradeGoods-Livestock/item_38.md) | [Trading Goods (Livestock)](Categories/category_18.md) | (60) | 69 |  |
+| [cow](Items/Trade Goods/TradeGoods-Livestock/item_17.md) | [Trading Goods (Livestock)](Categories/category_18.md) | 343 | (385) |  |
+| [chicken](Items/Trade Goods/TradeGoods-Livestock/item_252.md) | [Trading Goods (Livestock)](Categories/category_18.md) | 52 | 55 |  |
+| [sheep](Items/Trade Goods/TradeGoods-Livestock/item_253.md) | [Trading Goods (Livestock)](Categories/category_18.md) | 131 | 134 |  |
+| [goat](Items/Trade Goods/TradeGoods-Livestock/item_534.md) | [Trading Goods (Livestock)](Categories/category_18.md) | (174) | 203 |  |
+| When in alliance: confirmed at 100% |
+
+#### [交易品（工業品）](Categories/category_19.md)
+
+| [alabaster](Items/Trade Goods/TradeGoods-Wares/item_1086.md) | [交易品（工業品）](Categories/category_19.md) | (567) | 661 |  |
+| [wax](Items/Trade Goods/TradeGoods-Wares/item_54.md) | [交易品（工業品）](Categories/category_19.md) | (807) | 941 |  |
+| [marble](Items/Trade Goods/TradeGoods-Wares/item_52.md) | [交易品（工業品）](Categories/category_19.md) | (1,183) | 1,380 |  |
+| [wood](Items/Trade Goods/TradeGoods-Wares/item_277.md) | [交易品（工業品）](Categories/category_19.md) | (755) | 880 |  |
+| When in alliance: confirmed at 100% |
+| [水銀](Items/Trade Goods/TradeGoods-Wares/item_15.md) | [交易品（工業品）](Categories/category_19.md) | (1,072) | 1,250 |  |
+| When in alliance: confirmed at 100% |
+| [graphite](Items/Trade Goods/TradeGoods-Wares/item_25.md) | [交易品（工業品）](Categories/category_19.md) | (1,012) | 1,180 |  |
+| When in alliance: confirmed at 100% |
+| [coal](Items/Trade Goods/TradeGoods-Wares/item_359.md) | [交易品（工業品）](Categories/category_19.md) | (494) | 576 |  |
+| [sulfur](Items/Trade Goods/TradeGoods-Wares/item_66.md) | [交易品（工業品）](Categories/category_19.md) | (502) | 585 |  |
+| When in alliance: confirmed at 100% |
+| [羊皮紙](Items/Trade Goods/TradeGoods-Wares/item_53.md) | [交易品（工業品）](Categories/category_19.md) | (1,106) | 1,290 |  |
+| ▲Special products from neighboring cultural areas |
+| [iron material](Items/Trade Goods/TradeGoods-Wares/item_268.md) | [交易品（工業品）](Categories/category_19.md) | 971 | (1,092) |  |
+| [鋼](Items/Trade Goods/TradeGoods-Wares/item_573.md) | [交易品（工業品）](Categories/category_19.md) | (1,109) | 1,293 |  |
+| [青銅](Items/Trade Goods/TradeGoods-Wares/item_7.md) | [交易品（工業品）](Categories/category_19.md) | 1,330 | (1,496) |  |
+
+#### [交易品（織物）](Categories/category_20.md)
+
+| [corduroy](Items/Trade Goods/TradeGoods-Fabrics/item_824.md) | [交易品（織物）](Categories/category_20.md) | 954 | 979 |  |
+| [satin](Items/Trade Goods/TradeGoods-Fabrics/item_996.md) | [交易品（織物）](Categories/category_20.md) | 2,800 | (3,150) |  |
+| [georgette](Items/Trade Goods/TradeGoods-Fabrics/item_1000.md) | [交易品（織物）](Categories/category_20.md) | (2,529) | 2,950 |  |
+| [tweed](Items/Trade Goods/TradeGoods-Fabrics/item_31.md) | [交易品（織物）](Categories/category_20.md) | 1,456 | (1,638) |  |
+| [knit](Items/Trade Goods/TradeGoods-Fabrics/item_164.md) | [交易品（織物）](Categories/category_20.md) | (516) | 602 |  |
+| [velvet](Items/Trade Goods/TradeGoods-Fabrics/item_902.md) | [交易品（織物）](Categories/category_20.md) | 2,990 | 3,020 |  |
+| [race](Items/Trade Goods/TradeGoods-Fabrics/item_59.md) | [交易品（織物）](Categories/category_20.md) | (1,637) | 1,909 |  |
+| [woolen fabric](Items/Trade Goods/TradeGoods-Fabrics/item_163.md) | [交易品（織物）](Categories/category_20.md) | (835) | 974 |  |
+| [cotton fabric](Items/Trade Goods/TradeGoods-Fabrics/item_571.md) | [交易品（織物）](Categories/category_20.md) | (917) | 1,070 |  |
+| [linen fabric](Items/Trade Goods/TradeGoods-Fabrics/item_135.md) | [交易品（織物）](Categories/category_20.md) | 495 | (556) |  |
+  </TabItem>
+  <TabItem value="guild_&_others" label="Guild & Others">
+
+| item | group | Sales price | Handling NPC | remarks |
+| --- | --- | --- | --- | --- |
+
+#### adventure guild
+
+| [Throwing technique](Skills/Skill-Adventure/item_1729.md) | [Skill (adventure)](Categories/category_39.md) | 100,000 | adventure guild |  |
+| [archeology](Skills/Skill-Adventure/item_342.md) | [Skill (adventure)](Categories/category_39.md) | 3,000 | adventure guild |  |
+| [supply](Skills/Skill-Adventure/item_455.md) | [Skill (adventure)](Categories/category_39.md) | 2,000 | adventure guild |  |
+
+#### merchant guild
+
+| [Crafts](Skills/Skill-Trade/item_476.md) | [Skill (trade)](Categories/category_40.md) | 20,000 | merchant guild |  |
+| [運用](Skills/Skill-Trade/item_469.md) | [Skill (trade)](Categories/category_40.md) | 8,000 | merchant guild |  |
+| [greek](Skills/Skills-Language/item_604.md) | [Skills (language)](Categories/category_42.md) | 6,000 | merchant guild |  |
+
+#### maritime guild
+
+| [repair](Skills/Skill-Battle/item_502.md) | [Skill (combat)](Categories/category_41.md) | 8,000 | maritime guild |  |
+| [ballistics](Skills/Skill-Battle/item_443.md) | [Skill (combat)](Categories/category_41.md) | 25,000 | maritime guild |  |
+| [tactics](Skills/Skill-Battle/item_501.md) | [Skill (combat)](Categories/category_41.md) | 10,000 | maritime guild |  |
+
+#### Thomas Campanella
+
+| [How to create a Romance language dictionary](Items/Recipe Book/item_2010.md) | [recipe book](Categories/category_22.md) | Fixed recipe | Thomas Campanella |  |
+| [Hebrew](Skills/Skills-Language/item_1417.md) | [Skills (language)](Categories/category_42.md) | 30,000 | Thomas Campanella |  |
+
+#### Musician Gesualdo
+
+| [採集](Skills/Skill-Adventure/item_423.md) | [Skill (adventure)](Categories/category_39.md) | 4,000 | Musician Gesualdo |  |
+| [fishing](Skills/Skill-Adventure/item_339.md) | [Skill (adventure)](Categories/category_39.md) | 3,000 | Musician Gesualdo |  |
+  </TabItem>
+  <TabItem value="toolman" label="Toolman">
+
+| item | group | Sales price | Handling NPC | remarks |
+| --- | --- | --- | --- | --- |
+
+#### [recipe book](Categories/category_22.md)
+
+| [Mode Design Collection Volume 2](Items/Recipe Book/item_709.md) | [recipe book](Categories/category_22.md) | 30,000 | tool shop owner |  |
+| 要投資（必要投資額：120,000） |
+| [Mode Design Collection Volume 4](Items/Recipe Book/item_729.md) | [recipe book](Categories/category_22.md) | 300,000 | tool shop owner |  |
+| 要投資（必要投資額：320,000） |
+| [Staff training/introduction](Items/Recipe Book/item_586.md) | [recipe book](Categories/category_22.md) | 20,000 | tool shop owner |  |
+| [Wand forging/application](Items/Recipe Book/item_710.md) | [recipe book](Categories/category_22.md) | 50,000 | tool shop owner |  |
+| 要投資（必要投資額：120,000） |
+| [Book of land battle props and crafts](Items/Recipe Book/item_521.md) | [recipe book](Categories/category_22.md) | 10,000 | tool shop owner |  |
+
+#### [Equipment (head)](Categories/category_23.md)
+
+| [bicorne](Items/Equipment/Equipment-Head/item_539.md) | [Equipment (head)](Categories/category_23.md) | 23,000 | tool shop owner |  |
+| [padded roll](Items/Equipment/Equipment-Head/item_713.md) | [Equipment (head)](Categories/category_23.md) | 40,800 | tool shop owner |  |
+| 要投資（必要投資額：120,000） |
+| [Biretta](Items/Equipment/Equipment-Head/item_1501.md) | [Equipment (head)](Categories/category_23.md) | 63,200 | tool shop owner |  |
+| 要投資（必要投資額：120,000） |
+| [Bicorne with wings](Items/Equipment/Equipment-Head/item_712.md) | [Equipment (head)](Categories/category_23.md) | 36,800 | tool shop owner |  |
+| 要投資（必要投資額：120,000） |
+| [Padded roll with wings](Items/Equipment/Equipment-Head/item_714.md) | [Equipment (head)](Categories/category_23.md) | 53,800 | tool shop owner |  |
+| 要投資（必要投資額：180,000） |
+| [Breton with wings](Items/Equipment/Equipment-Head/item_587.md) | [Equipment (head)](Categories/category_23.md) | 8,400 | tool shop owner |  |
+
+#### [Equipment (body)](Categories/category_24.md)
+
+| [rough color doublet](Items/Equipment/Equipment-Body/item_711.md) | [Equipment (body)](Categories/category_24.md) | 116,500 | tool shop owner |  |
+| 要投資（必要投資額：120,000） |
+| [Overseer Toga](Items/Equipment/Equipment-Body/item_1615.md) | [Equipment (body)](Categories/category_24.md) | 250,000 | tool shop owner |  |
+| 要投資（必要投資額：320,000） |
+
+#### [Equipment (belongings)](Categories/category_27.md)
+
+| [Vihuela](Items/Equipment/Equipment-Weapon/item_715.md) | [Equipment (belongings)](Categories/category_27.md) | 12,000 | tool shop owner |  |
+| 要投資（必要投資額：120,000） |
+| [matchlock shooting gun](Items/Equipment/Equipment-Weapon/item_103.md) | [Equipment (belongings)](Categories/category_27.md) | 3,000 | tool shop owner |  |
+| [roundel dagger](Items/Equipment/Equipment-Weapon/item_1670.md) | [Equipment (belongings)](Categories/category_27.md) | 24,500 | tool shop owner |  |
+| 要投資（必要投資額：180,000） |
+| [priest's cane](Items/Equipment/Equipment-Weapon/item_517.md) | [Equipment (belongings)](Categories/category_27.md) | 10,900 | tool shop owner |  |
+| [priest's staff](Items/Equipment/Equipment-Weapon/item_518.md) | [Equipment (belongings)](Categories/category_27.md) | 13,600 | tool shop owner |  |
+
+#### [装備品（服飾品）](Categories/category_28.md)
+
+| [Utilization guidebook volume 1](Items/Equipment/Equipment-Accessory/item_2209.md) | [装備品（服飾品）](Categories/category_28.md) | 10,000 | tool shop owner |  |
+| 要投資（必要投資額：120,000） |
+| [Consecutive Attack Guide Volume 1](Items/Equipment/Equipment-Accessory/item_2208.md) | [装備品（服飾品）](Categories/category_28.md) | 10,000 | tool shop owner |  |
+| 要投資（必要投資額：120,000） |
+
+#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+
+| [hawk feather](Items/Consumables/Consumables-Landbattle/item_562.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 200 | tool shop owner |  |
+| [throwing knife](Items/Consumables/Consumables-Landbattle/item_560.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 150 | tool shop owner |  |
+| [Assortment of therapeutic drugs](Items/Consumables/Consumables-Landbattle/item_564.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 900 | tool shop owner |  |
+| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) | 600 | tool shop owner |  |
+
+#### [Consumables (naval/hand-to-hand combat)](Categories/category_30.md)
+
+| [forged correspondence](Items/Consumables/Consumables-navalhand-to-hand combat/item_559.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) | 3,000 | tool shop owner |  |
+
+#### [Consumables (skill activation)](Categories/category_31.md)
+
+| [card](Items/Consumables/Consumables-Skill/item_855.md) | [Consumables (skill activation)](Categories/category_31.md) | 500 | tool shop owner |  |
+| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | [Consumables (skill activation)](Categories/category_31.md) | 2,500 | tool shop owner |  |
+
+#### [Consumables (request documents)](Categories/category_45.md)
+
+| [Textile purchase order](Items/Consumables/Consumables-Documents/item_2977.md) | [Consumables (request documents)](Categories/category_45.md) | 50,000 | tool shop owner |  |
+
+#### [Consumables (lots, treasure chests)](Categories/category_50.md)
+
+| [Fun box (NO.3)](Items/Consumables/Consumables-Treasure-Chests/item_4756.md) | [Consumables (lots, treasure chests)](Categories/category_50.md) | 50,000,000 | tool shop owner |  |
+  </TabItem>
+  <TabItem value="kobo_craftsmen" label="Craftsman">
+
+| item | group | Sales price | Handling NPC | remarks |
+| --- | --- | --- | --- | --- |
+
+#### [Consumables (condition recovery)](Categories/category_21.md)
+
+| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
+| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | [Consumables (condition recovery)](Categories/category_21.md) | 200 | workshop craftsman |  |
+
+#### [recipe book](Categories/category_22.md)
+
+| [Special weapons manufacturing method](Items/Recipe Book/item_747.md) | [recipe book](Categories/category_22.md) | 100,000 | workshop craftsman |  |
+| 要投資（必要投資額：180,000） |
+| [Shipwright Introduction/Casting Book](Items/Recipe Book/item_76.md) | [recipe book](Categories/category_22.md) | Fixed recipe | workshop craftsman |  |
+
+#### [Consumables (skill activation)](Categories/category_31.md)
+
+| [四分儀](Items/Consumables/Consumables-Skill/item_346.md) | [Consumables (skill activation)](Categories/category_31.md) | 500 | workshop craftsman |  |
+
+#### [Consumables (other)](Categories/category_44.md)
+
+| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
+| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | [Consumables (other)](Categories/category_44.md) | 500 | workshop craftsman |  |
+
+#### [shipbuilding materials](Categories/category_47.md)
+
+| [General purpose medium square sail](Items/Shipbuilding FS Material/item_3453.md) | [shipbuilding materials](Categories/category_47.md) | 300,000 | workshop craftsman |  |
+| 要投資（必要投資額：500,000） |
+| [General purpose medium latin sail](Items/Shipbuilding FS Material/item_3452.md) | [shipbuilding materials](Categories/category_47.md) | 300,000 | workshop craftsman |  |
+| 要投資（必要投資額：500,000） |
+| [General-purpose medium-sized paddle boat](Items/Shipbuilding FS Material/item_3451.md) | [shipbuilding materials](Categories/category_47.md) | 1,000,000 | workshop craftsman |  |
+| 要投資（必要投資額：500,000） |
+| [General-purpose medium-sized anti-swaying water tank](Items/Shipbuilding FS Material/item_3535.md) | [shipbuilding materials](Categories/category_47.md) | 800,000 | workshop craftsman |  |
+| 要投資（必要投資額：700,000） |
+| [General purpose medium gun port](Items/Shipbuilding FS Material/item_3455.md) | [shipbuilding materials](Categories/category_47.md) | 300,000 | workshop craftsman |  |
+| 要投資（必要投資額：500,000） |
+| [General-purpose medium-sized hull](Items/Shipbuilding FS Material/item_3450.md) | [shipbuilding materials](Categories/category_47.md) | 1,000,000 | workshop craftsman |  |
+| 要投資（必要投資額：500,000） |
+  </TabItem>
+  <TabItem value="sculptor" label="sculptor">
+
+| item | group | Sales price | Handling NPC | remarks |
+| --- | --- | --- | --- | --- |
+
+#### [recipe book](Categories/category_22.md)
+
+| [Creating saint statues, part 8](Items/Recipe Book/item_1800.md) | [recipe book](Categories/category_22.md) | Fixed recipe | sculptor |  |
+
+#### [Ship parts (figurehead)](Categories/category_34.md)
+
+| [dolphin statue](Items/Ship Parts/Shipparts-Figurehead/item_169.md) | [Ship parts (figurehead)](Categories/category_34.md) | 500 | sculptor |  |
+| [whale statue](Items/Ship Parts/Shipparts-Figurehead/item_172.md) | [Ship parts (figurehead)](Categories/category_34.md) | 12,000 | sculptor |  |
+| [shark statue](Items/Ship Parts/Shipparts-Figurehead/item_171.md) | [Ship parts (figurehead)](Categories/category_34.md) | 8,600 | sculptor |  |
+| [killer whale statue](Items/Ship Parts/Shipparts-Figurehead/item_170.md) | [Ship parts (figurehead)](Categories/category_34.md) | 8,600 | sculptor |  |
+| [phoenix statue](Items/Ship Parts/Shipparts-Figurehead/item_631.md) | [Ship parts (figurehead)](Categories/category_34.md) | 62,000 | sculptor |  |
+| [maiden statue](Items/Ship Parts/Shipparts-Figurehead/item_167.md) | [Ship parts (figurehead)](Categories/category_34.md) | 13,000 | sculptor |  |
+| [statue of a great man](Items/Ship Parts/Shipparts-Figurehead/item_717.md) | [Ship parts (figurehead)](Categories/category_34.md) | 60,000 | sculptor |  |
+| [statue of the brave](Items/Ship Parts/Shipparts-Figurehead/item_716.md) | [Ship parts (figurehead)](Categories/category_34.md) | 60,000 | sculptor |  |
+| [angel statue](Items/Ship Parts/Shipparts-Figurehead/item_168.md) | [Ship parts (figurehead)](Categories/category_34.md) | 13,000 | sculptor |  |
+| [statue of tenryu](Items/Ship Parts/Shipparts-Figurehead/item_630.md) | [Ship parts (figurehead)](Categories/category_34.md) | 62,000 | sculptor |  |
+| [statue of goddess](Items/Ship Parts/Shipparts-Figurehead/item_721.md) | [Ship parts (figurehead)](Categories/category_34.md) | 60,000 | sculptor |  |
+| [sea ​​turtle statue](Items/Ship Parts/Shipparts-Figurehead/item_173.md) | [Ship parts (figurehead)](Categories/category_34.md) | 1,800 | sculptor |  |
+| [sea ​​monster statue](Items/Ship Parts/Shipparts-Figurehead/item_628.md) | [Ship parts (figurehead)](Categories/category_34.md) | 62,000 | sculptor |  |
+| [statue of sea god](Items/Ship Parts/Shipparts-Figurehead/item_720.md) | [Ship parts (figurehead)](Categories/category_34.md) | 60,000 | sculptor |  |
+| [statue of king](Items/Ship Parts/Shipparts-Figurehead/item_718.md) | [Ship parts (figurehead)](Categories/category_34.md) | 60,000 | sculptor |  |
+| [statue of a saint](Items/Ship Parts/Shipparts-Figurehead/item_629.md) | [Ship parts (figurehead)](Categories/category_34.md) | 100,000 | sculptor |  |
+| [statue of virgin](Items/Ship Parts/Shipparts-Figurehead/item_719.md) | [Ship parts (figurehead)](Categories/category_34.md) | 60,000 | sculptor |  |
+  </TabItem>
+  <TabItem value="peddler" label="peddler">
+
+| item | group | Sales price | Handling NPC | remarks |
+| --- | --- | --- | --- | --- |
+
+#### [Consumables (condition recovery)](Categories/category_21.md)
+
+| [spare sail](Items/Consumables/Consumables-Recovery/item_242.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
+| [hand bucket](Items/Consumables/Consumables-Recovery/item_69.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
+| [fire extinguishing sand](Items/Consumables/Consumables-Recovery/item_68.md) | [Consumables (condition recovery)](Categories/category_21.md) |  | peddler |  |
+
+#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+
+| [煙玉](Items/Consumables/Consumables-Landbattle/item_86.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) |  | peddler |  |
+| [explosive drug](Items/Consumables/Consumables-Landbattle/item_2493.md) | [Consumables (land battle/deck battle)](Categories/category_29.md) |  | peddler |  |
+
+#### [Consumables (naval/hand-to-hand combat)](Categories/category_30.md)
+
+| [手術道具](Items/Consumables/Consumables-navalhand-to-hand combat/item_80.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |  | peddler |  |
+| [flag of calm](Items/Consumables/Consumables-navalhand-to-hand combat/item_84.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |  | peddler |  |
+
+#### [Consumables (skill activation)](Categories/category_31.md)
+
+| [landmark ribbon](Items/Consumables/Consumables-Skill/item_316.md) | [Consumables (skill activation)](Categories/category_31.md) |  | peddler |  |
+  </TabItem>
+  <TabItem value="salesperson" label="salesperson">
+
+| item | group | Sales price | Handling NPC | remarks |
+| --- | --- | --- | --- | --- |
+
+#### [Consumables (cooking)](Categories/category_32.md)
+
+| [cheese omelet](Items/Consumables/Consumables-Cooking/item_642.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
+| [pound cake](Items/Consumables/Consumables-Cooking/item_645.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
+| [fiadone](Items/Consumables/Consumables-Cooking/item_1505.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
+| [focaccia](Items/Consumables/Consumables-Cooking/item_1064.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
+| [Brioche with prunes](Items/Consumables/Consumables-Cooking/item_987.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
+| [bagel](Items/Consumables/Consumables-Cooking/item_1066.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
+| [meat pie](Items/Consumables/Consumables-Cooking/item_1076.md) | [Consumables (cooking)](Categories/category_32.md) |  | salesperson |  |
+  </TabItem>
+  <TabItem value="translator" label="translator">
+
+| item | group | Sales price | Handling NPC | remarks |
+| --- | --- | --- | --- | --- |
+
+#### [Consumables (skill activation)](Categories/category_31.md)
+
+| [Romance languages ​​translation notes](Items/Consumables/Consumables-Skill/item_2441.md) | [Consumables (skill activation)](Categories/category_31.md) |  | translator |  |
+  </TabItem>
+  <TabItem value="shipyard" label="Shipyard">
+
+
+### Shipyard Master
+
+| item | group | Sales price | Handling NPC | remarks |
+| --- | --- | --- | --- | --- |
+
+#### [recipe book](Categories/category_22.md)
+
+| [Book of Shipbuilding Materials and Oar Boats Volume 1](Items/Recipe Book/item_5271.md) | [recipe book](Categories/category_22.md) |  | Shipyard Master |  |
+
+#### [Boat](Categories/category_43.md)
+
+| [Galliot](Items/Ships/item_210.md) | [Boat](Categories/category_43.md) | 156,000 | Shipyard Master |  |
+| [galeas](Items/Ships/item_1447.md) | [Boat](Categories/category_43.md) | 7,500,000 | Shipyard Master |  |
+| [galleon](Items/Ships/item_411.md) | [Boat](Categories/category_43.md) | 4,500,000 | Shipyard Master |  |
+| [galley](Items/Ships/item_227.md) | [Boat](Categories/category_43.md) | 645,000 | Shipyard Master |  |
+| [carrack](Items/Ships/item_236.md) | [Boat](Categories/category_43.md) | 720,000 | Shipyard Master |  |
+| [caravelle](Items/Ships/item_213.md) | [Boat](Categories/category_43.md) | 285,000 | Shipyard Master |  |
+| [Talette](Items/Ships/item_205.md) | [Boat](Categories/category_43.md) | 11,500 | Shipyard Master |  |
+| [bus](Items/Ships/item_244.md) | [Boat](Categories/category_43.md) | 880,000 | Shipyard Master |  |
+| [Varsha](Items/Ships/item_201.md) | [Boat](Categories/category_43.md) | 2,000 | Shipyard Master |  |
+| [frigate](Items/Ships/item_760.md) | [Boat](Categories/category_43.md) | 1,080,000 | Shipyard Master |  |
+| [bergantine](Items/Ships/item_208.md) | [Boat](Categories/category_43.md) | 148,800 | Shipyard Master |  |
+| [la real](Items/Ships/item_551.md) | [Boat](Categories/category_43.md) | 6,100,000 | Shipyard Master |  |
+| [Operation galley](Items/Ships/item_4065.md) | [Boat](Categories/category_43.md) | 1,180,000 | Shipyard Master |  |
+| [commercial galleon](Items/Ships/item_412.md) | [Boat](Categories/category_43.md) | 4,600,000 | Shipyard Master |  |
+| [commercial galley](Items/Ships/item_229.md) | [Boat](Categories/category_43.md) | 650,000 | Shipyard Master |  |
+| [commercial carrack](Items/Ships/item_239.md) | [Boat](Categories/category_43.md) | 728,000 | Shipyard Master |  |
+| [commercial caravel](Items/Ships/item_215.md) | [Boat](Categories/category_43.md) | 290,000 | Shipyard Master |  |
+| [commercial varsha](Items/Ships/item_204.md) | [Boat](Categories/category_43.md) | 5,200 | Shipyard Master |  |
+| [commercial large caravel](Items/Ships/item_1513.md) | [Boat](Categories/category_43.md) | 1,632,000 | Shipyard Master |  |
+| [large galley](Items/Ships/item_250.md) | [Boat](Categories/category_43.md) | 2,250,000 | Shipyard Master |  |
+| [large caravel](Items/Ships/item_246.md) | [Boat](Categories/category_43.md) | 1,160,000 | Shipyard Master |  |
+| [small galleon](Items/Ships/item_406.md) | [Boat](Categories/category_43.md) | 830,000 | Shipyard Master |  |
+| [small carrack](Items/Ships/item_219.md) | [Boat](Categories/category_43.md) | 480,000 | Shipyard Master |  |
+| [small caravel](Items/Ships/item_206.md) | [Boat](Categories/category_43.md) | 92,000 | Shipyard Master |  |
+| [assault galley](Items/Ships/item_224.md) | [Boat](Categories/category_43.md) | 640,000 | Shipyard Master |  |
+| [Assault heavy caravel](Items/Ships/item_1512.md) | [Boat](Categories/category_43.md) | 1,872,000 | Shipyard Master |  |
+| [battle galleon](Items/Ships/item_413.md) | [Boat](Categories/category_43.md) | 4,600,000 | Shipyard Master |  |
+| [combat carrack](Items/Ships/item_238.md) | [Boat](Categories/category_43.md) | 720,000 | Shipyard Master |  |
+| [combat caravel](Items/Ships/item_212.md) | [Boat](Categories/category_43.md) | 280,000 | Shipyard Master |  |
+| [Battle Barsha](Items/Ships/item_203.md) | [Boat](Categories/category_43.md) | 5,100 | Shipyard Master |  |
+| [exploration barsha](Items/Ships/item_202.md) | [Boat](Categories/category_43.md) | 5,000 | Shipyard Master |  |
+| [research galley](Items/Ships/item_4073.md) | [Boat](Categories/category_43.md) | 1,220,000 | Shipyard Master |  |
+| [light galleon](Items/Ships/item_240.md) | [Boat](Categories/category_43.md) | 810,000 | Shipyard Master |  |
+| [light galley](Items/Ships/item_209.md) | [Boat](Categories/category_43.md) | 150,000 | Shipyard Master |  |
+| [light carrack](Items/Ships/item_218.md) | [Boat](Categories/category_43.md) | 478,000 | Shipyard Master |  |
+| [light caravelle](Items/Ships/item_207.md) | [Boat](Categories/category_43.md) | 92,000 | Shipyard Master |  |
+| [transport galleon](Items/Ships/item_407.md) | [Boat](Categories/category_43.md) | 840,000 | Shipyard Master |  |
+| [transportation galley](Items/Ships/item_211.md) | [Boat](Categories/category_43.md) | 160,000 | Shipyard Master |  |
+| [transport carrack](Items/Ships/item_222.md) | [Boat](Categories/category_43.md) | 488,000 | Shipyard Master |  |
+| [Large galley for transportation](Items/Ships/item_251.md) | [Boat](Categories/category_43.md) | 2,280,000 | Shipyard Master |  |
+| [Small caravel for transport](Items/Ships/item_3674.md) | [Boat](Categories/category_43.md) | 92,000 | Shipyard Master |  |
+| [heavy galley](Items/Ships/item_550.md) | [Boat](Categories/category_43.md) | 2,650,000 | Shipyard Master |  |
+| [heavy caravel](Items/Ships/item_248.md) | [Boat](Categories/category_43.md) | 1,250,000 | Shipyard Master |  |
+
+
+### Shipwright
+
+| item | group | Sales price | Handling NPC | remarks |
+| --- | --- | --- | --- | --- |
+
+#### [recipe book](Categories/category_22.md)
+
+| [Iron cladding manufacturing method](Items/Recipe Book/item_3570.md) | [recipe book](Categories/category_22.md) | Fixed recipe | Shipwright |  |
+| 要投資（必要投資額：不明） |
+
+#### [shipbuilding materials](Categories/category_47.md)
+
+| [iron cladding](Items/Shipbuilding FS Material/item_3502.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipwright |  |
+| 要投資（必要投資額：720,000） |
+| [copper cladding](Items/Shipbuilding FS Material/item_3545.md) | [shipbuilding materials](Categories/category_47.md) | Fixed recipe | Shipwright |  |
+| 要投資（必要投資額：720,000） |
+  </TabItem>
+  <TabItem value="weapon craftsman" label="weapon craftsman">
+
+| item | group | Sales price | Handling NPC | remarks |
+| --- | --- | --- | --- | --- |
+
+#### [Ship parts (special weapons)](Categories/category_37.md)
+
+| [Corvus](Items/Ship Parts/Shipparts-Special-Weapons/item_194.md) | [Ship parts (special weapons)](Categories/category_37.md) | 24,000 | weapon craftsman |  |
+| [rum](Items/Ship Parts/Shipparts-Special-Weapons/item_191.md) | [Ship parts (special weapons)](Categories/category_37.md) | 4,800 | weapon craftsman |  |
+| [medium sized ram](Items/Ship Parts/Shipparts-Special-Weapons/item_192.md) | [Ship parts (special weapons)](Categories/category_37.md) | 31,000 | weapon craftsman |  |
+| [small corvus](Items/Ship Parts/Shipparts-Special-Weapons/item_193.md) | [Ship parts (special weapons)](Categories/category_37.md) | 3,000 | weapon craftsman |  |
+| [small ram](Items/Ship Parts/Shipparts-Special-Weapons/item_190.md) | [Ship parts (special weapons)](Categories/category_37.md) | 1,000 | weapon craftsman |  |
+| [small poop](Items/Ship Parts/Shipparts-Special-Weapons/item_198.md) | [Ship parts (special weapons)](Categories/category_37.md) | 39,000 | weapon craftsman |  |
+| [small ship forecastle](Items/Ship Parts/Shipparts-Special-Weapons/item_195.md) | [Ship parts (special weapons)](Categories/category_37.md) | 5,000 | weapon craftsman |  |
+| [additional spanker](Items/Ship Parts/Shipparts-Special-Weapons/item_200.md) | [Ship parts (special weapons)](Categories/category_37.md) | 55,000 | weapon craftsman |  |
+| [additional split](Items/Ship Parts/Shipparts-Special-Weapons/item_197.md) | [Ship parts (special weapons)](Categories/category_37.md) | 44,000 | weapon craftsman |  |
+| [additional small spanker](Items/Ship Parts/Shipparts-Special-Weapons/item_199.md) | [Ship parts (special weapons)](Categories/category_37.md) | 3,500 | weapon craftsman |  |
+| [additional small split](Items/Ship Parts/Shipparts-Special-Weapons/item_196.md) | [Ship parts (special weapons)](Categories/category_37.md) | 2,000 | weapon craftsman |  |
+
+#### [Ship parts (cannon)](Categories/category_38.md)
+
+| [4 amfer guns](Items/Ship Parts/Shipparts-Cannons/item_391.md) | [Ship parts (cannon)](Categories/category_38.md) | 26,600 | weapon craftsman |  |
+| [6 Amfer cannons](Items/Ship Parts/Shipparts-Cannons/item_392.md) | [Ship parts (cannon)](Categories/category_38.md) | 81,000 | weapon craftsman |  |
+| [2 Exploder guns](Items/Ship Parts/Shipparts-Cannons/item_1416.md) | [Ship parts (cannon)](Categories/category_38.md) | 7,100 | weapon craftsman |  |
+| [4 Exploder guns](Items/Ship Parts/Shipparts-Cannons/item_1415.md) | [Ship parts (cannon)](Categories/category_38.md) | 28,500 | weapon craftsman |  |
+| [6 Exploder guns](Items/Ship Parts/Shipparts-Cannons/item_1163.md) | [Ship parts (cannon)](Categories/category_38.md) | 64,000 | weapon craftsman |  |
+| [8 Exploder guns](Items/Ship Parts/Shipparts-Cannons/item_1164.md) | [Ship parts (cannon)](Categories/category_38.md) | 113,900 | weapon craftsman |  |
+| [10 angel cannons](Items/Ship Parts/Shipparts-Cannons/item_853.md) | [Ship parts (cannon)](Categories/category_38.md) | 249,400 | weapon craftsman |  |
+| [2 angel cannons](Items/Ship Parts/Shipparts-Cannons/item_382.md) | [Ship parts (cannon)](Categories/category_38.md) | 10,000 | weapon craftsman |  |
+| [4 angel cannons](Items/Ship Parts/Shipparts-Cannons/item_383.md) | [Ship parts (cannon)](Categories/category_38.md) | 39,900 | weapon craftsman |  |
+| [6 angel cannons](Items/Ship Parts/Shipparts-Cannons/item_388.md) | [Ship parts (cannon)](Categories/category_38.md) | 89,800 | weapon craftsman |  |
+| [8 angel cannons](Items/Ship Parts/Shipparts-Cannons/item_389.md) | [Ship parts (cannon)](Categories/category_38.md) | 159,600 | weapon craftsman |  |
+| [4 Caprice guns](Items/Ship Parts/Shipparts-Cannons/item_395.md) | [Ship parts (cannon)](Categories/category_38.md) | 18,200 | weapon craftsman |  |
+| [6 Caprice guns](Items/Ship Parts/Shipparts-Cannons/item_396.md) | [Ship parts (cannon)](Categories/category_38.md) | 55,500 | weapon craftsman |  |
+| [8 Caprice guns](Items/Ship Parts/Shipparts-Cannons/item_397.md) | [Ship parts (cannon)](Categories/category_38.md) | 103,600 | weapon craftsman |  |
+| [10 culverines](Items/Ship Parts/Shipparts-Cannons/item_375.md) | [Ship parts (cannon)](Categories/category_38.md) | 136,300 | weapon craftsman |  |
+| [12 culverin guns](Items/Ship Parts/Shipparts-Cannons/item_744.md) | [Ship parts (cannon)](Categories/category_38.md) | 196,300 | weapon craftsman |  |
+| [4 culverine guns](Items/Ship Parts/Shipparts-Cannons/item_372.md) | [Ship parts (cannon)](Categories/category_38.md) | 21,800 | weapon craftsman |  |
+| [6 culverine guns](Items/Ship Parts/Shipparts-Cannons/item_373.md) | [Ship parts (cannon)](Categories/category_38.md) | 49,100 | weapon craftsman |  |
+| [8 culverine guns](Items/Ship Parts/Shipparts-Cannons/item_374.md) | [Ship parts (cannon)](Categories/category_38.md) | 87,300 | weapon craftsman |  |
+| [4 carronades](Items/Ship Parts/Shipparts-Cannons/item_836.md) | [Ship parts (cannon)](Categories/category_38.md) | 14,500 | weapon craftsman |  |
+| [10 Cannon Pedro guns](Items/Ship Parts/Shipparts-Cannons/item_746.md) | [Ship parts (cannon)](Categories/category_38.md) | 190,900 | weapon craftsman |  |
+| [12 Cannon Pedro guns](Items/Ship Parts/Shipparts-Cannons/item_834.md) | [Ship parts (cannon)](Categories/category_38.md) | 274,900 | weapon craftsman |  |
+| [4 Cannon Pedro guns](Items/Ship Parts/Shipparts-Cannons/item_376.md) | [Ship parts (cannon)](Categories/category_38.md) | 30,500 | weapon craftsman |  |
+| [6 Cannon Pedro guns](Items/Ship Parts/Shipparts-Cannons/item_377.md) | [Ship parts (cannon)](Categories/category_38.md) | 68,700 | weapon craftsman |  |
+| [8 Cannon Pedro guns](Items/Ship Parts/Shipparts-Cannons/item_745.md) | [Ship parts (cannon)](Categories/category_38.md) | 122,200 | weapon craftsman |  |
+| [4 Shumine cannons](Items/Ship Parts/Shipparts-Cannons/item_2967.md) | [Ship parts (cannon)](Categories/category_38.md) | 29,300 | weapon craftsman |  |
+| [6 Shumine cannons](Items/Ship Parts/Shipparts-Cannons/item_2968.md) | [Ship parts (cannon)](Categories/category_38.md) | 89,100 | weapon craftsman |  |
+| [10 Saker cannons](Items/Ship Parts/Shipparts-Cannons/item_187.md) | [Ship parts (cannon)](Categories/category_38.md) | 79,000 | weapon craftsman |  |
+| [2 saker cannons](Items/Ship Parts/Shipparts-Cannons/item_183.md) | [Ship parts (cannon)](Categories/category_38.md) | 3,200 | weapon craftsman |  |
+| [4 saker cannons](Items/Ship Parts/Shipparts-Cannons/item_184.md) | [Ship parts (cannon)](Categories/category_38.md) | 12,600 | weapon craftsman |  |
+| [6 Saker cannons](Items/Ship Parts/Shipparts-Cannons/item_185.md) | [Ship parts (cannon)](Categories/category_38.md) | 28,400 | weapon craftsman |  |
+| [8 Saker cannons](Items/Ship Parts/Shipparts-Cannons/item_186.md) | [Ship parts (cannon)](Categories/category_38.md) | 50,500 | weapon craftsman |  |
+| [10 Seraphim cannons](Items/Ship Parts/Shipparts-Cannons/item_2293.md) | [Ship parts (cannon)](Categories/category_38.md) | 269,400 | weapon craftsman |  |
+| [4 Seraphim cannons](Items/Ship Parts/Shipparts-Cannons/item_4018.md) | [Ship parts (cannon)](Categories/category_38.md) | 43,100 | weapon craftsman |  |
+| [6 Seraphim cannons](Items/Ship Parts/Shipparts-Cannons/item_2291.md) | [Ship parts (cannon)](Categories/category_38.md) | 97,000 | weapon craftsman |  |
+| [8 Seraphim cannons](Items/Ship Parts/Shipparts-Cannons/item_2292.md) | [Ship parts (cannon)](Categories/category_38.md) | 172,400 | weapon craftsman |  |
+| [10 demi culverin cannons](Items/Ship Parts/Shipparts-Cannons/item_370.md) | [Ship parts (cannon)](Categories/category_38.md) | 10,100 | weapon craftsman |  |
+| [12 demi culverin cannons](Items/Ship Parts/Shipparts-Cannons/item_371.md) | [Ship parts (cannon)](Categories/category_38.md) | 145,400 | weapon craftsman |  |
+| [2 demi culverin cannons](Items/Ship Parts/Shipparts-Cannons/item_188.md) | [Ship parts (cannon)](Categories/category_38.md) | 4,000 | weapon craftsman |  |
+| [4 demi culverin cannons](Items/Ship Parts/Shipparts-Cannons/item_189.md) | [Ship parts (cannon)](Categories/category_38.md) | 16,200 | weapon craftsman |  |
+| [6 demi culverin cannons](Items/Ship Parts/Shipparts-Cannons/item_368.md) | [Ship parts (cannon)](Categories/category_38.md) | 36,400 | weapon craftsman |  |
+| [8 demi culverin cannons](Items/Ship Parts/Shipparts-Cannons/item_369.md) | [Ship parts (cannon)](Categories/category_38.md) | 64,600 | weapon craftsman |  |
+| [10 trench guns](Items/Ship Parts/Shipparts-Cannons/item_835.md) | [Ship parts (cannon)](Categories/category_38.md) | 163,600 | weapon craftsman |  |
+| [2 trench guns](Items/Ship Parts/Shipparts-Cannons/item_378.md) | [Ship parts (cannon)](Categories/category_38.md) | 6,500 | weapon craftsman |  |
+| [4 trench guns](Items/Ship Parts/Shipparts-Cannons/item_379.md) | [Ship parts (cannon)](Categories/category_38.md) | 26,200 | weapon craftsman |  |
+| [6 trench guns](Items/Ship Parts/Shipparts-Cannons/item_380.md) | [Ship parts (cannon)](Categories/category_38.md) | 58,900 | weapon craftsman |  |
+| [8 trench guns](Items/Ship Parts/Shipparts-Cannons/item_381.md) | [Ship parts (cannon)](Categories/category_38.md) | 104,700 | weapon craftsman |  |
+| [4 Draconis cannons](Items/Ship Parts/Shipparts-Cannons/item_386.md) | [Ship parts (cannon)](Categories/category_38.md) | 18,200 | weapon craftsman |  |
+| [6 Draconis cannons](Items/Ship Parts/Shipparts-Cannons/item_387.md) | [Ship parts (cannon)](Categories/category_38.md) | 55,500 | weapon craftsman |  |
+| [8 Draconis cannons](Items/Ship Parts/Shipparts-Cannons/item_390.md) | [Ship parts (cannon)](Categories/category_38.md) | 103,600 | weapon craftsman |  |
+| [4 Hyperier guns](Items/Ship Parts/Shipparts-Cannons/item_3062.md) | [Ship parts (cannon)](Categories/category_38.md) | 9,200 | weapon craftsman |  |
+| [6 Hyperier guns](Items/Ship Parts/Shipparts-Cannons/item_3061.md) | [Ship parts (cannon)](Categories/category_38.md) | 36,800 | weapon craftsman |  |
+| [8 Hyperier guns](Items/Ship Parts/Shipparts-Cannons/item_2437.md) | [Ship parts (cannon)](Categories/category_38.md) | 83,100 | weapon craftsman |  |
+| [4 pyro cannons](Items/Ship Parts/Shipparts-Cannons/item_384.md) | [Ship parts (cannon)](Categories/category_38.md) | 12,500 | weapon craftsman |  |
+| [6 pyro cannons](Items/Ship Parts/Shipparts-Cannons/item_385.md) | [Ship parts (cannon)](Categories/category_38.md) | 38,000 | weapon craftsman |  |
+| [2 falcon guns](Items/Ship Parts/Shipparts-Cannons/item_174.md) | [Ship parts (cannon)](Categories/category_38.md) | 500 | weapon craftsman |  |
+| [4 falcon guns](Items/Ship Parts/Shipparts-Cannons/item_175.md) | [Ship parts (cannon)](Categories/category_38.md) | 2,000 | weapon craftsman |  |
+| [6 falcon guns](Items/Ship Parts/Shipparts-Cannons/item_176.md) | [Ship parts (cannon)](Categories/category_38.md) | 4,600 | weapon craftsman |  |
+| [8 falcon guns](Items/Ship Parts/Shipparts-Cannons/item_177.md) | [Ship parts (cannon)](Categories/category_38.md) | 8,100 | weapon craftsman |  |
+| [4 frango guns](Items/Ship Parts/Shipparts-Cannons/item_393.md) | [Ship parts (cannon)](Categories/category_38.md) | 12,500 | weapon craftsman |  |
+| [6 frango guns](Items/Ship Parts/Shipparts-Cannons/item_394.md) | [Ship parts (cannon)](Categories/category_38.md) | 38,000 | weapon craftsman |  |
+| [4 Perrier guns](Items/Ship Parts/Shipparts-Cannons/item_937.md) | [Ship parts (cannon)](Categories/category_38.md) | 26,600 | weapon craftsman |  |
+| [6 Perrier guns](Items/Ship Parts/Shipparts-Cannons/item_938.md) | [Ship parts (cannon)](Categories/category_38.md) | 31,200 | weapon craftsman |  |
+| [8 Perrier guns](Items/Ship Parts/Shipparts-Cannons/item_1152.md) | [Ship parts (cannon)](Categories/category_38.md) | 70,400 | weapon craftsman |  |
+| [10 minion cannons](Items/Ship Parts/Shipparts-Cannons/item_182.md) | [Ship parts (cannon)](Categories/category_38.md) | 34,800 | weapon craftsman |  |
+| [2 minion cannons](Items/Ship Parts/Shipparts-Cannons/item_178.md) | [Ship parts (cannon)](Categories/category_38.md) | 1,400 | weapon craftsman |  |
+| [4 minion cannons](Items/Ship Parts/Shipparts-Cannons/item_179.md) | [Ship parts (cannon)](Categories/category_38.md) | 5,600 | weapon craftsman |  |
+| [6 minion cannons](Items/Ship Parts/Shipparts-Cannons/item_180.md) | [Ship parts (cannon)](Categories/category_38.md) | 12,400 | weapon craftsman |  |
+| [8 minion cannons](Items/Ship Parts/Shipparts-Cannons/item_181.md) | [Ship parts (cannon)](Categories/category_38.md) | 22,400 | weapon craftsman |  |
+| [4 Meteora cannons](Items/Ship Parts/Shipparts-Cannons/item_398.md) | [Ship parts (cannon)](Categories/category_38.md) | 26,600 | weapon craftsman |  |
+| [6 Meteora cannons](Items/Ship Parts/Shipparts-Cannons/item_399.md) | [Ship parts (cannon)](Categories/category_38.md) | 81,000 | weapon craftsman |  |
+| [4 Volcan guns](Items/Ship Parts/Shipparts-Cannons/item_2965.md) | [Ship parts (cannon)](Categories/category_38.md) | 29,300 | weapon craftsman |  |
+| [6 Volcan guns](Items/Ship Parts/Shipparts-Cannons/item_2966.md) | [Ship parts (cannon)](Categories/category_38.md) | 89,100 | weapon craftsman |  |
+  </TabItem>
+  <TabItem value="Tavern Master" label="Tavern Master">
+
+| item | group | Sales price | Handling NPC | remarks |
+| --- | --- | --- | --- | --- |
+
+#### [adjutant](Categories/category_46.md)
+
+| [fernando](Items/Aides/item_1557.md) | [adjutant](Categories/category_46.md) | 100,000 | Tavern Master |  |
+| [Forfina](Items/Aides/item_1565.md) | [adjutant](Categories/category_46.md) | 100,000 | Tavern Master |  |
+| [Marcelino](Items/Aides/item_1596.md) | [adjutant](Categories/category_46.md) | 100,000 | Tavern Master |  |
+| [Michelle](Items/Aides/item_1549.md) | [adjutant](Categories/category_46.md) | 100,000 | Tavern Master |  |
+| [Leitzen](Items/Aides/item_1597.md) | [adjutant](Categories/category_46.md) | 100,000 | Tavern Master |  |
+  </TabItem>
+</Tabs>

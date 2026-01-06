@@ -1,0 +1,27 @@
+---
+id: 2322
+category: Marine Life
+---
+# Discovery: striper
+
+## Discovery Details
+| Attribute | Details |
+| :--- | :--- |
+| **Discovery Type** | Marine Life |
+| **Discovery Name** | striper |
+| **Rank** | ★☆☆☆☆(1) (Number of Stars on Discovery Name card) |
+| **explanation** | It is a type of perch that has striped patterns on its body and lives in freshwater, brackish water, and seawater. |
+| **Era** |  |
+| **Deck Points** | 2 (Required Deck Points for debate deck) |
+| **Difficulty** | 3 (Rank of skills required for discovery) |
+| **Experience** | 150 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
+| **Remarks** | fishing |
+| **最終更新** | 2015-01-27 02:09:17 System |
+
+---
+## Related Quests
+The following quests are associated with this discovery:
+
+| Quest Name | Category | Necessary Skills | Rewards |
+| :--- | :--- | :--- | :--- |
+| **[Striper](Quests/Other/quest_1986.md)** | Fishing (4) | Fishing (4) |  |

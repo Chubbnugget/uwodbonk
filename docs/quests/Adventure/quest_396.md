@@ -4,29 +4,29 @@ category: Adventure
 status: untranslated
 ---
 
-# Quest [Horned Animal] Details
+# Quest [Horned Animal]
 
 
 ### Quest [Horned Animal] Details
 
-  | Attribute | Details |  
-  | :--- | :--- |  
-  | **Quest Name** | horned animal |  
+| Attribute | Details |  
+| :--- | :--- |  
+| **Quest Name** | Horned Animal |  
 
 ### Quest Contents
 Since you investigated the black-eared rabbit, a scholar has asked you to do some research. Although it's called an investigation, it doesn't seem like it's that big of a deal. For more details, please ask the person himself.
 
-  | Attribute | Details |  
-  | :--- | :--- |  
-  | **Chrono Quest** |  |  
-  | **Offer Method** | adventure quest |  
-  | **Difficulty** | 2 |  
-  | **Time Limit** | none |  
-  | **Town** | [Lisbon](port_2.md) |  
-  | **Required Skills** | [Portuguese](item_345.md) |  
-  | **Discovery** |  |  
-  | **Reward/Advance** | Reward: 1,000 / Advance payment: 0 |  
-  | **Exp/Fame** | Experience points: 16 / Fame: 6 |  
-  | **Items Obtained** |  |  
-  | **Chain Quests** |  |  
-  | **Notes** | 1. Lisbon Archives Scholar 2. Lisbon Information Agent (intersection of Y-junction near the hill) 3. Lisbon Archives Scholar *No Discovery |  
+| Attribute | Details |  
+| :--- | :--- |  
+| **Chrono Quest** |  |  
+| **Offer Method** | adventure quest |  
+| **Difficulty** | 2 |  
+| **Time Limit** | none |  
+| **Town** | [Lisbon](Ports/port_2.md) |  
+| **Required Skills** | [Portuguese](Skills/Skills-Language/item_345.md) |  
+| **Discovery** |  |  
+| **Reward/Advance** | Reward: 1,000 / Advance payment: 0 |  
+| **Exp/Fame** | Experience points: 16 / Fame: 6 |  
+| **Items Obtained** |  |  
+| **Chain Quests** |  |  
+| **Notes** | 1. Lisbon Archives Scholar 2. Lisbon Information Agent (intersection of Y-junction near the hill) 3. Lisbon Archives Scholar *No Discovery |  

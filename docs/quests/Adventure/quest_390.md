@@ -9,24 +9,24 @@ status: untranslated
 
 ### Details of the quest [Ask a knowledgeable person in town for advice]
 
-  | Attribute | Details |  
-  | :--- | :--- |  
-  | **Quest Name** | Ask someone in the know for advice |  
+| Attribute | Details |  
+| :--- | :--- |  
+| **Quest Name** | Ask someone in the know for advice |  
 
 ### Quest Contents
 
 
-  | Attribute | Details |  
-  | :--- | :--- |  
-  | **Chrono Quest** |  |  
-  | **Offer Method** | adventure quest |  
-  | **Difficulty** | 1 |  
-  | **Time Limit** | none |  
-  | **Town** | [Amsterdam](port_49.md) |  
-  | **Required Skills** | [Dutch](item_599.md) |  
-  | **Discovery** |  |  
-  | **Reward/Advance** |  |  
-  | **Exp/Fame** |  |  
-  | **Items Obtained** |  |  
-  | **Chain Quests** |  |  
-  | **Notes** | 1.Amsterdam? 2.Amsterdam Bar Master [Quest limited to Netherlandish nationalities] Rare Quest |  
+| Attribute | Details |  
+| :--- | :--- |  
+| **Chrono Quest** |  |  
+| **Offer Method** | adventure quest |  
+| **Difficulty** | 1 |  
+| **Time Limit** | none |  
+| **Town** | [Amsterdam](Ports/port_49.md) |  
+| **Required Skills** | [Dutch](Skills/Skills-Language/item_599.md) |  
+| **Discovery** |  |  
+| **Reward/Advance** |  |  
+| **Exp/Fame** |  |  
+| **Items Obtained** |  |  
+| **Chain Quests** |  |  
+| **Notes** | 1.Amsterdam? 2.Amsterdam Bar Master [Quest limited to Netherlandish nationalities] Rare Quest |  

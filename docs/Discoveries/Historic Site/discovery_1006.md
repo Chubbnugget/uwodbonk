@@ -1,0 +1,27 @@
+---
+id: 1006
+category: Historic Site
+---
+# Discovery: fortress of campeche
+
+## Discovery Details
+| Attribute | Details |
+| :--- | :--- |
+| **Discovery Type** | Historic Site |
+| **Discovery Name** | fortress of campeche |
+| **Rank** | ★★★★☆(4) (Number of Stars on Discovery Name card) |
+| **explanation** | A fortress built in Campeche, a trading port facing the Gulf of Mexico. It is intended for defense against pirate attacks. |
+| **Era** |  |
+| **Deck Points** | 6 (Required Deck Points for debate deck) |
+| **Difficulty** | 7 (Rank of skills required for discovery) |
+| **Experience** | 680 (For adventure jobs. Excluding company benefits, beginner bonuses, etc.) |
+| **Remarks** | Campeche Bay Fortress |
+| **最終更新** | 2015-01-27 02:09:17 System |
+
+---
+## Related Quests
+The following quests are associated with this discovery:
+
+| Quest Name | Category | Necessary Skills | Rewards |
+| :--- | :--- | :--- | :--- |
+| **[Fortress of Campeche Bay](Quests/Adventure/quest_3813.md)** | Adventure Quest (5) 18th Century 3rd Period | Archeology (7) Visualization (5) Spanish | Reward: 175,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |

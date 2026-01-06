@@ -25,7 +25,7 @@ const config = {
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'uwodbonk', // Usually your repo name.
 
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -74,18 +74,6 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'generalSidebar',
-            position: 'left',
-            label: 'General',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'questsSidebar',
-            position: 'left',
-            label: 'Quests',
-          },
           {
             href: 'https://github.com/Chubbnugget/uwodbonk',
             label: 'GitHub',
