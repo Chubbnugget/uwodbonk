@@ -21,7 +21,7 @@ Beautiful birds give us a mysterious impression. Among them, I would like to req
 | **Time Limit** | none |
 | **Town** | [Sagres](Ports/port_214.md) |
 | **Required Skills** | [Biology](Skills/Skill-Adventure/item_434.md) (13) |
-| **Discovery** | [Lore](Categories/category_20.md) / [Rancho](Quests/Other/quest_3428.md) A sacred bird that is passed down in Chinese legends. The reading is "Rancho". It is said that it appears when society becomes stable. It has a five-note voice, and its sticky blood is said to be the perfect glue for making bows and harps. [Lore] about the legendary primate (ref_20.md) Rank: 5, Points: 10, Difficulty: 13, Experience points: 1,020 |
+| **Discovery** | [Lore](Categories/category_20.md) / [Rancho](Quests/Trade/quest_3428.md) A sacred bird that is passed down in Chinese legends. The reading is "Rancho". It is said that it appears when society becomes stable. It has a five-note voice, and its sticky blood is said to be the perfect glue for making bows and harps. [Lore] about the legendary primate (ref_20.md) Rank: 5, Points: 10, Difficulty: 13, Experience points: 1,020 |
 | **Reward/Advance** | Remuneration: 756,000 / Advance payment: 80,000 |
 | **Exp/Fame** | Experience points: 690 / Fame: 350 |
 | **Items Obtained** |  |

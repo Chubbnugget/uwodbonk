@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | [Venice](Ports/port_30.md) |
 | **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (6), [Visibility](Skills/Skill-Adventure/item_458.md) (6) |
-| **Discovery** | [Astronomy](Categories/category_18.md) / [Polymer](Quests/Other/quest_3874.md) Gamma star in Virgo. It is the second brightest third-magnitude star in this constellation after Spica. The name is said to be derived from one of the goddesses in Roman mythology called Camene, [Polyma](Quests/Other/quest_3874.md). Quest "Constellation of Science" Discovery Card: 190 Rank: 1, Points: 4, Difficulty: 6, Experience Points: 380 |
+| **Discovery** | [Astronomy](Categories/category_18.md) / [Polymer](Quests/Trade/quest_3874.md) Gamma star in Virgo. It is the second brightest third-magnitude star in this constellation after Spica. The name is said to be derived from one of the goddesses in Roman mythology called Camene, [Polyma](Quests/Trade/quest_3874.md). Quest "Constellation of Science" Discovery Card: 190 Rank: 1, Points: 4, Difficulty: 6, Experience Points: 380 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

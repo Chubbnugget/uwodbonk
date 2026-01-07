@@ -21,7 +21,7 @@ It's the Vergina ruins you found... There are those who doubt whether it is real
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (8), [Archaeology](Skills/Skill-Adventure/item_342.md) (10), [Unlocking](Skills/Skill-Adventure/item_460.md) (8), [Greek](Skills/Skills-Language/item_604.md) |
-| **Discovery** | [Historical relic](Categories/category_7.md) / [Small gold box](Quests/Other/quest_1367.md) A box made of pure gold found in the Vergina ruins. The sun emblem, which is believed to be the coat of arms of Macedonia, is engraved on the obverse. There are bones inside, believed to be the remains of a noble person. Royal Crest Rank: 5, Points: 7, Difficulty: 10, Experience Points: 816 |
+| **Discovery** | [Historical relic](Categories/category_7.md) / [Small gold box](Quests/Trade/quest_1367.md) A box made of pure gold found in the Vergina ruins. The sun emblem, which is believed to be the coat of arms of Macedonia, is engraved on the obverse. There are bones inside, believed to be the remains of a noble person. Royal Crest Rank: 5, Points: 7, Difficulty: 10, Experience Points: 816 |
 | **Reward/Advance** | Remuneration: 260,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 200 / Fame: 100 |
 | **Items Obtained** | Request letter x8 |

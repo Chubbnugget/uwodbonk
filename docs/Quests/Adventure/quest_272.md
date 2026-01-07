@@ -21,7 +21,7 @@ Have you ever investigated the Axum Columns before? It was thought that that was
 | **Time Limit** | none |
 | **Town** | [Seville](Ports/port_4.md), [Genoa](Ports/port_11.md), [Marseille](Ports/port_10.md), [Venice](Ports/port_30.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (4), [Exploration](Skills/Skill-Adventure/item_257.md) (2), [Italian](Skills/Skills-Language/item_422.md) |
-| **Discovery** | [Religious Relics](Categories/category_8.md) / [Axum Pillars](Quests/Other/quest_1422.md) A forest of huge stone pillars carved out of a monolith. Some of them are up to 25 meters long when standing and 33 meters long when lying down. It is thought to be a tomb because there is a stone chamber at the base. Quest “Preste Joan Stone Pillar” Discovery Card: 105 Rank: 2, Points: 3, Difficulty: 4, Experience Points: 210 |
+| **Discovery** | [Religious Relics](Categories/category_8.md) / [Axum Pillars](Quests/Trade/quest_1422.md) A forest of huge stone pillars carved out of a monolith. Some of them are up to 25 meters long when standing and 33 meters long when lying down. It is thought to be a tomb because there is a stone chamber at the base. Quest “Preste Joan Stone Pillar” Discovery Card: 105 Rank: 2, Points: 3, Difficulty: 4, Experience Points: 210 |
 | **Reward/Advance** | Remuneration: 279,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience: 540 / Fame: 270 |
 | **Items Obtained** | Request letter ☓5 |

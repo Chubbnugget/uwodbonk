@@ -21,7 +21,7 @@ There seems to be a rumor going around that the ruins of an old country called G
 | **Time Limit** | none |
 | **Town** | [San Francisco](Ports/port_198.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (14), [Visibility](Skills/Skill-Adventure/item_458.md) (12), [Chinese](Skills/Skills-Language/item_3651.md) |
-| **Discovery** | [Historical Site](Categories/category_6.md) / [Ruins of Ancient Shu](Quests/Other/quest_3392.md) Ruins of the ancient Shu culture that flourished before BC. It is located at the upper reaches of the Yangtze River. The ruins are extremely vast, and it is believed that other valuable items besides the vertical eye mask are hidden there. Rank: 5, Points: 9, Difficulty: 14, Experience Points: 1,230 |
+| **Discovery** | [Historical Site](Categories/category_6.md) / [Ruins of Ancient Shu](Quests/Trade/quest_3392.md) Ruins of the ancient Shu culture that flourished before BC. It is located at the upper reaches of the Yangtze River. The ruins are extremely vast, and it is believed that other valuable items besides the vertical eye mask are hidden there. Rank: 5, Points: 9, Difficulty: 14, Experience Points: 1,230 |
 | **Reward/Advance** | Remuneration: 409,000 / Advance payment: 40,000 |
 | **Exp/Fame** | Experience points: 340 |
 | **Items Obtained** | Request letter x10 |

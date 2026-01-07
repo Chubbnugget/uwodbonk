@@ -21,7 +21,7 @@ Throughout history, various countries have repeatedly arisen and fallen, but the
 | **Time Limit** | none |
 | **Town** | [Saint Petersburg](Ports/port_190.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (17), [Visibility](Skills/Skill-Adventure/item_458.md) (15), [Dutch](Skills/Skills-Language/item_599.md) |
-| **Discovery** | [Historical Site](Categories/category_6.md) / [Dugga](Quests/Other/quest_3071.md) Ruins from the Roman and Byzantine periods that remain in North Africa. The name is said to be derived from the word "tugga", which means "to defend". There are also traces of a temple, bathhouse, and theater, showing the prosperity of the time. Rank: 5, Difficulty: 15, Experience Points: 1,400 |
+| **Discovery** | [Historical Site](Categories/category_6.md) / [Dugga](Quests/Trade/quest_3071.md) Ruins from the Roman and Byzantine periods that remain in North Africa. The name is said to be derived from the word "tugga", which means "to defend". There are also traces of a temple, bathhouse, and theater, showing the prosperity of the time. Rank: 5, Difficulty: 15, Experience Points: 1,400 |
 | **Reward/Advance** | Remuneration: 327,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience: 290 / Fame: 175 |
 | **Items Obtained** | 10 request letters |

@@ -21,7 +21,7 @@ Off the coast of South Greenland Southern Iceland
 | **Time Limit** | none |
 | **Town** | [Sakai](Ports/port_179.md), [Anping](Ports/port_171.md) |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (8), [Visibility](Skills/Skill-Adventure/item_458.md) (8) |
-| **Discovery** | [Geography](Categories/category_2.md) / [Mount Hekla](Quests/Other/quest_2753.md) A volcano in southern Iceland. Hekla means hood in the local language. It is Iceland's most active volcano, with many recorded eruptions. Rank: 2, Points: 5 |
+| **Discovery** | [Geography](Categories/category_2.md) / [Mount Hekla](Quests/Trade/quest_2753.md) A volcano in southern Iceland. Hekla means hood in the local language. It is Iceland's most active volcano, with many recorded eruptions. Rank: 2, Points: 5 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

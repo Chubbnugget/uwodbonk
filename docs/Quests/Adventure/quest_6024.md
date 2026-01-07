@@ -21,7 +21,7 @@ You were the one who discovered Burgess Shale earlier. Rumor has it that a stone
 | **Time Limit** | none |
 | **Town** | [London](Ports/port_23.md), [Lisbon](Ports/port_2.md), [Seville](Ports/port_4.md), [Marseille](Ports/port_10.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (12), [Biology](Skills/Skill-Adventure/item_434.md) (14), [North American languages](Skills/Skills-Language/item_4478.md) |
-| **Discovery** | [Fossil](Categories/category_5.md) / [Strange Shrimp Stone](Quests/Other/quest_3223.md) A strange stone found in the Burgess Shale in northwestern North America. It looks like the abdomen of a shrimp, or the tentacles of some kind of creature. Rank: 5, Points: 10, Difficulty: 14, Experience Points: 1,230 |
+| **Discovery** | [Fossil](Categories/category_5.md) / [Strange Shrimp Stone](Quests/Trade/quest_3223.md) A strange stone found in the Burgess Shale in northwestern North America. It looks like the abdomen of a shrimp, or the tentacles of some kind of creature. Rank: 5, Points: 10, Difficulty: 14, Experience Points: 1,230 |
 | **Reward/Advance** | Remuneration: 638,000 / Advance payment: 60,000 |
 | **Exp/Fame** | Experience points: 490 |
 | **Items Obtained** | Request letter x10 |

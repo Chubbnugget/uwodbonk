@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Visibility](Skills/Skill-Adventure/item_458.md) (10) |
-| **Discovery** | [Weather/phenomenon](Categories/category_19.md) / [Arch cloud](Quests/Other/quest_3490.md) A phenomenon in which clouds form an arch. They form where cold air and warm air from cumulonimbus clouds collide. When [arch cloud](Quests/Other/quest_3490.md) occurs, strong gusts of wind and thunderstorms often occur. Rank: 2, Experience points: 320 |
+| **Discovery** | [Weather/phenomenon](Categories/category_19.md) / [Arch cloud](Quests/Trade/quest_3490.md) A phenomenon in which clouds form an arch. They form where cold air and warm air from cumulonimbus clouds collide. When [arch cloud](Quests/Trade/quest_3490.md) occurs, strong gusts of wind and thunderstorms often occur. Rank: 2, Experience points: 320 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 320 |
 | **Items Obtained** |  |

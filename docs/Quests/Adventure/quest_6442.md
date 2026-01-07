@@ -21,7 +21,7 @@ This is a request from a wealthy man in this town. It seems that he is looking f
 | **Time Limit** | none |
 | **Town** | [Saint Petersburg](Ports/port_190.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (6), [Archaeology](Skills/Skill-Adventure/item_342.md) (8), [Arabic](Skills/Skills-Language/item_440.md) (1) |
-| **Discovery** | [Historical Relic](Categories/category_7.md) / [Royal Game of Ur](Quests/Other/quest_3520.md) A board game said to have been played by kings and nobles in the ancient Town of Ur in Mesopotamia. One theory is that it is one of the oldest board games in the world. The rules are similar to Sugoroku and Backgammon, and it is said to be the origin of both. Rank: 2, Points: 6, Difficulty: 7, Experience Points: 400 |
+| **Discovery** | [Historical Relic](Categories/category_7.md) / [Royal Game of Ur](Quests/Trade/quest_3520.md) A board game said to have been played by kings and nobles in the ancient Town of Ur in Mesopotamia. One theory is that it is one of the oldest board games in the world. The rules are similar to Sugoroku and Backgammon, and it is said to be the origin of both. Rank: 2, Points: 6, Difficulty: 7, Experience Points: 400 |
 | **Reward/Advance** | Remuneration: 450,000 / Advance payment: 50,000 |
 | **Exp/Fame** | Experience points: 340 / Fame: 200 |
 | **Items Obtained** | Request letter ☓7 |

@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (6) |
-| **Discovery** | [Astronomy](Categories/category_18.md) / [Phobos](Quests/Other/quest_3201.md) (19th century) A satellite of Mars. It is the first satellite orbiting in the innermost orbit. It is gradually approaching Mars, and a collision is expected in the distant future. Icelandic Basin 19th Century Discovery Card: 235 Rank: 3, Points: 9, Difficulty: 6, Experience Points: 470 |
+| **Discovery** | [Astronomy](Categories/category_18.md) / [Phobos](Quests/Trade/quest_3201.md) (19th century) A satellite of Mars. It is the first satellite orbiting in the innermost orbit. It is gradually approaching Mars, and a collision is expected in the distant future. Icelandic Basin 19th Century Discovery Card: 235 Rank: 3, Points: 9, Difficulty: 6, Experience Points: 470 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 470 |
 | **Items Obtained** |  |

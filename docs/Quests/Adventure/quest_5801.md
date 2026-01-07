@@ -21,7 +21,7 @@ It seems that a new huge ruin has been discovered to the east. I would like you 
 | **Time Limit** | none |
 | **Town** | [St.Petersburg](Ports/port_190.md), [Stockholm](Ports/port_31.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (17), [Visibility](Skills/Skill-Adventure/item_458.md) (15), [English](Skills/Skills-Language/item_341.md) |
-| **Discovery** | [Historical Site](Categories/category_6.md) / [El Khazneh](Quests/Other/quest_3072.md) Royal tomb in the ruins of Petra. It seems that it came to be called Treasure Hall because of the legend that thieves hid treasure there. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,370 |
+| **Discovery** | [Historical Site](Categories/category_6.md) / [El Khazneh](Quests/Trade/quest_3072.md) Royal tomb in the ruins of Petra. It seems that it came to be called Treasure Hall because of the legend that thieves hid treasure there. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,370 |
 | **Reward/Advance** | Remuneration: 394,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 330 / Fame: 200 |
 | **Items Obtained** | 10 request letters |

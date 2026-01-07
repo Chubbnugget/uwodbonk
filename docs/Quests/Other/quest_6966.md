@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Salvage](Skills/Skill-Adventure/item_2275.md), [Visibility](Skills/Skill-Adventure/item_458.md) (9) |
-| **Discovery** | [Historical relic](Categories/category_7.md) / [Flore de la Mar](Quests/Other/quest_3975.md) A Portuguese merchant ship whose name means "flower of the sea." It was carrying a huge amount of gold, diamonds and other precious stones, but while returning to Portugal, it sank in the Strait of Malacca due to a storm. Rank: 4, Points: 7 |
+| **Discovery** | [Historical relic](Categories/category_7.md) / [Flore de la Mar](Quests/Trade/quest_3975.md) A Portuguese merchant ship whose name means "flower of the sea." It was carrying a huge amount of gold, diamonds and other precious stones, but while returning to Portugal, it sank in the Strait of Malacca due to a storm. Rank: 4, Points: 7 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | Indian madder, shrimp, diamond, platinum, rhinoceros, gold, turquoise, pearl shell, diamond |

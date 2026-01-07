@@ -21,7 +21,7 @@ This is a request for a plant survey in Pohang. I want you to research a certain
 | **Time Limit** | none |
 | **Town** | [Naples](Ports/port_60.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (5), [Biology](Skills/Skill-Adventure/item_434.md) (7), [Korean](Skills/Skills-Language/item_3744.md) |
-| **Discovery** | [Plant](Categories/category_10.md) / [Cripe Myrtle](Quests/Other/quest_3394.md) A flowering tree distributed in East Asia. It is also called ``crape myrtle'' because it blooms for a long period of time. As the trunk grows, new bark appears on the surface, giving it a smooth texture. Rank: 3, Points: 5, Difficulty: 7, Experience Points: 600 |
+| **Discovery** | [Plant](Categories/category_10.md) / [Cripe Myrtle](Quests/Trade/quest_3394.md) A flowering tree distributed in East Asia. It is also called ``crape myrtle'' because it blooms for a long period of time. As the trunk grows, new bark appears on the surface, giving it a smooth texture. Rank: 3, Points: 5, Difficulty: 7, Experience Points: 600 |
 | **Reward/Advance** | Remuneration: 378,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 320 |
 | **Items Obtained** | Request letter x6 |

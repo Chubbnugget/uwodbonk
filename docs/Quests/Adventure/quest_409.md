@@ -21,7 +21,7 @@ This is a job that can only be entrusted to a skilled person like you. This is a
 | **Time Limit** | none |
 | **Town** | [Seville](Ports/port_4.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (9), [Biology](Skills/Skill-Adventure/item_434.md) (11), [Spanish](Skills/Skills-Language/item_425.md) |
-| **Discovery** | [Small Creatures](Categories/category_13.md) / [Green Basilisk](Quests/Other/quest_2023.md) They live in trees facing rivers, and when attacked, they jump into the water to escape. They can also run on water with their hind legs. Males have a mane in three places: the head, back, and tail. Lizard that causes miracles Rank: 5, Points: 5, Difficulty: 11, Experience points: 1,033 |
+| **Discovery** | [Small Creatures](Categories/category_13.md) / [Green Basilisk](Quests/Trade/quest_2023.md) They live in trees facing rivers, and when attacked, they jump into the water to escape. They can also run on water with their hind legs. Males have a mane in three places: the head, back, and tail. Lizard that causes miracles Rank: 5, Points: 5, Difficulty: 11, Experience points: 1,033 |
 | **Reward/Advance** | Remuneration: 210,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 260 / Fame: 110 |
 | **Items Obtained** | Basilisk Eye, Request Letter x8 |

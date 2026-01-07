@@ -21,7 +21,7 @@ Do you know about the trumpet of the apocalypse? Every time it blows, various di
 | **Time Limit** | none |
 | **Town** | [Saint Petersburg](Ports/port_190.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (15), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (17), [Arctic Languages](Skills/Skills-Language/item_4414.md) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Shofar](Quests/Other/quest_3095.md) A horn made from the horn of a male sheep. It also appears in the Old Testament. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,370 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Shofar](Quests/Trade/quest_3095.md) A horn made from the horn of a male sheep. It also appears in the Old Testament. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,370 |
 | **Reward/Advance** | Remuneration: 406,000 / Advance payment: 40,000 |
 | **Exp/Fame** | Experience points: 340 / Fame: 205 |
 | **Items Obtained** | Request letter x10 |

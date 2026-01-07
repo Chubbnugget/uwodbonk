@@ -21,7 +21,7 @@ The great lighthouse and the guardian goddess of navigation were worshiped by ma
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (6), [Archaeology](Skills/Skill-Adventure/item_342.md) (8), [Arabic](Skills/Skills-Language/item_440.md) (1) |
-| **Discovery** | [Historical Relic](Categories/category_7.md) / [Coin with Great Lighthouse Engraved on it](Quests/Other/quest_3438.md) A coin manufactured in ancient Alexandria. Along with the Great Lighthouse of Alexandria, which is considered one of the Seven Wonders of the World, there are many others with elaborate designs, including one carved with Isis, the goddess of navigation who was widely worshiped. Rank: 2, Points: 5, Difficulty: 8, Experience Points: 300 |
+| **Discovery** | [Historical Relic](Categories/category_7.md) / [Coin with Great Lighthouse Engraved on it](Quests/Trade/quest_3438.md) A coin manufactured in ancient Alexandria. Along with the Great Lighthouse of Alexandria, which is considered one of the Seven Wonders of the World, there are many others with elaborate designs, including one carved with Isis, the goddess of navigation who was widely worshiped. Rank: 2, Points: 5, Difficulty: 8, Experience Points: 300 |
 | **Reward/Advance** | Reward: 85,000 / Advance payment: 0 |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

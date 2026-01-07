@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Visibility](Skills/Skill-Adventure/item_458.md) (9) |
-| **Discovery** | [Weather/Phenomenon](Categories/category_19.md) / [Mirage](Quests/Other/quest_3681.md) Near the mouth of the Yellow River in western East Asia. A phenomenon in which you can see scenery that should be below the horizon. It is said to occur when light rays are refracted due to temperature differences on the sea surface. In China, there is a legend that the spiritual animal ``Shin'' emits ``qi'' and causes a ``lou'' pavilion to appear. Rank: 4, Experience Points: 680 |
+| **Discovery** | [Weather/Phenomenon](Categories/category_19.md) / [Mirage](Quests/Trade/quest_3681.md) Near the mouth of the Yellow River in western East Asia. A phenomenon in which you can see scenery that should be below the horizon. It is said to occur when light rays are refracted due to temperature differences on the sea surface. In China, there is a legend that the spiritual animal ``Shin'' emits ``qi'' and causes a ``lou'' pavilion to appear. Rank: 4, Experience Points: 680 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 680 |
 | **Items Obtained** |  |

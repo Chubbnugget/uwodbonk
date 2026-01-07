@@ -21,7 +21,7 @@ Outside the gates of Basra. near the ruins
 | **Time Limit** | none |
 | **Town** | [Amsterdam](Ports/port_49.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (7), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (7) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Gallus Pottery](Quests/Other/quest_3205.md) Islamic pottery made using a technique called "kakiotoshi". It is distinctive in that the pattern is colored with green glaze. Amsterdam Map Rank: 3, Points: 9 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Gallus Pottery](Quests/Trade/quest_3205.md) Islamic pottery made using a technique called "kakiotoshi". It is distinctive in that the pattern is colored with green glaze. Amsterdam Map Rank: 3, Points: 9 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

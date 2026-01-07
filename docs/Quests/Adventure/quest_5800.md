@@ -21,7 +21,7 @@ Have you ever heard that the ancient Egyptian queen Cleopatra drank pearls disso
 | **Time Limit** | none |
 | **Town** | [Stockholm](Ports/port_31.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (15), [Archaeology](Skills/Skill-Adventure/item_342.md) (17), [Italian](Skills/Skills-Language/item_422.md) |
-| **Discovery** | [Historical Relic](Categories/category_7.md) / [Cleopatra's Pearl](Quests/Other/quest_3073.md) A pearl that was in Cleopatra's earring. At the time, it was said to be one of the largest in the world. It is said that the paired pearls were dissolved in vinegar and drunk, but it must have been quite difficult to dissolve them in such large quantities. The world's greatest luxury Rank: 5, Points: 9, Difficulty: 15, Experience points: 1,400 |
+| **Discovery** | [Historical Relic](Categories/category_7.md) / [Cleopatra's Pearl](Quests/Trade/quest_3073.md) A pearl that was in Cleopatra's earring. At the time, it was said to be one of the largest in the world. It is said that the paired pearls were dissolved in vinegar and drunk, but it must have been quite difficult to dissolve them in such large quantities. The world's greatest luxury Rank: 5, Points: 9, Difficulty: 15, Experience points: 1,400 |
 | **Reward/Advance** | Remuneration: 391,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 330 / Fame: 200 |
 | **Items Obtained** | Request letter x10 |

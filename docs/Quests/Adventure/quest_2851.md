@@ -21,7 +21,7 @@ You were the one who gave me the silkworm report. Apparently, when a certain bus
 | **Time Limit** | none |
 | **Town** | [Calicut](Ports/port_44.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (10), [Archaeology](Skills/Skill-Adventure/item_342.md) (12), [Unlocking](Skills/Skill-Adventure/item_460.md) (10) |
-| **Discovery** | [Historical relic](Categories/category_7.md) / [Vertical eye mask](Quests/Other/quest_1370.md) A uniquely shaped mask. It has distinctive vertical eyes, and its shape is reminiscent of the legendary first king of Shu, Silkworm. Sericulture and silkworm flora Experience points when discovered 1060 Discovery card experience points 530 Rank: 5, Points: 9, Difficulty: 12, Experience points: 1,060 |
+| **Discovery** | [Historical relic](Categories/category_7.md) / [Vertical eye mask](Quests/Trade/quest_1370.md) A uniquely shaped mask. It has distinctive vertical eyes, and its shape is reminiscent of the legendary first king of Shu, Silkworm. Sericulture and silkworm flora Experience points when discovered 1060 Discovery card experience points 530 Rank: 5, Points: 9, Difficulty: 12, Experience points: 1,060 |
 | **Reward/Advance** | Remuneration: 280,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 310 / Fame: 260 |
 | **Items Obtained** | Request letter x9 |

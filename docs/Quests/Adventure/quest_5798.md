@@ -21,7 +21,7 @@ This was a request from Mr. Baile, the mayor of Calicut. You did some research o
 | **Time Limit** | none |
 | **Town** | [Saint-Georges](Ports/port_76.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (17), [Exploration](Skills/Skill-Adventure/item_257.md) (15), [Indian Languages](Skills/Skills-Language/item_590.md) |
-| **Discovery** | [Religious Relic](Categories/category_8.md) / [Buddha's Tooth](Quests/Other/quest_3065.md) A relic believed to be the tooth of Buddha. It is regarded as important among the many Buddha's relics, and the canine tooth in particular is said to be believed to have strong power. A type of Buddha Shari Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,360 |
+| **Discovery** | [Religious Relic](Categories/category_8.md) / [Buddha's Tooth](Quests/Trade/quest_3065.md) A relic believed to be the tooth of Buddha. It is regarded as important among the many Buddha's relics, and the canine tooth in particular is said to be believed to have strong power. A type of Buddha Shari Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,360 |
 | **Reward/Advance** | Remuneration: 433,000 / Advance payment: 40,000 |
 | **Exp/Fame** | Experience points: 360 / Fame: 220 |
 | **Items Obtained** | Request letter x10 |

@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Salvage](Skills/Skill-Adventure/item_2275.md), [Visibility](Skills/Skill-Adventure/item_458.md) (9) |
-| **Discovery** | [Historical relic](Categories/category_7.md) / [De Atocha](Quests/Other/quest_3348.md) A Spanish galleon. On the way home, packed with precious metals and gems from the New World, the ship was caught in a storm and sank off the coast of Florida. Salvage Rank: 4, Points: 7, Difficulty: 7, Experience Points: 710 |
+| **Discovery** | [Historical relic](Categories/category_7.md) / [De Atocha](Quests/Trade/quest_3348.md) A Spanish galleon. On the way home, packed with precious metals and gems from the New World, the ship was caught in a storm and sank off the coast of Florida. Salvage Rank: 4, Points: 7, Difficulty: 7, Experience Points: 710 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | Goddess clock, silver-decorated necklace |

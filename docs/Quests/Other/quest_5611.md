@@ -21,7 +21,7 @@ Landed on the Colorado Plateau. Exit the gate and head north.
 | **Time Limit** | none |
 | **Town** | [Hangzhou](Ports/port_173.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (5), [Biology](Skills/Skill-Adventure/item_434.md) (5) |
-| **Discovery** | [Fossil](Categories/category_5.md) / [Giant penguin bone](Quests/Other/quest_2932.md) A giant penguin-like bone found in central North America. Unlike normal waterfowl, they have tooth-like objects in their beaks. Rank: 1, Experience Points: 170 |
+| **Discovery** | [Fossil](Categories/category_5.md) / [Giant penguin bone](Quests/Trade/quest_2932.md) A giant penguin-like bone found in central North America. Unlike normal waterfowl, they have tooth-like objects in their beaks. Rank: 1, Experience Points: 170 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

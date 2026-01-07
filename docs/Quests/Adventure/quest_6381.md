@@ -21,7 +21,7 @@ Do you know Halicarnassus Town? Apparently it's a town that existed in ancient t
 | **Time Limit** | none |
 | **Town** | [Genoa](Ports/port_11.md), [Naples](Ports/port_60.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (3), [Archaeology](Skills/Skill-Adventure/item_342.md) (5), [Greek](Skills/Skills-Language/item_604.md) |
-| **Discovery** | [Historical relic](Categories/category_7.md) / [King Xerxes' vase](Quests/Other/quest_3463.md) A vase inscribed with the name of Xerxes, the king of Achaemenid Persia. It was discovered on the site of the ancient Town of Halicarnassus. Since it was not something common people could obtain, it must have been left behind by someone who ruled this land. Rank: 3, Points: 4, Difficulty: 5, Experience Points: 440 |
+| **Discovery** | [Historical relic](Categories/category_7.md) / [King Xerxes' vase](Quests/Trade/quest_3463.md) A vase inscribed with the name of Xerxes, the king of Achaemenid Persia. It was discovered on the site of the ancient Town of Halicarnassus. Since it was not something common people could obtain, it must have been left behind by someone who ruled this land. Rank: 3, Points: 4, Difficulty: 5, Experience Points: 440 |
 | **Reward/Advance** | Remuneration: 140,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience points: 210 / Fame: 220 |
 | **Items Obtained** | Request letter ☓4 |

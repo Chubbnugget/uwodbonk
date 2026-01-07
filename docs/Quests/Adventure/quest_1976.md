@@ -21,7 +21,7 @@ This continent is a treasure trove of rare creatures. However, from time to time
 | **Time Limit** | none |
 | **Town** | [Rio de Janeiro](Ports/port_122.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (9), [Biology](Skills/Skill-Adventure/item_434.md) (11), [French](Skills/Skills-Language/item_603.md) |
-| **Discovery** | [Small Creatures](Categories/category_13.md) / [Emperor Tamarin](Quests/Other/quest_2024.md) A small monkey that lives in the tropical forests of northern South America. He was given the name ``Emperor'' because of his magnificent beard. They live in trees and eat fruit. Little old man in the forest Rank: 5, Points: 8, Difficulty: 11, Experience points: 1,020 |
+| **Discovery** | [Small Creatures](Categories/category_13.md) / [Emperor Tamarin](Quests/Trade/quest_2024.md) A small monkey that lives in the tropical forests of northern South America. He was given the name ``Emperor'' because of his magnificent beard. They live in trees and eat fruit. Little old man in the forest Rank: 5, Points: 8, Difficulty: 11, Experience points: 1,020 |
 | **Reward/Advance** | Remuneration: 336,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 350 / Fame: 150 |
 | **Items Obtained** | 8 request letters |

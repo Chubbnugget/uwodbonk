@@ -21,7 +21,7 @@ Sea anemones are creatures that eat fish. However, it seems that there are fish 
 | **Time Limit** | none |
 | **Town** | [Zanzibar](Ports/port_38.md), [Aden](Ports/port_43.md), [Calicut](Ports/port_44.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (3), [Biology](Skills/Skill-Adventure/item_434.md) (5), [Arabic](Skills/Skills-Language/item_440.md) |
-| **Discovery** | [Marine life](Categories/category_16.md) / [Anemonefish](Quests/Other/quest_2296.md) A fish with white stripes that lives in warm seas. The sea anemone's poison doesn't seem to work on it, so when attacked by an enemy, it hides between the sea anemone's tentacles. It's a mystery why the poison doesn't work. Fish living with sea anemones Rank: 2, Points: 3, Difficulty: 5, Experience points: 260 |
+| **Discovery** | [Marine life](Categories/category_16.md) / [Anemonefish](Quests/Trade/quest_2296.md) A fish with white stripes that lives in warm seas. The sea anemone's poison doesn't seem to work on it, so when attacked by an enemy, it hides between the sea anemone's tentacles. It's a mystery why the poison doesn't work. Fish living with sea anemones Rank: 2, Points: 3, Difficulty: 5, Experience points: 260 |
 | **Reward/Advance** | Remuneration: 67,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 150 / Fame: 70 |
 | **Items Obtained** | Marine life illustrated book |

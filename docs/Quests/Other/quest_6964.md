@@ -21,7 +21,7 @@ An archipelago southeast of Pinjarra.
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md) |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (8), [Visibility](Skills/Skill-Adventure/item_458.md) (8) |
-| **Discovery** | [Geography](Categories/category_2.md) / [Recherche Islands](Quests/Other/quest_3973.md) An archipelago located in the southwest of Australia. It consists of about 100 islands and over 1000 islets. The island's primeval forests and beautiful ocean are home to many endemic creatures, and you can observe a variety of species. Discovery Card: 140 Rank: 2, Points: 4, Difficulty: 8, Experience Points: 280 |
+| **Discovery** | [Geography](Categories/category_2.md) / [Recherche Islands](Quests/Trade/quest_3973.md) An archipelago located in the southwest of Australia. It consists of about 100 islands and over 1000 islets. The island's primeval forests and beautiful ocean are home to many endemic creatures, and you can observe a variety of species. Discovery Card: 140 Rank: 2, Points: 4, Difficulty: 8, Experience Points: 280 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 280 |
 | **Items Obtained** |  |

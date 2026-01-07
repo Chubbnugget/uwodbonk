@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Historical Relic](Categories/category_7.md) / [General Guan's Abacus](Quests/Other/quest_3516.md) Ancient Chinese abacus (Xuanban). There is a legend that it was invented by Guan Yu, a famous military commander in the Romance of the Three Kingdoms, but it is said that it was used in ancient times even before that. The abacus, in which beads are threaded through a skewer, is said to be a later invention, and the beads are oval in shape, with two beads on the top (top) and five beads on the ground (bottom). Legacy Wisdom of Numbers/World Calculation System Bottom Right Rank: 5, Points: 7 |
+| **Discovery** | [Historical Relic](Categories/category_7.md) / [General Guan's Abacus](Quests/Trade/quest_3516.md) Ancient Chinese abacus (Xuanban). There is a legend that it was invented by Guan Yu, a famous military commander in the Romance of the Three Kingdoms, but it is said that it was used in ancient times even before that. The abacus, in which beads are threaded through a skewer, is said to be a later invention, and the beads are oval in shape, with two beads on the top (top) and five beads on the ground (bottom). Legacy Wisdom of Numbers/World Calculation System Bottom Right Rank: 5, Points: 7 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | the root of wisdom |

@@ -21,7 +21,7 @@ Portugal's neighbor, the Kingdom of Castile, is one of the most prominent countr
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (2), [Archaeology](Skills/Skill-Adventure/item_342.md) (4), [Spanish](Skills/Skills-Language/item_425.md) |
-| **Discovery** | [Historical Relics](Categories/category_7.md) / [Seven Law Code](Quests/Other/quest_3234.md) A law book compiled during the era of King Alfonso X of Castile. It was created based on the legal codes and church laws of ancient Rome and the Byzantine Empire, and through this, it succeeded in eliminating the discrepancies in customs with the former Kingdom of Leon, which had been unified by its predecessor. Rank: 2, Points: 4 |
+| **Discovery** | [Historical Relics](Categories/category_7.md) / [Seven Law Code](Quests/Trade/quest_3234.md) A law book compiled during the era of King Alfonso X of Castile. It was created based on the legal codes and church laws of ancient Rome and the Byzantine Empire, and through this, it succeeded in eliminating the discrepancies in customs with the former Kingdom of Leon, which had been unified by its predecessor. Rank: 2, Points: 4 |
 | **Reward/Advance** | Remuneration: 64,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | Request letter*3 |

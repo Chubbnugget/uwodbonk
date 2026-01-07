@@ -21,7 +21,7 @@ It's normal for each constellation to have its own myth, right? However, it seem
 | **Time Limit** | none |
 | **Town** | [Venice](Ports/port_30.md) |
 | **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (17), [Visibility](Skills/Skill-Adventure/item_458.md) (15), [German](Skills/Skills-Language/item_600.md) |
-| **Discovery** | [Astronomy](Categories/category_18.md) / [Spiritus Major](Quests/Other/quest_3135.md) A constellation that has no bright stars and is close to the smallest in the sky. It is one of the 48 constellations of Ptolemy, but it is a constellation shrouded in mystery, as it is not clear who created it, and the myth behind it has not been passed down. Quest “Constellations without Myths” Discovery Card: 690 Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,380 |
+| **Discovery** | [Astronomy](Categories/category_18.md) / [Spiritus Major](Quests/Trade/quest_3135.md) A constellation that has no bright stars and is close to the smallest in the sky. It is one of the 48 constellations of Ptolemy, but it is a constellation shrouded in mystery, as it is not clear who created it, and the myth behind it has not been passed down. Quest “Constellations without Myths” Discovery Card: 690 Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,380 |
 | **Reward/Advance** | Remuneration: 452,000 / Advance payment: 40,000 |
 | **Exp/Fame** | Experience points: 370 / Fame: 225 |
 | **Items Obtained** | Request letter x10 |

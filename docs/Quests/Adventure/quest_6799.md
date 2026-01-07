@@ -21,7 +21,7 @@ This was a request from a certain history buff. He wanted me to find out about t
 | **Time Limit** | none |
 | **Town** | [Seville](Ports/port_4.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (12), [Visibility](Skills/Skill-Adventure/item_458.md) (10), [English](Skills/Skills-Language/item_341.md) (1) |
-| **Discovery** | [Historical site](Categories/category_6.md) / [Offa's fortifications](Quests/Other/quest_3827.md) An earthwork said to have been built on the British Isles around the 8th century. It is said to have been built by Offa, the king of Mercia, during the Seven Kingdoms period, when there were a number of small countries, in order to defend his territory against invasions from Wales. Discovery card: 420 Rank: 5, Points: 10, Difficulty: 12, Experience points: 840 |
+| **Discovery** | [Historical site](Categories/category_6.md) / [Offa's fortifications](Quests/Trade/quest_3827.md) An earthwork said to have been built on the British Isles around the 8th century. It is said to have been built by Offa, the king of Mercia, during the Seven Kingdoms period, when there were a number of small countries, in order to defend his territory against invasions from Wales. Discovery card: 420 Rank: 5, Points: 10, Difficulty: 12, Experience points: 840 |
 | **Reward/Advance** | Remuneration: 137,000 / Advance payment: 10,000 |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

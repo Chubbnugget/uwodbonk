@@ -21,7 +21,7 @@ Calicut. Near the throne room of the satrap.
 | **Time Limit** | none |
 | **Town** | [San Francisco](Ports/port_198.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (11), [Archaeology](Skills/Skill-Adventure/item_342.md) (11) |
-| **Discovery** | [Historical Relic](Categories/category_7.md) / [Mohenjo Daro Statue](Quests/Other/quest_3429.md) A stone statue discovered in South Asia. It is said to be modeled after a person from the upper class. The statue's clothes, which expose one side of its skin, have elaborate patterns that seem to indicate the influence of Western culture. Rank: 2, Points: 7, Difficulty: 11, Experience Points: 360 |
+| **Discovery** | [Historical Relic](Categories/category_7.md) / [Mohenjo Daro Statue](Quests/Trade/quest_3429.md) A stone statue discovered in South Asia. It is said to be modeled after a person from the upper class. The statue's clothes, which expose one side of its skin, have elaborate patterns that seem to indicate the influence of Western culture. Rank: 2, Points: 7, Difficulty: 11, Experience Points: 360 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

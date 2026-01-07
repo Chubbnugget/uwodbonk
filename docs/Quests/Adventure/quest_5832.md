@@ -21,7 +21,7 @@ I've received a request from an important person in town to investigate some rar
 | **Time Limit** | none |
 | **Town** | [Stockholm](Ports/port_31.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (15), [Art](Skills/Skill-Adventure/item_285.md) (17), [Dutch](Skills/Skills-Language/item_599.md) |
-| **Discovery** | [Artwork](Categories/category_3.md) / [Rustic Pottery](Quests/Other/quest_3094.md) Pottery created by a person named Parisy. It has three-dimensional reliefs of small animals and plants, and it looks like a rural landscape has been recreated on the pottery. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,340 |
+| **Discovery** | [Artwork](Categories/category_3.md) / [Rustic Pottery](Quests/Trade/quest_3094.md) Pottery created by a person named Parisy. It has three-dimensional reliefs of small animals and plants, and it looks like a rural landscape has been recreated on the pottery. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,340 |
 | **Reward/Advance** | Remuneration: 297,000 / Advance payment: 70,000 |
 | **Exp/Fame** | Experience: 270 / Fame: 160 |
 | **Items Obtained** | Request letter *10 |

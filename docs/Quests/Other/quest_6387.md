@@ -21,7 +21,7 @@ Did you know that silk is made from silkworm thread? It is made by pulling threa
 | **Time Limit** | none |
 | **Town** | [Sagres](Ports/port_214.md) |
 | **Required Skills** | [Biology](Skills/Skill-Adventure/item_434.md) (13) |
-| **Discovery** | [Lore](Categories/category_20.md) / [Golden Princess](Quests/Other/quest_3482.md) [Lore](Categories/category_20.md) is said to be the beginning of sericulture. [Golden Princess] (quest_3482.md) was hated by her stepmother and was abandoned many times, but in the end she was saved by a certain couple. It is said that [Golden Princess] (quest_3482.md), who eventually died of illness, became a silkworm and passed on the technique of spinning thread from cocoons to the couple. [Lore] about gold (ref_20.md) Rank: 5, Points: 10, Difficulty: 9, Experience points: 1,120 |
+| **Discovery** | [Lore](Categories/category_20.md) / [Golden Princess](Quests/Trade/quest_3482.md) [Lore](Categories/category_20.md) is said to be the beginning of sericulture. [Golden Princess] (quest_3482.md) was hated by her stepmother and was abandoned many times, but in the end she was saved by a certain couple. It is said that [Golden Princess] (quest_3482.md), who eventually died of illness, became a silkworm and passed on the technique of spinning thread from cocoons to the couple. [Lore] about gold (ref_20.md) Rank: 5, Points: 10, Difficulty: 9, Experience points: 1,120 |
 | **Reward/Advance** | Remuneration: 778,000 / Advance payment: 80,000 |
 | **Exp/Fame** | Experience points: 690 / Fame: 350 |
 | **Items Obtained** |  |

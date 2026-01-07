@@ -21,7 +21,7 @@ Joan of Arc died mid-way. It seems that the favorite war hammer of Marshal Riche
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (10), [Archaeology](Skills/Skill-Adventure/item_342.md) (12), [French](Skills/Skills-Language/item_603.md) |
-| **Discovery** | [Relic](Categories/category_17.md) / [Jeanne's Successor](Quests/Other/quest_2550.md) From a motley army of lords and mercenaries to the king's standing army. It can be said that Marshal Richemont's military reforms greatly contributed to France becoming a great power. |
+| **Discovery** | [Relic](Categories/category_17.md) / [Jeanne's Successor](Quests/Trade/quest_2550.md) From a motley army of lords and mercenaries to the king's standing army. It can be said that Marshal Richemont's military reforms greatly contributed to France becoming a great power. |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | Marshal Richemont's War Hammer Attack Power 60 (March +1, Gunnery +1) Required Fame 2500 |

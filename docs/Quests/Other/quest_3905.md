@@ -21,7 +21,7 @@ Baron Munchausen was known for his witty speaking skills. It seems that there is
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (7), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (9), [German](Skills/Skills-Language/item_600.md) |
-| **Discovery** | [Relic](Categories/category_17.md) / [Baron Horafuki](Quests/Other/quest_2551.md) Baron Munchausen is known for his skillful speaking skills and wit. His adventure stories still entertain people today. |
+| **Discovery** | [Relic](Categories/category_17.md) / [Baron Horafuki](Quests/Trade/quest_2551.md) Baron Munchausen is known for his skillful speaking skills and wit. His adventure stories still entertain people today. |
 | **Reward/Advance** | Remuneration: 0 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 2,260 |
 | **Items Obtained** | The Adventures of the Blowing Baron (Clothing: Durability 35, Luxury Goods Trading +2, Persuasion +1, Required Fame 5000) |

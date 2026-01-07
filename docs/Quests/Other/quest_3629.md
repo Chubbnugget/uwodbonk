@@ -21,7 +21,7 @@ Fabius Maximus was an intelligent Roman general who strategically opposed the Ca
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (11), [Archaeology](Skills/Skill-Adventure/item_342.md) (13), [Latin](Skills/Skills-Language/item_1418.md) |
-| **Discovery** | [Relic](Categories/category_17.md) / [Italian Shield](Quests/Other/quest_2549.md) Fabius, the intelligent general, used his strategy to contain Hannibal's terrifying soldiers. However, it is said that he died without seeing the victory of Rome. |
+| **Discovery** | [Relic](Categories/category_17.md) / [Italian Shield](Quests/Trade/quest_2549.md) Fabius, the intelligent general, used his strategy to contain Hannibal's terrifying soldiers. However, it is said that he died without seeing the victory of Rome. |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 2,600 / Fame: 1,040 |
 | **Items Obtained** | Equipment “Kunctator’s Book of War (Command +2 Tactics +1 Defense +1)” |

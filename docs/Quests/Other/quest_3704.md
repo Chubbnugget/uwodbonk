@@ -21,7 +21,7 @@ Robin Hood is famous as a robber of the forest. According to the story, after Ro
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (13), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (15), [English](Skills/Skills-Language/item_341.md) |
-| **Discovery** | [Relic](Categories/category_17.md) / [Sherwood Forest Robber](Quests/Other/quest_2581.md) Robin Hood is a polite outlaw who is said to have lived in Sherwood Forest. It has been passed down through generations and continues to be loved by people. Robber's Bow Experience points when discovered: 3030, Fame when discovered: 2420 (Since the reputation is halved due to the total fame exceeding 20,000, it is set to 1210*2) Experience value: 3,030 |
+| **Discovery** | [Relic](Categories/category_17.md) / [Sherwood Forest Robber](Quests/Trade/quest_2581.md) Robin Hood is a polite outlaw who is said to have lived in Sherwood Forest. It has been passed down through generations and continues to be loved by people. Robber's Bow Experience points when discovered: 3030, Fame when discovered: 2420 (Since the reputation is halved due to the total fame exceeding 20,000, it is set to 1210*2) Experience value: 3,030 |
 | **Reward/Advance** | Remuneration: 0 / Advance payment: 0 |
 | **Exp/Fame** | Experience: 3,030 / Fame: 2,420 |
 | **Items Obtained** | Robber's Longbow (Durability 40 Attack Power 65 Sniper +2 Looting +1 Required Fame 3000) |

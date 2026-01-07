@@ -21,7 +21,7 @@ I have a somewhat unusual request for you. In the city of Edo, just across the o
 | **Time Limit** | none |
 | **Town** | [San Francisco](Ports/port_198.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (3), [Biology](Skills/Skill-Adventure/item_434.md) (5), [Japanese](Skills/Skills-Language/item_3396.md) |
-| **Discovery** | [Plant](Categories/category_10.md) / [Saji](Quests/Other/quest_3411.md) [Plant](Categories/category_10.md) widely distributed on the Eurasian continent. Although the fruit is highly nutritious, it has a sour taste and is difficult to eat as is. There are also many thorns on the trunk and branches, making it difficult to harvest. The fruit is bright orange and is sometimes cultivated for ornamental purposes. Rank: 2, Points: 4, Experience Points: 330 |
+| **Discovery** | [Plant](Categories/category_10.md) / [Saji](Quests/Trade/quest_3411.md) [Plant](Categories/category_10.md) widely distributed on the Eurasian continent. Although the fruit is highly nutritious, it has a sour taste and is difficult to eat as is. There are also many thorns on the trunk and branches, making it difficult to harvest. The fruit is bright orange and is sometimes cultivated for ornamental purposes. Rank: 2, Points: 4, Experience Points: 330 |
 | **Reward/Advance** | Remuneration: 170,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience: 190 / Fame: 110 |
 | **Items Obtained** | Request letter x 4 |

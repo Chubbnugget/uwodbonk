@@ -21,7 +21,7 @@ Landing in the northern Baltic Sea. West Siberian Plain in the background. To th
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (6), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (6) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Alexandrite Cat's Eye](Quests/Other/quest_2629.md) A rare gemstone. Alexandrite with a streak of light in the center. Sometimes considered more expensive than diamonds. Caucasus region resurvey Rank: 2, Points: 4 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Alexandrite Cat's Eye](Quests/Trade/quest_2629.md) A rare gemstone. Alexandrite with a streak of light in the center. Sometimes considered more expensive than diamonds. Caucasus region resurvey Rank: 2, Points: 4 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

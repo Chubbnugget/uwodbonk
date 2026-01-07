@@ -21,7 +21,7 @@ Landed on the west coast of Scandinavia. Near the cedar tree in the southeast.
 | **Time Limit** | none |
 | **Town** | [Naples](Ports/port_60.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (13), [Biology](Skills/Skill-Adventure/item_434.md) (13) |
-| **Discovery** | [Small Creatures](Categories/category_13.md) / [Pine Marten](Quests/Other/quest_3841.md) A type of marten that lives in the forests of Europe. The fur on the whole body is dark brown, but only the throat part is yellow. Nocturnal and omnivorous. They are mainly active in trees, but can also run quickly on the ground. They build nests in tree hollows and bushes. Discovery Card Experience Points: 225 Rank: 3, Points: 8, Difficulty: 13 |
+| **Discovery** | [Small Creatures](Categories/category_13.md) / [Pine Marten](Quests/Trade/quest_3841.md) A type of marten that lives in the forests of Europe. The fur on the whole body is dark brown, but only the throat part is yellow. Nocturnal and omnivorous. They are mainly active in trees, but can also run quickly on the ground. They build nests in tree hollows and bushes. Discovery Card Experience Points: 225 Rank: 3, Points: 8, Difficulty: 13 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

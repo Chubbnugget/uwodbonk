@@ -21,7 +21,7 @@ Landed on the southeast coast of the Japanese archipelago. Omi in the back. Near
 | **Time Limit** | none |
 | **Town** | [Sakai](Ports/port_179.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (4), [Biology](Skills/Skill-Adventure/item_434.md) (4) |
-| **Discovery** | [Plant](Categories/category_10.md) / [Gardenia](Quests/Other/quest_3221.md) [Plant](Categories/category_10.md) distributed in Japan, China, Taiwan, Indochina Peninsula, etc. It grows mainly in forests and is characterized by its white flowers that bloom with a strong fragrance from early summer to summer. The fruit is used in Chinese medicine, as well as as food and dye. Rank: 1, Experience Points: 140 |
+| **Discovery** | [Plant](Categories/category_10.md) / [Gardenia](Quests/Trade/quest_3221.md) [Plant](Categories/category_10.md) distributed in Japan, China, Taiwan, Indochina Peninsula, etc. It grows mainly in forests and is characterized by its white flowers that bloom with a strong fragrance from early summer to summer. The fruit is used in Chinese medicine, as well as as food and dye. Rank: 1, Experience Points: 140 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 140 |
 | **Items Obtained** |  |

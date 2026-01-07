@@ -21,7 +21,7 @@ It was a request from a certain nobleman. Did you know that various sciences wer
 | **Time Limit** | none |
 | **Town** | [Tunis](Ports/port_46.md), [Genoa](Ports/port_11.md), [Venice](Ports/port_30.md) |
 | **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (3), [Exploration](Skills/Skill-Adventure/item_257.md) (5), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (7) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Almagest](Quests/Other/quest_2647.md) A specialized book on mathematics and astronomy written by Claudio Ptolemy of Alexandria in the late 2nd century. It is indispensable for understanding mathematics and astronomy that were developed in ancient Greece. Rank: 3, Experience Points: 470 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Almagest](Quests/Trade/quest_2647.md) A specialized book on mathematics and astronomy written by Claudio Ptolemy of Alexandria in the late 2nd century. It is indispensable for understanding mathematics and astronomy that were developed in ancient Greece. Rank: 3, Experience Points: 470 |
 | **Reward/Advance** | Reward: 93,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 150 / Fame: 75 |
 | **Items Obtained** | Request letter ☓4 |

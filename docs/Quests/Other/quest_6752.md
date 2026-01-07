@@ -21,7 +21,7 @@ Observed in the Peruvian Basin
 | **Time Limit** | none |
 | **Town** | [Amsterdam](Ports/port_49.md) |
 | **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (21), [Visibility](Skills/Skill-Adventure/item_458.md) (21) |
-| **Discovery** | [Astronomy](Categories/category_18.md) / [Tarantula Nebula](Quests/Other/quest_3794.md) A nebula in the constellation Dorado, located at the tip of the Large Magellanic Cloud. It is said that it was first discovered by Lacaille during his expedition to the Cape of Good Hope in 1751. Rank: 5, Difficulty: 10 |
+| **Discovery** | [Astronomy](Categories/category_18.md) / [Tarantula Nebula](Quests/Trade/quest_3794.md) A nebula in the constellation Dorado, located at the tip of the Large Magellanic Cloud. It is said that it was first discovered by Lacaille during his expedition to the Cape of Good Hope in 1751. Rank: 5, Difficulty: 10 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

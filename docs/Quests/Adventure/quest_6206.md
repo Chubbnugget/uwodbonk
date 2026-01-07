@@ -21,7 +21,7 @@ Maps come in a variety of formats, so you'll never get tired of looking at them.
 | **Time Limit** | none |
 | **Town** | [Amsterdam](Ports/port_49.md), [London](Ports/port_23.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (5), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (7), [Italian](Skills/Skills-Language/item_422.md) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Carta Marina](Quests/Other/quest_3341.md) A nautical chart of Northern Europe created by Olaus Magnus, a 16th century Swedish bishop. The topography of each region is depicted in the details, and rare creatures and monsters are also depicted here and there. It seems that it was created based on books from all over the world, as well as stories carefully learned from sailors. Rank: 4, Points: 6, Difficulty: 7, Experience Points: 630 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Carta Marina](Quests/Trade/quest_3341.md) A nautical chart of Northern Europe created by Olaus Magnus, a 16th century Swedish bishop. The topography of each region is depicted in the details, and rare creatures and monsters are also depicted here and there. It seems that it was created based on books from all over the world, as well as stories carefully learned from sailors. Rank: 4, Points: 6, Difficulty: 7, Experience Points: 630 |
 | **Reward/Advance** | Remuneration: 175,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience points: 200 |
 | **Items Obtained** | 6 request letters |

@@ -21,7 +21,7 @@ Every country has history books. I wonder if everyone shares the same feeling of
 | **Time Limit** | none |
 | **Town** | [Marseille](Ports/port_10.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (15), [Archaeology](Skills/Skill-Adventure/item_342.md) (17), [Japanese](Skills/Skills-Language/item_3396.md) |
-| **Discovery** | [Historical Relics](Categories/category_7.md) / [Nihon Shoki](Quests/Other/quest_3069.md) History book of ancient Japan. It describes the establishment of the country in the mythical era up to the reign of Emperor Jito, and is unique in that it includes different theories. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,370 |
+| **Discovery** | [Historical Relics](Categories/category_7.md) / [Nihon Shoki](Quests/Trade/quest_3069.md) History book of ancient Japan. It describes the establishment of the country in the mythical era up to the reign of Emperor Jito, and is unique in that it includes different theories. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,370 |
 | **Reward/Advance** | Remuneration: 809,000 / Advance payment: 80,000 |
 | **Exp/Fame** | Experience: 590 / Fame: 375 |
 | **Items Obtained** | Request letter x10 |

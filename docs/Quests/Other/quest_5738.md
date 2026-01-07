@@ -21,7 +21,7 @@ Landed on the west coast of the Sea of ​​Okhotsk. Around Lake Baikal in the 
 | **Time Limit** | none |
 | **Town** | [Alexandria](Ports/port_63.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (9), [Biology](Skills/Skill-Adventure/item_434.md) (9) |
-| **Discovery** | [Marine life](Categories/category_16.md) / [Golomyanka](Quests/Other/quest_3023.md) A deep lake fish that is not a deep sea fish that lives in Lake Baikal. They do not have scales or swim bladders, but their rich fat content allows them to float. 2017.02.07 New addition Rank: 2, Points: 5, Experience points: 270 |
+| **Discovery** | [Marine life](Categories/category_16.md) / [Golomyanka](Quests/Trade/quest_3023.md) A deep lake fish that is not a deep sea fish that lives in Lake Baikal. They do not have scales or swim bladders, but their rich fat content allows them to float. 2017.02.07 New addition Rank: 2, Points: 5, Experience points: 270 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

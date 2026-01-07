@@ -21,7 +21,7 @@ Let's do some further research on the deciduous sugar maple tree. First, let's t
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (8), [Biology](Skills/Skill-Adventure/item_434.md) (10), [North American languages](Skills/Skills-Language/item_4478.md) (1) |
-| **Discovery** | [Plant](Categories/category_10.md) / [Sugar maple with autumn leaves](Quests/Other/quest_3501.md) The leaves of sugar maple turn yellow or red around autumn. The tree is said to be over 30 meters tall. It is said that it grows in clusters, and the scenery with its characteristically shaped leaves spreading all over is spectacular. Pursuit quest “Additional investigation of sugar maple” Discovery card: 445 Rank: 5, Points: 8, Difficulty: 3, Experience points: 860 |
+| **Discovery** | [Plant](Categories/category_10.md) / [Sugar maple with autumn leaves](Quests/Trade/quest_3501.md) The leaves of sugar maple turn yellow or red around autumn. The tree is said to be over 30 meters tall. It is said that it grows in clusters, and the scenery with its characteristically shaped leaves spreading all over is spectacular. Pursuit quest “Additional investigation of sugar maple” Discovery card: 445 Rank: 5, Points: 8, Difficulty: 3, Experience points: 860 |
 | **Reward/Advance** | Reward: 170,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 330 |
 | **Items Obtained** | treasure chest of pursuit |

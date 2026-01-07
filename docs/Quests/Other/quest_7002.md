@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Treasure](Categories/category_4.md) / [King Wen's Crown](Quests/Other/quest_4011.md) A crown modeled after a one-horned divine beast from ancient China. This divine beast was said to discern right from wrong and punish evil. According to legend, this crown was invented by King Wen of Chu, and since then it has been worn by government officials who administer the law as a symbol of justice. Rank: 5, Points: 10 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [King Wen's Crown](Quests/Trade/quest_4011.md) A crown modeled after a one-horned divine beast from ancient China. This divine beast was said to discern right from wrong and punish evil. According to legend, this crown was invented by King Wen of Chu, and since then it has been worn by government officials who administer the law as a symbol of justice. Rank: 5, Points: 10 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

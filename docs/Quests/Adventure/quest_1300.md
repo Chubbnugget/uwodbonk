@@ -21,7 +21,7 @@ Have you ever seen something through? It may seem strange, but apparently there 
 | **Time Limit** | none |
 | **Town** | [Jakarta](Ports/port_135.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (5), [Biology](Skills/Skill-Adventure/item_434.md) (7), [Thai-Burmese](Skills/Skills-Language/item_1975.md) |
-| **Discovery** | [Marine life](Categories/category_16.md) / [Glass catfish](Quests/Other/quest_2299.md) A fish that protects itself from predators by making its body transparent. Only bones, eyes, and digestive organs are clearly visible. Transparent Fish Rank: 3, Points: 6, Difficulty: 7, Experience Points: 451 |
+| **Discovery** | [Marine life](Categories/category_16.md) / [Glass catfish](Quests/Trade/quest_2299.md) A fish that protects itself from predators by making its body transparent. Only bones, eyes, and digestive organs are clearly visible. Transparent Fish Rank: 3, Points: 6, Difficulty: 7, Experience Points: 451 |
 | **Reward/Advance** | Remuneration: 59,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 250 / Fame: 170 |
 | **Items Obtained** | Request letter x6 |

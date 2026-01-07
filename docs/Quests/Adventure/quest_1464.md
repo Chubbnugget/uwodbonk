@@ -21,7 +21,7 @@ Do you know a navigator named Zheng He? He is a voyager who came from a continen
 | **Time Limit** | none |
 | **Town** | [Zanzibar](Ports/port_38.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (7), [Archaeology](Skills/Skill-Adventure/item_342.md) (9), [Unlocking](Skills/Skill-Adventure/item_460.md) (7) |
-| **Discovery** | [Historical relics](Categories/category_7.md) / [Figurehead of Zheng He's fleet](Quests/Other/quest_1389.md) The figurehead of the Ming ship that Zheng He was on. According to records, Zheng He's ship was a huge ship called a treasure ship, and its size was incomparable to that of Admiral Colon and the ships of the Gama fleet. Looking at this figurehead, it seems that the story is not completely false. Quest "The size of Zheng He's ship" Discovery card: 372 Rank: 4, Points: 7, Difficulty: 9, Experience points: 744 |
+| **Discovery** | [Historical relics](Categories/category_7.md) / [Figurehead of Zheng He's fleet](Quests/Trade/quest_1389.md) The figurehead of the Ming ship that Zheng He was on. According to records, Zheng He's ship was a huge ship called a treasure ship, and its size was incomparable to that of Admiral Colon and the ships of the Gama fleet. Looking at this figurehead, it seems that the story is not completely false. Quest "The size of Zheng He's ship" Discovery card: 372 Rank: 4, Points: 7, Difficulty: 9, Experience points: 744 |
 | **Reward/Advance** | Remuneration: 128,000 / Advance payment: 15,000 |
 | **Exp/Fame** | Experience points: 440 / Fame: 160 |
 | **Items Obtained** | Figurehead of the Zheng He fleet (use effect: recovery from confusion), request letter x8 |

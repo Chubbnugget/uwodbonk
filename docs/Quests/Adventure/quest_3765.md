@@ -21,7 +21,7 @@ This was a request from Mr. Copernicus of Danzig. They would like to request you
 | **Time Limit** | none |
 | **Town** | [St.Petersburg](Ports/port_190.md), [Stockholm](Ports/port_31.md) |
 | **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (3), [Visibility](Skills/Skill-Adventure/item_458.md) (1), [German](Skills/Skills-Language/item_600.md) |
-| **Discovery** | [Astronomy](Categories/category_18.md) / [Mercury](Quests/Other/quest_2476.md) A planet that can only be seen for a short time between dusk and dawn. In ancient Greece, the evening [Mercury] (quest_2476.md) was read as Hermes, and the morning [Mercury] (quest_2476.md) was read as Apollo. Compared to Venus, it is fainter and closer to the Sun, making it somewhat difficult to observe. Quest "Copernicus' Request" Discovery Card: 225 Rank: 3, Points: 2, Difficulty: 3, Experience Points: 450 |
+| **Discovery** | [Astronomy](Categories/category_18.md) / [Mercury](Quests/Trade/quest_2476.md) A planet that can only be seen for a short time between dusk and dawn. In ancient Greece, the evening [Mercury] (quest_2476.md) was read as Hermes, and the morning [Mercury] (quest_2476.md) was read as Apollo. Compared to Venus, it is fainter and closer to the Sun, making it somewhat difficult to observe. Quest "Copernicus' Request" Discovery Card: 225 Rank: 3, Points: 2, Difficulty: 3, Experience Points: 450 |
 | **Reward/Advance** | Remuneration: 111,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience: 170 / Fame: 80 |
 | **Items Obtained** | Request letter x 2 |

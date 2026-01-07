@@ -21,7 +21,7 @@ This is a request from a certain scholar. Did you know that the development of n
 | **Time Limit** | none |
 | **Town** | [Marseille](Ports/port_10.md), [Venice](Ports/port_30.md) |
 | **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (9), [Visibility](Skills/Skill-Adventure/item_458.md) (7), [Indian languages](Skills/Skills-Language/item_590.md) |
-| **Discovery** | [Astronomy](Categories/category_18.md) / [Pavo](Quests/Other/quest_2756.md) A constellation located near the south celestial pole. Many of the stars are faint except for the second-magnitude star Peacock, but they are well-shaped and easy to find. Quest “Indian Bird Constellation” Discovery Card: 330 Rank: 4, Points: 8, Difficulty: 9, Experience Points: 660 |
+| **Discovery** | [Astronomy](Categories/category_18.md) / [Pavo](Quests/Trade/quest_2756.md) A constellation located near the south celestial pole. Many of the stars are faint except for the second-magnitude star Peacock, but they are well-shaped and easy to find. Quest “Indian Bird Constellation” Discovery Card: 330 Rank: 4, Points: 8, Difficulty: 9, Experience Points: 660 |
 | **Reward/Advance** | Remuneration: 456,000 / Advance payment: 40,000 |
 | **Exp/Fame** | Experience points: 370 / Fame: 225 |
 | **Items Obtained** | Request letter ☓4 |

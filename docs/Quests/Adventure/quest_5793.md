@@ -21,7 +21,7 @@ It looks like there's a request to investigate the cart. ...I wonder what the ca
 | **Time Limit** | none |
 | **Town** | [Amsterdam](Ports/port_49.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (15), [Archaeology](Skills/Skill-Adventure/item_342.md) (17), [Arabic](Skills/Skills-Language/item_440.md) |
-| **Discovery** | [Historical relic](Categories/category_7.md) / [Gordias' cart](Quests/Other/quest_3077.md) A cart tied to a pillar by the Gordian knot. What would Gordias think if he heard that the knot, which was prophesied that ``the one who unraveled it would become the ruler of Asia,'' was broken by a sword and loosened? King's Cart Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,380 |
+| **Discovery** | [Historical relic](Categories/category_7.md) / [Gordias' cart](Quests/Trade/quest_3077.md) A cart tied to a pillar by the Gordian knot. What would Gordias think if he heard that the knot, which was prophesied that ``the one who unraveled it would become the ruler of Asia,'' was broken by a sword and loosened? King's Cart Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,380 |
 | **Reward/Advance** | Remuneration: 326,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience: 290 / Fame: 175 |
 | **Items Obtained** | Request letter x10 |

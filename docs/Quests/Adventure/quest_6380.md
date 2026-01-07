@@ -21,7 +21,7 @@ You discovered the Pyramids of Giza before. A scholar in Istanbul was looking fo
 | **Time Limit** | none |
 | **Town** | [Tunis](Ports/port_46.md), [Genoa](Ports/port_11.md), [Marseille](Ports/port_10.md), [Istanbul](Ports/port_78.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (1), [Archaeology](Skills/Skill-Adventure/item_342.md) (3), [Arabic](Skills/Skills-Language/item_440.md) |
-| **Discovery** | [Historical Relics](Categories/category_7.md) / [Relief depicting King Khufu](Quests/Other/quest_3462.md) A part of the [Relief depicting King Khufu, an ancient Egyptian pharaoh](Quests/Other/quest_3462.md). A hieroglyphic curve called a cartouche surrounds the pharaoh's name. Similar reliefs include one depicting a sacrificial ox and another depicting a king drawing a bow. Rank: 2, Points: 2, Difficulty: 3, Experience Points: 270 |
+| **Discovery** | [Historical Relics](Categories/category_7.md) / [Relief depicting King Khufu](Quests/Trade/quest_3462.md) A part of the [Relief depicting King Khufu, an ancient Egyptian pharaoh](Quests/Trade/quest_3462.md). A hieroglyphic curve called a cartouche surrounds the pharaoh's name. Similar reliefs include one depicting a sacrificial ox and another depicting a king drawing a bow. Rank: 2, Points: 2, Difficulty: 3, Experience Points: 270 |
 | **Reward/Advance** | Reward: 100,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience: 170 / Fame: 180 |
 | **Items Obtained** | Request letter *2 |

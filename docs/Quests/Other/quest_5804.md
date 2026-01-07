@@ -21,7 +21,7 @@ northern britain
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Fishing](Skills/Skill-Adventure/item_339.md) (8) |
-| **Discovery** | [Marine life](Categories/category_16.md) / [Senju shrimp](Quests/Other/quest_3076.md) A small shrimp that lives in the deep sea. The name comes from the fact that all of its legs have pincers, and at first glance, each leg looks like a hand. Fishing Discovery North of Edinburgh Rank: 3, Points: 6, Difficulty: 8, Experience Points: 600 |
+| **Discovery** | [Marine life](Categories/category_16.md) / [Senju shrimp](Quests/Trade/quest_3076.md) A small shrimp that lives in the deep sea. The name comes from the fact that all of its legs have pincers, and at first glance, each leg looks like a hand. Fishing Discovery North of Edinburgh Rank: 3, Points: 6, Difficulty: 8, Experience Points: 600 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

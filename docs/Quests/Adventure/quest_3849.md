@@ -21,7 +21,7 @@ Are you tight-lipped? There is an investigation that you can only ask someone yo
 | **Time Limit** | none |
 | **Town** | [San Francisco](Ports/port_198.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (11), [Biology](Skills/Skill-Adventure/item_434.md) (13), [North American languages](Skills/Skills-Language/item_4478.md) |
-| **Discovery** | [Large creature](Categories/category_15.md) / [Polar black bear](Quests/Other/quest_2215.md) A bear that is as tall as an adult man. Refers to a white individual that is a subspecies of black-haired bears that widely inhabit North America. Some indigenous people call it the "spirit bear." Spirit Bear Experience value when discovered 1100 Discovery card experience value 550 Rank: 5, Points: 10, Difficulty: 13, Experience value: 1,100 |
+| **Discovery** | [Large creature](Categories/category_15.md) / [Polar black bear](Quests/Trade/quest_2215.md) A bear that is as tall as an adult man. Refers to a white individual that is a subspecies of black-haired bears that widely inhabit North America. Some indigenous people call it the "spirit bear." Spirit Bear Experience value when discovered 1100 Discovery card experience value 550 Rank: 5, Points: 10, Difficulty: 13, Experience value: 1,100 |
 | **Reward/Advance** | Remuneration: 86,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 150 / Fame: 140 |
 | **Items Obtained** |  |

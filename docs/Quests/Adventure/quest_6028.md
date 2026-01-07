@@ -21,7 +21,7 @@ This is a request from a nobleman who is going to St. Petersburg soon, and he wa
 | **Time Limit** | none |
 | **Town** | [Amsterdam](Ports/port_49.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (7), [Visibility](Skills/Skill-Adventure/item_458.md) (5), [Arctic Languages](Skills/Skills-Language/item_4414.md) |
-| **Discovery** | [Religious Architecture](Categories/category_9.md) / [Valaam Monastery](Quests/Other/quest_3213.md) A monastery on Valaam Island, an island floating in Lake Ladoga. Its history dates back to before the Christianization of Russia, but due to its geographical location, it was involved in many wars and was devastated at times. It is said that it has recently been revived. Rank: 3, Points: 3, Difficulty: 7, Experience Points: 520 |
+| **Discovery** | [Religious Architecture](Categories/category_9.md) / [Valaam Monastery](Quests/Trade/quest_3213.md) A monastery on Valaam Island, an island floating in Lake Ladoga. Its history dates back to before the Christianization of Russia, but due to its geographical location, it was involved in many wars and was devastated at times. It is said that it has recently been revived. Rank: 3, Points: 3, Difficulty: 7, Experience Points: 520 |
 | **Reward/Advance** | Remuneration: 104,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience points: 150 / Fame: 80 |
 | **Items Obtained** | Request letter 5 |

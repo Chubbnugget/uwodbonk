@@ -21,7 +21,7 @@ An adventurer I know is heading to Africa, so he seems to be looking for a new a
 | **Time Limit** | none |
 | **Town** | [Amsterdam](Ports/port_49.md), [London](Ports/port_23.md), [Marseille](Ports/port_10.md), [Venice](Ports/port_30.md) |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (3), [Visibility](Skills/Skill-Adventure/item_458.md) (1), [Swahili](Skills/Skills-Language/item_426.md) |
-| **Discovery** | [Geography](Categories/category_2.md) / [Mount Gorongosa](Quests/Other/quest_3367.md) A mountain located to the west of Sofala, where the locals say that a god lived. The area around the mountain is surrounded by vast natural beauty that humans cannot fully explore, and is thought to be home to many undiscovered animals and plants. Rank: 2, Points: 3, Difficulty: 3, Experience Points: 250 |
+| **Discovery** | [Geography](Categories/category_2.md) / [Mount Gorongosa](Quests/Trade/quest_3367.md) A mountain located to the west of Sofala, where the locals say that a god lived. The area around the mountain is surrounded by vast natural beauty that humans cannot fully explore, and is thought to be home to many undiscovered animals and plants. Rank: 2, Points: 3, Difficulty: 3, Experience Points: 250 |
 | **Reward/Advance** | Remuneration: 63,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | 2 request letters |

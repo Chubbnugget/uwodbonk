@@ -21,7 +21,7 @@ Do you know what ancient Persian religion was like? It seems that they worshiped
 | **Time Limit** | none |
 | **Town** | [Zanzibar](Ports/port_38.md), [Aden](Ports/port_43.md), [Calicut](Ports/port_44.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (3), [Exploration](Skills/Skill-Adventure/item_257.md) (1), [Arabic](Skills/Skills-Language/item_440.md) |
-| **Discovery** | [Religious Relic](Categories/category_8.md) / [Avesta](Quests/Other/quest_1435.md) A holy book of Zoroastrianism. The original text was burned by Alexander the Great, but it was later re-edited and made the official religion of the Sasanian dynasty. Also known as fire worship, it includes trials after death and the final judgment at the end of the world. Reclaimed Scripture Rank: 1, Points: 2, Difficulty: 3, Experience Points: 190 |
+| **Discovery** | [Religious Relic](Categories/category_8.md) / [Avesta](Quests/Trade/quest_1435.md) A holy book of Zoroastrianism. The original text was burned by Alexander the Great, but it was later re-edited and made the official religion of the Sasanian dynasty. Also known as fire worship, it includes trials after death and the final judgment at the end of the world. Reclaimed Scripture Rank: 1, Points: 2, Difficulty: 3, Experience Points: 190 |
 | **Reward/Advance** | Remuneration: 33,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 150 / Fame: 75 |
 | **Items Obtained** | Avestar, request letter x5 |

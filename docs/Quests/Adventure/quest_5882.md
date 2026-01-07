@@ -21,7 +21,7 @@ Amber, you've seen some fossils and traces from the distant past. But you've nev
 | **Time Limit** | none |
 | **Town** | [Lima](Ports/port_162.md) |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (17), [Visibility](Skills/Skill-Adventure/item_458.md) (15), [North American languages](Skills/Skills-Language/item_4478.md) |
-| **Discovery** | [Geography](Categories/category_2.md) / [Fossil Forest](Quests/Other/quest_3139.md) For some reason, many of the trees look like jewels. There are no towering trees, but the place can only be described as a forest. Rank: 2, Experience Points: 1,380 |
+| **Discovery** | [Geography](Categories/category_2.md) / [Fossil Forest](Quests/Trade/quest_3139.md) For some reason, many of the trees look like jewels. There are no towering trees, but the place can only be described as a forest. Rank: 2, Experience Points: 1,380 |
 | **Reward/Advance** | Remuneration: 227,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 230 / Fame: 130 |
 | **Items Obtained** | 10 request letters |

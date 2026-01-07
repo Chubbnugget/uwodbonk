@@ -21,7 +21,7 @@ Landed on the southwestern coast of the Gulf of Mexico. Northeast of the giant d
 | **Time Limit** | none |
 | **Town** | [San Francisco](Ports/port_198.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (8), [Biology](Skills/Skill-Adventure/item_434.md) (8) |
-| **Discovery** | [Medium-sized creature](Categories/category_14.md) / [Grey fox](Quests/Other/quest_3468.md) A fox that lives from North America to South America. Distinctive gray hair. It is also known as the ``tree fox'' because it is good at climbing trees. They are nocturnal and live in burrows during the day. Rank: 2, Points: 4, Experience Points: 250 |
+| **Discovery** | [Medium-sized creature](Categories/category_14.md) / [Grey fox](Quests/Trade/quest_3468.md) A fox that lives from North America to South America. Distinctive gray hair. It is also known as the ``tree fox'' because it is good at climbing trees. They are nocturnal and live in burrows during the day. Rank: 2, Points: 4, Experience Points: 250 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

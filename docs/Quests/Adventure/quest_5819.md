@@ -21,7 +21,7 @@ Did you know that the materials for books have their own characteristics dependi
 | **Time Limit** | none |
 | **Town** | [Lima](Ports/port_162.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (15), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (17), [Indian Languages](Skills/Skills-Language/item_590.md) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Shell leaf manuscript of the Prajnaparamita Sutra](Quests/Other/quest_3087.md) A manuscript of the Prajnamaya Sutra made from palm leaves. Kaiyo is an abbreviation for Kaitarayo, which was used as a writing medium in South Asia and Southeast Asia. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,410 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Shell leaf manuscript of the Prajnaparamita Sutra](Quests/Trade/quest_3087.md) A manuscript of the Prajnamaya Sutra made from palm leaves. Kaiyo is an abbreviation for Kaitarayo, which was used as a writing medium in South Asia and Southeast Asia. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,410 |
 | **Reward/Advance** | Remuneration: 712,000 / Advance payment: 70,000 |
 | **Exp/Fame** | Experience points: 530 |
 | **Items Obtained** | Request letter x10 |

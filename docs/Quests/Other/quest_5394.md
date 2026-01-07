@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Fishing](Skills/Skill-Adventure/item_339.md) |
-| **Discovery** | [Marine life](Categories/category_16.md) / [Surubi](Quests/Other/quest_2783.md) A member of the catfish family that lives near the upper reaches of the Paraguay River. It is a large fish with distinctive black vertical stripes, and its flesh is very delicious. Experience value at discovery 530 Discovery card experience value 265 Rank: 3, experience value: 530 |
+| **Discovery** | [Marine life](Categories/category_16.md) / [Surubi](Quests/Trade/quest_2783.md) A member of the catfish family that lives near the upper reaches of the Paraguay River. It is a large fish with distinctive black vertical stripes, and its flesh is very delicious. Experience value at discovery 530 Discovery card experience value 265 Rank: 3, experience value: 530 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 530 |
 | **Items Obtained** |  |

@@ -21,7 +21,7 @@ There seems to be a brown bird that lives symbiotically with the night heron. Wh
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (11), [Biology](Skills/Skill-Adventure/item_434.md) (13), [Portuguese](Skills/Skills-Language/item_345.md) (1) |
-| **Discovery** | [Birds](Categories/category_12.md) / [Young Night Heron](Quests/Other/quest_3853.md) [Young Night Heron](Quests/Other/quest_3853.md) has brown wings with white feathers that look like inversions. This is also called ``hoshigoi'' because it looks like a star. Their appearance is different from that of adult birds, and they are sometimes mistaken for other birds. Pursuit Quest Discovery Card: 440 Rank: 5, Points: 10, Difficulty: 9, Experience Points: 880 |
+| **Discovery** | [Birds](Categories/category_12.md) / [Young Night Heron](Quests/Trade/quest_3853.md) [Young Night Heron](Quests/Trade/quest_3853.md) has brown wings with white feathers that look like inversions. This is also called ``hoshigoi'' because it looks like a star. Their appearance is different from that of adult birds, and they are sometimes mistaken for other birds. Pursuit Quest Discovery Card: 440 Rank: 5, Points: 10, Difficulty: 9, Experience Points: 880 |
 | **Reward/Advance** | Remuneration: 370,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 810 |
 | **Items Obtained** | treasure chest of pursuit |

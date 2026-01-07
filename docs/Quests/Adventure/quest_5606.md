@@ -21,7 +21,7 @@ You seem to know a lot about treasure. On the continent east of here, there is a
 | **Time Limit** | none |
 | **Town** | [Sakai](Ports/port_179.md) |
 | **Required Skills** | [Search](Skills/Skill-Adventure/item_257.md) (10), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (12), [Unlock](Skills/Skill-Adventure/item_460.md) (10) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Rainbow conch stone](Quests/Other/quest_2930.md) An opal-like stone found on the east side of the Rocky Mountains. It is shaped like a conch shell. Rank: 5, Experience Points: 940 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Rainbow conch stone](Quests/Trade/quest_2930.md) An opal-like stone found on the east side of the Rocky Mountains. It is shaped like a conch shell. Rank: 5, Experience Points: 940 |
 | **Reward/Advance** | Remuneration: 297,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience: 270 / Fame: 160 |
 | **Items Obtained** | 8 request letters |

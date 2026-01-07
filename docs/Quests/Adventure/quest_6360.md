@@ -21,7 +21,7 @@ I hear you've seen the ruins of Persepolis before. A request has been sent to yo
 | **Time Limit** | none |
 | **Town** | [Zanzibar](Ports/port_38.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (4), [Visibility](Skills/Skill-Adventure/item_458.md) (2), [Arabic](Skills/Skills-Language/item_440.md) (1) |
-| **Discovery** | [Historic Site](Categories/category_6.md) / [Xerxes Gate](Quests/Other/quest_3448.md) (BC) A huge gate in the Middle Eastern ruins of Persepolis. Human-faced winged beast statues are placed on both sides of the gate. It was built by King Xerxes I, but it is said that large-scale construction projects, including this gate, strained the country's finances and even led to its decline. Rank: 2, Points: 3, Difficulty: 4, Experience Points: 260 |
+| **Discovery** | [Historic Site](Categories/category_6.md) / [Xerxes Gate](Quests/Trade/quest_3448.md) (BC) A huge gate in the Middle Eastern ruins of Persepolis. Human-faced winged beast statues are placed on both sides of the gate. It was built by King Xerxes I, but it is said that large-scale construction projects, including this gate, strained the country's finances and even led to its decline. Rank: 2, Points: 3, Difficulty: 4, Experience Points: 260 |
 | **Reward/Advance** | Remuneration: 91,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience points: 140 / Fame: 75 |
 | **Items Obtained** | Request letter x3 |

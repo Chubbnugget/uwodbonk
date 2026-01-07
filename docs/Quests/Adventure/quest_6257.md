@@ -21,7 +21,7 @@ It's a request from a certain theologian, and he wants me to do some research on
 | **Time Limit** | none |
 | **Town** | [Stockholm](Ports/port_31.md), [Amsterdam](Ports/port_49.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (2), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (4), [Latin](Skills/Skills-Language/item_1418.md) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Voyage of St. Brendan](Quests/Other/quest_3372.md) The official name is "Abbot [Voyage of St. Brendan]"(quest_3372.md). It tells the story of a monk named Brendan of Clonfert, who travels seven years from Ireland to the Promised Land in the West, and was widely read in European countries for hundreds of years. Rank: 2, Points: 4, Difficulty: 3, Experience Points: 310 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Voyage of St. Brendan](Quests/Trade/quest_3372.md) The official name is "Abbot [Voyage of St. Brendan]"(quest_3372.md). It tells the story of a monk named Brendan of Clonfert, who travels seven years from Ireland to the Promised Land in the West, and was widely read in European countries for hundreds of years. Rank: 2, Points: 4, Difficulty: 3, Experience Points: 310 |
 | **Reward/Advance** | Remuneration: 110,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience points: 160 |
 | **Items Obtained** | Request letter x3 |

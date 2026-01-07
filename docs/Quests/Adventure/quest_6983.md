@@ -21,7 +21,7 @@ I heard you looked into a sculpture depicting the Roman goddess of justice some 
 | **Time Limit** | none |
 | **Town** | [Genoa](Ports/port_11.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (7), [Exploration](Skills/Skill-Adventure/item_257.md) (5), [Italian](Skills/Skills-Language/item_422.md) (1) |
-| **Discovery** | [Religious Relic](Categories/category_8.md) / [Themis Statue](Quests/Other/quest_3991.md) A statue said to represent Themis, the goddess of law and order in Greek mythology. It is said to have been made in BC, and the scales thought to have been in the left hand have been lost over the years. It is unclear whether he had a sword in his right arm. Rank: 3 |
+| **Discovery** | [Religious Relic](Categories/category_8.md) / [Themis Statue](Quests/Trade/quest_3991.md) A statue said to represent Themis, the goddess of law and order in Greek mythology. It is said to have been made in BC, and the scales thought to have been in the left hand have been lost over the years. It is unclear whether he had a sword in his right arm. Rank: 3 |
 | **Reward/Advance** | Remuneration: 85,000 / Advance payment: 10,000 |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

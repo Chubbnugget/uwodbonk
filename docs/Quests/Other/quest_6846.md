@@ -21,7 +21,7 @@ Observed in the Red Sea.
 | **Time Limit** | none |
 | **Town** | [Genoa](Ports/port_11.md) |
 | **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (17), [Visibility](Skills/Skill-Adventure/item_458.md) (17) |
-| **Discovery** | [Astronomy](Categories/category_18.md) / [Diadem](Quests/Other/quest_3863.md) It is the second brightest alpha star in the constellation Coma, and is known as a binary star in which two 5th magnitude stars orbit each other. It is the name of a crown worn around the head, and some say it was the crown worn by Queen Berenice II of ancient Egypt. Discovery Card: 250 Rank: 3, Points: 10, Difficulty: 17, Experience Points: 500 |
+| **Discovery** | [Astronomy](Categories/category_18.md) / [Diadem](Quests/Trade/quest_3863.md) It is the second brightest alpha star in the constellation Coma, and is known as a binary star in which two 5th magnitude stars orbit each other. It is the name of a crown worn around the head, and some say it was the crown worn by Queen Berenice II of ancient Egypt. Discovery Card: 250 Rank: 3, Points: 10, Difficulty: 17, Experience Points: 500 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

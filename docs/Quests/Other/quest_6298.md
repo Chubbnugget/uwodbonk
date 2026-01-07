@@ -21,7 +21,7 @@ The coast southwest of Whanganui.
 | **Time Limit** | none |
 | **Town** | [Saint Petersburg](Ports/port_190.md) |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (11), [Visibility](Skills/Skill-Adventure/item_458.md) (11) |
-| **Discovery** | [Geography](Categories/category_2.md) / [Piopiotahi](Quests/Other/quest_3400.md) A fjord located on New Zealand's South Island facing the Tasman Sea. It is surrounded by sheer cliffs over 1000 meters high. It is a land where it rains for more than half of the year, and there are many waterfalls that only form during rainy days. Rank: 2, Points: 6, Difficulty: 11, Experience Points: 380 |
+| **Discovery** | [Geography](Categories/category_2.md) / [Piopiotahi](Quests/Trade/quest_3400.md) A fjord located on New Zealand's South Island facing the Tasman Sea. It is surrounded by sheer cliffs over 1000 meters high. It is a land where it rains for more than half of the year, and there are many waterfalls that only form during rainy days. Rank: 2, Points: 6, Difficulty: 11, Experience Points: 380 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

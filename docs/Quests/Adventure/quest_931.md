@@ -21,7 +21,7 @@ I have a story to tell you. Apparently there is a statue of Aphrodite, the godde
 | **Time Limit** | none |
 | **Town** | [Genoa](Ports/port_11.md), [Marseille](Ports/port_10.md), [Naples](Ports/port_60.md), [Venice](Ports/port_30.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (1), [Exploration](Skills/Skill-Adventure/item_257.md) (1), [Greek](Skills/Skills-Language/item_604.md) |
-| **Discovery** | [Religious Relic](Categories/category_8.md) / [Aphrodite Statue](Quests/Other/quest_1429.md) A statue of the goddess of love and beauty in Greek mythology. In Roman mythology, she is called Venus. In Greek mythology, the Trojan War is said to have started from a conflict between Aphrodite, Athena, and Hera. Statue of the Goddess of Beauty Rank: 1, Points: 3, Difficulty: 1, Experience Points: 60 |
+| **Discovery** | [Religious Relic](Categories/category_8.md) / [Aphrodite Statue](Quests/Trade/quest_1429.md) A statue of the goddess of love and beauty in Greek mythology. In Roman mythology, she is called Venus. In Greek mythology, the Trojan War is said to have started from a conflict between Aphrodite, Athena, and Hera. Statue of the Goddess of Beauty Rank: 1, Points: 3, Difficulty: 1, Experience Points: 60 |
 | **Reward/Advance** | Reward: 12,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | Greek goddess amulet, request letter x3 |

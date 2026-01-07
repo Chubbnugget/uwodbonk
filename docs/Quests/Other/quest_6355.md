@@ -21,7 +21,7 @@ It seems that the Great Lighthouse of Alexandria contained relics made with extr
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (13), [Visibility](Skills/Skill-Adventure/item_458.md) (11), [Arabic](Skills/Skills-Language/item_440.md) (1) |
-| **Discovery** | [Relic](Categories/category_17.md) / [Ancient Reflector](Quests/Other/quest_3444.md) It is said that the reflector installed near the top of the Great Lighthouse of Alexandria was able to collect and reflect sunlight, allowing it to burn ships far away. Treasure Hunt “Lores related to old maps” |
+| **Discovery** | [Relic](Categories/category_17.md) / [Ancient Reflector](Quests/Trade/quest_3444.md) It is said that the reflector installed near the top of the Great Lighthouse of Alexandria was able to collect and reflect sunlight, allowing it to burn ships far away. Treasure Hunt “Lores related to old maps” |
 | **Reward/Advance** | Remuneration: 0 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 2,410 |
 | **Items Obtained** |  |

@@ -21,7 +21,7 @@ This is a request from a certain scholar. He heard a rumor that strange monsters
 | **Time Limit** | none |
 | **Town** | [Jakarta](Ports/port_135.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (2), [Biology](Skills/Skill-Adventure/item_434.md) (4), [Oceanian languages](Skills/Skills-Language/item_2277.md) |
-| **Discovery** | [Fossil](Categories/category_5.md) / [Whale bone](Quests/Other/quest_3351.md) A whale bone washed up on the shore. The carcasses of whales and large fish are normally decomposed by various creatures that live in the ocean, but during this process, decomposing carcasses and skeletons sometimes wash up on shore. Coastal Monster Rank: 2, Points: 2, Difficulty: 4, Experience Points: 270 |
+| **Discovery** | [Fossil](Categories/category_5.md) / [Whale bone](Quests/Trade/quest_3351.md) A whale bone washed up on the shore. The carcasses of whales and large fish are normally decomposed by various creatures that live in the ocean, but during this process, decomposing carcasses and skeletons sometimes wash up on shore. Coastal Monster Rank: 2, Points: 2, Difficulty: 4, Experience Points: 270 |
 | **Reward/Advance** | Remuneration: 110,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience points: 160 / Fame: 85 |
 | **Items Obtained** | Request letter x3 |

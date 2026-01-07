@@ -21,7 +21,7 @@ The god of art appears in various regional myths. Like Apollo or Sarasvati. This
 | **Time Limit** | none |
 | **Town** | [Athens](Ports/port_28.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (17), [Exploration](Skills/Skill-Adventure/item_257.md) (15), [English](Skills/Skills-Language/item_341.md) |
-| **Discovery** | [Religious Relic](Categories/category_8.md) / [Bragi's Harp](Quests/Other/quest_3033.md) A golden harp said to have been played by Bragi, the god of poetry in Norse mythology. It is said that the sound echoed from the heavens to the underworld, and even rivers and trees were captivated by the sound. God of art in Norse mythology Rank: 5, Points: 9, Difficulty: 15, Experience points: 1,460 |
+| **Discovery** | [Religious Relic](Categories/category_8.md) / [Bragi's Harp](Quests/Trade/quest_3033.md) A golden harp said to have been played by Bragi, the god of poetry in Norse mythology. It is said that the sound echoed from the heavens to the underworld, and even rivers and trees were captivated by the sound. God of art in Norse mythology Rank: 5, Points: 9, Difficulty: 15, Experience points: 1,460 |
 | **Reward/Advance** | Remuneration: 351,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 310 / Fame: 185 |
 | **Items Obtained** | Request letter x10 |

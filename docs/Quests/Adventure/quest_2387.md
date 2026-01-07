@@ -21,7 +21,7 @@ Hey, I heard that. A strange creature was found in this town. They said it looke
 | **Time Limit** | none |
 | **Town** | [Sakai](Ports/port_179.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (5), [Biology](Skills/Skill-Adventure/item_434.md) (7), [Japanese](Skills/Skills-Language/item_3396.md) (1) |
-| **Discovery** | [Marine life](Categories/category_16.md) / [Horseshoe crab](Quests/Other/quest_2286.md) A creature that lives in some coastal areas from East Asia to Southeast Asia. It is said that there are also stones with patterns very similar to this one. Quest "Unidentified [Marine Life] (ref_16.md)" Discovery Card: 310 Rank: 4, Points: 5, Difficulty: 7, Experience Points: 620 |
+| **Discovery** | [Marine life](Categories/category_16.md) / [Horseshoe crab](Quests/Trade/quest_2286.md) A creature that lives in some coastal areas from East Asia to Southeast Asia. It is said that there are also stones with patterns very similar to this one. Quest "Unidentified [Marine Life] (ref_16.md)" Discovery Card: 310 Rank: 4, Points: 5, Difficulty: 7, Experience Points: 620 |
 | **Reward/Advance** | Reward: 70,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | Request letter ☓7 |

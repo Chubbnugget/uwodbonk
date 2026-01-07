@@ -21,7 +21,7 @@ Rosemary medicinal liquor was also made in medieval Europe. It had a good fragra
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Historical Relic](Categories/category_7.md) / [Hungarian Queen's Water](Quests/Other/quest_3526.md) A medicinal rosemary liquor made in medieval Europe. It had a good fragrance and was also used as a perfume. Legend has it that when the sickly elderly Queen of Hungary took it, she was not only cured of her illness, but also became beautiful and rejuvenated, so much so that a prince from another country proposed marriage to her. Rank: 5, Points: 5, Experience Points: 1,650 |
+| **Discovery** | [Historical Relic](Categories/category_7.md) / [Hungarian Queen's Water](Quests/Trade/quest_3526.md) A medicinal rosemary liquor made in medieval Europe. It had a good fragrance and was also used as a perfume. Legend has it that when the sickly elderly Queen of Hungary took it, she was not only cured of her illness, but also became beautiful and rejuvenated, so much so that a prince from another country proposed marriage to her. Rank: 5, Points: 5, Experience Points: 1,650 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | the root of wisdom |

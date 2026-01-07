@@ -21,7 +21,7 @@ A message from the merchant you searched for dessert earlier. Since then, the we
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md), [Seville](Ports/port_4.md), [Marseille](Ports/port_10.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (2), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (4), [English](Skills/Skills-Language/item_341.md) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Cooking format](Quests/Other/quest_3212.md) A cookbook for royalty and aristocracy in England in the 14th century, which uses cooking terms derived from French. It is said to have been compiled by Richard II's head chef, and many dishes use sugar, spices and herbs from India, Asia, and the Middle East, which were still rare at the time. Card experience 150 Rank: 2, Points: 9, Difficulty: 4, Experience points: 300 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Cooking format](Quests/Trade/quest_3212.md) A cookbook for royalty and aristocracy in England in the 14th century, which uses cooking terms derived from French. It is said to have been compiled by Richard II's head chef, and many dishes use sugar, spices and herbs from India, Asia, and the Middle East, which were still rare at the time. Card experience 150 Rank: 2, Points: 9, Difficulty: 4, Experience points: 300 |
 | **Reward/Advance** | Reward: 80,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 140 / Fame: 70 |
 | **Items Obtained** | Recipe "Medieval Court Cooking Collection" |

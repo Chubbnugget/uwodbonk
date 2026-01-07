@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Salvage](Skills/Skill-Adventure/item_2275.md), [Archaeology](Skills/Skill-Adventure/item_342.md) (7) |
-| **Discovery** | [Historical relic](Categories/category_7.md) / [Uluburun sunken ship](Quests/Other/quest_3713.md) A merchant ship from the Phoenician civilization in the 13th century BC. It is said that they traded with Canaan and other towns in the Eastern Mediterranean. The main cargo is copper ingots. It sank near the southern coast of Turkey. Eastern Mediterranean North of Rhodes Rank: 2, Points: 3, Difficulty: 6 |
+| **Discovery** | [Historical relic](Categories/category_7.md) / [Uluburun sunken ship](Quests/Trade/quest_3713.md) A merchant ship from the Phoenician civilization in the 13th century BC. It is said that they traded with Canaan and other towns in the Eastern Mediterranean. The main cargo is copper ingots. It sank near the southern coast of Turkey. Eastern Mediterranean North of Rhodes Rank: 2, Points: 3, Difficulty: 6 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | Master carpentry tools, dock extension request form, Galilean telescope |

@@ -21,7 +21,7 @@ The voyage of St. Brendan is a well-known story, but there are people at the Sag
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md), [Seville](Ports/port_4.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (2), [Archaeology](Skills/Skill-Adventure/item_342.md) (4), [English](Skills/Skills-Language/item_341.md) |
-| **Discovery** | [Historical relic](Categories/category_7.md) / [Carafe](Quests/Other/quest_3373.md) A type of animal skin ship that has been passed down to Ireland since ancient times, and is also mentioned in the works of Caesar and Pliny. The hull is covered with leather made from oak bark and coated with tallow. One theory is that the same type of ship was used on Brendan's voyage. Rank: 2, Points: 3, Difficulty: 5, Experience Points: 310 |
+| **Discovery** | [Historical relic](Categories/category_7.md) / [Carafe](Quests/Trade/quest_3373.md) A type of animal skin ship that has been passed down to Ireland since ancient times, and is also mentioned in the works of Caesar and Pliny. The hull is covered with leather made from oak bark and coated with tallow. One theory is that the same type of ship was used on Brendan's voyage. Rank: 2, Points: 3, Difficulty: 5, Experience Points: 310 |
 | **Reward/Advance** | Reward: 71,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 |
 | **Items Obtained** | Request letter x5 |

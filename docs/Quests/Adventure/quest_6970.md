@@ -21,7 +21,7 @@ I've received a request from Johanna, a bar girl in this town. I'm asking you to
 | **Time Limit** | none |
 | **Town** | [Amsterdam](Ports/port_49.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (9), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (11), [Greek](Skills/Skills-Language/item_604.md) (1) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Golden pendant shaped like a bee](Quests/Other/quest_3979.md) A golden pendant discovered in the ruins of Crete. It depicts two bees facing each other, and the hanging circular decoration is said to represent drops of honey. The elaborate workmanship shows the high level of metalwork technology at the time. Discovery Card: 430 Rank: 5, Points: 9, Difficulty: 11, Experience Points: 860 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Golden pendant shaped like a bee](Quests/Trade/quest_3979.md) A golden pendant discovered in the ruins of Crete. It depicts two bees facing each other, and the hanging circular decoration is said to represent drops of honey. The elaborate workmanship shows the high level of metalwork technology at the time. Discovery Card: 430 Rank: 5, Points: 9, Difficulty: 11, Experience Points: 860 |
 | **Reward/Advance** | Remuneration: 199,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience: 210 / Fame: 120 |
 | **Items Obtained** | Request letter x8 |

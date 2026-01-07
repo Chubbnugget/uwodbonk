@@ -21,7 +21,7 @@ I heard you investigated Charlemagne's belongings some time ago. It seems like t
 | **Time Limit** | none |
 | **Town** | [Jakarta](Ports/port_135.md) |
 | **Required Skills** | [Search](Skills/Skill-Adventure/item_257.md) (9), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (11), [Unlock](Skills/Skill-Adventure/item_460.md) (9) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Charlemagne's Ring](Quests/Other/quest_3470.md) A ring rumored to have enchanted Charlemagne. It is said that it was originally worn by one of Charlemagne's mistresses. There is a legend that if you wear a ring, you will be enchanted by mysterious magical powers. Rank: 5, Points: 9, Difficulty: 11, Experience Points: 980 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Charlemagne's Ring](Quests/Trade/quest_3470.md) A ring rumored to have enchanted Charlemagne. It is said that it was originally worn by one of Charlemagne's mistresses. There is a legend that if you wear a ring, you will be enchanted by mysterious magical powers. Rank: 5, Points: 9, Difficulty: 11, Experience Points: 980 |
 | **Reward/Advance** | Remuneration: 470,000 / Advance payment: 50,000 |
 | **Exp/Fame** | Experience points: 380 / Fame: 235 |
 | **Items Obtained** | 8 request letters |

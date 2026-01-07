@@ -21,7 +21,7 @@ It was a request from Shakespeare. He said, ``Next time, I'm thinking of writing
 | **Time Limit** | none |
 | **Town** | [Amsterdam](Ports/port_49.md), [London](Ports/port_23.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (3), [Ecological Research](Skills/Skill-Adventure/item_463.md) (5), [Biology](Skills/Skill-Adventure/item_434.md) (7) |
-| **Discovery** | [Plant](Categories/category_10.md) / [mulberry](Quests/Other/quest_2759.md) A deciduous tree about 15m tall that bears red-black berries in early summer. Originally, the fruit of the [mulberry] (quest_2759.md) was white, but in Greek mythology there is a legend that due to the tragedy of Pyramus and Tizbe, it became stained with the blood of the two men and turned into a black-red fruit. Searching for the subject of a play 380 experience points when discovered Discovery card experience value 190 Rank: 2, Points: 5, Experience points: 380 |
+| **Discovery** | [Plant](Categories/category_10.md) / [mulberry](Quests/Trade/quest_2759.md) A deciduous tree about 15m tall that bears red-black berries in early summer. Originally, the fruit of the [mulberry] (quest_2759.md) was white, but in Greek mythology there is a legend that due to the tragedy of Pyramus and Tizbe, it became stained with the blood of the two men and turned into a black-red fruit. Searching for the subject of a play 380 experience points when discovered Discovery card experience value 190 Rank: 2, Points: 5, Experience points: 380 |
 | **Reward/Advance** | Remuneration: 153,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience: 180 / Fame: 100 |
 | **Items Obtained** | 6 request letters |

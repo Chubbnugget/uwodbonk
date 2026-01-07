@@ -21,7 +21,7 @@ Oh, you! He's the guy who investigated the man-eating tiger before, right? I wou
 | **Time Limit** | none |
 | **Town** | [Calicut](Ports/port_44.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (8), [Biology](Skills/Skill-Adventure/item_434.md) (10), [Korean](Skills/Skills-Language/item_3744.md) |
-| **Discovery** | [Large creature](Categories/category_15.md) / [Amur tiger](Quests/Other/quest_2191.md) A large tiger that lives on the coast of eastern Russia. It preys on large herbivorous animals living in the surrounding area. It may be considered one of the strongest animals, as it can even prey on bears. Tiger survey in cold regions Experience points at discovery 1090 Discovery card experience points 545 Rank: 5, Points: 9, Difficulty: 10, Experience points: 1,090 |
+| **Discovery** | [Large creature](Categories/category_15.md) / [Amur tiger](Quests/Trade/quest_2191.md) A large tiger that lives on the coast of eastern Russia. It preys on large herbivorous animals living in the surrounding area. It may be considered one of the strongest animals, as it can even prey on bears. Tiger survey in cold regions Experience points at discovery 1090 Discovery card experience points 545 Rank: 5, Points: 9, Difficulty: 10, Experience points: 1,090 |
 | **Reward/Advance** | Remuneration: 204,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 240 / Fame: 210 |
 | **Items Obtained** | Request letter x8 |

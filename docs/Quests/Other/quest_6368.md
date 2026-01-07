@@ -21,7 +21,7 @@ Recently, I've heard rumors of a floating town that suddenly appears in the sky.
 | **Time Limit** | none |
 | **Town** | [Sagres](Ports/port_214.md) |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (12) |
-| **Discovery** | [Lore](Categories/category_20.md) / [Silent City](Quests/Other/quest_3456.md) A floating town that is talked about all over the world. The cityscape changes each time it appears, and residents may sometimes be visible. It is said that its outline is too clearly visible to be an illusion. [Lore] about the phantom aerial town (ref_20.md) Rank: 5, Points: 10, Difficulty: 12, Experience points: 990 |
+| **Discovery** | [Lore](Categories/category_20.md) / [Silent City](Quests/Trade/quest_3456.md) A floating town that is talked about all over the world. The cityscape changes each time it appears, and residents may sometimes be visible. It is said that its outline is too clearly visible to be an illusion. [Lore] about the phantom aerial town (ref_20.md) Rank: 5, Points: 10, Difficulty: 12, Experience points: 990 |
 | **Reward/Advance** | Remuneration: 756,000 / Advance payment: 80,000 |
 | **Exp/Fame** | Experience points: 580 / Fame: 350 |
 | **Items Obtained** | none |

@@ -21,7 +21,7 @@ According to an old Egyptian legend, there is a mountain dog who judges the dead
 | **Time Limit** | none |
 | **Town** | [Tunis](Ports/port_46.md), [Istanbul](Ports/port_78.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (2), [Exploration](Skills/Skill-Adventure/item_257.md) (1), [Arabic](Skills/Skills-Language/item_440.md) |
-| **Discovery** | [Religious relic](Categories/category_8.md) / [Anubis statue](Quests/Other/quest_1428.md) The god of the dead in Egyptian mythology. He is depicted as a mountain dog or with the head of a mountain dog. After death, the weight of the deceased's heart is compared with the true feather to determine the fate of the deceased. Judgment Mountain Dog Rank: 1, Points: 1, Difficulty: 2, Experience Points: 110 |
+| **Discovery** | [Religious relic](Categories/category_8.md) / [Anubis statue](Quests/Trade/quest_1428.md) The god of the dead in Egyptian mythology. He is depicted as a mountain dog or with the head of a mountain dog. After death, the weight of the deceased's heart is compared with the true feather to determine the fate of the deceased. Judgment Mountain Dog Rank: 1, Points: 1, Difficulty: 2, Experience Points: 110 |
 | **Reward/Advance** | Reward: 19,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | Egyptian god amulet, request letter x4 |

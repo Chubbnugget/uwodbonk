@@ -21,7 +21,7 @@ Do you know the three wise men of the east? These are three people who came when
 | **Time Limit** | none |
 | **Town** | [Venice](Ports/port_30.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (17), [Exploration](Skills/Skill-Adventure/item_257.md) (15), [Swahili](Skills/Skills-Language/item_426.md) |
-| **Discovery** | [Religious Relic](Categories/category_8.md) / [Gift of the Three Wise Men](Quests/Other/quest_3019.md) A gift said to have been sent by the Three Wise Men from the East to celebrate the birth of Jesus. It is said to be gold, frankincense, and myrrh, each representing Jesus' kingship, divinity, and passion. 2017.02.07 New addition Rank: 5, Points: 10, Experience points: 1,440 |
+| **Discovery** | [Religious Relic](Categories/category_8.md) / [Gift of the Three Wise Men](Quests/Trade/quest_3019.md) A gift said to have been sent by the Three Wise Men from the East to celebrate the birth of Jesus. It is said to be gold, frankincense, and myrrh, each representing Jesus' kingship, divinity, and passion. 2017.02.07 New addition Rank: 5, Points: 10, Experience points: 1,440 |
 | **Reward/Advance** | Remuneration: 1,340,000 / Advance payment: 130,000 |
 | **Exp/Fame** | Experience points: 920 / Fame: 595 |
 | **Items Obtained** | Request letter ☓10 |

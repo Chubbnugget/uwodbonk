@@ -21,7 +21,7 @@ Do you have a favorite color? I'm sure you have various preferences, but I've be
 | **Time Limit** | none |
 | **Town** | [London](Ports/port_23.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (15), [Biology](Skills/Skill-Adventure/item_434.md) (17), [Dutch](Skills/Skills-Language/item_599.md) |
-| **Discovery** | [Large creature](Categories/category_15.md) / [Friesian](Quests/Other/quest_3145.md) A horse that is said to be native to northwestern Europe, and is characterized by its black body color and long hair. Due to its strength, it has been used to pull cargo and as a war horse. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,330 |
+| **Discovery** | [Large creature](Categories/category_15.md) / [Friesian](Quests/Trade/quest_3145.md) A horse that is said to be native to northwestern Europe, and is characterized by its black body color and long hair. Due to its strength, it has been used to pull cargo and as a war horse. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,330 |
 | **Reward/Advance** | Remuneration: 140,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience: 170 / Fame: 190 |
 | **Items Obtained** | Request letter x10 |

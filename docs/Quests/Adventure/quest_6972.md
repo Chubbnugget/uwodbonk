@@ -21,7 +21,7 @@ Apparently, I've seen a marten with a yellow throat. Apparently there is a showy
 | **Time Limit** | none |
 | **Town** | [Seville](Ports/port_4.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (6), [Biology](Skills/Skill-Adventure/item_434.md) (8), [Chinese](Skills/Skills-Language/item_3651.md) (1) |
-| **Discovery** | [Small Creatures](Categories/category_13.md) / [Kieri Marten](Quests/Other/quest_3980.md) A type of marten that widely inhabits Asia. The name comes from the bright orange color of the fur, mainly around the chest. The body is yellow-brown, the head and limbs are black, and the hair under the chin is white, giving it a distinctive color. Discovery card: 315 Rank: 1, Points: 6, Difficulty: 8, Experience points: 630 |
+| **Discovery** | [Small Creatures](Categories/category_13.md) / [Kieri Marten](Quests/Trade/quest_3980.md) A type of marten that widely inhabits Asia. The name comes from the bright orange color of the fur, mainly around the chest. The body is yellow-brown, the head and limbs are black, and the hair under the chin is white, giving it a distinctive color. Discovery card: 315 Rank: 1, Points: 6, Difficulty: 8, Experience points: 630 |
 | **Reward/Advance** | Remuneration: 365,000 / Advance payment: 40,000 |
 | **Exp/Fame** | Experience points: 480 |
 | **Items Obtained** | Request letter x6 |

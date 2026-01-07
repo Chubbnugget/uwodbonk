@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Visibility](Skills/Skill-Adventure/item_458.md) (5) |
-| **Discovery** | [Weather/Phenomenon](Categories/category_19.md) / [Cumulonimbus cloud](Quests/Other/quest_3022.md) A huge cloud that grows significantly in the vertical direction. Severe storms and thunderstorms can occur beneath the clouds. There is a lot of observation information in summer. Gulf of Mexico Sandy coastline between Merida and Veracruz Daytime Rank: 2, Points: 3 |
+| **Discovery** | [Weather/Phenomenon](Categories/category_19.md) / [Cumulonimbus cloud](Quests/Trade/quest_3022.md) A huge cloud that grows significantly in the vertical direction. Severe storms and thunderstorms can occur beneath the clouds. There is a lot of observation information in summer. Gulf of Mexico Sandy coastline between Merida and Veracruz Daytime Rank: 2, Points: 3 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

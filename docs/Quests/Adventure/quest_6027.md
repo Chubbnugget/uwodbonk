@@ -21,7 +21,7 @@ The next request is about Prince Pedro, the second son of the ``Generation of Ra
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (4), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (6), [German](Skills/Skills-Language/item_600.md) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Letter from Pedro](Quests/Other/quest_3216.md) A copy of a letter from Prince Pedro to his brother. It seems that he sent letters to each prince about culture, trade, war, and religion. The most numerous letters are addressed to Prince Henrique, and are accompanied by documents about Venice's trade with the East. Rank: 2, Points: 9, Difficulty: 6, Experience Points: 210 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Letter from Pedro](Quests/Trade/quest_3216.md) A copy of a letter from Prince Pedro to his brother. It seems that he sent letters to each prince about culture, trade, war, and religion. The most numerous letters are addressed to Prince Henrique, and are accompanied by documents about Venice's trade with the East. Rank: 2, Points: 9, Difficulty: 6, Experience Points: 210 |
 | **Reward/Advance** | Remuneration: 269,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 260 / Fame: 150 |
 | **Items Obtained** | Request letter x6 |

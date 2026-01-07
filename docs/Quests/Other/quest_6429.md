@@ -21,7 +21,7 @@ Let's do some further research on the beetles. First, let's talk to a Lisbon sch
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (8), [Biology](Skills/Skill-Adventure/item_434.md) (10), [Malayu Tagalog](Skills/Skills-Language/item_1967.md) (1) |
-| **Discovery** | [Insects](Categories/category_11.md) / [Eggs of the beetle beetle](Quests/Other/quest_3507.md) The eggs laid by female beetles, which look similar to the leaves of plants, closely resemble the plant species as well as the appearance of their parents, and if you don't know about it, you won't be able to tell that it is an egg at first glance. It is probably a form they acquired in order to blend in with their surroundings and survive. Rank: 5, Points: 8, Difficulty: 3 |
+| **Discovery** | [Insects](Categories/category_11.md) / [Eggs of the beetle beetle](Quests/Trade/quest_3507.md) The eggs laid by female beetles, which look similar to the leaves of plants, closely resemble the plant species as well as the appearance of their parents, and if you don't know about it, you won't be able to tell that it is an egg at first glance. It is probably a form they acquired in order to blend in with their surroundings and survive. Rank: 5, Points: 8, Difficulty: 3 |
 | **Reward/Advance** | Reward: 170,000 / Advance payment: 0 |
 | **Exp/Fame** |  |
 | **Items Obtained** | treasure chest of pursuit |

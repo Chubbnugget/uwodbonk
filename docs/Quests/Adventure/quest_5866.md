@@ -21,7 +21,7 @@ Previously, I received a report on the constellation Hydra, but this turned out 
 | **Time Limit** | none |
 | **Town** | [Tunis](Ports/port_46.md), [Genoa](Ports/port_11.md), [Marseille](Ports/port_10.md) |
 | **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (17), [Visibility](Skills/Skill-Adventure/item_458.md) (15), [French](Skills/Skills-Language/item_603.md) |
-| **Discovery** | [Astronomy](Categories/category_18.md) / [Aquarius](Quests/Other/quest_3126.md) One of the constellations in the southern sky. Created in the 16th century. Like Hydra, it was named after the Latin word meaning "water serpent," but the difference is that [Hydra] (quest_3126.md) is masculine, and Hydra is feminine. *Masculine and feminine forms are in the original text Quest "Sea Serpent and Water Snake" Discovery Card: 700 Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,400 |
+| **Discovery** | [Astronomy](Categories/category_18.md) / [Aquarius](Quests/Trade/quest_3126.md) One of the constellations in the southern sky. Created in the 16th century. Like Hydra, it was named after the Latin word meaning "water serpent," but the difference is that [Hydra] (quest_3126.md) is masculine, and Hydra is feminine. *Masculine and feminine forms are in the original text Quest "Sea Serpent and Water Snake" Discovery Card: 700 Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,400 |
 | **Reward/Advance** | Remuneration: 181,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience points: 200 / Fame: 115 |
 | **Items Obtained** | Request letter ☓10 |

@@ -21,7 +21,7 @@ This was a request from a city official. He was entrusted with the huge task of 
 | **Time Limit** | none |
 | **Town** | [Sakai](Ports/port_179.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (3), [Archaeology](Skills/Skill-Adventure/item_342.md) (5), [Unlocking](Skills/Skill-Adventure/item_460.md) (3) |
-| **Discovery** | [Historical relics](Categories/category_7.md) / [Golden bronze ossuary vessel](Quests/Other/quest_1397.md) One of the ossuary vessels made after the Asuka period. The remains are placed in a gilt bronze vessel. There are inscriptions engraved on the lid and body to commemorate the deceased. The trajectory of an excellent official Rank: 2, Points: 6, Difficulty: 5, Experience points: 310 |
+| **Discovery** | [Historical relics](Categories/category_7.md) / [Golden bronze ossuary vessel](Quests/Trade/quest_1397.md) One of the ossuary vessels made after the Asuka period. The remains are placed in a gilt bronze vessel. There are inscriptions engraved on the lid and body to commemorate the deceased. The trajectory of an excellent official Rank: 2, Points: 6, Difficulty: 5, Experience points: 310 |
 | **Reward/Advance** | Reward: 100,500 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | 4 request letters |

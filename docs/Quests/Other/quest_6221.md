@@ -21,7 +21,7 @@ red rainbow. After a period of foggy rain, a wide, pale-colored but generally br
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Visibility](Skills/Skill-Adventure/item_458.md) |
-| **Discovery** | [Weather/phenomenon](Categories/category_19.md) / [Red rainbow](Quests/Other/quest_3355.md) Red rainbow. After a period of foggy rain, a wide, pale-colored but generally bright rainbow may appear. When a rainbow is exposed to the sunrise or sunset at this time, it often appears reddish. Rank: 3, Points: 7, Experience Points: 460 |
+| **Discovery** | [Weather/phenomenon](Categories/category_19.md) / [Red rainbow](Quests/Trade/quest_3355.md) Red rainbow. After a period of foggy rain, a wide, pale-colored but generally bright rainbow may appear. When a rainbow is exposed to the sunrise or sunset at this time, it often appears reddish. Rank: 3, Points: 7, Experience Points: 460 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 460 |
 | **Items Obtained** |  |

@@ -21,7 +21,7 @@ It was a request from the Spanish royal family. The guild reported to the royal 
 | **Time Limit** | none |
 | **Town** | [Amsterdam](Ports/port_49.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (10), [Exploration](Skills/Skill-Adventure/item_257.md) (8), [Unlocking](Skills/Skill-Adventure/item_460.md) (8) |
-| **Discovery** | [Religious Relic](Categories/category_8.md) / [Nibelungen Ring](Quests/Other/quest_1510.md) A ring made of Rheingold. It is said to give everything in the world to its owner. It is not clear whether the ring the Spanish royal family obtained is genuine, but it is definitely a beautiful golden ring, just as the legend has it. [Ring of Nibelungen] (quest_1510.md) Rank: 5, Points: 7, Difficulty: 10, Experience Points: 880 |
+| **Discovery** | [Religious Relic](Categories/category_8.md) / [Nibelungen Ring](Quests/Trade/quest_1510.md) A ring made of Rheingold. It is said to give everything in the world to its owner. It is not clear whether the ring the Spanish royal family obtained is genuine, but it is definitely a beautiful golden ring, just as the legend has it. [Ring of Nibelungen] (quest_1510.md) Rank: 5, Points: 7, Difficulty: 10, Experience Points: 880 |
 | **Reward/Advance** | Remuneration: 0 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 350 / Fame: 140 |
 | **Items Obtained** | 7 request letters |

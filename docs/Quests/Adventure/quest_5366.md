@@ -21,7 +21,7 @@ It was a request from a certain nobleman. He seems to have come up with the idea
 | **Time Limit** | none |
 | **Town** | [London](Ports/port_23.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (4), [Exploration](Skills/Skill-Adventure/item_257.md) (6), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (8) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Big Boar's Tusk](Quests/Other/quest_2778.md) A huge boar's tusk. It is thought to be the spoils of an ancient boar hunt. The Calydonian boar hunt in Greek mythology depicts the danger and honor associated with boar hunting. Hunting in mythology 690 experience points when discovered Discovery card experience point 345 Rank: 4, experience point: 690 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Big Boar's Tusk](Quests/Trade/quest_2778.md) A huge boar's tusk. It is thought to be the spoils of an ancient boar hunt. The Calydonian boar hunt in Greek mythology depicts the danger and honor associated with boar hunting. Hunting in mythology 690 experience points when discovered Discovery card experience point 345 Rank: 4, experience point: 690 |
 | **Reward/Advance** | Remuneration: 170,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience: 190 / Fame: 110 |
 | **Items Obtained** | 6 request letters |

@@ -21,7 +21,7 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
 | **Time Limit** | none |
 | **Town** | [Cape](Ports/port_37.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (3), [Archaeology](Skills/Skill-Adventure/item_342.md) (5), [Arabic](Skills/Skills-Language/item_440.md) |
-| **Discovery** | [Historical Relic](Categories/category_7.md) / [Gold and Lapis Lazuli Goat](Quests/Other/quest_1391.md) Royal grave goods made in ancient Mesopotamia. The wooden statue is decorated with gold, lapis lazuli, and shells. The richness of those days is remembered. Sense of life and death Rank: 2, Points: 4, Difficulty: 5, Experience points: 320 |
+| **Discovery** | [Historical Relic](Categories/category_7.md) / [Gold and Lapis Lazuli Goat](Quests/Trade/quest_1391.md) Royal grave goods made in ancient Mesopotamia. The wooden statue is decorated with gold, lapis lazuli, and shells. The richness of those days is remembered. Sense of life and death Rank: 2, Points: 4, Difficulty: 5, Experience points: 320 |
 | **Reward/Advance** | Remuneration: 103,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience: 190 / Fame: 85 |
 | **Items Obtained** | Request letter x6 |

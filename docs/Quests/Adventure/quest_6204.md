@@ -21,7 +21,7 @@ An anonymous message has been sent to you. This time as well, I would like to as
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (9), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (11), [Portuguese](Skills/Skills-Language/item_345.md) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Pizzigano's Chart](Quests/Other/quest_3345.md) A compass chart created by the 15th century Venetian cartographer Tsan Pizzigano. A strange island is depicted in the western ocean of the European continent, each painted red and black, as if to emphasize that it is a newly discovered island. Is the mystery in the details? Rank: 5, Points: 10, Difficulty: 11, Experience Points: 1,000 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Pizzigano's Chart](Quests/Trade/quest_3345.md) A compass chart created by the 15th century Venetian cartographer Tsan Pizzigano. A strange island is depicted in the western ocean of the European continent, each painted red and black, as if to emphasize that it is a newly discovered island. Is the mystery in the details? Rank: 5, Points: 10, Difficulty: 11, Experience Points: 1,000 |
 | **Reward/Advance** | Remuneration: 61,600 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | 8 request letters |

@@ -21,7 +21,7 @@ Did you know that musk can be obtained from an animal called a civet cat? It see
 | **Time Limit** | none |
 | **Town** | [Stockholm](Ports/port_31.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (7), [Biology](Skills/Skill-Adventure/item_434.md) (9), [Norse](Skills/Skills-Language/item_601.md) |
-| **Discovery** | [Medium-sized creature](Categories/category_14.md) / [Siberian musk deer](Quests/Other/quest_2131.md) A small deer-like animal that secretes a musky scent. It has no horns. Males have large fangs with well-developed canine teeth on the upper jaw. Siberian Musk Rank: 5, Points: 8, Difficulty: 9, Experience Points: 950 |
+| **Discovery** | [Medium-sized creature](Categories/category_14.md) / [Siberian musk deer](Quests/Trade/quest_2131.md) A small deer-like animal that secretes a musky scent. It has no horns. Males have large fangs with well-developed canine teeth on the upper jaw. Siberian Musk Rank: 5, Points: 8, Difficulty: 9, Experience Points: 950 |
 | **Reward/Advance** | Remuneration: 479,000 / Advance payment: 40,000 |
 | **Exp/Fame** | Experience points: 390 / Fame: 235 |
 | **Items Obtained** | Request letter*7 |

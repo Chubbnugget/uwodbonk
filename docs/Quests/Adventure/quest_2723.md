@@ -21,7 +21,7 @@ A request to investigate a mysterious flying object! ...I'd like to say that, bu
 | **Time Limit** | none |
 | **Town** | [Sakai](Ports/port_179.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (7), [Biology](Skills/Skill-Adventure/item_434.md) (9), [Korean](Skills/Skills-Language/item_3744.md) |
-| **Discovery** | [Small Creatures](Categories/category_13.md) / [Black-Red Bat](Quests/Other/quest_2021.md) A bat that lives in dark places like caves. When we think of bats, we associate them with subdued colors, but this one looks orange. Korean people called the orange color golden. Golden flying object Experience value when discovered 350 Discovery card experience value 175 Rank: 4, Points: 9, Difficulty: 9, Experience value: 750 |
+| **Discovery** | [Small Creatures](Categories/category_13.md) / [Black-Red Bat](Quests/Trade/quest_2021.md) A bat that lives in dark places like caves. When we think of bats, we associate them with subdued colors, but this one looks orange. Korean people called the orange color golden. Golden flying object Experience value when discovered 350 Discovery card experience value 175 Rank: 4, Points: 9, Difficulty: 9, Experience value: 750 |
 | **Reward/Advance** | Reward: 60,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 140 / Fame: 65 |
 | **Items Obtained** | Request letter x8 |

@@ -21,7 +21,7 @@ A calculation board said to have been used in ancient Greece around 300 BC. It i
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Historical Relic](Categories/category_7.md) / [Abacus Tablet of Salamis](Quests/Other/quest_3510.md) A calculating board said to have been used in ancient Greece around 300 BC. It is said to be the oldest line soroban in existence. Calculations were made by placing beads such as pebbles along lines carved into the surface of a white marble board about the size and thickness of a table. Legacy Wisdom of Numbers/World Calculator Central Rank: 5, Points: 6 |
+| **Discovery** | [Historical Relic](Categories/category_7.md) / [Abacus Tablet of Salamis](Quests/Trade/quest_3510.md) A calculating board said to have been used in ancient Greece around 300 BC. It is said to be the oldest line soroban in existence. Calculations were made by placing beads such as pebbles along lines carved into the surface of a white marble board about the size and thickness of a table. Legacy Wisdom of Numbers/World Calculator Central Rank: 5, Points: 6 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | the root of wisdom |

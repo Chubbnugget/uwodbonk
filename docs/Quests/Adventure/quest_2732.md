@@ -21,7 +21,7 @@ A request has come from a nobleman who loves incense. They said they wanted a ne
 | **Time Limit** | none |
 | **Town** | [Calicut](Ports/port_44.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (6), [Archaeology](Skills/Skill-Adventure/item_342.md) (8), [Unlocking](Skills/Skill-Adventure/item_460.md) (6) |
-| **Discovery** | [Historical relic](Categories/category_7.md) / [Golden bronze incense burner](Quests/Other/quest_1396.md) A large incense burner discovered in what is believed to be the tomb of the King of Baekje. It is decorated with dragons, bees, and phoenixes, demonstrating the high level of Baekje craftsmanship. History of Korean Incense Burner Rank: 4, Points: 5, Difficulty: 8, Experience Points: 620 |
+| **Discovery** | [Historical relic](Categories/category_7.md) / [Golden bronze incense burner](Quests/Trade/quest_1396.md) A large incense burner discovered in what is believed to be the tomb of the King of Baekje. It is decorated with dragons, bees, and phoenixes, demonstrating the high level of Baekje craftsmanship. History of Korean Incense Burner Rank: 4, Points: 5, Difficulty: 8, Experience Points: 620 |
 | **Reward/Advance** | Remuneration: 188,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience points: 230 / Fame: 100 |
 | **Items Obtained** | 4 request letters |

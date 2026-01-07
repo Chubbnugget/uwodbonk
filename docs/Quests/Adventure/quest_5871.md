@@ -21,7 +21,7 @@ Have you ever been to Japan, which is west of here? Then, do you know about the 
 | **Time Limit** | none |
 | **Town** | [San Francisco](Ports/port_198.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (15), [Biology](Skills/Skill-Adventure/item_434.md) (17), [Japanese](Skills/Skills-Language/item_3396.md) |
-| **Discovery** | [Marine life](Categories/category_16.md) / [Pipefish](Quests/Other/quest_3142.md) A fish with a distinctive elongated mouth and body that lives in the waters near Japan. The elongated body is thought to be used to hide in crevices such as seaweed. They are characterized by the male giving birth in place of the female. Not suitable for consumption. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,360 |
+| **Discovery** | [Marine life](Categories/category_16.md) / [Pipefish](Quests/Trade/quest_3142.md) A fish with a distinctive elongated mouth and body that lives in the waters near Japan. The elongated body is thought to be used to hide in crevices such as seaweed. They are characterized by the male giving birth in place of the female. Not suitable for consumption. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,360 |
 | **Reward/Advance** | Remuneration: 386,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 330 |
 | **Items Obtained** | Request letter x10 |

@@ -21,7 +21,7 @@ Have you ever heard about the Seven Wonders of the World? It seems that they wan
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md), [Seville](Ports/port_4.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (4), [Archaeology](Skills/Skill-Adventure/item_342.md) (6), [Greek](Skills/Skills-Language/item_604.md) |
-| **Discovery** | [Historical Relics](Categories/category_7.md) / [Seven Landscapes of the World](Quests/Other/quest_3344.md) A work by the ancient Greek mathematician Philo. Introducing seven must-see buildings that existed in the Mediterranean world at the time. Although it is said to be the basis for the ``Seven Wonders of the World,'' he does not introduce the Great Lighthouse in Alexandria, where he lived at the time of writing. Beginning of the Seven Wonders Rank: 3, Points: 4, Difficulty: 6, Experience Points: 470 |
+| **Discovery** | [Historical Relics](Categories/category_7.md) / [Seven Landscapes of the World](Quests/Trade/quest_3344.md) A work by the ancient Greek mathematician Philo. Introducing seven must-see buildings that existed in the Mediterranean world at the time. Although it is said to be the basis for the ``Seven Wonders of the World,'' he does not introduce the Great Lighthouse in Alexandria, where he lived at the time of writing. Beginning of the Seven Wonders Rank: 3, Points: 4, Difficulty: 6, Experience Points: 470 |
 | **Reward/Advance** | Remuneration: 102,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience points: 150 / Fame: 160 |
 | **Items Obtained** | Request letter ☓5 |

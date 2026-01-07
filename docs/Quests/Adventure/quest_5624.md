@@ -21,7 +21,7 @@ Hey, would you like to request a historical site survey? A scholar in Lisbon has
 | **Time Limit** | none |
 | **Town** | [Saint Petersburg](Ports/port_190.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (7), [Visibility](Skills/Skill-Adventure/item_458.md) (5), [Portuguese](Skills/Skills-Language/item_345.md) |
-| **Discovery** | [Historic Site](Categories/category_6.md) / [Tower of Svaneti](Quests/Other/quest_2940.md) A mysterious tower that can be seen in the villages of the Svaneti region, located in the valley of the Caucasus Mountains. The shape differs slightly depending on the year it was built. Tower standing in an unexplored area Rank: 3, Points: 5, Difficulty: 7 |
+| **Discovery** | [Historic Site](Categories/category_6.md) / [Tower of Svaneti](Quests/Trade/quest_2940.md) A mysterious tower that can be seen in the villages of the Svaneti region, located in the valley of the Caucasus Mountains. The shape differs slightly depending on the year it was built. Tower standing in an unexplored area Rank: 3, Points: 5, Difficulty: 7 |
 | **Reward/Advance** | Remuneration: 216,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 220 / Fame: 125 |
 | **Items Obtained** | Request letter *6 |

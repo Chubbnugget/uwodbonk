@@ -21,7 +21,7 @@ A sailor recently returned from a voyage and said he saw a strange, large fish. 
 | **Time Limit** | none |
 | **Town** | [Calicut](Ports/port_44.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (5), [Biology](Skills/Skill-Adventure/item_434.md) (7), [Malayu Tagalog](Skills/Skills-Language/item_1967.md) (1) |
-| **Discovery** | [Marine life](Categories/category_16.md) / [Tiger shark](Quests/Other/quest_3993.md) A shark that lives in shallow coral reefs from the Indian Ocean to the Pacific Ocean. It has an overall flat appearance, with a round oblong face and long tail fin. There are black spots on the back. They have a docile personality and rarely attack humans. Rank: 3, Points: 6, Difficulty: 7 |
+| **Discovery** | [Marine life](Categories/category_16.md) / [Tiger shark](Quests/Trade/quest_3993.md) A shark that lives in shallow coral reefs from the Indian Ocean to the Pacific Ocean. It has an overall flat appearance, with a round oblong face and long tail fin. There are black spots on the back. They have a docile personality and rarely attack humans. Rank: 3, Points: 6, Difficulty: 7 |
 | **Reward/Advance** | Remuneration: 191,000 / Advance payment: 20,000 |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

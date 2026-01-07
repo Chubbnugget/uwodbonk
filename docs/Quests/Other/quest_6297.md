@@ -21,7 +21,7 @@ Outside the gates of Lima (north), near the stacked rocks.
 | **Time Limit** | none |
 | **Town** | [Venice](Ports/port_30.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (6), [Visibility](Skills/Skill-Adventure/item_458.md) (6) |
-| **Discovery** | [Historic Site](Categories/category_6.md) / [Huaca Pucllana](Quests/Other/quest_3399.md) An ancient ruin in Lima. There is a large pyramid made of sun-dried bricks stacked vertically. It is said that it was once a religious town that ruled the area, and many festivals were held there. Rank: 1, Points: 3, Difficulty: 6, Experience Points: 200 |
+| **Discovery** | [Historic Site](Categories/category_6.md) / [Huaca Pucllana](Quests/Trade/quest_3399.md) An ancient ruin in Lima. There is a large pyramid made of sun-dried bricks stacked vertically. It is said that it was once a religious town that ruled the area, and many festivals were held there. Rank: 1, Points: 3, Difficulty: 6, Experience Points: 200 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 200 / Fame: 100 |
 | **Items Obtained** |  |

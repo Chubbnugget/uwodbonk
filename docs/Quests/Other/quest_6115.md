@@ -21,7 +21,7 @@ Do you know brownies or tomte? It is a fairy that is said to bring happiness bec
 | **Time Limit** | none |
 | **Town** | [Sagres](Ports/port_214.md) |
 | **Required Skills** | [Biology](Skills/Skill-Adventure/item_434.md) (5) |
-| **Discovery** | [Lore](Categories/category_20.md) / [Kesaran Pasaran](Quests/Other/quest_3282.md) A mysterious creature whose ecology is unknown, whether it is an animal or a plant, and the etymology of its name is unclear. The only things that have been passed down as [lore] (ref_20.md) are its furball-like appearance and the rumor that it brings happiness to its owner. Rank: 4, Points: 4, Difficulty: 5, Experience Points: 630 |
+| **Discovery** | [Lore](Categories/category_20.md) / [Kesaran Pasaran](Quests/Trade/quest_3282.md) A mysterious creature whose ecology is unknown, whether it is an animal or a plant, and the etymology of its name is unclear. The only things that have been passed down as [lore] (ref_20.md) are its furball-like appearance and the rumor that it brings happiness to its owner. Rank: 4, Points: 4, Difficulty: 5, Experience Points: 630 |
 | **Reward/Advance** | Remuneration: 484,500 / Advance payment: 40,000 |
 | **Exp/Fame** | Experience points: 460 / Fame: 230 |
 | **Items Obtained** | none |

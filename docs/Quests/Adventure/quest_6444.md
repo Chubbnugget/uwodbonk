@@ -21,7 +21,7 @@ This was a request from a ceramic board craftsman in this town. My son seems to 
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (2), [Exploration](Skills/Skill-Adventure/item_257.md) (1), [English](Skills/Skills-Language/item_341.md) (1) |
-| **Discovery** | [Religious Relic](Categories/category_8.md) / [Beckett Water](Quests/Other/quest_3522.md) Holy water is said to be made by diluting the blood of Thomas Becket, a saint of the Church of England, with water. It was said to be effective against all illnesses due to the divine protection of the saint. Becket, a close friend of King Henry II of England, was at loggerheads over the autonomy of the church. He was killed by the king's soldiers inside the church. Quest "Martyr's Elixir" Rank: 1, Points: 2, Difficulty: 1, Experience Points: 100 |
+| **Discovery** | [Religious Relic](Categories/category_8.md) / [Beckett Water](Quests/Trade/quest_3522.md) Holy water is said to be made by diluting the blood of Thomas Becket, a saint of the Church of England, with water. It was said to be effective against all illnesses due to the divine protection of the saint. Becket, a close friend of King Henry II of England, was at loggerheads over the autonomy of the church. He was killed by the king's soldiers inside the church. Quest "Martyr's Elixir" Rank: 1, Points: 2, Difficulty: 1, Experience Points: 100 |
 | **Reward/Advance** | Reward: 30,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 120 / Fame: 65 |
 | **Items Obtained** | request letter |

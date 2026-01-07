@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Visibility](Skills/Skill-Adventure/item_458.md) (8) |
-| **Discovery** | [Weather/Phenomenon](Categories/category_19.md) / [Will-O-Wisp](Quests/Other/quest_3080.md) A mysterious light that appears at night on lakesides, graveyards, etc. There are multiple reports of colors such as blue and green. The name comes from the legend that the soul of a man who died after committing a series of bad deeds wanders in this world. Rank: 4, Points: 7, Difficulty: 11, Experience Points: 620 |
+| **Discovery** | [Weather/Phenomenon](Categories/category_19.md) / [Will-O-Wisp](Quests/Trade/quest_3080.md) A mysterious light that appears at night on lakesides, graveyards, etc. There are multiple reports of colors such as blue and green. The name comes from the legend that the soul of a man who died after committing a series of bad deeds wanders in this world. Rank: 4, Points: 7, Difficulty: 11, Experience Points: 620 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 620 |
 | **Items Obtained** |  |

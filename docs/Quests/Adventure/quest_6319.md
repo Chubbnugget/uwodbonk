@@ -21,7 +21,7 @@ I've been getting requests for Japanese crafts. There's a small box with all sor
 | **Time Limit** | none |
 | **Town** | [Jakarta](Ports/port_135.md) |
 | **Required Skills** | [Search](Skills/Skill-Adventure/item_257.md) (4), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (6), [Unlock](Skills/Skill-Adventure/item_460.md) (4) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Hand-made box](Quests/Other/quest_3405.md) A small box made in Japan. The structure is such that the top lid is larger than the bottom part and can be covered. The surface of the box is treated with lacquer and has delicate patterns drawn on it. It is said that it is sometimes used as a box to store scriptures. Rank: 2, Points: 5, Difficulty: 6, Experience Points: 380 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Hand-made box](Quests/Trade/quest_3405.md) A small box made in Japan. The structure is such that the top lid is larger than the bottom part and can be covered. The surface of the box is treated with lacquer and has delicate patterns drawn on it. It is said that it is sometimes used as a box to store scriptures. Rank: 2, Points: 5, Difficulty: 6, Experience Points: 380 |
 | **Reward/Advance** | Remuneration: 122,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience points: 160 / Fame: 90 |
 | **Items Obtained** | 5 request letters |

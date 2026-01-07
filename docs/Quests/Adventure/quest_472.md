@@ -21,7 +21,7 @@ There is a story that a statue of Artemis, the Greek goddess of the moon and arc
 | **Time Limit** | none |
 | **Town** | [Amsterdam](Ports/port_49.md), [London](Ports/port_23.md), [Lisbon](Ports/port_2.md), [Seville](Ports/port_4.md), [Marseille](Ports/port_10.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (2), [Exploration](Skills/Skill-Adventure/item_257.md) (1), [Greek](Skills/Skills-Language/item_604.md) |
-| **Discovery** | [Religious relic](Categories/category_8.md) / [Artemis statue](Quests/Other/quest_1432.md) A statue of a goddess from Greek mythology. Diana in Roman mythology, twin sister of Apollo. Artemis is the goddess of hunting, animals, childbirth, and fertility. She is sometimes identified with Selene, the moon goddess. Moon Goddess Statue Rank: 1, Points: 3, Difficulty: 2, Experience Points: 120 |
+| **Discovery** | [Religious relic](Categories/category_8.md) / [Artemis statue](Quests/Trade/quest_1432.md) A statue of a goddess from Greek mythology. Diana in Roman mythology, twin sister of Apollo. Artemis is the goddess of hunting, animals, childbirth, and fertility. She is sometimes identified with Selene, the moon goddess. Moon Goddess Statue Rank: 1, Points: 3, Difficulty: 2, Experience Points: 120 |
 | **Reward/Advance** | Reward: 26,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | Greek goddess amulet/requisition letter 4 pieces |

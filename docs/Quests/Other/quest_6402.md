@@ -21,7 +21,7 @@ A huge pyramid towering over the land of Giza. It is said to be the tomb of King
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Religious architecture](Categories/category_9.md) / [Pyramid of Giza in the past](Quests/Other/quest_3474.md) A huge pyramid towering over the land of Giza. It is said to be the tomb of King Khufu. A huge number of square stones were piled up by hand. The surface is covered with polished white marble and shines. During construction, housing for the workers was built around the building, and they were provided with food and beer. Legacy: Megalithic civilization that flourished in the desert Rank: 5, Points: 10, Experience points: 4,000 |
+| **Discovery** | [Religious architecture](Categories/category_9.md) / [Pyramid of Giza in the past](Quests/Trade/quest_3474.md) A huge pyramid towering over the land of Giza. It is said to be the tomb of King Khufu. A huge number of square stones were piled up by hand. The surface is covered with polished white marble and shines. During construction, housing for the workers was built around the building, and they were provided with food and beer. Legacy: Megalithic civilization that flourished in the desert Rank: 5, Points: 10, Experience points: 4,000 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | Capstone Pendant, Sun Gemstone |

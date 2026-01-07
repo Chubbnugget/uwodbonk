@@ -21,7 +21,7 @@ North of Beirut. Northeastmost.
 | **Time Limit** | none |
 | **Town** | [Tunis](Ports/port_46.md), [Istanbul](Ports/port_78.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (9), [Visibility](Skills/Skill-Adventure/item_458.md) (9) |
-| **Discovery** | [Historic Site](Categories/category_6.md) / [Göbekli Tepe Stone Columns](Quests/Other/quest_3334.md) A ruin that means "pot-bellied hill" in the local language. Many huge stone pillars are lined up in a circle, and occasionally you can see stone pillars carved with animal-like reliefs. It seems to be from a very long time ago, but I don't know who built it or why. Rank: 2, Points: 7, Difficulty: 9, Experience Points: 350 |
+| **Discovery** | [Historic Site](Categories/category_6.md) / [Göbekli Tepe Stone Columns](Quests/Trade/quest_3334.md) A ruin that means "pot-bellied hill" in the local language. Many huge stone pillars are lined up in a circle, and occasionally you can see stone pillars carved with animal-like reliefs. It seems to be from a very long time ago, but I don't know who built it or why. Rank: 2, Points: 7, Difficulty: 9, Experience Points: 350 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

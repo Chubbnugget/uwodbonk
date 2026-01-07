@@ -21,7 +21,7 @@ Have you ever been to the island south of Genoa? Apparently there are a number o
 | **Time Limit** | none |
 | **Town** | [Marseille](Ports/port_10.md), [Naples](Ports/port_60.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (3), [Visibility](Skills/Skill-Adventure/item_458.md) (1), [Italian](Skills/Skills-Language/item_422.md) |
-| **Discovery** | [Historic Site](Categories/category_6.md) / [Nurage](Quests/Other/quest_2648.md) A huge structure seen on the island of Sardinia. It is made of large stones piled up in a tower-like shape. They were created in prehistoric times, and it is estimated that there were about 20,000 of them at the time. Rank: 2, Points: 2, Experience Points: 230 |
+| **Discovery** | [Historic Site](Categories/category_6.md) / [Nurage](Quests/Trade/quest_2648.md) A huge structure seen on the island of Sardinia. It is made of large stones piled up in a tower-like shape. They were created in prehistoric times, and it is estimated that there were about 20,000 of them at the time. Rank: 2, Points: 2, Experience Points: 230 |
 | **Reward/Advance** | Reward: 69,000 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | Request letter x2 |

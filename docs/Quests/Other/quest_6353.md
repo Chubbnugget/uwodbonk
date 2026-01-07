@@ -21,7 +21,7 @@ Helios, the sun god, was the motif of the Colossus of Rhodes. Anecdotes related 
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (8), [Visibility](Skills/Skill-Adventure/item_458.md) (6), [Greek](Skills/Skills-Language/item_604.md) (1) |
-| **Discovery** | [Historical site](Categories/category_6.md) / [Sculpture of the sun god](Quests/Other/quest_3442.md) A sculpture of the sun god Helios, which was the motif of the Colossus of Rhodes. In ancient Greece, it was believed that the reason the sun rose in the morning and set at night was because Helios departed from the east each morning pulling his solar chariot, entered the sea at night, and returned to the east. Rank: 2, Points: 5, Difficulty: 8, Experience Points: 300 |
+| **Discovery** | [Historical site](Categories/category_6.md) / [Sculpture of the sun god](Quests/Trade/quest_3442.md) A sculpture of the sun god Helios, which was the motif of the Colossus of Rhodes. In ancient Greece, it was believed that the reason the sun rose in the morning and set at night was because Helios departed from the east each morning pulling his solar chariot, entered the sea at night, and returned to the east. Rank: 2, Points: 5, Difficulty: 8, Experience Points: 300 |
 | **Reward/Advance** | Reward: 100,000 / Advance payment: 0 |
 | **Exp/Fame** |  |
 | **Items Obtained** | 6 request letters |

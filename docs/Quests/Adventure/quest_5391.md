@@ -21,7 +21,7 @@ It's not cold today. On days like this, I'd like to take a rest by the fireplace
 | **Time Limit** | none |
 | **Town** | [Saint Petersburg](Ports/port_190.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (13), [Exploration](Skills/Skill-Adventure/item_257.md) (11), [Turkish](Skills/Skills-Language/item_602.md) |
-| **Discovery** | [Religious Relic](Categories/category_8.md) / [Prometheus' Chain](Quests/Other/quest_2785.md) A sturdy chain found in the mountains of the Caucasus. Legend has it that Prometheus, who stole fire from heaven and gave it to humans, was punished by being tied up in the mountains of the Caucasus with chains made by Hephaestus and having his liver eaten alive by vultures. Rank: 5, Points: 9, Difficulty: 13, Experience Points: 1,210 |
+| **Discovery** | [Religious Relic](Categories/category_8.md) / [Prometheus' Chain](Quests/Trade/quest_2785.md) A sturdy chain found in the mountains of the Caucasus. Legend has it that Prometheus, who stole fire from heaven and gave it to humans, was punished by being tied up in the mountains of the Caucasus with chains made by Hephaestus and having his liver eaten alive by vultures. Rank: 5, Points: 9, Difficulty: 13, Experience Points: 1,210 |
 | **Reward/Advance** | Remuneration: 352,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 310 / Fame: 277 |
 | **Items Obtained** | Request letter ☓9 |

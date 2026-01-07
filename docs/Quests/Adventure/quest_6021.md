@@ -21,7 +21,7 @@ Mr. Lalande has devised various constellations, and it seems that he recently an
 | **Time Limit** | none |
 | **Town** | [St. Petersburg](Ports/port_190.md), [London](Ports/port_23.md) |
 | **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (11), [Visibility](Skills/Skill-Adventure/item_458.md) (9), [French](Skills/Skills-Language/item_603.md) |
-| **Discovery** | [Astronomy](Categories/category_18.md) / [Cat](Quests/Other/quest_3220.md) A constellation for cat lovers, by cat lovers, and for cat lovers. It is said that Lalande, a French astronomy scholar and famous cat lover, invented it as ``revenge for the starry sky,'' but it doesn't seem to have caught on as a name. Quest "His appearance in the starry sky" Discovery card: 415 Rank: 5, Points: 9, Difficulty: 11, Experience points: 830 |
+| **Discovery** | [Astronomy](Categories/category_18.md) / [Cat](Quests/Trade/quest_3220.md) A constellation for cat lovers, by cat lovers, and for cat lovers. It is said that Lalande, a French astronomy scholar and famous cat lover, invented it as ``revenge for the starry sky,'' but it doesn't seem to have caught on as a name. Quest "His appearance in the starry sky" Discovery card: 415 Rank: 5, Points: 9, Difficulty: 11, Experience points: 830 |
 | **Reward/Advance** | Remuneration: 155,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience: 180 / Fame: 100 |
 | **Items Obtained** | Request letter ☓9 |

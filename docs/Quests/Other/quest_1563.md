@@ -21,7 +21,7 @@ Landed on the northeast coast of South America. Go southeast from the center.
 | **Time Limit** | none |
 | **Town** | [Grand Cayman](Ports/port_114.md), [Trujillo](Ports/port_115.md), [Willemstad](Ports/port_119.md), [Caracas](Ports/port_120.md), [Cayenne](Ports/port_111.md), [Pernambuco](Ports/port_112.md), [San Francisco](Ports/port_198.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (5), [Archaeology](Skills/Skill-Adventure/item_342.md) (5), [Unlocking](Skills/Skill-Adventure/item_460.md) (5) |
-| **Discovery** | [Historical relic](Categories/category_7.md) / [Clay statue](Quests/Other/quest_1366.md) [Clay statue](Quests/Other/quest_1366.md) found in the western Maya region. They have various forms, but are they modeled after gods? Mesoamerican Statue Map Rank: 1, Points: 4, Difficulty: 5, Experience Points: 150 |
+| **Discovery** | [Historical relic](Categories/category_7.md) / [Clay statue](Quests/Trade/quest_1366.md) [Clay statue](Quests/Trade/quest_1366.md) found in the western Maya region. They have various forms, but are they modeled after gods? Mesoamerican Statue Map Rank: 1, Points: 4, Difficulty: 5, Experience Points: 150 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

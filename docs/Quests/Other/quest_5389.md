@@ -21,7 +21,7 @@ Landing on the opposite shore of Cairo, inside the ruins in the Giza region in t
 | **Time Limit** | none |
 | **Town** | [Marseille](Ports/port_10.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (6), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (6) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Ancient Egyptian ceremonial sword](Quests/Other/quest_2780.md) A ceremonial sickle-shaped sword called Kepesh. Kepesh has a blade on the inside of its curved blade, and it attacks by hooking it onto the opponent's shield, but it does not have a blade for ceremonial use. Rank: 2 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Ancient Egyptian ceremonial sword](Quests/Trade/quest_2780.md) A ceremonial sickle-shaped sword called Kepesh. Kepesh has a blade on the inside of its curved blade, and it attacks by hooking it onto the opponent's shield, but it does not have a blade for ceremonial use. Rank: 2 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 210 |
 | **Items Obtained** |  |

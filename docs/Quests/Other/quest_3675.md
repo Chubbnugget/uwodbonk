@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Fishing](Skills/Skill-Adventure/item_339.md) (11) |
-| **Discovery** | [Marine life](Categories/category_16.md) / [King salmon](Quests/Other/quest_2294.md) Another name is Masunosuke. They are distributed in the North Pacific Ocean and have a habit of swimming upstream in the rivers where they were born and raised when spawning. It has a large body, reaching up to 1.5 meters in length. The flesh has a high fat content and is delicious. *Fishing *Discovery card: 140 Rank: 2, Points: 4, Experience points: 280 |
+| **Discovery** | [Marine life](Categories/category_16.md) / [King salmon](Quests/Trade/quest_2294.md) Another name is Masunosuke. They are distributed in the North Pacific Ocean and have a habit of swimming upstream in the rivers where they were born and raised when spawning. It has a large body, reaching up to 1.5 meters in length. The flesh has a high fat content and is delicious. *Fishing *Discovery card: 140 Rank: 2, Points: 4, Experience points: 280 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 280 |
 | **Items Obtained** |  |

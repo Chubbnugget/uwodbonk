@@ -21,7 +21,7 @@ I've been mediating requests for a long time, but this is the first time I've re
 | **Time Limit** | none |
 | **Town** | [Lima](Ports/port_162.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (5), [Biology](Skills/Skill-Adventure/item_434.md) (7), [Oceanian languages](Skills/Skills-Language/item_2277.md) |
-| **Discovery** | [Birds](Categories/category_12.md) / [Junior-winged finch](Quests/Other/quest_3412.md) A bird that lives in Southeast Asia. Only males have 12 thin wire-like tail feathers growing from their buttocks. During the breeding season, they court the female by brushing their tail feathers against the female's face. Rank: 3, Points: 6, Experience Points: 480 |
+| **Discovery** | [Birds](Categories/category_12.md) / [Junior-winged finch](Quests/Trade/quest_3412.md) A bird that lives in Southeast Asia. Only males have 12 thin wire-like tail feathers growing from their buttocks. During the breeding season, they court the female by brushing their tail feathers against the female's face. Rank: 3, Points: 6, Experience Points: 480 |
 | **Reward/Advance** | Remuneration: 275,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 260 / Fame: 150 |
 | **Items Obtained** | Request letter x6 |

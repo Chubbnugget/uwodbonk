@@ -21,7 +21,7 @@ I received a request from a scholar to investigate an ancient castle built on Mt
 | **Time Limit** | none |
 | **Town** | [London](Ports/port_23.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (10), [Visibility](Skills/Skill-Adventure/item_458.md) (8), [Korean](Skills/Skills-Language/item_3744.md) (1) |
-| **Discovery** | [Historic Site](Categories/category_6.md) / [Busosanseong Fortress](Quests/Other/quest_3702.md) The capital city of Baekje. It was built on Mt. Buso south of the Hakuba River. Samchungsa Shrine enshrines the tablets and portraits of the three most loyal subjects who served King Uija, the last king of Baekje. Quest “Treasure House of Baekje Culture” Discovery Card: 415 Rank: 5, Points: 8, Difficulty: 6, Experience Points: 830 |
+| **Discovery** | [Historic Site](Categories/category_6.md) / [Busosanseong Fortress](Quests/Trade/quest_3702.md) The capital city of Baekje. It was built on Mt. Buso south of the Hakuba River. Samchungsa Shrine enshrines the tablets and portraits of the three most loyal subjects who served King Uija, the last king of Baekje. Quest “Treasure House of Baekje Culture” Discovery Card: 415 Rank: 5, Points: 8, Difficulty: 6, Experience Points: 830 |
 | **Reward/Advance** | Remuneration: 228,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 260 / Fame: 115 |
 | **Items Obtained** | Request letter*7 |

@@ -21,7 +21,7 @@ This is a request from a rich man who is researching the Silk Road. I want you t
 | **Time Limit** | none |
 | **Town** | [Alexandria](Ports/port_63.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (7), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (9), [Chinese](Skills/Skills-Language/item_3651.md) (1) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Sancai Camel Mounted Musical Figure](Quests/Other/quest_3678.md) One of the "Tang Sancai" pottery made during the Tang Dynasty. A masterpiece depicting a camel looking up at the sky and a male band of Hu people. Beautiful shapes and gorgeous glazes, both of which make it one of the most complete pieces of Tang Sancai. Rank: 4, Points: 7, Difficulty: 7, Experience Points: 710 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Sancai Camel Mounted Musical Figure](Quests/Trade/quest_3678.md) One of the "Tang Sancai" pottery made during the Tang Dynasty. A masterpiece depicting a camel looking up at the sky and a male band of Hu people. Beautiful shapes and gorgeous glazes, both of which make it one of the most complete pieces of Tang Sancai. Rank: 4, Points: 7, Difficulty: 7, Experience Points: 710 |
 | **Reward/Advance** | Remuneration: 185,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 240 / Fame: 130 |
 | **Items Obtained** | Request letter x 7 |

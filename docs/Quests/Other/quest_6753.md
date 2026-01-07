@@ -21,7 +21,7 @@ It seems that a huge black ray was spotted. Gather information at a bar in Nagas
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (11), [Biology](Skills/Skill-Adventure/item_434.md) (13), [Japanese](Skills/Skills-Language/item_3396.md) (1) |
-| **Discovery** | [Marine life](Categories/category_16.md) / [Black manta](Quests/Other/quest_3795.md) A manta ray that has become black due to the accumulation of black pigment due to the phenomenon of melanism. The cause of the outbreak remains to be determined. Sightings have been reported in various places, but the encounter rate seems to be high near New Caledonia. Pursuit Quest Discovery Card: 780 Rank: 5, Points: 10, Difficulty: 13, Experience Points: 1,560 |
+| **Discovery** | [Marine life](Categories/category_16.md) / [Black manta](Quests/Trade/quest_3795.md) A manta ray that has become black due to the accumulation of black pigment due to the phenomenon of melanism. The cause of the outbreak remains to be determined. Sightings have been reported in various places, but the encounter rate seems to be high near New Caledonia. Pursuit Quest Discovery Card: 780 Rank: 5, Points: 10, Difficulty: 13, Experience Points: 1,560 |
 | **Reward/Advance** | Remuneration: 410,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience: 800 / Fame: 610 |
 | **Items Obtained** | treasure chest of pursuit |

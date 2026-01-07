@@ -21,7 +21,7 @@ This is a request for an investigation into Prince Duarte, the eldest brother of
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (1), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (3), [Portuguese](Skills/Skills-Language/item_345.md) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Duarte's work](Quests/Other/quest_3215.md) A work written by Prince Duarte himself. He has written books on how to be a politician and books on how to ride a horse, which shows that he is well-versed in a variety of fields. Rank: 1, Difficulty: 2, Experience Points: 123 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Duarte's work](Quests/Trade/quest_3215.md) A work written by Prince Duarte himself. He has written books on how to be a politician and books on how to ride a horse, which shows that he is well-versed in a variety of fields. Rank: 1, Difficulty: 2, Experience Points: 123 |
 | **Reward/Advance** | Reward: 61,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | Request letter x 2 |

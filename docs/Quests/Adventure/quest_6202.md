@@ -21,7 +21,7 @@ The Byzantine Empire has a long history of wars with various countries and diffe
 | **Time Limit** | none |
 | **Town** | [Amsterdam](Ports/port_49.md), [London](Ports/port_23.md), [Lisbon](Ports/port_2.md), [Seville](Ports/port_4.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (8), [Visibility](Skills/Skill-Adventure/item_458.md) (6), [Turkish](Skills/Skills-Language/item_602.md) |
-| **Discovery** | [Historic Site](Categories/category_6.md) / [Madara Knight Statue](Quests/Other/quest_3342.md) A huge relief carved into the cliff of the Madara Plateau in northeastern Bulgaria. It is unique in that it is carved at such a height that there are no footholds around it. Because there are old Greek inscriptions around it, there is a theory that it was built by the Bulgars, who once ruled this area. Footprints of the Grassland People Rank: 4, Points: 5, Difficulty: 8, Experience Points: 630 |
+| **Discovery** | [Historic Site](Categories/category_6.md) / [Madara Knight Statue](Quests/Trade/quest_3342.md) A huge relief carved into the cliff of the Madara Plateau in northeastern Bulgaria. It is unique in that it is carved at such a height that there are no footholds around it. Because there are old Greek inscriptions around it, there is a theory that it was built by the Bulgars, who once ruled this area. Footprints of the Grassland People Rank: 4, Points: 5, Difficulty: 8, Experience Points: 630 |
 | **Reward/Advance** | Remuneration: 195,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience: 210 / Fame: 120 |
 | **Items Obtained** | Request letter x6 |

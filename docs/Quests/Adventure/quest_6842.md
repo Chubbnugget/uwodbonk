@@ -21,7 +21,7 @@ It seems like you've been doing a lot of research around the Bay of Bengal. Have
 | **Time Limit** | none |
 | **Town** | [Istanbul](Ports/port_78.md) |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (13), [Visibility](Skills/Skill-Adventure/item_458.md) (11), [Indian languages](Skills/Skills-Language/item_590.md) (1) |
-| **Discovery** | [Geography](Categories/category_2.md) / [Meghna River](Quests/Other/quest_3860.md) A river that flows through the eastern part of the Bengal region and empties into the Bay of Bengal. It joins the Ganges and Brahmaputra rivers, forming a vast delta. Discovery Card: 440 Rank: 5, Points: 10, Difficulty: 13, Experience Points: 880 |
+| **Discovery** | [Geography](Categories/category_2.md) / [Meghna River](Quests/Trade/quest_3860.md) A river that flows through the eastern part of the Bengal region and empties into the Bay of Bengal. It joins the Ganges and Brahmaputra rivers, forming a vast delta. Discovery Card: 440 Rank: 5, Points: 10, Difficulty: 13, Experience Points: 880 |
 | **Reward/Advance** | Remuneration: 565,000 / Advance payment: 60,000 |
 | **Exp/Fame** | Experience points: 440 |
 | **Items Obtained** | Request letter*9 |

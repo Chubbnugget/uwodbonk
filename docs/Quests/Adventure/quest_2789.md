@@ -21,7 +21,7 @@ Lautu said that a sailor who came back from Hangzhou told me an interesting stor
 | **Time Limit** | none |
 | **Town** | [Jakarta](Ports/port_135.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (7), [Biology](Skills/Skill-Adventure/item_434.md) (9), [Chinese](Skills/Skills-Language/item_3651.md) (1) |
-| **Discovery** | [Medium-sized creature](Categories/category_14.md) / [Chow Chow](Quests/Other/quest_2143.md) A dog that has been bred as a guard dog or livestock. In some regions, this dog is called a black-tongued dog because of its blue-black mouth and tongue. It is said that the emperor of the Tang Dynasty also kept them. Rautu's curious child Cultural contribution level 45 Rank: 4, Points: 8, Difficulty: 9, Experience points: 790 |
+| **Discovery** | [Medium-sized creature](Categories/category_14.md) / [Chow Chow](Quests/Trade/quest_2143.md) A dog that has been bred as a guard dog or livestock. In some regions, this dog is called a black-tongued dog because of its blue-black mouth and tongue. It is said that the emperor of the Tang Dynasty also kept them. Rautu's curious child Cultural contribution level 45 Rank: 4, Points: 8, Difficulty: 9, Experience points: 790 |
 | **Reward/Advance** | Remuneration: 135,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience: 190 / Fame: 170 |
 | **Items Obtained** | Request letter x 7 |

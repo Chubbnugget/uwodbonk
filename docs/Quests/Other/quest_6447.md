@@ -21,7 +21,7 @@ Gloves for ladies made in the Grasse region of France. It is impregnated with fr
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Duchess's scented leather gloves](Quests/Other/quest_3525.md) Gloves for ladies made in the Grasse region of France. It is impregnated with fragrance to eliminate the smell of leather, giving off a fragrance. Among them, the scent of orange blossom essential oil is said to have been favored by the Princess Nerola, and it came to be called neroli. Rank: 5, Points: 5 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Duchess's scented leather gloves](Quests/Trade/quest_3525.md) Gloves for ladies made in the Grasse region of France. It is impregnated with fragrance to eliminate the smell of leather, giving off a fragrance. Among them, the scent of orange blossom essential oil is said to have been favored by the Princess Nerola, and it came to be called neroli. Rank: 5, Points: 5 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | the root of wisdom |

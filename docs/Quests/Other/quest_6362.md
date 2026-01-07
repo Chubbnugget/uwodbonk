@@ -21,7 +21,7 @@ Basin south of Cayenne.
 | **Time Limit** | none |
 | **Town** | [San Francisco](Ports/port_198.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (3), [Biology](Skills/Skill-Adventure/item_434.md) (3) |
-| **Discovery** | [Marine life](Categories/category_16.md) / [Pencilfish](Quests/Other/quest_3450.md) A freshwater fish found in rivers in South America. It uses its elongated body and small mouth to feed on moss in the water. Some species swim close to the water's surface with their bodies tilted, so they were named after their appearance as a pencil. Rank: 1, Points: 1, Difficulty: 3, Experience Points: 140 |
+| **Discovery** | [Marine life](Categories/category_16.md) / [Pencilfish](Quests/Trade/quest_3450.md) A freshwater fish found in rivers in South America. It uses its elongated body and small mouth to feed on moss in the water. Some species swim close to the water's surface with their bodies tilted, so they were named after their appearance as a pencil. Rank: 1, Points: 1, Difficulty: 3, Experience Points: 140 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

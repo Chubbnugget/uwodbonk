@@ -21,7 +21,7 @@ This was a research request from a folklorist who studies Hawaii. I heard that t
 | **Time Limit** | none |
 | **Town** | [London](Ports/port_23.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (8), [Archaeology](Skills/Skill-Adventure/item_342.md) (10), [Unlocking](Skills/Skill-Adventure/item_460.md) (8) |
-| **Discovery** | [Historical Relic](Categories/category_7.md) / [Alii Sash](Quests/Other/quest_3401.md) In Hawaii, an "ali'i" is a loincloth worn by powerful people as a symbol of authority. It is covered with bright crimson and yellow feathers, and it is said that the power of nature resides in its feathers. Rank: 5, Points: 7, Difficulty: 10, Experience Points: 830 |
+| **Discovery** | [Historical Relic](Categories/category_7.md) / [Alii Sash](Quests/Trade/quest_3401.md) In Hawaii, an "ali'i" is a loincloth worn by powerful people as a symbol of authority. It is covered with bright crimson and yellow feathers, and it is said that the power of nature resides in its feathers. Rank: 5, Points: 7, Difficulty: 10, Experience Points: 830 |
 | **Reward/Advance** | Remuneration: 515,000 / Advance payment: 50,000 |
 | **Exp/Fame** | Experience points: 410 |
 | **Items Obtained** | Request letter x 7 |

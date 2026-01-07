@@ -21,7 +21,7 @@ Apparently ancient ruins have been discovered near Beirut. Academia seems to be 
 | **Time Limit** | none |
 | **Town** | [London](Ports/port_23.md) |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (10), [Visibility](Skills/Skill-Adventure/item_458.md) (8), [Arabic](Skills/Skills-Language/item_440.md) (1) |
-| **Discovery** | [Geography](Categories/category_2.md) / [Jeita Cave](Quests/Other/quest_3814.md) A limestone cave located north of Beirut. The total length is approximately 9km. The cave is divided into upper and lower parts, and you can see various types of stalactites. There are traces of humans from the Stone Age, and bronze tools were discovered. It is extremely valuable as an important ruin for tracing prehistoric civilization. Discovery Card Experience Points: 380 Rank: 4, Points: 8, Difficulty: 10, Experience Points: 760 |
+| **Discovery** | [Geography](Categories/category_2.md) / [Jeita Cave](Quests/Trade/quest_3814.md) A limestone cave located north of Beirut. The total length is approximately 9km. The cave is divided into upper and lower parts, and you can see various types of stalactites. There are traces of humans from the Stone Age, and bronze tools were discovered. It is extremely valuable as an important ruin for tracing prehistoric civilization. Discovery Card Experience Points: 380 Rank: 4, Points: 8, Difficulty: 10, Experience Points: 760 |
 | **Reward/Advance** | Reward: 180,000 |
 | **Exp/Fame** | Experience points: 150 / Fame: 80 |
 | **Items Obtained** | Request letter ☓7 |

@@ -21,7 +21,7 @@ Following Gekkaiju, I received another job request from Mr. Da Vinci. This surve
 | **Time Limit** | none |
 | **Town** | [Marseille](Ports/port_10.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (7), [Biology](Skills/Skill-Adventure/item_434.md) (9), [West African languages](Skills/Skills-Language/item_362.md) |
-| **Discovery** | [Plant](Categories/category_10.md) / [Clerodendorum](Quests/Other/quest_1723.md) The beautiful blue petals are compared to butterflies and fairies. The way the flowers bloom looks like they are clustered together. Blue feathered flower Rank: 4, Points: 6, Difficulty: 9, Experience points: 708 |
+| **Discovery** | [Plant](Categories/category_10.md) / [Clerodendorum](Quests/Trade/quest_1723.md) The beautiful blue petals are compared to butterflies and fairies. The way the flowers bloom looks like they are clustered together. Blue feathered flower Rank: 4, Points: 6, Difficulty: 9, Experience points: 708 |
 | **Reward/Advance** | Remuneration: 180,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 280 / Fame: 120 |
 | **Items Obtained** | Request letter x8 |

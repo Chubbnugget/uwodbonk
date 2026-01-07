@@ -21,7 +21,7 @@ midstream of the Yangtze River.
 | **Time Limit** | none |
 | **Town** | [Alexandria](Ports/port_63.md) |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (11), [Visibility](Skills/Skill-Adventure/item_458.md) (11) |
-| **Discovery** | [Geography](Categories/category_2.md) / [Dongting Lake](Quests/Other/quest_4004.md) A freshwater lake located in the middle reaches of the Yangtze River in South China. It is connected to the Yangtze River and boasts a vast area. Its appearance is known as the ``80li Cave Garden,'' and it has often appeared in poetry and myths since ancient times. At the confluence with the Yangtze River, the colors of the water can be clearly seen. Rank: 2, Points: 7, Difficulty: 11 |
+| **Discovery** | [Geography](Categories/category_2.md) / [Dongting Lake](Quests/Trade/quest_4004.md) A freshwater lake located in the middle reaches of the Yangtze River in South China. It is connected to the Yangtze River and boasts a vast area. Its appearance is known as the ``80li Cave Garden,'' and it has often appeared in poetry and myths since ancient times. At the confluence with the Yangtze River, the colors of the water can be clearly seen. Rank: 2, Points: 7, Difficulty: 11 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

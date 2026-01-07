@@ -21,7 +21,7 @@ It was a request from Mr. Vesalius of Valencia. That's rare. Since he seems to h
 | **Time Limit** | none |
 | **Town** | [Amsterdam](Ports/port_49.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (6), [Biology](Skills/Skill-Adventure/item_434.md) (8), [Spanish](Skills/Skills-Language/item_425.md) |
-| **Discovery** | [Marine life](Categories/category_16.md) / [Coral](Quests/Other/quest_3085.md) A type of coral. This name comes from the fact that the colony is hemispherical, resembling a human brain. Discovery Card Experience: 300 Rank: 3, Points: 6, Experience Points: 600 |
+| **Discovery** | [Marine life](Categories/category_16.md) / [Coral](Quests/Trade/quest_3085.md) A type of coral. This name comes from the fact that the colony is hemispherical, resembling a human brain. Discovery Card Experience: 300 Rank: 3, Points: 6, Experience Points: 600 |
 | **Reward/Advance** | Remuneration: 380,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 320 / Fame: 195 |
 | **Items Obtained** | Request letter*5 |

@@ -21,7 +21,7 @@ Landed on the west coast of the Sea of ​​Okhotsk. Around Lake Baikal in the 
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (4), [Visibility](Skills/Skill-Adventure/item_458.md) (4) |
-| **Discovery** | [Geography](Categories/category_2.md) / [Olkhon Island](Quests/Other/quest_3024.md) The largest island floating in Lake Baikal. The eastern side of the island is mountainous, and the island also has a varied topography including coniferous forests, grasslands, small deserts, and lakes. It has been inhabited by Mongolian people since ancient times. 2017.02.07 New addition Rank: 1, Points: 2, Experience points: 200 |
+| **Discovery** | [Geography](Categories/category_2.md) / [Olkhon Island](Quests/Trade/quest_3024.md) The largest island floating in Lake Baikal. The eastern side of the island is mountainous, and the island also has a varied topography including coniferous forests, grasslands, small deserts, and lakes. It has been inhabited by Mongolian people since ancient times. 2017.02.07 New addition Rank: 1, Points: 2, Experience points: 200 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

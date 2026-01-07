@@ -21,7 +21,7 @@ Have you gotten used to discovering nebulas?　Then I'll ask for this request ne
 | **Time Limit** | none |
 | **Town** | [Seville](Ports/port_4.md) |
 | **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (17), [Visibility](Skills/Skill-Adventure/item_458.md) (15), [West African languages](Skills/Skills-Language/item_362.md) |
-| **Discovery** | [Astronomy](Categories/category_18.md) / [Eta Carina Nebula](Quests/Other/quest_3131.md) A nebula in the Carina constellation. Although it is classified as a gigantic nebula compared to other nebulae, it is not well-known because it can only be observed in high latitude areas in the south, such as the Cape of Good Hope. It is said to have been discovered by Lacaille. Quest "Giant Nebula" Discovery Card: 650 Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,370 |
+| **Discovery** | [Astronomy](Categories/category_18.md) / [Eta Carina Nebula](Quests/Trade/quest_3131.md) A nebula in the Carina constellation. Although it is classified as a gigantic nebula compared to other nebulae, it is not well-known because it can only be observed in high latitude areas in the south, such as the Cape of Good Hope. It is said to have been discovered by Lacaille. Quest "Giant Nebula" Discovery Card: 650 Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,370 |
 | **Reward/Advance** | Remuneration: 357,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 310 / Fame: 185 |
 | **Items Obtained** | Request letter x10 |

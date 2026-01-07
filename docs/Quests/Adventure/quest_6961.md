@@ -21,7 +21,7 @@ I've received a request to investigate ancient Greek artwork. The client is Mich
 | **Time Limit** | none |
 | **Town** | [Venice](Ports/port_30.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (7), [Art](Skills/Skill-Adventure/item_285.md) (9), [Dutch](Skills/Skills-Language/item_599.md) (1) |
-| **Discovery** | [Artwork](Categories/category_3.md) / [Hercules on the table](Quests/Other/quest_3970.md) A bronze statue that is an elaborate reproduction of the work of Lysippus. Lysippus was one of the three great sculptors of ancient Greek art and created bronze statues for Alexander the Great. This statue also has a lively and dynamic feel, which shows the excellence of the original work. Discovery card: 410 Rank: 5, Points: 7, Difficulty: 9, Experience points: 820 |
+| **Discovery** | [Artwork](Categories/category_3.md) / [Hercules on the table](Quests/Trade/quest_3970.md) A bronze statue that is an elaborate reproduction of the work of Lysippus. Lysippus was one of the three great sculptors of ancient Greek art and created bronze statues for Alexander the Great. This statue also has a lively and dynamic feel, which shows the excellence of the original work. Discovery card: 410 Rank: 5, Points: 7, Difficulty: 9, Experience points: 820 |
 | **Reward/Advance** | Remuneration: 293,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 270 |
 | **Items Obtained** | Request letter x 7 |

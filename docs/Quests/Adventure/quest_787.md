@@ -21,7 +21,7 @@ I heard that a statue of Apollo, the sun god in Greek mythology, was seen near A
 | **Time Limit** | none |
 | **Town** | [Genoa](Ports/port_11.md), [Marseille](Ports/port_10.md), [Naples](Ports/port_60.md), [Venice](Ports/port_30.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (1), [Exploration](Skills/Skill-Adventure/item_257.md) (1), [Greek](Skills/Skills-Language/item_604.md) |
-| **Discovery** | [Religious Relic](Categories/category_8.md) / [Apollo Statue](Quests/Other/quest_1430.md) A statue of a god from Greek mythology. Apollo is a god who makes prophecies, and the oracle at Delphi is said to belong to him. A beautiful god who specializes in music, archery, and sports. He is sometimes identified with Helios, the sun god. Statue of the Sun God Rank: 1, Points: 3, Difficulty: 1, Experience Points: 60 |
+| **Discovery** | [Religious Relic](Categories/category_8.md) / [Apollo Statue](Quests/Trade/quest_1430.md) A statue of a god from Greek mythology. Apollo is a god who makes prophecies, and the oracle at Delphi is said to belong to him. A beautiful god who specializes in music, archery, and sports. He is sometimes identified with Helios, the sun god. Statue of the Sun God Rank: 1, Points: 3, Difficulty: 1, Experience Points: 60 |
 | **Reward/Advance** | Reward: 6,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | Greek god amulet, 3 request letters |

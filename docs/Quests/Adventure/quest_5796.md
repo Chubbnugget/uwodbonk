@@ -21,7 +21,7 @@ Did you know that the Papal States were established when the Pope received donat
 | **Time Limit** | none |
 | **Town** | [Zanzibar](Ports/port_38.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (15), [Archaeology](Skills/Skill-Adventure/item_342.md) (17), [Italian](Skills/Skills-Language/item_422.md) |
-| **Discovery** | [Historical Relic](Categories/category_7.md) / [Letter of Donation of Constantine](Quests/Other/quest_3068.md) Letter of donation used as the basis for establishing the Papal States. It is said to have been written by Emperor Constantine, but it is suspected that it is a forgery. Basis of the Papal States Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,360 |
+| **Discovery** | [Historical Relic](Categories/category_7.md) / [Letter of Donation of Constantine](Quests/Trade/quest_3068.md) Letter of donation used as the basis for establishing the Papal States. It is said to have been written by Emperor Constantine, but it is suspected that it is a forgery. Basis of the Papal States Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,360 |
 | **Reward/Advance** | Remuneration: 555,000 / Advance payment: 50,000 |
 | **Exp/Fame** | Experience points: 430 / Fame: 270 |
 | **Items Obtained** | Request letter x10 |

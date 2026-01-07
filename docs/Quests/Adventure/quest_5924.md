@@ -21,7 +21,7 @@ This is a request from the merchant guild master of this city. It may be unusual
 | **Time Limit** | none |
 | **Town** | [Amsterdam](Ports/port_49.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (8), [Visibility](Skills/Skill-Adventure/item_458.md) (6), [Portuguese](Skills/Skills-Language/item_345.md) |
-| **Discovery** | [Historic Site](Categories/category_6.md) / [Elmina Castle](Quests/Other/quest_3192.md) A castle built by Portugal for the purpose of protecting trade with Africa. The area was so rich in gold that it was called the Golden Coast, and this castle also played a major role in trade. Rank: 3, Difficulty: 8, Experience Points: 600 |
+| **Discovery** | [Historic Site](Categories/category_6.md) / [Elmina Castle](Quests/Trade/quest_3192.md) A castle built by Portugal for the purpose of protecting trade with Africa. The area was so rich in gold that it was called the Golden Coast, and this castle also played a major role in trade. Rank: 3, Difficulty: 8, Experience Points: 600 |
 | **Reward/Advance** | Reward: 61,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | 4 request letters |

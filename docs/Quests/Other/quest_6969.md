@@ -21,7 +21,7 @@ Let's do some further research on the Abyssinian colobus, a monkey with beautifu
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (7), [Biology](Skills/Skill-Adventure/item_434.md) (9), [Dutch](Skills/Skills-Language/item_599.md) (1) |
-| **Discovery** | [中型生物](Categories/category_14.md) ／ [アビシニアコロブスの幼体](Quests/Other/quest_3978.md) [アビシニアコロブスの幼体](Quests/Other/quest_3978.md)は成体と異なり、全身が真っ白な毛に覆われている。 After about three months, the baby's fur gradually changes to the same black color as its parents. Pursuit Quest Discovery Card: 360 Rank: 4, Points: 7, Difficulty: 9, Experience Points: 720 |
+| **Discovery** | [中型生物](Categories/category_14.md) ／ [アビシニアコロブスの幼体](Quests/Trade/quest_3978.md) [アビシニアコロブスの幼体](Quests/Trade/quest_3978.md)は成体と異なり、全身が真っ白な毛に覆われている。 After about three months, the baby's fur gradually changes to the same black color as its parents. Pursuit Quest Discovery Card: 360 Rank: 4, Points: 7, Difficulty: 9, Experience Points: 720 |
 | **Reward/Advance** | Reward: 135,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 340 |
 | **Items Obtained** | treasure chest of pursuit |

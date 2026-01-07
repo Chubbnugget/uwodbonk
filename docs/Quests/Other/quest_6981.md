@@ -21,7 +21,7 @@ Directed from a caravan broker in Xi'an
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Port/Settlement](Categories/category_1.md) / [Samarkand](Quests/Other/quest_3990.md) A town that flourished as a strategic point on the Silk Road. As a relay point connecting east and west, it has long been a place of trade and cultural exchange, and the blue tiles that were created as a result of this decorate many mosques and mausoleums, and are also known as the Blue City. Rank: 2 |
+| **Discovery** | [Port/Settlement](Categories/category_1.md) / [Samarkand](Quests/Trade/quest_3990.md) A town that flourished as a strategic point on the Silk Road. As a relay point connecting east and west, it has long been a place of trade and cultural exchange, and the blue tiles that were created as a result of this decorate many mosques and mausoleums, and are also known as the Blue City. Rank: 2 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

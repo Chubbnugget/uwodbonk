@@ -21,7 +21,7 @@ Buddhism spread to many regions, but each region seems to have its own character
 | **Time Limit** | none |
 | **Town** | [Alexandria](Ports/port_63.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (17), [Visibility](Skills/Skill-Adventure/item_458.md) (15), [Malayu Tagalog](Skills/Skills-Language/item_1967.md) |
-| **Discovery** | [Religious architecture](Categories/category_9.md) / [Swayambhunath](Quests/Other/quest_3064.md) One of the important temples in Buddhism in the Nepal region. A magnificent pagoda stands in the center of the temple. The walls of the stupa are decorated with ``eyes of the Buddha'' on all sides, and are said to be able to see through all things. Rank: 5, Points: 10, Difficulty: 15, Experience Points: 1,550 |
+| **Discovery** | [Religious architecture](Categories/category_9.md) / [Swayambhunath](Quests/Trade/quest_3064.md) One of the important temples in Buddhism in the Nepal region. A magnificent pagoda stands in the center of the temple. The walls of the stupa are decorated with ``eyes of the Buddha'' on all sides, and are said to be able to see through all things. Rank: 5, Points: 10, Difficulty: 15, Experience Points: 1,550 |
 | **Reward/Advance** | Remuneration: 778,000 / Advance payment: 70,000 |
 | **Exp/Fame** | Experience points: 570 / Fame: 360 |
 | **Items Obtained** | 10 request letters |

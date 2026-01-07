@@ -21,7 +21,7 @@ I received a letter from Oxford, asking me to look into a paper that someone had
 | **Time Limit** | none |
 | **Town** | [Stockholm](Ports/port_31.md), [London](Ports/port_23.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (15), [Exploration](Skills/Skill-Adventure/item_257.md) (13), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (15) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Paper on double faith](Quests/Other/quest_3333.md) An anonymously written record about double faith in Russia. The author appears to be a Russian clergyman. It contains interesting reports such as how Vladimir I converted the ruins of a pagan temple into a church and examples of incorporating pagan customs into churches. Rank: 5, Points: 10, Difficulty: 15, Experience Points: 1,310 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Paper on double faith](Quests/Trade/quest_3333.md) An anonymously written record about double faith in Russia. The author appears to be a Russian clergyman. It contains interesting reports such as how Vladimir I converted the ruins of a pagan temple into a church and examples of incorporating pagan customs into churches. Rank: 5, Points: 10, Difficulty: 15, Experience Points: 1,310 |
 | **Reward/Advance** | Remuneration: 259,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 250 / Fame: 210 |
 | **Items Obtained** | 10 request letters |

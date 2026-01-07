@@ -21,7 +21,7 @@ Do you know the Dogon people who live in the area west of here? They have a uniq
 | **Time Limit** | none |
 | **Town** | [Saint-Georges](Ports/port_76.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (3), [Exploration](Skills/Skill-Adventure/item_257.md) (1), [Unlocking](Skills/Skill-Adventure/item_460.md) (1) |
-| **Discovery** | [Religious Relic](Categories/category_8.md) / [Amma Statue](Quests/Other/quest_1434.md) A statue of the only god of the Dogon people who live in the south of the Sahara. Amma created the stars, the sun and the moon. It is also said that he created the earth, intersected with himself, and created spirits. Dogon Myth Rank: 1, Points: 2, Difficulty: 3, Experience Points: 180 |
+| **Discovery** | [Religious Relic](Categories/category_8.md) / [Amma Statue](Quests/Trade/quest_1434.md) A statue of the only god of the Dogon people who live in the south of the Sahara. Amma created the stars, the sun and the moon. It is also said that he created the earth, intersected with himself, and created spirits. Dogon Myth Rank: 1, Points: 2, Difficulty: 3, Experience Points: 180 |
 | **Reward/Advance** | Reward: 27,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | African god amulet, request letter *5 |

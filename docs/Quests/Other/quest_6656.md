@@ -21,7 +21,7 @@ Landed on the Colorado Plateau. Near the campsite.
 | **Time Limit** | none |
 | **Town** | [Grand Cayman](Ports/port_114.md), [Trujillo](Ports/port_115.md), [Willemstad](Ports/port_119.md), [Caracas](Ports/port_120.md), [Cayenne](Ports/port_111.md), [Pernambuco](Ports/port_112.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (8), [Biology](Skills/Skill-Adventure/item_434.md) (8) |
-| **Discovery** | [Small Creatures](Categories/category_13.md) / [Purple-spotted Turtle](Quests/Other/quest_3710.md) A turtle that lives in the Pascagoula River in the Mississippi basin. The carapace has spike-like protrusions and is mottled with yellow or orange. Rank: 2, Difficulty: 8, Experience Points: 300 |
+| **Discovery** | [Small Creatures](Categories/category_13.md) / [Purple-spotted Turtle](Quests/Trade/quest_3710.md) A turtle that lives in the Pascagoula River in the Mississippi basin. The carapace has spike-like protrusions and is mottled with yellow or orange. Rank: 2, Difficulty: 8, Experience Points: 300 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

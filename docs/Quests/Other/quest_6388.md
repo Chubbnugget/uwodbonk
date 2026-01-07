@@ -21,7 +21,7 @@ Landed on the southwestern coast of the Gulf of Mexico. East from the giant dead
 | **Time Limit** | none |
 | **Town** | [San Francisco](Ports/port_198.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (5), [Biology](Skills/Skill-Adventure/item_434.md) (5) |
-| **Discovery** | [Plant](Categories/category_10.md) / [Horaisho](Quests/Other/quest_3466.md) A perennial plant distributed in Central America. Also known as "Montesla". Holes develop in the leaves as they grow. The holes connect to form a large notch. The fruit is also edible. Unripe fruit can be very irritating to the mouth. Rank: 2, Points: 2, Experience Points: 210 |
+| **Discovery** | [Plant](Categories/category_10.md) / [Horaisho](Quests/Trade/quest_3466.md) A perennial plant distributed in Central America. Also known as "Montesla". Holes develop in the leaves as they grow. The holes connect to form a large notch. The fruit is also edible. Unripe fruit can be very irritating to the mouth. Rank: 2, Points: 2, Experience Points: 210 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

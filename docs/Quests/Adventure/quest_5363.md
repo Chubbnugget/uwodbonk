@@ -21,7 +21,7 @@ This was a request from a gardener. Apparently there is a beautiful flower that 
 | **Time Limit** | none |
 | **Town** | [Amsterdam](Ports/port_49.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (2), [Ecological Research](Skills/Skill-Adventure/item_463.md) (4), [Biology](Skills/Skill-Adventure/item_434.md) (6) |
-| **Discovery** | [Plant](Categories/category_10.md) / [Hyacinth](Quests/Other/quest_2757.md) A flower native to West Asia. Cultivated in Ottoman Turkey. In Greek mythology, it is said that he was born from the blood of Hyacinthos, a beautiful young man who was favored by Apollo. Rank: 2, Difficulty: 5, Experience Points: 300 |
+| **Discovery** | [Plant](Categories/category_10.md) / [Hyacinth](Quests/Trade/quest_2757.md) A flower native to West Asia. Cultivated in Ottoman Turkey. In Greek mythology, it is said that he was born from the blood of Hyacinthos, a beautiful young man who was favored by Apollo. Rank: 2, Difficulty: 5, Experience Points: 300 |
 | **Reward/Advance** | Remuneration: 354,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 310 / Fame: 185 |
 | **Items Obtained** | Request letter x5 |

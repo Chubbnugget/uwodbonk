@@ -21,7 +21,7 @@ I have a request to go far to the east of India, can you do it for me? I hear th
 | **Time Limit** | none |
 | **Town** | [Calicut](Ports/port_44.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (5), [Exploration](Skills/Skill-Adventure/item_257.md) (3), [Thai-Burmese](Skills/Skills-Language/item_1975.md) |
-| **Discovery** | [Religious relic](Categories/category_8.md) / [Norashinga statue](Quests/Other/quest_1511.md) A divine beast said to have the head of a lion and the body of a human. It is believed that it was originally a divine beast called Narasimha that appears in Hindu mythology. Narasimha is the transformed form of Lord Vishnu. Statue with a lion's head Rank: 2, Points: 5, Difficulty: 5, Experience points: 280 |
+| **Discovery** | [Religious relic](Categories/category_8.md) / [Norashinga statue](Quests/Trade/quest_1511.md) A divine beast said to have the head of a lion and the body of a human. It is believed that it was originally a divine beast called Narasimha that appears in Hindu mythology. Narasimha is the transformed form of Lord Vishnu. Statue with a lion's head Rank: 2, Points: 5, Difficulty: 5, Experience points: 280 |
 | **Reward/Advance** | Remuneration: 98,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 220 / Fame: 80 |
 | **Items Obtained** | Request letter ☓4 |

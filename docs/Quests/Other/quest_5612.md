@@ -21,7 +21,7 @@ Outside the gates of Tacoma. Rocky region in the back. Exit the gate and go east
 | **Time Limit** | none |
 | **Town** | [Anping](Ports/port_171.md) |
 | **Required Skills** | [Search](Skills/Skill-Adventure/item_257.md) (10), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (10), [Unlock](Skills/Skill-Adventure/item_460.md) (10) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Ku Stick](Quests/Other/quest_2933.md) A stick carried by indigenous warriors of North America. It is decorated with feathers. It is said to be used in battles to perform a heroic act called ``counting ku'' (not killing the opponent, hitting only the opponent with a stick and leaving). Experience points have been corrected, so there may be errors. Rank: 2, Experience points: 381 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Ku Stick](Quests/Trade/quest_2933.md) A stick carried by indigenous warriors of North America. It is decorated with feathers. It is said to be used in battles to perform a heroic act called ``counting ku'' (not killing the opponent, hitting only the opponent with a stick and leaving). Experience points have been corrected, so there may be errors. Rank: 2, Experience points: 381 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

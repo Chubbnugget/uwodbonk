@@ -21,7 +21,7 @@ Upper Euphterus River *Obtained Sophia: 450 *Transmutation alchemy unlocked: Shi
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Religious Relic](Categories/category_8.md) / [Sword of Shamash](Quests/Other/quest_4010.md) Rank: 5 |
+| **Discovery** | [Religious Relic](Categories/category_8.md) / [Sword of Shamash](Quests/Trade/quest_4010.md) Rank: 5 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

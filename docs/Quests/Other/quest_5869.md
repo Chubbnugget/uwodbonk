@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Visibility](Skills/Skill-Adventure/item_458.md) (10) |
-| **Discovery** | [Weather/Phenomenon](Categories/category_19.md) / [Flying Dutchman](Quests/Other/quest_3129.md) A ghost ship that is said to appear in the sea near the Cape of Good Hope. One stormy day, the ship's captain cursed the wind, and the ship was cursed, causing it to wander forever. Cape, Pier in front of the departure station official, Rain, Probably night Rank: 4, Points: 7, Difficulty: 9, Experience points: 340 |
+| **Discovery** | [Weather/Phenomenon](Categories/category_19.md) / [Flying Dutchman](Quests/Trade/quest_3129.md) A ghost ship that is said to appear in the sea near the Cape of Good Hope. One stormy day, the ship's captain cursed the wind, and the ship was cursed, causing it to wander forever. Cape, Pier in front of the departure station official, Rain, Probably night Rank: 4, Points: 7, Difficulty: 9, Experience points: 340 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

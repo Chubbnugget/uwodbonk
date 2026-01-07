@@ -21,7 +21,7 @@ On the ocean south of Kokkola.
 | **Time Limit** | none |
 | **Town** | [Calicut](Ports/port_44.md) |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (3), [Visibility](Skills/Skill-Adventure/item_458.md) (3) |
-| **Discovery** | [Geography](Categories/category_2.md) / [Kvarken Archipelago](Quests/Other/quest_3143.md) An archipelago located in the Baltic Sea. The topography has changed due to the melting of the glaciers that once existed, resulting in complex upheavals. Rank: 1, Points: 2, Difficulty: 3, Experience Points: 130 |
+| **Discovery** | [Geography](Categories/category_2.md) / [Kvarken Archipelago](Quests/Trade/quest_3143.md) An archipelago located in the Baltic Sea. The topography has changed due to the melting of the glaciers that once existed, resulting in complex upheavals. Rank: 1, Points: 2, Difficulty: 3, Experience Points: 130 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

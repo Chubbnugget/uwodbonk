@@ -21,7 +21,7 @@ This is a request from a scholar. It seems that they want you to research famous
 | **Time Limit** | none |
 | **Town** | [San Francisco](Ports/port_198.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (15), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (17), [Chinese](Skills/Skills-Language/item_3651.md) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Golden Bottle Mei](Quests/Other/quest_3083.md) A popular novel from the Ming Dynasty. It is an extra edition of Suikoden, and has been praised for its detailed depictions that give a glimpse into the life and culture of the time. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,370 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Golden Bottle Mei](Quests/Trade/quest_3083.md) A popular novel from the Ming Dynasty. It is an extra edition of Suikoden, and has been praised for its detailed depictions that give a glimpse into the life and culture of the time. Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,370 |
 | **Reward/Advance** | Remuneration: 446,000 / Advance payment: 40,000 |
 | **Exp/Fame** | Experience points: 370 / Fame: 225 |
 | **Items Obtained** | Request letter x10 |

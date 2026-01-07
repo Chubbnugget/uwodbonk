@@ -21,7 +21,7 @@ In the city of Rio de Janeiro.
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (6), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (6) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Berimbau](Quests/Other/quest_3337.md) It seems to be a type of percussion instrument that came from Africa. It is shaped like a bow and is played by hitting the strings with a stick called a ``baketa''. The sounding board is a gourd hollowed out and dried, and there are no other decorations. Rank: 2, Points: 3, Difficulty: 6, Experience Points: 210 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Berimbau](Quests/Trade/quest_3337.md) It seems to be a type of percussion instrument that came from Africa. It is shaped like a bow and is played by hitting the strings with a stick called a ``baketa''. The sounding board is a gourd hollowed out and dried, and there are no other decorations. Rank: 2, Points: 3, Difficulty: 6, Experience Points: 210 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

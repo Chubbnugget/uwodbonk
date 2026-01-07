@@ -21,7 +21,7 @@ A former Oslo hunter doesn't seem to want to talk to anyone who doesn't show "re
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (12), [Biology](Skills/Skill-Adventure/item_434.md) (14), [Norse](Skills/Skills-Language/item_601.md) |
-| **Discovery** | [Fossil](Categories/category_5.md) / [Frozen Mammoth](Quests/Other/quest_3063.md) A frozen elephant-like creature with huge tusks. I don't know how long it's been lying here, but the meat is still fresh enough to be eaten. Rank: 5, Points: 10, Difficulty: 14, Experience Points: 1,200 |
+| **Discovery** | [Fossil](Categories/category_5.md) / [Frozen Mammoth](Quests/Trade/quest_3063.md) A frozen elephant-like creature with huge tusks. I don't know how long it's been lying here, but the meat is still fresh enough to be eaten. Rank: 5, Points: 10, Difficulty: 14, Experience Points: 1,200 |
 | **Reward/Advance** | Remuneration: 364,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience: 310 / Fame: 190 |
 | **Items Obtained** | Request letter x10 |

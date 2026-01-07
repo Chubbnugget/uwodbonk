@@ -21,7 +21,7 @@ It's a request from a nobleman in this city. Apparently he's looking for someone
 | **Time Limit** | none |
 | **Town** | [Marseille](Ports/port_10.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (1), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (1), [Italian](Skills/Skills-Language/item_422.md) (1) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [The Prince](Quests/Other/quest_3523.md) A political philosophy book written by the Florentine diplomat Niccolo Machiavelli. It was written from a realist perspective, excluding morality and religion, and argued that cruelty was necessary for a monarch. Although it was considered dangerous as a book of scheming numbers and was designated as a prohibited book, it became the origin of realist political science. Rank: 1 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [The Prince](Quests/Trade/quest_3523.md) A political philosophy book written by the Florentine diplomat Niccolo Machiavelli. It was written from a realist perspective, excluding morality and religion, and argued that cruelty was necessary for a monarch. Although it was considered dangerous as a book of scheming numbers and was designated as a prohibited book, it became the origin of realist political science. Rank: 1 |
 | **Reward/Advance** | Reward: 11,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 120 / Fame: 60 |
 | **Items Obtained** | 1 request letter |

@@ -21,7 +21,7 @@ Do you know Zheng He, the oriental navigator? Zheng He was an excellent navigato
 | **Time Limit** | none |
 | **Town** | [Jakarta](Ports/port_135.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (4), [Archaeology](Skills/Skill-Adventure/item_342.md) (6), [Malayu Tagalog](Skills/Skills-Language/item_1967.md) |
-| **Discovery** | [Historical relics](Categories/category_7.md) / [Zheng He's voyage](Quests/Other/quest_1387.md) Ming admiral [Zheng He's voyage](Quests/Other/quest_1387.md). Zheng He made seven voyages and brought back giraffes from Africa. This logbook is part of what was scattered, so it is impossible to understand all of its contents. [Zheng He's Voyage Log] (quest_1387.md) / Indicator for advancing to the Spice Islands (Edict Quest) Rank: 2, Points: 4, Difficulty: 6, Experience Points: 360 |
+| **Discovery** | [Historical relics](Categories/category_7.md) / [Zheng He's voyage](Quests/Trade/quest_1387.md) Ming admiral [Zheng He's voyage](Quests/Trade/quest_1387.md). Zheng He made seven voyages and brought back giraffes from Africa. This logbook is part of what was scattered, so it is impossible to understand all of its contents. [Zheng He's Voyage Log] (quest_1387.md) / Indicator for advancing to the Spice Islands (Edict Quest) Rank: 2, Points: 4, Difficulty: 6, Experience Points: 360 |
 | **Reward/Advance** | Reward: 25,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 220 / Fame: 70 |
 | **Items Obtained** | 5 request letters |

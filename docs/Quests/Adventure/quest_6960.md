@@ -21,7 +21,7 @@ This is a request from an adventurer in this town. It seems like he has some con
 | **Time Limit** | none |
 | **Town** | [Venice](Ports/port_30.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (7), [Biology](Skills/Skill-Adventure/item_434.md) (9), [Malayu Tagalog](Skills/Skills-Language/item_1967.md) (1) |
-| **Discovery** | [Small Creatures](Categories/category_13.md) / [Yamakagashi](Quests/Other/quest_3969.md) A snake endemic to Japan that lives near water. The body color varies greatly depending on the region and individual, but it is often seen to have alternating red and black spots. It has two types of venom, one injected through its fangs and the other released from its venom glands. Discovery card: 390 Rank: 4, Points: 7, Difficulty: 9, Experience points: 780 |
+| **Discovery** | [Small Creatures](Categories/category_13.md) / [Yamakagashi](Quests/Trade/quest_3969.md) A snake endemic to Japan that lives near water. The body color varies greatly depending on the region and individual, but it is often seen to have alternating red and black spots. It has two types of venom, one injected through its fangs and the other released from its venom glands. Discovery card: 390 Rank: 4, Points: 7, Difficulty: 9, Experience points: 780 |
 | **Reward/Advance** | Remuneration: 507,000 / Advance payment: 50,000 |
 | **Exp/Fame** | Experience points: 400 |
 | **Items Obtained** | Request letter x 7 |

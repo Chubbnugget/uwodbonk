@@ -21,7 +21,7 @@ It's a request from the bard. It seems like he wants to write a poem about the a
 | **Time Limit** | none |
 | **Town** | [Rio de Janeiro](Ports/port_122.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (8), [Exploration](Skills/Skill-Adventure/item_257.md) (6), [Unlocking](Skills/Skill-Adventure/item_460.md) (6) |
-| **Discovery** | [Religious Relics](Categories/category_8.md) / [Acula Cooking Utensils](Quests/Other/quest_1423.md) Acula were women who were engaged in religious ceremonies in the Inca Empire. They were chosen from among beautiful girls under the age of 10, regardless of their family status or lineage. The products produced by Acula supported the economic foundations of the Inca Empire. Story of a Shrine Maiden Rank: 3, Points: 8, Difficulty: 8, Experience Points: 530 |
+| **Discovery** | [Religious Relics](Categories/category_8.md) / [Acula Cooking Utensils](Quests/Trade/quest_1423.md) Acula were women who were engaged in religious ceremonies in the Inca Empire. They were chosen from among beautiful girls under the age of 10, regardless of their family status or lineage. The products produced by Acula supported the economic foundations of the Inca Empire. Story of a Shrine Maiden Rank: 3, Points: 8, Difficulty: 8, Experience Points: 530 |
 | **Reward/Advance** | Remuneration: 228,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 260 / Fame: 230 |
 | **Items Obtained** | 6 request letters |

@@ -21,7 +21,7 @@ You know what pearls are. It's a gemstone that comes from shellfish. Apparently 
 | **Time Limit** | none |
 | **Town** | [Zanzibar](Ports/port_38.md), [Aden](Ports/port_43.md), [Calicut](Ports/port_44.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (4), [Biology](Skills/Skill-Adventure/item_434.md) (6), [Persian](Skills/Skills-Language/item_591.md) |
-| **Discovery** | [Marine life](Categories/category_16.md) / [Black buttercup](Quests/Other/quest_2298.md) A large bivalve that lives in tropical seas. You can get black pearls. Since pearls are rarely found, they have been extremely valuable since ancient times. Cleopatra is said to have dissolved this black pearl in vinegar and drank it. Shell that produces gems Rank: 2, Points: 3, Difficulty: 6, Experience points: 370 |
+| **Discovery** | [Marine life](Categories/category_16.md) / [Black buttercup](Quests/Trade/quest_2298.md) A large bivalve that lives in tropical seas. You can get black pearls. Since pearls are rarely found, they have been extremely valuable since ancient times. Cleopatra is said to have dissolved this black pearl in vinegar and drank it. Shell that produces gems Rank: 2, Points: 3, Difficulty: 6, Experience points: 370 |
 | **Reward/Advance** | Reward: 99,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 150 / Fame: 85 |
 | **Items Obtained** | Pearl shell (100), request letter x6 |

@@ -21,7 +21,7 @@ An island east of Surabaya.
 | **Time Limit** | none |
 | **Town** | [Ternate](Ports/port_146.md), [Amboina](Ports/port_145.md) |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (13), [Visibility](Skills/Skill-Adventure/item_458.md) (13) |
-| **Discovery** | [Geography](Categories/category_2.md) / [Gili Trawangan](Quests/Other/quest_3676.md) A small island in the South Pacific with a beautiful coral reef. It is located at the westernmost point of the Gili Islands, which are part of the Lesser Sunda Islands. Discovery Card 253 Rank: 3, Experience Points: 506 |
+| **Discovery** | [Geography](Categories/category_2.md) / [Gili Trawangan](Quests/Trade/quest_3676.md) A small island in the South Pacific with a beautiful coral reef. It is located at the westernmost point of the Gili Islands, which are part of the Lesser Sunda Islands. Discovery Card 253 Rank: 3, Experience Points: 506 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

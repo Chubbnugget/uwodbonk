@@ -21,7 +21,7 @@ There are many epic poems that are extremely long. For example, India's Mahabhar
 | **Time Limit** | none |
 | **Town** | [London](Ports/port_23.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (4), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (6), [Turkish](Skills/Skills-Language/item_602.md) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Manas](Quests/Other/quest_3079.md) A long epic poem handed down in the Kyrgyz region. It depicts the exploits of a hero named [Manas] (quest_3079.md) and his descendants. [Manas] (quest_3079.md) It is passed down only orally by a storyteller named Chi. Rank: 3, Points: 3, Difficulty: 6 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Manas](Quests/Trade/quest_3079.md) A long epic poem handed down in the Kyrgyz region. It depicts the exploits of a hero named [Manas] (quest_3079.md) and his descendants. [Manas] (quest_3079.md) It is passed down only orally by a storyteller named Chi. Rank: 3, Points: 3, Difficulty: 6 |
 | **Reward/Advance** | Remuneration: 156,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience: 180 / Fame: 100 |
 | **Items Obtained** | 4 request letters |

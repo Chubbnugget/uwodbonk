@@ -1,6 +1,6 @@
 ---
 id: 858
-name: "\"Master carpenter's tools\""
+name: "\"\\"Master carpenter's tools\\"\""
 type:  Item
 ---
 # Master carpenter's tools

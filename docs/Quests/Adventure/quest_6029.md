@@ -21,7 +21,7 @@ I've received a request from a scholar in this city to investigate the origins o
 | **Time Limit** | none |
 | **Town** | [Saint Petersburg](Ports/port_190.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (8), [Exploration](Skills/Skill-Adventure/item_257.md) (6), [Arctic Languages](Skills/Skills-Language/item_4414.md) |
-| **Discovery** | [Religious Relics](Categories/category_8.md) / [Baptismal Robe of Holy Grand Duchess Olga](Quests/Other/quest_3218.md) The baptismal garment said to have been worn by Olga, wife of Grand Duke Igor I of Kiev, when she was baptized in Constantinople. Although it is a simple baptismal gown, it has unique embroidery. Rank: 4, Points: 9, Difficulty: 6, Experience Points: 990 |
+| **Discovery** | [Religious Relics](Categories/category_8.md) / [Baptismal Robe of Holy Grand Duchess Olga](Quests/Trade/quest_3218.md) The baptismal garment said to have been worn by Olga, wife of Grand Duke Igor I of Kiev, when she was baptized in Constantinople. Although it is a simple baptismal gown, it has unique embroidery. Rank: 4, Points: 9, Difficulty: 6, Experience Points: 990 |
 | **Reward/Advance** | Remuneration: 169,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience: 190 / Fame: 110 |
 | **Items Obtained** | Request letter*5 |

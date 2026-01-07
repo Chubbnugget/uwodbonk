@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Historical Site](Categories/category_6.md) / [Amphitheatre](Quests/Other/quest_3484.md) An ancient Greek-style open-air theater. It was built into the hill behind Halicarnassus. It is said to have been built during the time of King Mausolus. In the center of the front row of seats is an altar to the Greek god Dionysus. Rank: 5, Points: 7, Difficulty: 1 |
+| **Discovery** | [Historical Site](Categories/category_6.md) / [Amphitheatre](Quests/Trade/quest_3484.md) An ancient Greek-style open-air theater. It was built into the hill behind Halicarnassus. It is said to have been built during the time of King Mausolus. In the center of the front row of seats is an altar to the Greek god Dionysus. Rank: 5, Points: 7, Difficulty: 1 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | Mysterious Rosa Damaskena |

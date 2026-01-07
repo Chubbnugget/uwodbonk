@@ -21,7 +21,7 @@ This was a request from an architect. Since he has been contracted to design a t
 | **Time Limit** | none |
 | **Town** | [St.Petersburg](Ports/port_190.md), [Stockholm](Ports/port_31.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (9), [Visibility](Skills/Skill-Adventure/item_458.md) (7), [Greek](Skills/Skills-Language/item_604.md) |
-| **Discovery** | [Historic Site](Categories/category_6.md) / [Theater of Dionysus](Quests/Other/quest_2784.md) A theater where the Dionysia festival was held in ancient Athens. The Dionysia festival was a competition for the content of tragedies, so many Greek tragedies were performed for the first time at this theater. Rank: 4, Points: 8, Difficulty: 9, Experience Points: 640 |
+| **Discovery** | [Historic Site](Categories/category_6.md) / [Theater of Dionysus](Quests/Trade/quest_2784.md) A theater where the Dionysia festival was held in ancient Athens. The Dionysia festival was a competition for the content of tragedies, so many Greek tragedies were performed for the first time at this theater. Rank: 4, Points: 8, Difficulty: 9, Experience Points: 640 |
 | **Reward/Advance** | Remuneration: 220,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 220 / Fame: 130 |
 | **Items Obtained** | Request letter x 7 |

@@ -21,7 +21,7 @@ Anatolia is famous for Hittite iron, but since iron corrodes easily, there isn't
 | **Time Limit** | none |
 | **Town** | [Istanbul](Ports/port_78.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (4), [Archaeology](Skills/Skill-Adventure/item_342.md) (6), [Unlocking](Skills/Skill-Adventure/item_460.md) (4) |
-| **Discovery** | [Historical Relics](Categories/category_7.md) / [Bronze Ornaments](Quests/Other/quest_1403.md) Bronze ornaments excavated from the Anatolian Peninsula. It's unclear what it was used for. The Hittites, who emerged in Anatolia, eventually discovered iron-making technology. Anatolian Peninsula Bronze Rank: 2, Points: 4, Difficulty: 6, Experience Points: 360 |
+| **Discovery** | [Historical Relics](Categories/category_7.md) / [Bronze Ornaments](Quests/Trade/quest_1403.md) Bronze ornaments excavated from the Anatolian Peninsula. It's unclear what it was used for. The Hittites, who emerged in Anatolia, eventually discovered iron-making technology. Anatolian Peninsula Bronze Rank: 2, Points: 4, Difficulty: 6, Experience Points: 360 |
 | **Reward/Advance** | Remuneration: 67,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 70 |
 | **Items Obtained** | 5 request letters |

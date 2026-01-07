@@ -21,7 +21,7 @@ There are two very popular characters in the Mahabharata, and it seems difficult
 | **Time Limit** | none |
 | **Town** | [Portobello](Ports/port_110.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (15), [Archaeology](Skills/Skill-Adventure/item_342.md) (17), [Indian languages](Skills/Skills-Language/item_590.md) |
-| **Discovery** | [Historical relic](Categories/category_7.md) / [Karna's ear ring](Quests/Other/quest_3029.md) A golden ear ring said to have been worn by Karna, the hero who appears in ``Mahabharata.'' It is said that if you wear it with armor, you will gain the power of invulnerability. Popular in India Rank: 5, Points: 10, Difficulty: 15, Experience Points: 1,470 |
+| **Discovery** | [Historical relic](Categories/category_7.md) / [Karna's ear ring](Quests/Trade/quest_3029.md) A golden ear ring said to have been worn by Karna, the hero who appears in ``Mahabharata.'' It is said that if you wear it with armor, you will gain the power of invulnerability. Popular in India Rank: 5, Points: 10, Difficulty: 15, Experience Points: 1,470 |
 | **Reward/Advance** | Remuneration: 653,000 / Advance payment: 60,000 |
 | **Exp/Fame** | Experience points: 500 / Fame: 310 |
 | **Items Obtained** | Request letter x10 |

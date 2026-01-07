@@ -21,7 +21,7 @@ category: Adventure
 | **Time Limit** | none |
 | **Town** | [London](Ports/port_23.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (1), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (1), [English](Skills/Skills-Language/item_341.md) (1) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Mystery of Atlantis](Quests/Other/quest_2758.md) A book compiled by John Tradescant as part of his research into Atlantis. It provides a logical summary of everything from the mythology of Atlantis to the history of ancient Egypt and Greece, as well as the interpretation of the destruction of Atlantis from a unique perspective. Rank: 1, Points: 4, Difficulty: 3, Experience Points: 100 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Mystery of Atlantis](Quests/Trade/quest_2758.md) A book compiled by John Tradescant as part of his research into Atlantis. It provides a logical summary of everything from the mythology of Atlantis to the history of ancient Egypt and Greece, as well as the interpretation of the destruction of Atlantis from a unique perspective. Rank: 1, Points: 4, Difficulty: 3, Experience Points: 100 |
 | **Reward/Advance** | Reward: 2,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | Doctoral dissertation on navigation and one headache medicine |

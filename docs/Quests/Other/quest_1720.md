@@ -21,7 +21,7 @@ argentina basin
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Fishing](Skills/Skill-Adventure/item_339.md) (3) |
-| **Discovery** | [Marine life](Categories/category_16.md) / [King clip](Quests/Other/quest_2293.md) A huge fish that can reach up to 2 meters. They live in the deep oceans of the southern hemisphere. A type of weasel. Fishing Rank: 2, Points: 3, Difficulty: 5, Experience Points: 250 |
+| **Discovery** | [Marine life](Categories/category_16.md) / [King clip](Quests/Trade/quest_2293.md) A huge fish that can reach up to 2 meters. They live in the deep oceans of the southern hemisphere. A type of weasel. Fishing Rank: 2, Points: 3, Difficulty: 5, Experience Points: 250 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

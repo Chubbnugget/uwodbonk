@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Historical relic](Categories/category_7.md) / [Light plate of the Colossus](Quests/Other/quest_3551.md) A huge light plate that is said to have been held up in the right hand of the Colossus of Rhodes. Legend has it that it was equipped with a sophisticated mechanism that poured boiling oil on enemies to repel them. There is also a theory that a lamp was placed inside the colossus' head, and that light was emitted from both eyes. Legacy Port Town Rhodes Top right Rank: 5, Points: 8, Difficulty: 1 |
+| **Discovery** | [Historical relic](Categories/category_7.md) / [Light plate of the Colossus](Quests/Trade/quest_3551.md) A huge light plate that is said to have been held up in the right hand of the Colossus of Rhodes. Legend has it that it was equipped with a sophisticated mechanism that poured boiling oil on enemies to repel them. There is also a theory that a lamp was placed inside the colossus' head, and that light was emitted from both eyes. Legacy Port Town Rhodes Top right Rank: 5, Points: 8, Difficulty: 1 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | shining heliolite |

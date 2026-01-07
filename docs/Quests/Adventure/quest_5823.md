@@ -21,7 +21,7 @@ Poisonous snakes are scary... Gab! If there's no cure, you could end up dying. T
 | **Time Limit** | none |
 | **Town** | [Jakarta](Ports/port_135.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (9), [Biology](Skills/Skill-Adventure/item_434.md) (11), [North American languages](Skills/Skills-Language/item_4478.md) (1) |
-| **Discovery** | [Medium-sized creature](Categories/category_14.md) / [Eastern diamondback rattlesnake](Quests/Other/quest_3086.md) A huge poisonous snake that lives in dry forest areas. It has a distinctive diamond-like diamond-shaped pattern, and the largest ones can reach a total length of 240 cm. Rank: 4, Points: 6, Difficulty: 11, Experience Points: 700 |
+| **Discovery** | [Medium-sized creature](Categories/category_14.md) / [Eastern diamondback rattlesnake](Quests/Trade/quest_3086.md) A huge poisonous snake that lives in dry forest areas. It has a distinctive diamond-like diamond-shaped pattern, and the largest ones can reach a total length of 240 cm. Rank: 4, Points: 6, Difficulty: 11, Experience Points: 700 |
 | **Reward/Advance** | Remuneration: 619,000 / Advance payment: 60,000 |
 | **Exp/Fame** | Experience points: 470 / Fame: 295 |
 | **Items Obtained** | Request letter x 7 |

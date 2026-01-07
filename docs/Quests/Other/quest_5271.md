@@ -21,7 +21,7 @@ Near the stacked rocks on the north bank of the Copan River on the outskirts of 
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (12), [Archaeology](Skills/Skill-Adventure/item_342.md) (12) |
-| **Discovery** | [Historical relic](Categories/category_7.md) / [Altar relief](Quests/Other/quest_2690.md) A stone relief found at the Copan ruins. It is carved with images of the 16 kings of Copan. It depicts the passing of the scepter, a symbol of authority, from the first generation to the 16th generation. Copan River North Bank Resurvey Reward Rank: 2, Points: 8, Experience Points: 360 |
+| **Discovery** | [Historical relic](Categories/category_7.md) / [Altar relief](Quests/Trade/quest_2690.md) A stone relief found at the Copan ruins. It is carved with images of the 16 kings of Copan. It depicts the passing of the scepter, a symbol of authority, from the first generation to the 16th generation. Copan River North Bank Resurvey Reward Rank: 2, Points: 8, Experience Points: 360 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

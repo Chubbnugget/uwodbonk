@@ -21,7 +21,7 @@ Observed in the southeast Indian Ocean
 | **Time Limit** | none |
 | **Town** | [Naples](Ports/port_60.md) |
 | **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (9), [Visibility](Skills/Skill-Adventure/item_458.md) (9) |
-| **Discovery** | [Astronomy](Categories/category_18.md) / [Minami no Triangulum](Quests/Other/quest_2782.md) A constellation near Centauri. It is easy to find because the 2nd and 3rd magnitude stars form a triangle. It was first listed in a constellation map by Plancius of the Netherlands. "[Astronomy] (ref_18.md) Scholar's Observation Record" Discovery Card: 140 Rank: 2, Experience Points: 280 |
+| **Discovery** | [Astronomy](Categories/category_18.md) / [Minami no Triangulum](Quests/Trade/quest_2782.md) A constellation near Centauri. It is easy to find because the 2nd and 3rd magnitude stars form a triangle. It was first listed in a constellation map by Plancius of the Netherlands. "[Astronomy] (ref_18.md) Scholar's Observation Record" Discovery Card: 140 Rank: 2, Experience Points: 280 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 280 |
 | **Items Obtained** |  |

@@ -21,7 +21,7 @@ Let's do some more research on grizzly bears. First, let's talk to San Francisco
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (8), [Biology](Skills/Skill-Adventure/item_434.md) (10), [North American languages](Skills/Skills-Language/item_4478.md) (1) |
-| **Discovery** | [Large Creature](Categories/category_15.md) / [Ferocious Grizzly](Quests/Other/quest_3502.md) A large bear that was used as a spectacle by heartless humans. It is said to have a ferocious appearance. However, the bear ran away. It wouldn't be surprising if they returned to the city and started attacking people at any moment. Rank: 4, Points: 8, Difficulty: 3 |
+| **Discovery** | [Large Creature](Categories/category_15.md) / [Ferocious Grizzly](Quests/Trade/quest_3502.md) A large bear that was used as a spectacle by heartless humans. It is said to have a ferocious appearance. However, the bear ran away. It wouldn't be surprising if they returned to the city and started attacking people at any moment. Rank: 4, Points: 8, Difficulty: 3 |
 | **Reward/Advance** | Reward: 155,000 / Advance payment: 0 |
 | **Exp/Fame** |  |
 | **Items Obtained** | treasure chest of pursuit |

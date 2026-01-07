@@ -21,7 +21,7 @@ Theodora rose from a poor dancer to become the Empress of the Byzantine Empire. 
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (11), [Archaeology](Skills/Skill-Adventure/item_342.md) (13), [Turkish](Skills/Skills-Language/item_602.md) |
-| **Discovery** | [Relic](Categories/category_17.md) / [Women of the Byzantine Empire](Quests/Other/quest_2576.md) Theodora, who rose from a poor dancer to become the Empress of the Byzantine Empire, was an intelligent person who supported the emperor as an excellent advisor. Experience points when discovered: 2820 Discovery fame: 1125 Experience points: 2,820 |
+| **Discovery** | [Relic](Categories/category_17.md) / [Women of the Byzantine Empire](Quests/Trade/quest_2576.md) Theodora, who rose from a poor dancer to become the Empress of the Byzantine Empire, was an intelligent person who supported the emperor as an excellent advisor. Experience points when discovered: 2820 Discovery fame: 1125 Experience points: 2,820 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 2,820 / Fame: 1,125 |
 | **Items Obtained** | Dancer's shoes (wooing +2, socializing +1) |

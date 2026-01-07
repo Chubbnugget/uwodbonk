@@ -21,7 +21,7 @@ Although he cannot reveal the client's name, he says he is looking for a very ra
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md), [Jakarta](Ports/port_135.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (9), [Biology](Skills/Skill-Adventure/item_434.md) (11), [Chinese](Skills/Skills-Language/item_3651.md) (1) |
-| **Discovery** | [Medium-sized creature](Categories/category_14.md) / [Pekingese](Quests/Other/quest_3233.md) A small dog called "Jinba". It has been a beloved pet in the Chinese imperial court for many years. Those with yellow fur are said to be especially prized. It is said that taking a puppy out of the royal court is punishable by death, but in reality, substandard puppies are brought to the market, and some people secretly keep them. Higher dog than ever Rank: 5, Points: 9, Difficulty: 11, Experience points: 830 |
+| **Discovery** | [Medium-sized creature](Categories/category_14.md) / [Pekingese](Quests/Trade/quest_3233.md) A small dog called "Jinba". It has been a beloved pet in the Chinese imperial court for many years. Those with yellow fur are said to be especially prized. It is said that taking a puppy out of the royal court is punishable by death, but in reality, substandard puppies are brought to the market, and some people secretly keep them. Higher dog than ever Rank: 5, Points: 9, Difficulty: 11, Experience points: 830 |
 | **Reward/Advance** | Remuneration: 421,000 / Advance payment: 40,000 |
 | **Exp/Fame** | Experience points: 350 / Fame: 215 |
 | **Items Obtained** | Request letter x9 |

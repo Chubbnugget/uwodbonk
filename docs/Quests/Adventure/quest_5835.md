@@ -21,7 +21,7 @@ Do you like cats? I like it. ...Well, either is fine. I've received a request to
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (5), [Biology](Skills/Skill-Adventure/item_434.md) (7), [Arctic languages](Skills/Skills-Language/item_4414.md) |
-| **Discovery** | [Medium-sized creature](Categories/category_14.md) / [Siberian](Quests/Other/quest_3132.md) A cat named after Siberia. Their rounded bodies are covered with long hair, and as their name suggests, they are adapted to the extremely cold Siberian region. Rank: 3, Points: 5, Difficulty: 7, Experience Points: 480 |
+| **Discovery** | [Medium-sized creature](Categories/category_14.md) / [Siberian](Quests/Trade/quest_3132.md) A cat named after Siberia. Their rounded bodies are covered with long hair, and as their name suggests, they are adapted to the extremely cold Siberian region. Rank: 3, Points: 5, Difficulty: 7, Experience Points: 480 |
 | **Reward/Advance** | Remuneration: 296,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience: 270 / Fame: 160 |
 | **Items Obtained** | 5 request letters |

@@ -21,7 +21,7 @@ It is said that in ancient times, many coins were produced on the island of Rhod
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (6), [Archaeology](Skills/Skill-Adventure/item_342.md) (8), [Greek](Skills/Skills-Language/item_604.md) (1) |
-| **Discovery** | [Historical relic](Categories/category_7.md) / [Coin with the sun god engraved on it](Quests/Other/quest_3441.md) A coin manufactured on the ancient island of Rhodes. It is said that many coins were produced that were engraved with Helios, the sun god who was deeply worshiped along with the rose, which is the island's symbol. Rank: 2, Points: 5, Difficulty: 8, Experience Points: 300 |
+| **Discovery** | [Historical relic](Categories/category_7.md) / [Coin with the sun god engraved on it](Quests/Trade/quest_3441.md) A coin manufactured on the ancient island of Rhodes. It is said that many coins were produced that were engraved with Helios, the sun god who was deeply worshiped along with the rose, which is the island's symbol. Rank: 2, Points: 5, Difficulty: 8, Experience Points: 300 |
 | **Reward/Advance** | Reward: 85,000 / Advance payment: 0 |
 | **Exp/Fame** |  |
 | **Items Obtained** | 6 request letters |

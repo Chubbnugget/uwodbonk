@@ -21,7 +21,7 @@ Landed on the west coast of North America. Near the stacked rocks.
 | **Time Limit** | none |
 | **Town** | [Genoa](Ports/port_11.md) |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (9), [Visibility](Skills/Skill-Adventure/item_458.md) (9) |
-| **Discovery** | [Geography](Categories/category_2.md) / [Badlands](Quests/Other/quest_3395.md) A vast wasteland located in central North America. The rocky mountains have been eroded by water and wind over hundreds of thousands of years, forming a unique topography. Rank: 2, Points: 5, Difficulty: 9, Experience Points: 300 |
+| **Discovery** | [Geography](Categories/category_2.md) / [Badlands](Quests/Trade/quest_3395.md) A vast wasteland located in central North America. The rocky mountains have been eroded by water and wind over hundreds of thousands of years, forming a unique topography. Rank: 2, Points: 5, Difficulty: 9, Experience Points: 300 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

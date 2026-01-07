@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Historical Relics](Categories/category_7.md) / [Wooden tablets of laws and regulations](Quests/Other/quest_4006.md) A wooden tablet containing a description of Japan's oldest Ritsuryo code, the Asukayomihara Rei. Asukayoshi Mihara Rei was Japan's first legal code, enacted by Emperor Tenmu and Emperor Jito, and was the first to systematically develop criminal and civil laws. Rank: 5, Experience Points: 1,500 |
+| **Discovery** | [Historical Relics](Categories/category_7.md) / [Wooden tablets of laws and regulations](Quests/Trade/quest_4006.md) A wooden tablet containing a description of Japan's oldest Ritsuryo code, the Asukayomihara Rei. Asukayoshi Mihara Rei was Japan's first legal code, enacted by Emperor Tenmu and Emperor Jito, and was the first to systematically develop criminal and civil laws. Rank: 5, Experience Points: 1,500 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 3,000 |
 | **Items Obtained** |  |

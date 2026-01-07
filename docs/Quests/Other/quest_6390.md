@@ -21,7 +21,7 @@ Landed on the east coast of North America. East from Table Rock.
 | **Time Limit** | none |
 | **Town** | [Hangzhou](Ports/port_173.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (11), [Biology](Skills/Skill-Adventure/item_434.md) (11) |
-| **Discovery** | [Fossil](Categories/category_5.md) / [Bone of a lizard with a flat head](Quests/Other/quest_3472.md) The bones of a large lizard-like creature found in eastern North America. It is characterized by a flat skull. The bones have sharp teeth. Rank: 2, Points: 7, Difficulty: 11, Experience Points: 340 |
+| **Discovery** | [Fossil](Categories/category_5.md) / [Bone of a lizard with a flat head](Quests/Trade/quest_3472.md) The bones of a large lizard-like creature found in eastern North America. It is characterized by a flat skull. The bones have sharp teeth. Rank: 2, Points: 7, Difficulty: 11, Experience Points: 340 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

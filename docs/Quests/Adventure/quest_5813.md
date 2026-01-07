@@ -21,7 +21,7 @@ You have investigated the Ustyurt Plateau before. Then you've seen giant rocks w
 | **Time Limit** | none |
 | **Town** | [Saint Petersburg](Ports/port_190.md) |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (7), [Visibility](Skills/Skill-Adventure/item_458.md) (5), [Turkish](Skills/Skills-Language/item_602.md) |
-| **Discovery** | [Geography](Categories/category_2.md) / [Bosjira](Quests/Other/quest_3088.md) A strangely shaped rocky mountain that exists on the Ustyurt plateau. Meaning "white valley". There are white layers protected by lime and layers that are not. Rank: 2, Points: 4, Difficulty: 7, Experience Points: 300 |
+| **Discovery** | [Geography](Categories/category_2.md) / [Bosjira](Quests/Trade/quest_3088.md) A strangely shaped rocky mountain that exists on the Ustyurt plateau. Meaning "white valley". There are white layers protected by lime and layers that are not. Rank: 2, Points: 4, Difficulty: 7, Experience Points: 300 |
 | **Reward/Advance** | Remuneration: 214,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 220 / Fame: 125 |
 | **Items Obtained** | Request letter*4 |

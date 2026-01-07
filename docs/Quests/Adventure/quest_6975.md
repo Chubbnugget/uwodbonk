@@ -21,7 +21,7 @@ Apparently there are many regions where cows are worshiped as sacred animals. I'
 | **Time Limit** | none |
 | **Town** | [Seville](Ports/port_4.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (12), [Visibility](Skills/Skill-Adventure/item_458.md) (10), [Chinese](Skills/Skills-Language/item_3651.md) (1) |
-| **Discovery** | [Religious Architecture](Categories/category_9.md) / [Huangling Temple](Quests/Other/quest_3983.md) A temple on the bank of the Yangtze River. It is a shrine dedicated to the sacred cow that helped King Yu of the Xia Dynasty control floods, and its history dates back to the Spring and Autumn Period. It was originally called ``Yellow Niu Temple'' after the origin of its construction. Discovery Card: 550 Rank: 5, Points: 10, Difficulty: 12, Experience Points: 1,100 |
+| **Discovery** | [Religious Architecture](Categories/category_9.md) / [Huangling Temple](Quests/Trade/quest_3983.md) A temple on the bank of the Yangtze River. It is a shrine dedicated to the sacred cow that helped King Yu of the Xia Dynasty control floods, and its history dates back to the Spring and Autumn Period. It was originally called ``Yellow Niu Temple'' after the origin of its construction. Discovery Card: 550 Rank: 5, Points: 10, Difficulty: 12, Experience Points: 1,100 |
 | **Reward/Advance** | Remuneration: 570,000 / Advance payment: 60,000 |
 | **Exp/Fame** | Experience points: 660 |
 | **Items Obtained** | Request letter x8 |

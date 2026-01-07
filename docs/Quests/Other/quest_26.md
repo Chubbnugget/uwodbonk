@@ -21,7 +21,7 @@ Landed on the southwest coast of Africa. north end.
 | **Time Limit** | none |
 | **Town** | [Seville](Ports/port_4.md), [Naples](Ports/port_60.md), [Athens](Ports/port_28.md) |
 | **Required Skills** | [Religious Studies](Skills/Skill-Adventure/item_340.md) (6), [Exploration](Skills/Skill-Adventure/item_257.md) (6) |
-| **Discovery** | [Religious Relic](Categories/category_8.md) / [Nyame Statue](Quests/Other/quest_1508.md) A statue of the supreme god worshiped in West Africa. Because it is widely believed, it has many other names. Nyame first lived on earth, but it is said that he shunned humans and ascended to the sky. There are many similar myths. African God Statue Map Rank: 1, Points: 2, Difficulty: 6, Experience Points: 170 |
+| **Discovery** | [Religious Relic](Categories/category_8.md) / [Nyame Statue](Quests/Trade/quest_1508.md) A statue of the supreme god worshiped in West Africa. Because it is widely believed, it has many other names. Nyame first lived on earth, but it is said that he shunned humans and ascended to the sky. There are many similar myths. African God Statue Map Rank: 1, Points: 2, Difficulty: 6, Experience Points: 170 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | african god talisman |

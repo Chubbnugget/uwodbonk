@@ -21,7 +21,7 @@ You've gotten quite used to researching the creatures of the southeastern contin
 | **Time Limit** | none |
 | **Town** | [Jakarta](Ports/port_135.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (5), [Biology](Skills/Skill-Adventure/item_434.md) (7), [Oceanian languages](Skills/Skills-Language/item_2277.md) |
-| **Discovery** | [Birds](Categories/category_12.md) / [Kakapo](Quests/Other/quest_1909.md) A bird that means "night parrot" in the local language. They cannot fly and become active at dusk. Night parrot Experience value when discovered 462 Discovery card experience value 231 Rank: 3, Points: 7, Difficulty: 7, Experience value: 462 |
+| **Discovery** | [Birds](Categories/category_12.md) / [Kakapo](Quests/Trade/quest_1909.md) A bird that means "night parrot" in the local language. They cannot fly and become active at dusk. Night parrot Experience value when discovered 462 Discovery card experience value 231 Rank: 3, Points: 7, Difficulty: 7, Experience value: 462 |
 | **Reward/Advance** | Remuneration: 112,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience points: 320 / Fame: 210 |
 | **Items Obtained** | Request letter *6 |

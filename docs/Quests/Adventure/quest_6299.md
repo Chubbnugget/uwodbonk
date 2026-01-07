@@ -21,7 +21,7 @@ A request has come from a certain important person. He seems to be quite concern
 | **Time Limit** | none |
 | **Town** | [Alexandria](Ports/port_63.md), [Istanbul](Ports/port_78.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (15), [Visibility](Skills/Skill-Adventure/item_458.md) (13), [Arabic](Skills/Skills-Language/item_440.md) |
-| **Discovery** | [Historical site](Categories/category_6.md) / [Alhambra](Quests/Other/quest_3402.md) A palace located on a hill on the outskirts of Granada, the ancient capital of Spain. It is said that the name originates from a fort built in the 9th century by the Moors, who once ruled this area. After the Reconquista, it became a summer resort for Holy Roman Emperor Charles V, and was renovated to eliminate Islamic elements. Rank: 5, Points: 10, Difficulty: 15, Experience Points: 1,290 |
+| **Discovery** | [Historical site](Categories/category_6.md) / [Alhambra](Quests/Trade/quest_3402.md) A palace located on a hill on the outskirts of Granada, the ancient capital of Spain. It is said that the name originates from a fort built in the 9th century by the Moors, who once ruled this area. After the Reconquista, it became a summer resort for Holy Roman Emperor Charles V, and was renovated to eliminate Islamic elements. Rank: 5, Points: 10, Difficulty: 15, Experience Points: 1,290 |
 | **Reward/Advance** | Remuneration: 181,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience points: 200 / Fame: 100 |
 | **Items Obtained** | 10 request letters |

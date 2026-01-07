@@ -21,7 +21,7 @@ This is a request from a resident of Inhambane. I picked up an injured monkey an
 | **Time Limit** | none |
 | **Town** | [Tunis](Ports/port_46.md), [Naples](Ports/port_60.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (1), [Biology](Skills/Skill-Adventure/item_434.md) (3), [Swahili](Skills/Skills-Language/item_426.md) |
-| **Discovery** | [Small Creatures](Categories/category_13.md) / [Giant Galago](Quests/Other/quest_3371.md) A type of small monkey that often lives in the forests of southern Africa. It is characterized by a long, bushy tail. They are nocturnal and often sleep hidden in trees or in tree hollows during the day. They are omnivorous, eating insects, fruits, small birds and their eggs, flowers, and seeds. Rank: 2, Points: 2, Difficulty: 3, Experience Points: 230 |
+| **Discovery** | [Small Creatures](Categories/category_13.md) / [Giant Galago](Quests/Trade/quest_3371.md) A type of small monkey that often lives in the forests of southern Africa. It is characterized by a long, bushy tail. They are nocturnal and often sleep hidden in trees or in tree hollows during the day. They are omnivorous, eating insects, fruits, small birds and their eggs, flowers, and seeds. Rank: 2, Points: 2, Difficulty: 3, Experience Points: 230 |
 | **Reward/Advance** | Reward: 61,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | Request letter*2 |

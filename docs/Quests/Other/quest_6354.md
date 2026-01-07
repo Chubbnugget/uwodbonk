@@ -21,7 +21,7 @@ It seems that the Colossus of Rhodes contained relics made with extraordinary te
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (13), [Visibility](Skills/Skill-Adventure/item_458.md) (11), [Greek](Skills/Skills-Language/item_604.md) (1) |
-| **Discovery** | [Relic](Categories/category_17.md) / [Scorching Great Lantern](Quests/Other/quest_3443.md) A huge fiery vessel held by the Colossus of Rhodes. It is said that blazing flames were poured down from this vessel on ships that entered the port illegally. Treasure Hunt “Lores related to old maps” |
+| **Discovery** | [Relic](Categories/category_17.md) / [Scorching Great Lantern](Quests/Trade/quest_3443.md) A huge fiery vessel held by the Colossus of Rhodes. It is said that blazing flames were poured down from this vessel on ships that entered the port illegally. Treasure Hunt “Lores related to old maps” |
 | **Reward/Advance** | Remuneration: 0 / Advance payment: 0 |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

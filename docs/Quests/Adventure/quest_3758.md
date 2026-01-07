@@ -21,7 +21,7 @@ Another request has come from an aspiring astrologer. They want people to resear
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md), [Seville](Ports/port_4.md), [Tunis](Ports/port_46.md), [Marseille](Ports/port_10.md), [Venice](Ports/port_30.md) |
 | **Required Skills** | [Astronomy](Skills/Skill-Adventure/item_4450.md) (8), [Visibility](Skills/Skill-Adventure/item_458.md) (6), [Italian](Skills/Skills-Language/item_422.md) |
-| **Discovery** | [Astronomy](Categories/category_18.md) / [Sagittarius](Quests/Other/quest_2396.md) One of the zodiac constellations. It is said to represent Chiron, the wise centaur, ascending to heaven. In the part of the Milky Way that spans the Milky Way, there are six stars arranged like a dipper, and they are sometimes called the Milk Dipper in Europe and the South Dipper in the East. Quest “Archer aiming at Scorpio” Discovery Card 470 Rank: 5, Points: 7, Difficulty: 8, Experience Points: 940 |
+| **Discovery** | [Astronomy](Categories/category_18.md) / [Sagittarius](Quests/Trade/quest_2396.md) One of the zodiac constellations. It is said to represent Chiron, the wise centaur, ascending to heaven. In the part of the Milky Way that spans the Milky Way, there are six stars arranged like a dipper, and they are sometimes called the Milk Dipper in Europe and the South Dipper in the East. Quest “Archer aiming at Scorpio” Discovery Card 470 Rank: 5, Points: 7, Difficulty: 8, Experience Points: 940 |
 | **Reward/Advance** | Remuneration: 163,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience: 210 / Fame: 95 |
 | **Items Obtained** | Sagittarius pendant (astronomy +1, trap +1), request letter x6 |

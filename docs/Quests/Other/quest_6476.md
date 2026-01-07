@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Historic site](Categories/category_6.md) / [Head of the Colossus of Rhodes in the past](Quests/Other/quest_3550.md) A huge bronze statue of Helios, the sun god, standing in the port of Rhodes. It was built as a memorial to the city's victory after surviving a siege by the besieger Demetrius. He wears a circlet on his head that represents the sun's rays. His facial features are said to resemble those of Alexander the Great. Rank: 5, Points: 10 |
+| **Discovery** | [Historic site](Categories/category_6.md) / [Head of the Colossus of Rhodes in the past](Quests/Trade/quest_3550.md) A huge bronze statue of Helios, the sun god, standing in the port of Rhodes. It was built as a memorial to the city's victory after surviving a siege by the besieger Demetrius. He wears a circlet on his head that represents the sun's rays. His facial features are said to resemble those of Alexander the Great. Rank: 5, Points: 10 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

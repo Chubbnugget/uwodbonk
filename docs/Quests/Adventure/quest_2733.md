@@ -21,7 +21,7 @@ We have received requests for research cooperation from scholars who are researc
 | **Time Limit** | none |
 | **Town** | [Lima](Ports/port_162.md) |
 | **Required Skills** | [探索](Skills/Skill-Adventure/item_257.md) (3)、 [考古学](Skills/Skill-Adventure/item_342.md) (5)、 [朝鮮語](Skills/Skills-Language/item_3744.md) |
-| **Discovery** | [Historical Relics](Categories/category_7.md) / [Gochang Dolmen Group](Quests/Other/quest_1410.md) The reading is "Kochanshi Sekibogun". A large group of dolmens on the west coast of the Korean Peninsula. They are made of stones of various sizes, and come in a variety of forms, including table-type and base-type. The total number is said to be over 400. Regional survey request 320 experience points when discovered Discovery card experience value 160 Rank: 2, Points: 6, Difficulty: 5, Experience points: 320 |
+| **Discovery** | [Historical Relics](Categories/category_7.md) / [Gochang Dolmen Group](Quests/Trade/quest_1410.md) The reading is "Kochanshi Sekibogun". A large group of dolmens on the west coast of the Korean Peninsula. They are made of stones of various sizes, and come in a variety of forms, including table-type and base-type. The total number is said to be over 400. Regional survey request 320 experience points when discovered Discovery card experience value 160 Rank: 2, Points: 6, Difficulty: 5, Experience points: 320 |
 | **Reward/Advance** | Remuneration: 234,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 270 / Fame: 230 |
 | **Items Obtained** |  |

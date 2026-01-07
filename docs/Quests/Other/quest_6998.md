@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Religious Relic](Categories/category_8.md) / [Themis' Balance](Quests/Other/quest_4007.md) A scale that is said to have been held in the left hand of a statue of the Greek goddess Themis. It is used as a tool to measure right and wrong and is a symbol of justice and fairness. Rank: 5, Experience Points: 900 |
+| **Discovery** | [Religious Relic](Categories/category_8.md) / [Themis' Balance](Quests/Trade/quest_4007.md) A scale that is said to have been held in the left hand of a statue of the Greek goddess Themis. It is used as a tool to measure right and wrong and is a symbol of justice and fairness. Rank: 5, Experience Points: 900 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 1,800 |
 | **Items Obtained** |  |

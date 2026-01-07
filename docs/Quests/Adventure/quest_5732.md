@@ -21,7 +21,7 @@ category: Adventure
 | **Time Limit** | none |
 | **Town** | [London](Ports/port_23.md) |
 | **Required Skills** | [Search](Skills/Skill-Adventure/item_257.md) (7), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (9), [Unlock](Skills/Skill-Adventure/item_460.md) (7) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Yeti Scalp](Quests/Other/quest_3031.md) It was said to be a mysterious humanoid creature [Yeti Scalp](Quests/Other/quest_3031.md) and was worshiped locally. According to legend, he is said to be a messenger of the gods, but does he really exist? Rank: 4, Points: 6, Difficulty: 9, Experience Points: 740 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Yeti Scalp](Quests/Trade/quest_3031.md) It was said to be a mysterious humanoid creature [Yeti Scalp](Quests/Trade/quest_3031.md) and was worshiped locally. According to legend, he is said to be a messenger of the gods, but does he really exist? Rank: 4, Points: 6, Difficulty: 9, Experience Points: 740 |
 | **Reward/Advance** | Remuneration: 392,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 330 / Fame: 200 |
 | **Items Obtained** | Request letter x 7 |

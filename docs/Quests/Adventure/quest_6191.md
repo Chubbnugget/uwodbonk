@@ -21,7 +21,7 @@ You've been to a sacred place on the southern continent several times. I'd like 
 | **Time Limit** | none |
 | **Town** | [Jakarta](Ports/port_135.md) |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (12), [Visibility](Skills/Skill-Adventure/item_458.md) (10), [Oceanian languages](Skills/Skills-Language/item_2277.md) |
-| **Discovery** | [Historic Site](Categories/category_6.md) / [Mutitjulu Fountain](Quests/Other/quest_3335.md) A pond at the base of Uluru that is said to never run dry due to rainwater flowing down from the rocky mountain. There is a legend among the locals that the ancestor of the python named Kuniya transformed into a rainbow-colored snake and still lives in ponds. Rank: 5, Points: 8, Difficulty: 12, Experience Points: 1,110 |
+| **Discovery** | [Historic Site](Categories/category_6.md) / [Mutitjulu Fountain](Quests/Trade/quest_3335.md) A pond at the base of Uluru that is said to never run dry due to rainwater flowing down from the rocky mountain. There is a legend among the locals that the ancestor of the python named Kuniya transformed into a rainbow-colored snake and still lives in ponds. Rank: 5, Points: 8, Difficulty: 12, Experience Points: 1,110 |
 | **Reward/Advance** | Remuneration: 183,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience points: 200 |
 | **Items Obtained** | Request letter x8 |

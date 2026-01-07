@@ -21,7 +21,7 @@ There have been reports of giant green eggs found in the Andes Mountains. If it 
 | **Time Limit** | none |
 | **Town** | [Alexandria](Ports/port_63.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (7), [Biology](Skills/Skill-Adventure/item_434.md) (9), [Spanish](Skills/Skills-Language/item_425.md) |
-| **Discovery** | [Plant](Categories/category_10.md) / [Yareta](Quests/Other/quest_3084.md) A perennial [plant] that lives in the highlands of the Andes Mountains (ref_10.md). Each one is small, but because they grow naturally together, they look like a large clump. Rank: 4, Points: 6, Difficulty: 9, Experience Points: 710 |
+| **Discovery** | [Plant](Categories/category_10.md) / [Yareta](Quests/Trade/quest_3084.md) A perennial [plant] that lives in the highlands of the Andes Mountains (ref_10.md). Each one is small, but because they grow naturally together, they look like a large clump. Rank: 4, Points: 6, Difficulty: 9, Experience Points: 710 |
 | **Reward/Advance** | Remuneration: 371,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 320 / Fame: 190 |
 | **Items Obtained** | Request letter *8 |

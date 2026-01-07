@@ -21,7 +21,7 @@ Rumor has it that there is a bay built by a dragon near Macao. It's a pretty big
 | **Time Limit** | none |
 | **Town** | [San Francisco](Ports/port_198.md) |
 | **Required Skills** | [Geography](Skills/Skill-Adventure/item_343.md) (17), [Visibility](Skills/Skill-Adventure/item_458.md) (15), [Malayu Tagalog](Skills/Skills-Language/item_1967.md) |
-| **Discovery** | [Geography](Categories/category_2.md) / [Ha Long Bay](Quests/Other/quest_3040.md) A large bay with many small islands and beautiful scenery. Written in kanji, it means ``Gelong Bay,'' and there is a legend that it was built by a dragon. 2017.02.07 New addition Rank: 5, Points: 9, Experience points: 1,370 |
+| **Discovery** | [Geography](Categories/category_2.md) / [Ha Long Bay](Quests/Trade/quest_3040.md) A large bay with many small islands and beautiful scenery. Written in kanji, it means ``Gelong Bay,'' and there is a legend that it was built by a dragon. 2017.02.07 New addition Rank: 5, Points: 9, Experience points: 1,370 |
 | **Reward/Advance** | Remuneration: 538,000 / Advance payment: 50,000 |
 | **Exp/Fame** | Experience points: 420 / Fame: 260 |
 | **Items Obtained** | 10 request letters |

@@ -21,7 +21,7 @@ It seems that relics from the Three Kingdoms period have been found in Chongqing
 | **Time Limit** | none |
 | **Town** | [Sakai](Ports/port_179.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (3), [Archaeology](Skills/Skill-Adventure/item_342.md) (5), [Chinese](Skills/Skills-Language/item_3651.md) (1) |
-| **Discovery** | [Historical Relic](Categories/category_7.md) / [Tiger Sign](Quests/Other/quest_1376.md) A tiger-shaped tally used mainly from the Warring States period to the Han Dynasty. Used during conscription. It is said that if the tallies did not match, the soldiers could not move. Quest "Relics of the Three Kingdoms" Discovery Card: 165 Rank: 2, Points: 7, Difficulty: 5, Experience Points: 330 |
+| **Discovery** | [Historical Relic](Categories/category_7.md) / [Tiger Sign](Quests/Trade/quest_1376.md) A tiger-shaped tally used mainly from the Warring States period to the Han Dynasty. Used during conscription. It is said that if the tallies did not match, the soldiers could not move. Quest "Relics of the Three Kingdoms" Discovery Card: 165 Rank: 2, Points: 7, Difficulty: 5, Experience Points: 330 |
 | **Reward/Advance** | Remuneration: 82,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 140 / Fame: 70 |
 | **Items Obtained** | Request letter ☓4 |

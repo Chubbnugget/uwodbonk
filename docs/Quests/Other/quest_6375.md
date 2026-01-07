@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Visibility](Skills/Skill-Adventure/item_458.md) |
-| **Discovery** | [Weather/Phenomenon](Categories/category_19.md) / [Supercell](Quests/Other/quest_3458.md) Super-sized cumulonimbus clouds and the violent storms they cause. Heavy rain, thunder, and large amounts of hail will continue for a long period of time. The horizontally rotating air makes cumulonimbus clouds larger, and the separation of updrafts and downdrafts lengthens the duration of the storm. Occurrence time is short. It was summer. Rank: 4, Experience Points: 690 |
+| **Discovery** | [Weather/Phenomenon](Categories/category_19.md) / [Supercell](Quests/Trade/quest_3458.md) Super-sized cumulonimbus clouds and the violent storms they cause. Heavy rain, thunder, and large amounts of hail will continue for a long period of time. The horizontally rotating air makes cumulonimbus clouds larger, and the separation of updrafts and downdrafts lengthens the duration of the storm. Occurrence time is short. It was summer. Rank: 4, Experience Points: 690 |
 | **Reward/Advance** |  |
 | **Exp/Fame** | Experience points: 690 |
 | **Items Obtained** |  |

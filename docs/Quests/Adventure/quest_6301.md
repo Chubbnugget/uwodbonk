@@ -21,7 +21,7 @@ You were the one chasing the man in blue, weren't you? It seems that the adventu
 | **Time Limit** | none |
 | **Town** | [Tunis](Ports/port_46.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (11), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (13), [Arabic](Skills/Skills-Language/item_440.md) (1) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Tuareg pendant](Quests/Other/quest_3403.md) Jewelry worn by the Tuareg people, a nomadic tribe in western Sahara. made of silver. There are various forms depending on the family lineage and place of birth, and it is passed down from parent to child. It is said to be shaped like a compass that shows directions in the desert. Rank: 5, Points: 10, Difficulty: 13, Experience Points: 1,130 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Tuareg pendant](Quests/Trade/quest_3403.md) Jewelry worn by the Tuareg people, a nomadic tribe in western Sahara. made of silver. There are various forms depending on the family lineage and place of birth, and it is passed down from parent to child. It is said to be shaped like a compass that shows directions in the desert. Rank: 5, Points: 10, Difficulty: 13, Experience Points: 1,130 |
 | **Reward/Advance** | Remuneration: 578,000 / Advance payment: 50,000 |
 | **Exp/Fame** | Experience points: 450 / Fame: 280 |
 | **Items Obtained** | Request letter x10 |

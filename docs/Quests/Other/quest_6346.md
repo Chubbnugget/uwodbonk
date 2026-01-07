@@ -21,7 +21,7 @@ It is said that the island where the Great Lighthouse was built was connected to
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Archaeology](Skills/Skill-Adventure/item_342.md) (8), [Visibility](Skills/Skill-Adventure/item_458.md) (6), [Arabic](Skills/Skills-Language/item_440.md) (1) |
-| **Discovery** | [Historic Site](Categories/category_6.md) / [Heptastadion](Quests/Other/quest_3435.md) A long embankment that connects Pharos Island, where the Great Lighthouse of Alexandria was built, and the city of Alexandria, approximately 1 km apart. It is called [heptastadion] (quest_3435.md) because of its length (hepta = 7) and the unit of distance (stadion). Rank: 2, Points: 5, Difficulty: 8, Experience Points: 300 |
+| **Discovery** | [Historic Site](Categories/category_6.md) / [Heptastadion](Quests/Trade/quest_3435.md) A long embankment that connects Pharos Island, where the Great Lighthouse of Alexandria was built, and the city of Alexandria, approximately 1 km apart. It is called [heptastadion] (quest_3435.md) because of its length (hepta = 7) and the unit of distance (stadion). Rank: 2, Points: 5, Difficulty: 8, Experience Points: 300 |
 | **Reward/Advance** | Reward: 75,000 / Advance payment: 0 |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

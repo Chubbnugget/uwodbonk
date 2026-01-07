@@ -21,7 +21,7 @@ A request has been sent to you from Mr. Paracelsus, an alchemist in this city. I
 | **Time Limit** | none |
 | **Town** | [Venice](Ports/port_30.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (11), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (13), [Arabic](Skills/Skills-Language/item_440.md) (1) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Mysterious Manuscript](Quests/Other/quest_3861.md) An unidentified manuscript written on parchment. It is thought to have been created around the end of the Middle Ages, but no one has been able to decipher it because it is lined with unknown characters. In addition to letters, there are also painted designs of plants and celestial bodies, but the details are unknown. Discovery card: 430 Rank: 5, Points: 10, Difficulty: 13, Experience points: 860 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Mysterious Manuscript](Quests/Trade/quest_3861.md) An unidentified manuscript written on parchment. It is thought to have been created around the end of the Middle Ages, but no one has been able to decipher it because it is lined with unknown characters. In addition to letters, there are also painted designs of plants and celestial bodies, but the details are unknown. Discovery card: 430 Rank: 5, Points: 10, Difficulty: 13, Experience points: 860 |
 | **Reward/Advance** | Remuneration: 293,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience points: 270 |
 | **Items Obtained** | Request letter x9 |

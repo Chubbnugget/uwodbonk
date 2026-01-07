@@ -21,7 +21,7 @@ Natural creatures are born with an innate knowledge of what to do when danger ap
 | **Time Limit** | none |
 | **Town** | [Rio de Janeiro](Ports/port_122.md) |
 | **Required Skills** | [Ecological research](Skills/Skill-Adventure/item_463.md) (4), [Biology](Skills/Skill-Adventure/item_434.md) (6), [Mayan languages](Skills/Skills-Language/item_1677.md) |
-| **Discovery** | [Large creature](Categories/category_15.md) / [Tapir](Quests/Other/quest_2231.md) It is characterized by a mane that grows from its head to its shoulders. They are good swimmers and will escape into the water if attacked. It eats leaves, fruits, and aquatic plants. Dealing with danger Rank: 2, Points: 4, Difficulty: 6, Experience points: 380 |
+| **Discovery** | [Large creature](Categories/category_15.md) / [Tapir](Quests/Trade/quest_2231.md) It is characterized by a mane that grows from its head to its shoulders. They are good swimmers and will escape into the water if attacked. It eats leaves, fruits, and aquatic plants. Dealing with danger Rank: 2, Points: 4, Difficulty: 6, Experience points: 380 |
 | **Reward/Advance** | Remuneration: 83,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 225 / Fame: 80 |
 | **Items Obtained** | 6 request letters |

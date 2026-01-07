@@ -21,7 +21,7 @@ Inside the Roman church
 | **Time Limit** | none |
 | **Town** | [Lisbon](Ports/port_2.md), [Venice](Ports/port_30.md) |
 | **Required Skills** | [Exploration](Skills/Skill-Adventure/item_257.md) (6), [Treasure Appraisal](Skills/Skill-Adventure/item_439.md) (6) |
-| **Discovery** | [Treasure](Categories/category_4.md) / [Northern Ethnic Culture](Quests/Other/quest_3354.md) A topography of Northern European culture written by Olaus Magnus, a 16th century Swedish bishop. It contains information on the lifestyle culture, nature, folklore, etc. of various parts of Northern Europe. It contains a large amount of information in 22 volumes, and includes 481 woodblock prints as illustrations. Rank: 1, Points: 5, Difficulty: 6, Experience Points: 200 |
+| **Discovery** | [Treasure](Categories/category_4.md) / [Northern Ethnic Culture](Quests/Trade/quest_3354.md) A topography of Northern European culture written by Olaus Magnus, a 16th century Swedish bishop. It contains information on the lifestyle culture, nature, folklore, etc. of various parts of Northern Europe. It contains a large amount of information in 22 volumes, and includes 481 woodblock prints as illustrations. Rank: 1, Points: 5, Difficulty: 6, Experience Points: 200 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |
