@@ -1,9 +1,9 @@
 ---
 id: 11
-name: Trading Goods (Spices)
+name: Trade Goods (Perfume)
 type: Category
 ---
-# Item Group: 交易品（香料）
+# Item Group: Trade Goods (Perfume)
 
 ## Overview
 | Attribute | Details |

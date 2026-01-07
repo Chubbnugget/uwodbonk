@@ -1,9 +1,9 @@
 ---
 id: 10
-name: Trading goods (hobby goods)
+name: Trade Goods (Sunddries)
 type: Category
 ---
-# Item Group: 交易品（嗜好品）
+# Item Group: Trade Goods (Sunddries)
 
 ## Overview
 | Attribute | Details |

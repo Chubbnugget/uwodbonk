@@ -1,9 +1,9 @@
 ---
 id: 7
-name: Trading Items (Iron Stone)
+name: Trade Goods (Minerals)
 type: Category
 ---
-# Item Group: 交易品（鉱石）
+# Item Group: Trade Goods (Minerals)
 
 ## Overview
 | Attribute | Details |

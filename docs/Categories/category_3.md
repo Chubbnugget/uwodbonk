@@ -1,9 +1,9 @@
 ---
 id: 3
-name: Trading items (food items)
+name: Trade Goods (Foodstuffs)
 type: Category
 ---
-# Item Group: 交易品（食料品）
+# Item Group: Trade Goods (Foodstuffs)
 
 ## Overview
 | Attribute | Details |

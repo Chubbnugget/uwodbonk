@@ -1,9 +1,9 @@
 ---
 id: 41
-name: Skill (combat)
+name: Skill (Battle)
 type: Category
 ---
-# Item Group: スキル（戦闘）
+# Item Group: Skills (Battle)
 
 ## Overview
 | Attribute | Details |

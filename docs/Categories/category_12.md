@@ -1,9 +1,9 @@
 ---
 id: 12
-name: Trading Goods (Spices)
+name: Trade Goods (Spices)
 type: Category
 ---
-# Item Group: 交易品（香辛料）
+# Item Group: Trade Goods (Spices)
 
 ## Overview
 | Attribute | Details |

@@ -1,9 +1,9 @@
 ---
 id: 1
-name: 交易品（繊維）
+name: Trade goods (fiber)
 type: Category
 ---
-# Item Group: 交易品（繊維）
+# Item Group: Trade goods (Fibers)
 
 ## Overview
 | Attribute | Details |

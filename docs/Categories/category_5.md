@@ -1,9 +1,9 @@
 ---
 id: 5
-name: 交易品（雑貨）
+name: Trade Goods (Misc)
 type: Category
 ---
-# Item Group: 交易品（雑貨）
+# Item Group: Trade Goods (Misc)
 
 ## Overview
 | Attribute | Details |

@@ -1,50 +1,74 @@
 // @ts-check
 
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
-/**
- * Creating a sidebar enables you to:
- - create an ordered group of docs
- - render a sidebar for each doc of that group
- - provide next/previous navigation
-
- The sidebars can be generated from the filesystem, or explicitly defined here.
-
- Create as many sidebars as you want.
-
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-skillSidebar: [
+  // This is your main sidebar that will show up for your docs
+  mySidebar: [
+    // --- QUESTS SECTION ---
     {
       type: 'category',
-      label: 'Adventure Skills',
-      link: {
-        type: 'doc',
-        id: 'Categories/39', 
-      },
-      items: [], // Leave empty or omit if there are no sub-pages
+      label: 'Quests',
+      collapsed: false,
+      items: [
+        { type: 'doc', id: 'Quests/AdventureQuest', label: 'Adventure' },
+        { type: 'doc', id: 'Quests/TradeQuest', label: 'Trade' },
+        { type: 'doc', id: 'Quests/BattleQuest', label: 'Battle' },
+        { type: 'doc', id: 'Quests/MapIndex', label: 'Maps' },
+      ],
     },
+
+    // --- TRADE GOODS SECTION ---
     {
       type: 'category',
-      label: 'Trade Skills',
-      collapsible: true,
-      collapsed: true,
-      link: {
-        type: 'doc',
-        id: 'Categories/40',
-      },
-      items: [], // Leave empty or omit if there are no sub-pages
+      label: 'Trade Goods',
+      items: [
+        { type: 'doc', id: 'Categories/1', label: 'Fibers' },
+        { type: 'doc', id: 'Categories/2', label: 'Dye' },
+        { type: 'doc', id: 'Categories/3', label: 'Foodstuffs' },
+        { type: 'doc', id: 'Categories/4', label: 'Seasonings' },
+        { type: 'doc', id: 'Categories/5', label: 'Misc' },
+        { type: 'doc', id: 'Categories/6', label: 'Medicine' },
+        { type: 'doc', id: 'Categories/7', label: 'Minerals' },
+        { type: 'doc', id: 'Categories/8', label: 'Metals' },
+        { type: 'doc', id: 'Categories/9', label: 'Alcohol' },
+        { type: 'doc', id: 'Categories/10', label: 'Sunddries' },
+        { type: 'doc', id: 'Categories/11', label: 'Perfume' },
+        { type: 'doc', id: 'Categories/12', label: 'Spices' },
+        { type: 'doc', id: 'Categories/13', label: 'Luxuries' },
+        { type: 'doc', id: 'Categories/14', label: 'Art' },
+        { type: 'doc', id: 'Categories/15', label: 'Gems' },
+        { type: 'doc', id: 'Categories/16', label: 'Weapons' },
+        { type: 'doc', id: 'Categories/17', label: 'Firearms' },
+        { type: 'doc', id: 'Categories/18', label: 'Livestock' },
+        { type: 'doc', id: 'Categories/19', label: 'Wares' },
+        { type: 'doc', id: 'Categories/20', label: 'Fabrics' },
+      ],
     },
+
+    // --- SKILLS SECTION (Your original code) ---
     {
       type: 'category',
-      label: 'Battle Skills',
-      collapsible: true,
-      collapsed: true,
-      link: {
-        type: 'doc',
-        id: 'Categories/41',
-      },
-      items: [], // Leave empty or omit if there are no sub-pages
+      label: 'Skills',
+      items: [
+        {
+          type: 'category',
+          label: 'Adventure Skills',
+          link: { type: 'doc', id: 'Categories/39' },
+          items: [], 
+        },
+        {
+          type: 'category',
+          label: 'Trade Skills',
+          link: { type: 'doc', id: 'Categories/40' },
+          items: [],
+        },
+        {
+          type: 'category',
+          label: 'Battle Skills',
+          link: { type: 'doc', id: 'Categories/41' },
+          items: [],
+        },
+      ],
     },
   ],
 };

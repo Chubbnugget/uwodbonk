@@ -1,9 +1,9 @@
 ---
 id: 15
-name: Trading Items (Gemstones)
+name: Trade Goods (Gems)
 type: Category
 ---
-# Item Group: 交易品（宝石）
+# Item Group: Trade Goods (Gems)
 
 ## Overview
 | Attribute | Details |

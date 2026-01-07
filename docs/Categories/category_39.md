@@ -1,9 +1,9 @@
 ---
 id: 39
-name: Skill (adventure)
+name: Skill (Adventure)
 type: Category
 ---
-# Item Group: スキル（冒険）
+# Item Group: Skills (Adventure)
 
 ## Overview
 | Attribute | Details |

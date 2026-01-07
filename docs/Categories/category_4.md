@@ -1,9 +1,9 @@
 ---
 id: 4
-name: 交易品（調味料）
+name: Trade Goods (Seasonings)
 type: Category
 ---
-# Item Group: 交易品（調味料）
+# Item Group: Trade Goods (Seasonings)
 
 ## Overview
 | Attribute | Details |

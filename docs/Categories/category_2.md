@@ -1,9 +1,9 @@
 ---
 id: 2
-name: Trading Goods (Dye)
+name: Trade Goods (Dye)
 type: Category
 ---
-# Item Group: 交易品（染料）
+# Item Group: Trade Goods (Dye)
 
 ## Overview
 | Attribute | Details |

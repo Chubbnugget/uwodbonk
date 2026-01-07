@@ -1,9 +1,9 @@
 ---
 id: 17
-name: Trading Items (Firearms)
+name: Trade Goods (Firearms)
 type: Category
 ---
-# Item Group: 交易品（火器）
+# Item Group: Trade Goods (Firearms)
 
 ## Overview
 | Attribute | Details |

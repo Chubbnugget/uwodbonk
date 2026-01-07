@@ -1,9 +1,9 @@
 ---
 id: 9
-name: 交易品（酒類）
+name: Trade Goods (Alcohol)
 type: Category
 ---
-# Item Group: 交易品（酒類）
+# Item Group: Trade Goods (Alcohol)
 
 ## Overview
 | Attribute | Details |

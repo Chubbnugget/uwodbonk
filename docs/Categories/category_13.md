@@ -1,9 +1,9 @@
 ---
 id: 13
-name: Trading goods (artificial goods)
+name: Trade Goods (Luxuries)
 type: Category
 ---
-# Item Group: 交易品（工芸品）
+# Item Group: Trade Goods (Luxuries)
 
 ## Overview
 | Attribute | Details |

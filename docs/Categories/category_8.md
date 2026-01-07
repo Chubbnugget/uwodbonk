@@ -1,9 +1,9 @@
 ---
 id: 8
-name: Trading products (precious metals)
+name: Trade Goods (Metals)
 type: Category
 ---
-# Item Group: 交易品（貴金属）
+# Item Group: Trade Goods (Metals)
 
 ## Overview
 | Attribute | Details |

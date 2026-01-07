@@ -1,9 +1,9 @@
 ---
 id: 18
-name: Trading Goods (Livestock)
+name: Trade Goods (Livestock)
 type: Category
 ---
-# Item Group: 交易品（家畜）
+# Item Group: Trade Goods (Livestock)
 
 ## Overview
 | Attribute | Details |

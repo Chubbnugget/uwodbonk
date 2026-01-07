@@ -1,9 +1,9 @@
 ---
 id: 14
-name: 交易品（美術品）
+name: Trade Goods (Art)
 type: Category
 ---
-# Item Group: 交易品（美術品）
+# Item Group: Trade Goods (Art)
 
 ## Overview
 | Attribute | Details |

@@ -1,9 +1,9 @@
 ---
 id: 16
-name: Trading Items (Arms)
+name: Trade Goods (Weapons)
 type: Category
 ---
-# Item Group: 交易品（武具）
+# Item Group: Trade Goods (Weapons)
 
 ## Overview
 | Attribute | Details |

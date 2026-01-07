@@ -1,9 +1,9 @@
 ---
 id: 19
-name: 交易品（工業品）
+name: Trade Goods (Wares)
 type: Category
 ---
-# Item Group: 交易品（工業品）
+# Item Group: Trade Goods (Wares)
 
 ## Overview
 | Attribute | Details |

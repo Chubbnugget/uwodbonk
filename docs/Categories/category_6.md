@@ -1,9 +1,9 @@
 ---
 id: 6
-name: Trading products (medical products)
+name: Trade Goods (Medicine)
 type: Category
 ---
-# Item Group: 交易品（医薬品）
+# Item Group: Trade Goods (Medicine)
 
 ## Overview
 | Attribute | Details |

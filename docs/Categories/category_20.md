@@ -1,9 +1,9 @@
 ---
 id: 20
-name: 交易品（織物）
+name: Trade Goods (Fabrics)
 type: Category
 ---
-# Item Group: 交易品（織物）
+# Item Group: Trade Goods (Fabrics)
 
 ## Overview
 | Attribute | Details |
