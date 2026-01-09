@@ -1,7 +1,4 @@
 # --- Configuration ---
-$MemoryLimit = 24576  # 16GB of RAM for Node
-$ProjectName = "uwodbonk" # Change this to your Cloudflare project name
-
 Write-Host "🚀 Starting Build..." -ForegroundColor Cyan
 
 # 1. Clear old build and cache to ensure a fresh start
@@ -10,5 +7,8 @@ if (Test-Path -Path ".docusaurus") { Remove-Item -Recurse -Force .docusaurus }
 
 # 2. Run the build with expanded memory=
 # We call the docusaurus binary directly through node to apply the memory flag
-$env:NODE_OPTIONS = "--max-old-space-size=$MemoryLimit"
-npx docusaurus build
+# Set memory to 20GB and enable the performance logger
+$env:NODE_OPTIONS = "--max-old-space-size=20000"
+$env:DOCUSAURUS_PERF_LOGGER = "true"
+
+npm run build
