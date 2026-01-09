@@ -10,7 +10,7 @@ const CACHE_DIR = './node_modules/.cache';
 const runBuild = () => {
     console.log("⚡ Starting Build...");
     try {
-        execSync('node --max-old-space-size=14000 node_modules/.bin/docusaurus build', { 
+        execSync('node --max-old-space-size=16000 node_modules/.bin/docusaurus build', { 
             stdio: 'inherit',
             env: { ...process.env, NODE_ENV: 'production' }
         });
