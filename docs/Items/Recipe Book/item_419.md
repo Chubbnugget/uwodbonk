@@ -1,6 +1,6 @@
 ---
 id: 419
-name: "\"\\"Sailor's Seafood Dishes\\"\""
+name: "Sailor's Seafood Dishes"
 type:  Item
 ---
 # Sailor's Seafood Dishes
@@ -22,5 +22,3 @@ import TabItem from '@theme/TabItem';
 
 ## Trade Data
 
-<Tabs>
-</Tabs>

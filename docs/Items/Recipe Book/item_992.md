@@ -1,6 +1,6 @@
 ---
 id: 992
-name: "\"\\"Ishikiri's calligraphy\\"\""
+name: "Ishikiri's calligraphy"
 type:  Item
 ---
 # Ishikiri's calligraphy
@@ -21,5 +21,3 @@ import TabItem from '@theme/TabItem';
 
 ## Trade Data
 
-<Tabs>
-</Tabs>

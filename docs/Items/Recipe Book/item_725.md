@@ -1,6 +1,6 @@
 ---
 id: 725
-name: "\"\\"Traveler's food procurement techniques\\"\""
+name: "Traveler's food procurement techniques"
 type:  Item
 ---
 # Traveler's food procurement techniques
@@ -21,5 +21,3 @@ import TabItem from '@theme/TabItem';
 
 ## Trade Data
 
-<Tabs>
-</Tabs>

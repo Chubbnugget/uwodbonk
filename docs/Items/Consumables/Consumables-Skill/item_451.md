@@ -1,6 +1,6 @@
 ---
 id: 451
-name: "\"\\"Adventurer's Notes\\"\""
+name: "Adventurer's Notes"
 type:  Item
 ---
 # Adventurer's Notes
@@ -22,5 +22,3 @@ import TabItem from '@theme/TabItem';
 
 ## Trade Data
 
-<Tabs>
-</Tabs>

@@ -1,6 +1,6 @@
 ---
 id: 860
-name: "\"\\"Steller's sea eagle feather\\"\""
+name: "Steller's sea eagle feather"
 type:  Item
 ---
 # Steller's sea eagle feather
@@ -22,5 +22,3 @@ import TabItem from '@theme/TabItem';
 
 ## Trade Data
 
-<Tabs>
-</Tabs>

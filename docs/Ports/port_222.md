@@ -1,9 +1,9 @@
 ---
 id: 222
-name: "\"\\"Xi'an\\"\""
+name: "Xi'an"
 type: Port
 ---
-# Port: 西安
+# Port: Xi'an
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

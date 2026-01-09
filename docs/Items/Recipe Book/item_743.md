@@ -1,6 +1,6 @@
 ---
 id: 743
-name: "\"\\"Staff officer's guide\\"\""
+name: "Staff officer's guide"
 type:  Item
 ---
 # Staff officer's guide
@@ -22,5 +22,3 @@ import TabItem from '@theme/TabItem';
 
 ## Trade Data
 
-<Tabs>
-</Tabs>

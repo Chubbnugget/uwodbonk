@@ -1,6 +1,6 @@
 ---
 id: 319
-name: "\"\\"Fisherman's tips: How to preserve fresh fish\\"\""
+name: "Fisherman's tips: How to preserve fresh fish"
 type:  Item
 ---
 # Fisherman's tips: How to preserve fresh fish
@@ -22,5 +22,3 @@ import TabItem from '@theme/TabItem';
 
 ## Trade Data
 
-<Tabs>
-</Tabs>

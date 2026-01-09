@@ -1,6 +1,6 @@
 ---
 id: 517
-name: "\"\\"priest's cane\\"\""
+name: "priest's cane"
 type:  Item
 ---
 # priest's cane
@@ -22,5 +22,3 @@ import TabItem from '@theme/TabItem';
 
 ## Trade Data
 
-<Tabs>
-</Tabs>

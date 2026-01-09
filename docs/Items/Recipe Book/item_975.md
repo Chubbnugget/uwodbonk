@@ -1,6 +1,6 @@
 ---
 id: 975
-name: "\"\\"How to sew an admiral's uniform\\"\""
+name: "How to sew an admiral's uniform"
 type:  Item
 ---
 # How to sew an admiral's uniform
@@ -21,5 +21,3 @@ import TabItem from '@theme/TabItem';
 
 ## Trade Data
 
-<Tabs>
-</Tabs>

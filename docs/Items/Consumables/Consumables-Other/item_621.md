@@ -1,6 +1,6 @@
 ---
 id: 621
-name: "\"\\"Special dye #4\\"\""
+name: "Special dye #4"
 type:  Item
 ---
 # Special dye #4
@@ -22,5 +22,3 @@ import TabItem from '@theme/TabItem';
 
 ## Trade Data
 
-<Tabs>
-</Tabs>
