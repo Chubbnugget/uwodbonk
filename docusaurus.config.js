@@ -35,10 +35,16 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-  future: {
-    experimental_faster: true,
+future: {
+  experimental_faster: {
+    swcJsLoader: true,
+    swcJsMinimizer: true,
+    swcHtmlMinimizer: true,
+    lightningCssMinimizer: true,
+    rspackBundler: true, // This replaces Webpack with the Rust-based bundler
+    mdxCrossCompilerCache: true,
   },
-  
+},
   presets: [
     [
       'classic',
