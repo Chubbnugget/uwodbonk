@@ -1,12 +1,6 @@
-// @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
-
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+import plugins from './plugins';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -22,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'chubbnugget', // Usually your GitHub org/user name.
   projectName: 'uwodbonk', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
@@ -36,15 +30,10 @@ const config = {
     locales: ['en'],
   },
 future: {
-  experimental_faster: {
-    swcJsLoader: true,
-    swcJsMinimizer: true,
-    swcHtmlMinimizer: true,
-    lightningCssMinimizer: true,
-    rspackBundler: true, // This replaces Webpack with the Rust-based bundler
-    mdxCrossCompilerCache: true,
-  },
+  v4: true,
+  experimental_faster: true,
 },
+  plugins: plugins,
   presets: [
     [
       'classic',
