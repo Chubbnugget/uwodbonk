@@ -17,8 +17,8 @@ This group contains the following items found in the database:
 
 | Item Name | Base Price | Acquisition Method | Origin Type |
 | :--- | :--- | :--- | :--- |
-| **[accounting](docs/Skills/Skill-Trade/item_466.md)** | `20000` | - | Other |
-| **[storage](docs/Skills/Skill-Trade/item_473.md)** | `8000` | - | Other |
+| **[Accounts](docs/Skills/Skill-Trade/item_466.md)** | `20000` | - | Other |
+| **[Storage](docs/Skills/Skill-Trade/item_473.md)** | `8000` | - | Other |
 | **[Pharmaceutical trading](docs/Skills/Skill-Trade/item_486.md)** | `15000` | - | Other |
 | **[商品知識](docs/Skills/Skill-Trade/item_3580.md)** | `100000` | - | Other |
 | **[Luxury goods transaction](docs/Skills/Skill-Trade/item_479.md)** | `30000` | - | Other |
@@ -41,7 +41,7 @@ This group contains the following items found in the database:
 | **[vigilance](docs/Skills/Skill-Trade/item_470.md)** | `2000` | - | Other |
 | **[Precious metal trading](docs/Skills/Skill-Trade/item_487.md)** | `80000` | - | Other |
 | **[body language](docs/Skills/Skill-Trade/item_468.md)** | `25000` | - | Other |
-| **[escape](docs/Skills/Skill-Trade/item_471.md)** | `10000` | - | Other |
+| **[Escape](docs/Skills/Skill-Trade/item_471.md)** | `10000` | - | Other |
 | **[運用](docs/Skills/Skill-Trade/item_469.md)** | `8000` | - | Other |
 | **[liquor trade](docs/Skills/Skill-Trade/item_478.md)** | `8000` | - | Other |
 | **[ore trading](docs/Skills/Skill-Trade/item_420.md)** | `8000` | - | Other |
@@ -50,4 +50,4 @@ This group contains the following items found in the database:
 | **[Miscellaneous goods trading](docs/Skills/Skill-Trade/item_485.md)** | `3000` | - | Other |
 | **[grocery trading](docs/Skills/Skill-Trade/item_421.md)** | `7000` | - | Other |
 | **[fragrance trading](docs/Skills/Skill-Trade/item_480.md)** | `40000` | - | Other |
-| **[spice trading](docs/Skills/Skill-Trade/item_481.md)** | `80000` | - | Other |
+| **[Spice Trading](docs/Skills/Skill-Trade/item_481.md)** | `80000` | - | Other |
