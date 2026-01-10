@@ -1,9 +1,9 @@
 ---
 id: 511
-name: shipbuilding
+name: Shipbuilding
 type:  Item
 ---
-# shipbuilding
+# Shipbuilding
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | shipbuilding |
-| **Type** | thing |
+| **Item Name** | Shipbuilding |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 25,000 |
-| **Description** | You can build a new ship at the shipyard. Learning conditions 0/0/7/total 0 Prerequisite skills Repair (3) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Ships can be built at the Shipyard. Level Requirements: 0/0/7 Prerequisite Skills: Repair (3) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

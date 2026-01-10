@@ -1,9 +1,9 @@
 ---
 id: 506
-name: surgical technique
+name: Surgery
 type:  Item
 ---
-# surgical technique
+# Surgery
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | surgical technique |
-| **Type** | thing |
+| **Item Name** | Surgery |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 60,000 |
-| **Description** | Can treat sailors injured in battle. Requires 1 water. Learning conditions 0/0/10/total 30 Prerequisite skills First aid (3) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Medical treatment for crew unjured in battle. Water is required. Level Requirements: 0/0/10 Total Level: 30 Prerequisite Skills: First Aid (3) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

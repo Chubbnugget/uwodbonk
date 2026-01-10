@@ -1,9 +1,9 @@
 ---
 id: 463
-name: ecological survey
+name: Ecology
 type:  Item
 ---
-# ecological survey
+# Ecology
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | ecological survey |
+| **Item Name** | Ecology |
 | **Type** | thing |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 3,000 |
-| **Description** | Follow and discover the ecology of plants and animals. Learning conditions 3/0/0/total 5 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Discover flora and fauna in their natural habitat. Level Requirements: 3/0/0 Total Level: 5 |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

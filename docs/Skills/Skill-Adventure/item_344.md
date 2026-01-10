@@ -1,9 +1,9 @@
 ---
 id: 344
-name: 測量
+name: Surveying
 type:  Item
 ---
-# 測量
+# Surveying
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | 測量 |
-| **Type** | thing |
+| **Item Name** | Surveying |
+| **Type** | Skill |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 8,000 |
-| **Description** | You can find out your current location by surveying the surrounding terrain. Learning conditions 2/0/0/total 5 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Survey the surroundings and define present location. Level Requirement: 2/0/0/ Total Level: 5 |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

@@ -1,6 +1,6 @@
 ---
 id: 499
-name: assault
+name: Assault
 type:  Item
 ---
 # assault
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | assault |
-| **Type** | thing |
+| **Item Name** | Assault |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 30,000 |
-| **Description** | Temporarily increases attack power in hand-to-hand combat. Acquisition conditions 0/0/12/total 25 Prerequisite skill Defense (3) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Temporary increase in Attack Power during Melee Battle. Level Requirements: 0/0/12/ Total Level: 25 Prerequisite Skills: Guard (3) |
+| **Last Updated** | 22026-01-10 09:58:31 Bear |

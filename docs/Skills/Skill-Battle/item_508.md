@@ -1,9 +1,9 @@
 ---
 id: 508
-name: lookout
+name: Lookout
 type:  Item
 ---
-# lookout
+# Lookout
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | lookout |
-| **Type** | thing |
+| **Item Name** | Lookout |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 1,000 |
-| **Description** | You can now tell the name of the captain of a ship far away. Learning conditions 0/0/1/total 5 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | You are able to know the name of the captain of a far off ship. Level Requirements: 0/0/1 Total Level: 5 |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

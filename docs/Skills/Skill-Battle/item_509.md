@@ -1,9 +1,9 @@
 ---
 id: 509
-name: laying mines
+name: Mine Laying
 type:  Item
 ---
-# laying mines
+# Mine Laying
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | laying mines |
-| **Type** | thing |
+| **Item Name** | Mine Laying |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 25,000 |
-| **Description** | You can lay mines during battle. Acquisition conditions 0/0/15/total 20 Prerequisite skills Tactics (2) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Ability to lay sea mines during battle. Level Requirements: 0/0/15 Total Level: 20 Prerequisite Skills: Tactics (2) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

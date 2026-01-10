@@ -1,9 +1,9 @@
 ---
 id: 461
-name: 行軍
+name: Marching
 type:  Item
 ---
-# 行軍
+# Marching
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | 行軍 |
-| **Type** | thing |
+| **Item Name** | Marching |
+| **Type** | Skill |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 3,000 |
-| **Description** | Reduces fatigue and bandit attack rates on land. Reduces damage inside sunken ships. Automatic effect Learning conditions 5/0/0/total 0 Prerequisite skill Supply (1) |
-| **Last Updated** | 2009-10-10 12:27:09 Saori-chan @ Guest |
-
-## Trade Data
-
+| **Description** | Curb Fatigue and rate of bandit attack on land. Slightly reduce damage in sunken ship. Level Requirements: 5/0/0 Prerequisite Skills: Provisions (1) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

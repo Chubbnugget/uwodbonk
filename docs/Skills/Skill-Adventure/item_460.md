@@ -1,9 +1,9 @@
 ---
 id: 460
-name: unlock
+name: Unlock
 type:  Item
 ---
-# unlock
+# Unlock
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | unlock |
-| **Type** | thing |
+| **Item Name** | Unlock |
+| **Type** | Skill |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 30,000 |
-| **Description** | You can unlock keys and traps placed on discovered objects. Acquisition conditions 12/0/0/total 0 Prerequisite skills Observation (1) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | The locks and traps for finding discovery items can be released. Level Requirements: 12/0/0 Prerequisite Skills: Observe (1) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

@@ -1,9 +1,9 @@
 ---
 id: 257
-name: explore
+name: Search
 type:  Item
 ---
-# explore
+# Search
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | explore |
-| **Type** | thing |
+| **Item Name** | Search |
+| **Type** | Skill |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 15,000 |
-| **Description** | You can explore and excavate the area and discover all kinds of treasures. Learning conditions 7/0/0/total 5 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | With correct location and excavation, all treasures can be found. Level Requirement: 7/0/0/ |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

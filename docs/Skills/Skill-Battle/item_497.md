@@ -1,9 +1,9 @@
 ---
 id: 497
-name: Expropriation
+name: Plunder
 type:  Item
 ---
-# Expropriation
+# Plunder
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | Expropriation |
-| **Type** | thing |
+| **Item Name** | Plunder |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 2,000 |
-| **Description** | It becomes easier to steal the enemy's belongings when winning in hand-to-hand combat or land combat. Acquisition conditions 0/0/10/total 0 Prerequisite skills Swordsmanship (5) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | After victory in hand to hand combat or a land battle, plunder your enemy's possessions. Level Requirements 0/0/10 Prerequisite Skills: Swordplay (5) |
+| **Last Updated** | 22026-01-10 09:58:31 Bear |

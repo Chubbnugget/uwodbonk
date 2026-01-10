@@ -1,9 +1,9 @@
 ---
 id: 442
-name: 貫通
+name: Penetration
 type:  Item
 ---
-# 貫通
+# Penetration
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | 貫通 |
-| **Type** | thing |
+| **Item Name** | Penetration |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 80,000 |
-| **Description** | The destructive power of cannons increases. Acquisition requirements 0/0/20/total 25 Prerequisite skills Ballistics (2) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Increases destructive capability of cannon. Level Requirements: 0/0/20 Total Level 25 Prerequisite Skills: Ballistics (2) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

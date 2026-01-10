@@ -1,9 +1,9 @@
 ---
 id: 503
-name: fire extinguishing
+name: Fire Fighting
 type:  Item
 ---
-# fire extinguishing
+# Fire Fighting
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | fire extinguishing |
-| **Type** | thing |
+| **Item Name** | Fire Fighting |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 2,000 |
-| **Description** | It can extinguish fires that occur at sea. Learning conditions 0/0/2/total 10 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Extinguish fire at sea. Level Requirements: 0/0/2 Total Level: 10 |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

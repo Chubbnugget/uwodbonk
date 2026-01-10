@@ -1,9 +1,9 @@
 ---
 id: 424
-name: rowing boat
+name: Rowing
 type:  Item
 ---
-# rowing boat
+# Rowing
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | rowing boat |
-| **Type** | thing |
+| **Item Name** | Rowing |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 5,000 |
-| **Description** | The speed of a boat with rowing power increases. Learning conditions 0/0/3/total 10 Prerequisite skill Steering (1) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Increases speed of vessels fitted with oars. Level Requirements: 0/0/3 Total Level 10 Prerequisite Skill: Steering (1) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

@@ -1,9 +1,9 @@
 ---
 id: 498
-name: defense
+name: Guard
 type:  Item
 ---
-# defense
+# Guard
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | defense |
-| **Type** | thing |
+| **Item Name** | Guard |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 5,000 |
-| **Description** | Temporarily increases defense power in hand-to-hand combat. Acquisition conditions 0/0/5/total 10 Prerequisite skills Swordsmanship (2) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Temporary increase in Defense Power during Melee Battle. Acquisition conditions 0/0/5/ Total Level: 10 Prerequisite Skills: Swordplay (2) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

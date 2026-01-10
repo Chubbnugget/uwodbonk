@@ -1,9 +1,9 @@
 ---
 id: 423
-name: 採集
+name: Collection
 type:  Item
 ---
-# 採集
+# Collection
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | 採集 |
-| **Type** | thing |
+| **Item Name** | Collection |
+| **Type** | Skill |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 4,000 |
-| **Description** | You can collect various materials and items. Acquisition conditions 7/0/0/total 5 Prerequisite skills Exploration (2) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | A variety of materials and goods can be gathered. Level Requirements: 7/0/0 Prerequisite Skills: Search (2) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

@@ -1,9 +1,9 @@
 ---
 id: 360
-name: rescue
+name: Rescue
 type:  Item
 ---
-# rescue
+# Rescue
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | rescue |
-| **Type** | thing |
+| **Item Name** | Rescue |
+| **Type** | Skill |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 8,000 |
-| **Description** | You can rescue fleet members who are unable to navigate. Learning conditions 3/0/0/total 0 |
-| **Last Updated** | 2005-07-12 21:43:15 When |
-
-## Trade Data
-
+| **Description** | Can rescue a Fleet Member that cannot sail or Sailors that have fallen overboard. Level Requirement: 3/0/0 |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

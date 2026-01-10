@@ -16,6 +16,3 @@ import TabItem from '@theme/TabItem';
 | **Type** | thing |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Last Updated** | 2009-11-01 17:48:46 Phone@Administrator |
-
-## Trade Data
-

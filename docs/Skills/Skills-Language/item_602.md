@@ -1,9 +1,9 @@
 ---
 id: 602
-name: turkish
+name: Turkish
 type:  Item
 ---
-# turkish
+# Turkish
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | turkish |
-| **Type** | thing |
+| **Item Name** | Turkish |
+| **Type** | Skill |
 | **Group** | [Skills (Language)](docs/Categories/category_42.md) |
 | **Purchase Price** | 10,000 |
-| **Description** | Conversation and reading books are possible. Used around Türkiye. |
-| **Last Updated** | 2005-07-23 19:54:03 When |
-
-## Trade Data
-
+| **Description** | Ability to converse and read books. Used around Turkey. |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

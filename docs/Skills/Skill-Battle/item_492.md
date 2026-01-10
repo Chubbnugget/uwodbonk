@@ -1,9 +1,9 @@
 ---
 id: 492
-name: gunnery
+name: Gunnery
 type:  Item
 ---
-# gunnery
+# Gunnery
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | gunnery |
-| **Type** | thing |
+| **Item Name** | Gunnery |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 20,000 |
-| **Description** | Cannons load faster. Cannons are less likely to malfunction. Learning conditions 0/0/10/total 0 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Cannon loads become quicker, autocannons and flamethrowers less prone to break down. Level Requirements: 0/0/10 |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

@@ -1,9 +1,9 @@
 ---
 id: 504
-name: first aid
+name: First Aid
 type:  Item
 ---
-# first aid
+# First Aid
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | first aid |
-| **Type** | thing |
+| **Item Name** | First Aid |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 2,000 |
-| **Description** | Reduces the number of crew members due to injuries during battles and exploration. Learning conditions 0/0/3/total 0 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Lowers the loss of crew due to injury during battle or exploration. Level Requirements: 0/0/3 |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

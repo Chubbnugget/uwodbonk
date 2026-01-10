@@ -1,9 +1,9 @@
 ---
 id: 501
-name: tactics
+name: Tactics
 type:  Item
 ---
-# tactics
+# Tactics
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | tactics |
-| **Type** | thing |
+| **Item Name** | Tactics |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 10,000 |
-| **Description** | You can increase your attack power and defense power in hand-to-hand combat.Learning conditions: 0/0/12/total 20 Prerequisite skills: Command (3) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Can increase Attack and Defense Power during Melee Battle. Level Requirements: 0/0/12 Total Level: 20 Prerequisite Skills: Leadership (3) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

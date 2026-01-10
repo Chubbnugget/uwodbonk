@@ -1,9 +1,9 @@
 ---
 id: 459
-name: observation
+name: Observe
 type:  Item
 ---
-# observation
+# Observe
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | observation |
-| **Type** | thing |
+| **Item Name** | Observe |
+| **Type** | Skill |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 2,000 |
-| **Description** | You can identify where something is likely to be. Acquisition conditions 1/0/0/total 5 Prerequisite skills Exploration (1) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | You can specify a place that seems to have something. Level Requirements: 1/0/0 Total Level: 5 Prerequisite Skills: Search (1) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

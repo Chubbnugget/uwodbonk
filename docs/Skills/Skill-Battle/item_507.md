@@ -1,9 +1,9 @@
 ---
 id: 507
-name: steering
+name: Steering
 type:  Item
 ---
-# steering
+# Steering
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | steering |
+| **Item Name** | Steering |
 | **Type** | thing |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 1,000 |
-| **Description** | Increases ship turning speed. Additionally, damage from mines can be reduced. Learning conditions 0/0/1/total 0 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Increases ship Turning Speed. Also lessens damage from sea mines, etc. Level Requirements: 0/0/1 |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

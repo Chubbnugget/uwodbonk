@@ -1,9 +1,9 @@
 ---
 id: 342
-name: archeology
+name: Archeology
 type:  Item
 ---
-# archeology
+# Archeology
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | archeology |
-| **Type** | thing |
+| **Item Name** | Archeology |
+| **Type** | Skill |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 3,000 |
-| **Description** | You can collect historical information and appraise discovered objects. Learning conditions 3/0/0/total 0 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Appraisal of discovery items can be made on collection of historical reports. Level Requirement: 3/0/0/ |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

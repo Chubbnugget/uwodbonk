@@ -13,11 +13,8 @@ import TabItem from '@theme/TabItem';
 | Attribute | Details |
 | :--- | :--- |
 | **Item Name** | Pathology |
-| **Type** | thing |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 4,000 |
-| **Description** | It can treat epidemics that occur at sea. Learning conditions 0/0/5/total 10 Prerequisite skills First aid (2) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Medical treatment for outbreaks of scurvy or infectious disease at sea. Level Requirments: 0/0/5 Total Level: 10 Prerequisite Skills: First Aid (2) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

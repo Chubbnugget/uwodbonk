@@ -1,9 +1,9 @@
 ---
 id: 502
-name: repair
+name: Repair
 type:  Item
 ---
-# repair
+# Repair
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | repair |
-| **Type** | thing |
+| **Item Name** | Repair |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 8,000 |
-| **Description** | You can repair your ship using materials. Learning conditions 0/0/3/total 10 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Timber can be used to repair ships. Level Requirements: 0/0/3 Total Level: 10 |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

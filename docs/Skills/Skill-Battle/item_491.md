@@ -1,9 +1,9 @@
 ---
 id: 491
-name: avoidance
+name: Evasion
 type:  Item
 ---
-# avoidance
+# Evasion
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | avoidance |
-| **Type** | thing |
+| **Item Name** | Evasion |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 20,000 |
-| **Description** | During battle, enemy fire will be less likely to hit you. Learning conditions 0/0/15/total 20 Prerequisite skills Rowing (3) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Makes it difficult for enemy bombs to strike during battle. Level Requirements: 0/0/15/Total Level: 20 Prerequisite Skills: Rowing (1) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

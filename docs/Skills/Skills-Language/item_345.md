@@ -1,9 +1,9 @@
 ---
 id: 345
-name: portuguese
+name: Portuguese
 type:  Item
 ---
-# portuguese
+# Portuguese
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | portuguese |
-| **Type** | thing |
+| **Item Name** | Portuguese |
+| **Type** | Skill |
 | **Group** | [Skills (Language)](docs/Categories/category_42.md) |
 | **Purchase Price** | 1,000 |
-| **Description** | Conversation and reading books are possible. Used near Iberia. |
-| **Last Updated** | 2005-03-21 19:45:32 System |
-
-## Trade Data
-
+| **Description** | Ability to converse and read books. Used near Iberia. |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

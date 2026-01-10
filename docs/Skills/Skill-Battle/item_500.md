@@ -1,9 +1,9 @@
 ---
 id: 500
-name: shooting
+name: Gunfire
 type:  Item
 ---
-# shooting
+# Gunfire
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | shooting |
-| **Type** | thing |
+| **Item Name** | Gunfire |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 5,000 |
-| **Description** | In hand-to-hand combat, you can lower the enemy's attack and defense power. Learning conditions 0/0/3/total 20 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Decrease the opponent's attack and defense power during Melee Battles. Level Requirements: 0/0/3 Total Level: 20 |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

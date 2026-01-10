@@ -1,9 +1,9 @@
 ---
 id: 590
-name: Indian languages
+name: Indian Languages
 type:  Item
 ---
-# Indian languages
+# Indian Languages
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | Indian languages |
-| **Type** | thing |
+| **Item Name** | Indian Languages |
+| **Type** | Skill |
 | **Group** | [Skills (Language)](docs/Categories/category_42.md) |
 | **Purchase Price** | 30,000 |
 | **Description** | Conversation and reading books are possible. Widely used in India. |
-| **Last Updated** | 2005-07-11 19:54:22 When |
-
-## Trade Data
-
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

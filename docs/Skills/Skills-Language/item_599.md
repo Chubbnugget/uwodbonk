@@ -1,9 +1,9 @@
 ---
 id: 599
-name: dutch
+name: Dutch
 type:  Item
 ---
-# dutch
+# Dutch
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | dutch |
-| **Type** | thing |
+| **Item Name** | Dutch |
+| **Type** | Skill |
 | **Group** | [Skills (Language)](docs/Categories/category_42.md) |
 | **Purchase Price** | 1,000 |
-| **Description** | Conversation and reading books are possible. Used in northern Flanders. |
-| **Last Updated** | 2005-05-08 22:23:48 Phone@Administrator |
-
-## Trade Data
-
+| **Description** | Ability to converse and read books. Used in northern Flanders. |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

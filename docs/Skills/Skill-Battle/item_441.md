@@ -1,6 +1,6 @@
 ---
 id: 441
-name: leadership
+name: Leadership
 type:  Item
 ---
 # leadership
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | leadership |
-| **Type** | thing |
+| **Item Name** | Leadership |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 5,000 |
-| **Description** | Suppress fights and rebellions among sailors. Learning conditions 0/0/5/total 10 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Alleviation of issues with the crew such as disorder, fighting and mutiny. Level Requirements: 0/0/5 Total Level 10 |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

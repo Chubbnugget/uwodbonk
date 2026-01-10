@@ -13,11 +13,8 @@ import TabItem from '@theme/TabItem';
 | Attribute | Details |
 | :--- | :--- |
 | **Item Name** | French |
-| **Type** | thing |
+| **Type** | Skill |
 | **Group** | [Skills (Language)](docs/Categories/category_42.md) |
 | **Purchase Price** | 1,000 |
-| **Description** | Conversation and reading books are possible. Used around France. |
-| **Last Updated** | 2005-07-31 20:31:23 Phone@Administrator |
-
-## Trade Data
-
+| **Description** | Ability to converse and read books. Used around France. |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

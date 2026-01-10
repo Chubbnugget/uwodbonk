@@ -1,9 +1,9 @@
 ---
 id: 361
-name: extermination
+name: Eradication
 type:  Item
 ---
-# extermination
+# Eradication
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | extermination |
+| **Item Name** | Eradication |
 | **Type** | thing |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 3,000 |
-| **Description** | It can quell disasters caused by rats and seaweed. Acquisition requirements 5/0/0/total 10 Prerequisite skills Ecological survey (1) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Can ease damage from the likes of rats and seaweed. Level Requirements: 5/0/0 Total Level: 10 Prerequisite Skills: Ecology (1) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

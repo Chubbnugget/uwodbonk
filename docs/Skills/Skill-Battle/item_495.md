@@ -1,9 +1,9 @@
 ---
 id: 495
-name: swordplay
+name: Swordplay
 type:  Item
 ---
-# swordplay
+# Swordplay
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | swordplay |
-| **Type** | thing |
+| **Item Name** | Swordplay |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 8,000 |
-| **Description** | Increases attack power in hand-to-hand combat and ground combat. Learning conditions 0/0/3/total 0 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | The attack power in melee battles and the attack power of close-range weapons in land battles is raised. Level Requirements: 0/0/3 |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

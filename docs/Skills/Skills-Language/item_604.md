@@ -1,9 +1,9 @@
 ---
 id: 604
-name: greek
+name: Greek
 type:  Item
 ---
-# greek
+# Greek
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | greek |
-| **Type** | thing |
+| **Item Name** | Greek |
+| **Type** | Skill |
 | **Group** | [Skills (Language)](docs/Categories/category_42.md) |
 | **Purchase Price** | 6,000 |
-| **Description** | Conversation and reading books are possible. Used near the Balkan Peninsula. "Eastern European languages" |
-| **Last Updated** | 2015-01-20 18:16:19 Passing navigator @guest |
-
-## Trade Data
-
+| **Description** | Ability to converse and read books. Used near the Balkan Peninsula. "Eastern European languages" |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

@@ -13,11 +13,8 @@ import TabItem from '@theme/TabItem';
 | Attribute | Details |
 | :--- | :--- |
 | **Item Name** | Slavic languages |
-| **Type** | thing |
+| **Type** | Skill |
 | **Group** | [Skills (Language)](docs/Categories/category_42.md) |
 | **Purchase Price** | 4,000 |
-| **Description** | Conversation and reading books are possible. Used in Eastern Europe. |
-| **Last Updated** | 2005-03-21 19:45:32 System |
-
-## Trade Data
-
+| **Description** | Ability to converse and read books. Used in Eastern Europe. |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

@@ -1,9 +1,9 @@
 ---
 id: 422
-name: italian
+name: Italian
 type:  Item
 ---
-# italian
+# Italian
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | italian |
-| **Type** | thing |
+| **Item Name** | Italian |
+| **Type** | Skill |
 | **Group** | [Skills (Language)](docs/Categories/category_42.md) |
 | **Purchase Price** | 1,000 |
-| **Description** | Conversation and reading books are possible. Used on the Italian Peninsula. Translation notes are included in "Romance languages" |
-| **Last Updated** | 2017-06-18 22:04:18 NINE |
-
-## Trade Data
-
+| **Description** | Ability to converse and read books. Used on the Italian Peninsula. Translation notes are included in "Romance languages" |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

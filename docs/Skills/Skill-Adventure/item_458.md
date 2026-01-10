@@ -1,9 +1,9 @@
 ---
 id: 458
-name: Visual recognition
+name: Recognition
 type:  Item
 ---
-# Visual recognition
+# Recognition
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | Visual recognition |
+| **Item Name** | Recognition |
 | **Type** | thing |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 3,000 |
-| **Description** | You can discover ocean areas and ruins. Acquisition conditions 3/0/0/total 5 Prerequisite skills Exploration (1) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Can be used to discover Sea Regions, Ruins, Astronomical Objects, and search for foltsam. Level Requirements: 3/0/0 Total Level: 5 Prerequisite Skills: Search (1) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

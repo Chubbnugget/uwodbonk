@@ -102,6 +102,12 @@ const config = {
             label: 'Skills',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'PortSidebar',
+            position: 'left',
+            label: 'Ports',
+          },
+          {
             href: 'https://github.com/Chubbnugget/uwodbonk',
             label: 'GitHub',
             position: 'right',

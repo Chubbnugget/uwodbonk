@@ -1,9 +1,9 @@
 ---
 id: 440
-name: arabic
+name: Arabic
 type:  Item
 ---
-# arabic
+# Arabic
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | arabic |
-| **Type** | thing |
+| **Item Name** | Arabic |
+| **Type** | Skill |
 | **Group** | [Skills (Language)](docs/Categories/category_42.md) |
 | **Purchase Price** | 10,000 |
-| **Description** | Conversation and reading books are possible. Used in Islamic countries. (Used in some alchemy) |
-| **Last Updated** | 2019-08-09 18:10:58 Passing navigator @guest |
-
-## Trade Data
-
+| **Description** | Ability to converse and read books. Used in Islamic countries. (Used in some alchemy) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

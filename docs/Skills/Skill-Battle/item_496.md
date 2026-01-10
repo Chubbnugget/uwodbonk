@@ -1,9 +1,9 @@
 ---
 id: 496
-name: docking
+name: Abordage
 type:  Item
 ---
-# docking
+# Abordage
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | docking |
-| **Type** | thing |
+| **Item Name** | Abordage |
+| **Type** | Skill |
 | **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 2,000 |
-| **Description** | During battle, it becomes easier to engage in hand-to-hand combat. Learning conditions 0/0/2/total 20 Prerequisite skill Steering (1) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Easier to engage in Melee Battle. Level Requirements: 0/0/2 Total Level: 20 Prerequisite Skill: Steering (1) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

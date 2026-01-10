@@ -1,9 +1,9 @@
 ---
 id: 707
-name: celtic language
+name: Celtic Language
 type:  Item
 ---
-# celtic language
+# Celtic Language
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | celtic language |
-| **Type** | thing |
+| **Item Name** | Celtic Language |
+| **Type** | Skill |
 | **Group** | [Skills (Language)](docs/Categories/category_42.md) |
 | **Purchase Price** | 10,000 |
-| **Description** | You can view books (Etsuran). Used in ancient British manuscripts. |
-| **Last Updated** | 2007-01-20 17:05:26 When |
-
-## Trade Data
-
+| **Description** | Ability to converse and read books. (Etsuran). Used in ancient British manuscripts. |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

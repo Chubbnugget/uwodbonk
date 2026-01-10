@@ -1,9 +1,9 @@
 ---
 id: 465
-name: Mine discovered
+name: Mine Detection
 type:  Item
 ---
-# Mine discovered
+# Mine Detection
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | Mine discovered |
-| **Type** | thing |
+| **Item Name** | Mine Detection |
+| **Type** | Skill |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 15,000 |
-| **Description** | During battle, you can discover mines laid by the enemy. Acquisition conditions 15/0/3/total 10 Prerequisite skills Exploration (3) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Detect enemy laid sea mines during battle. Level Requirements: 15/0/3 Prerequisite Skills Search (3) |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

@@ -1,9 +1,9 @@
 ---
 id: 439
-name: Treasure appraisal
+name: Appraisal
 type:  Item
 ---
-# Treasure appraisal
+# Appraisal
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | Treasure appraisal |
-| **Type** | thing |
+| **Item Name** | Appraisal |
+| **Type** | Skill |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 3,000 |
-| **Description** | You can collect information about treasures and appraise discovered items. Learning conditions 3/1/0/total 0 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Appraisal of discovery items can be made on collection of treasure reports. Level Requirements: 3/1/0 |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |

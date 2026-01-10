@@ -1,9 +1,9 @@
 ---
 id: 339
-name: fishing
+name: Fishing
 type:  Item
 ---
-# fishing
+# Fishing
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | fishing |
-| **Type** | thing |
+| **Item Name** | Fishing |
+| **Type** | Skill |
 | **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 3,000 |
-| **Description** | You can catch fish. Learning conditions 1/0/0/total 10 |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | Fish can be caught. Level Requirement: 1/0/0 Total level: 10 |
+| **Last Updated** | 2026-01-10 09:58:31 Bear |
