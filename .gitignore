@@ -5,6 +5,7 @@
 /build
 build.zip
 yarn.lock
+package-lock.json
 
 # Generated files
 .docusaurus

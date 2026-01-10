@@ -11,5 +11,8 @@ if (Test-Path -Path ".docusaurus") { Remove-Item -Recurse -Force .docusaurus }
 $env:NODE_OPTIONS = "--max-old-space-size=20000"
 $env:DOCUSAURUS_PERF_LOGGER = "false"
 
-yarn install
-yarn build
+npm install
+npm run build
+npm run serve
+
+Write-Host "🚀 Build complete and running..." -ForegroundColor Cyan
