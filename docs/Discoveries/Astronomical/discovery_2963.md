@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars is essential for navigation](Quests/Adventure/quest_5650.md)** | Adventure quest (9) 18th century third period | Astronomy (12) Visual recognition (10) North American languages | Reward: 375,000 / Advance payment: 30,000 Experience: 320 / Fame: 195 |
+| **[Stars is essential for navigation](docs/Quests/Adventure/5001-6000/quest_5650.md)** | Adventure quest (9) 18th century third period | Astronomy (12) Visual recognition (10) North American languages | Reward: 375,000 / Advance payment: 30,000 Experience: 320 / Fame: 195 |

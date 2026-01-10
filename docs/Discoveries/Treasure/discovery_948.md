@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tone of the Earth](Quests/Adventure/quest_3640.md)** | Adventure quest (6) 14th century | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 1,051,000 / Advance payment: 100,000 Experience: 950 / Fame: 370 |
+| **[Tone of the Earth](docs/Quests/Adventure/3001-4000/quest_3640.md)** | Adventure quest (6) 14th century | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 1,051,000 / Advance payment: 100,000 Experience: 950 / Fame: 370 |

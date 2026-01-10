@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars constellation of birds in the New World](Quests/Adventure/quest_5868.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) Mayan languages | Reward: 244,000 / Advance payment: 20,000 Experience: 240 / Fame: 140 |
+| **[Stars constellation of birds in the New World](docs/Quests/Adventure/5001-6000/quest_5868.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) Mayan languages | Reward: 244,000 / Advance payment: 20,000 Experience: 240 / Fame: 140 |

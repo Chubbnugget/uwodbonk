@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red and black insect map](Quests/Other/quest_2713.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：210 |
+| **[Red and black insect map](docs/Quests/Other/2001-3000/quest_2713.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：210 |

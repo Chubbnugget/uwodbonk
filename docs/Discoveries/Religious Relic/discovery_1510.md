@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ring of Nibelungen](Quests/Adventure/quest_231.md)** | Adventure Quest (7) Mythology Era | Religious Studies (10) Exploration (8) Unlocking (8) | Reward: 0 / Advance payment: 0 Experience: 350 / Fame: 140 |
+| **[Ring of Nibelungen](docs/Quests/Adventure/1-1000/quest_231.md)** | Adventure Quest (7) Mythology Era | Religious Studies (10) Exploration (8) Unlocking (8) | Reward: 0 / Advance payment: 0 Experience: 350 / Fame: 140 |

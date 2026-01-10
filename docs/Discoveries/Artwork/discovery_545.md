@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sculpture of the Risen Jesus](Quests/Adventure/quest_952.md)** | Adventure Quest (6) 17th Century 1st Period | Exploration (3) Art (5) French | Reward: 50,000 / Advance payment: 0Experience: 170 / Fame: 80 |
+| **[Sculpture of the Risen Jesus](docs/Quests/Adventure/1-1000/quest_952.md)** | Adventure Quest (6) 17th Century 1st Period | Exploration (3) Art (5) French | Reward: 50,000 / Advance payment: 0Experience: 170 / Fame: 80 |

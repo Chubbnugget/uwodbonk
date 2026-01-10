@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[South American Sage](Quests/Adventure/quest_5461.md)** | Adventure quest (5) | Ecological Survey (5) Biology (7) Portuguese | Reward: 202,000/ Advance: 20,000Experience: 210/ Fame: 120 |
+| **[South American Sage](docs/Quests/Adventure/5001-6000/quest_5461.md)** | Adventure quest (5) | Ecological Survey (5) Biology (7) Portuguese | Reward: 202,000/ Advance: 20,000Experience: 210/ Fame: 120 |

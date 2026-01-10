@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Another Palace](Quests/Adventure/quest_2702.md)** | Adventure quest (4) 15th century 1st period | Archeology (5) Visual recognition (3) Korean | Reward: 104,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Another Palace](docs/Quests/Adventure/2001-3000/quest_2702.md)** | Adventure quest (4) 15th century 1st period | Archeology (5) Visual recognition (3) Korean | Reward: 104,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

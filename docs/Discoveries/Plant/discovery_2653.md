@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The strength of a large family](Quests/Adventure/quest_5237.md)** | Adventure Quest (2) 17th Century 3rd Period | Ecological Survey (1) Biology (3) English | Reward: 77,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[The strength of a large family](docs/Quests/Adventure/5001-6000/quest_5237.md)** | Adventure Quest (2) 17th Century 3rd Period | Ecological Survey (1) Biology (3) English | Reward: 77,000 / Advance payment: 0Experience: 140 / Fame: 70 |

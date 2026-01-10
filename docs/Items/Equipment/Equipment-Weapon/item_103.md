@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | matchlock shooting gun |
 | **Type** | thing |
-| **Group** | [Equipment](Categories/category_27.md) |
+| **Group** | [Equipment](docs/Categories/category_27.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 3,000 |
 | **Description** | A shooting gun that is ignited with a rope filled with gunpowder. Durability 20 Attack power 8 Effect when used Gunfire Weapon type Gun |

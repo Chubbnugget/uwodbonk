@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rootless grass](Quests/Adventure/quest_3044.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Spanish | Reward: 220,000 / Advance payment: 20,000 Experience: 260 / Fame: 110 |
+| **[Rootless grass](docs/Quests/Adventure/3001-4000/quest_3044.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Spanish | Reward: 220,000 / Advance payment: 20,000 Experience: 260 / Fame: 110 |

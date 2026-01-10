@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Far ancient striped pattern](Quests/Adventure/quest_6959.md)** | Adventure quest (10) | Explore(13)Biology(15)Dutch(1) | Reward: 819,000/Advance payment: 80,000Experience: 600 |
+| **[Far ancient striped pattern](docs/Quests/Adventure/6001-7000/quest_6959.md)** | Adventure quest (10) | Explore(13)Biology(15)Dutch(1) | Reward: 819,000/Advance payment: 80,000Experience: 600 |

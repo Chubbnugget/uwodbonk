@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Old soap making](Quests/Adventure/quest_5503.md)** | Adventure quest (5) | Exploration (7) Treasures Appraisal (9) Spanish | Reward: 162,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |
+| **[Old soap making](docs/Quests/Adventure/5001-6000/quest_5503.md)** | Adventure quest (5) | Exploration (7) Treasures Appraisal (9) Spanish | Reward: 162,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |

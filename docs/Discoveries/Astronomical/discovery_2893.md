@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Night Sky Sextant](Quests/Adventure/quest_5563.md)** | Adventure quest (5) 17th century 4th period | Astronomy (8) Visualization (6) German | Reward: 215,000/ Advance: 20,000Experience: 220/ Fame: 125 |
+| **[Night Sky Sextant](docs/Quests/Adventure/5001-6000/quest_5563.md)** | Adventure quest (5) 17th century 4th period | Astronomy (8) Visualization (6) German | Reward: 215,000/ Advance: 20,000Experience: 220/ Fame: 125 |

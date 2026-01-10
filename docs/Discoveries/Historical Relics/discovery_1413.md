@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Safety investigation around Tamsui](Quests/Adventure/quest_2616.md)** | Adventure quest (6) | Exploration(5)Archaeology(7)Chinese(1) | Reward: 277,000 / Advance payment: 20,000 Experience: 310 / Fame: 130 |
+| **[Safety investigation around Tamsui](docs/Quests/Adventure/2001-3000/quest_2616.md)** | Adventure quest (6) | Exploration(5)Archaeology(7)Chinese(1) | Reward: 277,000 / Advance payment: 20,000 Experience: 310 / Fame: 130 |

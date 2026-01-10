@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giorgione's Judith](Quests/Adventure/quest_1623.md)** | Adventure Quest (6) 16th Century 1st Period | Exploration (6) Art (8) Italian (1) | Reward: 106,000 / Advance payment: 10,000 Experience: 270 / Fame: 95 |
+| **[Giorgione's Judith](docs/Quests/Adventure/1001-2000/quest_1623.md)** | Adventure Quest (6) 16th Century 1st Period | Exploration (6) Art (8) Italian (1) | Reward: 106,000 / Advance payment: 10,000 Experience: 270 / Fame: 95 |

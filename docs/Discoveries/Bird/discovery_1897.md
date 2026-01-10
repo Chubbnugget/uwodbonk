@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White seabird map](Quests/Other/quest_2368.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：100 |
+| **[White seabird map](docs/Quests/Other/2001-3000/quest_2368.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：100 |

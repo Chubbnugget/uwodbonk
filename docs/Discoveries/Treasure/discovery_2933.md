@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of competition tools](Quests/Other/quest_5612.md)** | Treasures鑑定(10) | Exploration (10) Treasures Appraisal (10) Unlocking (10) |  |
+| **[Map of competition tools](docs/Quests/Other/5001-6000/quest_5612.md)** | Treasures鑑定(10) | Exploration (10) Treasures Appraisal (10) Unlocking (10) |  |

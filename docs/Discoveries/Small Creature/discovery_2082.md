@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Enchanted Fur](Quests/Adventure/quest_1011.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Norse | Reward: 79,000 / Advance payment: 0Experience: 160 / Fame: 75 |
+| **[Enchanted Fur](docs/Quests/Adventure/1001-2000/quest_1011.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Norse | Reward: 79,000 / Advance payment: 0Experience: 160 / Fame: 75 |

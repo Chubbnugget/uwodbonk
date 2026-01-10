@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Earthly Paradise](Quests/Adventure/quest_835.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) Indian languages | Reward: 92,000 / Advance payment: 0Experience: 160 / Fame: 80 |
+| **[Earthly Paradise](docs/Quests/Adventure/1-1000/quest_835.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) Indian languages | Reward: 92,000 / Advance payment: 0Experience: 160 / Fame: 80 |

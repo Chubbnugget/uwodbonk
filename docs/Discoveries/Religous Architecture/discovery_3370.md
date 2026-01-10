@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wish and Burden](Quests/Adventure/quest_6255.md)** | Adventure quest (7) 15th century 4th period | Religious Studies (10) Visual Recognition (8) Portuguese | Reward: 108,000/Advance payment: 10,000Experience: 150 |
+| **[Wish and Burden](docs/Quests/Adventure/6001-7000/quest_6255.md)** | Adventure quest (7) 15th century 4th period | Religious Studies (10) Visual Recognition (8) Portuguese | Reward: 108,000/Advance payment: 10,000Experience: 150 |

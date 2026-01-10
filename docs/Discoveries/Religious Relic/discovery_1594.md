@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient silk fabric](Quests/Adventure/quest_2905.md)** | Adventure quest (5) | Religious Studies(6)Exploration(4)Chinese(1) | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Ancient silk fabric](docs/Quests/Adventure/2001-3000/quest_2905.md)** | Adventure quest (5) | Religious Studies(6)Exploration(4)Chinese(1) | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |

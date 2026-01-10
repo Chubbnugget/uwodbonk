@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[End of the Taiping](Quests/Adventure/quest_2260.md)** | Adventure Quest (6) 16th Century 2nd Period | Geography (8) Visual recognition (6) Malayu Tagalog | Reward: 233,000 / Advance payment: 20,000 Experience: 270 / Fame: 115 |
+| **[End of the Taiping](docs/Quests/Adventure/2001-3000/quest_2260.md)** | Adventure Quest (6) 16th Century 2nd Period | Geography (8) Visual recognition (6) Malayu Tagalog | Reward: 233,000 / Advance payment: 20,000 Experience: 270 / Fame: 115 |

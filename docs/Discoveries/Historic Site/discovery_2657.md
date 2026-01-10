@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Pompeii ruins](Quests/Adventure/quest_5228.md)** | Adventure quest (1) | Archeology (2) Visualization (1) Greek (1) | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Additional investigation of Pompeii ruins](docs/Quests/Adventure/5001-6000/quest_5228.md)** | Adventure quest (1) | Archeology (2) Visualization (1) Greek (1) | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Neat picture](Quests/Adventure/quest_720.md)** | Adventure Quest (4) 15th Century 2nd Period | Exploration (1) Art (2) Italian | Reward: 19,000Experience: 130/ Fame: 65 |
-| **[Investigating the altarpiece](Quests/Adventure/quest_6246.md)** | Adventure quest (3) | Exploration (1) Art (2) Italian | Reward: 36,000 / Advance payment: 0Experience: 160 |
+| **[Neat picture](docs/Quests/Adventure/1-1000/quest_720.md)** | Adventure Quest (4) 15th Century 2nd Period | Exploration (1) Art (2) Italian | Reward: 19,000Experience: 130/ Fame: 65 |
+| **[Investigating the altarpiece](docs/Quests/Adventure/6001-7000/quest_6246.md)** | Adventure quest (3) | Exploration (1) Art (2) Italian | Reward: 36,000 / Advance payment: 0Experience: 160 |

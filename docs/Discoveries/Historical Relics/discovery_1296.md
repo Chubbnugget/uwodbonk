@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient tools](Quests/Other/quest_532.md)** | Archeology(9) | Exploration(9)Archaeology(9) |  |
+| **[Map of ancient tools](docs/Quests/Other/1-1000/quest_532.md)** | Archeology(9) | Exploration(9)Archaeology(9) |  |

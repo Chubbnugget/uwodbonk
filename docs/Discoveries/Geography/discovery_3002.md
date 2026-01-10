@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The highest mountain in the world](Quests/Adventure/quest_5714.md)** | Adventure quest (7) 19th century | Geography (7) Visual recognition (5) English (1) | Reward: 441,000 / Advance payment: 40,000 Experience: 360 / Fame: 220 |
+| **[The highest mountain in the world](docs/Quests/Adventure/5001-6000/quest_5714.md)** | Adventure quest (7) 19th century | Geography (7) Visual recognition (5) English (1) | Reward: 441,000 / Advance payment: 40,000 Experience: 360 / Fame: 220 |

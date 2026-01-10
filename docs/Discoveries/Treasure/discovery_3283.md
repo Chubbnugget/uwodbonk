@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flat instrument map](Quests/Other/quest_6132.md)** | Treasures鑑定(6) | Exploration (6) Treasures Appraisal (6) Unlocking (6) |  |
+| **[Flat instrument map](docs/Quests/Other/6001-7000/quest_6132.md)** | Treasures鑑定(6) | Exploration (6) Treasures Appraisal (6) Unlocking (6) |  |

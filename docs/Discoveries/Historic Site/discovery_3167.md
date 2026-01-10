@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Mysterious Ruins](Quests/Adventure/quest_5898.md)** | Adventure quest (15) | Archeology (17) Visualization (15) Spanish | Reward: 653,000 / Advance payment: 60,000 Experience: 500 / Fame: 310 |
+| **[Ancient Mysterious Ruins](docs/Quests/Adventure/5001-6000/quest_5898.md)** | Adventure quest (15) | Archeology (17) Visualization (15) Spanish | Reward: 653,000 / Advance payment: 60,000 Experience: 500 / Fame: 310 |

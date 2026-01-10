@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Incense related to the Bible](Quests/Adventure/quest_3375.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Arabic | Reward: 270,000 / Advance payment: 20,000 Experience: 300 / Fame: 130 |
+| **[Incense related to the Bible](docs/Quests/Adventure/3001-4000/quest_3375.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Arabic | Reward: 270,000 / Advance payment: 20,000 Experience: 300 / Fame: 130 |

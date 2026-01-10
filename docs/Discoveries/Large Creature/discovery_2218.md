@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cow of the Far North](Quests/Adventure/quest_3738.md)** | Adventure quest (5) | Ecological Survey (5) Biology (7) English | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 140 |
+| **[Cow of the Far North](docs/Quests/Adventure/3001-4000/quest_3738.md)** | Adventure quest (5) | Ecological Survey (5) Biology (7) English | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 140 |

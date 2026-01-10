@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mottled stingray map](Quests/Other/quest_3822.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Mottled stingray map](docs/Quests/Other/3001-4000/quest_3822.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

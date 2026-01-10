@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A River Named Big River](Quests/Adventure/quest_803.md)** | Adventure quest (6) | Geography (7) Visual recognition (5) Spanish | Reward: 99,000 / Advance payment: 0Experience: 160 / Fame: 85 |
+| **[A River Named Big River](docs/Quests/Adventure/1-1000/quest_803.md)** | Adventure quest (6) | Geography (7) Visual recognition (5) Spanish | Reward: 99,000 / Advance payment: 0Experience: 160 / Fame: 85 |

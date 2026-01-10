@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[There is a hero behind every heroic story](Quests/Other/quest_3424.md)** | Treasure hunting (5) | Exploration (7) Archeology (9) French |  |
+| **[There is a hero behind every heroic story](docs/Quests/Other/3001-4000/quest_3424.md)** | Treasure hunting (5) | Exploration (7) Archeology (9) French |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore of the nine-headed snake](Quests/Other/quest_6747.md)** | Tradition (10) | Biology学(15) | Remuneration: 786,000 / Advance payment: 8,000 |
+| **[Lore of the nine-headed snake](docs/Quests/Other/6001-7000/quest_6747.md)** | Tradition (10) | Biology学(15) | Remuneration: 786,000 / Advance payment: 8,000 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Decorated Pillar](Quests/Adventure/quest_3848.md)** | Adventure quest (3) 19th century | Exploration (1) Archeology (3) North American languages | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Decorated Pillar](docs/Quests/Adventure/3001-4000/quest_3848.md)** | Adventure quest (3) 19th century | Exploration (1) Archeology (3) North American languages | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |

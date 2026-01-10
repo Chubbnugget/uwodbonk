@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient Indian documents](Quests/Other/quest_62.md)** | Religious Studies(10) | Religious Studies (10) Exploration (10) Unlocking (10) |  |
+| **[Map of ancient Indian documents](docs/Quests/Other/1-1000/quest_62.md)** | Religious Studies(10) | Religious Studies (10) Exploration (10) Unlocking (10) |  |

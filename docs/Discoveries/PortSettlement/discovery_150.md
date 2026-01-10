@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Marseille](Quests/Other/quest_5160.md)** | Port/village (1) | - |  |
+| **[Marseille](docs/Quests/Other/5001-6000/quest_5160.md)** | Port/village (1) | - |  |

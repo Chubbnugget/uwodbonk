@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Following King Khufu](Quests/Adventure/quest_6380.md)** | Adventure quest (2) | Exploration (1) Archeology (3) Arabic | Reward: 100,000 / Advance payment: 10,000 Experience: 170 / Fame: 180 |
+| **[Following King Khufu](docs/Quests/Adventure/6001-7000/quest_6380.md)** | Adventure quest (2) | Exploration (1) Archeology (3) Arabic | Reward: 100,000 / Advance payment: 10,000 Experience: 170 / Fame: 180 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rigel](Quests/Other/quest_3791.md)** | Celestial Object Discovery Name(2)17th Century Issue 3 | Astronomy(2) |  |
+| **[Rigel](docs/Quests/Other/3001-4000/quest_3791.md)** | Celestial Object Discovery Name(2)17th Century Issue 3 | Astronomy(2) |  |

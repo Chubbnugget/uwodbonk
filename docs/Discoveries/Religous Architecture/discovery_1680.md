@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Great Buddha of South China](Quests/Adventure/quest_2788.md)** | Adventure quest (8) | Religious Studies (12) Visual Recognition (10) Chinese | Reward: 264,000 / Advance: 20,000 Experience: 290 / Fame: 125 |
+| **[Great Buddha of South China](docs/Quests/Adventure/2001-3000/quest_2788.md)** | Adventure quest (8) | Religious Studies (12) Visual Recognition (10) Chinese | Reward: 264,000 / Advance: 20,000 Experience: 290 / Fame: 125 |

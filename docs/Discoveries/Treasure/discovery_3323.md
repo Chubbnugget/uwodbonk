@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What the underground tomb tells us](Quests/Adventure/quest_6171.md)** | Adventure Quest (6) B.C. | Religious Studies(8)Exploration(6)Treasures Identification(8) | Reward: 93,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[What the underground tomb tells us](docs/Quests/Adventure/6001-7000/quest_6171.md)** | Adventure Quest (6) B.C. | Religious Studies(8)Exploration(6)Treasures Identification(8) | Reward: 93,000 / Advance payment: 0Experience: 150 / Fame: 75 |

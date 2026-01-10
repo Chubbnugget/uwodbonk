@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[New challenge destination](Quests/Adventure/quest_6249.md)** | Adventure quest (2) | Geography (3) Visual recognition (1) Swahili | Reward: 63,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[New challenge destination](docs/Quests/Adventure/6001-7000/quest_6249.md)** | Adventure quest (2) | Geography (3) Visual recognition (1) Swahili | Reward: 63,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Akinoaki Stars](Quests/Other/quest_3783.md)** | Celestial Object Discovery Name(1)15th Century Issue 4 | Astronomy(1) | Experience：150 |
+| **[Akinoaki Stars](docs/Quests/Other/3001-4000/quest_3783.md)** | Celestial Object Discovery Name(1)15th Century Issue 4 | Astronomy(1) | Experience：150 |

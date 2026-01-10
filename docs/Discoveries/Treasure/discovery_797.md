@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[History more interesting than novels](Quests/Adventure/quest_2846.md)** | Adventure quest (4) | 探索(4)Treasures鑑定(6)中国語 | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[History more interesting than novels](docs/Quests/Adventure/2001-3000/quest_2846.md)** | Adventure quest (4) | 探索(4)Treasures鑑定(6)中国語 | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Changing Saint](Quests/Adventure/quest_6053.md)** | Adventure quest (8) 18th century third period | Exploration (10) Art (12) Arctic languages | Reward: 355,000 / Advance payment: 30,000 Experience: 310 / Fame: 185 |
+| **[Changing Saint](docs/Quests/Adventure/6001-7000/quest_6053.md)** | Adventure quest (8) 18th century third period | Exploration (10) Art (12) Arctic languages | Reward: 355,000 / Advance payment: 30,000 Experience: 310 / Fame: 185 |

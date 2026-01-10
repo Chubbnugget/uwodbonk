@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[River flowing into the Black Sea](Quests/Adventure/quest_594.md)** | Adventure Quest (5) 16th Century 2nd Period | Geography (4) Visual recognition (2) | Reward: 52,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[River flowing into the Black Sea](docs/Quests/Adventure/1-1000/quest_594.md)** | Adventure Quest (5) 16th Century 2nd Period | Geography (4) Visual recognition (2) | Reward: 52,000 / Advance payment: 0Experience: 140 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Eternal Land](Quests/Adventure/quest_1643.md)** | Adventure quest (8) | Geography (9) Visual recognition (7) Oceanian languages | Reward: 248,000 / Advance payment: 20,000 Experience: 420 / Fame: 140 |
+| **[Eternal Land](docs/Quests/Adventure/1001-2000/quest_1643.md)** | Adventure quest (8) | Geography (9) Visual recognition (7) Oceanian languages | Reward: 248,000 / Advance payment: 20,000 Experience: 420 / Fame: 140 |

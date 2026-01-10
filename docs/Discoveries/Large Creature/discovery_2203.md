@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Biology hidden in the river](Quests/Adventure/quest_775.md)** | Adventure quest (5) | Ecological research (2) Biology (4) Swahili | Reward: 67,000 / Advance payment: 2,000 Experience: 140 / Fame: 70 |
+| **[Giant Biology hidden in the river](docs/Quests/Adventure/1-1000/quest_775.md)** | Adventure quest (5) | Ecological research (2) Biology (4) Swahili | Reward: 67,000 / Advance payment: 2,000 Experience: 140 / Fame: 70 |

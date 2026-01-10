@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars made in Poland](Quests/Adventure/quest_3918.md)** | Adventure quest (7) | Astronomy (9) Visualization (7) German | Reward: 306,000 / Advance payment: 30,000 Experience: 330 / Fame: 140 |
+| **[Stars made in Poland](docs/Quests/Adventure/3001-4000/quest_3918.md)** | Adventure quest (7) | Astronomy (9) Visualization (7) German | Reward: 306,000 / Advance payment: 30,000 Experience: 330 / Fame: 140 |

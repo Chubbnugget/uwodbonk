@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of cool snakes](Quests/Other/quest_6548.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) Spanish | Reward: 400,000 / Advance payment: 0Experience: 1,068 |
+| **[Additional investigation of cool snakes](docs/Quests/Other/6001-7000/quest_6548.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) Spanish | Reward: 400,000 / Advance payment: 0Experience: 1,068 |

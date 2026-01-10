@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Geography survey near Hangzhou](Quests/Adventure/quest_2864.md)** | Adventure quest (5) | Geography (8) Visual recognition (6) Chinese | Reward: 162,000 / Advance payment: 10,000 Experience: 210 / Fame: 95 |
+| **[Geography survey near Hangzhou](docs/Quests/Adventure/2001-3000/quest_2864.md)** | Adventure quest (5) | Geography (8) Visual recognition (6) Chinese | Reward: 162,000 / Advance payment: 10,000 Experience: 210 / Fame: 95 |

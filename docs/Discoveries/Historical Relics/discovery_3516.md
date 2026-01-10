@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[General Seki's Abacus](Quests/Other/quest_6438.md)** | Legacy(1) | - |  |
+| **[General Seki's Abacus](docs/Quests/Other/6001-7000/quest_6438.md)** | Legacy(1) | - |  |

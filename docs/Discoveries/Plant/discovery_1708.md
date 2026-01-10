@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tree that blooms with flames](Quests/Adventure/quest_3268.md)** | Adventure quest (5) | Ecological research (3) Biology (5) West African languages ​​(1) | Reward: 118,000 / Advance payment: 10,000 Experience: 170 / Fame: 160 |
+| **[Tree that blooms with flames](docs/Quests/Adventure/3001-4000/quest_3268.md)** | Adventure quest (5) | Ecological research (3) Biology (5) West African languages ​​(1) | Reward: 118,000 / Advance payment: 10,000 Experience: 170 / Fame: 160 |

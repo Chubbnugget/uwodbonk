@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kupe Wooden Spear](Quests/Adventure/quest_1676.md)** | Adventure quest (7) | Exploration (9) Archeology (11) Unlocking (9) | Reward: 178,000 / Advance payment: 10,000 Experience: 430 / Fame: 142 |
+| **[Kupe Wooden Spear](docs/Quests/Adventure/1001-2000/quest_1676.md)** | Adventure quest (7) | Exploration (9) Archeology (11) Unlocking (9) | Reward: 178,000 / Advance payment: 10,000 Experience: 430 / Fame: 142 |

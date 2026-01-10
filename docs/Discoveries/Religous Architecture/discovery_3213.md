@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Prayer at the North End](Quests/Adventure/quest_6028.md)** | Adventure Quest (5) 18th Century 3rd Period | Religious Studies (7) Visualization (5) Far North Languages | Reward: 104,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[Prayer at the North End](docs/Quests/Adventure/6001-7000/quest_6028.md)** | Adventure Quest (5) 18th Century 3rd Period | Religious Studies (7) Visualization (5) Far North Languages | Reward: 104,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

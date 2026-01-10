@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The mountain that everyone climbs](Quests/Adventure/quest_2355.md)** | Adventure quest (5) | Geography (5) Visual recognition (3) Japanese | Reward: 153,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[The mountain that everyone climbs](docs/Quests/Adventure/2001-3000/quest_2355.md)** | Adventure quest (5) | Geography (5) Visual recognition (3) Japanese | Reward: 153,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

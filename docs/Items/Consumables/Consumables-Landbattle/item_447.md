@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | exciting powder bag |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 200 |
 | **Description** | A powder that makes enemy attacks harder to hit. Effect/medium. Effect when used: Blinding attack (blocks the enemy's normal attack in land battles.) Rank 6 Required gauge 60 Weight 25 Cooldown time 450 |

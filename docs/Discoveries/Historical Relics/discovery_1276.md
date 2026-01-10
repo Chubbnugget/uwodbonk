@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Grave goods passed down](Quests/Adventure/quest_2289.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Unlocking (3) | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Grave goods passed down](docs/Quests/Adventure/2001-3000/quest_2289.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Unlocking (3) | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |

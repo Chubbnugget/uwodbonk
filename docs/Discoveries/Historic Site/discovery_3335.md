@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Immortal Snake](Quests/Adventure/quest_6191.md)** | Adventure Quest (8) Mythology Era | Archeology (12) Visualization (10) Oceanian languages | Reward: 183,000 / Advance payment: 10,000 Experience: 200 |
+| **[Immortal Snake](docs/Quests/Adventure/6001-7000/quest_6191.md)** | Adventure Quest (8) Mythology Era | Archeology (12) Visualization (10) Oceanian languages | Reward: 183,000 / Advance payment: 10,000 Experience: 200 |

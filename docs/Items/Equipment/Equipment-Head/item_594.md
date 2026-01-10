@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | african feather |
 | **Type** | thing |
-| **Group** | [Equipment（頭）](Categories/category_23.md) |
+| **Group** | [Equipment（頭）](docs/Categories/category_23.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 26,600 |
 | **Description** | A large feathered headdress worn by Zulu warriors. Gender restrictions Male Durability 30 Disguise level 10 Defense power 6 Total required fame 450 |

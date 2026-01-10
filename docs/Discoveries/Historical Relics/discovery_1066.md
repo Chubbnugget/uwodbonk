@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Pipe Map](Quests/Other/quest_3018.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |
+| **[Ancient Pipe Map](docs/Quests/Other/3001-4000/quest_3018.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Ancient Greek Relics](Quests/Other/quest_503.md)** | Archeology(2) | Exploration(2)Archaeology(2) |  |
+| **[Map of Ancient Greek Relics](docs/Quests/Other/1-1000/quest_503.md)** | Archeology(2) | Exploration(2)Archaeology(2) |  |

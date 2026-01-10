@@ -68,49 +68,49 @@ In the southeastern hinterland of Veracruz, there is a diner owner in place of t
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [How to sew Central American ethnic clothing](Items/Recipe Book/item_2167.md) | recipe book | Fixed recipe | tool shop owner |  |
+| [How to sew Central American ethnic clothing](docs/Items/RecipeBooks/item_2167.md) | recipe book | Fixed recipe | tool shop owner |  |
 
-#### [装備品（服飾品）](Categories/category_28.md)
+#### [装備品（服飾品）](docs/Categories/category_28.md)
 
-| [aztec opal](Items/Equipment/Equipment-Accessory/item_2427.md) | 装備品（服飾品） | 15,000,000 | tool shop owner |  |
-| [aztec calendar](Items/Equipment/Equipment-Accessory/item_2426.md) | 装備品（服飾品） | 15,000,000 | tool shop owner |  |
-| [eagle feather](Items/Equipment/Equipment-Accessory/item_2425.md) | 装備品（服飾品） | 15,000,000 | tool shop owner |  |
+| [aztec opal](docs/Items/Equipment/Equipment-Accessory/item_2427.md) | 装備品（服飾品） | 15,000,000 | tool shop owner |  |
+| [aztec calendar](docs/Items/Equipment/Equipment-Accessory/item_2426.md) | 装備品（服飾品） | 15,000,000 | tool shop owner |  |
+| [eagle feather](docs/Items/Equipment/Equipment-Accessory/item_2425.md) | 装備品（服飾品） | 15,000,000 | tool shop owner |  |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [Taheebo juice](Items/Consumables/Consumables-Landbattle/item_1807.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
-| [tonic](Items/Consumables/Consumables-Landbattle/item_1678.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [Taheebo juice](docs/Items/Consumables/Consumables-Landbattle/item_1807.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [tonic](docs/Items/Consumables/Consumables-Landbattle/item_1678.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [torch for throwing](docs/Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [agni firestick](Items/Consumables/Consumables-Landbattle/item_1737.md) | Consumables (land battle/deck battle) |  | peddler |  |
-| [javelin](Items/Consumables/Consumables-Landbattle/item_1515.md) | Consumables (land battle/deck battle) |  | peddler |  |
-| [spice sauce](Items/Consumables/Consumables-Landbattle/item_2430.md) | Consumables (land battle/deck battle) |  | peddler |  |
-| [maracuja juice](Items/Consumables/Consumables-Landbattle/item_2431.md) | Consumables (land battle/deck battle) |  | peddler |  |
-| [maracuja bottle](Items/Consumables/Consumables-Landbattle/item_2432.md) | Consumables (land battle/deck battle) |  | peddler |  |
-| [煙玉](Items/Consumables/Consumables-Landbattle/item_86.md) | Consumables (land battle/deck battle) |  | peddler |  |
-| [explosive drug](Items/Consumables/Consumables-Landbattle/item_2493.md) | Consumables (land battle/deck battle) |  | peddler |  |
+| [agni firestick](docs/Items/Consumables/Consumables-Landbattle/item_1737.md) | Consumables (land battle/deck battle) |  | peddler |  |
+| [javelin](docs/Items/Consumables/Consumables-Landbattle/item_1515.md) | Consumables (land battle/deck battle) |  | peddler |  |
+| [spice sauce](docs/Items/Consumables/Consumables-Landbattle/item_2430.md) | Consumables (land battle/deck battle) |  | peddler |  |
+| [maracuja juice](docs/Items/Consumables/Consumables-Landbattle/item_2431.md) | Consumables (land battle/deck battle) |  | peddler |  |
+| [maracuja bottle](docs/Items/Consumables/Consumables-Landbattle/item_2432.md) | Consumables (land battle/deck battle) |  | peddler |  |
+| [煙玉](docs/Items/Consumables/Consumables-Landbattle/item_86.md) | Consumables (land battle/deck battle) |  | peddler |  |
+| [explosive drug](docs/Items/Consumables/Consumables-Landbattle/item_2493.md) | Consumables (land battle/deck battle) |  | peddler |  |
 
-#### [Consumables (skill activation)](Categories/category_31.md)
+#### [Consumables (skill activation)](docs/Categories/category_31.md)
 
-| [landmark ribbon](Items/Consumables/Consumables-Skill/item_316.md) | Consumables (skill activation) |  | peddler |  |
+| [landmark ribbon](docs/Items/Consumables/Consumables-Skill/item_316.md) | Consumables (skill activation) |  | peddler |  |
   </TabItem>
   <TabItem value="Tavern Master" label="Tavern Master">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [Land battle props/cooking part 2](Items/Recipe Book/item_2433.md) | recipe book | Fixed recipe | Tavern Master |  |
+| [Land battle props/cooking part 2](docs/Items/RecipeBooks/item_2433.md) | recipe book | Fixed recipe | Tavern Master |  |
 | owner of the restaurant |
   </TabItem>
 </Tabs>

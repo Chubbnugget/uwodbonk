@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rautu's curious child](Quests/Adventure/quest_2789.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Chinese (1) | Reward: 135,000 / Advance payment: 10,000 Experience: 190 / Fame: 170 |
+| **[Rautu's curious child](docs/Quests/Adventure/2001-3000/quest_2789.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Chinese (1) | Reward: 135,000 / Advance payment: 10,000 Experience: 190 / Fame: 170 |

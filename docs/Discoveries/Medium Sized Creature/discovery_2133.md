@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of animals with strange patterns](Quests/Other/quest_419.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |
+| **[Map of animals with strange patterns](docs/Quests/Other/1-1000/quest_419.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |

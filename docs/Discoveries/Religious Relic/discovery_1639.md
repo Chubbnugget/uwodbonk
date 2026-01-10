@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of the Cross](Quests/Other/quest_3695.md)** | Religious Studies(10) | Religious Studies (10) Exploration (10) Unlocking (10) |  |
+| **[Map of the Cross](docs/Quests/Other/3001-4000/quest_3695.md)** | Religious Studies(10) | Religious Studies (10) Exploration (10) Unlocking (10) |  |

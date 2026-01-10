@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Bodhisattva statues in India](Quests/Other/quest_71.md)** | Religious Studies(5) | Religious Studies (5) Exploration (5) Unlocking (5) |  |
+| **[Map of Bodhisattva statues in India](docs/Quests/Other/1-1000/quest_71.md)** | Religious Studies(5) | Religious Studies (5) Exploration (5) Unlocking (5) |  |

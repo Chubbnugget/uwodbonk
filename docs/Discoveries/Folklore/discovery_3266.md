@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore related to "Resurrection"](Quests/Other/quest_6110.md)** | Tradition (7) | Biology学(8) | Reward: 439,500 / Advance payment: 40,000 Experience: 495 / Fame: 247 |
+| **[Lore related to "Resurrection"](docs/Quests/Other/6001-7000/quest_6110.md)** | Tradition (7) | Biology学(8) | Reward: 439,500 / Advance payment: 40,000 Experience: 495 / Fame: 247 |

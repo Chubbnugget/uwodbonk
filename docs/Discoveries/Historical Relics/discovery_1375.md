@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Text material collection](Quests/Adventure/quest_3730.md)** | Adventure quest (7) 14th century | Exploration(8)Archaeology(10)Chinese | Remuneration: 496,000 / Advance payment: 40,000 |
+| **[Text material collection](docs/Quests/Adventure/3001-4000/quest_3730.md)** | Adventure quest (7) 14th century | Exploration(8)Archaeology(10)Chinese | Remuneration: 496,000 / Advance payment: 40,000 |

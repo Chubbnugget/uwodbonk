@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Indian religious books](Quests/Other/quest_63.md)** | Religious Studies(5) | Religious Studies(5)Exploration(5) |  |
+| **[Map of Indian religious books](docs/Quests/Other/1-1000/quest_63.md)** | Religious Studies(5) | Religious Studies(5)Exploration(5) |  |

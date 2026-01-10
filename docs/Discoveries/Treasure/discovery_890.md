@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[宋山里遺跡群（中層）](Quests/Other/quest_2708.md)** | Dungeon (5) | - |  |
+| **[宋山里遺跡群（中層）](docs/Quests/Other/2001-3000/quest_2708.md)** | Dungeon (5) | - |  |

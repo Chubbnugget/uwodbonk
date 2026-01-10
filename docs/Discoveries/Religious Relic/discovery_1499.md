@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Mesoamerican Artifacts](Quests/Other/quest_1616.md)** | Religious Studies(6) | Religious Studies (6) Exploration (6) Unlocking (6) | Experience：200 |
+| **[Map of Mesoamerican Artifacts](docs/Quests/Other/1001-2000/quest_1616.md)** | Religious Studies(6) | Religious Studies (6) Exploration (6) Unlocking (6) | Experience：200 |

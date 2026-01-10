@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Zenobia's Small Sword](Quests/Adventure/quest_186.md)** | Adventure quest (5) | Exploration (4) Archeology (6) Unlocking (4) | Reward: 2,000 |
+| **[Zenobia's Small Sword](docs/Quests/Adventure/1-1000/quest_186.md)** | Adventure quest (5) | Exploration (4) Archeology (6) Unlocking (4) | Reward: 2,000 |

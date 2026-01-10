@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Happiness of a large family](Quests/Adventure/quest_5238.md)** | Adventure Quest (3) 17th Century Third Period | Ecological Survey (2) Biology (4) English | Reward: 119,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[Happiness of a large family](docs/Quests/Adventure/5001-6000/quest_5238.md)** | Adventure Quest (3) 17th Century Third Period | Ecological Survey (2) Biology (4) English | Reward: 119,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

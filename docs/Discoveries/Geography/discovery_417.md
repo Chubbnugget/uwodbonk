@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Frozen Sea](Quests/Adventure/quest_871.md)** | Adventure quest (4) | Geography (2) Visual recognition (1) | Reward: 21,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Frozen Sea](docs/Quests/Adventure/1-1000/quest_871.md)** | Adventure quest (4) | Geography (2) Visual recognition (1) | Reward: 21,000 / Advance payment: 0Experience: 130 / Fame: 65 |

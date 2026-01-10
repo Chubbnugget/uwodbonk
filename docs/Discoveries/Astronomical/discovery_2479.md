@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Observation record of Gold Stars](Quests/Other/quest_3910.md)** | Astronomy(4) | Astronomy(4)Visualization(4) | Experience：170 |
+| **[Observation record of Gold Stars](docs/Quests/Other/3001-4000/quest_3910.md)** | Astronomy(4) | Astronomy(4)Visualization(4) | Experience：170 |

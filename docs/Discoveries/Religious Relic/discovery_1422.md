@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Preste Joan's Stone Pillar](Quests/Adventure/quest_272.md)** | Adventure quest (5) | Religious Studies (4) Exploration (2) Italian | Reward: 279,000 / Advance payment: 0Experience: 540 / Fame: 270 |
+| **[Preste Joan's Stone Pillar](docs/Quests/Adventure/1-1000/quest_272.md)** | Adventure quest (5) | Religious Studies (4) Exploration (2) Italian | Reward: 279,000 / Advance payment: 0Experience: 540 / Fame: 270 |

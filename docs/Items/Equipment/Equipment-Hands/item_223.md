@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | glove |
 | **Type** | thing |
-| **Group** | [Equipment (hand)](Categories/category_25.md) |
+| **Group** | [Equipment (hand)](docs/Categories/category_25.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 6,400 |
 | **Description** | leather gloves. Very durable and sophisticated style. *Initial equipment *10 colors Durability 35 Formal wear 5 Defense 3 |

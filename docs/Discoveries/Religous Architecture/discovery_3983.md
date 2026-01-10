@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Temple enshrining a sacred cow](Quests/Adventure/quest_6975.md)** | Adventure quest (8) | Religious Studies (12) Visual Recognition (10) Chinese (1) | Reward: 570,000/Advance payment: 60,000Experience: 660 |
+| **[Temple enshrining a sacred cow](docs/Quests/Adventure/6001-7000/quest_6975.md)** | Adventure quest (8) | Religious Studies (12) Visual Recognition (10) Chinese (1) | Reward: 570,000/Advance payment: 60,000Experience: 660 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Biology map with long tentacles](Quests/Other/quest_6949.md)** | Biology学(21) | Ecological Survey(21)Biology(21) | Experience：700 |
+| **[Biology map with long tentacles](docs/Quests/Other/6001-7000/quest_6949.md)** | Biology学(21) | Ecological Survey(21)Biology(21) | Experience：700 |

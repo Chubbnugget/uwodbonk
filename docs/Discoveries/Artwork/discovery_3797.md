@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on Huizong's flower and bird paintings](Quests/Other/quest_6755.md)** | Pursuit quest (9) | 探索(11)美術(13)中国語(1) |  |
+| **[Additional research on Huizong's flower and bird paintings](docs/Quests/Other/6001-7000/quest_6755.md)** | Pursuit quest (9) | 探索(11)美術(13)中国語(1) |  |

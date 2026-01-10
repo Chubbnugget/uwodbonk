@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Persian seal map](Quests/Other/quest_547.md)** | Archeology(4) | Exploration(4)Archaeology(4) |  |
+| **[Ancient Persian seal map](docs/Quests/Other/1-1000/quest_547.md)** | Archeology(4) | Exploration(4)Archaeology(4) |  |

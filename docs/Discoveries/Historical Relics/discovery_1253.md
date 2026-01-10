@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What remains in the forge](Quests/Adventure/quest_3229.md)** | Adventure quest (4) | Exploration (4) Archeology (6) Spanish | Reward: 76,000 |
+| **[What remains in the forge](docs/Quests/Adventure/3001-4000/quest_3229.md)** | Adventure quest (4) | Exploration (4) Archeology (6) Spanish | Reward: 76,000 |

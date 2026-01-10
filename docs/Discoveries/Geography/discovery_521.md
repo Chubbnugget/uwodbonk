@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mountains on the continent](Quests/Adventure/quest_2689.md)** | Adventure quest (5) | Geography (7) Visual recognition (5) Korean (1) | Reward: 81,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Mountains on the continent](docs/Quests/Adventure/2001-3000/quest_2689.md)** | Adventure quest (5) | Geography (7) Visual recognition (5) Korean (1) | Reward: 81,000 / Advance payment: 0Experience: 140 / Fame: 70 |

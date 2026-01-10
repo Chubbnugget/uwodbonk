@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black Bird Map](Quests/Other/quest_1925.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Black Bird Map](docs/Quests/Other/1001-2000/quest_1925.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Roman underground ruins (upper layer)](Quests/Other/quest_3657.md)** | Dungeon (1) | - |  |
+| **[Roman underground ruins (upper layer)](docs/Quests/Other/3001-4000/quest_3657.md)** | Dungeon (1) | - |  |

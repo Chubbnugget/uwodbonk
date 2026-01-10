@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Record of Comet Stars](Quests/Adventure/quest_3773.md)** | Adventure quest (3) 18th century third period | Astronomy(1)Exploration(2)Art(4) | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Record of Comet Stars](docs/Quests/Adventure/3001-4000/quest_3773.md)** | Adventure quest (3) 18th century third period | Astronomy(1)Exploration(2)Art(4) | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |

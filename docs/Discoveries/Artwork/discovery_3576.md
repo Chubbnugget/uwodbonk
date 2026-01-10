@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue of the winner of the Olympia Festival](Quests/Other/quest_6502.md)** | Legacy(1) | - |  |
+| **[Statue of the winner of the Olympia Festival](docs/Quests/Other/6001-7000/quest_6502.md)** | Legacy(1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient food map](Quests/Other/quest_525.md)** | Archeology(2) | Exploration(2)Archaeology(2) |  |
+| **[Ancient food map](docs/Quests/Other/1-1000/quest_525.md)** | Archeology(2) | Exploration(2)Archaeology(2) |  |

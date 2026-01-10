@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lighthouse of Catatumbo](Quests/Other/quest_5640.md)** | Weather/phenomena (4) | Visual recognition (7) |  |
+| **[Lighthouse of Catatumbo](docs/Quests/Other/5001-6000/quest_5640.md)** | Weather/phenomena (4) | Visual recognition (7) |  |

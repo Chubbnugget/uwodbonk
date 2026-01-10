@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rare](Quests/Other/quest_5005.md)** | Celestial Object Discovery Name(10)17th Century Issue 4 | Astronomy(10) | Experience：820 |
+| **[Rare](docs/Quests/Other/5001-6000/quest_5005.md)** | Celestial Object Discovery Name(10)17th Century Issue 4 | Astronomy(10) | Experience：820 |

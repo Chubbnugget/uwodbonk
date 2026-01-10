@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Little bird running quickly](Quests/Adventure/quest_6790.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Greek (1) | Reward: 201,000 / Advance payment: 20,000 Experience: 210 / Fame: 120 |
+| **[Little bird running quickly](docs/Quests/Adventure/6001-7000/quest_6790.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Greek (1) | Reward: 201,000 / Advance payment: 20,000 Experience: 210 / Fame: 120 |

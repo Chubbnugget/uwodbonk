@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Yupana of the Incas](Quests/Other/quest_6433.md)** | Legacy(1) | - |  |
+| **[Yupana of the Incas](docs/Quests/Other/6001-7000/quest_6433.md)** | Legacy(1) | - |  |

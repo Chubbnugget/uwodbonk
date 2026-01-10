@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red Wolf Map](Quests/Other/quest_3329.md)** | Biology学(7) | Ecological Survey(7)Biology(7) | Experience：310 |
+| **[Red Wolf Map](docs/Quests/Other/3001-4000/quest_3329.md)** | Biology学(7) | Ecological Survey(7)Biology(7) | Experience：310 |

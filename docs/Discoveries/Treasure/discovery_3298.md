@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What was before and was lost](Quests/Adventure/quest_6142.md)** | Adventure quest (7) | Exploration (3) Treasures Appraisal (5) Italian | Reward: 83,000 / Advance payment: 0Experience: 140 / Fame: 140 |
+| **[What was before and was lost](docs/Quests/Adventure/6001-7000/quest_6142.md)** | Adventure quest (7) | Exploration (3) Treasures Appraisal (5) Italian | Reward: 83,000 / Advance payment: 0Experience: 140 / Fame: 140 |

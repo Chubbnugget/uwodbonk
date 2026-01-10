@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Knights who pioneered Germany](Quests/Adventure/quest_214.md)** | Adventure quest (4) | Exploration (1) Treasures Appraisal (3) Unlocking (1) | Reward: 2,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Knights who pioneered Germany](docs/Quests/Adventure/1-1000/quest_214.md)** | Adventure quest (4) | Exploration (1) Treasures Appraisal (3) Unlocking (1) | Reward: 2,000 / Advance payment: 0Experience: 140 / Fame: 70 |

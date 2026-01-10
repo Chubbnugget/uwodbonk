@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Maiden's Transformation Story](Quests/Adventure/quest_3898.md)** | Adventure Quest (3) Mythology Era | Astronomy (4) Religious Studies (3) Visualization (2) | Reward: 125,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |
+| **[Maiden's Transformation Story](docs/Quests/Adventure/3001-4000/quest_3898.md)** | Adventure Quest (3) Mythology Era | Astronomy (4) Religious Studies (3) Visualization (2) | Reward: 125,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |

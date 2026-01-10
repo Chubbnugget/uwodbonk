@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ethiopian Princess](Quests/Adventure/quest_3890.md)** | Adventure Quest (5) Mythology Era | Astronomy(6)Archaeology(4)Visibility(4) | Reward: 325,000/ Advance: 30,000Experience: 340/ Fame: 145 |
+| **[Ethiopian Princess](docs/Quests/Adventure/3001-4000/quest_3890.md)** | Adventure Quest (5) Mythology Era | Astronomy(6)Archaeology(4)Visibility(4) | Reward: 325,000/ Advance: 30,000Experience: 340/ Fame: 145 |

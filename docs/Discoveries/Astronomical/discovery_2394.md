@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars made in Germany](Quests/Adventure/quest_3892.md)** | Adventure quest (7) | Astronomy (9) Visualization (7) German | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Stars made in Germany](docs/Quests/Adventure/3001-4000/quest_3892.md)** | Adventure quest (7) | Astronomy (9) Visualization (7) German | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 70 |

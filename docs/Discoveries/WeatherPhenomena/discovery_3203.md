@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue Fire](Quests/Other/quest_6002.md)** | Weather/phenomena (9) | Visual recognition |  |
+| **[Blue Fire](docs/Quests/Other/6001-7000/quest_6002.md)** | Weather/phenomena (9) | Visual recognition |  |

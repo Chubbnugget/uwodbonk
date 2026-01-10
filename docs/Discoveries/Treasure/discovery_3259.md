@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Luxury gift map](Quests/Other/quest_6079.md)** | Treasures鑑定(12) | Exploration (12) Treasures Appraisal (12) Unlocking (12) |  |
+| **[Luxury gift map](docs/Quests/Other/6001-7000/quest_6079.md)** | Treasures鑑定(12) | Exploration (12) Treasures Appraisal (12) Unlocking (12) |  |

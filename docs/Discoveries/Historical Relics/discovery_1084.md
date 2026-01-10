@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Heyday of the Kiev Rus](Quests/Adventure/quest_3599.md)** | Adventure Quest (5) 18th Century 3rd Period | Exploration (5) Archeology (7) Unlocking (5) | Reward: 122,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |
+| **[Heyday of the Kiev Rus](docs/Quests/Adventure/3001-4000/quest_3599.md)** | Adventure Quest (5) 18th Century 3rd Period | Exploration (5) Archeology (7) Unlocking (5) | Reward: 122,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |

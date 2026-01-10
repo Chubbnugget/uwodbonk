@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mesoamerican vessel map](Quests/Other/quest_1416.md)** | Archeology(5) | Exploration (5) Archeology (5) Unlocking (5) |  |
+| **[Mesoamerican vessel map](docs/Quests/Other/1001-2000/quest_1416.md)** | Archeology(5) | Exploration (5) Archeology (5) Unlocking (5) |  |

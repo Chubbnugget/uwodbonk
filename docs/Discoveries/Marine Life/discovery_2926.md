@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Candy-like crab](Quests/Adventure/quest_5590.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Japanese | Reward: 212,000 / Advance payment: 20,000 Experience: 220 / Fame: 125 |
+| **[Candy-like crab](docs/Quests/Adventure/5001-6000/quest_5590.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Japanese | Reward: 212,000 / Advance payment: 20,000 Experience: 220 / Fame: 125 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Anecdote of the Great King](Quests/Adventure/quest_806.md)** | Adventure Quest (8) B.C. | Exploration (7) Archeology (9) Unlocking (7) | Reward: 2,000/ Advance payment: 20,000 Experience: 240/ Fame: 105 |
+| **[Anecdote of the Great King](docs/Quests/Adventure/1-1000/quest_806.md)** | Adventure Quest (8) B.C. | Exploration (7) Archeology (9) Unlocking (7) | Reward: 2,000/ Advance payment: 20,000 Experience: 240/ Fame: 105 |

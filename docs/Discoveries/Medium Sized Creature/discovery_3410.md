@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cool snake investigation](Quests/Adventure/quest_6326.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Portuguese | Reward: 135,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |
+| **[Cool snake investigation](docs/Quests/Adventure/6001-7000/quest_6326.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Portuguese | Reward: 135,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |

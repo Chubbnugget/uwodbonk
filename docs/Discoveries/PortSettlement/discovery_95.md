@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Nassau](Quests/Other/quest_5105.md)** | Port/village (1) | - |  |
+| **[Nassau](docs/Quests/Other/5001-6000/quest_5105.md)** | Port/village (1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Musk of Siberia](Quests/Adventure/quest_3687.md)** | Adventure quest (7) 18th century third period | Ecological Survey (7) Biology (9) Norse | Reward: 479,000 / Advance payment: 40,000 Experience: 390 / Fame: 235 |
+| **[Musk of Siberia](docs/Quests/Adventure/3001-4000/quest_3687.md)** | Adventure quest (7) 18th century third period | Ecological Survey (7) Biology (9) Norse | Reward: 479,000 / Advance payment: 40,000 Experience: 390 / Fame: 235 |

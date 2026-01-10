@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White Bird Map](Quests/Other/quest_1972.md)** | Biology学(7) | Ecological Survey(7)Biology(7) |  |
+| **[White Bird Map](docs/Quests/Other/1001-2000/quest_1972.md)** | Biology学(7) | Ecological Survey(7)Biology(7) |  |

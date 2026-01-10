@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Standards of Joseon Dynasty Politics](Quests/Adventure/quest_2739.md)** | Adventure Quest (6) 15th Century 5th Period | 探索(4)Treasures鑑定(6)朝鮮語 | Reward: 145,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |
+| **[Standards of Joseon Dynasty Politics](docs/Quests/Adventure/2001-3000/quest_2739.md)** | Adventure Quest (6) 15th Century 5th Period | 探索(4)Treasures鑑定(6)朝鮮語 | Reward: 145,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |

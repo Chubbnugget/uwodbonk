@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | intoxicating liquor |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 500 |
 | **Description** | Items for land combat. A strong-smelling liquor that confuses enemies. Effect/small. Effect when used: Illusion attack Rank 6 Required gauge 60 Cooldown time 375 |

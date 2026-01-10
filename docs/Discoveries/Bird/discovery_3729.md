@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bird that sings like a cat](Quests/Adventure/quest_6678.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Portuguese | Reward: 33,000／ Advance payment: 0Experience: 130 |
+| **[Bird that sings like a cat](docs/Quests/Adventure/6001-7000/quest_6678.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Portuguese | Reward: 33,000／ Advance payment: 0Experience: 130 |

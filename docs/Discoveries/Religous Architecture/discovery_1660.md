@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of the Pyramids of Giza](Quests/Adventure/quest_115.md)** | Adventure Quest (4) B.C. | Religious Studies (2) Visual Recognition (1) Arabic | Reward: 45,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Investigation of the Pyramids of Giza](docs/Quests/Adventure/1-1000/quest_115.md)** | Adventure Quest (4) B.C. | Religious Studies (2) Visual Recognition (1) Arabic | Reward: 45,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of indigenous jewelry](Quests/Other/quest_3888.md)** | Treasures鑑定(7) | Exploration (7) Treasures Appraisal (7) Unlocking (7) | Experience：240 |
+| **[Map of indigenous jewelry](docs/Quests/Other/3001-4000/quest_3888.md)** | Treasures鑑定(7) | Exploration (7) Treasures Appraisal (7) Unlocking (7) | Experience：240 |

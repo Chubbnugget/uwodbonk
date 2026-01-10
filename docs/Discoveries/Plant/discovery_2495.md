@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Nuts that can be used as staple food](Quests/Adventure/quest_4792.md)** | Adventure quest (3) 19th century | Ecological research (2) Biology (4) Oceanian languages | Reward: 94,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Nuts that can be used as staple food](docs/Quests/Adventure/4001-5000/quest_4792.md)** | Adventure quest (3) 19th century | Ecological research (2) Biology (4) Oceanian languages | Reward: 94,000 / Advance payment: 0Experience: 150 / Fame: 70 |

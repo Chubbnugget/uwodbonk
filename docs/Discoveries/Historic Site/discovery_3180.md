@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[To satisfy the desire for knowledge](Quests/Adventure/quest_5929.md)** | Adventure quest (4) | Archeology (4) Visualization (2) Dutch (1) | Reward: 111,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[To satisfy the desire for knowledge](docs/Quests/Adventure/5001-6000/quest_5929.md)** | Adventure quest (4) | Archeology (4) Visualization (2) Dutch (1) | Reward: 111,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

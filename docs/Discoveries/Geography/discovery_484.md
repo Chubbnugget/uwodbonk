@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The island that splits the great river](Quests/Adventure/quest_1258.md)** | Adventure quest (8) 16th century 4th period | Geography (8) Visual recognition (6) Dutch | Reward: 250,000 / Advance payment: 20,000 Experience: 330 / Fame: 120 |
+| **[The island that splits the great river](docs/Quests/Adventure/1001-2000/quest_1258.md)** | Adventure quest (8) 16th century 4th period | Geography (8) Visual recognition (6) Dutch | Reward: 250,000 / Advance payment: 20,000 Experience: 330 / Fame: 120 |

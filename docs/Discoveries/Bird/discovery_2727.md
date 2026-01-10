@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Immobile Bird](Quests/Adventure/quest_5315.md)** | Adventure quest (6) | Ecological research (6) Biology (8) West African languages | Reward: 245,000/ Advance: 30,000Experience: 240/ Fame: 140 |
+| **[Immobile Bird](docs/Quests/Adventure/5001-6000/quest_5315.md)** | Adventure quest (6) | Ecological research (6) Biology (8) West African languages | Reward: 245,000/ Advance: 30,000Experience: 240/ Fame: 140 |

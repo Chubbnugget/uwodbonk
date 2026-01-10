@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The end of the journey](Quests/Adventure/quest_1642.md)** | Adventure Quest (10) 16th Century 2nd Period | Geography (12) Visual recognition (10) Malayu Tagalog | Reward: 580,000 / Advance payment: 55,000 Experience: 750 / Fame: 260 |
+| **[The end of the journey](docs/Quests/Adventure/1001-2000/quest_1642.md)** | Adventure Quest (10) 16th Century 2nd Period | Geography (12) Visual recognition (10) Malayu Tagalog | Reward: 580,000 / Advance payment: 55,000 Experience: 750 / Fame: 260 |

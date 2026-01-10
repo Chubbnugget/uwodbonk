@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars Sky Guide](Quests/Adventure/quest_3744.md)** | Adventure quest (1) | Astronomy (1) Visual recognition (1) French | Reward: 65,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Stars Sky Guide](docs/Quests/Adventure/3001-4000/quest_3744.md)** | Adventure quest (1) | Astronomy (1) Visual recognition (1) French | Reward: 65,000 / Advance payment: 0Experience: 130 / Fame: 65 |

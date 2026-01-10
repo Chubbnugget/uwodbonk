@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Biology research site in the far north](Quests/Adventure/quest_3683.md)** | Adventure Quest (5) 18th Century 3rd Period | Geography (6) Visual recognition (4) Norse | Reward: 295,000/Advance payment: 20,000Experience: 320 |
+| **[Biology research site in the far north](docs/Quests/Adventure/3001-4000/quest_3683.md)** | Adventure Quest (5) 18th Century 3rd Period | Geography (6) Visual recognition (4) Norse | Reward: 295,000/Advance payment: 20,000Experience: 320 |

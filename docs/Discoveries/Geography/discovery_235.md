@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Security in the Western Sea Area](Quests/Adventure/quest_749.md)** | Adventure quest (6) 16th century 4th period | Geography (6) Visual recognition (4) Spanish | Reward: 99,000 / Advance payment: 0Experience: 190 / Fame: 85 |
+| **[Security in the Western Sea Area](docs/Quests/Adventure/1-1000/quest_749.md)** | Adventure quest (6) 16th century 4th period | Geography (6) Visual recognition (4) Spanish | Reward: 99,000 / Advance payment: 0Experience: 190 / Fame: 85 |

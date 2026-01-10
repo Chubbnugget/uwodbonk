@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Great Wall of Babylon in the Old Days](Quests/Other/quest_6593.md)** | Legacy(1) | - | Experience：4,000 |
+| **[The Great Wall of Babylon in the Old Days](docs/Quests/Other/6001-7000/quest_6593.md)** | Legacy(1) | - | Experience：4,000 |

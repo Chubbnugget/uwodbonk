@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unusual folding screen map](Quests/Other/quest_2494.md)** | 美術(4) | 探索(4)美術(4) |  |
+| **[Unusual folding screen map](docs/Quests/Other/2001-3000/quest_2494.md)** | 美術(4) | 探索(4)美術(4) |  |

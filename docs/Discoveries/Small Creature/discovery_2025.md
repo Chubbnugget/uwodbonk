@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Not big, not small](Quests/Adventure/quest_2750.md)** | Adventure quest (4) | Ecological Survey (2) Biology (4) Korean | Reward: 60,000 / Advance payment: 0Experience: 130 / Fame: 130 |
+| **[Not big, not small](docs/Quests/Adventure/2001-3000/quest_2750.md)** | Adventure quest (4) | Ecological Survey (2) Biology (4) Korean | Reward: 60,000 / Advance payment: 0Experience: 130 / Fame: 130 |

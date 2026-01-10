@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of deer-like animals](Quests/Other/quest_628.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |
+| **[Map of deer-like animals](docs/Quests/Other/1-1000/quest_628.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jewel-like butterfly](Quests/Adventure/quest_6112.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Swahili | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Jewel-like butterfly](docs/Quests/Adventure/6001-7000/quest_6112.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Swahili | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Traditional stringed instruments](Quests/Adventure/quest_2500.md)** | Adventure quest (6) | 探索(6)Treasures鑑定(8)日本語(1) | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Traditional stringed instruments](docs/Quests/Adventure/2001-3000/quest_2500.md)** | Adventure quest (6) | 探索(6)Treasures鑑定(8)日本語(1) | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |

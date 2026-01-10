@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Let's stare](Quests/Adventure/quest_5855.md)** | Adventure quest (10) | Ecological Survey (15) Biology (17) Korean | Reward: 313,000 / Advance payment: 30,000 Experience: 280 / Fame: 340 |
+| **[Let's stare](docs/Quests/Adventure/5001-6000/quest_5855.md)** | Adventure quest (10) | Ecological Survey (15) Biology (17) Korean | Reward: 313,000 / Advance payment: 30,000 Experience: 280 / Fame: 340 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Shark habitat survey](Quests/Adventure/quest_159.md)** | Adventure quest (3) | Ecological research (1) Biology (1) Portuguese | Reward: 6,000 / Advance payment: 0Experience: 120 / Fame: 60 |
+| **[Shark habitat survey](docs/Quests/Adventure/1-1000/quest_159.md)** | Adventure quest (3) | Ecological research (1) Biology (1) Portuguese | Reward: 6,000 / Advance payment: 0Experience: 120 / Fame: 60 |

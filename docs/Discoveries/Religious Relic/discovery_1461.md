@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Goddess of Slaughter](Quests/Adventure/quest_1069.md)** | Adventure Quest (7) Mythology Era | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 78,000 / Advance payment: 0Experience: 290 / Fame: 190 |
+| **[Goddess of Slaughter](docs/Quests/Adventure/1001-2000/quest_1069.md)** | Adventure Quest (7) Mythology Era | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 78,000 / Advance payment: 0Experience: 290 / Fame: 190 |

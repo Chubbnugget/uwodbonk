@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The mystery lies in the details](Quests/Adventure/quest_6204.md)** | Adventure Quest (8) 15th Century 2nd Period | Exploration (9) Treasures Appraisal (11) Portuguese | Reward: 61,600 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[The mystery lies in the details](docs/Quests/Adventure/6001-7000/quest_6204.md)** | Adventure Quest (8) 15th Century 2nd Period | Exploration (9) Treasures Appraisal (11) Portuguese | Reward: 61,600 / Advance payment: 0Experience: 130 / Fame: 65 |

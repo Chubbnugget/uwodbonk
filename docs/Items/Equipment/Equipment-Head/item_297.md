@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | flat cap |
 | **Type** | thing |
-| **Group** | [Equipment（頭）](Categories/category_23.md) |
+| **Group** | [Equipment（頭）](docs/Categories/category_23.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 600 |
 | **Description** | A flat, wide-brimmed hat. Often used as travel gear. *Equipment at the time of character creation Durability 30 Defense power 2 |

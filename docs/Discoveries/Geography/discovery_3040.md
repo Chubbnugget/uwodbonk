@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dragon Bay](Quests/Adventure/quest_5755.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) Malayu Tagalog | Reward: 538,000 / Advance payment: 50,000 Experience: 420 / Fame: 260 |
+| **[Dragon Bay](docs/Quests/Adventure/5001-6000/quest_5755.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) Malayu Tagalog | Reward: 538,000 / Advance payment: 50,000 Experience: 420 / Fame: 260 |

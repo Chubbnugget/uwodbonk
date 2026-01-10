@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient canoe map](Quests/Other/quest_5255.md)** | Re-examination reward (8) | Exploration(8)Archaeology(8) |  |
+| **[Ancient canoe map](docs/Quests/Other/5001-6000/quest_5255.md)** | Re-examination reward (8) | Exploration(8)Archaeology(8) |  |

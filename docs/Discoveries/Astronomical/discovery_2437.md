@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Orion's Belt](Quests/Other/quest_3792.md)** | Celestial Object Discovery Name(2)17th Century Issue 4 | Astronomy(2) | Experience：380 |
+| **[Orion's Belt](docs/Quests/Other/3001-4000/quest_3792.md)** | Celestial Object Discovery Name(2)17th Century Issue 4 | Astronomy(2) | Experience：380 |

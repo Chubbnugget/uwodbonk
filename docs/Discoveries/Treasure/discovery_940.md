@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unreadable letter](Quests/Adventure/quest_2845.md)** | Adventure quest (7) | 探索(8)Treasures鑑定(10)中国語 | Reward: 104,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[Unreadable letter](docs/Quests/Adventure/2001-3000/quest_2845.md)** | Adventure quest (7) | 探索(8)Treasures鑑定(10)中国語 | Reward: 104,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

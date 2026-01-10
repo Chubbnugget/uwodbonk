@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of King Penguin](Quests/Other/quest_6992.md)** | Pursuit quest (10) | Ecological research (13) Biology (15) Portuguese (1) | Reward: 350,000 |
+| **[Additional investigation of King Penguin](docs/Quests/Other/6001-7000/quest_6992.md)** | Pursuit quest (10) | Ecological research (13) Biology (15) Portuguese (1) | Reward: 350,000 |

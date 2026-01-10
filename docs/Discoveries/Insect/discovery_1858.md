@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Phantom under the blue sky](Quests/Adventure/quest_2798.md)** | Adventure quest (9) | Survival (5) Ecological research (12) Biology (14) | Reward: 815,000 / Advance payment: 80,000 Experience: 750 / Fame: 300 |
+| **[Phantom under the blue sky](docs/Quests/Adventure/2001-3000/quest_2798.md)** | Adventure quest (9) | Survival (5) Ecological research (12) Biology (14) | Reward: 815,000 / Advance payment: 80,000 Experience: 750 / Fame: 300 |

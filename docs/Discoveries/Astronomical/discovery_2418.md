@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Leoza Stars group](Quests/Other/quest_3908.md)** | Celestial Object Discovery Name(3)19th century | Astronomy(3) | Experience：240 |
+| **[Leoza Stars group](docs/Quests/Other/3001-4000/quest_3908.md)** | Celestial Object Discovery Name(3)19th century | Astronomy(3) | Experience：240 |

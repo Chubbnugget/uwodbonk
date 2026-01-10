@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Aboukir Shipwreck](Quests/Other/quest_2113.md)** | Sunken ship (4) | Salvage Archeology (3) Unlock |  |
+| **[Aboukir Shipwreck](docs/Quests/Other/2001-3000/quest_2113.md)** | Sunken ship (4) | Salvage Archeology (3) Unlock |  |

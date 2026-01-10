@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Mountains](Quests/Adventure/quest_3258.md)** | Adventure Quest (5) Mythology Era | Geography (5) Religious studies (3) Visual recognition (3) | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Giant Mountains](docs/Quests/Adventure/3001-4000/quest_3258.md)** | Adventure Quest (5) Mythology Era | Geography (5) Religious studies (3) Visual recognition (3) | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 70 |

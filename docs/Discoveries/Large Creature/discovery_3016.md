@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tiger with medicinal properties for bones](Quests/Adventure/quest_5728.md)** | Adventure quest (7) | Ecological research (10) Biology (12) Arabic (1) | Reward: 290,000 / Advance payment: 20,000 Experience: 270 / Fame: 160 |
+| **[Tiger with medicinal properties for bones](docs/Quests/Adventure/5001-6000/quest_5728.md)** | Adventure quest (7) | Ecological research (10) Biology (12) Arabic (1) | Reward: 290,000 / Advance payment: 20,000 Experience: 270 / Fame: 160 |

@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation west of Plymouth](Quests/Adventure/quest_5994.md)** | Adventure quest (2) | Geography (1) Visual recognition (1) English | Reward: 25,000Experience: 140/ Fame: 130 |
-| **[Cape at the End of the Earth](Quests/Adventure/quest_833.md)** | Adventure quest (3) | Geography (1) Visual recognition (1) English | Reward: 6,000/ Advance payment: 0 |
+| **[Investigation west of Plymouth](docs/Quests/Adventure/5001-6000/quest_5994.md)** | Adventure quest (2) | Geography (1) Visual recognition (1) English | Reward: 25,000Experience: 140/ Fame: 130 |
+| **[Cape at the End of the Earth](docs/Quests/Adventure/1-1000/quest_833.md)** | Adventure quest (3) | Geography (1) Visual recognition (1) English | Reward: 6,000/ Advance payment: 0 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of poisonous spiders](Quests/Other/quest_6465.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) Italian | Reward: 210,000 / Advance payment: 0Experience: 370 |
+| **[Additional investigation of poisonous spiders](docs/Quests/Other/6001-7000/quest_6465.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) Italian | Reward: 210,000 / Advance payment: 0Experience: 370 |

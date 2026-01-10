@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Fes |
 | **Type** | thing |
-| **Group** | [Equipment（頭）](Categories/category_23.md) |
+| **Group** | [Equipment（頭）](docs/Categories/category_23.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 19,000 |
 | **Description** | Traditional North African pottery hat. Durability 30 Formal wear 5 Disguise 10 Defense 3 Total required fame 500 |

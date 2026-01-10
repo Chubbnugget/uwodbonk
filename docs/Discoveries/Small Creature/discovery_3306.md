@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Medicine or poison](Quests/Adventure/quest_6159.md)** | Adventure quest (10) 14th century | Ecological research (13) Biology (15) Chinese (1) | Reward: 852,000/Advance payment: 80,000Experience: 620 |
+| **[Medicine or poison](docs/Quests/Adventure/6001-7000/quest_6159.md)** | Adventure quest (10) 14th century | Ecological research (13) Biology (15) Chinese (1) | Reward: 852,000/Advance payment: 80,000Experience: 620 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars approaching the sun](Quests/Adventure/quest_5873.md)** | Adventure quest (10) | Astronomy (17) Visual recognition (15) English | Reward: 216,000/ Advance: 20,000Experience: 220/ Fame: 125 |
+| **[Stars approaching the sun](docs/Quests/Adventure/5001-6000/quest_5873.md)** | Adventure quest (10) | Astronomy (17) Visual recognition (15) English | Reward: 216,000/ Advance: 20,000Experience: 220/ Fame: 125 |

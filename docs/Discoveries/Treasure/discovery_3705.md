@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Viking Footprints](Quests/Adventure/quest_6651.md)** | Adventure quest (7) | 探索(8)Treasures鑑定(10)英語(1) | Reward: 217,700 / Advance payment: 20,000 Experience: 260 / Fame: 115 |
+| **[Viking Footprints](docs/Quests/Adventure/6001-7000/quest_6651.md)** | Adventure quest (7) | 探索(8)Treasures鑑定(10)英語(1) | Reward: 217,700 / Advance payment: 20,000 Experience: 260 / Fame: 115 |

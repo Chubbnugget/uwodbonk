@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Treasure trove of strange stones](Quests/Adventure/quest_6018.md)** | Adventure quest (9) | Geography (11) Visual recognition (9) North American languages | Reward: 514,000 / Advance payment: 50,000 Experience: 410 / Fame: 250 |
+| **[Treasure trove of strange stones](docs/Quests/Adventure/6001-7000/quest_6018.md)** | Adventure quest (9) | Geography (11) Visual recognition (9) North American languages | Reward: 514,000 / Advance payment: 50,000 Experience: 410 / Fame: 250 |

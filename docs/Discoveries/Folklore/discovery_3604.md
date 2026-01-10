@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore of the Earth Spirit](Quests/Other/quest_6537.md)** | Tradition (8) | Religious Studies(8) | Reward: 398,000 / Advance payment: 40,000 Experience: 480 / Fame: 240 |
+| **[Lore of the Earth Spirit](docs/Quests/Other/6001-7000/quest_6537.md)** | Tradition (8) | Religious Studies(8) | Reward: 398,000 / Advance payment: 40,000 Experience: 480 / Fame: 240 |

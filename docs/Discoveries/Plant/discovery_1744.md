@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White Flower Map](Quests/Other/quest_907.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |
+| **[White Flower Map](docs/Quests/Other/1-1000/quest_907.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |

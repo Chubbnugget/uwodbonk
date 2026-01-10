@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lion's Tail](Quests/Adventure/quest_3751.md)** | Adventure quest (3) | Astronomy (4) Visual recognition (2) Italian | Reward: 85,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Lion's Tail](docs/Quests/Adventure/3001-4000/quest_3751.md)** | Adventure quest (3) | Astronomy (4) Visual recognition (2) Italian | Reward: 85,000 / Advance payment: 0Experience: 140 / Fame: 70 |

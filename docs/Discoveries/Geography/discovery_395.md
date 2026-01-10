@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Baltic Sea Bay Survey](Quests/Adventure/quest_246.md)** | Adventure Quest (4) 16th Century 2nd Period | Geography (2) Visual recognition (1) Slavic languages | Reward: 69,000 / Advance payment: 0Experience: 210 |
+| **[Baltic Sea Bay Survey](docs/Quests/Adventure/1-1000/quest_246.md)** | Adventure Quest (4) 16th Century 2nd Period | Geography (2) Visual recognition (1) Slavic languages | Reward: 69,000 / Advance payment: 0Experience: 210 |

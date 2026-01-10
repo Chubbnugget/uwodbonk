@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Indian Code](Quests/Adventure/quest_489.md)** | Adventure quest (6) | Religious Studies (5) Exploration (3) Indian Languages | Reward: 79,000 / Advance payment: 0Experience: 180 / Fame: 85 |
+| **[Ancient Indian Code](docs/Quests/Adventure/1-1000/quest_489.md)** | Adventure quest (6) | Religious Studies (5) Exploration (3) Indian Languages | Reward: 79,000 / Advance payment: 0Experience: 180 / Fame: 85 |

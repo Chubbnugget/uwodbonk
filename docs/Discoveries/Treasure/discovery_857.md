@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rare Book Map](Quests/Other/quest_2740.md)** | Treasures鑑定(5) | 探索(5)Treasures鑑定(5) | Experience：160 |
+| **[Rare Book Map](docs/Quests/Other/2001-3000/quest_2740.md)** | Treasures鑑定(5) | 探索(5)Treasures鑑定(5) | Experience：160 |

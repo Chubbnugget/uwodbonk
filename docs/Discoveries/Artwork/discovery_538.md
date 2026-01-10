@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Small religious painting map](Quests/Other/quest_658.md)** | 美術(2) | 探索(2)美術(2) |  |
+| **[Small religious painting map](docs/Quests/Other/1-1000/quest_658.md)** | 美術(2) | 探索(2)美術(2) |  |

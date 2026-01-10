@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Boston](Quests/Other/quest_5602.md)** | Port/village (2) | - |  |
+| **[Boston](docs/Quests/Other/5001-6000/quest_5602.md)** | Port/village (2) | - |  |

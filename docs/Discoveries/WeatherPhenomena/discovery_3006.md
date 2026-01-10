@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lens cloud](Quests/Other/quest_5717.md)** | Weather/phenomena (1) | Visual recognition (6) |  |
+| **[Lens cloud](docs/Quests/Other/5001-6000/quest_5717.md)** | Weather/phenomena (1) | Visual recognition (6) |  |

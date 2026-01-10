@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Egyptian sky god](Quests/Adventure/quest_90.md)** | Adventure Quest (4) Mythology Era | Religious Studies (2) Exploration (1) Arabic | Reward: 16,000Experience: 130/ Fame: 65 |
+| **[Egyptian sky god](docs/Quests/Adventure/1-1000/quest_90.md)** | Adventure Quest (4) Mythology Era | Religious Studies (2) Exploration (1) Arabic | Reward: 16,000Experience: 130/ Fame: 65 |

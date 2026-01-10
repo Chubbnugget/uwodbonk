@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bending Pyramid](Quests/Other/quest_6401.md)** | Legacy(1) | - | Experience: 2,250/ Reputation: 750 |
+| **[Bending Pyramid](docs/Quests/Other/6001-7000/quest_6401.md)** | Legacy(1) | - | Experience: 2,250/ Reputation: 750 |

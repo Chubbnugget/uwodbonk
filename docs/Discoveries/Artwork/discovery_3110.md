@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Islamic calligraphy](Quests/Adventure/quest_5852.md)** | Adventure quest (10) | Exploration (15) Art (17) Turkish | Reward: 855,000/Advance payment: 80,000Experience: 620 |
+| **[Islamic calligraphy](docs/Quests/Adventure/5001-6000/quest_5852.md)** | Adventure quest (10) | Exploration (15) Art (17) Turkish | Reward: 855,000/Advance payment: 80,000Experience: 620 |

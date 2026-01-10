@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Guardian of Era](Quests/Adventure/quest_1470.md)** | Adventure quest (6) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 105,000 / Advance payment: 10,000 Experience: 290 / Fame: 100 |
+| **[Guardian of Era](docs/Quests/Adventure/1001-2000/quest_1470.md)** | Adventure quest (6) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 105,000 / Advance payment: 10,000 Experience: 290 / Fame: 100 |

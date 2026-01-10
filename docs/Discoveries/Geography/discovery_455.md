@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Find the origin](Quests/Adventure/quest_1275.md)** | Adventure Quest (6) 16th Century 1st Period | Geography (7) Visual recognition (5) Malayu Tagalog | Reward: 129,000 / Advance payment: 0Experience: 285 / Fame: 90 |
+| **[Find the origin](docs/Quests/Adventure/1001-2000/quest_1275.md)** | Adventure Quest (6) 16th Century 1st Period | Geography (7) Visual recognition (5) Malayu Tagalog | Reward: 129,000 / Advance payment: 0Experience: 285 / Fame: 90 |

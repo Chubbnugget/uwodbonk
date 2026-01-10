@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Confucian school](Quests/Adventure/quest_6646.md)** | Adventure quest (7) | Religious Studies (10) Visual Recognition (8) Chinese (1) | Reward: 217,700 / Advance payment: 20,000 Experience: 260 / Fame: 115 |
+| **[Confucian school](docs/Quests/Adventure/6001-7000/quest_6646.md)** | Adventure quest (7) | Religious Studies (10) Visual Recognition (8) Chinese (1) | Reward: 217,700 / Advance payment: 20,000 Experience: 260 / Fame: 115 |

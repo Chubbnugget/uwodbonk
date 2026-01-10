@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A Certain Order](Quests/Adventure/quest_6128.md)** | Adventure quest (8) | Religious Studies (12) Exploration (10) Greek | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[A Certain Order](docs/Quests/Adventure/6001-7000/quest_6128.md)** | Adventure quest (8) | Religious Studies (12) Exploration (10) Greek | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Glasswork Map](Quests/Other/quest_1857.md)** | Archeology(4) | Exploration (4) Archeology (4) Unlocking (4) |  |
+| **[Glasswork Map](docs/Quests/Other/1001-2000/quest_1857.md)** | Archeology(4) | Exploration (4) Archeology (4) Unlocking (4) |  |

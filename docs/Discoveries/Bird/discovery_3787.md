@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Longing for a journey with a hawk](Quests/Adventure/quest_6745.md)** | Adventure quest (6) 14th century | Ecological Survey (5) Biology (7) Chinese | Reward: 280,000/ Advance: 30,000Experience: 280/ Fame: 140 |
+| **[Longing for a journey with a hawk](docs/Quests/Adventure/6001-7000/quest_6745.md)** | Adventure quest (6) 14th century | Ecological Survey (5) Biology (7) Chinese | Reward: 280,000/ Advance: 30,000Experience: 280/ Fame: 140 |

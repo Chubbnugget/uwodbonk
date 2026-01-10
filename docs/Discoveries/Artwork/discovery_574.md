@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Da Vinci Code](Quests/Adventure/quest_192.md)** | Adventure quest (9) 16th century 1st period | Exploration (11) Art (13) Unlocking (11) | Reward: 365,000 / Advance payment: 0Experience: 375 / Fame: 130 |
+| **[Da Vinci Code](docs/Quests/Adventure/1-1000/quest_192.md)** | Adventure quest (9) 16th century 1st period | Exploration (11) Art (13) Unlocking (11) | Reward: 365,000 / Advance payment: 0Experience: 375 / Fame: 130 |

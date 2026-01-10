@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Danger of high mountains](Quests/Adventure/quest_5760.md)** | Adventure quest (10) | Geography (17) Visualization (15) Greek | Reward: 825,000 / Advance payment: 80,000 Experience: 600 / Fame: 380 |
+| **[Danger of high mountains](docs/Quests/Adventure/5001-6000/quest_5760.md)** | Adventure quest (10) | Geography (17) Visualization (15) Greek | Reward: 825,000 / Advance payment: 80,000 Experience: 600 / Fame: 380 |

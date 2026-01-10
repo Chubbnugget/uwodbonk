@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[For the groom's appearance](Quests/Adventure/quest_6022.md)** | Adventure quest (2) | 探索(1)Treasures鑑定(3)英語 | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 130 |
+| **[For the groom's appearance](docs/Quests/Adventure/6001-7000/quest_6022.md)** | Adventure quest (2) | 探索(1)Treasures鑑定(3)英語 | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 130 |

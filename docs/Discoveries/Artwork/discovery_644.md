@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Virgin and Child Statue](Quests/Adventure/quest_745.md)** | Adventure quest (5) | Exploration (2) Art (4) German | Reward: 38,000 / Advance payment: 0Experience: 200 / Fame: 100 |
+| **[Virgin and Child Statue](docs/Quests/Adventure/1-1000/quest_745.md)** | Adventure quest (5) | Exploration (2) Art (4) German | Reward: 38,000 / Advance payment: 0Experience: 200 / Fame: 100 |

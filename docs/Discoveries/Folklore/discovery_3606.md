@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore of the Wind Spirit](Quests/Other/quest_6539.md)** | Tradition (8) | Religious Studies(8) | Reward: 756,000 / Advance payment: 80,000 Experience: 690 / Fame: 350 |
+| **[Lore of the Wind Spirit](docs/Quests/Other/6001-7000/quest_6539.md)** | Tradition (8) | Religious Studies(8) | Reward: 756,000 / Advance payment: 80,000 Experience: 690 / Fame: 350 |

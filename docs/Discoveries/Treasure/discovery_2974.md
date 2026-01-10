@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bronze tone](Quests/Adventure/quest_5657.md)** | Adventure quest (5) | Exploration (5) Treasures Appraisal (7) Malayu Tagalog | Reward: 190,000/ Advance: 10,000 Experience: 210/ Fame: 115 |
+| **[Bronze tone](docs/Quests/Adventure/5001-6000/quest_5657.md)** | Adventure quest (5) | Exploration (5) Treasures Appraisal (7) Malayu Tagalog | Reward: 190,000/ Advance: 10,000 Experience: 210/ Fame: 115 |

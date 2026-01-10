@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pyramid of Giza (upper layer)](Quests/Other/quest_2410.md)** | Dungeon (1) | - |  |
+| **[Pyramid of Giza (upper layer)](docs/Quests/Other/2001-3000/quest_2410.md)** | Dungeon (1) | - |  |

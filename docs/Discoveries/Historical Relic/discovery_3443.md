@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legend related to the Colossus](Quests/Other/quest_6354.md)** | Treasure hunting (7) | Archeology (13) Visualization (11) Greek (1) | Remuneration: 0/Advance payment: 0 |
+| **[Legend related to the Colossus](docs/Quests/Other/6001-7000/quest_6354.md)** | Treasure hunting (7) | Archeology (13) Visualization (11) Greek (1) | Remuneration: 0/Advance payment: 0 |

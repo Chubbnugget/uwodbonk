@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Andean ritual tools](Quests/Other/quest_1962.md)** | Religious Studies(7) | Religious Studies (7) Exploration (7) Unlocking (7) | Experience：220 |
+| **[Map of Andean ritual tools](docs/Quests/Other/1001-2000/quest_1962.md)** | Religious Studies(7) | Religious Studies (7) Exploration (7) Unlocking (7) | Experience：220 |

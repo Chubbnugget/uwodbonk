@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Era features of King Minos](Quests/Adventure/quest_1596.md)** | Adventure quest (4) | Exploration (2) Archeology (4) Greek (2) | Reward: 59,000 / Advance payment: 0Experience: 240 / Fame: 75 |
+| **[Era features of King Minos](docs/Quests/Adventure/1001-2000/quest_1596.md)** | Adventure quest (4) | Exploration (2) Archeology (4) Greek (2) | Reward: 59,000 / Advance payment: 0Experience: 240 / Fame: 75 |

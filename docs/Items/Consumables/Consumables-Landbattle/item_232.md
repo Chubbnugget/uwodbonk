@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | eye drops |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 300 |
 | **Description** | A drug that recovers from blindness and restores accuracy. Effect when used: Removes blindness |

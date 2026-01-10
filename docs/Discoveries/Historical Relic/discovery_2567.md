@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pirate Queen's Footprints](Quests/Other/quest_3528.md)** | Treasure hunting (4) | Exploration(5)Archaeology(7)TreasuresIdentification(3) | Reward: 0 / Advance payment: 0 Experience: 1,300 / Fame: 520 |
+| **[Pirate Queen's Footprints](docs/Quests/Other/3001-4000/quest_3528.md)** | Treasure hunting (4) | Exploration(5)Archaeology(7)TreasuresIdentification(3) | Reward: 0 / Advance payment: 0 Experience: 1,300 / Fame: 520 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[God at the beginning](Quests/Adventure/quest_1068.md)** | Adventure Quest (6) Mythology Era | Religious Studies (7) Exploration (5) Unlocking (5) | Reward: 72,000 / Advance payment: 0Experience: 260 / Fame: 85 |
+| **[God at the beginning](docs/Quests/Adventure/1001-2000/quest_1068.md)** | Adventure Quest (6) Mythology Era | Religious Studies (7) Exploration (5) Unlocking (5) | Reward: 72,000 / Advance payment: 0Experience: 260 / Fame: 85 |

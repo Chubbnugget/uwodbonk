@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of cow-like animals](Quests/Other/quest_1708.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |
+| **[Map of cow-like animals](docs/Quests/Other/1001-2000/quest_1708.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |

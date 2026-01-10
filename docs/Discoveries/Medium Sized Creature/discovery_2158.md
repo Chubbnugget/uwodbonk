@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Deerskin owner](Quests/Adventure/quest_2571.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Chinese | Reward: 368,000 / Advance payment: 30,000 Experience: 380 / Fame: 160 |
+| **[Deerskin owner](docs/Quests/Adventure/2001-3000/quest_2571.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Chinese | Reward: 368,000 / Advance payment: 30,000 Experience: 380 / Fame: 160 |

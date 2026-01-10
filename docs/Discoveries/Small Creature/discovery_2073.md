@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cat standing up on two legs](Quests/Adventure/quest_897.md)** | Adventure quest (5) | Ecological research (2) Biology (4) West African languages | Reward: 71,000 / Advance payment: 10,000 Experience: 140 / Fame: 65 |
+| **[Cat standing up on two legs](docs/Quests/Adventure/1-1000/quest_897.md)** | Adventure quest (5) | Ecological research (2) Biology (4) West African languages | Reward: 71,000 / Advance payment: 10,000 Experience: 140 / Fame: 65 |

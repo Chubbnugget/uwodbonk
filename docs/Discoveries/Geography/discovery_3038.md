@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Near oyster habitat](Quests/Adventure/quest_5751.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) Oceanian languages | Reward: 522,000 / Advance payment: 50,000 Experience: 410 / Fame: 255 |
+| **[Near oyster habitat](docs/Quests/Adventure/5001-6000/quest_5751.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) Oceanian languages | Reward: 522,000 / Advance payment: 50,000 Experience: 410 / Fame: 255 |

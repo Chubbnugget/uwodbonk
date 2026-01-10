@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Intermediate Adventure Course Completion Certification Exam](Quests/Adventure/quest_5987.md)** | Adventure quest (2) | Exploration (1) Archeology (1) Italian | Reward: 80,000 Experience: 1,500 / Fame: 1,000 |
-| **[Marble statue of the Five Wise Emperors](Quests/Adventure/quest_568.md)** | Adventure quest (3) | Exploration (1) Archeology (1) Italian | Reward: 17,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Intermediate Adventure Course Completion Certification Exam](docs/Quests/Adventure/5001-6000/quest_5987.md)** | Adventure quest (2) | Exploration (1) Archeology (1) Italian | Reward: 80,000 Experience: 1,500 / Fame: 1,000 |
+| **[Marble statue of the Five Wise Emperors](docs/Quests/Adventure/1-1000/quest_568.md)** | Adventure quest (3) | Exploration (1) Archeology (1) Italian | Reward: 17,000 / Advance payment: 0Experience: 130 / Fame: 65 |

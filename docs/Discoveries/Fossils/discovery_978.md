@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Stone Map](Quests/Other/quest_3005.md)** | Biology学(5) | Explore(5)Biology(5) | Experience：220 |
+| **[Strange Stone Map](docs/Quests/Other/3001-4000/quest_3005.md)** | Biology学(5) | Explore(5)Biology(5) | Experience：220 |

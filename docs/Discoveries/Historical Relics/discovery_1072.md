@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Statue of Pharaoh](Quests/Adventure/quest_260.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Arabic | Reward: 87,000 / Advance payment: 0Experience: 130 / Fame: 70 |
+| **[Giant Statue of Pharaoh](docs/Quests/Adventure/1-1000/quest_260.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Arabic | Reward: 87,000 / Advance payment: 0Experience: 130 / Fame: 70 |

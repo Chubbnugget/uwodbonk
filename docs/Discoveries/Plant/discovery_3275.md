@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Test of Courage](Quests/Adventure/quest_6129.md)** | Adventure quest (8) 19th century | Ecological Survey (10) Biology (12) Malayu Tagalog | Reward: 77,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Test of Courage](docs/Quests/Adventure/6001-7000/quest_6129.md)** | Adventure quest (8) 19th century | Ecological Survey (10) Biology (12) Malayu Tagalog | Reward: 77,000 / Advance payment: 0Experience: 140 / Fame: 70 |

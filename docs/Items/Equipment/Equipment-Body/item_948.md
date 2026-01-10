@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | pirate coat |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
-| **Sold by NPC** | [Map](NPCs/npc_21.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
+| **Sold by NPC** | [Map](docs/NPCs/npc_21.md) |
 | **Description** | A coat named after a privateer pirate. Only great pirates can wear it. *3 colors: red, blue, yellow-brown Durability 45 Formal level 5 Disguise level 25 Attack power 16 Defense power 26 Rapid fire +2 Tactics +1 Equipable occupation Combat type Total required fame 3500 |
 | **Last Updated** | 2008-12-21 12:00:57 Passing navigator @guest |
 

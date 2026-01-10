@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[唐僧玄奘の旅行記](Quests/Adventure/quest_2835.md)** | Adventure quest (3) | 探索(5)Treasures鑑定(7)中国語 | Reward: 149,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[唐僧玄奘の旅行記](docs/Quests/Adventure/2001-3000/quest_2835.md)** | Adventure quest (3) | 探索(5)Treasures鑑定(7)中国語 | Reward: 149,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

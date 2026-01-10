@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stolen Picture Document](Quests/Adventure/quest_5838.md)** | Adventure quest (10) | Exploration (15) Treasures Appraisal (17) Spanish | Reward: 818,000 / Advance payment: 80,000 Experience: 600 / Fame: 380 |
+| **[Stolen Picture Document](docs/Quests/Adventure/5001-6000/quest_5838.md)** | Adventure quest (10) | Exploration (15) Treasures Appraisal (17) Spanish | Reward: 818,000 / Advance payment: 80,000 Experience: 600 / Fame: 380 |

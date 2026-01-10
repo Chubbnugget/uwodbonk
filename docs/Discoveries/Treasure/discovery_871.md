@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[海賊論](Quests/Adventure/quest_3608.md)** | Adventure Quest (9) 17th Century 4th Period | Exploration (9) Treasures Appraisal (11) Unlocking (9) | Reward: 1,431,000 / Advance payment: 40,000 Experience: 430 / Fame: 360 |
+| **[海賊論](docs/Quests/Adventure/3001-4000/quest_3608.md)** | Adventure Quest (9) 17th Century 4th Period | Exploration (9) Treasures Appraisal (11) Unlocking (9) | Reward: 1,431,000 / Advance payment: 40,000 Experience: 430 / Fame: 360 |

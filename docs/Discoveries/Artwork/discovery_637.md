@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bronze statue of the saint and the beast](Quests/Adventure/quest_732.md)** | Adventure Quest (6) 15th Century 5th Period | Exploration (3) Art (5) Italian | Reward: 50,000 / Advance payment: 0Experience: 160 / Fame: 75 |
+| **[Bronze statue of the saint and the beast](docs/Quests/Adventure/1-1000/quest_732.md)** | Adventure Quest (6) 15th Century 5th Period | Exploration (3) Art (5) Italian | Reward: 50,000 / Advance payment: 0Experience: 160 / Fame: 75 |

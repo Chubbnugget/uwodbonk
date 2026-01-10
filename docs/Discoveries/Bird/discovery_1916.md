@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful waterfowl](Quests/Adventure/quest_2724.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Korean | Reward: 75,000 / Advance payment: 0Experience: 140 / Fame: 130 |
+| **[Beautiful waterfowl](docs/Quests/Adventure/2001-3000/quest_2724.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Korean | Reward: 75,000 / Advance payment: 0Experience: 140 / Fame: 130 |

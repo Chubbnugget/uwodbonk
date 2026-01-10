@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Round and fluffy](Quests/Adventure/quest_1911.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Spanish | Reward: 125,000/ Advance: 10,000Experience: 180/ Fame: 160 |
+| **[Round and fluffy](docs/Quests/Adventure/1001-2000/quest_1911.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Spanish | Reward: 125,000/ Advance: 10,000Experience: 180/ Fame: 160 |

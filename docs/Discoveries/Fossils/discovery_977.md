@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Find the dragon bones](Quests/Adventure/quest_223.md)** | Adventure Quest (3) B.C. | Exploration (1) Biology (1) Portuguese | Reward: 11,000 / Advance payment: 0Experience: 120 / Fame: 120 |
+| **[Find the dragon bones](docs/Quests/Adventure/1-1000/quest_223.md)** | Adventure Quest (3) B.C. | Exploration (1) Biology (1) Portuguese | Reward: 11,000 / Advance payment: 0Experience: 120 / Fame: 120 |

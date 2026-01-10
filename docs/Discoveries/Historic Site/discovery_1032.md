@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sacred place of stone enclosure](Quests/Adventure/quest_3577.md)** | Adventure quest (5) | Archeology (8) Visualization (6) Oceanian languages | Reward: 515,000/ Advance: 50,000Experience: 500/ Fame: 205 |
+| **[Sacred place of stone enclosure](docs/Quests/Adventure/3001-4000/quest_3577.md)** | Adventure quest (5) | Archeology (8) Visualization (6) Oceanian languages | Reward: 515,000/ Advance: 50,000Experience: 500/ Fame: 205 |

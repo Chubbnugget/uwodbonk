@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sassari](Quests/Other/quest_5057.md)** | Port/village (1) | - |  |
+| **[Sassari](docs/Quests/Other/5001-6000/quest_5057.md)** | Port/village (1) | - |  |

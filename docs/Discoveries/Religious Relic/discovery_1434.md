@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Myth of Dogon](Quests/Adventure/quest_219.md)** | Adventure quest (5) | Religious Studies (3) Exploration (1) Unlocking (1) | Reward: 27,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Myth of Dogon](docs/Quests/Adventure/1-1000/quest_219.md)** | Adventure quest (5) | Religious Studies (3) Exploration (1) Unlocking (1) | Reward: 27,000 / Advance payment: 0Experience: 130 / Fame: 65 |

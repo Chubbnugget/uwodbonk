@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Resurrection of the Trojan War](Quests/Adventure/quest_1262.md)** | Adventure quest (9) | Exploration (11) Art (13) Crafts (8) | Reward: 200,000 / Advance payment: 20,000 Experience: 450 / Fame: 150 |
+| **[Resurrection of the Trojan War](docs/Quests/Adventure/1001-2000/quest_1262.md)** | Adventure quest (9) | Exploration (11) Art (13) Crafts (8) | Reward: 200,000 / Advance payment: 20,000 Experience: 450 / Fame: 150 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unusual bird map](Quests/Other/quest_6692.md)** | Biology学(7) | Ecological Survey(7)Biology(7) | Experience：230 |
+| **[Unusual bird map](docs/Quests/Other/6001-7000/quest_6692.md)** | Biology学(7) | Ecological Survey(7)Biology(7) | Experience：230 |

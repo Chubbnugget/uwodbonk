@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[浦項](Quests/Other/quest_5190.md)** | Port/village (1) | - |  |
+| **[浦項](docs/Quests/Other/5001-6000/quest_5190.md)** | Port/village (1) | - |  |

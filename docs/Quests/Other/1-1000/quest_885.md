@@ -1,0 +1,29 @@
+---
+id: 885
+category: Other
+---
+# Quest [Map of Poisonous Insects]
+
+### Quest [Map of Poisonous Insects] Details
+
+| Attribute | Details |
+| :--- | :--- |
+| **Quest Name** | Map of Poisonous Insects |
+
+### Quest Contents
+Landed on the west coast of the Red Sea. southern end.
+
+| Attribute | Details |
+| :--- | :--- |
+| **Chrono Quest** |  |
+| **Offer Method** | biology |
+| **Difficulty** | 2 |
+| **Time Limit** | none |
+| **Town** | [London](docs/Ports/port_23.md), [Marseille](docs/Ports/port_10.md), [Calicut](docs/Ports/port_44.md) |
+| **Required Skills** | [Ecological research](docs/Skills/Skill-Adventure/item_463.md) (2), [Biology](docs/Skills/Skill-Adventure/item_434.md) (2) |
+| **Discovery** | [Insects](docs/Categories/category_11.md) / [Poisonous Scorpion](docs/Quests/Other/1001-2000/quest_1882.md) An insect with poisonous spines on the tip of its tail. Its body structure seems to be similar to that of shrimp. The poison is quite strong and can even kill humans. People tend to think that they live in desert areas, but they can be found in a variety of different areas. Poisonous insect map Rank: 1, Points: 2, Difficulty: 2, Experience points: 34 |
+| **Reward/Advance** |  |
+| **Exp/Fame** |  |
+| **Items Obtained** |  |
+| **Chain Quests** |  |
+| **Notes** |  |

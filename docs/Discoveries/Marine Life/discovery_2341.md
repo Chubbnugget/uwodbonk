@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Slow Shark](Quests/Adventure/quest_3739.md)** | Adventure quest (5) | Ecological Survey (6) Biology (8) English | Reward: 101,000 / Advance payment: 10,000 Experience: 160 / Fame: 150 |
+| **[Slow Shark](docs/Quests/Adventure/3001-4000/quest_3739.md)** | Adventure quest (5) | Ecological Survey (6) Biology (8) English | Reward: 101,000 / Advance payment: 10,000 Experience: 160 / Fame: 150 |

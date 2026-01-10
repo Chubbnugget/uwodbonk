@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Collar color](Quests/Adventure/quest_456.md)** | Adventure quest (5) | Ecological research (3) Biology (5) Swahili | Reward: 74,000 / Advance payment: 0Experience: 195 / Fame: 80 |
+| **[Collar color](docs/Quests/Adventure/1-1000/quest_456.md)** | Adventure quest (5) | Ecological research (3) Biology (5) Swahili | Reward: 74,000 / Advance payment: 0Experience: 195 / Fame: 80 |

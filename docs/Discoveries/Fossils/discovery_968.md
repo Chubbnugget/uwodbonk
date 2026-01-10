@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Stone Map](Quests/Other/quest_1947.md)** | Biology学(7) | Explore(7)Biology(7) |  |
+| **[Strange Stone Map](docs/Quests/Other/1001-2000/quest_1947.md)** | Biology学(7) | Explore(7)Biology(7) |  |

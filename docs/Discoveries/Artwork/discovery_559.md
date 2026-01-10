@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[English Paintings](Quests/Adventure/quest_54.md)** | Adventure Quest (5) 16th Century 2nd Period | 探索(2)美術(4)英語 | Reward: 38,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[English Paintings](docs/Quests/Adventure/1-1000/quest_54.md)** | Adventure Quest (5) 16th Century 2nd Period | 探索(2)美術(4)英語 | Reward: 38,000 / Advance payment: 0Experience: 140 / Fame: 70 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[House of the Virgin Mary in her later years](Quests/Other/quest_6494.md)** | Legacy(1) | - | Experience：2,805 |
+| **[House of the Virgin Mary in her later years](docs/Quests/Other/6001-7000/quest_6494.md)** | Legacy(1) | - | Experience：2,805 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Large Earthenware Map](Quests/Other/quest_2709.md)** | Archeology(6) | Exploration (6) Archeology (6) Unlocking (6) |  |
+| **[Large Earthenware Map](docs/Quests/Other/2001-3000/quest_2709.md)** | Archeology(6) | Exploration (6) Archeology (6) Unlocking (6) |  |

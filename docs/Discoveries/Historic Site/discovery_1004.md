@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of Carthage](Quests/Adventure/quest_5995.md)** | Adventure quest (2) | Archeology (1) Visualization (1) Arabic | Reward: 25,000 |
-| **[Scars of the Punic Wars](Quests/Adventure/quest_281.md)** | Adventure Quest (3) B.C. | Archeology (1) Visualization (1) Arabic | Reward: 20,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Investigation of Carthage](docs/Quests/Adventure/5001-6000/quest_5995.md)** | Adventure quest (2) | Archeology (1) Visualization (1) Arabic | Reward: 25,000 |
+| **[Scars of the Punic Wars](docs/Quests/Adventure/1-1000/quest_281.md)** | Adventure Quest (3) B.C. | Archeology (1) Visualization (1) Arabic | Reward: 20,000 / Advance payment: 0Experience: 130 / Fame: 65 |

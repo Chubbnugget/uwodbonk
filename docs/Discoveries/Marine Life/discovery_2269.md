@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Poisonous shell map](Quests/Other/quest_886.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |
+| **[Poisonous shell map](docs/Quests/Other/1-1000/quest_886.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Land of Seals](Quests/Adventure/quest_5750.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) Oceanian languages | Reward: 611,000 / Advance payment: 60,000 Experience: 470 / Fame: 290 |
+| **[Land of Seals](docs/Quests/Adventure/5001-6000/quest_5750.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) Oceanian languages | Reward: 611,000 / Advance payment: 60,000 Experience: 470 / Fame: 290 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[馬蹄雲](Quests/Other/quest_6697.md)** | Weather/phenomena (1) | Visual recognition (9) | Experience：530 |
+| **[馬蹄雲](docs/Quests/Other/6001-7000/quest_6697.md)** | Weather/phenomena (1) | Visual recognition (9) | Experience：530 |

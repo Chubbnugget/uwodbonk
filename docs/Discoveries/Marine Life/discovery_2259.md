@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Brightly colored shrimp map](Quests/Other/quest_3691.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Brightly colored shrimp map](docs/Quests/Other/3001-4000/quest_3691.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

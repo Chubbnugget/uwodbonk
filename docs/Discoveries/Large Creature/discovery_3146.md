@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fascinated by horses](Quests/Adventure/quest_5887.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Celtic language | Reward: 119,000 / Advance payment: 10,000 Experience: 160 / Fame: 170 |
+| **[Fascinated by horses](docs/Quests/Adventure/5001-6000/quest_5887.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Celtic language | Reward: 119,000 / Advance payment: 10,000 Experience: 160 / Fame: 170 |

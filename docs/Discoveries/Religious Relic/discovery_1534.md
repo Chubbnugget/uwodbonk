@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Heresy of the canonization](Quests/Adventure/quest_3690.md)** | Adventure quest (7) 18th century third period | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 394,000 / Advance payment: 30,000 Experience: 400 / Fame: 330 |
+| **[Heresy of the canonization](docs/Quests/Adventure/3001-4000/quest_3690.md)** | Adventure quest (7) 18th century third period | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 394,000 / Advance payment: 30,000 Experience: 400 / Fame: 330 |

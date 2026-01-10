@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Keystones of Medicine](Quests/Adventure/quest_6359.md)** | Adventure quest (9) 14th century | Exploration (11) Treasures Appraisal (13) Unlocking (11) | Reward: 477,500 / Advance payment: 50,000 Experience: 390 / Fame: 235 |
+| **[Keystones of Medicine](docs/Quests/Adventure/6001-7000/quest_6359.md)** | Adventure quest (9) 14th century | Exploration (11) Treasures Appraisal (13) Unlocking (11) | Reward: 477,500 / Advance payment: 50,000 Experience: 390 / Fame: 235 |

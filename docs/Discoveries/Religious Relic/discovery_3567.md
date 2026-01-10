@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue of Cybele on the Throne](Quests/Other/quest_6493.md)** | Legacy(1) | - |  |
+| **[Statue of Cybele on the Throne](docs/Quests/Other/6001-7000/quest_6493.md)** | Legacy(1) | - |  |

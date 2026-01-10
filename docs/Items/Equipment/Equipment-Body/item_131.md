@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Surcoat |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 30,000 |
 | **Description** | A very ordinary travel outfit consisting of a thin coat and shirt. Durability 30 Formal wear 7 Disguise 5 Defense 8 Total required fame 400 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful conch shell](Quests/Adventure/quest_1602.md)** | Adventure quest (8) | Ecological research (6) Biology (8) Indian languages ​​(1) | Reward: 198,000 / Advance payment: 10,000 Experience: 440 / Fame: 145 |
+| **[Beautiful conch shell](docs/Quests/Adventure/1001-2000/quest_1602.md)** | Adventure quest (8) | Ecological research (6) Biology (8) Indian languages ​​(1) | Reward: 198,000 / Advance payment: 10,000 Experience: 440 / Fame: 145 |

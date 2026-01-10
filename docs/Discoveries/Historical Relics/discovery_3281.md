@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[End of the Vow](Quests/Adventure/quest_6131.md)** | Adventure quest (8) 15th century 3rd period | Exploration (10) Archeology (12) Portuguese | Reward: 116,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[End of the Vow](docs/Quests/Adventure/6001-7000/quest_6131.md)** | Adventure quest (8) 15th century 3rd period | Exploration (10) Archeology (12) Portuguese | Reward: 116,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

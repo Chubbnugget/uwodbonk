@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The place where Stars dwell](Quests/Adventure/quest_718.md)** | Adventure Quest (9) Myth Era | Exploration(9)Archaeology(11)English | Reward: 343,000 / Advance payment: 20,000 Experience: 260 / Fame: 125 |
+| **[The place where Stars dwell](docs/Quests/Adventure/1-1000/quest_718.md)** | Adventure Quest (9) Myth Era | Exploration(9)Archaeology(11)English | Reward: 343,000 / Advance payment: 20,000 Experience: 260 / Fame: 125 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Water Flower Map](Quests/Other/quest_2980.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |
+| **[Water Flower Map](docs/Quests/Other/2001-3000/quest_2980.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red-brown plateau](Quests/Adventure/quest_3182.md)** | Adventure quest (7) | Geography (6) Visual recognition (4) Spanish | Reward: 158,000 / Advance payment: 10,000 Experience: 210 / Fame: 180 |
+| **[Red-brown plateau](docs/Quests/Adventure/3001-4000/quest_3182.md)** | Adventure quest (7) | Geography (6) Visual recognition (4) Spanish | Reward: 158,000 / Advance payment: 10,000 Experience: 210 / Fame: 180 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Conqueror of the Seven Kingdoms](Quests/Adventure/quest_6799.md)** | Adventure quest (8) | Archeology (12) Visualization (10) English (1) | Remuneration: 137,000 / Advance payment: 10,000 |
+| **[Conqueror of the Seven Kingdoms](docs/Quests/Adventure/6001-7000/quest_6799.md)** | Adventure quest (8) | Archeology (12) Visualization (10) English (1) | Remuneration: 137,000 / Advance payment: 10,000 |

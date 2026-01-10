@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sword of Shamash](Quests/Other/quest_7001.md)** | Legacy(1) | - |  |
+| **[Sword of Shamash](docs/Quests/Other/7001-8000/quest_7001.md)** | Legacy(1) | - |  |

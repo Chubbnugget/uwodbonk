@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Voice that evokes the atmosphere of sunset](Quests/Adventure/quest_2377.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Japanese (1) | Reward: 97,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Voice that evokes the atmosphere of sunset](docs/Quests/Adventure/2001-3000/quest_2377.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Japanese (1) | Reward: 97,000 / Advance payment: 0Experience: 150 / Fame: 75 |

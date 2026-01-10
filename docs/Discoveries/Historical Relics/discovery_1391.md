@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sense of life and death](Quests/Adventure/quest_722.md)** | Adventure quest (6) | Exploration (3) Archeology (5) Arabic | Reward: 103,000 / Advance payment: 0Experience: 190 / Fame: 85 |
+| **[Sense of life and death](docs/Quests/Adventure/1-1000/quest_722.md)** | Adventure quest (6) | Exploration (3) Archeology (5) Arabic | Reward: 103,000 / Advance payment: 0Experience: 190 / Fame: 85 |

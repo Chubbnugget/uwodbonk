@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hot springs in Britain](Quests/Adventure/quest_3293.md)** | Adventure quest (5) | Geography (7) Visual recognition (5) English | Reward: 70,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Hot springs in Britain](docs/Quests/Adventure/3001-4000/quest_3293.md)** | Adventure quest (5) | Geography (7) Visual recognition (5) English | Reward: 70,000 / Advance payment: 0Experience: 140 / Fame: 70 |

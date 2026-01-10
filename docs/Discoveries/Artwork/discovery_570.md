@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Twelve tapestries](Quests/Adventure/quest_640.md)** | Adventure Quest (2) 16th Century 2nd Period | Exploration (1) Art (1) Dutch | Reward: 6,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Twelve tapestries](docs/Quests/Adventure/1-1000/quest_640.md)** | Adventure Quest (2) 16th Century 2nd Period | Exploration (1) Art (1) Dutch | Reward: 6,000 / Advance payment: 0Experience: 130 / Fame: 65 |

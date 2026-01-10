@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Egyptian amulet](Quests/Adventure/quest_494.md)** | Adventure quest (3) | Ecological research (1) Biology (2) Arabic | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Ancient Egyptian amulet](docs/Quests/Adventure/1-1000/quest_494.md)** | Adventure quest (3) | Ecological research (1) Biology (2) Arabic | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 65 |

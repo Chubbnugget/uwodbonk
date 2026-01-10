@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Moving yellow line](Quests/Adventure/quest_2531.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Chinese (1) | Reward: 60,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Moving yellow line](docs/Quests/Adventure/2001-3000/quest_2531.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Chinese (1) | Reward: 60,000 / Advance payment: 0Experience: 130 / Fame: 65 |

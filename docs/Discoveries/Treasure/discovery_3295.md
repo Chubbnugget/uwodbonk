@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Prayer and Atonement](Quests/Adventure/quest_6151.md)** | Adventure quest (8) 15th century 1st period | Exploration (8) Treasures Appraisal (10) Portuguese | Reward: 78,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Prayer and Atonement](docs/Quests/Adventure/6001-7000/quest_6151.md)** | Adventure quest (8) 15th century 1st period | Exploration (8) Treasures Appraisal (10) Portuguese | Reward: 78,000 / Advance payment: 0Experience: 140 / Fame: 70 |

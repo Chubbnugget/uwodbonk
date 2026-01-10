@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of clay tablets with ancient writing](Quests/Other/quest_5205.md)** | Re-examination reward (9) | Exploration(9)Archaeology(9) |  |
+| **[Map of clay tablets with ancient writing](docs/Quests/Other/5001-6000/quest_5205.md)** | Re-examination reward (9) | Exploration(9)Archaeology(9) |  |

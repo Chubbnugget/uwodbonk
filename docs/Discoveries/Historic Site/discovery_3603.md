@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dengfeng Stars Channel](Quests/Other/quest_6536.md)** | Legacy(1) | - | Experience：2,550 |
+| **[Dengfeng Stars Channel](docs/Quests/Other/6001-7000/quest_6536.md)** | Legacy(1) | - | Experience：2,550 |

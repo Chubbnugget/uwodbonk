@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue Beast Investigation](Quests/Adventure/quest_754.md)** | Adventure Quest (5) 15th Century 3rd Period | Ecological research (4) Biology (6) West African languages | Reward: 90,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Blue Beast Investigation](docs/Quests/Adventure/1-1000/quest_754.md)** | Adventure Quest (5) 15th Century 3rd Period | Ecological research (4) Biology (6) West African languages | Reward: 90,000 / Advance payment: 0Experience: 150 / Fame: 70 |

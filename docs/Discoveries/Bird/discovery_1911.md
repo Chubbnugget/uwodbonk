@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bridge of Love](Quests/Adventure/quest_2669.md)** | Adventure quest (4) | Ecological Survey (4) Biology (6) Korean | Reward: 118,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Bridge of Love](docs/Quests/Adventure/2001-3000/quest_2669.md)** | Adventure quest (4) | Ecological Survey (4) Biology (6) Korean | Reward: 118,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

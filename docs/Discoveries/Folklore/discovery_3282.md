@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White and fluffy Biology lore](Quests/Other/quest_6115.md)** | Tradition (7) | Biology学(5) | Reward: 484,500 / Advance payment: 40,000 Experience: 460 / Fame: 230 |
+| **[White and fluffy Biology lore](docs/Quests/Other/6001-7000/quest_6115.md)** | Tradition (7) | Biology学(5) | Reward: 484,500 / Advance payment: 40,000 Experience: 460 / Fame: 230 |

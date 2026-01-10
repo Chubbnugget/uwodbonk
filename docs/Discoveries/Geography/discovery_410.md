@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Eastern Bay of India](Quests/Adventure/quest_72.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) | Reward: 99,000 / Advance payment: 0Experience: 170 / Fame: 85 |
+| **[Eastern Bay of India](docs/Quests/Adventure/1-1000/quest_72.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) | Reward: 99,000 / Advance payment: 0Experience: 170 / Fame: 85 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beowulf Helmet](Quests/Other/quest_3575.md)** | Treasure hunting (6) | Exploration (9) Archeology (11) Norse (1) | Experience：1,980 |
+| **[Beowulf Helmet](docs/Quests/Other/3001-4000/quest_3575.md)** | Treasure hunting (6) | Exploration (9) Archeology (11) Norse (1) | Experience：1,980 |

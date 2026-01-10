@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indian bird map](Quests/Other/quest_6134.md)** | Biology学(15) | Ecological Survey(15)Biology(15) |  |
+| **[Indian bird map](docs/Quests/Other/6001-7000/quest_6134.md)** | Biology学(15) | Ecological Survey(15)Biology(15) |  |

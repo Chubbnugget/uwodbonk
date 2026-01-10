@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Astronomer's observation record](Quests/Other/quest_3903.md)** | Astronomy(9) | Astronomy(9)Visualization(9) |  |
+| **[Astronomer's observation record](docs/Quests/Other/3001-4000/quest_3903.md)** | Astronomy(9) | Astronomy(9)Visualization(9) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of fun stone monuments](Quests/Other/quest_6337.md)** | Religious Studies(2) | Religious Studies(8)Exploration(8) |  |
+| **[Map of fun stone monuments](docs/Quests/Other/6001-7000/quest_6337.md)** | Religious Studies(2) | Religious Studies(8)Exploration(8) |  |

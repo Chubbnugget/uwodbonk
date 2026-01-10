@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sealed Treasures](Quests/Adventure/quest_6685.md)** | Adventure quest (9) | Religious Studies (13) Visual Recognition (11) Indian Languages | Reward: 396,400/Advance payment: 40,000Experience: 360 |
+| **[Sealed Treasures](docs/Quests/Adventure/6001-7000/quest_6685.md)** | Adventure quest (9) | Religious Studies (13) Visual Recognition (11) Indian Languages | Reward: 396,400/Advance payment: 40,000Experience: 360 |

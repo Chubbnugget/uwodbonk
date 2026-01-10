@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ryukyu Frog](Quests/Adventure/quest_2408.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Malayu Tagalog | Reward: 103,000 / Advance payment: 10,000 Experience: 160 / Fame: 150 |
+| **[Ryukyu Frog](docs/Quests/Adventure/2001-3000/quest_2408.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Malayu Tagalog | Reward: 103,000 / Advance payment: 10,000 Experience: 160 / Fame: 150 |

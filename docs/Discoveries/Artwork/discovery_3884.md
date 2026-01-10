@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Painter's self-portrait](Quests/Adventure/quest_6871.md)** | Adventure quest (7) | Exploration (7) Art (9) German (1) | Reward: 94,000/ Advance: 50,000Experience: 150/ Fame: 150 |
+| **[Painter's self-portrait](docs/Quests/Adventure/6001-7000/quest_6871.md)** | Adventure quest (7) | Exploration (7) Art (9) German (1) | Reward: 94,000/ Advance: 50,000Experience: 150/ Fame: 150 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Feast of Revenge](Quests/Adventure/quest_1683.md)** | Adventure quest (10) | Exploration (12) Archeology (14) Unlocking (12) | Reward: 10,000/ Advance payment: 10,000 Experience: 600/ Fame: 200 |
+| **[Feast of Revenge](docs/Quests/Adventure/1001-2000/quest_1683.md)** | Adventure quest (10) | Exploration (12) Archeology (14) Unlocking (12) | Reward: 10,000/ Advance payment: 10,000 Experience: 600/ Fame: 200 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Reason for seeking blood and heart](Quests/Adventure/quest_1452.md)** | Adventure Quest (8) Mythology Era | Religious Studies (11) Visualization (9) Mayan Languages | Reward: 260,000/ Advance: 10,000 Experience: 600/ Fame: 200 |
+| **[Reason for seeking blood and heart](docs/Quests/Adventure/1001-2000/quest_1452.md)** | Adventure Quest (8) Mythology Era | Religious Studies (11) Visualization (9) Mayan Languages | Reward: 260,000/ Advance: 10,000 Experience: 600/ Fame: 200 |

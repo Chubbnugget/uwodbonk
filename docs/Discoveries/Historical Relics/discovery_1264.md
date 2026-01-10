@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Yuan Dynasty history book](Quests/Adventure/quest_3743.md)** | Adventure quest (8) 14th century | Exploration(11)Archaeology(13)Chinese | Remuneration: 684,000 / Advance payment: 60,000 |
+| **[Yuan Dynasty history book](docs/Quests/Adventure/3001-4000/quest_3743.md)** | Adventure quest (8) 14th century | Exploration(11)Archaeology(13)Chinese | Remuneration: 684,000 / Advance payment: 60,000 |

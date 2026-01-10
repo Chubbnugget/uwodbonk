@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | antidote |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 100 |
 | **Description** | In land combat, heals the target from abnormal conditions. Effect when used: Land battle status recovery Rank 5 Required gauge 25 Cooldown time 187 |

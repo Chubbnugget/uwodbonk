@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tang Dynasty Palace](Quests/Adventure/quest_6903.md)** | Adventure quest (10) | Archeology (17) Visualization (15) Chinese (1) | Experience: 866,000/ Reputation: 90,000 |
+| **[Tang Dynasty Palace](docs/Quests/Adventure/6001-7000/quest_6903.md)** | Adventure quest (10) | Archeology (17) Visualization (15) Chinese (1) | Experience: 866,000/ Reputation: 90,000 |

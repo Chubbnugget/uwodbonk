@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Things hidden in the snowy mountains](Quests/Adventure/quest_5745.md)** | Adventure quest (10) 19th century | Geography (17) Visual recognition (15) English | Reward: 673,000 / Advance payment: 60,000 Experience: 510 / Fame: 320 |
+| **[Things hidden in the snowy mountains](docs/Quests/Adventure/5001-6000/quest_5745.md)** | Adventure quest (10) 19th century | Geography (17) Visual recognition (15) English | Reward: 673,000 / Advance payment: 60,000 Experience: 510 / Fame: 320 |

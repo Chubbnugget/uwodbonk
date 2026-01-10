@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on Palau Islands](Quests/Other/quest_6765.md)** | Pursuit quest (6) | Geography (8) Visual recognition (6) English (1) | Reward: 230,000 / Advance payment: 0Experience: 200 |
+| **[Additional research on Palau Islands](docs/Quests/Other/6001-7000/quest_6765.md)** | Pursuit quest (6) | Geography (8) Visual recognition (6) English (1) | Reward: 230,000 / Advance payment: 0Experience: 200 |

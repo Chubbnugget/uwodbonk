@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lost God of the Underworld](Quests/Adventure/quest_631.md)** | Adventure quest (4) | Religious Studies (2) Exploration (1) Arabic | Reward: 16,000Experience: 130/ Fame: 65 |
+| **[Lost God of the Underworld](docs/Quests/Adventure/1-1000/quest_631.md)** | Adventure quest (4) | Religious Studies (2) Exploration (1) Arabic | Reward: 16,000Experience: 130/ Fame: 65 |

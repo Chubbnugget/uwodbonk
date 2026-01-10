@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Island clue collection](Quests/Adventure/quest_2489.md)** | Adventure quest (4) | Geography (6) Visual recognition (4) Chinese | Reward: 110,000/ Advance: 10,000 Experience: 170/ Fame: 80 |
+| **[Island clue collection](docs/Quests/Adventure/2001-3000/quest_2489.md)** | Adventure quest (4) | Geography (6) Visual recognition (4) Chinese | Reward: 110,000/ Advance: 10,000 Experience: 170/ Fame: 80 |

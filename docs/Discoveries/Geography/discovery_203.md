@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Paradise of flora and fauna](Quests/Adventure/quest_1123.md)** | Adventure quest (6) | Geography (8) Visualization (6) Spanish | Reward: 158,000/ Advance: 10,000 Experience: 270/ Fame: 95 |
+| **[Paradise of flora and fauna](docs/Quests/Adventure/1001-2000/quest_1123.md)** | Adventure quest (6) | Geography (8) Visualization (6) Spanish | Reward: 158,000/ Advance: 10,000 Experience: 270/ Fame: 95 |

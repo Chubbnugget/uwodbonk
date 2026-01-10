@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | 傷薬 |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 150 |
 | **Description** | Items for land combat. A medicine that recovers damage received in land battles. Effect/small. Effect when used: Ground combat healing (recovers damage to the target in ground combat.) Rank 5 Required gauge 40 Cooldown time 225 |

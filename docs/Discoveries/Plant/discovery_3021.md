@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Distant hometown tree](Quests/Adventure/quest_5721.md)** | Adventure quest (9) | Ecological research (8) Biology (10) Indian languages | Reward: 491,000 / Advance payment: 10,000 Experience: 390 / Fame: 240 |
+| **[Distant hometown tree](docs/Quests/Adventure/5001-6000/quest_5721.md)** | Adventure quest (9) | Ecological research (8) Biology (10) Indian languages | Reward: 491,000 / Advance payment: 10,000 Experience: 390 / Fame: 240 |

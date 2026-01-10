@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King of Mycenae](Quests/Adventure/quest_299.md)** | Adventure Quest (9) B.C. | Exploration (10) Archeology (12) Spanish | Reward: 2,000 / Advance payment: 0Experience: 250 / Fame: 130 |
+| **[King of Mycenae](docs/Quests/Adventure/1-1000/quest_299.md)** | Adventure Quest (9) B.C. | Exploration (10) Archeology (12) Spanish | Reward: 2,000 / Advance payment: 0Experience: 250 / Fame: 130 |

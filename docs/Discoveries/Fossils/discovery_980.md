@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fish bone map](Quests/Other/quest_2868.md)** | Biology学(5) | Explore(5)Biology(5) |  |
+| **[Fish bone map](docs/Quests/Other/2001-3000/quest_2868.md)** | Biology学(5) | Explore(5)Biology(5) |  |

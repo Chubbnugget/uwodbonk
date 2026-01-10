@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient astronomical observation records](Quests/Other/quest_4852.md)** | Treasure hunting (7) | Astronomy(9)Exploration(11)Archaeology(13) | Reward: 0 / Advance payment: 0 Experience: 2,540 / Fame: 2,030 |
+| **[Ancient astronomical observation records](docs/Quests/Other/4001-5000/quest_4852.md)** | Treasure hunting (7) | Astronomy(9)Exploration(11)Archaeology(13) | Reward: 0 / Advance payment: 0 Experience: 2,540 / Fame: 2,030 |

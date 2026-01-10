@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ottoman Mother's Gold and Silver Incense Burner](Quests/Other/quest_6451.md)** | Legacy(1) | - |  |
+| **[Ottoman Mother's Gold and Silver Incense Burner](docs/Quests/Other/6001-7000/quest_6451.md)** | Legacy(1) | - |  |

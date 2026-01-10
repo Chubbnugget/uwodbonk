@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Footsteps of the Great Empire](Quests/Adventure/quest_1278.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Unlocking (3) | Reward: 63,000 / Advance payment: 0Experience: 220 / Fame: 70 |
+| **[Footsteps of the Great Empire](docs/Quests/Adventure/1001-2000/quest_1278.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Unlocking (3) | Reward: 63,000 / Advance payment: 0Experience: 220 / Fame: 70 |

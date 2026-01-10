@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Gandura |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 67,400 |
 | **Description** | Traditional women's clothing from North Africa. It is characterized by its bright colors. *7 colors Gender restriction Female Durability 30 Formal wear 10 Disguise 25 Defense 8 Miscellaneous goods trade +1 Total required fame 750 |

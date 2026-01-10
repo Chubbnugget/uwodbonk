@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore regarding rites of passage](Quests/Other/quest_6127.md)** | Tradition (7) | Religious Studies(4) | Reward: 257,480 / Advance payment: 20,000 Experience: 250 / Fame: 125 |
+| **[Lore regarding rites of passage](docs/Quests/Other/6001-7000/quest_6127.md)** | Tradition (7) | Religious Studies(4) | Reward: 257,480 / Advance payment: 20,000 Experience: 250 / Fame: 125 |

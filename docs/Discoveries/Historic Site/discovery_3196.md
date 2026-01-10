@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Line drawn on the rock](Quests/Adventure/quest_5939.md)** | Adventure quest (3) | Archeology (3) Visualization (1) Portuguese | Reward: 80,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Line drawn on the rock](docs/Quests/Adventure/5001-6000/quest_5939.md)** | Adventure quest (3) | Archeology (3) Visualization (1) Portuguese | Reward: 80,000 / Advance payment: 0Experience: 140 / Fame: 70 |

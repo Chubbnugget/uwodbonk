@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Scarred Marine Biology](Quests/Adventure/quest_2512.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Chinese (1) | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Scarred Marine Biology](docs/Quests/Adventure/2001-3000/quest_2512.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Chinese (1) | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 65 |

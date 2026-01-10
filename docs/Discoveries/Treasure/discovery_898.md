@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dragon Slayer Emblem](Quests/Adventure/quest_1047.md)** | Adventure quest (4) | Exploration (3) Treasures Appraisal (5) Arabic | Reward: 0 / Advance payment: 0 Experience: 130 / Fame: 130 |
+| **[Dragon Slayer Emblem](docs/Quests/Adventure/1001-2000/quest_1047.md)** | Adventure quest (4) | Exploration (3) Treasures Appraisal (5) Arabic | Reward: 0 / Advance payment: 0 Experience: 130 / Fame: 130 |

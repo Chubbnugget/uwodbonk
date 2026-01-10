@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Messenger of the Monkey God](Quests/Adventure/quest_2017.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Indian languages | Reward: 228,000 / Advance payment: 20,000 Experience: 260 / Fame: 115 |
+| **[Messenger of the Monkey God](docs/Quests/Adventure/2001-3000/quest_2017.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Indian languages | Reward: 228,000 / Advance payment: 20,000 Experience: 260 / Fame: 115 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Remaining Guardian Divine Beasts](Quests/Adventure/quest_5880.md)** | Adventure quest (10) | Astronomy (17) Visual recognition (15) Chinese | Reward: 877,000 / Advance payment: 80,000 Experience: 640 / Fame: 405 |
+| **[Remaining Guardian Divine Beasts](docs/Quests/Adventure/5001-6000/quest_5880.md)** | Adventure quest (10) | Astronomy (17) Visual recognition (15) Chinese | Reward: 877,000 / Advance payment: 80,000 Experience: 640 / Fame: 405 |

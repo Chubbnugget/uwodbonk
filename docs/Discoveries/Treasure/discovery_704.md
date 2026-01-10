@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Land of Stories, the Clues](Quests/Adventure/quest_3178.md)** | Adventure quest (7) | Exploration (7) Treasures Appraisal (9) Norse (1) | Reward: 98,000 / Advance payment: 0Experience: 256 |
+| **[The Land of Stories, the Clues](docs/Quests/Adventure/3001-4000/quest_3178.md)** | Adventure quest (7) | Exploration (7) Treasures Appraisal (9) Norse (1) | Reward: 98,000 / Advance payment: 0Experience: 256 |

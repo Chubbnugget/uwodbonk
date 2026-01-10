@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of smooth manju crab](Quests/Other/quest_6714.md)** | Pursuit quest (8) | Ecological research (9) Biology (11) Japanese (1) | Reward: 240,000 / Advance payment: 0Experience: 1,040 |
+| **[Additional investigation of smooth manju crab](docs/Quests/Other/6001-7000/quest_6714.md)** | Pursuit quest (8) | Ecological research (9) Biology (11) Japanese (1) | Reward: 240,000 / Advance payment: 0Experience: 1,040 |

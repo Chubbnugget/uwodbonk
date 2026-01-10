@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Little Flower Map](Quests/Other/quest_2869.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |
+| **[Little Flower Map](docs/Quests/Other/2001-3000/quest_2869.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |

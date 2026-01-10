@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Inca stone wall](Quests/Adventure/quest_2013.md)** | Adventure Quest (5) 16th Century 2nd Period | Exploration(4)Archaeology(6)ケチュアlanguage | Reward: 154,000 / Advance payment: 10,000 Experience: 200 / Fame: 180 |
+| **[Inca stone wall](docs/Quests/Adventure/2001-3000/quest_2013.md)** | Adventure Quest (5) 16th Century 2nd Period | Exploration(4)Archaeology(6)ケチュアlanguage | Reward: 154,000 / Advance payment: 10,000 Experience: 200 / Fame: 180 |

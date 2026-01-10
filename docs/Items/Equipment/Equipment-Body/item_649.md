@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Kente |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 53,400 |
 | **Description** | African women's clothing with gold-decorated fabric. *6 colors: red, yellow, blue, green, black, and white Gender restrictions Female Durability 30 Formal wear 17 Defense 3 Gathering +1 Total required fame 1000 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars with ears](Quests/Adventure/quest_3772.md)** | Adventure Quest (5) 18th Century 3rd Period | Astronomy (6) Visual recognition (4) Italian | Reward: 176,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |
+| **[Stars with ears](docs/Quests/Adventure/3001-4000/quest_3772.md)** | Adventure Quest (5) 18th Century 3rd Period | Astronomy (6) Visual recognition (4) Italian | Reward: 176,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |

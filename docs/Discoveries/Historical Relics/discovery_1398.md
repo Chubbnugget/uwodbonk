@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Iron Map](Quests/Other/quest_528.md)** | Archeology(4) | Exploration(4)Archaeology(4) |  |
+| **[Ancient Iron Map](docs/Quests/Other/1-1000/quest_528.md)** | Archeology(4) | Exploration(4)Archaeology(4) |  |

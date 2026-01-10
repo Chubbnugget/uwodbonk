@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Same bird in different colors](Quests/Adventure/quest_340.md)** | Adventure quest (7) | Ecological research (6) Biology (8) West African languages | Reward: 74,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Same bird in different colors](docs/Quests/Adventure/1-1000/quest_340.md)** | Adventure quest (7) | Ecological research (6) Biology (8) West African languages | Reward: 74,000 / Advance payment: 0Experience: 150 / Fame: 70 |

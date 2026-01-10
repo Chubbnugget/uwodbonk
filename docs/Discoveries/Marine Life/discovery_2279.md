@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[North Penguin](Quests/Adventure/quest_2960.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Maya languages ​​(1) | Reward: 217,000/ Advance: 20,000Experience: 250/ Fame: 110 |
+| **[North Penguin](docs/Quests/Adventure/2001-3000/quest_2960.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Maya languages ​​(1) | Reward: 217,000/ Advance: 20,000Experience: 250/ Fame: 110 |

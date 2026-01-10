@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Thracian Sword](Quests/Adventure/quest_1823.md)** | Adventure Quest (5) B.C. | Exploration (4) Archeology (6) Unlocking (4) | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Thracian Sword](docs/Quests/Adventure/1001-2000/quest_1823.md)** | Adventure Quest (5) B.C. | Exploration (4) Archeology (6) Unlocking (4) | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 65 |

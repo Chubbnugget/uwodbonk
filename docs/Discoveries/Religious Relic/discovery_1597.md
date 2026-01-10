@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Abu Simbel Temple (Middle Level)](Quests/Other/quest_2442.md)** | Dungeon (3) | - |  |
+| **[Abu Simbel Temple (Middle Level)](docs/Quests/Other/2001-3000/quest_2442.md)** | Dungeon (3) | - |  |

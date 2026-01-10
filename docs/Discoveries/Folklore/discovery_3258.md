@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore of a pond that heals illness](Quests/Other/quest_6072.md)** | Tradition (5) | Religious Studies(6) | Reward: 174,000/ Advance: 10,000Experience: 170/ Fame: 85 |
+| **[Lore of a pond that heals illness](docs/Quests/Other/6001-7000/quest_6072.md)** | Tradition (5) | Religious Studies(6) | Reward: 174,000/ Advance: 10,000Experience: 170/ Fame: 85 |

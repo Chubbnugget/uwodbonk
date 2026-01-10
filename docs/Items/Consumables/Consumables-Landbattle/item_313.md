@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | torch for throwing |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 150 |
 | **Description** | Items for land combat. A tool that can be thrown at enemies to attack them with flames. Effect/small. Effect when used: Attack with flame (attacks the enemy with flame in land battle. Effective against quick mode.) Rank 3 Required gauge 50 Cooldown time 225 |

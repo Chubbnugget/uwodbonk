@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Spread of Islam](Quests/Adventure/quest_5727.md)** | Adventure quest (4) | Religious Studies (6) Visual Recognition (4) Arabic | Reward: 103,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[Spread of Islam](docs/Quests/Adventure/5001-6000/quest_5727.md)** | Adventure quest (4) | Religious Studies (6) Visual Recognition (4) Arabic | Reward: 103,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

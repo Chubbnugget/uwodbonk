@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | sari hood |
 | **Type** | thing |
-| **Group** | [Equipment（頭）](Categories/category_23.md) |
+| **Group** | [Equipment（頭）](docs/Categories/category_23.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 28,600 |
 | **Description** | A common cloth hood worn by women in India. *6 colors Gender restriction Female Durability 30 Formal wear 2 Disguise 22 Defense 2 Total required fame 500 |

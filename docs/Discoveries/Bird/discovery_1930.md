@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bird with two beauties](Quests/Adventure/quest_1248.md)** | Adventure quest (5) | Ecological research (3) Biology (5) Mayan languages | Reward: 72,000 / Advance payment: 0Experience: 210 / Fame: 75 |
+| **[Bird with two beauties](docs/Quests/Adventure/1001-2000/quest_1248.md)** | Adventure quest (5) | Ecological research (3) Biology (5) Mayan languages | Reward: 72,000 / Advance payment: 0Experience: 210 / Fame: 75 |

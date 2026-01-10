@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Striped Fish Map](Quests/Other/quest_2716.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |
+| **[Striped Fish Map](docs/Quests/Other/2001-3000/quest_2716.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient Egyptian relics](Quests/Other/quest_6084.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |
+| **[Map of ancient Egyptian relics](docs/Quests/Other/6001-7000/quest_6084.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |

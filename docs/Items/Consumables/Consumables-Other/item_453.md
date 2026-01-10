@@ -1,6 +1,6 @@
 ---
 id: 453
-name: "Special dye #5"
+name: "\"Special dye #5\""
 type:  Item
 ---
 # Special dye #5
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Special dye #5 |
 | **Type** | thing |
-| **Group** | [Consumables](Categories/category_44.md) |
+| **Group** | [Consumables](docs/Categories/category_44.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 5,000 |
 | **Description** | A dye that dyes the dye a pale blue color. Effect when used: Hair dye (changes hair color) |

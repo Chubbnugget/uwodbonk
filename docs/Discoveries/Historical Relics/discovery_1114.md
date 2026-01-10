@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Proof of Prosperity](Quests/Adventure/quest_918.md)** | Adventure Quest (5) B.C. | Exploration (2) Archeology (4) Arabic | Reward: 69,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Proof of Prosperity](docs/Quests/Adventure/1-1000/quest_918.md)** | Adventure Quest (5) B.C. | Exploration (2) Archeology (4) Arabic | Reward: 69,000 / Advance payment: 0Experience: 150 / Fame: 70 |

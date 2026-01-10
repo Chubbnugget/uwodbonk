@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Saint's Reliquary](Quests/Adventure/quest_6619.md)** | Adventure quest (6) | Religious Studies(7)Exploration(5)English(1) | Reward: 122,000/ Advance: 10,000Experience: 180/ Fame: 100 |
+| **[Saint's Reliquary](docs/Quests/Adventure/6001-7000/quest_6619.md)** | Adventure quest (6) | Religious Studies(7)Exploration(5)English(1) | Reward: 122,000/ Advance: 10,000Experience: 180/ Fame: 100 |

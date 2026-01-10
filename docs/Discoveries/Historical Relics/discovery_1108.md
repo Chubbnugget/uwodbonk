@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue of the Violent Emperor](Quests/Adventure/quest_983.md)** | Adventure quest (3) | Exploration (1) Archeology (1) Italian | Reward: 18,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Statue of the Violent Emperor](docs/Quests/Adventure/1-1000/quest_983.md)** | Adventure quest (3) | Exploration (1) Archeology (1) Italian | Reward: 18,000 / Advance payment: 0Experience: 130 / Fame: 65 |

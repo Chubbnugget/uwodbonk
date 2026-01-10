@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Horned Frog Map](Quests/Other/quest_1489.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：105 |
+| **[Horned Frog Map](docs/Quests/Other/1001-2000/quest_1489.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：105 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Davao](Quests/Other/quest_5090.md)** | Port/village (1) | - |  |
+| **[Davao](docs/Quests/Other/5001-6000/quest_5090.md)** | Port/village (1) | - |  |

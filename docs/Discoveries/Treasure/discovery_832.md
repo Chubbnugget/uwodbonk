@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Taikobo Fishing](Quests/Adventure/quest_2833.md)** | Adventure quest (8) | Exploration (9) Treasures Appraisal (11) Unlocking (9) | Reward: 152,000 / Advance payment: 10,000 Experience: 200 / Fame: 180 |
+| **[Taikobo Fishing](docs/Quests/Adventure/2001-3000/quest_2833.md)** | Adventure quest (8) | Exploration (9) Treasures Appraisal (11) Unlocking (9) | Reward: 152,000 / Advance payment: 10,000 Experience: 200 / Fame: 180 |

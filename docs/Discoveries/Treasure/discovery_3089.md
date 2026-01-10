@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Solomon's Glory](Quests/Adventure/quest_5827.md)** | Adventure quest (10) | Exploration (15) Treasures Appraisal (17) Portuguese | Reward: 445,000 / Advance payment: 40,000 Experience: 370 / Fame: 225 |
+| **[Solomon's Glory](docs/Quests/Adventure/5001-6000/quest_5827.md)** | Adventure quest (10) | Exploration (15) Treasures Appraisal (17) Portuguese | Reward: 445,000 / Advance payment: 40,000 Experience: 370 / Fame: 225 |

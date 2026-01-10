@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Persian fable teller](Quests/Adventure/quest_279.md)** | Adventure quest (5) | Exploration (3) Treasures Appraisal (5) Unlocking (3) | Reward: 74,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Persian fable teller](docs/Quests/Adventure/1-1000/quest_279.md)** | Adventure quest (5) | Exploration (3) Treasures Appraisal (5) Unlocking (3) | Reward: 74,000 / Advance payment: 0Experience: 150 / Fame: 75 |

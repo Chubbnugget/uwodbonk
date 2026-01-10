@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gaudy colored bug](Quests/Adventure/quest_6708.md)** | Adventure quest (7) | Ecological research (8) Biology (10) North American languages ​​(1) | Reward: 233,400 / Advance payment: 20,000 Experience: 250 |
+| **[Gaudy colored bug](docs/Quests/Adventure/6001-7000/quest_6708.md)** | Adventure quest (7) | Ecological research (8) Biology (10) North American languages ​​(1) | Reward: 233,400 / Advance payment: 20,000 Experience: 250 |

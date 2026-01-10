@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Leshan Great Buddha (Deep Hidden Room)](Quests/Other/quest_4815.md)** | Dungeon (5) | - |  |
+| **[Leshan Great Buddha (Deep Hidden Room)](docs/Quests/Other/4001-5000/quest_4815.md)** | Dungeon (5) | - |  |

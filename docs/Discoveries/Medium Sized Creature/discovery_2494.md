@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Best dog](Quests/Adventure/quest_4864.md)** | Adventure Quest (10) B.C. | Ecological Survey (9) Biology (11) Arabic | Reward: 596,000 / Advance payment: 50,000 Experience: 570 / Fame: 230 |
+| **[Best dog](docs/Quests/Adventure/4001-5000/quest_4864.md)** | Adventure Quest (10) B.C. | Ecological Survey (9) Biology (11) Arabic | Reward: 596,000 / Advance payment: 50,000 Experience: 570 / Fame: 230 |

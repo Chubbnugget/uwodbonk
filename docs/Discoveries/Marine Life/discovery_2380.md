@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Silver mysterious fire floating in the waves](Quests/Adventure/quest_2973.md)** | Adventure quest (9) | Ecological research (11) Biology (13) Oceanian languages | Reward: 502,000 / Advance payment: 50,000 Experience: 490 / Fame: 200 |
+| **[Silver mysterious fire floating in the waves](docs/Quests/Adventure/2001-3000/quest_2973.md)** | Adventure quest (9) | Ecological research (11) Biology (13) Oceanian languages | Reward: 502,000 / Advance payment: 50,000 Experience: 490 / Fame: 200 |

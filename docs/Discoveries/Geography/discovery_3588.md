@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of huge round rock](Quests/Other/quest_6516.md)** | Pursuit quest (4) | Geography (14) Visual recognition (12) Chinese | Reward: 420,000 / Advance payment: 0Experience: 864 |
+| **[Additional investigation of huge round rock](docs/Quests/Other/6001-7000/quest_6516.md)** | Pursuit quest (4) | Geography (14) Visual recognition (12) Chinese | Reward: 420,000 / Advance payment: 0Experience: 864 |

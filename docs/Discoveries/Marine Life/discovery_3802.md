@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pearl of the Persian Gulf](Quests/Adventure/quest_6762.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Arabic (1) | Reward: 210,000/Advance: 20,000Experience: 200 |
+| **[Pearl of the Persian Gulf](docs/Quests/Adventure/6001-7000/quest_6762.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Arabic (1) | Reward: 210,000/Advance: 20,000Experience: 200 |

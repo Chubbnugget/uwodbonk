@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Chase Korean paintings](Quests/Adventure/quest_2679.md)** | Adventure Quest (2) 15th Century 3rd Period | 探索(3)美術(5)朝鮮語 | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Chase Korean paintings](docs/Quests/Adventure/2001-3000/quest_2679.md)** | Adventure Quest (2) 15th Century 3rd Period | 探索(3)美術(5)朝鮮語 | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |

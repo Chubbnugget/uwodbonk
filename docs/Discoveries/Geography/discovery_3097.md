@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Northernmost tip of Eurasia](Quests/Adventure/quest_3680.md)** | Adventure quest (4) 18th century third period | Geography (6) Visual recognition (4) Dutch | Reward: 168,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |
+| **[Northernmost tip of Eurasia](docs/Quests/Adventure/3001-4000/quest_3680.md)** | Adventure quest (4) 18th century third period | Geography (6) Visual recognition (4) Dutch | Reward: 168,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lotus without water](Quests/Adventure/quest_6759.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Spanish (1) | Reward: 48,000 / Advance payment: 0Experience: 160 / Fame: 80 |
+| **[Lotus without water](docs/Quests/Adventure/6001-7000/quest_6759.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Spanish (1) | Reward: 48,000 / Advance payment: 0Experience: 160 / Fame: 80 |

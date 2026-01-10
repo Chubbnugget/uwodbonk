@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Poetry that decides victory or defeat](Quests/Adventure/quest_2875.md)** | Adventure quest (6) | Explore(2)Archaeology(4)Chinese | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |
+| **[Poetry that decides victory or defeat](docs/Quests/Adventure/2001-3000/quest_2875.md)** | Adventure quest (6) | Explore(2)Archaeology(4)Chinese | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |

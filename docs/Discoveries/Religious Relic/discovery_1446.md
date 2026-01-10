@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mesopotamian god of magic](Quests/Adventure/quest_3388.md)** | Adventure Quest (8) Mythology Era | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 455,000/ Advance: 40,000Experience: 450/ Fame: 185 |
+| **[Mesopotamian god of magic](docs/Quests/Adventure/3001-4000/quest_3388.md)** | Adventure Quest (8) Mythology Era | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 455,000/ Advance: 40,000Experience: 450/ Fame: 185 |

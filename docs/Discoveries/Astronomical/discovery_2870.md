@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Reticle seat](Quests/Other/quest_5525.md)** | Celestial Object Discovery Name(9)18th Century Issue 3 | Astronomy (9) Visualization (7) | Experience：730 |
+| **[Reticle seat](docs/Quests/Other/5001-6000/quest_5525.md)** | Celestial Object Discovery Name(9)18th Century Issue 3 | Astronomy (9) Visualization (7) | Experience：730 |

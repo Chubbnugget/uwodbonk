@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Great Tree of Flame](Quests/Adventure/quest_357.md)** | Adventure quest (6) | Ecological research (3) Biology (5) Swahili | Reward: 94,000 / Advance payment: 10,000 Experience: 140 / Fame: 75 |
+| **[Great Tree of Flame](docs/Quests/Adventure/1-1000/quest_357.md)** | Adventure quest (6) | Ecological research (3) Biology (5) Swahili | Reward: 94,000 / Advance payment: 10,000 Experience: 140 / Fame: 75 |

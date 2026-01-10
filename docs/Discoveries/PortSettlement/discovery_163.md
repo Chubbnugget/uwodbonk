@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lisbon](Quests/Other/quest_5173.md)** | Port/village (1) | - |  |
+| **[Lisbon](docs/Quests/Other/5001-6000/quest_5173.md)** | Port/village (1) | - |  |

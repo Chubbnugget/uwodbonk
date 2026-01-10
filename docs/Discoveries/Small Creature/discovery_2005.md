@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sound of water echoing in the darkness of the night](Quests/Adventure/quest_3600.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Spanish | Reward: 264,000 / Advance: 20,000 Experience: 290 / Fame: 125 |
+| **[Sound of water echoing in the darkness of the night](docs/Quests/Adventure/3001-4000/quest_3600.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Spanish | Reward: 264,000 / Advance: 20,000 Experience: 290 / Fame: 125 |

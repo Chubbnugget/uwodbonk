@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Heroic Empress](Quests/Adventure/quest_354.md)** | Adventure quest (5) | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 74,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[The Heroic Empress](docs/Quests/Adventure/1-1000/quest_354.md)** | Adventure quest (5) | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 74,000 / Advance payment: 0Experience: 150 / Fame: 70 |

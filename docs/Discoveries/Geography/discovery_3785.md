@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Paradise in this world](Quests/Adventure/quest_6743.md)** | Adventure quest (6) | Geography (8) Visualization (6) Portuguese (1) | Reward: 108,000 / Advance payment: 10,000 Experience: 1,500 |
+| **[Paradise in this world](docs/Quests/Adventure/6001-7000/quest_6743.md)** | Adventure quest (6) | Geography (8) Visualization (6) Portuguese (1) | Reward: 108,000 / Advance payment: 10,000 Experience: 1,500 |

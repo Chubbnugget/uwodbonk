@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Chepkan |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 133,700 |
 | **Description** | Easy-to-move clothing worn by Ottoman soldiers. Gender restrictions Male Durability 35 Formal wear 15 Disguise 30 Defense 15 Evasion +1 Total required fame 1050 |

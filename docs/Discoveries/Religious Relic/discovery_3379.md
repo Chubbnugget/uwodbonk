@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fork in the road](Quests/Adventure/quest_6269.md)** | Adventure quest (8) 18th century third period | Religious Studies (12) Exploration (10) Unlocking (10) | Reward: 80,000/ Advance payment: 0 |
+| **[Fork in the road](docs/Quests/Adventure/6001-7000/quest_6269.md)** | Adventure quest (8) 18th century third period | Religious Studies (12) Exploration (10) Unlocking (10) | Reward: 80,000/ Advance payment: 0 |

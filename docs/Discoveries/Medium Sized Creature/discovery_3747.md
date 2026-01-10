@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Skogkattel](Quests/Other/quest_6701.md)** | Pursuit quest (8) | Ecological Survey (10) Biology (12) Norse | Reward: 240,000 |
+| **[Additional investigation of Skogkattel](docs/Quests/Other/6001-7000/quest_6701.md)** | Pursuit quest (8) | Ecological Survey (10) Biology (12) Norse | Reward: 240,000 |

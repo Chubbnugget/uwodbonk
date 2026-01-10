@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flute of Light](Quests/Adventure/quest_570.md)** | Adventure quest (3) | Exploration (2) Treasures Appraisal (4) Arabic | Reward: 0 / Advance payment: 0 Experience: 130 / Fame: 65 |
+| **[Flute of Light](docs/Quests/Adventure/1-1000/quest_570.md)** | Adventure quest (3) | Exploration (2) Treasures Appraisal (4) Arabic | Reward: 0 / Advance payment: 0 Experience: 130 / Fame: 65 |

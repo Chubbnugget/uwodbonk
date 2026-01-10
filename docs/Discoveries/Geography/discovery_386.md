@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Towering rock pillar](Quests/Adventure/quest_3303.md)** | Adventure quest (7) | Geography (8) Visualization (6) Spanish | Reward: 219,000/ Advance: 20,000Experience: 260/ Fame: 110 |
+| **[Towering rock pillar](docs/Quests/Adventure/3001-4000/quest_3303.md)** | Adventure quest (7) | Geography (8) Visualization (6) Spanish | Reward: 219,000/ Advance: 20,000Experience: 260/ Fame: 110 |

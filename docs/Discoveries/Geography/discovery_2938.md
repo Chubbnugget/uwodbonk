@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Geography survey near Bering Strait](Quests/Adventure/quest_5622.md)** | Adventure quest (6) | Geography (8) Visual recognition (6) Japanese | Reward: 113,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[Geography survey near Bering Strait](docs/Quests/Adventure/5001-6000/quest_5622.md)** | Adventure quest (6) | Geography (8) Visual recognition (6) Japanese | Reward: 113,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

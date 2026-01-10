@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A bird that is not a bird](Quests/Adventure/quest_6147.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Japanese | Reward: 103,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[A bird that is not a bird](docs/Quests/Adventure/6001-7000/quest_6147.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Japanese | Reward: 103,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

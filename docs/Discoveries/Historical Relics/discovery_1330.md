@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of old stone monument](Quests/Other/quest_2874.md)** | Archeology(8) | Exploration(8)Archaeology(8) | Experience：250 |
+| **[Map of old stone monument](docs/Quests/Other/2001-3000/quest_2874.md)** | Archeology(8) | Exploration(8)Archaeology(8) | Experience：250 |

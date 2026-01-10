@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Penguin Bone Map](Quests/Other/quest_5611.md)** | Biology学(5) | Explore(5)Biology(5) |  |
+| **[Giant Penguin Bone Map](docs/Quests/Other/5001-6000/quest_5611.md)** | Biology学(5) | Explore(5)Biology(5) |  |

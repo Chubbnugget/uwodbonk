@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Approaching the history of the world](Quests/Adventure/quest_6357.md)** | Adventure quest (8) 15th century 5th period | Exploration (9) Treasures Appraisal (11) Portuguese | Reward: 190,000 / Advance payment: 20,000 Experience: 210 / Fame: 115 |
+| **[Approaching the history of the world](docs/Quests/Adventure/6001-7000/quest_6357.md)** | Adventure quest (8) 15th century 5th period | Exploration (9) Treasures Appraisal (11) Portuguese | Reward: 190,000 / Advance payment: 20,000 Experience: 210 / Fame: 115 |

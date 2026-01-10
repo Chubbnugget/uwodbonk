@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rock paintings of sacred places](Quests/Adventure/quest_5322.md)** | Adventure quest (6) | Archeology (6) Visualization (4) West African languages | Remuneration: 200,000 / Advance payment: 20,000 |
+| **[Rock paintings of sacred places](docs/Quests/Adventure/5001-6000/quest_5322.md)** | Adventure quest (6) | Archeology (6) Visualization (4) West African languages | Remuneration: 200,000 / Advance payment: 20,000 |

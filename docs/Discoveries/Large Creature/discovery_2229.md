@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cow herd map](Quests/Other/quest_429.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |
+| **[Cow herd map](docs/Quests/Other/1-1000/quest_429.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |

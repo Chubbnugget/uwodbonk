@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[World's deadly poison](Quests/Adventure/quest_5897.md)** | Adventure quest (10) | Ecological Survey (15) Biology (17) Spanish | Reward: 821,000 / Advance payment: 80,000 Experience: 600 / Fame: 380 |
+| **[World's deadly poison](docs/Quests/Adventure/5001-6000/quest_5897.md)** | Adventure quest (10) | Ecological Survey (15) Biology (17) Spanish | Reward: 821,000 / Advance payment: 80,000 Experience: 600 / Fame: 380 |

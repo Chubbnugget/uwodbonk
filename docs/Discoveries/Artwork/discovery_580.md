@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Painter of Laughter](Quests/Adventure/quest_2000.md)** | Adventure Quest (4) 17th Century 2nd Period | Exploration (3) Art (5) Norse | Reward: 128,000/ Advance: 10,000 Experience: 180/ Fame: 85 |
+| **[Painter of Laughter](docs/Quests/Adventure/1001-2000/quest_2000.md)** | Adventure Quest (4) 17th Century 2nd Period | Exploration (3) Art (5) Norse | Reward: 128,000/ Advance: 10,000 Experience: 180/ Fame: 85 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Life in history books](Quests/Adventure/quest_2041.md)** | Adventure quest (5) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 83,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Life in history books](docs/Quests/Adventure/2001-3000/quest_2041.md)** | Adventure quest (5) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 83,000 / Advance payment: 0Experience: 140 / Fame: 70 |

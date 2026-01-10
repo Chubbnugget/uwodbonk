@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Talking not only about ruins](Quests/Adventure/quest_6254.md)** | Adventure quest (5) 17th century 4th period | Religious Studies (6) Visualization (4) Greek | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Talking not only about ruins](docs/Quests/Adventure/6001-7000/quest_6254.md)** | Adventure quest (5) 17th century 4th period | Religious Studies (6) Visualization (4) Greek | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 70 |

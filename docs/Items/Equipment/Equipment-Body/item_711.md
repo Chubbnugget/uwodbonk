@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | rough color doublet |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 116,500 |
 | **Description** | Luxury clothing with lace on the sleeves. Often worn by government officials. Durability 30 Formal wear 27 Defense 7 Total required fame 1100 |

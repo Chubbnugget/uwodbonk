@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Nereid Monument](Quests/Other/quest_6404.md)** | Legacy(1) | - |  |
+| **[Nereid Monument](docs/Quests/Other/6001-7000/quest_6404.md)** | Legacy(1) | - |  |

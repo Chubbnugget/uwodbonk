@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big jaw and small head](Quests/Adventure/quest_6363.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Portuguese | Reward: 175,000 / Advance payment: 20,000 Experience: 200 / Fame: 110 |
+| **[Big jaw and small head](docs/Quests/Adventure/6001-7000/quest_6363.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Portuguese | Reward: 175,000 / Advance payment: 20,000 Experience: 200 / Fame: 110 |

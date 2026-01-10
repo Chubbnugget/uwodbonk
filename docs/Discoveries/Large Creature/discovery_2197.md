@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indian Elephant](Quests/Adventure/quest_58.md)** | Adventure quest (7) | Ecological research (5) Biology (7) Indian languages | Reward: 151,000 / Advance payment: 5,000 Experience: 170 / Fame: 90 |
+| **[Indian Elephant](docs/Quests/Adventure/1-1000/quest_58.md)** | Adventure quest (7) | Ecological research (5) Biology (7) Indian languages | Reward: 151,000 / Advance payment: 5,000 Experience: 170 / Fame: 90 |

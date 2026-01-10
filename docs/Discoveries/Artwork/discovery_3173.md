@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Charm of stained glass](Quests/Adventure/quest_5905.md)** | Adventure quest (10) | Exploration (15) Art (17) Italian | Reward: 559,000 / Advance payment: 50,000 Experience: 440 / Fame: 270 |
+| **[Charm of stained glass](docs/Quests/Adventure/5001-6000/quest_5905.md)** | Adventure quest (10) | Exploration (15) Art (17) Italian | Reward: 559,000 / Advance payment: 50,000 Experience: 440 / Fame: 270 |

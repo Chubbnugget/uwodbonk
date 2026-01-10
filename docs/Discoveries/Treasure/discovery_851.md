@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[To study Silla](Quests/Adventure/quest_2665.md)** | Adventure quest (5) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 78,000Experience: 154/ Fame: 77 |
+| **[To study Silla](docs/Quests/Adventure/2001-3000/quest_2665.md)** | Adventure quest (5) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 78,000Experience: 154/ Fame: 77 |

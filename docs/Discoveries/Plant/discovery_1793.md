@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue little flower map](Quests/Other/quest_2999.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：110 |
+| **[Blue little flower map](docs/Quests/Other/2001-3000/quest_2999.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：110 |

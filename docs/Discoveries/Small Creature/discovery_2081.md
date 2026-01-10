@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red-faced lizard](Quests/Adventure/quest_2246.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Quechua | Reward: 103,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[Red-faced lizard](docs/Quests/Adventure/2001-3000/quest_2246.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Quechua | Reward: 103,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

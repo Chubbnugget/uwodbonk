@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Udgatri Priest's Scripture](Quests/Adventure/quest_488.md)** | Adventure quest (6) | Religious Studies (6) Exploration (4) Indian Languages | Reward: 108,000 / Advance payment: 0Experience: 200 / Fame: 90 |
+| **[Udgatri Priest's Scripture](docs/Quests/Adventure/1-1000/quest_488.md)** | Adventure quest (6) | Religious Studies (6) Exploration (4) Indian Languages | Reward: 108,000 / Advance payment: 0Experience: 200 / Fame: 90 |

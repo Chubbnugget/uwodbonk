@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rare medical book](Quests/Adventure/quest_2042.md)** | Adventure quest (5) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 90,000 Experience: 150 / Fame: 70 |
+| **[Rare medical book](docs/Quests/Adventure/2001-3000/quest_2042.md)** | Adventure quest (5) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 90,000 Experience: 150 / Fame: 70 |

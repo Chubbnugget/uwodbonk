@@ -24,7 +24,7 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Land of the Legendary King](Quests/Adventure/quest_4958.md)** | Adventure Quest (3) Mythology Era | Explore(1)Archaeology(1)English | Reward: 73,000Experience: 195/ Fame: 195 |
-| **[Land of the Legendary King](Quests/Adventure/quest_4964.md)** | Adventure Quest (3) Mythology Era | Explore(1)Archaeology(1)English | Reward: 73,000 |
-| **[Land of the Legendary King](Quests/Adventure/quest_5395.md)** | Adventure Quest (3) Mythology Era | Explore(1)Archaeology(1)English(1) | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |
-| **[Tool Investigation](Quests/Other/quest_5378.md)** | Imperial command quest (2) | Exploration (1) Archeology (1) Greek | Reward: 14,000 / Advance payment: 0Experience: 100 / Fame: 50 |
+| **[Land of the Legendary King](docs/Quests/Adventure/4001-5000/quest_4958.md)** | Adventure Quest (3) Mythology Era | Explore(1)Archaeology(1)English | Reward: 73,000Experience: 195/ Fame: 195 |
+| **[Land of the Legendary King](docs/Quests/Adventure/4001-5000/quest_4964.md)** | Adventure Quest (3) Mythology Era | Explore(1)Archaeology(1)English | Reward: 73,000 |
+| **[Land of the Legendary King](docs/Quests/Adventure/5001-6000/quest_5395.md)** | Adventure Quest (3) Mythology Era | Explore(1)Archaeology(1)English(1) | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Tool Investigation](docs/Quests/Other/5001-6000/quest_5378.md)** | Imperial command quest (2) | Exploration (1) Archeology (1) Greek | Reward: 14,000 / Advance payment: 0Experience: 100 / Fame: 50 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Charlemagne's relics](Quests/Adventure/quest_6385.md)** | Adventure quest (8) | Exploration (9) Treasures Appraisal (11) Unlocking (9) | Reward: 470,000 / Advance payment: 50,000 Experience: 380 / Fame: 235 |
+| **[Charlemagne's relics](docs/Quests/Adventure/6001-7000/quest_6385.md)** | Adventure quest (8) | Exploration (9) Treasures Appraisal (11) Unlocking (9) | Reward: 470,000 / Advance payment: 50,000 Experience: 380 / Fame: 235 |

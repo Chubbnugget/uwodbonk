@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Great Wings of Awe and Heroism](Quests/Adventure/quest_2978.md)** | Adventure quest (10) | Geography (10) Ecological research (12) Biology (14) | Reward: 408,000 / Advance payment: 40,000 Experience: 410 / Fame: 340 |
+| **[Great Wings of Awe and Heroism](docs/Quests/Adventure/2001-3000/quest_2978.md)** | Adventure quest (10) | Geography (10) Ecological research (12) Biology (14) | Reward: 408,000 / Advance payment: 40,000 Experience: 410 / Fame: 340 |

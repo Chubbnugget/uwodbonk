@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Guardian of the Maiden's Room](Quests/Adventure/quest_368.md)** | Adventure Quest (9) B.C. | Religious Studies (12) Exploration (10) French | Reward: 255,000/Advance: 20,000Experience: 250/Reputation: 115 |
+| **[Guardian of the Maiden's Room](docs/Quests/Adventure/1-1000/quest_368.md)** | Adventure Quest (9) B.C. | Religious Studies (12) Exploration (10) French | Reward: 255,000/Advance: 20,000Experience: 250/Reputation: 115 |

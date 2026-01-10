@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red Turtle Map](Quests/Other/quest_1502.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |
+| **[Red Turtle Map](docs/Quests/Other/1001-2000/quest_1502.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |

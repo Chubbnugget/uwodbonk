@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Salamis Battle Site](Quests/Adventure/quest_5691.md)** | Adventure Quest (10) B.C. | Geography (17) Visualization (15) Greek | Reward: 354,000 / Advance payment: 30,000 Experience: 310 / Fame: 370 |
+| **[Salamis Battle Site](docs/Quests/Adventure/5001-6000/quest_5691.md)** | Adventure Quest (10) B.C. | Geography (17) Visualization (15) Greek | Reward: 354,000 / Advance payment: 30,000 Experience: 310 / Fame: 370 |

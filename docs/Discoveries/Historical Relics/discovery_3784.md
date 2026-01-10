@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Small boat navigating the wetland](Quests/Adventure/quest_6742.md)** | Adventure quest (5) | Exploration (4) Archeology (6) West African languages ​​(1) | Reward: 155,000/Advance payment: 20,000Experience: 180 |
+| **[Small boat navigating the wetland](docs/Quests/Adventure/6001-7000/quest_6742.md)** | Adventure quest (5) | Exploration (4) Archeology (6) West African languages ​​(1) | Reward: 155,000/Advance payment: 20,000Experience: 180 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sailors' Argument](Quests/Adventure/quest_2545.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Chinese (1) | Reward: 140,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Sailors' Argument](docs/Quests/Adventure/2001-3000/quest_2545.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Chinese (1) | Reward: 140,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Nimble moving crab](Quests/Adventure/quest_2249.md)** | Adventure quest (3) | Ecological Survey (2) Biology (4) Spanish | Reward: 179,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |
+| **[Nimble moving crab](docs/Quests/Adventure/2001-3000/quest_2249.md)** | Adventure quest (3) | Ecological Survey (2) Biology (4) Spanish | Reward: 179,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |

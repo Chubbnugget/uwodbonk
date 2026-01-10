@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stolen King's Relic](Quests/Adventure/quest_5369.md)** | Adventure Quest (7) B.C. | Exploration (8) Archeology (10) Arabic | Reward: 82,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Stolen King's Relic](docs/Quests/Adventure/5001-6000/quest_5369.md)** | Adventure Quest (7) B.C. | Exploration (8) Archeology (10) Arabic | Reward: 82,000 / Advance payment: 0Experience: 140 / Fame: 70 |

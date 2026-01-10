@@ -30,5 +30,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Catch the Salamander](Quests/Adventure/quest_160.md)** | Adventure quest (4) | Ecological research (1) Biology (2) French | Reward: 31,000 / Advance payment: 0Experience: 130 / Fame: 65 |
-| **[Fire-breathing lizard investigation](Quests/Adventure/quest_5997.md)** | Adventure quest (2) | Ecological research (1) Biology (2) French | Reward: 30,000 / Advance payment: 0Experience: 150 / Fame: 135 |
+| **[Catch the Salamander](docs/Quests/Adventure/1-1000/quest_160.md)** | Adventure quest (4) | Ecological research (1) Biology (2) French | Reward: 31,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Fire-breathing lizard investigation](docs/Quests/Adventure/5001-6000/quest_5997.md)** | Adventure quest (2) | Ecological research (1) Biology (2) French | Reward: 30,000 / Advance payment: 0Experience: 150 / Fame: 135 |

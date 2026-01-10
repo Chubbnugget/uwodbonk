@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ruins of Prehistoric Era](Quests/Adventure/quest_6776.md)** | Adventure quest (7) | Geography (10) Visualization (8) Arabic (1) | Reward: 180,000Experience: 150/ Fame: 80 |
+| **[Ruins of Prehistoric Era](docs/Quests/Adventure/6001-7000/quest_6776.md)** | Adventure quest (7) | Geography (10) Visualization (8) Arabic (1) | Reward: 180,000Experience: 150/ Fame: 80 |

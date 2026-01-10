@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[African Giant Tree](Quests/Adventure/quest_23.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Swahili | Reward: 35,000 / Advance payment: 10,000 Experience: 140 / Fame: 70 |
+| **[African Giant Tree](docs/Quests/Adventure/1-1000/quest_23.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Swahili | Reward: 35,000 / Advance payment: 10,000 Experience: 140 / Fame: 70 |

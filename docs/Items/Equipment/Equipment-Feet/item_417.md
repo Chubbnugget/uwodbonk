@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | buckle boots |
 | **Type** | thing |
-| **Group** | [Equipment (foot)](Categories/category_26.md) |
+| **Group** | [Equipment (foot)](docs/Categories/category_26.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 100 |
 | **Description** | Boots decorated with a leather belt and metal fittings. It is a very common item. Durability 35 Defense 2 |

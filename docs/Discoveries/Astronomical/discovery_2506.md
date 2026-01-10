@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Cup of Excellence](Quests/Adventure/quest_4862.md)** | Adventure Quest (4) Mythology Era | Astronomy (4) Visualization (2) Arabic | Reward: 204,000 / Advance payment: 20,000 Experience: 240 / Fame: 105 |
+| **[The Cup of Excellence](docs/Quests/Adventure/4001-5000/quest_4862.md)** | Adventure Quest (4) Mythology Era | Astronomy (4) Visualization (2) Arabic | Reward: 204,000 / Advance payment: 20,000 Experience: 240 / Fame: 105 |

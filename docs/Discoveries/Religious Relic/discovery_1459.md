@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Things you shouldn't see](Quests/Adventure/quest_477.md)** | Adventure quest (7) | Religious Studies (7) Exploration (5) Turkish | Reward: 110,000Experience: 170/ Fame: 90 |
+| **[Things you shouldn't see](docs/Quests/Adventure/1-1000/quest_477.md)** | Adventure quest (7) | Religious Studies (7) Exploration (5) Turkish | Reward: 110,000Experience: 170/ Fame: 90 |

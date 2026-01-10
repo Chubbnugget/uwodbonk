@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Solitary island floating in the ocean](Quests/Adventure/quest_1186.md)** | Adventure Quest (6) 15th Century 5th Period | Geography (6) Visualization (4) Portuguese | Reward: 140,000 / Advance payment: 5,000 Experience: 225 / Fame: 85 |
+| **[Solitary island floating in the ocean](docs/Quests/Adventure/1001-2000/quest_1186.md)** | Adventure Quest (6) 15th Century 5th Period | Geography (6) Visualization (4) Portuguese | Reward: 140,000 / Advance payment: 5,000 Experience: 225 / Fame: 85 |

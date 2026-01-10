@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dark Green Blade](Quests/Adventure/quest_1744.md)** | Adventure quest (8) | Exploration (6) Treasures Appraisal (8) Oceanian Languages | Reward: 178,000 / Advance payment: 10,000 Experience: 430 / Fame: 142 |
+| **[Dark Green Blade](docs/Quests/Adventure/1001-2000/quest_1744.md)** | Adventure quest (8) | Exploration (6) Treasures Appraisal (8) Oceanian Languages | Reward: 178,000 / Advance payment: 10,000 Experience: 430 / Fame: 142 |

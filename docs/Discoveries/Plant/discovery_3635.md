@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on carnivorous plants](Quests/Other/quest_6576.md)** | Pursuit quest (3) | Ecological Survey (10) Biology (12) Portuguese | Reward: 340,000 / Advance payment: 0Experience: 816 |
+| **[Additional research on carnivorous plants](docs/Quests/Other/6001-7000/quest_6576.md)** | Pursuit quest (3) | Ecological Survey (10) Biology (12) Portuguese | Reward: 340,000 / Advance payment: 0Experience: 816 |

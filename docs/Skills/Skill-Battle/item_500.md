@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | shooting |
 | **Type** | thing |
-| **Group** | [Skill (combat)](Categories/category_41.md) |
+| **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 5,000 |
 | **Description** | In hand-to-hand combat, you can lower the enemy's attack and defense power. Learning conditions 0/0/3/total 20 |
 | **Last Updated** | 2005-04-02 09:58:31 System |

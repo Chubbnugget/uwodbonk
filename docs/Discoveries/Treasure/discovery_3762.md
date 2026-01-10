@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Ranteijo](Quests/Other/quest_6721.md)** | Pursuit quest (6) | Exploration (6) Treasures Appraisal (8) French (1) | Remuneration: 160,000 / Advance payment: 0 |
+| **[Additional investigation of Ranteijo](docs/Quests/Other/6001-7000/quest_6721.md)** | Pursuit quest (6) | Exploration (6) Treasures Appraisal (8) French (1) | Remuneration: 160,000 / Advance payment: 0 |

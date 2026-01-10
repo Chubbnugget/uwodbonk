@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black-eared beast](Quests/Adventure/quest_596.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Arabic | Reward: 67,000 / Advance payment: 0Experience: 165 / Fame: 65 |
+| **[Black-eared beast](docs/Quests/Adventure/1-1000/quest_596.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Arabic | Reward: 67,000 / Advance payment: 0Experience: 165 / Fame: 65 |

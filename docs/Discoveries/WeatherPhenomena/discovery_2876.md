@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rainbow](Quests/Other/quest_5543.md)** | Weather/phenomena (1) | Visual recognition (3) | Experience：150 |
+| **[Rainbow](docs/Quests/Other/5001-6000/quest_5543.md)** | Weather/phenomena (1) | Visual recognition (3) | Experience：150 |

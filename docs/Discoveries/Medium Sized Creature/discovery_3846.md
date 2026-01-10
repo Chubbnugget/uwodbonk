@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Animals that like cleanliness](Quests/Adventure/quest_6827.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) English | Reward: 225,000/Advance: 20,000Experience: 230 |
+| **[Animals that like cleanliness](docs/Quests/Adventure/6001-7000/quest_6827.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) English | Reward: 225,000/Advance: 20,000Experience: 230 |

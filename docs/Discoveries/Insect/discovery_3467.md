@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Praying insect](Quests/Adventure/quest_6384.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Japanese | Reward: 75,000/ Advance payment: 10,000 Experience: 130/ Fame: 70 |
+| **[Praying insect](docs/Quests/Adventure/6001-7000/quest_6384.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Japanese | Reward: 75,000/ Advance payment: 10,000 Experience: 130/ Fame: 70 |

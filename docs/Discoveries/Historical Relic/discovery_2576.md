@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Women of the Byzantine Empire](Quests/Other/quest_3543.md)** | Treasure hunting (7) | Exploration (11) Archeology (13) Turkish | Experience: 2,820/ Reputation: 1,125 |
+| **[Women of the Byzantine Empire](docs/Quests/Other/3001-4000/quest_3543.md)** | Treasure hunting (7) | Exploration (11) Archeology (13) Turkish | Experience: 2,820/ Reputation: 1,125 |

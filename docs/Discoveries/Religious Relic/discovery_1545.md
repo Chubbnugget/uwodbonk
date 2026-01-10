@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hero God's Wife](Quests/Adventure/quest_356.md)** | Adventure Quest (6) Mythology Era | Religious Studies (5) Exploration (3) Indian Languages | Reward: 73,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Hero God's Wife](docs/Quests/Adventure/1-1000/quest_356.md)** | Adventure Quest (6) Mythology Era | Religious Studies (5) Exploration (3) Indian Languages | Reward: 73,000 / Advance payment: 0Experience: 150 / Fame: 75 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[De Atocha](Quests/Other/quest_6213.md)** | Sunken ship(7) | Salvage visibility (9) |  |
+| **[De Atocha](docs/Quests/Other/6001-7000/quest_6213.md)** | Sunken ship(7) | Salvage visibility (9) |  |

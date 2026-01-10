@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[House of the God of Sake](Quests/Adventure/quest_634.md)** | Adventure quest (4) | Religion(2)Exploration(1)Archaeology(2) | Reward: 19,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[House of the God of Sake](docs/Quests/Adventure/1-1000/quest_634.md)** | Adventure quest (4) | Religion(2)Exploration(1)Archaeology(2) | Reward: 19,000 / Advance payment: 0Experience: 130 / Fame: 65 |

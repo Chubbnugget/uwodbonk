@@ -68,33 +68,33 @@ The center of the Inca Empire, located in the northern hinterland of Lima. Cusco
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Consumables (condition recovery)](Categories/category_21.md)
+#### [Consumables (condition recovery)](docs/Categories/category_21.md)
 
-| [Shrine Maiden Chicha](Items/Consumables/Consumables-Recovery/item_2992.md) | Consumables (condition recovery) | 30,000 | tool shop owner |  |
+| [Shrine Maiden Chicha](docs/Items/Consumables/Consumables-Recovery/item_2992.md) | Consumables (condition recovery) | 30,000 | tool shop owner |  |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [Andean costume sewing method volume 2](Items/Recipe Book/item_3063.md) | recipe book | Fixed recipe | tool shop owner |  |
+| [Andean costume sewing method volume 2](docs/Items/RecipeBooks/item_3063.md) | recipe book | Fixed recipe | tool shop owner |  |
 
-#### [Equipment (body)](Categories/category_24.md)
+#### [Equipment (body)](docs/Categories/category_24.md)
 
-| [inka tunic](Items/Equipment/Equipment-Body/item_2990.md) | Equipment (body) | 200,000 | tool shop owner |  |
-| [Incavestid](Items/Equipment/Equipment-Body/item_2991.md) | Equipment (body) | 200,000 | tool shop owner |  |
+| [inka tunic](docs/Items/Equipment/Equipment-Body/item_2990.md) | Equipment (body) | 200,000 | tool shop owner |  |
+| [Incavestid](docs/Items/Equipment/Equipment-Body/item_2991.md) | Equipment (body) | 200,000 | tool shop owner |  |
 
-#### [Equipment (belongings)](Categories/category_27.md)
+#### [Equipment (belongings)](docs/Categories/category_27.md)
 
-| [木槍](Items/Equipment/Equipment-Weapon/item_438.md) | Equipment (belongings) | 34,400 | tool shop owner |  |
-| [hunter's spear](Items/Equipment/Equipment-Weapon/item_655.md) | Equipment (belongings) | 38,700 | tool shop owner |  |
+| [木槍](docs/Items/Equipment/Equipment-Weapon/item_438.md) | Equipment (belongings) | 34,400 | tool shop owner |  |
+| [hunter's spear](docs/Items/Equipment/Equipment-Weapon/item_655.md) | Equipment (belongings) | 38,700 | tool shop owner |  |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
-| [tonic](Items/Consumables/Consumables-Landbattle/item_1678.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
-| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
+| [strong adhesive oil](docs/Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [tonic](docs/Items/Consumables/Consumables-Landbattle/item_1678.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [torch for throwing](docs/Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [secret cure](docs/Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 
-#### [Consumables (skill activation)](Categories/category_31.md)
+#### [Consumables (skill activation)](docs/Categories/category_31.md)
 
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
+| [fishing gear](docs/Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
   </TabItem>
 </Tabs>

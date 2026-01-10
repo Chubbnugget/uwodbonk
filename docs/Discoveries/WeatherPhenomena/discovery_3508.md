@@ -30,4 +30,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue Jet](Quests/Other/quest_6430.md)** | Weather/phenomena (2) | Visual recognition |  |
+| **[Blue Jet](docs/Quests/Other/6001-7000/quest_6430.md)** | Weather/phenomena (2) | Visual recognition |  |

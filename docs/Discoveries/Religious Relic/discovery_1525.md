@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Atlantic coast religion fusion](Quests/Adventure/quest_811.md)** | Adventure Quest (8) Mythology Era | Religious Studies (9) Exploration (7) Spanish | Reward: 170,000Experience: 200/ Fame: 110 |
+| **[Atlantic coast religion fusion](docs/Quests/Adventure/1-1000/quest_811.md)** | Adventure Quest (8) Mythology Era | Religious Studies (9) Exploration (7) Spanish | Reward: 170,000Experience: 200/ Fame: 110 |

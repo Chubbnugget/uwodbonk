@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Snow melting flower](Quests/Adventure/quest_2379.md)** | Adventure quest (3) | Ecological Survey (2) Biology (4) Japanese | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Snow melting flower](docs/Quests/Adventure/2001-3000/quest_2379.md)** | Adventure quest (3) | Ecological Survey (2) Biology (4) Japanese | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |

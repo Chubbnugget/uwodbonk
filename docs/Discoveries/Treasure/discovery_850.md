@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Proof of New Wife](Quests/Adventure/quest_1844.md)** | Adventure quest (3) | Exploration (2) Treasures Appraisal (4) Indian Languages | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Proof of New Wife](docs/Quests/Adventure/1001-2000/quest_1844.md)** | Adventure quest (3) | Exploration (2) Treasures Appraisal (4) Indian Languages | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |

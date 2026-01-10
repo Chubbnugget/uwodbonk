@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[British Island health resort](Quests/Adventure/quest_3292.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) English | Reward: 75,000 / Advance payment: 20,000 Experience: 350 / Fame: 150 |
+| **[British Island health resort](docs/Quests/Adventure/3001-4000/quest_3292.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) English | Reward: 75,000 / Advance payment: 20,000 Experience: 350 / Fame: 150 |

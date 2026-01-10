@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Brahman Priest's Scripture](Quests/Adventure/quest_822.md)** | Adventure quest (6) | Religious Studies (6) Exploration (4) Indian Languages | Reward: 108,000Experience: 190/ Fame: 170 |
+| **[Brahman Priest's Scripture](docs/Quests/Adventure/1-1000/quest_822.md)** | Adventure quest (6) | Religious Studies (6) Exploration (4) Indian Languages | Reward: 108,000Experience: 190/ Fame: 170 |

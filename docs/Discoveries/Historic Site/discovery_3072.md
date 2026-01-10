@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What to explore](Quests/Adventure/quest_5801.md)** | Adventure quest (10) | Archeology (17) Visualization (15) English | Reward: 394,000 / Advance payment: 30,000 Experience: 330 / Fame: 200 |
+| **[What to explore](docs/Quests/Adventure/5001-6000/quest_5801.md)** | Adventure quest (10) | Archeology (17) Visualization (15) English | Reward: 394,000 / Advance payment: 30,000 Experience: 330 / Fame: 200 |

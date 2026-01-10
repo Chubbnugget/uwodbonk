@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mystery of hair ornament](Quests/Adventure/quest_6285.md)** | Adventure quest (9) | Geography (13) Visualization (11) Arabic (1) | Reward: 583,000 / Advance payment: 50,000 Experience: 450 / Fame: 560 |
+| **[Mystery of hair ornament](docs/Quests/Adventure/6001-7000/quest_6285.md)** | Adventure quest (9) | Geography (13) Visualization (11) Arabic (1) | Reward: 583,000 / Advance payment: 50,000 Experience: 450 / Fame: 560 |

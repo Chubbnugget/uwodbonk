@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Land development expectations](Quests/Adventure/quest_870.md)** | Adventure Quest (6) 17th Century 1st Period | Geography (6) Visual recognition (4) Spanish | Reward: 99,000 / Advance payment: 0Experience: 150 / Fame: 85 |
+| **[Land development expectations](docs/Quests/Adventure/1-1000/quest_870.md)** | Adventure Quest (6) 17th Century 1st Period | Geography (6) Visual recognition (4) Spanish | Reward: 99,000 / Advance payment: 0Experience: 150 / Fame: 85 |

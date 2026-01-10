@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pirate Symbol](Quests/Adventure/quest_3725.md)** | Adventure Quest (9) 17th Century 4th Period | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 1,322,000 / Advance payment: 30,000 Experience: 340 / Fame: 290 |
+| **[Pirate Symbol](docs/Quests/Adventure/3001-4000/quest_3725.md)** | Adventure Quest (9) 17th Century 4th Period | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 1,322,000 / Advance payment: 30,000 Experience: 340 / Fame: 290 |

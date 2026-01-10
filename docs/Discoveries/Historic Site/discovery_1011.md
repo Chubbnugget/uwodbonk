@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What was deep in the city](Quests/Adventure/quest_2280.md)** | Adventure quest (9) | Archeology (11) Visualization (9) Mayan languages | Reward: 117,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[What was deep in the city](docs/Quests/Adventure/2001-3000/quest_2280.md)** | Adventure quest (9) | Archeology (11) Visualization (9) Mayan languages | Reward: 117,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

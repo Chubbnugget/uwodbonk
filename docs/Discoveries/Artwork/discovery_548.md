@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unusual religious paintings](Quests/Adventure/quest_951.md)** | Adventure Quest (4) 16th Century 5th Period | Exploration (1) Art (3) Spanish | Reward: 22,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Unusual religious paintings](docs/Quests/Adventure/1-1000/quest_951.md)** | Adventure Quest (4) 16th Century 5th Period | Exploration (1) Art (3) Spanish | Reward: 22,000 / Advance payment: 0Experience: 140 / Fame: 70 |

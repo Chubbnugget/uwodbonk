@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Athens](Quests/Other/quest_5014.md)** | Port/village (1) | - |  |
+| **[Athens](docs/Quests/Other/5001-6000/quest_5014.md)** | Port/village (1) | - |  |

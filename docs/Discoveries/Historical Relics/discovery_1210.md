@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pinson's exploration ship](Quests/Other/quest_1896.md)** | Sunken ship (5) | Salvage visual recognition (3) unlocking |  |
+| **[Pinson's exploration ship](docs/Quests/Other/1001-2000/quest_1896.md)** | Sunken ship (5) | Salvage visual recognition (3) unlocking |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Caracas](Quests/Other/quest_5036.md)** | Port/village (1) | - |  |
+| **[Caracas](docs/Quests/Other/5001-6000/quest_5036.md)** | Port/village (1) | - |  |

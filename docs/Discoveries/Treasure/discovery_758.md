@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Memories of the Great Emperor](Quests/Adventure/quest_813.md)** | Adventure quest (6) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 2,000Experience: 150/ Fame: 80 |
+| **[Memories of the Great Emperor](docs/Quests/Adventure/1-1000/quest_813.md)** | Adventure quest (6) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 2,000Experience: 150/ Fame: 80 |

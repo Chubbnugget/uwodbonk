@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Type of scripture](Quests/Adventure/quest_5858.md)** | Adventure quest (10) | Exploration (15) Treasures Appraisal (17) Indian Languages | Reward: 490,000/Advance payment: 40,000Experience: 390 |
+| **[Type of scripture](docs/Quests/Adventure/5001-6000/quest_5858.md)** | Adventure quest (10) | Exploration (15) Treasures Appraisal (17) Indian Languages | Reward: 490,000/Advance payment: 40,000Experience: 390 |

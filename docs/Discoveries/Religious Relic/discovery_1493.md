@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **["Law" of ancient India](Quests/Adventure/quest_484.md)** | Adventure quest (7) | Religious Studies (8) Exploration (6) Indian Languages | Reward: 167,000 / Advance payment: 0Experience: 190 / Fame: 100 |
+| **["Law" of ancient India](docs/Quests/Adventure/1-1000/quest_484.md)** | Adventure quest (7) | Religious Studies (8) Exploration (6) Indian Languages | Reward: 167,000 / Advance payment: 0Experience: 190 / Fame: 100 |

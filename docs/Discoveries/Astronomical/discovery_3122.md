@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Small and cute Stars](Quests/Adventure/quest_5862.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) Greek | Reward: 408,000 / Advance payment: 40,000 Experience: 340 / Fame: 205 |
+| **[Small and cute Stars](docs/Quests/Adventure/5001-6000/quest_5862.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) Greek | Reward: 408,000 / Advance payment: 40,000 Experience: 340 / Fame: 205 |

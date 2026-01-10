@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A street tree with a difference](Quests/Adventure/quest_2529.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Chinese | Reward: 291,000 / Advance payment: 20,000 Experience: 320 / Fame: 160 |
+| **[A street tree with a difference](docs/Quests/Adventure/2001-3000/quest_2529.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Chinese | Reward: 291,000 / Advance payment: 20,000 Experience: 320 / Fame: 160 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[極楽鳥花](Quests/Adventure/quest_454.md)** | Adventure quest (5) | Ecological research (2) Biology (4) West African languages | Reward: 90,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[極楽鳥花](docs/Quests/Adventure/1-1000/quest_454.md)** | Adventure quest (5) | Ecological research (2) Biology (4) West African languages | Reward: 90,000 / Advance payment: 0Experience: 140 / Fame: 70 |

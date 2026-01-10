@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kochin](Quests/Other/quest_5052.md)** | Port/village (1) | - |  |
+| **[Kochin](docs/Quests/Other/5001-6000/quest_5052.md)** | Port/village (1) | - |  |

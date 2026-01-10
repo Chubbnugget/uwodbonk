@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Diamond Dust](Quests/Other/quest_5588.md)** | Weather/phenomena (3) | Visual recognition (7) | Experience：530 |
+| **[Diamond Dust](docs/Quests/Other/5001-6000/quest_5588.md)** | Weather/phenomena (3) | Visual recognition (7) | Experience：530 |

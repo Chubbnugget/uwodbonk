@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of the West of Britain](Quests/Adventure/quest_266.md)** | Adventure quest (3) | Geography (1) Visual recognition (1) English | Reward: 6,000 |
+| **[Investigation of the West of Britain](docs/Quests/Adventure/1-1000/quest_266.md)** | Adventure quest (3) | Geography (1) Visual recognition (1) English | Reward: 6,000 |

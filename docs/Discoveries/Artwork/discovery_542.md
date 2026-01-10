@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Princess Aurora's Tiara](Quests/Adventure/quest_95.md)** | Adventure quest (6) | Exploration (5) Art (7) Unlocking (5) | Experience: 180/ Reputation: 80 |
+| **[Princess Aurora's Tiara](docs/Quests/Adventure/1-1000/quest_95.md)** | Adventure quest (6) | Exploration (5) Art (7) Unlocking (5) | Experience: 180/ Reputation: 80 |

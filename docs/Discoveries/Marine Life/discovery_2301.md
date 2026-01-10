@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black Waterfowl Map](Quests/Other/quest_589.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |
+| **[Black Waterfowl Map](docs/Quests/Other/1-1000/quest_589.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |

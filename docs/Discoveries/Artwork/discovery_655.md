@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of church vessels](Quests/Other/quest_448.md)** | 美術(5) | Exploration (5) Art (5) Unlocking (5) |  |
+| **[Map of church vessels](docs/Quests/Other/1-1000/quest_448.md)** | 美術(5) | Exploration (5) Art (5) Unlocking (5) |  |

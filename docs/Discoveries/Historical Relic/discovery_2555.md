@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Another Jeanne](Quests/Other/quest_3541.md)** | Treasure hunting (8) | Exploration (12) Archeology (14) French | Experience：3,145 |
+| **[Another Jeanne](docs/Quests/Other/3001-4000/quest_3541.md)** | Treasure hunting (8) | Exploration (12) Archeology (14) French | Experience：3,145 |

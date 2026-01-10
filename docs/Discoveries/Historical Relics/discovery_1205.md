@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hittite ancient texts](Quests/Adventure/quest_257.md)** | Adventure Quest (7) B.C. | Exploration (5) Archeology (7) Turkish | Reward: 142,000 / Advance payment: 0Experience: 160 / Fame: 85 |
+| **[Hittite ancient texts](docs/Quests/Adventure/1-1000/quest_257.md)** | Adventure Quest (7) B.C. | Exploration (5) Archeology (7) Turkish | Reward: 142,000 / Advance payment: 0Experience: 160 / Fame: 85 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient coin with a heavenly horse engraved on it](Quests/Other/quest_6409.md)** | Legacy(1) | - |  |
+| **[Ancient coin with a heavenly horse engraved on it](docs/Quests/Other/6001-7000/quest_6409.md)** | Legacy(1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mottled butterfly map](Quests/Other/quest_1504.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |
+| **[Mottled butterfly map](docs/Quests/Other/1001-2000/quest_1504.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black shadow in the forest](Quests/Adventure/quest_686.md)** | Adventure quest (6) | Ecological Survey (4) Biology (6) Portuguese | Reward: 107,000 / Advance payment: 5,000 Experience: 180 / Fame: 80 |
+| **[Black shadow in the forest](docs/Quests/Adventure/1-1000/quest_686.md)** | Adventure quest (6) | Ecological Survey (4) Biology (6) Portuguese | Reward: 107,000 / Advance payment: 5,000 Experience: 180 / Fame: 80 |

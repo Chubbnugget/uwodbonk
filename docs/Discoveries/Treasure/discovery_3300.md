@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Looking at foreign countries](Quests/Adventure/quest_6143.md)** | Adventure quest (6) 14th century | Exploration (6) Treasures Appraisal (8) Italian | Reward: 88,000 / Advance payment: 0Experience: 140 |
+| **[Looking at foreign countries](docs/Quests/Adventure/6001-7000/quest_6143.md)** | Adventure quest (6) 14th century | Exploration (6) Treasures Appraisal (8) Italian | Reward: 88,000 / Advance payment: 0Experience: 140 |

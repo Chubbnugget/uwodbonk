@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Old Code Map](Quests/Other/quest_1606.md)** | Religious Studies(8) | Religious Studies (8) Exploration (8) Unlocking (8) |  |
+| **[Old Code Map](docs/Quests/Other/1001-2000/quest_1606.md)** | Religious Studies(8) | Religious Studies (8) Exploration (8) Unlocking (8) |  |

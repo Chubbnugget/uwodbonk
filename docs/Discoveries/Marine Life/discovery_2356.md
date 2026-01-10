@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Albacore](Quests/Other/quest_2983.md)** | Fishing (3) | Fishing (8) |  |
+| **[Albacore](docs/Quests/Other/2001-3000/quest_2983.md)** | Fishing (3) | Fishing (8) |  |

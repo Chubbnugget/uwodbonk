@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Request for cooperation from the trading post owner](Quests/Adventure/quest_3317.md)** | Adventure quest (8) | Ecological Survey (6) Biology (8) Spanish | Reward: 262,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |
+| **[Request for cooperation from the trading post owner](docs/Quests/Adventure/3001-4000/quest_3317.md)** | Adventure quest (8) | Ecological Survey (6) Biology (8) Spanish | Reward: 262,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |

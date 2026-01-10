@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Elegant Gluttony](Quests/Adventure/quest_6287.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Oceanian languages | Reward: 145,000/Advance: 10,000Experience: 180 |
+| **[Elegant Gluttony](docs/Quests/Adventure/6001-7000/quest_6287.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Oceanian languages | Reward: 145,000/Advance: 10,000Experience: 180 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Poppy poppy](Quests/Adventure/quest_2860.md)** | Adventure quest (7) | Ecological Survey (5) Biology (7) Chinese | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Poppy poppy](docs/Quests/Adventure/2001-3000/quest_2860.md)** | Adventure quest (7) | Ecological Survey (5) Biology (7) Chinese | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |

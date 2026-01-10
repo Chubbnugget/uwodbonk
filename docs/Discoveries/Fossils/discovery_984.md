@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Small Lizard Map](Quests/Other/quest_2885.md)** | Biology学(8) | Explore(8)Biology(8) |  |
+| **[Small Lizard Map](docs/Quests/Other/2001-3000/quest_2885.md)** | Biology学(8) | Explore(8)Biology(8) |  |

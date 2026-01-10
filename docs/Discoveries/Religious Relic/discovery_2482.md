@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hawaiian Snow God](Quests/Adventure/quest_4800.md)** | Adventure quest (6) 19th century | Religious Studies (7) Exploration (5) Oceanian Languages | Reward: 110,000/ Advance: 10,000 Experience: 170/ Fame: 80 |
+| **[Hawaiian Snow God](docs/Quests/Adventure/4001-5000/quest_4800.md)** | Adventure quest (6) 19th century | Religious Studies (7) Exploration (5) Oceanian Languages | Reward: 110,000/ Advance: 10,000 Experience: 170/ Fame: 80 |

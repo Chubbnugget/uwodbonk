@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Listening is a temporary shame](Quests/Adventure/quest_6012.md)** | Adventure quest (4) | Exploration(2)Archaeology(1)Treasures Identification(4) | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Listening is a temporary shame](docs/Quests/Adventure/6001-7000/quest_6012.md)** | Adventure quest (4) | Exploration(2)Archaeology(1)Treasures Identification(4) | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |

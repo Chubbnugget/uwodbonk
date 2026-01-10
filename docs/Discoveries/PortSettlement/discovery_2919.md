@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Omaha](Quests/Other/quest_5600.md)** | Port/village (2) | - |  |
+| **[Omaha](docs/Quests/Other/5001-6000/quest_5600.md)** | Port/village (2) | - |  |

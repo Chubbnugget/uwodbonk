@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The story of a shrine maiden](Quests/Adventure/quest_1768.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 228,000 / Advance: 20,000 Experience: 260 / Fame: 230 |
+| **[The story of a shrine maiden](docs/Quests/Adventure/1001-2000/quest_1768.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 228,000 / Advance: 20,000 Experience: 260 / Fame: 230 |

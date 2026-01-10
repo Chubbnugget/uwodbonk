@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Plum Vase](Quests/Other/quest_2596.md)** | Sunken ship(7) | salvage |  |
+| **[Plum Vase](docs/Quests/Other/2001-3000/quest_2596.md)** | Sunken ship(7) | salvage |  |

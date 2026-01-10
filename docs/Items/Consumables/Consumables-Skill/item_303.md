@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | 簡易望遠鏡 |
 | **Type** | thing |
-| **Group** | [Consumables (skill activation)](Categories/category_31.md) |
+| **Group** | [Consumables (skill activation)](docs/Categories/category_31.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 500 |
 | **Description** | A telescope that is easy to use. Accuracy is not very high. Equip location Inventory Durability 10 Effect when used Visibility |

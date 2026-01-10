@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Exploration of African Elephants](Quests/Adventure/quest_19.md)** | Adventure quest (7) | Ecological Survey (5) Biology (7) Arabic | Reward: 158,000 / Advance: 10,000 Experience: 280 / Fame: 120 |
+| **[Exploration of African Elephants](docs/Quests/Adventure/1-1000/quest_19.md)** | Adventure quest (7) | Ecological Survey (5) Biology (7) Arabic | Reward: 158,000 / Advance: 10,000 Experience: 280 / Fame: 120 |

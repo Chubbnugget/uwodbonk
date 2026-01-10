@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Abu Simbel Temple (Deep Hidden Passage)](Quests/Other/quest_3735.md)** | Dungeon (3) | - |  |
+| **[Abu Simbel Temple (Deep Hidden Passage)](docs/Quests/Other/3001-4000/quest_3735.md)** | Dungeon (3) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Record of record expungement](Quests/Other/quest_6496.md)** | Legacy(1) | - | Experience：1,650 |
+| **[Record of record expungement](docs/Quests/Other/6001-7000/quest_6496.md)** | Legacy(1) | - | Experience：1,650 |

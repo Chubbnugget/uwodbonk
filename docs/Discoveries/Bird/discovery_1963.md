@@ -30,4 +30,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King of the Sky](Quests/Adventure/quest_1749.md)** | Adventure quest (6) | Ecological research (11) Biology (13) Oceanian languages ​​(1) | Reward: 200,000 / Advance payment: 20,000 Experience: 430 / Fame: 284 |
+| **[King of the Sky](docs/Quests/Adventure/1001-2000/quest_1749.md)** | Adventure quest (6) | Ecological research (11) Biology (13) Oceanian languages ​​(1) | Reward: 200,000 / Advance payment: 20,000 Experience: 430 / Fame: 284 |

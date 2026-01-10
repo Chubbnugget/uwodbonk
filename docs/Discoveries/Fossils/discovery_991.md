@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dragon's strange characteristics](Quests/Adventure/quest_2790.md)** | Adventure Quest (3) B.C. | Explore(2)Biology(4)Chinese(1) | Reward: 78,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Dragon's strange characteristics](docs/Quests/Adventure/2001-3000/quest_2790.md)** | Adventure Quest (3) B.C. | Explore(2)Biology(4)Chinese(1) | Reward: 78,000 / Advance payment: 0Experience: 140 / Fame: 65 |

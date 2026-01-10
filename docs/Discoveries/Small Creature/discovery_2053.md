@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Perfect mouse](Quests/Adventure/quest_3845.md)** | Adventure quest (3) 19th century | Ecological research (1) Biology (3) North American languages | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Perfect mouse](docs/Quests/Adventure/3001-4000/quest_3845.md)** | Adventure quest (3) 19th century | Ecological research (1) Biology (3) North American languages | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |

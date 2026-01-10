@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Colorful fish map](Quests/Other/quest_5303.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：120 |
+| **[Colorful fish map](docs/Quests/Other/5001-6000/quest_5303.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：120 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legendary Canoe](Quests/Adventure/quest_2014.md)** | Adventure quest (9) | Exploration (11) Archeology (13) Unlocking (11) | Reward: 267,000 / Advance payment: 20,000 Experience: 420 / Fame: 140 |
+| **[Legendary Canoe](docs/Quests/Adventure/2001-3000/quest_2014.md)** | Adventure quest (9) | Exploration (11) Archeology (13) Unlocking (11) | Reward: 267,000 / Advance payment: 20,000 Experience: 420 / Fame: 140 |

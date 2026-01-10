@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fisherman's Mermaid Legend](Quests/Adventure/quest_6333.md)** | Adventure quest (9) | Ecological research (12) Biology (14) Oceanian languages | Reward: 551,000 / Advance payment: 60,000 Experience: 430 / Fame: 265 |
+| **[Fisherman's Mermaid Legend](docs/Quests/Adventure/6001-7000/quest_6333.md)** | Adventure quest (9) | Ecological research (12) Biology (14) Oceanian languages | Reward: 551,000 / Advance payment: 60,000 Experience: 430 / Fame: 265 |

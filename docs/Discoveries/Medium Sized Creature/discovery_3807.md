@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Things needed for those who enjoy hunting](Quests/Adventure/quest_6770.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Korean (1) | Reward: 380,000/Advance: 40,000Experience: 380 |
+| **[Things needed for those who enjoy hunting](docs/Quests/Adventure/6001-7000/quest_6770.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Korean (1) | Reward: 380,000/Advance: 40,000Experience: 380 |

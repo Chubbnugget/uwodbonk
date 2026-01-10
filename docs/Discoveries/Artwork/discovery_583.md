@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Portrait of a Veiled Woman](Quests/Adventure/quest_77.md)** | Adventure Quest (6) 16th Century 1st Period | Exploration (3) Art (5) Italian | Reward: 54,000 / Advance payment: 0 Experience: 140 / Fame: 65 |
+| **[Portrait of a Veiled Woman](docs/Quests/Adventure/1-1000/quest_77.md)** | Adventure Quest (6) 16th Century 1st Period | Exploration (3) Art (5) Italian | Reward: 54,000 / Advance payment: 0 Experience: 140 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore about gold](Quests/Other/quest_6387.md)** | Tradition (9) | Biology学(13) | Reward: 778,000 / Advance payment: 80,000 Experience: 690 / Fame: 350 |
+| **[Lore about gold](docs/Quests/Other/6001-7000/quest_6387.md)** | Tradition (9) | Biology学(13) | Reward: 778,000 / Advance payment: 80,000 Experience: 690 / Fame: 350 |

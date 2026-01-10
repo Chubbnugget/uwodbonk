@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big shell map](Quests/Other/quest_802.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |
+| **[Big shell map](docs/Quests/Other/1-1000/quest_802.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |

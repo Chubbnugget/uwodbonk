@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Various forms of love](Quests/Adventure/quest_2349.md)** | Adventure quest (7) | 探索(7)Treasures鑑定(9)日本語(1) | Reward: 146,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[Various forms of love](docs/Quests/Adventure/2001-3000/quest_2349.md)** | Adventure quest (7) | 探索(7)Treasures鑑定(9)日本語(1) | Reward: 146,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

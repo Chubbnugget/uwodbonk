@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sun stain](Quests/Adventure/quest_3759.md)** | Adventure quest (4) | Astronomy (5) Visual recognition (3) Italian | Reward: 123,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |
+| **[Sun stain](docs/Quests/Adventure/3001-4000/quest_3759.md)** | Adventure quest (4) | Astronomy (5) Visual recognition (3) Italian | Reward: 123,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |

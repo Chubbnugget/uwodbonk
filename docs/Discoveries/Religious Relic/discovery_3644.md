@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Indian Mathematics Book](Quests/Adventure/quest_6587.md)** | Adventure Quest (3) B.C. | Religious Studies (4) Exploration (2) Indian Languages | Reward: 122,000 / Advance payment: 10,000 Experience: 130 / Fame: 65 |
+| **[Ancient Indian Mathematics Book](docs/Quests/Adventure/6001-7000/quest_6587.md)** | Adventure Quest (3) B.C. | Religious Studies (4) Exploration (2) Indian Languages | Reward: 122,000 / Advance payment: 10,000 Experience: 130 / Fame: 65 |

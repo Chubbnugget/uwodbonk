@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Shrine ruins investigation request](Quests/Adventure/quest_2484.md)** | Adventure quest (4) | Religious Studies(5)Explore(3)Japanese | Reward: 67,000 / Advance payment: 0Experience: 260 / Fame: 65 |
+| **[Shrine ruins investigation request](docs/Quests/Adventure/2001-3000/quest_2484.md)** | Adventure quest (4) | Religious Studies(5)Explore(3)Japanese | Reward: 67,000 / Advance payment: 0Experience: 260 / Fame: 65 |

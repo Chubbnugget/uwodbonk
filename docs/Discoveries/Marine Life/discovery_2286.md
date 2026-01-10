@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[未確認海洋Biology](Quests/Adventure/quest_2387.md)** | Adventure quest (7) | Ecological research (5) Biology (7) Japanese (1) | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[未確認海洋Biology](docs/Quests/Adventure/2001-3000/quest_2387.md)** | Adventure quest (7) | Ecological research (5) Biology (7) Japanese (1) | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 65 |

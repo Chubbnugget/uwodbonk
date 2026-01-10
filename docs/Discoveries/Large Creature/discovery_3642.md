@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indian Giant Bull](Quests/Adventure/quest_6586.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Indian languages | Reward: 233,000/ Advance: 20,000Experience: 230/ Fame: 135 |
+| **[Indian Giant Bull](docs/Quests/Adventure/6001-7000/quest_6586.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Indian languages | Reward: 233,000/ Advance: 20,000Experience: 230/ Fame: 135 |

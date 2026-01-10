@@ -60,7 +60,7 @@ import TabItem from '@theme/TabItem';
 
 #### others
 
-| [North American travel accessory manufacturing method](Items/Recipe Book/item_5337.md) | [recipe book](Categories/category_22.md) | Fixed recipe |  |  |
+| [North American travel accessory manufacturing method](docs/Items/RecipeBooks/item_5337.md) | [recipe book](docs/Categories/category_22.md) | Fixed recipe |  |  |
 | Sacramento NPC Traveler (appears during the Great Thanksgiving) |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
@@ -68,19 +68,19 @@ import TabItem from '@theme/TabItem';
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Equipment (belongings)](Categories/category_27.md)
+#### [Equipment (belongings)](docs/Categories/category_27.md)
 
-| [Dreyse Pistol](Items/Equipment/Equipment-Weapon/item_5283.md) | Equipment (belongings) | 150,000 | tool shop owner |  |
+| [Dreyse Pistol](docs/Items/Equipment/Equipment-Weapon/item_5283.md) | Equipment (belongings) | 150,000 | tool shop owner |  |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [black kite feather](Items/Consumables/Consumables-Landbattle/item_88.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
-| [Assortment of wound medicine](Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
-| [therapeutic drug](Items/Consumables/Consumables-Landbattle/item_89.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
-| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
+| [black kite feather](docs/Items/Consumables/Consumables-Landbattle/item_88.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
+| [Assortment of wound medicine](docs/Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
+| [therapeutic drug](docs/Items/Consumables/Consumables-Landbattle/item_89.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [antidote](docs/Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
 
-#### [Consumables (other)](Categories/category_44.md)
+#### [Consumables (other)](docs/Categories/category_44.md)
 
-| [fossil fuel](Items/Consumables/Consumables-Other/item_5425.md) | Consumables (other) | 100,000 | tool shop owner |  |
+| [fossil fuel](docs/Items/Consumables/Consumables-Other/item_5425.md) | Consumables (other) | 100,000 | tool shop owner |  |
   </TabItem>
 </Tabs>

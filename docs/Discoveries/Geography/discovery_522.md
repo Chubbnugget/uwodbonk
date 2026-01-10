@@ -25,5 +25,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of the origin of gift items](Quests/Other/quest_2317.md)** | Imperial command quest (4) | Geography (5) Visual recognition (3) | Experience: 250/ Reputation: 110 |
-| **[Tribute sugar investigation](Quests/Adventure/quest_2595.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Chinese | Reward: 98,000 / Advance payment: 0Experience: 160 / Fame: 75 |
+| **[Investigation of the origin of gift items](docs/Quests/Other/2001-3000/quest_2317.md)** | Imperial command quest (4) | Geography (5) Visual recognition (3) | Experience: 250/ Reputation: 110 |
+| **[Tribute sugar investigation](docs/Quests/Adventure/2001-3000/quest_2595.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Chinese | Reward: 98,000 / Advance payment: 0Experience: 160 / Fame: 75 |

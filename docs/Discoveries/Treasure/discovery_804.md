@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[New flow of entertainment](Quests/Adventure/quest_2895.md)** | Adventure quest (4) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 117,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |
+| **[New flow of entertainment](docs/Quests/Adventure/2001-3000/quest_2895.md)** | Adventure quest (4) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 117,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |

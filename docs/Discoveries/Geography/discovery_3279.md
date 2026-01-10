@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Literature survey](Quests/Adventure/quest_6125.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) Arabic | Reward: 215,000 / Advance payment: 20,000 Experience: 390 / Fame: 125 |
+| **[Literature survey](docs/Quests/Adventure/6001-7000/quest_6125.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) Arabic | Reward: 215,000 / Advance payment: 20,000 Experience: 390 / Fame: 125 |

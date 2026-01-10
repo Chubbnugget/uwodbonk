@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Memories of bottling](Quests/Adventure/quest_1128.md)** | Adventure quest (9) 16th century 1st period | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 80,000 / Advance payment: 10,000 Experience: 330 / Fame: 230 |
+| **[Memories of bottling](docs/Quests/Adventure/1001-2000/quest_1128.md)** | Adventure quest (9) 16th century 1st period | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 80,000 / Advance payment: 10,000 Experience: 330 / Fame: 230 |

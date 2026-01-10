@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Small raptor map](Quests/Other/quest_6068.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |
+| **[Small raptor map](docs/Quests/Other/6001-7000/quest_6068.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |

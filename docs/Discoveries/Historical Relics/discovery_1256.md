@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Korean Three Kingdoms History Story](Quests/Adventure/quest_2671.md)** | Adventure quest (3) | 探索(3)考古学(5)朝鮮語(1) | Reward: 131,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |
+| **[Korean Three Kingdoms History Story](docs/Quests/Adventure/2001-3000/quest_2671.md)** | Adventure quest (3) | 探索(3)考古学(5)朝鮮語(1) | Reward: 131,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |

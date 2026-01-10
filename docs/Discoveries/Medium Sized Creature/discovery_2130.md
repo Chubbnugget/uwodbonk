@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dance of the Spirit](Quests/Adventure/quest_724.md)** | Adventure quest (6) | Ecological research (4) Biology (6) Swahili | Reward: 92,000 / Advance payment: 0Experience: 225 / Fame: 85 |
+| **[Dance of the Spirit](docs/Quests/Adventure/1-1000/quest_724.md)** | Adventure quest (6) | Ecological research (4) Biology (6) Swahili | Reward: 92,000 / Advance payment: 0Experience: 225 / Fame: 85 |

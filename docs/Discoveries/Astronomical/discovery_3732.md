@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mencal](Quests/Other/quest_6682.md)** | Celestial Object Discovery Name(10)17th Century Issue 3 | Astronomy (10) Visualization (10) | Experience：820 |
+| **[Mencal](docs/Quests/Other/6001-7000/quest_6682.md)** | Celestial Object Discovery Name(10)17th Century Issue 3 | Astronomy (10) Visualization (10) | Experience：820 |

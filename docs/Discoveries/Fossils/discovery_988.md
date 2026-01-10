@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[African Dragon](Quests/Adventure/quest_22.md)** | Adventure Quest (4) B.C. | Exploration (1) Biology (2) Portuguese | Reward: 81,000 / Advance payment: 3,000 Experience: 210 / Fame: 122 |
+| **[African Dragon](docs/Quests/Adventure/1-1000/quest_22.md)** | Adventure Quest (4) B.C. | Exploration (1) Biology (2) Portuguese | Reward: 81,000 / Advance payment: 3,000 Experience: 210 / Fame: 122 |

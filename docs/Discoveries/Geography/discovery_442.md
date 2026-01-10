@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of the east coast of the New World](Quests/Adventure/quest_1149.md)** | Adventure Quest (6) 15th Century 5th Period | Geography (5) Visual recognition (3) Spanish | Reward: 170,000 / Advance payment: 10,000 Experience: 330 / Fame: 110 |
+| **[Investigation of the east coast of the New World](docs/Quests/Adventure/1001-2000/quest_1149.md)** | Adventure Quest (6) 15th Century 5th Period | Geography (5) Visual recognition (3) Spanish | Reward: 170,000 / Advance payment: 10,000 Experience: 330 / Fame: 110 |

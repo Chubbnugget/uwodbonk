@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pirate tales passed down in Europe](Quests/Adventure/quest_3810.md)** | Adventure Quest (10) 18th Century Third Period | 探索(11)Treasures鑑定(13)英語 | Reward: 275,000 / Advance payment: 20,000 Experience: 300 / Fame: 260 |
+| **[Pirate tales passed down in Europe](docs/Quests/Adventure/3001-4000/quest_3810.md)** | Adventure Quest (10) 18th Century Third Period | 探索(11)Treasures鑑定(13)英語 | Reward: 275,000 / Advance payment: 20,000 Experience: 300 / Fame: 260 |

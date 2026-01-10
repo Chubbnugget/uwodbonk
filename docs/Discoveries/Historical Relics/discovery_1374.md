@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Historical masterpiece](Quests/Adventure/quest_2599.md)** | Adventure quest (5) | Exploration (4) Archeology (6) Japanese (1) | Reward: 121,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Historical masterpiece](docs/Quests/Adventure/2001-3000/quest_2599.md)** | Adventure quest (5) | Exploration (4) Archeology (6) Japanese (1) | Reward: 121,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

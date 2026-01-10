@@ -32,4 +32,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unexpected source](Quests/Adventure/quest_6172.md)** | Adventure Quest (6) B.C. | Exploration (5) Archeology (7) Arabic | Reward: 75,000 / Advance payment: 0Experience: 530 / Fame: 70 |
+| **[Unexpected source](docs/Quests/Adventure/6001-7000/quest_6172.md)** | Adventure Quest (6) B.C. | Exploration (5) Archeology (7) Arabic | Reward: 75,000 / Advance payment: 0Experience: 530 / Fame: 70 |

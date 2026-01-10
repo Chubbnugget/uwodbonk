@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Warriors](Quests/Adventure/quest_1420.md)** | Adventure quest (7) | Exploration (5) Archeology (7) Mayan languages | Reward: 102,000 / Advance payment: 10,000 Experience: 290 / Fame: 100 |
+| **[Ancient Warriors](docs/Quests/Adventure/1001-2000/quest_1420.md)** | Adventure quest (7) | Exploration (5) Archeology (7) Mayan languages | Reward: 102,000 / Advance payment: 10,000 Experience: 290 / Fame: 100 |

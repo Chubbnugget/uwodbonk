@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Uluburun Sunken Ship](Quests/Other/quest_6661.md)** | Sunken ship(6) | Salvage Archeology(7) |  |
+| **[Uluburun Sunken Ship](docs/Quests/Other/6001-7000/quest_6661.md)** | Sunken ship(6) | Salvage Archeology(7) |  |

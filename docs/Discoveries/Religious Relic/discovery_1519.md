@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Egyptian goddess statue map](Quests/Other/quest_89.md)** | Religious Studies(2) | Religious Studies(2)Explore(2) |  |
+| **[Egyptian goddess statue map](docs/Quests/Other/1-1000/quest_89.md)** | Religious Studies(2) | Religious Studies(2)Explore(2) |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient Egyptian relics](Quests/Other/quest_5398.md)** | Treasures鑑定(10) | 探索(10)Treasures鑑定(10) | Experience：350 |
+| **[Map of ancient Egyptian relics](docs/Quests/Other/5001-6000/quest_5398.md)** | Treasures鑑定(10) | 探索(10)Treasures鑑定(10) | Experience：350 |

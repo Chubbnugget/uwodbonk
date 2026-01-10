@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Model with cool hairstyle](Quests/Adventure/quest_5462.md)** | Adventure quest (10) | Ecological Survey (10) Biology (12) Spanish | Reward: 612,000/ Advance: 60,000Experience: 470/ Fame: 290 |
+| **[Model with cool hairstyle](docs/Quests/Adventure/5001-6000/quest_5462.md)** | Adventure quest (10) | Ecological Survey (10) Biology (12) Spanish | Reward: 612,000/ Advance: 60,000Experience: 470/ Fame: 290 |

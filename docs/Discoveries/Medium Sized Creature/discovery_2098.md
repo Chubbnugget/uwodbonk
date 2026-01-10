@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big Sheep Map](Quests/Other/quest_2899.md)** | Biology学(7) | Ecological Survey(7)Biology(7) |  |
+| **[Big Sheep Map](docs/Quests/Other/2001-3000/quest_2899.md)** | Biology学(7) | Ecological Survey(7)Biology(7) |  |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Questions about the festival](Quests/Adventure/quest_2812.md)** | Adventure quest (6) | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 139,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Questions about the festival](docs/Quests/Adventure/2001-3000/quest_2812.md)** | Adventure quest (6) | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 139,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Botticelli's masterpiece](Quests/Adventure/quest_282.md)** | Adventure quest (8) 15th century 4th period | Exploration (7) Art (9) Italian | Reward: 118,000 / Advance payment: 20,000 Experience: 310 / Fame: 130 |
+| **[Botticelli's masterpiece](docs/Quests/Adventure/1-1000/quest_282.md)** | Adventure quest (8) 15th century 4th period | Exploration (7) Art (9) Italian | Reward: 118,000 / Advance payment: 20,000 Experience: 310 / Fame: 130 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Cliff](Quests/Adventure/quest_2998.md)** | Adventure Quest (4) B.C. | Archeology (10) Visualization (8) English | Reward: 213,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[Ancient Cliff](docs/Quests/Adventure/2001-3000/quest_2998.md)** | Adventure Quest (4) B.C. | Archeology (10) Visualization (8) English | Reward: 213,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

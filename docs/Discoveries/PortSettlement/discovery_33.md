@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Candia](Quests/Other/quest_5043.md)** | Port/village (1) | - |  |
+| **[Candia](docs/Quests/Other/5001-6000/quest_5043.md)** | Port/village (1) | - |  |

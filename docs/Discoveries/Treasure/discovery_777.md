@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cortez Exploration Record](Quests/Adventure/quest_1425.md)** | Adventure Quest (4) 16th Century 2nd Period | Exploration (2) Treasures Appraisal (4) Mayan Languages | Reward: 78,000 / Advance payment: 10,000 Experience: 255 / Fame: 85 |
+| **[Cortez Exploration Record](docs/Quests/Adventure/1001-2000/quest_1425.md)** | Adventure Quest (4) 16th Century 2nd Period | Exploration (2) Treasures Appraisal (4) Mayan Languages | Reward: 78,000 / Advance payment: 10,000 Experience: 255 / Fame: 85 |

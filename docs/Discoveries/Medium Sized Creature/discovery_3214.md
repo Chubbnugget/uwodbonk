@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Instead of tax](Quests/Adventure/quest_6020.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Chinese (1) | Reward: 103,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[Instead of tax](docs/Quests/Adventure/6001-7000/quest_6020.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Chinese (1) | Reward: 103,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

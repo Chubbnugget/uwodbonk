@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tower heading deep underground](Quests/Adventure/quest_6512.md)** | Adventure quest (7) | Archeology (10) Visualization (8) Indian languages | Reward: 100,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[Tower heading deep underground](docs/Quests/Adventure/6001-7000/quest_6512.md)** | Adventure quest (7) | Archeology (10) Visualization (8) Indian languages | Reward: 100,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

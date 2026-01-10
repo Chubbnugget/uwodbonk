@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[About Prince Pedro](Quests/Adventure/quest_6027.md)** | Adventure Quest (6) 15th Century 1st Period | Exploration (4) Treasures Appraisal (6) German | Reward: 269,000 / Advance payment: 20,000 Experience: 260 / Fame: 150 |
+| **[About Prince Pedro](docs/Quests/Adventure/6001-7000/quest_6027.md)** | Adventure Quest (6) 15th Century 1st Period | Exploration (4) Treasures Appraisal (6) German | Reward: 269,000 / Advance payment: 20,000 Experience: 260 / Fame: 150 |

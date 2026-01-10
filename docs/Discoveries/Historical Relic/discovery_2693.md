@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Single character seal](Quests/Other/quest_5275.md)** | Treasure hunting (7) | Exploration (11) Archeology (13) Greek (1) | Experience：2,410 |
+| **[Single character seal](docs/Quests/Other/5001-6000/quest_5275.md)** | Treasure hunting (7) | Exploration (11) Archeology (13) Greek (1) | Experience：2,410 |

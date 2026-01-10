@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Book of Court Medicine](Quests/Adventure/quest_2666.md)** | Adventure Quest (5) 17th Century 1st Period | 探索(5)Treasures鑑定(7)朝鮮語(1) | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Book of Court Medicine](docs/Quests/Adventure/2001-3000/quest_2666.md)** | Adventure Quest (5) 17th Century 1st Period | 探索(5)Treasures鑑定(7)朝鮮語(1) | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Observation equipment floating in the sky](Quests/Adventure/quest_5562.md)** | Adventure quest (3) | Astronomy (5) Visualization (3) French | Reward: 164,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |
+| **[Observation equipment floating in the sky](docs/Quests/Adventure/5001-6000/quest_5562.md)** | Adventure quest (3) | Astronomy (5) Visualization (3) French | Reward: 164,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |

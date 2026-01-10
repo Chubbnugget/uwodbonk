@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fushy tail stripes](Quests/Adventure/quest_6828.md)** | Adventure quest (7) | Ecological research (8) Biology (10) English (1) | Reward: 222,000/Advance: 20,000Experience: 230 |
+| **[Fushy tail stripes](docs/Quests/Adventure/6001-7000/quest_6828.md)** | Adventure quest (7) | Ecological research (8) Biology (10) English (1) | Reward: 222,000/Advance: 20,000Experience: 230 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Temple of Artemis in the past](Quests/Other/quest_6490.md)** | Legacy(1) | - |  |
+| **[Temple of Artemis in the past](docs/Quests/Other/6001-7000/quest_6490.md)** | Legacy(1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Last Dynasty of Egypt](Quests/Adventure/quest_93.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Unlocking (3) | Reward: 89,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Last Dynasty of Egypt](docs/Quests/Adventure/1-1000/quest_93.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Unlocking (3) | Reward: 89,000 / Advance payment: 0Experience: 140 / Fame: 70 |

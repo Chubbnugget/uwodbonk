@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Regulus](Quests/Other/quest_3787.md)** | Celestial Object Discovery Name(6)16th Century Issue 3 | Astronomy(6) |  |
+| **[Regulus](docs/Quests/Other/3001-4000/quest_3787.md)** | Celestial Object Discovery Name(6)16th Century Issue 3 | Astronomy(6) |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Story of years gone by](Quests/Adventure/quest_3620.md)** | Adventure Quest (6) 18th Century Third Period | Exploration (6) Archeology (8) Arctic languages | Reward: 212,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[Story of years gone by](docs/Quests/Adventure/3001-4000/quest_3620.md)** | Adventure Quest (6) 18th Century Third Period | Exploration (6) Archeology (8) Arctic languages | Reward: 212,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

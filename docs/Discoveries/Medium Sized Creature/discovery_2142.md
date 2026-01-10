@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Biology called the devil](Quests/Adventure/quest_1449.md)** | Adventure quest (8) | Ecological research (8) Biology (10) Oceanian languages ​​(1) | Reward: 166,000 / Advance payment: 10,000 Experience: 420 / Fame: 137 |
+| **[Biology called the devil](docs/Quests/Adventure/1001-2000/quest_1449.md)** | Adventure quest (8) | Ecological research (8) Biology (10) Oceanian languages ​​(1) | Reward: 166,000 / Advance payment: 10,000 Experience: 420 / Fame: 137 |

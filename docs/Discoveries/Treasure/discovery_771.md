@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Source of Spiritual Power](Quests/Adventure/quest_1743.md)** | Adventure quest (9) | Exploration (12) Treasures Appraisal (14) Unlocking (12) | Reward: 453,000 / Advance payment: 40,000 Experience: 570 / Fame: 190 |
+| **[Source of Spiritual Power](docs/Quests/Adventure/1001-2000/quest_1743.md)** | Adventure quest (9) | Exploration (12) Treasures Appraisal (14) Unlocking (12) | Reward: 453,000 / Advance payment: 40,000 Experience: 570 / Fame: 190 |

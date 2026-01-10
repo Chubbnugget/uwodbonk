@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Treasures of Il Khanate](Quests/Adventure/quest_49.md)** | Adventure quest (5) | Exploration (1) Archeology (3) Unlocking (1) Arabic | Remuneration: 33,000/Advance payment: 0 |
+| **[Treasures of Il Khanate](docs/Quests/Adventure/1-1000/quest_49.md)** | Adventure quest (5) | Exploration (1) Archeology (3) Unlocking (1) Arabic | Remuneration: 33,000/Advance payment: 0 |

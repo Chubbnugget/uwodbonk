@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stripe pattern in warm region](Quests/Adventure/quest_6932.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Malayu Tagalog | Reward: 510,000 / Advance payment: 50,000 Experience: 410 / Fame: 375 |
+| **[Stripe pattern in warm region](docs/Quests/Adventure/6001-7000/quest_6932.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Malayu Tagalog | Reward: 510,000 / Advance payment: 50,000 Experience: 410 / Fame: 375 |

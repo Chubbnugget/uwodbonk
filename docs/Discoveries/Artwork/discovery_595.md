@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Painting for noble girls](Quests/Adventure/quest_2818.md)** | Adventure quest (6) | 探索(6)美術(8)中国語(1) | Reward: 95,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Painting for noble girls](docs/Quests/Adventure/2001-3000/quest_2818.md)** | Adventure quest (6) | 探索(6)美術(8)中国語(1) | Reward: 95,000 / Advance payment: 0Experience: 150 / Fame: 75 |

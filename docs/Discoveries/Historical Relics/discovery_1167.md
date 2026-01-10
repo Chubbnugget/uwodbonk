@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[History of gorgeous costumes](Quests/Adventure/quest_578.md)** | Adventure quest (6) | Exploration (4) Archeology (6) Unlocking (4) | Reward: 2,000Experience: 160/ Fame: 85 |
+| **[History of gorgeous costumes](docs/Quests/Adventure/1-1000/quest_578.md)** | Adventure quest (6) | Exploration (4) Archeology (6) Unlocking (4) | Reward: 2,000Experience: 160/ Fame: 85 |

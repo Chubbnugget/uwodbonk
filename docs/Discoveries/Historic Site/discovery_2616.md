@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legendary city rich in gold](Quests/Adventure/quest_4972.md)** | Adventure Quest (7) B.C. | Archeology (10) Visualization (8) Greek | Reward: 130,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |
+| **[Legendary city rich in gold](docs/Quests/Adventure/4001-5000/quest_4972.md)** | Adventure Quest (7) B.C. | Archeology (10) Visualization (8) Greek | Reward: 130,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |

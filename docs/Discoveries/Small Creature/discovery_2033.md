@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of animals with long noses](Quests/Other/quest_3619.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：340 |
+| **[Map of animals with long noses](docs/Quests/Other/3001-4000/quest_3619.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：340 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of sharks living in the river](Quests/Other/quest_6160.md)** | Biology学(15) | Ecological Survey(15)Biology(15) |  |
+| **[Map of sharks living in the river](docs/Quests/Other/6001-7000/quest_6160.md)** | Biology学(15) | Ecological Survey(15)Biology(15) |  |

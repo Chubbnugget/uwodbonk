@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mud Castle](Quests/Adventure/quest_6725.md)** | Adventure quest (9) | Religious studies (13) Visual recognition (11) West African languages ​​(1) | Reward: 396,400 / Advance payment: 40,000 Experience: 1,100 |
+| **[Mud Castle](docs/Quests/Adventure/6001-7000/quest_6725.md)** | Adventure quest (9) | Religious studies (13) Visual recognition (11) West African languages ​​(1) | Reward: 396,400 / Advance payment: 40,000 Experience: 1,100 |

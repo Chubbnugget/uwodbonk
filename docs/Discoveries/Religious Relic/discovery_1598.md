@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Coronation Stone](Quests/Adventure/quest_792.md)** | Adventure Quest (5) Mythology Era | Religious Studies(3)Explore(1)English | Reward: 26,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Coronation Stone](docs/Quests/Adventure/1-1000/quest_792.md)** | Adventure Quest (5) Mythology Era | Religious Studies(3)Explore(1)English | Reward: 26,000 / Advance payment: 0Experience: 130 / Fame: 65 |

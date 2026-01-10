@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Archer aiming at scorpion](Quests/Adventure/quest_3758.md)** | Adventure Quest (6) Mythology Era | Astronomy (8) Visualization (6) Italian | Reward: 163,000 / Advance payment: 10,000 Experience: 210 / Fame: 95 |
+| **[Archer aiming at scorpion](docs/Quests/Adventure/3001-4000/quest_3758.md)** | Adventure Quest (6) Mythology Era | Astronomy (8) Visualization (6) Italian | Reward: 163,000 / Advance payment: 10,000 Experience: 210 / Fame: 95 |

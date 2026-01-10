@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Egyptian Jewels](Quests/Adventure/quest_5314.md)** | Adventure Quest (6) B.C. | Exploration (6) Treasures Appraisal (8) Arabic | Reward: 105,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[Ancient Egyptian Jewels](docs/Quests/Adventure/5001-6000/quest_5314.md)** | Adventure Quest (6) B.C. | Exploration (6) Treasures Appraisal (8) Arabic | Reward: 105,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

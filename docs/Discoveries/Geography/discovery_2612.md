@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Return of Theseus](Quests/Adventure/quest_4982.md)** | Adventure quest (6) | Geography (8) Visualization (6) Greek | Reward: 208,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[Return of Theseus](docs/Quests/Adventure/4001-5000/quest_4982.md)** | Adventure quest (6) | Geography (8) Visualization (6) Greek | Reward: 208,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of musical instruments in Southeast Asia](Quests/Other/quest_5575.md)** | Treasures鑑定(6) | Exploration (6) Treasures Appraisal (6) Unlocking (6) |  |
+| **[Map of musical instruments in Southeast Asia](docs/Quests/Other/5001-6000/quest_5575.md)** | Treasures鑑定(6) | Exploration (6) Treasures Appraisal (6) Unlocking (6) |  |

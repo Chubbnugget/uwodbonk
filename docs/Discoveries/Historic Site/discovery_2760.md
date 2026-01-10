@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unusual Relief](Quests/Adventure/quest_5367.md)** | Adventure Quest (7) B.C. | Archeology (9) Visualization (7) Arabic (1) | Reward: 89,000 / Advance payment: 0Experience: 140 / Fame: 75 |
+| **[Unusual Relief](docs/Quests/Adventure/5001-6000/quest_5367.md)** | Adventure Quest (7) B.C. | Archeology (9) Visualization (7) Arabic (1) | Reward: 89,000 / Advance payment: 0Experience: 140 / Fame: 75 |

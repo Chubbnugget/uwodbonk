@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Armor Map](Quests/Other/quest_1876.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |
+| **[Ancient Armor Map](docs/Quests/Other/1001-2000/quest_1876.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |

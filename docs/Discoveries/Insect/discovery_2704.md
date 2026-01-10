@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Terror Insect](Quests/Adventure/quest_5288.md)** | Adventure Quest (2) B.C. | Religious studies (1) Ecological research (1) Biology (3) | Reward: 195,000 / Advance payment: 10,000 Experience: 210 / Fame: 120 |
+| **[Terror Insect](docs/Quests/Adventure/5001-6000/quest_5288.md)** | Adventure Quest (2) B.C. | Religious studies (1) Ecological research (1) Biology (3) | Reward: 195,000 / Advance payment: 10,000 Experience: 210 / Fame: 120 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fashion and enthusiasm](Quests/Adventure/quest_6181.md)** | Adventure quest (3) | Religious Studies (4) Exploration (2) Latin | Reward: 112,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[Fashion and enthusiasm](docs/Quests/Adventure/6001-7000/quest_6181.md)** | Adventure quest (3) | Religious Studies (4) Exploration (2) Latin | Reward: 112,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

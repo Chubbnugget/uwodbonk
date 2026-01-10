@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of the beasts of the far north](Quests/Other/quest_3653.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Map of the beasts of the far north](docs/Quests/Other/3001-4000/quest_3653.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Vampire fish of the Amazon River](Quests/Adventure/quest_2089.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) French | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Vampire fish of the Amazon River](docs/Quests/Adventure/2001-3000/quest_2089.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) French | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Results of missionary work](Quests/Adventure/quest_5837.md)** | Adventure quest (10) | Exploration (15) Art (17) Quechua | Reward: 463,000/Advance payment: 40,000Experience: 380 |
+| **[Results of missionary work](docs/Quests/Adventure/5001-6000/quest_5837.md)** | Adventure quest (10) | Exploration (15) Art (17) Quechua | Reward: 463,000/Advance payment: 40,000Experience: 380 |

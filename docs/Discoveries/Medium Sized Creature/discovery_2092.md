@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Desert Hunting Dog](Quests/Adventure/quest_3267.md)** | Adventure quest (7) | Ecological research (5) Biology (7) Portuguese (1) | Reward: 110,000 / Advance payment: 10,000 Experience: 170 / Fame: 150 |
+| **[Desert Hunting Dog](docs/Quests/Adventure/3001-4000/quest_3267.md)** | Adventure quest (7) | Ecological research (5) Biology (7) Portuguese (1) | Reward: 110,000 / Advance payment: 10,000 Experience: 170 / Fame: 150 |

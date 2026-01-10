@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore about forbidden areas](Quests/Other/quest_6185.md)** | Tradition (7) | Religious Studies(9) | Reward: 398,000 / Advance payment: 30,000 Experience: 480 / Fame: 240 |
+| **[Lore about forbidden areas](docs/Quests/Other/6001-7000/quest_6185.md)** | Tradition (7) | Religious Studies(9) | Reward: 398,000 / Advance payment: 30,000 Experience: 480 / Fame: 240 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Story of Rama and Sita](Quests/Adventure/quest_309.md)** | Adventure quest (5) | Exploration (2) Treasures Appraisal (4) Indian Languages | Reward: 60,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Story of Rama and Sita](docs/Quests/Adventure/1-1000/quest_309.md)** | Adventure quest (5) | Exploration (2) Treasures Appraisal (4) Indian Languages | Reward: 60,000 / Advance payment: 0Experience: 130 / Fame: 65 |

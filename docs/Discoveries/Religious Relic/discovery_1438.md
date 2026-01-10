@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Goddess of Uruk](Quests/Adventure/quest_3385.md)** | Adventure Quest (5) Mythology Era | Religious Studies (6) Exploration (4) Unlocking (4) | Reward: 262,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |
+| **[Goddess of Uruk](docs/Quests/Adventure/3001-4000/quest_3385.md)** | Adventure Quest (5) Mythology Era | Religious Studies (6) Exploration (4) Unlocking (4) | Reward: 262,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |

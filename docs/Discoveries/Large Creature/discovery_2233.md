@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of caribou living on the island](Quests/Other/quest_3801.md)** | Biology学(9) | Ecological Survey(9)Biology(9) |  |
+| **[Map of caribou living on the island](docs/Quests/Other/3001-4000/quest_3801.md)** | Biology学(9) | Ecological Survey(9)Biology(9) |  |

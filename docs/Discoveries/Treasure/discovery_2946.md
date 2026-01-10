@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Russian Leather](Quests/Adventure/quest_5631.md)** | Adventure quest (7) 18th century third period | Exploration (7) Treasures Appraisal (9) Arctic languages | Reward: 247,000/ Advance: 20,000Experience: 240/ Fame: 140 |
+| **[Russian Leather](docs/Quests/Adventure/5001-6000/quest_5631.md)** | Adventure quest (7) 18th century third period | Exploration (7) Treasures Appraisal (9) Arctic languages | Reward: 247,000/ Advance: 20,000Experience: 240/ Fame: 140 |

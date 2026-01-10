@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of small round bird](Quests/Other/quest_6557.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) French | Reward: 400,000 / Advance payment: 0Experience: 948 |
+| **[Additional investigation of small round bird](docs/Quests/Other/6001-7000/quest_6557.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) French | Reward: 400,000 / Advance payment: 0Experience: 948 |

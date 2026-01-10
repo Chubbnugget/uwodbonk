@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[漁火光柱](Quests/Other/quest_5594.md)** | Weather/phenomena (1) | Visual recognition (10) |  |
+| **[漁火光柱](docs/Quests/Other/5001-6000/quest_5594.md)** | Weather/phenomena (1) | Visual recognition (10) |  |

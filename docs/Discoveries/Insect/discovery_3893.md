@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Smiling insect](Quests/Adventure/quest_6880.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Turkish (1) | Reward: 95,000/Advance payment: 30,000Experience: 710 |
+| **[Smiling insect](docs/Quests/Adventure/6001-7000/quest_6880.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Turkish (1) | Reward: 95,000/Advance payment: 30,000Experience: 710 |

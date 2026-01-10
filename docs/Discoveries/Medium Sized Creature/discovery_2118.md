@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Queen and the Monkey](Quests/Adventure/quest_2884.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Chinese | Reward: 674,000 / Advance payment: 60,000 Experience: 640 / Fame: 255 |
+| **[The Queen and the Monkey](docs/Quests/Adventure/2001-3000/quest_2884.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Chinese | Reward: 674,000 / Advance payment: 60,000 Experience: 640 / Fame: 255 |

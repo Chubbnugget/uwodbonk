@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Charm of the Poisonous Spider](Quests/Adventure/quest_2080.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Quechua | Reward: 106,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[Charm of the Poisonous Spider](docs/Quests/Adventure/2001-3000/quest_2080.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Quechua | Reward: 106,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

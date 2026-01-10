@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Patchwork Gate](Quests/Adventure/quest_3167.md)** | Adventure quest (7) | Archeology (4) Visualization (2) Italian | Reward: 60,000 / Advance payment: 0Experience: 195 / Fame: 97 |
+| **[Patchwork Gate](docs/Quests/Adventure/3001-4000/quest_3167.md)** | Adventure quest (7) | Archeology (4) Visualization (2) Italian | Reward: 60,000 / Advance payment: 0Experience: 195 / Fame: 97 |

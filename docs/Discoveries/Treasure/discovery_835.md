@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jewel where fairies live](Quests/Adventure/quest_1728.md)** | Adventure quest (9) | Exploration (11) Treasures Appraisal (13) Unlocking (11) | Reward: 305,000 / Advance payment: 30,000 Experience: 490 / Fame: 200 |
+| **[Jewel where fairies live](docs/Quests/Adventure/1001-2000/quest_1728.md)** | Adventure quest (9) | Exploration (11) Treasures Appraisal (13) Unlocking (11) | Reward: 305,000 / Advance payment: 30,000 Experience: 490 / Fame: 200 |

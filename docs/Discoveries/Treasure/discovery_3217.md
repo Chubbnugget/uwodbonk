@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unsuitable Manuscript](Quests/Adventure/quest_6030.md)** | Adventure quest (3) | Exploration (4) Treasures Appraisal (6) Latin | Reward: 91,500 / Advance payment: 0Experience: 130 / Fame: 130 |
+| **[Unsuitable Manuscript](docs/Quests/Adventure/6001-7000/quest_6030.md)** | Adventure quest (3) | Exploration (4) Treasures Appraisal (6) Latin | Reward: 91,500 / Advance payment: 0Experience: 130 / Fame: 130 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Slavic Sun God](Quests/Adventure/quest_3647.md)** | Adventure Quest (6) 18th Century Third Period | Religious Studies (7) Exploration (5) Unlocking (5) | Reward: 230,000 / Advance payment: 20,000 Experience: 270 / Fame: 115 |
+| **[Slavic Sun God](docs/Quests/Adventure/3001-4000/quest_3647.md)** | Adventure Quest (6) 18th Century Third Period | Religious Studies (7) Exploration (5) Unlocking (5) | Reward: 230,000 / Advance payment: 20,000 Experience: 270 / Fame: 115 |

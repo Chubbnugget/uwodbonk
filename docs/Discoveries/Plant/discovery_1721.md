@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gold Chain](Quests/Adventure/quest_2958.md)** | Adventure quest (2) | Ecological research (1) Biology (3) Italian (1) | Reward: 88,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Gold Chain](docs/Quests/Adventure/2001-3000/quest_2958.md)** | Adventure quest (2) | Ecological research (1) Biology (3) Italian (1) | Reward: 88,000 / Advance payment: 0Experience: 150 / Fame: 70 |

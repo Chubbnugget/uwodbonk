@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Curious Fruit](Quests/Adventure/quest_2513.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Chinese | Reward: 60,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Curious Fruit](docs/Quests/Adventure/2001-3000/quest_2513.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Chinese | Reward: 60,000 / Advance payment: 0Experience: 130 / Fame: 65 |

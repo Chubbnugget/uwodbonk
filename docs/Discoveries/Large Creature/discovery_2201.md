@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wild Aurochs Investigation](Quests/Adventure/quest_1027.md)** | Adventure quest (4) | Ecological Survey (2) Biology (4) German | Reward: 27,000 / Advance payment: 2,000 Experience: 140 / Fame: 65 |
+| **[Wild Aurochs Investigation](docs/Quests/Adventure/1001-2000/quest_1027.md)** | Adventure quest (4) | Ecological Survey (2) Biology (4) German | Reward: 27,000 / Advance payment: 2,000 Experience: 140 / Fame: 65 |

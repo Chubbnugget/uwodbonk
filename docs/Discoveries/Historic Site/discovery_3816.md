@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Baltic Sea Lord Union](Quests/Adventure/quest_6778.md)** | Adventure quest (8) | Archeology (11) Visualization (9) Norse (1) | Reward: 200,000/Advance payment: 20,000Experience: 180 |
+| **[Baltic Sea Lord Union](docs/Quests/Adventure/6001-7000/quest_6778.md)** | Adventure quest (8) | Archeology (11) Visualization (9) Norse (1) | Reward: 200,000/Advance payment: 20,000Experience: 180 |

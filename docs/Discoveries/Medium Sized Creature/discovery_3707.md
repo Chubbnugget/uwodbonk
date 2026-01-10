@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of the red wolf](Quests/Other/quest_6653.md)** | Pursuit quest (8) | Ecological research (9) Biology (11) Quechua language (1) | Remuneration: 320,000 / Advance payment: 0 |
+| **[Additional investigation of the red wolf](docs/Quests/Other/6001-7000/quest_6653.md)** | Pursuit quest (8) | Ecological research (9) Biology (11) Quechua language (1) | Remuneration: 320,000 / Advance payment: 0 |

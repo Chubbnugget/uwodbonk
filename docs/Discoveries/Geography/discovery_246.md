@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sacred rivers of India](Quests/Adventure/quest_66.md)** | Adventure Quest (6) Mythology Era | Geography (5) Visual recognition (3) Indian languages | Reward: 73,000Experience: 160/ Fame: 75 |
+| **[Sacred rivers of India](docs/Quests/Adventure/1-1000/quest_66.md)** | Adventure Quest (6) Mythology Era | Geography (5) Visual recognition (3) Indian languages | Reward: 73,000Experience: 160/ Fame: 75 |

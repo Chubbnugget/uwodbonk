@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Murder Octopus](Quests/Adventure/quest_612.md)** | Adventure quest (6) | Ecological Survey (4) Biology (6) Persian | Reward: 92,000 / Advance payment: 0Experience: 150 / Fame: 80 |
+| **[Murder Octopus](docs/Quests/Adventure/1-1000/quest_612.md)** | Adventure quest (6) | Ecological Survey (4) Biology (6) Persian | Reward: 92,000 / Advance payment: 0Experience: 150 / Fame: 80 |

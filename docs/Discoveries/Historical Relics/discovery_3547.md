@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Following the Colossus' Shadow](Quests/Adventure/quest_6473.md)** | Adventure quest (1) | Exploration (1) Archeology (3) German (1) | Reward: 123,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |
+| **[Following the Colossus' Shadow](docs/Quests/Adventure/6001-7000/quest_6473.md)** | Adventure quest (1) | Exploration (1) Archeology (3) German (1) | Reward: 123,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |

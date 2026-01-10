@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of giant stone ruins](Quests/Other/quest_6541.md)** | Pursuit quest (3) | Religious Studies (10) Visual Recognition (8) English | Reward: 160,000 / Advance payment: 0Experience: 500 |
+| **[Additional investigation of giant stone ruins](docs/Quests/Other/6001-7000/quest_6541.md)** | Pursuit quest (3) | Religious Studies (10) Visual Recognition (8) English | Reward: 160,000 / Advance payment: 0Experience: 500 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Snake creation myth](Quests/Adventure/quest_5791.md)** | Adventure quest (10) | Religious Studies (17) Exploration (15) Far North Languages | Reward: 703,000 / Advance payment: 70,000 Experience: 530 / Fame: 330 |
+| **[Snake creation myth](docs/Quests/Adventure/5001-6000/quest_5791.md)** | Adventure quest (10) | Religious Studies (17) Exploration (15) Far North Languages | Reward: 703,000 / Advance payment: 70,000 Experience: 530 / Fame: 330 |

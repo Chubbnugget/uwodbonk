@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Things rooted in barren land](Quests/Adventure/quest_5944.md)** | Adventure quest (5) | Geography (6) Visualization (4) Portuguese | Reward: 161,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |
+| **[Things rooted in barren land](docs/Quests/Adventure/5001-6000/quest_5944.md)** | Adventure quest (5) | Geography (6) Visualization (4) Portuguese | Reward: 161,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |

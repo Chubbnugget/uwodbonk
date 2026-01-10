@@ -63,76 +63,76 @@ An academic city located northwest of London. It flourished as a distribution ce
 
 #### robert boyle
 
-| [religious studies](Skills/Skill-Adventure/item_340.md) | [Skill (adventure)](Categories/category_39.md) | 8,000 | robert boyle |  |
-| [測量](Skills/Skill-Adventure/item_344.md) | [Skill (adventure)](Categories/category_39.md) | 8,000 | robert boyle |  |
-| [Visual recognition](Skills/Skill-Adventure/item_458.md) | [Skill (adventure)](Categories/category_39.md) | 3,000 | robert boyle |  |
+| [religious studies](docs/Skills/Skill-Adventure/item_340.md) | [Skill (adventure)](docs/Categories/category_39.md) | 8,000 | robert boyle |  |
+| [測量](docs/Skills/Skill-Adventure/item_344.md) | [Skill (adventure)](docs/Categories/category_39.md) | 8,000 | robert boyle |  |
+| [Visual recognition](docs/Skills/Skill-Adventure/item_458.md) | [Skill (adventure)](docs/Categories/category_39.md) | 3,000 | robert boyle |  |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Equipment (head)](Categories/category_23.md)
+#### [Equipment (head)](docs/Categories/category_23.md)
 
-| [puritan hat](Items/Equipment/Equipment-Head/item_1013.md) | Equipment (head) | 26,000 | tool shop owner |  |
+| [puritan hat](docs/Items/Equipment/Equipment-Head/item_1013.md) | Equipment (head) | 26,000 | tool shop owner |  |
 
-#### [Equipment (body)](Categories/category_24.md)
+#### [Equipment (body)](docs/Categories/category_24.md)
 
-| [Surcoat](Items/Equipment/Equipment-Body/item_131.md) | Equipment (body) | 30,000 | tool shop owner |  |
-| [buccaneer vest](Items/Equipment/Equipment-Body/item_77.md) | Equipment (body) | 11,800 | tool shop owner |  |
-| [petticoat](Items/Equipment/Equipment-Body/item_415.md) | Equipment (body) | 3,800 | tool shop owner |  |
+| [Surcoat](docs/Items/Equipment/Equipment-Body/item_131.md) | Equipment (body) | 30,000 | tool shop owner |  |
+| [buccaneer vest](docs/Items/Equipment/Equipment-Body/item_77.md) | Equipment (body) | 11,800 | tool shop owner |  |
+| [petticoat](docs/Items/Equipment/Equipment-Body/item_415.md) | Equipment (body) | 3,800 | tool shop owner |  |
 
-#### [Equipment (legs)](Categories/category_26.md)
+#### [Equipment (legs)](docs/Categories/category_26.md)
 
-| [lace up boots](Items/Equipment/Equipment-Feet/item_418.md) | Equipment (legs) | 17,400 | tool shop owner |  |
+| [lace up boots](docs/Items/Equipment/Equipment-Feet/item_418.md) | Equipment (legs) | 17,400 | tool shop owner |  |
 
-#### [Equipment (belongings)](Categories/category_27.md)
+#### [Equipment (belongings)](docs/Categories/category_27.md)
 
-| [short sword](Items/Equipment/Equipment-Weapon/item_301.md) | Equipment (belongings) | 9,300 | tool shop owner |  |
-| [bishop's cane](Items/Equipment/Equipment-Weapon/item_1133.md) | Equipment (belongings) | 10,900 | tool shop owner |  |
+| [short sword](docs/Items/Equipment/Equipment-Weapon/item_301.md) | Equipment (belongings) | 9,300 | tool shop owner |  |
+| [bishop's cane](docs/Items/Equipment/Equipment-Weapon/item_1133.md) | Equipment (belongings) | 10,900 | tool shop owner |  |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [傷薬](Items/Consumables/Consumables-Landbattle/item_317.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
-| [Assortment of wound medicine](Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
-| [poison](Items/Consumables/Consumables-Landbattle/item_269.md) | Consumables (land battle/deck battle) | 250 | tool shop owner |  |
-| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
+| [傷薬](docs/Items/Consumables/Consumables-Landbattle/item_317.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [Assortment of wound medicine](docs/Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
+| [poison](docs/Items/Consumables/Consumables-Landbattle/item_269.md) | Consumables (land battle/deck battle) | 250 | tool shop owner |  |
+| [antidote](docs/Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
 
-#### [Consumables (skill activation)](Categories/category_31.md)
+#### [Consumables (skill activation)](docs/Categories/category_31.md)
 
-| [card](Items/Consumables/Consumables-Skill/item_855.md) | Consumables (skill activation) | 500 | tool shop owner |  |
-| [dowsing rod](Items/Consumables/Consumables-Skill/item_304.md) | Consumables (skill activation) | 500 | tool shop owner |  |
-| [research monocle](Items/Consumables/Consumables-Skill/item_120.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
+| [card](docs/Items/Consumables/Consumables-Skill/item_855.md) | Consumables (skill activation) | 500 | tool shop owner |  |
+| [dowsing rod](docs/Items/Consumables/Consumables-Skill/item_304.md) | Consumables (skill activation) | 500 | tool shop owner |  |
+| [research monocle](docs/Items/Consumables/Consumables-Skill/item_120.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
 
-#### [Consumables (other)](Categories/category_44.md)
+#### [Consumables (other)](docs/Categories/category_44.md)
 
-| [Dyed powder](Items/Consumables/Consumables-Other/item_3370.md) | Consumables (other) | 2,000 | tool shop owner |  |
-| [sewing tools](Items/Consumables/Consumables-Other/item_310.md) | Consumables (other) | 10,000 | tool shop owner |  |
+| [Dyed powder](docs/Items/Consumables/Consumables-Other/item_3370.md) | Consumables (other) | 2,000 | tool shop owner |  |
+| [sewing tools](docs/Items/Consumables/Consumables-Other/item_310.md) | Consumables (other) | 10,000 | tool shop owner |  |
   </TabItem>
   <TabItem value="shop owner" label="shop owner">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [Easy recipes anyone can do](Items/Recipe Book/item_554.md) | recipe book | 5,000 | shop owner |  |
+| [Easy recipes anyone can do](docs/Items/RecipeBooks/item_554.md) | recipe book | 5,000 | shop owner |  |
 
-#### [Equipment (head)](Categories/category_23.md)
+#### [Equipment (head)](docs/Categories/category_23.md)
 
-| [mortar board](Items/Equipment/Equipment-Head/item_4379.md) | Equipment (head) | 150,000 | shop owner |  |
+| [mortar board](docs/Items/Equipment/Equipment-Head/item_4379.md) | Equipment (head) | 150,000 | shop owner |  |
 
-#### [Equipment (body)](Categories/category_24.md)
+#### [Equipment (body)](docs/Categories/category_24.md)
 
-| [academic dress](Items/Equipment/Equipment-Body/item_4378.md) | Equipment (body) | 240,000 | shop owner |  |
+| [academic dress](docs/Items/Equipment/Equipment-Body/item_4378.md) | Equipment (body) | 240,000 | shop owner |  |
 
-#### [Equipment (legs)](Categories/category_26.md)
+#### [Equipment (legs)](docs/Categories/category_26.md)
 
-| [strap shoes](Items/Equipment/Equipment-Feet/item_1018.md) | Equipment (legs) | 5,200 | shop owner |  |
-| [buckle boots](Items/Equipment/Equipment-Feet/item_417.md) | Equipment (legs) | 100 | shop owner |  |
+| [strap shoes](docs/Items/Equipment/Equipment-Feet/item_1018.md) | Equipment (legs) | 5,200 | shop owner |  |
+| [buckle boots](docs/Items/Equipment/Equipment-Feet/item_417.md) | Equipment (legs) | 100 | shop owner |  |
 
-#### [Equipment (belongings)](Categories/category_27.md)
+#### [Equipment (belongings)](docs/Categories/category_27.md)
 
-| [violin](Items/Equipment/Equipment-Weapon/item_556.md) | Equipment (belongings) | 12,000 | shop owner |  |
+| [violin](docs/Items/Equipment/Equipment-Weapon/item_556.md) | Equipment (belongings) | 12,000 | shop owner |  |
   </TabItem>
 </Tabs>

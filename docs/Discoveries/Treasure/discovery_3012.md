@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of musical instruments of Central Asia](Quests/Other/quest_5725.md)** | Re-examination reward (4) | 探索(4)Treasures鑑定(4) |  |
+| **[Map of musical instruments of Central Asia](docs/Quests/Other/5001-6000/quest_5725.md)** | Re-examination reward (4) | 探索(4)Treasures鑑定(4) |  |

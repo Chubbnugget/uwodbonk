@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cow with magnificent horns](Quests/Adventure/quest_3913.md)** | Adventure quest (7) 19th century | Ecological research (5) Biology (7) North American languages | Reward: 216,000 / Advance payment: 20,000 Experience: 350 / Fame: 155 |
+| **[Cow with magnificent horns](docs/Quests/Adventure/3001-4000/quest_3913.md)** | Adventure quest (7) 19th century | Ecological research (5) Biology (7) North American languages | Reward: 216,000 / Advance payment: 20,000 Experience: 350 / Fame: 155 |

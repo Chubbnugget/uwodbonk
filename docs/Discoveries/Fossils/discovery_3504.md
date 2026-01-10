@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of mythical giant Biology](Quests/Other/quest_6424.md)** | Pursuit Quest (4) B.C. | Exploration (12) Biology (14) Norse (1) | Remuneration: 250,000/Advance payment: 0 |
+| **[Additional investigation of mythical giant Biology](docs/Quests/Other/6001-7000/quest_6424.md)** | Pursuit Quest (4) B.C. | Exploration (12) Biology (14) Norse (1) | Remuneration: 250,000/Advance payment: 0 |

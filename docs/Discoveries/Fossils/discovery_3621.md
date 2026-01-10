@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on Fossils in Marine Biology](Quests/Other/quest_6554.md)** | Pursuit quest (4) | Explore(12)Biology(14)Portuguese(1) | Reward: 320,000 / Advance payment: 0Experience: 680 |
+| **[Additional research on Fossils in Marine Biology](docs/Quests/Other/6001-7000/quest_6554.md)** | Pursuit quest (4) | Explore(12)Biology(14)Portuguese(1) | Reward: 320,000 / Advance payment: 0Experience: 680 |

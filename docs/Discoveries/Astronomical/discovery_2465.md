@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Student observation record](Quests/Other/quest_3902.md)** | Astronomy(1) | Astronomy(1)Visual(1) | Experience：100 |
+| **[Student observation record](docs/Quests/Other/3001-4000/quest_3902.md)** | Astronomy(1) | Astronomy(1)Visual(1) | Experience：100 |

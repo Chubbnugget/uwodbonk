@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Reason for having a cemetery](Quests/Adventure/quest_5907.md)** | Adventure quest (10) | Religious Studies (17) Visual Recognition (15) Portuguese | Reward: 535,000 / Advance payment: 50,000 Experience: 420 / Fame: 260 |
+| **[Reason for having a cemetery](docs/Quests/Adventure/5001-6000/quest_5907.md)** | Adventure quest (10) | Religious Studies (17) Visual Recognition (15) Portuguese | Reward: 535,000 / Advance payment: 50,000 Experience: 420 / Fame: 260 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Box containing music](Quests/Adventure/quest_6507.md)** | Adventure quest (4) 19th century | Exploration (3) Treasures Appraisal (5) French | Reward: 156,000 / Advance payment: 20,000 Experience: 180 / Fame: 200 |
+| **[Box containing music](docs/Quests/Adventure/6001-7000/quest_6507.md)** | Adventure quest (4) 19th century | Exploration (3) Treasures Appraisal (5) French | Reward: 156,000 / Advance payment: 20,000 Experience: 180 / Fame: 200 |

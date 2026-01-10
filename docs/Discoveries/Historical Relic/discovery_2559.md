@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sun God Aten](Quests/Other/quest_3592.md)** | Treasure hunting (4) | Religious Studies (7) Exploration (5) Ancient Egyptian (1) | Experience: 1,450/ Reputation: 580 |
+| **[Sun God Aten](docs/Quests/Other/3001-4000/quest_3592.md)** | Treasure hunting (4) | Religious Studies (7) Exploration (5) Ancient Egyptian (1) | Experience: 1,450/ Reputation: 580 |

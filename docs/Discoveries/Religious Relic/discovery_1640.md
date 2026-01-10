@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful phylactery](Quests/Adventure/quest_2903.md)** | Adventure quest (7) | Religious Studies(7)Exploration(5)Chinese(1) | Reward: 155,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[Beautiful phylactery](docs/Quests/Adventure/2001-3000/quest_2903.md)** | Adventure quest (7) | Religious Studies(7)Exploration(5)Chinese(1) | Reward: 155,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ruins related to the legendary king](Quests/Adventure/quest_3378.md)** | Adventure quest (7) | Archeology (8) Visualization (6) Arabic | Reward: 367,000 / Advance payment: 30,000 Experience: 370 / Fame: 155 |
+| **[Ruins related to the legendary king](docs/Quests/Adventure/3001-4000/quest_3378.md)** | Adventure quest (7) | Archeology (8) Visualization (6) Arabic | Reward: 367,000 / Advance payment: 30,000 Experience: 370 / Fame: 155 |

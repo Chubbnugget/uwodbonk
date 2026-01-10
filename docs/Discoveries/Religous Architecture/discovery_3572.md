@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Baalbek](Quests/Other/quest_6498.md)** | Pursuit quest (5) | Religious Studies (17) Visualization (15) Greek (1) | Reward: 500,000 / Advance payment: 0Experience: 1,488 |
+| **[Additional investigation of Baalbek](docs/Quests/Other/6001-7000/quest_6498.md)** | Pursuit quest (5) | Religious Studies (17) Visualization (15) Greek (1) | Reward: 500,000 / Advance payment: 0Experience: 1,488 |

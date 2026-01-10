@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Study of ancient Egyptian language](Quests/Adventure/quest_496.md)** | Adventure Quest (6) B.C. | Exploration (4) Archeology (6) Spanish | Reward: 112,000 / Advance payment: 0Experience: 170 / Fame: 80 |
+| **[Study of ancient Egyptian language](docs/Quests/Adventure/1-1000/quest_496.md)** | Adventure Quest (6) B.C. | Exploration (4) Archeology (6) Spanish | Reward: 112,000 / Advance payment: 0Experience: 170 / Fame: 80 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Copperwork Map](Quests/Other/quest_6049.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |
+| **[Copperwork Map](docs/Quests/Other/6001-7000/quest_6049.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |

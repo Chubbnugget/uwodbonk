@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[紅雪](Quests/Other/quest_5713.md)** | Weather/phenomena (1) | Visual recognition (4) | Experience：270 |
+| **[紅雪](docs/Quests/Other/5001-6000/quest_5713.md)** | Weather/phenomena (1) | Visual recognition (4) | Experience：270 |

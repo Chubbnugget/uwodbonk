@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Large deer map](Quests/Other/quest_2538.md)** | Biology学(9) | Ecological Survey(9)Biology(9) | Experience：320 |
+| **[Large deer map](docs/Quests/Other/2001-3000/quest_2538.md)** | Biology学(9) | Ecological Survey(9)Biology(9) | Experience：320 |

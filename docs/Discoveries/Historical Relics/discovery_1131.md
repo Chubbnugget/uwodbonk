@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Celtic Relics](Quests/Other/quest_150.md)** | Archeology(1) | Exploration(1)Archaeology(1) |  |
+| **[Map of Celtic Relics](docs/Quests/Other/1-1000/quest_150.md)** | Archeology(1) | Exploration(1)Archaeology(1) |  |

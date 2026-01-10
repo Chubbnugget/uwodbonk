@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Animal devoted to love](Quests/Adventure/quest_6982.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Swahili | Remuneration: 151,000 / Advance payment: 20,000 |
+| **[Animal devoted to love](docs/Quests/Adventure/6001-7000/quest_6982.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Swahili | Remuneration: 151,000 / Advance payment: 20,000 |

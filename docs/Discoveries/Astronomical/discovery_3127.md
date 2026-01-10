@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars on fire](Quests/Adventure/quest_5867.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) German | Reward: 1,187,000/Advance payment: 110,000Experience: 930 |
+| **[Stars on fire](docs/Quests/Adventure/5001-6000/quest_5867.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) German | Reward: 1,187,000/Advance payment: 110,000Experience: 930 |

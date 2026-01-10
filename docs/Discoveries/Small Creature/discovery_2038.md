@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Frog](Quests/Adventure/quest_411.md)** | Adventure quest (5) | Ecological research (2) Biology (4) West African languages | Reward: 59,000/ Advance: 10,000 Experience: 130/ Fame: 65 |
+| **[Strange Frog](docs/Quests/Adventure/1-1000/quest_411.md)** | Adventure quest (5) | Ecological research (2) Biology (4) West African languages | Reward: 59,000/ Advance: 10,000 Experience: 130/ Fame: 65 |

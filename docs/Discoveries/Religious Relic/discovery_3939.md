@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of the God of Destruction Statue](Quests/Other/quest_6926.md)** | Pursuit quest (5) | Religious Studies (6) Exploration (4) Indian Languages ​​(1) | Reward: 155,000 / Advance payment: 0Experience: 220 |
+| **[Additional investigation of the God of Destruction Statue](docs/Quests/Other/6001-7000/quest_6926.md)** | Pursuit quest (5) | Religious Studies (6) Exploration (4) Indian Languages ​​(1) | Reward: 155,000 / Advance payment: 0Experience: 220 |

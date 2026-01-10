@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Little Flower Map](Quests/Other/quest_2711.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：100 |
+| **[Little Flower Map](docs/Quests/Other/2001-3000/quest_2711.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：100 |

@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | mittens |
 | **Type** | thing |
-| **Group** | [Equipment (hand)](Categories/category_25.md) |
-| **Sold by NPC** | [Production (sewing)](NPCs/npc_26.md) |
+| **Group** | [Equipment (hand)](docs/Categories/category_25.md) |
+| **Sold by NPC** | [Production (sewing)](docs/NPCs/npc_26.md) |
 | **Description** | Durability 30 Formality 2 Defense 2 Sailing +1 |
 | **Last Updated** | 2014-06-17 01:50:27 Passing navigator @guest |
 

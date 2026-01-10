@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Remains of the Iron Country](Quests/Adventure/quest_2696.md)** | Adventure quest (3) | Exploration (5) Archeology (7) Unlocking (5) | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Remains of the Iron Country](docs/Quests/Adventure/2001-3000/quest_2696.md)** | Adventure quest (3) | Exploration (5) Archeology (7) Unlocking (5) | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |

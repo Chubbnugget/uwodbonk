@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ants feared by carnivores](Quests/Adventure/quest_5459.md)** | Adventure quest (8) | Ecological Survey (8) Biology (10) Portuguese | Reward: 280,000 / Advance payment: 20,000 Experience: 260 / Fame: 155 |
+| **[Ants feared by carnivores](docs/Quests/Adventure/5001-6000/quest_5459.md)** | Adventure quest (8) | Ecological Survey (8) Biology (10) Portuguese | Reward: 280,000 / Advance payment: 20,000 Experience: 260 / Fame: 155 |

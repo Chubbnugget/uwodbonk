@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Transparent Winged Butterfly](Quests/Adventure/quest_6323.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Spanish | Reward: 160,000 / Advance payment: 20,000 Experience: 190 / Fame: 105 |
+| **[Transparent Winged Butterfly](docs/Quests/Adventure/6001-7000/quest_6323.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Spanish | Reward: 160,000 / Advance payment: 20,000 Experience: 190 / Fame: 105 |

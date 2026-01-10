@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful Dance](Quests/Adventure/quest_2762.md)** | Adventure quest (6) | Exploration (7) Treasures Appraisal (9) Unlocking (7) | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Beautiful Dance](docs/Quests/Adventure/2001-3000/quest_2762.md)** | Adventure quest (6) | Exploration (7) Treasures Appraisal (9) Unlocking (7) | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |

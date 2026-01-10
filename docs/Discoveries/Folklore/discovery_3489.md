@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore about beautiful plumage](Quests/Other/quest_6386.md)** | Tradition (9) | Religious Studies(13) | Reward: 756,000 / Advance payment: 80,000 Experience: 690 / Fame: 350 |
+| **[Lore about beautiful plumage](docs/Quests/Other/6001-7000/quest_6386.md)** | Tradition (9) | Religious Studies(13) | Reward: 756,000 / Advance payment: 80,000 Experience: 690 / Fame: 350 |

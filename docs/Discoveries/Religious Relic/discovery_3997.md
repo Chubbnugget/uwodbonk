@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Indian God Statues](Quests/Other/quest_6990.md)** | Religious Studies(10) | Religious Studies(10)Exploration(10) |  |
+| **[Map of Indian God Statues](docs/Quests/Other/6001-7000/quest_6990.md)** | Religious Studies(10) | Religious Studies(10)Exploration(10) |  |

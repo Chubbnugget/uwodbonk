@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ritual Investigation](Quests/Adventure/quest_5587.md)** | Adventure quest (6) | Archeology (9) Visualization (7) North American languages | Reward: 195,000 / Advance payment: 10,000 Experience: 210 / Fame: 120 |
+| **[Ritual Investigation](docs/Quests/Adventure/5001-6000/quest_5587.md)** | Adventure quest (6) | Archeology (9) Visualization (7) North American languages | Reward: 195,000 / Advance payment: 10,000 Experience: 210 / Fame: 120 |

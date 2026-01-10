@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Samponia](Quests/Other/quest_6732.md)** | Legacy(1) | - |  |
+| **[Samponia](docs/Quests/Other/6001-7000/quest_6732.md)** | Legacy(1) | - |  |

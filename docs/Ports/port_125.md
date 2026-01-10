@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 | **Sea Area** | North Atlantic |
 | **Required Language** | portuguese |
 | **Coordinates** | （14732，3148） |
-| **Investment Reward** | [Lot (NO.1)](Items/Consumables/Consumables-Treasure-Chests/item_2800.md) （必要投資額：500,000ドゥカード） |
+| **Investment Reward** | [Lot (NO.1)](docs/Items/Consumables/Consumables-Treasure-Chests/item_2800.md) （必要投資額：500,000ドゥカード） |
 
 ### Available Facilities
 
@@ -42,187 +42,187 @@ A city on a volcanic island located in the middle of the Atlantic Ocean. Since i
 
 | item | group | purchase price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
-| [cow](Items/Trade Goods/TradeGoods-Livestock/item_17.md) | [Trading Goods (Livestock)](Categories/category_18.md) | (320) | 280 |  |
-| [wine](Items/Trade Goods/TradeGoods-Alcohol/item_11.md) | [交易品（酒類）](Categories/category_9.md) | (429) | 376 |  |
-| [log](Items/Trade Goods/TradeGoods-Wares/item_846.md) | [交易品（工業品）](Categories/category_19.md) | 340 | 304 |  |
-| [wheat](Items/Trade Goods/TradeGoods-Foodstuffs/item_16.md) | [Trading items (food items)](Categories/category_3.md) | 45 | 40 |  |
-| [魚肉](Items/Trade Goods/TradeGoods-Foodstuffs/item_10.md) | [Trading items (food items)](Categories/category_3.md) | 146 | 128 |  |
+| [cow](docs/Items/TradeGoods/TradeGoods-Livestock/item_17.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | (320) | 280 |  |
+| [wine](docs/Items/TradeGoods/TradeGoods-Alcohol/item_11.md) | [交易品（酒類）](docs/Categories/category_9.md) | (429) | 376 |  |
+| [log](docs/Items/TradeGoods/TradeGoods-Wares/item_846.md) | [交易品（工業品）](docs/Categories/category_19.md) | 340 | 304 |  |
+| [wheat](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_16.md) | [Trading items (food items)](docs/Categories/category_3.md) | 45 | 40 |  |
+| [魚肉](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_10.md) | [Trading items (food items)](docs/Categories/category_3.md) | 146 | 128 |  |
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
 | item | group | sale price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [交易品（繊維）](Categories/category_1.md)
+#### [交易品（繊維）](docs/Categories/category_1.md)
 
-| [deerskin](Items/Trade Goods/TradeGoods-Fibers/item_3648.md) | 交易品（繊維） | (16,877) | 19,693 |  |
+| [deerskin](docs/Items/TradeGoods/TradeGoods-Fibers/item_3648.md) | 交易品（繊維） | (16,877) | 19,693 |  |
 
-#### [交易品（調味料）](Categories/category_4.md)
+#### [交易品（調味料）](docs/Categories/category_4.md)
 
-| [apple cider vinegar](Items/Trade Goods/TradeGoods-Seasonings/item_882.md) | 交易品（調味料） | 480 | (540) |  |
+| [apple cider vinegar](docs/Items/TradeGoods/TradeGoods-Seasonings/item_882.md) | 交易品（調味料） | 480 | (540) |  |
 
-#### [交易品（酒類）](Categories/category_9.md)
+#### [交易品（酒類）](docs/Categories/category_9.md)
 
-| [aquavit](Items/Trade Goods/TradeGoods-Alcohol/item_572.md) | 交易品（酒類） | 748 | 797 |  |
-| [whiskey](Items/Trade Goods/TradeGoods-Alcohol/item_1.md) | 交易品（酒類） | 823 | 922 |  |
-| [sherry](Items/Trade Goods/TradeGoods-Alcohol/item_844.md) | 交易品（酒類） | (462) | 538 |  |
-| [tequila](Items/Trade Goods/TradeGoods-Alcohol/item_108.md) | 交易品（酒類） | 1,712 | 1,909 |  |
-| [fruit brandy](Items/Trade Goods/TradeGoods-Alcohol/item_1440.md) | 交易品（酒類） | 747 | (840) |  |
+| [aquavit](docs/Items/TradeGoods/TradeGoods-Alcohol/item_572.md) | 交易品（酒類） | 748 | 797 |  |
+| [whiskey](docs/Items/TradeGoods/TradeGoods-Alcohol/item_1.md) | 交易品（酒類） | 823 | 922 |  |
+| [sherry](docs/Items/TradeGoods/TradeGoods-Alcohol/item_844.md) | 交易品（酒類） | (462) | 538 |  |
+| [tequila](docs/Items/TradeGoods/TradeGoods-Alcohol/item_108.md) | 交易品（酒類） | 1,712 | 1,909 |  |
+| [fruit brandy](docs/Items/TradeGoods/TradeGoods-Alcohol/item_1440.md) | 交易品（酒類） | 747 | (840) |  |
 | ●Special products from northern France |
 
-#### [Trading goods (hobby goods)](Categories/category_10.md)
+#### [Trading goods (hobby goods)](docs/Categories/category_10.md)
 
-| [cacao](Items/Trade Goods/TradeGoods-Sunddries/item_140.md) | Trading goods (hobby goods) | 1,206 | 1,307 |  |
+| [cacao](docs/Items/TradeGoods/TradeGoods-Sunddries/item_140.md) | Trading goods (hobby goods) | 1,206 | 1,307 |  |
 | ●Caribbean specialties |
-| [tobacco](Items/Trade Goods/TradeGoods-Sunddries/item_109.md) | Trading goods (hobby goods) | 1,256 | 1,323 |  |
-| [chicle](Items/Trade Goods/TradeGoods-Sunddries/item_4083.md) | Trading goods (hobby goods) | 1,146 | (1,289) |  |
+| [tobacco](docs/Items/TradeGoods/TradeGoods-Sunddries/item_109.md) | Trading goods (hobby goods) | 1,256 | 1,323 |  |
+| [chicle](docs/Items/TradeGoods/TradeGoods-Sunddries/item_4083.md) | Trading goods (hobby goods) | 1,146 | (1,289) |  |
 | ●Caribbean specialties |
-| [peanuts](Items/Trade Goods/TradeGoods-Sunddries/item_134.md) | Trading goods (hobby goods) | (348) | 405 |  |
+| [peanuts](docs/Items/TradeGoods/TradeGoods-Sunddries/item_134.md) | Trading goods (hobby goods) | (348) | 405 |  |
 
-#### [Trading Goods (Spices)](Categories/category_11.md)
+#### [Trading Goods (Spices)](docs/Categories/category_11.md)
 
-| [lira](Items/Trade Goods/TradeGoods-Perfume/item_30.md) | Trading Goods (Spices) | 914 | (1,028) |  |
+| [lira](docs/Items/TradeGoods/TradeGoods-Perfume/item_30.md) | Trading Goods (Spices) | 914 | (1,028) |  |
 | ●Special products from northern France |
 
-#### [Trading Goods (Spices)](Categories/category_12.md)
+#### [Trading Goods (Spices)](docs/Categories/category_12.md)
 
-| [allspice](Items/Trade Goods/TradeGoods-Spices/item_1848.md) | Trading Goods (Spices) | 1,560 | (1,755) |  |
+| [allspice](docs/Items/TradeGoods/TradeGoods-Spices/item_1848.md) | Trading Goods (Spices) | 1,560 | (1,755) |  |
 | ●Special products from the east coast of Central and South America |
-| [cloves](Items/Trade Goods/TradeGoods-Spices/item_1092.md) | Trading Goods (Spices) | (11,195) | 13,062 |  |
-| [pepper](Items/Trade Goods/TradeGoods-Spices/item_58.md) | Trading Goods (Spices) | (4,908) | 5,726 |  |
-| [nutmeg](Items/Trade Goods/TradeGoods-Spices/item_1969.md) | Trading Goods (Spices) | (11,768) | 13,731 |  |
-| [mace](Items/Trade Goods/TradeGoods-Spices/item_2100.md) | Trading Goods (Spices) | (12,106) | 14,125 |  |
+| [cloves](docs/Items/TradeGoods/TradeGoods-Spices/item_1092.md) | Trading Goods (Spices) | (11,195) | 13,062 |  |
+| [pepper](docs/Items/TradeGoods/TradeGoods-Spices/item_58.md) | Trading Goods (Spices) | (4,908) | 5,726 |  |
+| [nutmeg](docs/Items/TradeGoods/TradeGoods-Spices/item_1969.md) | Trading Goods (Spices) | (11,768) | 13,731 |  |
+| [mace](docs/Items/TradeGoods/TradeGoods-Spices/item_2100.md) | Trading Goods (Spices) | (12,106) | 14,125 |  |
 
-#### [Trading goods (artificial goods)](Categories/category_13.md)
+#### [Trading goods (artificial goods)](docs/Categories/category_13.md)
 
-| [Darla Hest](Items/Trade Goods/TradeGoods-Luxuries/item_6190.md) | Trading goods (artificial goods) | (3,746) | 4,370 |  |
-| [Kuresute](Items/Trade Goods/TradeGoods-Luxuries/item_3897.md) | Trading goods (artificial goods) | 3,904 | 4,160 |  |
-| [湖筆](Items/Trade Goods/TradeGoods-Luxuries/item_3898.md) | Trading goods (artificial goods) | 4,175 | (4,697) |  |
+| [Darla Hest](docs/Items/TradeGoods/TradeGoods-Luxuries/item_6190.md) | Trading goods (artificial goods) | (3,746) | 4,370 |  |
+| [Kuresute](docs/Items/TradeGoods/TradeGoods-Luxuries/item_3897.md) | Trading goods (artificial goods) | 3,904 | 4,160 |  |
+| [湖筆](docs/Items/TradeGoods/TradeGoods-Luxuries/item_3898.md) | Trading goods (artificial goods) | 4,175 | (4,697) |  |
 
-#### [Trading Items (Gemstones)](Categories/category_15.md)
+#### [Trading Items (Gemstones)](docs/Categories/category_15.md)
 
-| [opal](Items/Trade Goods/TradeGoods-Gems/item_2006.md) | Trading Items (Gemstones) | 6,218 | 6,623 |  |
+| [opal](docs/Items/TradeGoods/TradeGoods-Gems/item_2006.md) | Trading Items (Gemstones) | 6,218 | 6,623 |  |
 | ●Special products from the east coast of Central and South America |
-| [tourmaline](Items/Trade Goods/TradeGoods-Gems/item_4092.md) | Trading Items (Gemstones) | 5,552 | (6,246) |  |
+| [tourmaline](docs/Items/TradeGoods/TradeGoods-Gems/item_4092.md) | Trading Items (Gemstones) | 5,552 | (6,246) |  |
 
-#### [Trading Items (Arms)](Categories/category_16.md)
+#### [Trading Items (Arms)](docs/Categories/category_16.md)
 
-| [Japanese sword](Items/Trade Goods/TradeGoods-Weapons/item_3437.md) | Trading Items (Arms) | (16,044) | 18,721 |  |
-| [western armor](Items/Trade Goods/TradeGoods-Weapons/item_6.md) | Trading Items (Arms) | 3,102 | (3,490) |  |
+| [Japanese sword](docs/Items/TradeGoods/TradeGoods-Weapons/item_3437.md) | Trading Items (Arms) | (16,044) | 18,721 |  |
+| [western armor](docs/Items/TradeGoods/TradeGoods-Weapons/item_6.md) | Trading Items (Arms) | 3,102 | (3,490) |  |
 | ●Special products of the British Isles |
 
-#### [Trading Items (Firearms)](Categories/category_17.md)
+#### [Trading Items (Firearms)](docs/Categories/category_17.md)
 
-| [musket gun](Items/Trade Goods/TradeGoods-Firearms/item_584.md) | Trading Items (Firearms) | 3,035 | (3,414) |  |
+| [musket gun](docs/Items/TradeGoods/TradeGoods-Firearms/item_584.md) | Trading Items (Firearms) | 3,035 | (3,414) |  |
 
-#### [交易品（織物）](Categories/category_20.md)
+#### [交易品（織物）](docs/Categories/category_20.md)
 
-| [Bingata](Items/Trade Goods/TradeGoods-Fabrics/item_3479.md) | 交易品（織物） | 16,595 | (18,671) |  |
+| [Bingata](docs/Items/TradeGoods/TradeGoods-Fabrics/item_3479.md) | 交易品（織物） | 16,595 | (18,671) |  |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
 | item | group | sale price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [交易品（繊維）](Categories/category_1.md)
+#### [交易品（繊維）](docs/Categories/category_1.md)
 
-| [fur](Items/Trade Goods/TradeGoods-Fibers/item_634.md) | 交易品（繊維） | 2,304 | (2,592) |  |
-| [cotton](Items/Trade Goods/TradeGoods-Fibers/item_610.md) | 交易品（繊維） | (528) | 616 |  |
-| [numb](Items/Trade Goods/TradeGoods-Fibers/item_900.md) | 交易品（繊維） | 12 | (13) |  |
+| [fur](docs/Items/TradeGoods/TradeGoods-Fibers/item_634.md) | 交易品（繊維） | 2,304 | (2,592) |  |
+| [cotton](docs/Items/TradeGoods/TradeGoods-Fibers/item_610.md) | 交易品（繊維） | (528) | 616 |  |
+| [numb](docs/Items/TradeGoods/TradeGoods-Fibers/item_900.md) | 交易品（繊維） | 12 | (13) |  |
 
-#### [Trading items (food items)](Categories/category_3.md)
+#### [Trading items (food items)](docs/Categories/category_3.md)
 
-| [sugar cane](Items/Trade Goods/TradeGoods-Foodstuffs/item_93.md) | Trading items (food items) | (204) | 238 |  |
-| [corn](Items/Trade Goods/TradeGoods-Foodstuffs/item_138.md) | Trading items (food items) | 200 | (225) |  |
-| [tomato](Items/Trade Goods/TradeGoods-Foodstuffs/item_1809.md) | Trading items (food items) | 248 | (279) |  |
-| [carrot](Items/Trade Goods/TradeGoods-Foodstuffs/item_2708.md) | Trading items (food items) | 103 | (115) |  |
-| [european crayfish](Items/Trade Goods/TradeGoods-Foodstuffs/item_6188.md) | Trading items (food items) | (4,183) | 4,880 |  |
-| [milk](Items/Trade Goods/TradeGoods-Foodstuffs/item_254.md) | Trading items (food items) | 148 | (166) |  |
-| [beef](Items/Trade Goods/TradeGoods-Foodstuffs/item_26.md) | Trading items (food items) | 592 | (666) |  |
+| [sugar cane](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_93.md) | Trading items (food items) | (204) | 238 |  |
+| [corn](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_138.md) | Trading items (food items) | 200 | (225) |  |
+| [tomato](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_1809.md) | Trading items (food items) | 248 | (279) |  |
+| [carrot](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_2708.md) | Trading items (food items) | 103 | (115) |  |
+| [european crayfish](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_6188.md) | Trading items (food items) | (4,183) | 4,880 |  |
+| [milk](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_254.md) | Trading items (food items) | 148 | (166) |  |
+| [beef](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_26.md) | Trading items (food items) | 592 | (666) |  |
 
-#### [交易品（調味料）](Categories/category_4.md)
+#### [交易品（調味料）](docs/Categories/category_4.md)
 
-| [almond oil](Items/Trade Goods/TradeGoods-Seasonings/item_578.md) | 交易品（調味料） | 625 | 672 |  |
-| [coconut vinegar](Items/Trade Goods/TradeGoods-Seasonings/item_1988.md) | 交易品（調味料） | 518 | (582) |  |
-| [butter](Items/Trade Goods/TradeGoods-Seasonings/item_3.md) | 交易品（調味料） | 359 | (403) |  |
-| [wine vinegar](Items/Trade Goods/TradeGoods-Seasonings/item_429.md) | 交易品（調味料） | 544 | 579 |  |
-| [salt](Items/Trade Goods/TradeGoods-Seasonings/item_42.md) | 交易品（調味料） | 258 | (290) |  |
-| [sugar](Items/Trade Goods/TradeGoods-Seasonings/item_94.md) | 交易品（調味料） | 860 | 932 |  |
-| [Honey](Items/Trade Goods/TradeGoods-Seasonings/item_49.md) | 交易品（調味料） | 956 | (1,075) |  |
+| [almond oil](docs/Items/TradeGoods/TradeGoods-Seasonings/item_578.md) | 交易品（調味料） | 625 | 672 |  |
+| [coconut vinegar](docs/Items/TradeGoods/TradeGoods-Seasonings/item_1988.md) | 交易品（調味料） | 518 | (582) |  |
+| [butter](docs/Items/TradeGoods/TradeGoods-Seasonings/item_3.md) | 交易品（調味料） | 359 | (403) |  |
+| [wine vinegar](docs/Items/TradeGoods/TradeGoods-Seasonings/item_429.md) | 交易品（調味料） | 544 | 579 |  |
+| [salt](docs/Items/TradeGoods/TradeGoods-Seasonings/item_42.md) | 交易品（調味料） | 258 | (290) |  |
+| [sugar](docs/Items/TradeGoods/TradeGoods-Seasonings/item_94.md) | 交易品（調味料） | 860 | 932 |  |
+| [Honey](docs/Items/TradeGoods/TradeGoods-Seasonings/item_49.md) | 交易品（調味料） | 956 | (1,075) |  |
 
-#### [交易品（雑貨）](Categories/category_5.md)
+#### [交易品（雑貨）](docs/Categories/category_5.md)
 
-| [Western books](Items/Trade Goods/TradeGoods-Misc/item_293.md) | 交易品（雑貨） | 709 | (797) |  |
+| [Western books](docs/Items/TradeGoods/TradeGoods-Misc/item_293.md) | 交易品（雑貨） | 709 | (797) |  |
 
-#### [Trading products (medical products)](Categories/category_6.md)
+#### [Trading products (medical products)](docs/Categories/category_6.md)
 
-| [nettle](Items/Trade Goods/TradeGoods-Medicine/item_6189.md) | Trading products (medical products) | (632) | 737 |  |
+| [nettle](docs/Items/TradeGoods/TradeGoods-Medicine/item_6189.md) | Trading products (medical products) | (632) | 737 |  |
 
-#### [Trading Items (Iron Stone)](Categories/category_7.md)
+#### [Trading Items (Iron Stone)](docs/Categories/category_7.md)
 
-| [iron ore](Items/Trade Goods/TradeGoods-Minerals/item_146.md) | Trading Items (Iron Stone) | (672) | 783 |  |
-| [copper ore](Items/Trade Goods/TradeGoods-Minerals/item_65.md) | Trading Items (Iron Stone) | (798) | 931 |  |
+| [iron ore](docs/Items/TradeGoods/TradeGoods-Minerals/item_146.md) | Trading Items (Iron Stone) | (672) | 783 |  |
+| [copper ore](docs/Items/TradeGoods/TradeGoods-Minerals/item_65.md) | Trading Items (Iron Stone) | (798) | 931 |  |
 
-#### [Trading products (precious metals)](Categories/category_8.md)
+#### [Trading products (precious metals)](docs/Categories/category_8.md)
 
-| [gold](Items/Trade Goods/TradeGoods-Metals/item_659.md) | Trading products (precious metals) | (4,043) | 4,717 |  |
-| [silver](Items/Trade Goods/TradeGoods-Metals/item_136.md) | Trading products (precious metals) | 1,919 | (2,159) |  |
+| [gold](docs/Items/TradeGoods/TradeGoods-Metals/item_659.md) | Trading products (precious metals) | (4,043) | 4,717 |  |
+| [silver](docs/Items/TradeGoods/TradeGoods-Metals/item_136.md) | Trading products (precious metals) | 1,919 | (2,159) |  |
 
-#### [交易品（酒類）](Categories/category_9.md)
+#### [交易品（酒類）](docs/Categories/category_9.md)
 
-| [gin](Items/Trade Goods/TradeGoods-Alcohol/item_291.md) | 交易品（酒類） | 798 | (897) |  |
-| [Beer](Items/Trade Goods/TradeGoods-Alcohol/item_2.md) | 交易品（酒類） | 353 | 384 |  |
-| [brandy](Items/Trade Goods/TradeGoods-Alcohol/item_9.md) | 交易品（酒類） | 760 | 760 |  |
-| [rum](Items/Trade Goods/TradeGoods-Alcohol/item_139.md) | 交易品（酒類） | 702 | 749 |  |
-| [liqueur](Items/Trade Goods/TradeGoods-Alcohol/item_18.md) | 交易品（酒類） | (552) | 643 |  |
+| [gin](docs/Items/TradeGoods/TradeGoods-Alcohol/item_291.md) | 交易品（酒類） | 798 | (897) |  |
+| [Beer](docs/Items/TradeGoods/TradeGoods-Alcohol/item_2.md) | 交易品（酒類） | 353 | 384 |  |
+| [brandy](docs/Items/TradeGoods/TradeGoods-Alcohol/item_9.md) | 交易品（酒類） | 760 | 760 |  |
+| [rum](docs/Items/TradeGoods/TradeGoods-Alcohol/item_139.md) | 交易品（酒類） | 702 | 749 |  |
+| [liqueur](docs/Items/TradeGoods/TradeGoods-Alcohol/item_18.md) | 交易品（酒類） | (552) | 643 |  |
 
-#### [Trading goods (hobby goods)](Categories/category_10.md)
+#### [Trading goods (hobby goods)](docs/Categories/category_10.md)
 
-| [almond](Items/Trade Goods/TradeGoods-Sunddries/item_367.md) | Trading goods (hobby goods) | (170) | 198 |  |
-| [raisins](Items/Trade Goods/TradeGoods-Sunddries/item_35.md) | Trading goods (hobby goods) | (275) | 320 |  |
+| [almond](docs/Items/TradeGoods/TradeGoods-Sunddries/item_367.md) | Trading goods (hobby goods) | (170) | 198 |  |
+| [raisins](docs/Items/TradeGoods/TradeGoods-Sunddries/item_35.md) | Trading goods (hobby goods) | (275) | 320 |  |
 
-#### [Trading goods (artificial goods)](Categories/category_13.md)
+#### [Trading goods (artificial goods)](docs/Categories/category_13.md)
 
-| [ceramics](Items/Trade Goods/TradeGoods-Luxuries/item_152.md) | Trading goods (artificial goods) | (1,269) | 1,480 |  |
+| [ceramics](docs/Items/TradeGoods/TradeGoods-Luxuries/item_152.md) | Trading goods (artificial goods) | (1,269) | 1,480 |  |
 
-#### [交易品（美術品）](Categories/category_14.md)
+#### [交易品（美術品）](docs/Categories/category_14.md)
 
-| [wooden statue](Items/Trade Goods/TradeGoods-Art/item_95.md) | 交易品（美術品） | 1,226 | 1,291 |  |
+| [wooden statue](docs/Items/TradeGoods/TradeGoods-Art/item_95.md) | 交易品（美術品） | 1,226 | 1,291 |  |
 
-#### [Trading Items (Gemstones)](Categories/category_15.md)
+#### [Trading Items (Gemstones)](docs/Categories/category_15.md)
 
-| [Agate](Items/Trade Goods/TradeGoods-Gems/item_107.md) | Trading Items (Gemstones) | 4,922 | 5,406 |  |
-| [emerald](Items/Trade Goods/TradeGoods-Gems/item_777.md) | Trading Items (Gemstones) | 6,416 | (7,218) |  |
-| [garnet](Items/Trade Goods/TradeGoods-Gems/item_1005.md) | Trading Items (Gemstones) | 3,955 | (4,449) |  |
-| [peridot](Items/Trade Goods/TradeGoods-Gems/item_1098.md) | Trading Items (Gemstones) | 2,660 | (2,992) |  |
-| [crystal](Items/Trade Goods/TradeGoods-Gems/item_893.md) | Trading Items (Gemstones) | 1,667 | (1,875) |  |
+| [Agate](docs/Items/TradeGoods/TradeGoods-Gems/item_107.md) | Trading Items (Gemstones) | 4,922 | 5,406 |  |
+| [emerald](docs/Items/TradeGoods/TradeGoods-Gems/item_777.md) | Trading Items (Gemstones) | 6,416 | (7,218) |  |
+| [garnet](docs/Items/TradeGoods/TradeGoods-Gems/item_1005.md) | Trading Items (Gemstones) | 3,955 | (4,449) |  |
+| [peridot](docs/Items/TradeGoods/TradeGoods-Gems/item_1098.md) | Trading Items (Gemstones) | 2,660 | (2,992) |  |
+| [crystal](docs/Items/TradeGoods/TradeGoods-Gems/item_893.md) | Trading Items (Gemstones) | 1,667 | (1,875) |  |
 
-#### [Trading Items (Arms)](Categories/category_16.md)
+#### [Trading Items (Arms)](docs/Categories/category_16.md)
 
-| [dagger](Items/Trade Goods/TradeGoods-Weapons/item_143.md) | Trading Items (Arms) | 886 | 886 |  |
+| [dagger](docs/Items/TradeGoods/TradeGoods-Weapons/item_143.md) | Trading Items (Arms) | 886 | 886 |  |
 
-#### [Trading Items (Firearms)](Categories/category_17.md)
+#### [Trading Items (Firearms)](docs/Categories/category_17.md)
 
-| [arquebus gun](Items/Trade Goods/TradeGoods-Firearms/item_14.md) | Trading Items (Firearms) | 1,798 | (2,022) |  |
-| [大砲](Items/Trade Goods/TradeGoods-Firearms/item_4.md) | Trading Items (Firearms) | 3,380 | (3,802) |  |
-| [cannonball](Items/Trade Goods/TradeGoods-Firearms/item_144.md) | Trading Items (Firearms) | 1,627 | 1,630 |  |
+| [arquebus gun](docs/Items/TradeGoods/TradeGoods-Firearms/item_14.md) | Trading Items (Firearms) | 1,798 | (2,022) |  |
+| [大砲](docs/Items/TradeGoods/TradeGoods-Firearms/item_4.md) | Trading Items (Firearms) | 3,380 | (3,802) |  |
+| [cannonball](docs/Items/TradeGoods/TradeGoods-Firearms/item_144.md) | Trading Items (Firearms) | 1,627 | 1,630 |  |
 
-#### [Trading Goods (Livestock)](Categories/category_18.md)
+#### [Trading Goods (Livestock)](docs/Categories/category_18.md)
 
-| [chicken](Items/Trade Goods/TradeGoods-Livestock/item_252.md) | Trading Goods (Livestock) | 48 | 55 |  |
+| [chicken](docs/Items/TradeGoods/TradeGoods-Livestock/item_252.md) | Trading Goods (Livestock) | 48 | 55 |  |
 
-#### [交易品（工業品）](Categories/category_19.md)
+#### [交易品（工業品）](docs/Categories/category_19.md)
 
-| [log](Items/Trade Goods/TradeGoods-Wares/item_846.md) | 交易品（工業品） | 130 | (146) |  |
-| [wood](Items/Trade Goods/TradeGoods-Wares/item_277.md) | 交易品（工業品） | 751 | 873 |  |
-| [Stone](Items/Trade Goods/TradeGoods-Wares/item_276.md) | 交易品（工業品） | 878 | (987) |  |
-| [coal](Items/Trade Goods/TradeGoods-Wares/item_359.md) | 交易品（工業品） | (490) | 571 |  |
-| [iron material](Items/Trade Goods/TradeGoods-Wares/item_268.md) | 交易品（工業品） | 935 | 936 |  |
-| [青銅](Items/Trade Goods/TradeGoods-Wares/item_7.md) | 交易品（工業品） | 1,100 | (1,237) |  |
+| [log](docs/Items/TradeGoods/TradeGoods-Wares/item_846.md) | 交易品（工業品） | 130 | (146) |  |
+| [wood](docs/Items/TradeGoods/TradeGoods-Wares/item_277.md) | 交易品（工業品） | 751 | 873 |  |
+| [Stone](docs/Items/TradeGoods/TradeGoods-Wares/item_276.md) | 交易品（工業品） | 878 | (987) |  |
+| [coal](docs/Items/TradeGoods/TradeGoods-Wares/item_359.md) | 交易品（工業品） | (490) | 571 |  |
+| [iron material](docs/Items/TradeGoods/TradeGoods-Wares/item_268.md) | 交易品（工業品） | 935 | 936 |  |
+| [青銅](docs/Items/TradeGoods/TradeGoods-Wares/item_7.md) | 交易品（工業品） | 1,100 | (1,237) |  |
 
-#### [交易品（織物）](Categories/category_20.md)
+#### [交易品（織物）](docs/Categories/category_20.md)
 
-| [linen fabric](Items/Trade Goods/TradeGoods-Fabrics/item_135.md) | 交易品（織物） | 468 | (526) |  |
+| [linen fabric](docs/Items/TradeGoods/TradeGoods-Fabrics/item_135.md) | 交易品（織物） | 468 | (526) |  |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
@@ -236,29 +236,29 @@ A city on a volcanic island located in the middle of the Atlantic Ocean. Since i
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Equipment (body)](Categories/category_24.md)
+#### [Equipment (body)](docs/Categories/category_24.md)
 
-| [Surcoat](Items/Equipment/Equipment-Body/item_131.md) | Equipment (body) | 30,000 | tool shop owner |  |
+| [Surcoat](docs/Items/Equipment/Equipment-Body/item_131.md) | Equipment (body) | 30,000 | tool shop owner |  |
 
-#### [Equipment (legs)](Categories/category_26.md)
+#### [Equipment (legs)](docs/Categories/category_26.md)
 
-| [boots](Items/Equipment/Equipment-Feet/item_365.md) | Equipment (legs) | 100 | tool shop owner |  |
+| [boots](docs/Items/Equipment/Equipment-Feet/item_365.md) | Equipment (legs) | 100 | tool shop owner |  |
 
-#### [Equipment (belongings)](Categories/category_27.md)
+#### [Equipment (belongings)](docs/Categories/category_27.md)
 
-| [long sword](Items/Equipment/Equipment-Weapon/item_302.md) | Equipment (belongings) | 15,400 | tool shop owner |  |
+| [long sword](docs/Items/Equipment/Equipment-Weapon/item_302.md) | Equipment (belongings) | 15,400 | tool shop owner |  |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [Taheebo juice](Items/Consumables/Consumables-Landbattle/item_1807.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
-| [taheebo bottle](Items/Consumables/Consumables-Landbattle/item_1823.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
+| [Taheebo juice](docs/Items/Consumables/Consumables-Landbattle/item_1807.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [taheebo bottle](docs/Items/Consumables/Consumables-Landbattle/item_1823.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 | 要投資（必要投資額：120,000） |
-| [tonic](Items/Consumables/Consumables-Landbattle/item_1678.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [tonic](docs/Items/Consumables/Consumables-Landbattle/item_1678.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [torch for throwing](docs/Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
 
-#### [Consumables (request documents)](Categories/category_45.md)
+#### [Consumables (request documents)](docs/Categories/category_45.md)
 
-| [spice purchase order](Items/Consumables/Consumables-Documents/item_4918.md) | Consumables (request documents) | 60,000 | tool shop owner |  |
+| [spice purchase order](docs/Items/Consumables/Consumables-Documents/item_4918.md) | Consumables (request documents) | 60,000 | tool shop owner |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
 
@@ -267,12 +267,12 @@ A city on a volcanic island located in the middle of the Atlantic Ocean. Since i
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [Shipbuilding materials/stone processing](Items/Recipe Book/item_1772.md) | recipe book | Fixed recipe | Shipwright |  |
+| [Shipbuilding materials/stone processing](docs/Items/RecipeBooks/item_1772.md) | recipe book | Fixed recipe | Shipwright |  |
 
-#### [shipbuilding materials](Categories/category_47.md)
+#### [shipbuilding materials](docs/Categories/category_47.md)
 
-| [lime](Items/Shipbuilding FS Material/item_1771.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
+| [lime](docs/Items/ShipbuildingFS/item_1771.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
   </TabItem>
 </Tabs>

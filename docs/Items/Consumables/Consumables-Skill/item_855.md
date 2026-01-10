@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | card |
 | **Type** | thing |
-| **Group** | [Consumables (skill activation)](Categories/category_31.md) |
+| **Group** | [Consumables (skill activation)](docs/Categories/category_31.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 500 |
 | **Description** | You can open a poker session. Rate 1000 ducats Effect when used Poker |

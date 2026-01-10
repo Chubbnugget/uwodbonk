@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of discolored gem vein](Quests/Other/quest_5010.md)** | Re-examination reward (6) | 探索(6)Treasures鑑定(6) |  |
+| **[Map of discolored gem vein](docs/Quests/Other/5001-6000/quest_5010.md)** | Re-examination reward (6) | 探索(6)Treasures鑑定(6) |  |

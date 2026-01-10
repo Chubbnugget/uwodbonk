@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars and love poem](Quests/Adventure/quest_5337.md)** | Adventure quest (8) | Astronomy (6) Religious Studies (7) Visualization (4) | Reward: 147,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |
+| **[Stars and love poem](docs/Quests/Adventure/5001-6000/quest_5337.md)** | Adventure quest (8) | Astronomy (6) Religious Studies (7) Visualization (4) | Reward: 147,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |

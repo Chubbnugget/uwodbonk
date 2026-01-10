@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[True Southernmost Point](Quests/Adventure/quest_688.md)** | Adventure quest (5) | Geography (4) Visual recognition (2) Portuguese | Reward: 62,000 / Advance payment: 0Experience: 180 / Fame: 85 |
+| **[True Southernmost Point](docs/Quests/Adventure/1-1000/quest_688.md)** | Adventure quest (5) | Geography (4) Visual recognition (2) Portuguese | Reward: 62,000 / Advance payment: 0Experience: 180 / Fame: 85 |

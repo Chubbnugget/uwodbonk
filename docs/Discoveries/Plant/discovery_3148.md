@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beware of deadly poison](Quests/Adventure/quest_5889.md)** | Adventure quest (10) | Ecological Survey (15) Biology (17) Spanish | Reward: 302,000 / Advance payment: 30,000 Experience: 280 / Fame: 165 |
+| **[Beware of deadly poison](docs/Quests/Adventure/5001-6000/quest_5889.md)** | Adventure quest (10) | Ecological Survey (15) Biology (17) Spanish | Reward: 302,000 / Advance payment: 30,000 Experience: 280 / Fame: 165 |

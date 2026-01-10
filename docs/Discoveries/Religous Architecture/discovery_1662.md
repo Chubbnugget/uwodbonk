@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Temple dedicated to the sun god](Quests/Adventure/quest_789.md)** | Adventure quest (6) | Religious studies (3) Visual recognition (1) Indian languages | Reward: 362,200 / Advance payment: 10,000 Experience: 210 / Fame: 95 |
+| **[Temple dedicated to the sun god](docs/Quests/Adventure/1-1000/quest_789.md)** | Adventure quest (6) | Religious studies (3) Visual recognition (1) Indian languages | Reward: 362,200 / Advance payment: 10,000 Experience: 210 / Fame: 95 |

@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | caribbean feather |
 | **Type** | thing |
-| **Group** | [Equipment（頭）](Categories/category_23.md) |
+| **Group** | [Equipment（頭）](docs/Categories/category_23.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 14,500 |
 | **Description** | A feather ornament worn by Caribbean hunters during festivals. Gender Restrictions Male Durability 30 Formal Attire 2 Defense 2 Total Required Fame 400 |

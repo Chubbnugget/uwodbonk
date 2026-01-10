@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Shining conch stone](Quests/Adventure/quest_5606.md)** | Adventure Quest (8) B.C. | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 297,000 / Advance payment: 20,000 Experience: 270 / Fame: 160 |
+| **[Shining conch stone](docs/Quests/Adventure/5001-6000/quest_5606.md)** | Adventure Quest (8) B.C. | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 297,000 / Advance payment: 20,000 Experience: 270 / Fame: 160 |

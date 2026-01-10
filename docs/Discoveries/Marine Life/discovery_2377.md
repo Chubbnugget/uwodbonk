@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Poisonous Fish Map](Quests/Other/quest_888.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |
+| **[Poisonous Fish Map](docs/Quests/Other/1-1000/quest_888.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flower Drunk](Quests/Adventure/quest_1218.md)** | Adventure quest (9) | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 268,000 / Advance payment: 10,000 Experience: 520 / Fame: 170 |
+| **[Flower Drunk](docs/Quests/Adventure/1001-2000/quest_1218.md)** | Adventure quest (9) | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 268,000 / Advance payment: 10,000 Experience: 520 / Fame: 170 |

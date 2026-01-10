@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sunset of Atlantis](Quests/Other/quest_5266.md)** | Treasure hunting (9) | Exploration (13) Archeology (15) Greek (1) | Experience：5,055 |
+| **[Sunset of Atlantis](docs/Quests/Other/5001-6000/quest_5266.md)** | Treasure hunting (9) | Exploration (13) Archeology (15) Greek (1) | Experience：5,055 |

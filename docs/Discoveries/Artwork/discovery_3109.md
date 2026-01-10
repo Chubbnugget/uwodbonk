@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Collaboration of different eras](Quests/Adventure/quest_5848.md)** | Adventure quest (10) | Exploration (15) Art (17) French | Reward: 346,000 / Advance payment: 30,000 Experience: 300 / Fame: 180 |
+| **[Collaboration of different eras](docs/Quests/Adventure/5001-6000/quest_5848.md)** | Adventure quest (10) | Exploration (15) Art (17) French | Reward: 346,000 / Advance payment: 30,000 Experience: 300 / Fame: 180 |

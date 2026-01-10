@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Thinking of helping people](Quests/Adventure/quest_6740.md)** | Adventure quest (7) | Exploration (8) Treasures Appraisal (10) Arabic (1) | Reward: 398,000 / Advance payment: 40,000 Experience: 450 / Fame: 175 |
+| **[Thinking of helping people](docs/Quests/Adventure/6001-7000/quest_6740.md)** | Adventure quest (7) | Exploration (8) Treasures Appraisal (10) Arabic (1) | Reward: 398,000 / Advance payment: 40,000 Experience: 450 / Fame: 175 |

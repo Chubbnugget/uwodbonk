@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A certain lady's ring](Quests/Adventure/quest_213.md)** | Adventure quest (2) | Exploration (1) Treasures Appraisal (1) French | Reward: 9,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[A certain lady's ring](docs/Quests/Adventure/1-1000/quest_213.md)** | Adventure quest (2) | Exploration (1) Treasures Appraisal (1) French | Reward: 9,000 / Advance payment: 0Experience: 130 / Fame: 65 |

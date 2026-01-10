@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Chinese Bahaba](Quests/Other/quest_6603.md)** | Fishing (1) | - |  |
+| **[Chinese Bahaba](docs/Quests/Other/6001-7000/quest_6603.md)** | Fishing (1) | - |  |

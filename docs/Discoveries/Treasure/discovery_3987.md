@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of musical instruments of Central Asia](Quests/Other/quest_6978.md)** | Treasures鑑定(9) | 探索(9)Treasures鑑定(9) | Experience：290 |
+| **[Map of musical instruments of Central Asia](docs/Quests/Other/6001-7000/quest_6978.md)** | Treasures鑑定(9) | 探索(9)Treasures鑑定(9) | Experience：290 |

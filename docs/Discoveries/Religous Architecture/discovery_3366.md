@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Saint of Reconquista](Quests/Adventure/quest_6250.md)** | Adventure quest (1) | Religious Studies (2) Visual Recognition (1) Spanish | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Saint of Reconquista](docs/Quests/Adventure/6001-7000/quest_6250.md)** | Adventure quest (1) | Religious Studies (2) Visual Recognition (1) Spanish | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |

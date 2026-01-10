@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bewitching Plant](Quests/Adventure/quest_5561.md)** | Adventure quest (8) | Ecological Survey (6) Biology (8) Spanish | Reward: 165,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |
+| **[Bewitching Plant](docs/Quests/Adventure/5001-6000/quest_5561.md)** | Adventure quest (8) | Ecological Survey (6) Biology (8) Spanish | Reward: 165,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |

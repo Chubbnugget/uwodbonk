@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Drawn Apostle](Quests/Adventure/quest_2037.md)** | Adventure Quest (4) 16th Century 2nd Period | Exploration (3) Art (5) German | Reward: 78,000 / Advance payment: 0Experience: 140 / Fame: 140 |
+| **[Drawn Apostle](docs/Quests/Adventure/2001-3000/quest_2037.md)** | Adventure Quest (4) 16th Century 2nd Period | Exploration (3) Art (5) German | Reward: 78,000 / Advance payment: 0Experience: 140 / Fame: 140 |

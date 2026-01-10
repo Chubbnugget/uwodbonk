@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on flowers blooming in the jungle](Quests/Other/quest_6491.md)** | Pursuit quest (3) | Ecological research (8) Biology (10) West African languages | Reward: 200,000 / Advance payment: 0Experience: 1,200 |
+| **[Additional research on flowers blooming in the jungle](docs/Quests/Other/6001-7000/quest_6491.md)** | Pursuit quest (3) | Ecological research (8) Biology (10) West African languages | Reward: 200,000 / Advance payment: 0Experience: 1,200 |

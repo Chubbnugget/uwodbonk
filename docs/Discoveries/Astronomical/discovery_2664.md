@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Another Centaur](Quests/Adventure/quest_5253.md)** | Adventure Quest (6) Mythology Era | Astronomy (8) Religious Studies (4) Visualization (6) | Reward: 169,000 / Advance payment: 10,000 Experience: 210 / Fame: 95 |
+| **[Another Centaur](docs/Quests/Adventure/5001-6000/quest_5253.md)** | Adventure Quest (6) Mythology Era | Astronomy (8) Religious Studies (4) Visualization (6) | Reward: 169,000 / Advance payment: 10,000 Experience: 210 / Fame: 95 |

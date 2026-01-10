@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legend of Shiva and Parvati](Quests/Adventure/quest_6600.md)** | Adventure Quest (6) Mythology Era | Religious Studies (8) Exploration (6) Indian Languages | Reward: 128,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |
+| **[Legend of Shiva and Parvati](docs/Quests/Adventure/6001-7000/quest_6600.md)** | Adventure Quest (6) Mythology Era | Religious Studies (8) Exploration (6) Indian Languages | Reward: 128,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |

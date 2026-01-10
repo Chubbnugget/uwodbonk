@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Searching for drama themes](Quests/Adventure/quest_5364.md)** | Adventure quest (6) | Religious studies (3) Ecological research (5) Biology (7) | Reward: 153,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |
+| **[Searching for drama themes](docs/Quests/Adventure/5001-6000/quest_5364.md)** | Adventure quest (6) | Religious studies (3) Ecological research (5) Biology (7) | Reward: 153,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |

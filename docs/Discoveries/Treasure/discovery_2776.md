@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pirate King of Ancient Greece](Quests/Adventure/quest_5382.md)** | Adventure Quest (8) B.C. | Exploration(10)Archaeology(8)TreasuresIdentification(12) | Reward: 225,000/ Advance: 20,000Experience: 230/ Fame: 130 |
+| **[Pirate King of Ancient Greece](docs/Quests/Adventure/5001-6000/quest_5382.md)** | Adventure Quest (8) B.C. | Exploration(10)Archaeology(8)TreasuresIdentification(12) | Reward: 225,000/ Advance: 20,000Experience: 230/ Fame: 130 |

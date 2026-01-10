@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legendary Doctor](Quests/Adventure/quest_3875.md)** | Adventure Quest (7) Mythology Era | Astronomy (10) Religious Studies (8) Visualization (8) | Reward: 308,000 / Advance payment: 30,000 Experience: 330 / Fame: 140 |
+| **[Legendary Doctor](docs/Quests/Adventure/3001-4000/quest_3875.md)** | Adventure Quest (7) Mythology Era | Astronomy (10) Religious Studies (8) Visualization (8) | Reward: 308,000 / Advance payment: 30,000 Experience: 330 / Fame: 140 |

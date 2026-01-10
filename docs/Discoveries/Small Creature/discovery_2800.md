@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Friendly animal](Quests/Adventure/quest_5451.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Portuguese | Reward: 172,000 / Advance payment: 10,000 Experience: 190 / Fame: 110 |
+| **[Friendly animal](docs/Quests/Adventure/5001-6000/quest_5451.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Portuguese | Reward: 172,000 / Advance payment: 10,000 Experience: 190 / Fame: 110 |

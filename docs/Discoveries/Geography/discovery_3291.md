@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Trading base map](Quests/Other/quest_6136.md)** | Geography学(12) | Geography(12)Visibility(12) |  |
+| **[Trading base map](docs/Quests/Other/6001-7000/quest_6136.md)** | Geography学(12) | Geography(12)Visibility(12) |  |

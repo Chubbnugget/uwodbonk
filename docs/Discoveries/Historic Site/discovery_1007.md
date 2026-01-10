@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Land of Coronation](Quests/Adventure/quest_3316.md)** | Adventure quest (8) | Archeology (8) Visualization (6) Italian | Reward: 100,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |
+| **[Land of Coronation](docs/Quests/Adventure/3001-4000/quest_3316.md)** | Adventure quest (8) | Archeology (8) Visualization (6) Italian | Reward: 100,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |

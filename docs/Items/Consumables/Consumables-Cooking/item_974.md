@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | mango pudding |
 | **Type** | thing |
-| **Group** | [Consumables (cooking)](Categories/category_32.md) |
-| **Sold by NPC** | [Production (Cooking)](NPCs/npc_24.md) |
+| **Group** | [Consumables (cooking)](docs/Categories/category_32.md) |
+| **Sold by NPC** | [Production (Cooking)](docs/NPCs/npc_24.md) |
 | **Description** | Steamed sweets with mango. Effect when using Action power/Scurvy recovery Action power +40 |
 | **Last Updated** | 2006-02-14 15:45:45 Phone@Administrator |
 

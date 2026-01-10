@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Fish Skull](Quests/Adventure/quest_6032.md)** | Adventure Quest (8) B.C. | Exploration (10) Biology (12) North American languages | Reward: 297,000/Advance payment: 20,000Experience: 270 |
+| **[Giant Fish Skull](docs/Quests/Adventure/6001-7000/quest_6032.md)** | Adventure Quest (8) B.C. | Exploration (10) Biology (12) North American languages | Reward: 297,000/Advance payment: 20,000Experience: 270 |

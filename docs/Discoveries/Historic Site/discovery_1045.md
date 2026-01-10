@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Slope in the plaza](Quests/Adventure/quest_2300.md)** | Adventure quest (7) | Archeology (9) Visualization (7) Mayan languages | Reward: 361,000 / Advance payment: 30,000 Experience: 370 / Fame: 155 |
+| **[Slope in the plaza](docs/Quests/Adventure/2001-3000/quest_2300.md)** | Adventure quest (7) | Archeology (9) Visualization (7) Mayan languages | Reward: 361,000 / Advance payment: 30,000 Experience: 370 / Fame: 155 |

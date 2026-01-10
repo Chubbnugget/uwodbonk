@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Westernmost tip of Africa](Quests/Adventure/quest_25.md)** | Adventure quest (3) 15th century third period | Geography (2) Visual recognition (1) Portuguese | Reward: 16,000 / Advance payment: 0Experience: 208 / Fame: 104 |
+| **[Westernmost tip of Africa](docs/Quests/Adventure/1-1000/quest_25.md)** | Adventure quest (3) 15th century third period | Geography (2) Visual recognition (1) Portuguese | Reward: 16,000 / Advance payment: 0Experience: 208 / Fame: 104 |

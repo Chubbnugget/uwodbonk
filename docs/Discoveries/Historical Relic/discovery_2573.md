@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Alibaba's Turban](Quests/Other/quest_3552.md)** | Treasure hunting (6) | Exploration (9) Treasures Appraisal (11) Arabic | Experience: 1,980/ Reputation: 790 |
+| **[Alibaba's Turban](docs/Quests/Other/3001-4000/quest_3552.md)** | Treasure hunting (6) | Exploration (9) Treasures Appraisal (11) Arabic | Experience: 1,980/ Reputation: 790 |

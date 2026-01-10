@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tears of the Princess](Quests/Adventure/quest_362.md)** | Adventure quest (5) | Exploration (1) Treasures Appraisal (3) Unlocking (1) | Reward: 0 / Advance payment: 0 Experience: 140 / Fame: 65 |
+| **[Tears of the Princess](docs/Quests/Adventure/1-1000/quest_362.md)** | Adventure quest (5) | Exploration (1) Treasures Appraisal (3) Unlocking (1) | Reward: 0 / Advance payment: 0 Experience: 140 / Fame: 65 |

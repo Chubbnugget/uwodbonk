@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ruined Dynasty](Quests/Adventure/quest_5649.md)** | Adventure quest (6) | Archeology (8) Visualization (6) West African languages | Reward: 224,000 / Advance payment: 20,000 Experience: 230 / Fame: 130 |
+| **[Ruined Dynasty](docs/Quests/Adventure/5001-6000/quest_5649.md)** | Adventure quest (6) | Archeology (8) Visualization (6) West African languages | Reward: 224,000 / Advance payment: 20,000 Experience: 230 / Fame: 130 |

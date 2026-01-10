@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of flowers with downy hair](Quests/Other/quest_6935.md)** | Biology学(7) | Ecological Survey(7)Biology(7) | Experience：230 |
+| **[Map of flowers with downy hair](docs/Quests/Other/6001-7000/quest_6935.md)** | Biology学(7) | Ecological Survey(7)Biology(7) | Experience：230 |

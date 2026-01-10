@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Future of Legend](Quests/Adventure/quest_2088.md)** | Adventure Quest (8) 16th Century 5th Period | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 132,000 / Advance payment: 10,000 Experience: 180 / Fame: 170 |
+| **[Future of Legend](docs/Quests/Adventure/2001-3000/quest_2088.md)** | Adventure Quest (8) 16th Century 5th Period | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 132,000 / Advance payment: 10,000 Experience: 180 / Fame: 170 |

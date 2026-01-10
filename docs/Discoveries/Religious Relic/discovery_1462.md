@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Elephant-headed god](Quests/Adventure/quest_189.md)** | Adventure Quest (6) Mythology Era | Religious Studies (6) Exploration (4) Indian Languages | Remuneration: 280,800 Experience: 390/ Reputation: 221 |
+| **[Elephant-headed god](docs/Quests/Adventure/1-1000/quest_189.md)** | Adventure Quest (6) Mythology Era | Religious Studies (6) Exploration (4) Indian Languages | Remuneration: 280,800 Experience: 390/ Reputation: 221 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of poisonous insects](Quests/Other/quest_885.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |
+| **[Map of poisonous insects](docs/Quests/Other/1-1000/quest_885.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |

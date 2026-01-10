@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Stars Cloud](Quests/Adventure/quest_5874.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) West African languages | Reward: 357,000 / Advance payment: 30,000 Experience: 310 / Fame: 185 |
+| **[Giant Stars Cloud](docs/Quests/Adventure/5001-6000/quest_5874.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) West African languages | Reward: 357,000 / Advance payment: 30,000 Experience: 310 / Fame: 185 |

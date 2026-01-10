@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Quanzhou](Quests/Other/quest_5189.md)** | Port/village (1) | - |  |
+| **[Quanzhou](docs/Quests/Other/5001-6000/quest_5189.md)** | Port/village (1) | - |  |

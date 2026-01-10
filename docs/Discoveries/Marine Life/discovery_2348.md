@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Northern Pike](Quests/Other/quest_4349.md)** | Fishing (1) | Fishing (10) |  |
+| **[Northern Pike](docs/Quests/Other/4001-5000/quest_4349.md)** | Fishing (1) | Fishing (10) |  |

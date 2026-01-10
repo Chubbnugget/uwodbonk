@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Afterglow of Conquest](Quests/Adventure/quest_2359.md)** | Adventure quest (8) 16th century 4th period | Archeology (12) Visualization (10) Japanese | Reward: 263,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |
+| **[Afterglow of Conquest](docs/Quests/Adventure/2001-3000/quest_2359.md)** | Adventure quest (8) 16th century 4th period | Archeology (12) Visualization (10) Japanese | Reward: 263,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |

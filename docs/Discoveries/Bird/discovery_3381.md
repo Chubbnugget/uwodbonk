@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue Bird Map](Quests/Other/quest_6270.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |
+| **[Blue Bird Map](docs/Quests/Other/6001-7000/quest_6270.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |

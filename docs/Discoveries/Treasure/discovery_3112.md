@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Characteristic instruments of Africa](Quests/Adventure/quest_5857.md)** | Adventure quest (10) | Exploration (15) Treasures Appraisal (17) West African Languages | Reward: 494,000/ Advance: 40,000Experience: 400/ Fame: 245 |
+| **[Characteristic instruments of Africa](docs/Quests/Adventure/5001-6000/quest_5857.md)** | Adventure quest (10) | Exploration (15) Treasures Appraisal (17) West African Languages | Reward: 494,000/ Advance: 40,000Experience: 400/ Fame: 245 |

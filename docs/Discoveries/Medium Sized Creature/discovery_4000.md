@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange smell in the jungle](Quests/Adventure/quest_6984.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Malayu Tagalog (1) | Remuneration: 554,000 / Advance payment: 50,000 |
+| **[Strange smell in the jungle](docs/Quests/Adventure/6001-7000/quest_6984.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Malayu Tagalog (1) | Remuneration: 554,000 / Advance payment: 50,000 |

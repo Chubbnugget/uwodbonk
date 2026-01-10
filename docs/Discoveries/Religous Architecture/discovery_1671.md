@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Land lined with towers](Quests/Adventure/quest_1467.md)** | Adventure quest (7) | Religious studies (8) Visual recognition (6) Indian languages ​​(1) | Reward: 90,000 / Advance payment: 10,000 Experience: 340 / Fame: 130 |
+| **[Land lined with towers](docs/Quests/Adventure/1001-2000/quest_1467.md)** | Adventure quest (7) | Religious studies (8) Visual recognition (6) Indian languages ​​(1) | Reward: 90,000 / Advance payment: 10,000 Experience: 340 / Fame: 130 |

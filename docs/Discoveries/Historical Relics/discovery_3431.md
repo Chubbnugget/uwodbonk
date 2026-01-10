@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Inca Empire History Book](Quests/Other/quest_6344.md)** | Archeology(8) | Exploration(8)Archaeology(8) |  |
+| **[Map of Inca Empire History Book](docs/Quests/Other/6001-7000/quest_6344.md)** | Archeology(8) | Exploration(8)Archaeology(8) |  |

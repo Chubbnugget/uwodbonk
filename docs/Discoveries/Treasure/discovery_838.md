@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Secrets of military tactics](Quests/Adventure/quest_2854.md)** | Adventure quest (5) | 探索(5)Treasures鑑定(7)中国語 | Reward: 92,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Secrets of military tactics](docs/Quests/Adventure/2001-3000/quest_2854.md)** | Adventure quest (5) | 探索(5)Treasures鑑定(7)中国語 | Reward: 92,000 / Advance payment: 0Experience: 150 / Fame: 70 |

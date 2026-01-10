@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ameame Furefure](Quests/Adventure/quest_5654.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Indian languages | Reward: 273,000 / Advance payment: 20,000 Experience: 260 / Fame: 150 |
+| **[Ameame Furefure](docs/Quests/Adventure/5001-6000/quest_5654.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Indian languages | Reward: 273,000 / Advance payment: 20,000 Experience: 260 / Fame: 150 |

@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | malachite necklace |
 | **Type** | thing |
-| **Group** | [Equipment（服飾品）](Categories/category_28.md) |
+| **Group** | [Equipment（服飾品）](docs/Categories/category_28.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 8,000,000 |
 | **Description** | Durability 20 Formal wear 40 Effect when used: Enhancement of wooing skills Dye trading +2 Social interaction +1 Required fame 500 |

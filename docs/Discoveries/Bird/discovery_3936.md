@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Feathers shining on the waterside](Quests/Adventure/quest_6923.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Chinese (1) | Reward: 310,000/Advance payment: 30,000Experience: 280 |
+| **[Feathers shining on the waterside](docs/Quests/Adventure/6001-7000/quest_6923.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Chinese (1) | Reward: 310,000/Advance payment: 30,000Experience: 280 |

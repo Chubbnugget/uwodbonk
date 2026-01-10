@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Island Biology Survey](Quests/Adventure/quest_2255.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Quechua | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 140 |
+| **[Island Biology Survey](docs/Quests/Adventure/2001-3000/quest_2255.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Quechua | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 140 |

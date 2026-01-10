@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wild animal habitat map](Quests/Other/quest_6874.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Wild animal habitat map](docs/Quests/Other/6001-7000/quest_6874.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

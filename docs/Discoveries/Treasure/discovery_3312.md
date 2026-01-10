@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cuchulain Manuscript](Quests/Adventure/quest_6173.md)** | Adventure Quest (3) Mythology Era | Exploration(2)Archaeology(4)TreasuresIdentification(4) | Reward: 76,000 / Advance payment: 0Experience: 130 / Fame: 70 |
+| **[Cuchulain Manuscript](docs/Quests/Adventure/6001-7000/quest_6173.md)** | Adventure Quest (3) Mythology Era | Exploration(2)Archaeology(4)TreasuresIdentification(4) | Reward: 76,000 / Advance payment: 0Experience: 130 / Fame: 70 |

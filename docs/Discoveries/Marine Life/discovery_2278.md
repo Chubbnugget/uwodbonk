@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Great Eel](Quests/Other/quest_2422.md)** | Fishing (1) | Fishing (3) |  |
+| **[Great Eel](docs/Quests/Other/2001-3000/quest_2422.md)** | Fishing (1) | Fishing (3) |  |

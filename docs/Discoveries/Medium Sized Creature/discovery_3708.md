@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Request from the Princess](Quests/Adventure/quest_6654.md)** | Adventure quest (9) | Ecological research (11) Biology (13) North American languages ​​(1) | Reward: 388,600/Advance payment: 40,000Experience: 350 |
+| **[Request from the Princess](docs/Quests/Adventure/6001-7000/quest_6654.md)** | Adventure quest (9) | Ecological research (11) Biology (13) North American languages ​​(1) | Reward: 388,600/Advance payment: 40,000Experience: 350 |

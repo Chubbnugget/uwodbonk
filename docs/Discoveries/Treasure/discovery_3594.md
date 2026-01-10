@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Excellent improved telescope](Quests/Adventure/quest_6526.md)** | Adventure quest (2) | Exploration (1) Treasures Appraisal (3) Italian | Reward: 85,000 / Advance payment: 10,000 Experience: 140 / Fame: 80 |
+| **[Excellent improved telescope](docs/Quests/Adventure/6001-7000/quest_6526.md)** | Adventure quest (2) | Exploration (1) Treasures Appraisal (3) Italian | Reward: 85,000 / Advance payment: 10,000 Experience: 140 / Fame: 80 |

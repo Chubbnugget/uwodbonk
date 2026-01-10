@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Queen of Pegu](Quests/Adventure/quest_1283.md)** | Adventure quest (4) 15th century third period | Exploration (3) Archeology (5) Unlocking (3) | Reward: 62,000 / Advance payment: 0Experience: 220 / Fame: 70 |
+| **[Queen of Pegu](docs/Quests/Adventure/1001-2000/quest_1283.md)** | Adventure quest (4) 15th century third period | Exploration (3) Archeology (5) Unlocking (3) | Reward: 62,000 / Advance payment: 0Experience: 220 / Fame: 70 |

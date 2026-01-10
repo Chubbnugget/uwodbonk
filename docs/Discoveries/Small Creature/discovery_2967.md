@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Scorching Lizard](Quests/Adventure/quest_5656.md)** | Adventure quest (5) | Ecological research (7) Biology (9) West African languages | Reward: 184,000 / Advance payment: 10,000 Experience: 200 / Fame: 115 |
+| **[Scorching Lizard](docs/Quests/Adventure/5001-6000/quest_5656.md)** | Adventure quest (5) | Ecological research (7) Biology (9) West African languages | Reward: 184,000 / Advance payment: 10,000 Experience: 200 / Fame: 115 |

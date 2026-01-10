@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Stone Map](Quests/Other/quest_412.md)** | Biology学(1) | Explore(1)Biology(1) |  |
+| **[Strange Stone Map](docs/Quests/Other/1-1000/quest_412.md)** | Biology学(1) | Explore(1)Biology(1) |  |

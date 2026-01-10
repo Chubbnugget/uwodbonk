@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hadakawashi](Quests/Other/quest_5341.md)** | Fishing (1) | fishing |  |
+| **[Hadakawashi](docs/Quests/Other/5001-6000/quest_5341.md)** | Fishing (1) | fishing |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Undecipherable Book](Quests/Adventure/quest_6845.md)** | Adventure quest (9) | Exploration (11) Treasures Appraisal (13) Arabic (1) | Reward: 293,000/Advance payment: 30,000Experience: 270 |
+| **[Undecipherable Book](docs/Quests/Adventure/6001-7000/quest_6845.md)** | Adventure quest (9) | Exploration (11) Treasures Appraisal (13) Arabic (1) | Reward: 293,000/Advance payment: 30,000Experience: 270 |

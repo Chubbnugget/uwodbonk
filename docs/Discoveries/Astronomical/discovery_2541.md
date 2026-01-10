@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Double Stars of Perseus](Quests/Other/quest_4861.md)** | Celestial Object Discovery Name(9)17th Century Issue 1 | Astronomy(9) |  |
+| **[Double Stars of Perseus](docs/Quests/Other/4001-5000/quest_4861.md)** | Celestial Object Discovery Name(9)17th Century Issue 1 | Astronomy(9) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Barramundi](Quests/Other/quest_1991.md)** | Fishing (5) | Fishing (5) |  |
+| **[Barramundi](docs/Quests/Other/1001-2000/quest_1991.md)** | Fishing (5) | Fishing (5) |  |

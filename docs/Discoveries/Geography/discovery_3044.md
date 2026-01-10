@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mountain at the center of the world](Quests/Adventure/quest_5757.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) Indian languages | Reward: 785,000 / Advance payment: 70,000 Experience: 580 / Fame: 365 |
+| **[Mountain at the center of the world](docs/Quests/Adventure/5001-6000/quest_5757.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) Indian languages | Reward: 785,000 / Advance payment: 70,000 Experience: 580 / Fame: 365 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Alexandria Campaign](Quests/Adventure/quest_38.md)** | Adventure Quest (6) B.C. | Exploration (4) Archeology (6) Unlocking (4) | Reward: 2,000 / Advance payment: 0Experience: 170 / Fame: 80 |
+| **[Alexandria Campaign](docs/Quests/Adventure/1-1000/quest_38.md)** | Adventure Quest (6) B.C. | Exploration (4) Archeology (6) Unlocking (4) | Reward: 2,000 / Advance payment: 0Experience: 170 / Fame: 80 |

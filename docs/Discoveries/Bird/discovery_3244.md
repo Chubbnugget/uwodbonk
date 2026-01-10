@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Design suitable for marriage](Quests/Adventure/quest_6058.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Japanese | Reward: 398,000 / Advance payment: 30,000 Experience: 340 / Fame: 205 |
+| **[Design suitable for marriage](docs/Quests/Adventure/6001-7000/quest_6058.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Japanese | Reward: 398,000 / Advance payment: 30,000 Experience: 340 / Fame: 205 |

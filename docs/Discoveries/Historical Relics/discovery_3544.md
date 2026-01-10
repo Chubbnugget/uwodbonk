@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of ancient glass](Quests/Other/quest_6466.md)** | Pursuit quest (3) | Exploration (8) Archeology (10) Italian (1) | Reward: 190,000 / Advance payment: 0Experience: 1,100 |
+| **[Additional investigation of ancient glass](docs/Quests/Other/6001-7000/quest_6466.md)** | Pursuit quest (3) | Exploration (8) Archeology (10) Italian (1) | Reward: 190,000 / Advance payment: 0Experience: 1,100 |

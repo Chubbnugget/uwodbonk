@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Scarlet Hunter](Quests/Adventure/quest_921.md)** | Adventure quest (6) | Ecological research (3) Biology (5) French | Reward: 50,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Scarlet Hunter](docs/Quests/Adventure/1-1000/quest_921.md)** | Adventure quest (6) | Ecological research (3) Biology (5) French | Reward: 50,000 / Advance payment: 0Experience: 140 / Fame: 65 |

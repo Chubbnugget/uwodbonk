@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Discolored hummingbird](Quests/Adventure/quest_6744.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Spanish | Reward: 380,000/Advance: 40,000Experience: 380 |
+| **[Discolored hummingbird](docs/Quests/Adventure/6001-7000/quest_6744.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Spanish | Reward: 380,000/Advance: 40,000Experience: 380 |

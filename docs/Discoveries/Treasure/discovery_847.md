@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Heroes handed down through generations](Quests/Adventure/quest_2102.md)** | Adventure quest (7) | Exploration (7) Treasures Appraisal (9) Italian | Reward: 99,000 / Advance payment: 0Experience: 160 / Fame: 75 |
+| **[Heroes handed down through generations](docs/Quests/Adventure/2001-3000/quest_2102.md)** | Adventure quest (7) | Exploration (7) Treasures Appraisal (9) Italian | Reward: 99,000 / Advance payment: 0Experience: 160 / Fame: 75 |

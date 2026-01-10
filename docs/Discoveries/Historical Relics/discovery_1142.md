@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Forbidden Books](Quests/Adventure/quest_514.md)** | Adventure Quest (7) B.C. | Exploration (6) Archeology (8) Unlocking (6) | Reward: 222,000 / Advance payment: 0Experience: 190 / Fame: 100 |
+| **[Ancient Forbidden Books](docs/Quests/Adventure/1-1000/quest_514.md)** | Adventure Quest (7) B.C. | Exploration (6) Archeology (8) Unlocking (6) | Reward: 222,000 / Advance payment: 0Experience: 190 / Fame: 100 |

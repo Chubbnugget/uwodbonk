@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | lace cufflinks handler |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 41,100 |
 | **Description** | Merchant's clothing with lace on the sleeves. Popular with wealthy merchants. Durability 30 Formal wear level 12 Defense power 8 Equipment effect Operation +1 Equipable occupation Trade type Total required fame 600 |

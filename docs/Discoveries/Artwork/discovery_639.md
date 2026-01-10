@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Saint's Chronicle Painting](Quests/Adventure/quest_744.md)** | Adventure Quest (2) 16th Century 1st Period | Exploration (1) Art (1) Italian | Reward: 6,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Saint's Chronicle Painting](docs/Quests/Adventure/1-1000/quest_744.md)** | Adventure Quest (2) 16th Century 1st Period | Exploration (1) Art (1) Italian | Reward: 6,000 / Advance payment: 0Experience: 130 / Fame: 65 |

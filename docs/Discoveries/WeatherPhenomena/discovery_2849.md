@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Yuehong](Quests/Other/quest_5534.md)** | Weather/phenomena (3) | Visual recognition (3) | Experience：180 |
+| **[Yuehong](docs/Quests/Other/5001-6000/quest_5534.md)** | Weather/phenomena (3) | Visual recognition (3) | Experience：180 |

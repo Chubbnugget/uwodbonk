@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Man with a Book](Quests/Adventure/quest_2862.md)** | Adventure quest (5) | 探索(5)Treasures鑑定(7)中国語 | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Man with a Book](docs/Quests/Adventure/2001-3000/quest_2862.md)** | Adventure quest (5) | 探索(5)Treasures鑑定(7)中国語 | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |

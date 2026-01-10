@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A beloved and respected fragrance](Quests/Adventure/quest_2511.md)** | Adventure quest (8) | Exploration (7) Treasures Appraisal (9) Unlocking (7) | Reward: 149,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[A beloved and respected fragrance](docs/Quests/Adventure/2001-3000/quest_2511.md)** | Adventure quest (8) | Exploration (7) Treasures Appraisal (9) Unlocking (7) | Reward: 149,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unfamiliar stone statue](Quests/Adventure/quest_2699.md)** | Adventure quest (3) | 宗教学(4)探索(2)朝鮮語 | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Unfamiliar stone statue](docs/Quests/Adventure/2001-3000/quest_2699.md)** | Adventure quest (3) | 宗教学(4)探索(2)朝鮮語 | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Land of our forefathers](Quests/Adventure/quest_5690.md)** | Adventure quest (4) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 197,000 / Advance payment: 10,000 Experience: 210 / Fame: 120 |
+| **[Land of our forefathers](docs/Quests/Adventure/5001-6000/quest_5690.md)** | Adventure quest (4) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 197,000 / Advance payment: 10,000 Experience: 210 / Fame: 120 |

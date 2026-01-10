@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Human-like animal](Quests/Adventure/quest_2600.md)** | Adventure quest (4) | 探索(3)美術(5)日本語(1) | Reward: 106,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[Human-like animal](docs/Quests/Adventure/2001-3000/quest_2600.md)** | Adventure quest (4) | 探索(3)美術(5)日本語(1) | Reward: 106,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

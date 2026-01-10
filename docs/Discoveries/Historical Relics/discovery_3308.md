@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient tombs](Quests/Other/quest_6161.md)** | Archeology(12) | Exploration(12)Archaeology(12) | Experience：650 |
+| **[Map of ancient tombs](docs/Quests/Other/6001-7000/quest_6161.md)** | Archeology(12) | Exploration(12)Archaeology(12) | Experience：650 |

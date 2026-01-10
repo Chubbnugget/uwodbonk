@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Father's Lute](Quests/Adventure/quest_3420.md)** | Adventure quest (6) 16th century 4th period | Exploration (5) Treasures Appraisal (7) Italian | Reward: 219,000/ Advance: 20,000Experience: 260/ Fame: 110 |
+| **[Father's Lute](docs/Quests/Adventure/3001-4000/quest_3420.md)** | Adventure quest (6) 16th century 4th period | Exploration (5) Treasures Appraisal (7) Italian | Reward: 219,000/ Advance: 20,000Experience: 260/ Fame: 110 |

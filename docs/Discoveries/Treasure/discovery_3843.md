@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Turquoise Mask](Quests/Other/quest_6815.md)** | Pursuit quest (10) | Exploration(13)TreasuresAppraisal(15)Spanish(1) | Reward: 359,000 / Advance payment: 0Experience: 620 |
+| **[Additional investigation of Turquoise Mask](docs/Quests/Other/6001-7000/quest_6815.md)** | Pursuit quest (10) | Exploration(13)TreasuresAppraisal(15)Spanish(1) | Reward: 359,000 / Advance payment: 0Experience: 620 |

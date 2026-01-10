@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Southern Milky Way](Quests/Adventure/quest_4838.md)** | Adventure Quest (3) Mythology Era | Astronomy (3) Visualization (1) Swahili (1) | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Southern Milky Way](docs/Quests/Adventure/4001-5000/quest_4838.md)** | Adventure Quest (3) Mythology Era | Astronomy (3) Visualization (1) Swahili (1) | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 70 |

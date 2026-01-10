@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Foundation of Jurisprudence](Quests/Adventure/quest_974.md)** | Adventure quest (5) | Exploration (2) Treasures Appraisal (4) Greek | Reward: 46,000 / Advance payment: 0Experience: 180 / Fame: 75 |
+| **[Foundation of Jurisprudence](docs/Quests/Adventure/1-1000/quest_974.md)** | Adventure quest (5) | Exploration (2) Treasures Appraisal (4) Greek | Reward: 46,000 / Advance payment: 0Experience: 180 / Fame: 75 |

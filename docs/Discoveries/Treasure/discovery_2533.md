@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red Hair Castle (Hidden Upper Room)](Quests/Other/quest_4826.md)** | Dungeon (5) | - |  |
+| **[Red Hair Castle (Hidden Upper Room)](docs/Quests/Other/4001-5000/quest_4826.md)** | Dungeon (5) | - |  |

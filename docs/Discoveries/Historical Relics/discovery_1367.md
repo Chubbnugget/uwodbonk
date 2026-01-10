@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Royal Crest](Quests/Adventure/quest_361.md)** | Adventure Quest (8) B.C. | Exploration (8) Archeology (10) Lockpicking (8) Greek | Reward: 260,000 / Advance payment: 20,000 Experience: 200 / Fame: 100 |
+| **[Royal Crest](docs/Quests/Adventure/1-1000/quest_361.md)** | Adventure Quest (8) B.C. | Exploration (8) Archeology (10) Lockpicking (8) Greek | Reward: 260,000 / Advance payment: 20,000 Experience: 200 / Fame: 100 |

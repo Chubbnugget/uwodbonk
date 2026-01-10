@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rhodes Merchant Ship](Quests/Other/quest_6475.md)** | Legacy(1) | - | Experience：2,250 |
+| **[Rhodes Merchant Ship](docs/Quests/Other/6001-7000/quest_6475.md)** | Legacy(1) | - | Experience：2,250 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Festival dedicated to Zeus](Quests/Adventure/quest_183.md)** | Adventure Quest (3) B.C. | Archeology (1) Visualization (1) Greek | Reward: 15,000Experience: 130/ Fame: 72 |
+| **[Festival dedicated to Zeus](docs/Quests/Adventure/1-1000/quest_183.md)** | Adventure Quest (3) B.C. | Archeology (1) Visualization (1) Greek | Reward: 15,000Experience: 130/ Fame: 72 |

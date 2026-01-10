@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Volcanic debris](Quests/Other/quest_5718.md)** | Weather/phenomena (1) | Visual recognition | Experience：320 |
+| **[Volcanic debris](docs/Quests/Other/5001-6000/quest_5718.md)** | Weather/phenomena (1) | Visual recognition | Experience：320 |

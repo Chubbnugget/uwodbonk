@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dangerous Biology of Waterside](Quests/Adventure/quest_2139.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Arabic | Reward: 71,000 / Advance payment: 0Experience: 130 |
-| **[What lurks in the area where the canal opens](Quests/Other/quest_2038.md)** | Imperial command quest (5) | Ecological research (3) Biology (5) |  |
+| **[Dangerous Biology of Waterside](docs/Quests/Adventure/2001-3000/quest_2139.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Arabic | Reward: 71,000 / Advance payment: 0Experience: 130 |
+| **[What lurks in the area where the canal opens](docs/Quests/Other/2001-3000/quest_2038.md)** | Imperial command quest (5) | Ecological research (3) Biology (5) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ruins of the Eastern Zheng Emperor](Quests/Adventure/quest_6680.md)** | Adventure quest (7) | Archeology (10) Visualization (8) French | Reward: 214,300 / Advance payment: 20,000 Experience: 240 / Fame: 105 |
+| **[Ruins of the Eastern Zheng Emperor](docs/Quests/Adventure/6001-7000/quest_6680.md)** | Adventure quest (7) | Archeology (10) Visualization (8) French | Reward: 214,300 / Advance payment: 20,000 Experience: 240 / Fame: 105 |

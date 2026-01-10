@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Symbol of authority](Quests/Adventure/quest_476.md)** | Adventure quest (5) | Exploration (3) Treasures Appraisal (5) Unlocking (3) | Reward: 2,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Symbol of authority](docs/Quests/Adventure/1-1000/quest_476.md)** | Adventure quest (5) | Exploration (3) Treasures Appraisal (5) Unlocking (3) | Reward: 2,000 / Advance payment: 0Experience: 140 / Fame: 65 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Another name for Noah](Quests/Adventure/quest_3382.md)** | Adventure Quest (6) Mythology Era | Exploration (11) Archeology (13) Unlocking (11) | Reward: 212,000 / Advance payment: 20,000 Experience: 350 / Fame: 150 |
+| **[Another name for Noah](docs/Quests/Adventure/3001-4000/quest_3382.md)** | Adventure Quest (6) Mythology Era | Exploration (11) Archeology (13) Unlocking (11) | Reward: 212,000 / Advance payment: 20,000 Experience: 350 / Fame: 150 |

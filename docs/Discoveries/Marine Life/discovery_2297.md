@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Angel of the Ice Sea](Quests/Adventure/quest_3677.md)** | Adventure quest (9) 18th century third period | Ecological Survey (11) Biology (13) Norse | Reward: 583,000 / Advance payment: 50,000 Experience: 560 / Fame: 450 |
+| **[Angel of the Ice Sea](docs/Quests/Adventure/3001-4000/quest_3677.md)** | Adventure quest (9) 18th century third period | Ecological Survey (11) Biology (13) Norse | Reward: 583,000 / Advance payment: 50,000 Experience: 560 / Fame: 450 |

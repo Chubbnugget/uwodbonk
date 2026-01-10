@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | rope of punishment |
 | **Type** | thing |
-| **Group** | [Consumables](Categories/category_21.md) |
-| **Sold by NPC** | [peddler](NPCs/npc_32.md) |
+| **Group** | [Consumables](docs/Categories/category_21.md) |
+| **Sold by NPC** | [peddler](docs/NPCs/npc_32.md) |
 | **Description** | A rope that can be used to calm down fights among sailors. Effect when used: Resolves fights |
 | **Last Updated** | 2005-03-22 00:13:18 Phone@Administrator |
 

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Persian Sphinx](Quests/Other/quest_6408.md)** | Legacy(1) | - |  |
+| **[Persian Sphinx](docs/Quests/Other/6001-7000/quest_6408.md)** | Legacy(1) | - |  |

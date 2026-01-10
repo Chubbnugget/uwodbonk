@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Recovering the masterpiece](Quests/Adventure/quest_2498.md)** | Adventure Quest (5) 15th Century 5th Period | 探索(5)美術(7)日本語(1) | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Recovering the masterpiece](docs/Quests/Adventure/2001-3000/quest_2498.md)** | Adventure Quest (5) 15th Century 5th Period | 探索(5)美術(7)日本語(1) | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |

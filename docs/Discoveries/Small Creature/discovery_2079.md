@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Forbidden Strawberry](Quests/Adventure/quest_455.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Spanish | Reward: 190,000 / Advance payment: 0Experience: 320 / Fame: 120 |
+| **[Forbidden Strawberry](docs/Quests/Adventure/1-1000/quest_455.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Spanish | Reward: 190,000 / Advance payment: 0Experience: 320 / Fame: 120 |

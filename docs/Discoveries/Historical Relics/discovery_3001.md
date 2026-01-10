@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sea Tea Party](Quests/Adventure/quest_5712.md)** | Adventure Quest (10) 18th Century Third Period | Exploration (15) Archeology (17) North American Languages ​​(1) | Reward: 294,000 / Advance payment: 20,000 Experience: 270 / Fame: 160 |
+| **[Sea Tea Party](docs/Quests/Adventure/5001-6000/quest_5712.md)** | Adventure Quest (10) 18th Century Third Period | Exploration (15) Archeology (17) North American Languages ​​(1) | Reward: 294,000 / Advance payment: 20,000 Experience: 270 / Fame: 160 |

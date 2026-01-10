@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Shrubs ruled by the goddess](Quests/Adventure/quest_3583.md)** | Adventure quest (5) | Ecological research (3) Biology (5) Oceanian languages | Reward: 344,000 / Advance payment: 30,000 Experience: 360 / Fame: 300 |
+| **[Shrubs ruled by the goddess](docs/Quests/Adventure/3001-4000/quest_3583.md)** | Adventure quest (5) | Ecological research (3) Biology (5) Oceanian languages | Reward: 344,000 / Advance payment: 30,000 Experience: 360 / Fame: 300 |

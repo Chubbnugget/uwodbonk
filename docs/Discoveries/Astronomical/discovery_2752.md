@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Scattered Stars in Tateta](Quests/Other/quest_5349.md)** | Celestial Object Discovery Name(11)17th Century Issue 4 | Astronomy(11)Visualization(11) | Experience：930 |
+| **[Scattered Stars in Tateta](docs/Quests/Other/5001-6000/quest_5349.md)** | Celestial Object Discovery Name(11)17th Century Issue 4 | Astronomy(11)Visualization(11) | Experience：930 |

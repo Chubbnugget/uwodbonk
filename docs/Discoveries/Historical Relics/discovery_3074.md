@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Man in Ice](Quests/Adventure/quest_5783.md)** | Adventure Quest (10) B.C. | Exploration (15) Archeology (17) Spanish | Reward: 317,000 / Advance payment: 30,000 Experience: 290 / Fame: 170 |
+| **[Man in Ice](docs/Quests/Adventure/5001-6000/quest_5783.md)** | Adventure Quest (10) B.C. | Exploration (15) Archeology (17) Spanish | Reward: 317,000 / Advance payment: 30,000 Experience: 290 / Fame: 170 |

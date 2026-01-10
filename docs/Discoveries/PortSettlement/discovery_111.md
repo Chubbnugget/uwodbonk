@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Palemban](Quests/Other/quest_5121.md)** | Port/village (1) | - |  |
+| **[Palemban](docs/Quests/Other/5001-6000/quest_5121.md)** | Port/village (1) | - |  |

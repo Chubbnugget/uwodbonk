@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars flower map](Quests/Other/quest_1956.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：170 |
+| **[Stars flower map](docs/Quests/Other/1001-2000/quest_1956.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：170 |

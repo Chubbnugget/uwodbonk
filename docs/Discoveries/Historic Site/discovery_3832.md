@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[History of the castle walls](Quests/Adventure/quest_6804.md)** | Adventure quest (9) | Archeology (14) Visualization (12) English (1) | Remuneration: 251,000 / Advance payment: 30,000 |
+| **[History of the castle walls](docs/Quests/Adventure/6001-7000/quest_6804.md)** | Adventure quest (9) | Archeology (14) Visualization (12) English (1) | Remuneration: 251,000 / Advance payment: 30,000 |

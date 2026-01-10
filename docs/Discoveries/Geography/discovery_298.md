@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black Forest Island](Quests/Adventure/quest_588.md)** | Adventure quest (5) | Geography (3) Visual recognition (1) Norse (1) | Reward: 24,000 Experience: 130 / Fame: 78 |
+| **[Black Forest Island](docs/Quests/Adventure/1-1000/quest_588.md)** | Adventure quest (5) | Geography (3) Visual recognition (1) Norse (1) | Reward: 24,000 Experience: 130 / Fame: 78 |

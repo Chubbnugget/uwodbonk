@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A pair of guardian beasts](Quests/Adventure/quest_2340.md)** | Adventure quest (3) | Religious Studies(4)Explore(2)Japanese | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[A pair of guardian beasts](docs/Quests/Adventure/2001-3000/quest_2340.md)** | Adventure quest (3) | Religious Studies(4)Explore(2)Japanese | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |

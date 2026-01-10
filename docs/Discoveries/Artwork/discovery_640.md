@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Michelangelo's paintings](Quests/Adventure/quest_297.md)** | Adventure quest (8) 16th century 1st period | Exploration (5) Art (7) Italian | Reward: 80,000 / Advance payment: 0Experience: 230 / Fame: 105 |
+| **[Michelangelo's paintings](docs/Quests/Adventure/1-1000/quest_297.md)** | Adventure quest (8) 16th century 1st period | Exploration (5) Art (7) Italian | Reward: 80,000 / Advance payment: 0Experience: 230 / Fame: 105 |

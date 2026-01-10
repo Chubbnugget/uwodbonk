@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Moon Pillar](Quests/Other/quest_5597.md)** | Weather/phenomena (4) | Visual recognition (8) | Experience：700 |
+| **[Moon Pillar](docs/Quests/Other/5001-6000/quest_5597.md)** | Weather/phenomena (4) | Visual recognition (8) | Experience：700 |

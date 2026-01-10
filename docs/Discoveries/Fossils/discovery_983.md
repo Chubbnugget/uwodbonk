@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Winged Dragon Bone](Quests/Adventure/quest_1043.md)** | Adventure Quest (6) B.C. | Exploration (4) Biology (6) Arabic | Reward: 128,000 / Advance payment: 5,000 Experience: 150 / Fame: 170 |
+| **[Winged Dragon Bone](docs/Quests/Adventure/1001-2000/quest_1043.md)** | Adventure Quest (6) B.C. | Exploration (4) Biology (6) Arabic | Reward: 128,000 / Advance payment: 5,000 Experience: 150 / Fame: 170 |

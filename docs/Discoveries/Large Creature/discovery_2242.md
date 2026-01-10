@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ice Land Bear](Quests/Adventure/quest_3617.md)** | Adventure Quest (5) 18th Century 3rd Period | Ecological research (5) Biology (7) Arctic languages | Reward: 147,000 / Advance payment: 10,000 Experience: 340 / Fame: 145 |
+| **[Ice Land Bear](docs/Quests/Adventure/3001-4000/quest_3617.md)** | Adventure Quest (5) 18th Century 3rd Period | Ecological research (5) Biology (7) Arctic languages | Reward: 147,000 / Advance payment: 10,000 Experience: 340 / Fame: 145 |

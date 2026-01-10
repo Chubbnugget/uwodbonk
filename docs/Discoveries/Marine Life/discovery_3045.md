@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of fish living in the lake](Quests/Other/quest_5758.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Map of fish living in the lake](docs/Quests/Other/5001-6000/quest_5758.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

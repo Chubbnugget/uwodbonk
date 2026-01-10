@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cute weirdo](Quests/Adventure/quest_2263.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Spanish | Reward: 343,000 / Advance payment: 30,000 Experience: 360 / Fame: 150 |
+| **[Cute weirdo](docs/Quests/Adventure/2001-3000/quest_2263.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Spanish | Reward: 343,000 / Advance payment: 30,000 Experience: 360 / Fame: 150 |

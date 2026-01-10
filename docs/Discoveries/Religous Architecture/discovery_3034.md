@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[About the missionary group](Quests/Adventure/quest_5744.md)** | Adventure quest (5) | Religious Studies (8) Visual Recognition (6) Arabic | Reward: 114,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[About the missionary group](docs/Quests/Adventure/5001-6000/quest_5744.md)** | Adventure quest (5) | Religious Studies (8) Visual Recognition (6) Arabic | Reward: 114,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

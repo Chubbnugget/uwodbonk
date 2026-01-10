@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mountains of Ancient Legend](Quests/Adventure/quest_3377.md)** | Adventure quest (7) | Geography (8) Visualization (6) Arabic | Reward: 347,000 / Advance payment: 30,000 Experience: 360 / Fame: 150 |
+| **[Mountains of Ancient Legend](docs/Quests/Adventure/3001-4000/quest_3377.md)** | Adventure quest (7) | Geography (8) Visualization (6) Arabic | Reward: 347,000 / Advance payment: 30,000 Experience: 360 / Fame: 150 |

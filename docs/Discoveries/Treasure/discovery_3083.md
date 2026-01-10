@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Chinese famous book](Quests/Adventure/quest_5818.md)** | Adventure quest (10) | 探索(15)Treasures鑑定(17)中国語 | Reward: 446,000/ Advance: 40,000Experience: 370/ Fame: 225 |
+| **[Chinese famous book](docs/Quests/Adventure/5001-6000/quest_5818.md)** | Adventure quest (10) | 探索(15)Treasures鑑定(17)中国語 | Reward: 446,000/ Advance: 40,000Experience: 370/ Fame: 225 |

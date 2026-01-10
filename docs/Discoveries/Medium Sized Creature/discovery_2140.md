@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Long-tailed monkey map](Quests/Other/quest_2516.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |
+| **[Long-tailed monkey map](docs/Quests/Other/2001-3000/quest_2516.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |

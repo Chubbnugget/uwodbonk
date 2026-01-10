@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of astronomical records](Quests/Other/quest_6979.md)** | Archeology(13) | Exploration(13)Archaeology(13) | Reward: 500 |
+| **[Map of astronomical records](docs/Quests/Other/6001-7000/quest_6979.md)** | Archeology(13) | Exploration(13)Archaeology(13) | Reward: 500 |

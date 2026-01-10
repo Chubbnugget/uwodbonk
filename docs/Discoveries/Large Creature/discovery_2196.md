@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Those who live in the sacred river](Quests/Adventure/quest_727.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Indian languages | Reward: 95,000 / Advance payment: 0 Experience: 160 / Fame: 75 |
+| **[Those who live in the sacred river](docs/Quests/Adventure/1-1000/quest_727.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Indian languages | Reward: 95,000 / Advance payment: 0 Experience: 160 / Fame: 75 |

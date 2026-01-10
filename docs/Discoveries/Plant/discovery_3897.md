@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of leafless flowers](Quests/Other/quest_6884.md)** | Pursuit quest (10) | Ecological research (13) Biology (15) Mayan languages ​​(1) | Remuneration: 600,000/Advance payment: 0 |
+| **[Additional investigation of leafless flowers](docs/Quests/Other/6001-7000/quest_6884.md)** | Pursuit quest (10) | Ecological research (13) Biology (15) Mayan languages ​​(1) | Remuneration: 600,000/Advance payment: 0 |

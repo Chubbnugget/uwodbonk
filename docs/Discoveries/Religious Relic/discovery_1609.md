@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unusual shaped relic](Quests/Adventure/quest_2821.md)** | Adventure quest (4) | Religious Studies (5) Exploration (3) Unlocking (3) | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Unusual shaped relic](docs/Quests/Adventure/2001-3000/quest_2821.md)** | Adventure quest (4) | Religious Studies (5) Exploration (3) Unlocking (3) | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |

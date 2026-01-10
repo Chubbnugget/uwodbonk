@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient civilization of North China](Quests/Adventure/quest_2883.md)** | Adventure quest (5) | Geography (7) Visual recognition (5) Chinese | Reward: 164,000/ Advance: 10,000 Experience: 210/ Fame: 95 |
+| **[Ancient civilization of North China](docs/Quests/Adventure/2001-3000/quest_2883.md)** | Adventure quest (5) | Geography (7) Visual recognition (5) Chinese | Reward: 164,000/ Advance: 10,000 Experience: 210/ Fame: 95 |

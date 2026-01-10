@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cornerstone Inscription](Quests/Other/quest_6347.md)** | Treasure hunting (6) | Exploration (6) Archeology (8) Arabic (1) | Reward: 75,000/ Advance payment: 0 |
+| **[Cornerstone Inscription](docs/Quests/Other/6001-7000/quest_6347.md)** | Treasure hunting (6) | Exploration (6) Archeology (8) Arabic (1) | Reward: 75,000/ Advance payment: 0 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of the mountaintop ruins](Quests/Other/quest_6463.md)** | Pursuit quest (4) | Religious Studies (14) Visualization (12) Nahuatl (1) | Remuneration: 250,000/Advance payment: 0 |
+| **[Additional investigation of the mountaintop ruins](docs/Quests/Other/6001-7000/quest_6463.md)** | Pursuit quest (4) | Religious Studies (14) Visualization (12) Nahuatl (1) | Remuneration: 250,000/Advance payment: 0 |

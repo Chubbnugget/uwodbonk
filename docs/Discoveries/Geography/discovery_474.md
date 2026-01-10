@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rose Lake](Quests/Adventure/quest_3252.md)** | Adventure quest (7) | Geography (7) Visualization (5) Portuguese | Reward: 148,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[Rose Lake](docs/Quests/Adventure/3001-4000/quest_3252.md)** | Adventure quest (7) | Geography (7) Visualization (5) Portuguese | Reward: 148,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

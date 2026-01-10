@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue of Tyrant Nero](Quests/Adventure/quest_982.md)** | Adventure quest (3) | Exploration (1) Archeology (1) Italian | Reward: 5,000 / Advance payment: 0Experience: 208 / Fame: 104 |
+| **[Statue of Tyrant Nero](docs/Quests/Adventure/1-1000/quest_982.md)** | Adventure quest (3) | Exploration (1) Archeology (1) Italian | Reward: 5,000 / Advance payment: 0Experience: 208 / Fame: 104 |

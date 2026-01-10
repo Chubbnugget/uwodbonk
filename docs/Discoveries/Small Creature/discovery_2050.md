@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Prickly Mouse](Quests/Adventure/quest_217.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Portuguese | Reward: 32,000 / Advance payment: 0Experience: 130 / Fame: 65 |
-| **[Thorny Biology Investigation](Quests/Adventure/quest_6006.md)** | Adventure quest (3) | Ecological research (1) Biology (3) Portuguese | Reward: 34,000Experience: 170/ Fame: 140 |
+| **[Prickly Mouse](docs/Quests/Adventure/1-1000/quest_217.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Portuguese | Reward: 32,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Thorny Biology Investigation](docs/Quests/Adventure/6001-7000/quest_6006.md)** | Adventure quest (3) | Ecological research (1) Biology (3) Portuguese | Reward: 34,000Experience: 170/ Fame: 140 |

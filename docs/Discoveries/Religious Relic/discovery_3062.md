@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Saint's body](Quests/Adventure/quest_5792.md)** | Adventure quest (10) | Religious Studies (17) Exploration (15) Arabic (1) | Reward: 476,000 / Advance payment: 40,000 Experience: 380 / Fame: 235 |
+| **[Saint's body](docs/Quests/Adventure/5001-6000/quest_5792.md)** | Adventure quest (10) | Religious Studies (17) Exploration (15) Arabic (1) | Reward: 476,000 / Advance payment: 40,000 Experience: 380 / Fame: 235 |

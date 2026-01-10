@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[God sleeping in the Aztec underworld](Quests/Adventure/quest_1936.md)** | Adventure Quest (6) Mythology Era | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 110,000 / Advance payment: 10,000 Experience: 170 / Fame: 75 |
+| **[God sleeping in the Aztec underworld](docs/Quests/Adventure/1001-2000/quest_1936.md)** | Adventure Quest (6) Mythology Era | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 110,000 / Advance payment: 10,000 Experience: 170 / Fame: 75 |

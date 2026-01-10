@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Animal painting map](Quests/Other/quest_2839.md)** | 美術(4) | 探索(4)美術(4) |  |
+| **[Animal painting map](docs/Quests/Other/2001-3000/quest_2839.md)** | 美術(4) | 探索(4)美術(4) |  |

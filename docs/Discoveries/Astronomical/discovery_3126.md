@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sea snake and water snake](Quests/Adventure/quest_5866.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) French | Reward: 181,000 / Advance payment: 10,000 Experience: 200 / Fame: 115 |
+| **[Sea snake and water snake](docs/Quests/Adventure/5001-6000/quest_5866.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) French | Reward: 181,000 / Advance payment: 10,000 Experience: 200 / Fame: 115 |

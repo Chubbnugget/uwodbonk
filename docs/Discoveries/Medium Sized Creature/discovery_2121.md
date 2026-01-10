@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black Hair Biology](Quests/Adventure/quest_591.md)** | Adventure quest (4) | Ecological research (2) Biology (4) Swahili | Reward: 67,000 / Advance payment: 0Experience: 180 / Fame: 70 |
+| **[Black Hair Biology](docs/Quests/Adventure/1-1000/quest_591.md)** | Adventure quest (4) | Ecological research (2) Biology (4) Swahili | Reward: 67,000 / Advance payment: 0Experience: 180 / Fame: 70 |

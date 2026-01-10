@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Old Testament anecdote source](Quests/Adventure/quest_3384.md)** | Adventure quest (5) | Archeology (11) Visualization (9) Arabic | Reward: 720,000 / Advance payment: 70,000 Experience: 670 / Fame: 270 |
+| **[Old Testament anecdote source](docs/Quests/Adventure/3001-4000/quest_3384.md)** | Adventure quest (5) | Archeology (11) Visualization (9) Arabic | Reward: 720,000 / Advance payment: 70,000 Experience: 670 / Fame: 270 |

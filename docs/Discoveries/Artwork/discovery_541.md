@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of the Girl Statue Pillar](Quests/Other/quest_663.md)** | 美術(4) | 探索(4)美術(4) |  |
+| **[Map of the Girl Statue Pillar](docs/Quests/Other/1-1000/quest_663.md)** | 美術(4) | 探索(4)美術(4) |  |

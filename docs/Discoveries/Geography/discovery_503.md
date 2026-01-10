@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ice Sea World](Quests/Adventure/quest_3614.md)** | Adventure Quest (5) 18th Century 3rd Period | Geography (5) Visual recognition (3) | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Ice Sea World](docs/Quests/Adventure/3001-4000/quest_3614.md)** | Adventure Quest (5) 18th Century 3rd Period | Geography (5) Visual recognition (3) | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |

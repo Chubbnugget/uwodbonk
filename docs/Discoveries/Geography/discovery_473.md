@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Aim for the southwest end](Quests/Adventure/quest_1652.md)** | Adventure quest (6) | Geography (7) Visual recognition (5) Oceanian languages | Reward: 258,000 / Advance payment: 20,000 Experience: 440 / Fame: 150 |
+| **[Aim for the southwest end](docs/Quests/Adventure/1001-2000/quest_1652.md)** | Adventure quest (6) | Geography (7) Visual recognition (5) Oceanian languages | Reward: 258,000 / Advance payment: 20,000 Experience: 440 / Fame: 150 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Buddha with a musical instrument](Quests/Adventure/quest_6713.md)** | Adventure quest (7) | Religious Studies (10) Exploration (8) Indian Languages ​​(1) | Reward: 218,500/Advance payment: 20,000Experience: 913 |
+| **[Buddha with a musical instrument](docs/Quests/Adventure/6001-7000/quest_6713.md)** | Adventure quest (7) | Religious Studies (10) Exploration (8) Indian Languages ​​(1) | Reward: 218,500/Advance payment: 20,000Experience: 913 |

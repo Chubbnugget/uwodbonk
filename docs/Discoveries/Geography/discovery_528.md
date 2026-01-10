@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Seeking immortality](Quests/Adventure/quest_2882.md)** | Adventure quest (6) | Geography (7) Visual recognition (5) Chinese | Reward: 121,000/ Advance: 10,000 Experience: 190/ Fame: 90 |
+| **[Seeking immortality](docs/Quests/Adventure/2001-3000/quest_2882.md)** | Adventure quest (6) | Geography (7) Visual recognition (5) Chinese | Reward: 121,000/ Advance: 10,000 Experience: 190/ Fame: 90 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of red-faced bird](Quests/Other/quest_6988.md)** | Pursuit quest (5) | Ecological research (4) Biology (6) Japanese (1) | Remuneration: 150,000/Advance payment: 0 |
+| **[Additional investigation of red-faced bird](docs/Quests/Other/6001-7000/quest_6988.md)** | Pursuit quest (5) | Ecological research (4) Biology (6) Japanese (1) | Remuneration: 150,000/Advance payment: 0 |

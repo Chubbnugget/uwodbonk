@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Katakakefucho](Quests/Other/quest_6757.md)** | Pursuit quest (7) | Ecological research (8) Biology (10) Quechua language (1) | Reward: 998,000 / Advance payment: 0Experience: 920 |
+| **[Additional investigation of Katakakefucho](docs/Quests/Other/6001-7000/quest_6757.md)** | Pursuit quest (7) | Ecological research (8) Biology (10) Quechua language (1) | Reward: 998,000 / Advance payment: 0Experience: 920 |

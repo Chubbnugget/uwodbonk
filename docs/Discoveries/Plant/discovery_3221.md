@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of plants of East Asia](Quests/Other/quest_6035.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：140 |
+| **[Map of plants of East Asia](docs/Quests/Other/6001-7000/quest_6035.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：140 |

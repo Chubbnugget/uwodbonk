@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Narrow Sea of ​​Rise and Fall](Quests/Adventure/quest_1794.md)** | Adventure Quest (6) 15th Century 3rd Period | Geography (7) Visualization (5) Greek | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Narrow Sea of ​​Rise and Fall](docs/Quests/Adventure/1001-2000/quest_1794.md)** | Adventure Quest (6) 15th Century 3rd Period | Geography (7) Visualization (5) Greek | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |

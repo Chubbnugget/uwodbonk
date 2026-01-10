@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Boiling Sea](Quests/Adventure/quest_2234.md)** | Adventure quest (2) | Geography (3) Visual recognition (1) Malayu Tagalog | Reward: 111,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Boiling Sea](docs/Quests/Adventure/2001-3000/quest_2234.md)** | Adventure quest (2) | Geography (3) Visual recognition (1) Malayu Tagalog | Reward: 111,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

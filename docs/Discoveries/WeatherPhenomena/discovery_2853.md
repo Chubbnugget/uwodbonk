@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[環水平アーク](Quests/Other/quest_5533.md)** | Weather/phenomena (4) | Visual recognition (9) | Experience：760 |
+| **[環水平アーク](docs/Quests/Other/5001-6000/quest_5533.md)** | Weather/phenomena (4) | Visual recognition (9) | Experience：760 |

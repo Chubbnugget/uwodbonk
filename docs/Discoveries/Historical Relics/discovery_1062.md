@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bad wife and demon mother](Quests/Adventure/quest_334.md)** | Adventure quest (6) | Exploration (4) Archeology (6) Italian | Reward: 112,000 / Advance payment: 0Experience: 255 / Fame: 120 |
+| **[Bad wife and demon mother](docs/Quests/Adventure/1-1000/quest_334.md)** | Adventure quest (6) | Exploration (4) Archeology (6) Italian | Reward: 112,000 / Advance payment: 0Experience: 255 / Fame: 120 |

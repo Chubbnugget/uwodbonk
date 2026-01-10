@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Faith in the mountains](Quests/Adventure/quest_2357.md)** | Adventure quest (5) | Religious Studies(5)Explore(3)Japanese | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Faith in the mountains](docs/Quests/Adventure/2001-3000/quest_2357.md)** | Adventure quest (5) | Religious Studies(5)Explore(3)Japanese | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 65 |

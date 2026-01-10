@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Witte Leo](Quests/Other/quest_1939.md)** | Sunken ship(7) | Salvage visibility (5) |  |
+| **[Witte Leo](docs/Quests/Other/1001-2000/quest_1939.md)** | Sunken ship(7) | Salvage visibility (5) |  |

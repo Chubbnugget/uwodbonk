@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Nagasaki](Quests/Other/quest_5196.md)** | Port/village (1) | - |  |
+| **[Nagasaki](docs/Quests/Other/5001-6000/quest_5196.md)** | Port/village (1) | - |  |

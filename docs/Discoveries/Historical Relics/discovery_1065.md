@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The man who built Baghdad](Quests/Adventure/quest_240.md)** | Adventure quest (6) | Exploration (3) Archeology (5) Unlocking (3) | Reward: 2,000 / Advance payment: 0Experience: 140 / Fame: 75 |
+| **[The man who built Baghdad](docs/Quests/Adventure/1-1000/quest_240.md)** | Adventure quest (6) | Exploration (3) Archeology (5) Unlocking (3) | Reward: 2,000 / Advance payment: 0Experience: 140 / Fame: 75 |

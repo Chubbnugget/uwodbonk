@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Learn about the monk named Saicho](Quests/Adventure/quest_2485.md)** | Adventure quest (4) | Religious Studies(6)Explore(4)Japanese | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Learn about the monk named Saicho](docs/Quests/Adventure/2001-3000/quest_2485.md)** | Adventure quest (4) | Religious Studies(6)Explore(4)Japanese | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |

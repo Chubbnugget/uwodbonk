@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Coins that influenced later generations](Quests/Adventure/quest_6887.md)** | Adventure quest (7) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 488,000/Advance payment: 70,000Experience: 195 |
+| **[Coins that influenced later generations](docs/Quests/Adventure/6001-7000/quest_6887.md)** | Adventure quest (7) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 488,000/Advance payment: 70,000Experience: 195 |

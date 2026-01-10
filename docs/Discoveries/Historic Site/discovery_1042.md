@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Roman city ruins](Quests/Adventure/quest_553.md)** | Adventure quest (3) | Archeology (1) Visualization (1) Spanish | Reward: 20,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Ancient Roman city ruins](docs/Quests/Adventure/1-1000/quest_553.md)** | Adventure quest (3) | Archeology (1) Visualization (1) Spanish | Reward: 20,000 / Advance payment: 0Experience: 130 / Fame: 65 |

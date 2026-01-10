@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fireball](Quests/Other/quest_5539.md)** | Weather/phenomena (2) | Visual recognition (5) | Experience：330 |
+| **[Fireball](docs/Quests/Other/5001-6000/quest_5539.md)** | Weather/phenomena (2) | Visual recognition (5) | Experience：330 |

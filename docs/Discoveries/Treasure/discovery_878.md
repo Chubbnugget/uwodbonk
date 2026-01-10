@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Where I will return someday](Quests/Adventure/quest_2858.md)** | Adventure quest (10) | Exploration (11) Treasures Appraisal (13) Unlocking (11) Chinese | Reward: 378,000 / Advance payment: 20,000 Experience: 280 / Fame: 120 |
+| **[Where I will return someday](docs/Quests/Adventure/2001-3000/quest_2858.md)** | Adventure quest (10) | Exploration (11) Treasures Appraisal (13) Unlocking (11) Chinese | Reward: 378,000 / Advance payment: 20,000 Experience: 280 / Fame: 120 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Surubi](Quests/Other/quest_5394.md)** | Fishing (1) | fishing | Experience：530 |
+| **[Surubi](docs/Quests/Other/5001-6000/quest_5394.md)** | Fishing (1) | fishing | Experience：530 |

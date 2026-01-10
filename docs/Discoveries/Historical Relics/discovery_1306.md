@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore of those who cannot die](Quests/Adventure/quest_3642.md)** | Adventure Quest (5) 18th Century 3rd Period | Exploration (4) Archeology (6) Unlocking (4) | Reward: 248,000 / Advance payment: 20,000 Experience: 280 / Fame: 120 |
+| **[Lore of those who cannot die](docs/Quests/Adventure/3001-4000/quest_3642.md)** | Adventure Quest (5) 18th Century 3rd Period | Exploration (4) Archeology (6) Unlocking (4) | Reward: 248,000 / Advance payment: 20,000 Experience: 280 / Fame: 120 |

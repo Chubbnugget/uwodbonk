@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | linen petticoat |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 8,300 |
 | **Description** | Women's jackets and skirts made from high-quality flax fabric. *6 colors Gender restrictions Female Durability 30 Formal wear 5 Defense 4 Total required fame 300 |

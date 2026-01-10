@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red Falls](Quests/Adventure/quest_3887.md)** | Adventure quest (9) 19th century | Geography (13) Visual recognition (11) North American languages | Reward: 206,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |
+| **[Red Falls](docs/Quests/Adventure/3001-4000/quest_3887.md)** | Adventure quest (9) 19th century | Geography (13) Visual recognition (11) North American languages | Reward: 206,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |

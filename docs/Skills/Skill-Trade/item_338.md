@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Industrial goods trading |
 | **Type** | thing |
-| **Group** | [Skill (Trade)](Categories/category_40.md) |
-| **Sold by NPC** | [Wealthy merchant](NPCs/npc_35.md) |
+| **Group** | [Skill (Trade)](docs/Categories/category_40.md) |
+| **Sold by NPC** | [Wealthy merchant](docs/NPCs/npc_35.md) |
 | **Purchase Price** | 15,000 |
 | **Description** | You can purchase more industrial goods at the trading post. Learning conditions 0/7/0/total 0 Prerequisite skills Ore trading (2) |
 | **Last Updated** | 2010-09-08 12:52:34 Passing navigator @guest |

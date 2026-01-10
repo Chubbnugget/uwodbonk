@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cotton Castle](Quests/Adventure/quest_6917.md)** | Adventure quest (8) | Archeology (12) Visualization (10) Turkish (1) | Reward: 30,600/Advance payment: 30,000Experience: 490 |
+| **[Cotton Castle](docs/Quests/Adventure/6001-7000/quest_6917.md)** | Adventure quest (8) | Archeology (12) Visualization (10) Turkish (1) | Reward: 30,600/Advance payment: 30,000Experience: 490 |

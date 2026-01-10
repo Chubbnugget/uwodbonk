@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Long and Slender Fish Map](Quests/Other/quest_5352.md)** | Biology学(14) | Ecological Survey(14)Biology(14) |  |
+| **[Long and Slender Fish Map](docs/Quests/Other/5001-6000/quest_5352.md)** | Biology学(14) | Ecological Survey(14)Biology(14) |  |

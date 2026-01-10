@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Aurora](Quests/Other/quest_5596.md)** | Weather/phenomena (2) | Visual recognition (3) |  |
+| **[Aurora](docs/Quests/Other/5001-6000/quest_5596.md)** | Weather/phenomena (2) | Visual recognition (3) |  |

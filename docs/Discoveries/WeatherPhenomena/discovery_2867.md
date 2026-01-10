@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Haro](Quests/Other/quest_5524.md)** | Weather/phenomena (4) | Visual recognition (10) | Experience：740 |
+| **[Haro](docs/Quests/Other/5001-6000/quest_5524.md)** | Weather/phenomena (4) | Visual recognition (10) | Experience：740 |

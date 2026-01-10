@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indian Fighting God](Quests/Adventure/quest_68.md)** | Adventure Quest (6) Mythology Era | Religious Studies (5) Exploration (3) Unlocking (3) | Reward: 78,000 / Advance payment: 0Experience: 160 / Fame: 75 |
+| **[Indian Fighting God](docs/Quests/Adventure/1-1000/quest_68.md)** | Adventure Quest (6) Mythology Era | Religious Studies (5) Exploration (3) Unlocking (3) | Reward: 78,000 / Advance payment: 0Experience: 160 / Fame: 75 |

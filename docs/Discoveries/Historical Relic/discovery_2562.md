@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Small key](Quests/Other/quest_3423.md)** | Treasure hunting (7) | Religious Studies (13) Exploration (11) Turkish | Experience：2,430 |
+| **[Small key](docs/Quests/Other/3001-4000/quest_3423.md)** | Treasure hunting (7) | Religious Studies (13) Exploration (11) Turkish | Experience：2,430 |

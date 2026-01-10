@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Avens](Quests/Other/quest_6707.md)** | Celestial Object Discovery Name(10)16th Century Issue 1 | Astronomy (10) Visualization (10) | Experience：800 |
+| **[Avens](docs/Quests/Other/6001-7000/quest_6707.md)** | Celestial Object Discovery Name(10)16th Century Issue 1 | Astronomy (10) Visualization (10) | Experience：800 |

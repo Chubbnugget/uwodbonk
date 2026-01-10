@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Forest full of gems](Quests/Adventure/quest_6519.md)** | Adventure quest (8) | Ecological research (10) Biology (12) Indian languages | Reward: 509,000 / Advance payment: 50,000 Experience: 410 / Fame: 250 |
+| **[Forest full of gems](docs/Quests/Adventure/6001-7000/quest_6519.md)** | Adventure quest (8) | Ecological research (10) Biology (12) Indian languages | Reward: 509,000 / Advance payment: 50,000 Experience: 410 / Fame: 250 |

@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pharaoh's Accessories](Quests/Adventure/quest_261.md)** | Adventure Quest (5) B.C. | Exploration (2) Archeology (4) Unlocking (2) | Reward: 63,000 / Advance payment: 0Experience: 150 / Fame: 75 |
-| **[Advanced Adventure Course Completion Certification Exam](Quests/Adventure/quest_5992.md)** | Adventure quest (3) | Exploration (2) Archeology (4) Unlocking (2) | Reward: 100,000 Experience: 4,000 / Fame: 2,500 |
+| **[Pharaoh's Accessories](docs/Quests/Adventure/1-1000/quest_261.md)** | Adventure Quest (5) B.C. | Exploration (2) Archeology (4) Unlocking (2) | Reward: 63,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Advanced Adventure Course Completion Certification Exam](docs/Quests/Adventure/5001-6000/quest_5992.md)** | Adventure quest (3) | Exploration (2) Archeology (4) Unlocking (2) | Reward: 100,000 Experience: 4,000 / Fame: 2,500 |

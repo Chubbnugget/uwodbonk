@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of beetles living in the rainforest](Quests/Other/quest_6899.md)** | Biology学(14) | Ecological Survey(14)Biology(14) |  |
+| **[Map of beetles living in the rainforest](docs/Quests/Other/6001-7000/quest_6899.md)** | Biology学(14) | Ecological Survey(14)Biology(14) |  |

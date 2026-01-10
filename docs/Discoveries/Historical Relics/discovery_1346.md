@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lump sleeping in the ground](Quests/Adventure/quest_2350.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Japanese | Reward: 118,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Lump sleeping in the ground](docs/Quests/Adventure/2001-3000/quest_2350.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Japanese | Reward: 118,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

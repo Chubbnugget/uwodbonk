@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gem Cave](Quests/Adventure/quest_5634.md)** | Adventure quest (4) | Geography (7) Visual recognition (5) Italian | Reward: 175,000 / Advance payment: 10,000 Experience: 200 / Fame: 110 |
+| **[Gem Cave](docs/Quests/Adventure/5001-6000/quest_5634.md)** | Adventure quest (4) | Geography (7) Visual recognition (5) Italian | Reward: 175,000 / Advance payment: 10,000 Experience: 200 / Fame: 110 |

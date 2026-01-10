@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Weight Value](Quests/Adventure/quest_5938.md)** | Adventure quest (4) | Ecological Survey (6) Biology (8) Portuguese | Reward: 179,000 / Advance payment: 10,000 Experience: 200 / Fame: 110 |
+| **[Weight Value](docs/Quests/Adventure/5001-6000/quest_5938.md)** | Adventure quest (4) | Ecological Survey (6) Biology (8) Portuguese | Reward: 179,000 / Advance payment: 10,000 Experience: 200 / Fame: 110 |

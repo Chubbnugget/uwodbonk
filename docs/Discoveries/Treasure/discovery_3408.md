@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Meaning of flashy armor](Quests/Adventure/quest_6321.md)** | Adventure quest (6) | 探索(6)Treasures鑑定(8)日本語(1) | Reward: 144,000 / Advance payment: 10,000 Experience: 180 / Fame: 95 |
+| **[Meaning of flashy armor](docs/Quests/Adventure/6001-7000/quest_6321.md)** | Adventure quest (6) | 探索(6)Treasures鑑定(8)日本語(1) | Reward: 144,000 / Advance payment: 10,000 Experience: 180 / Fame: 95 |

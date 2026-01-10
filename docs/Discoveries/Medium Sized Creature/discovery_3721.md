@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lost cat](Quests/Adventure/quest_6672.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Malayu Tagalog | Reward: 233,400 / Advance payment: 20,000 Experience: 250 |
+| **[Lost cat](docs/Quests/Adventure/6001-7000/quest_6672.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Malayu Tagalog | Reward: 233,400 / Advance payment: 20,000 Experience: 250 |

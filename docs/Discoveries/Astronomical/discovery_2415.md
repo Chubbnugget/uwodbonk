@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Island Stars](Quests/Adventure/quest_3922.md)** | Adventure Quest (6) Mythology Era | Astronomy (7) Visual recognition (5) Italian | Reward: 183,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |
+| **[Island Stars](docs/Quests/Adventure/3001-4000/quest_3922.md)** | Adventure Quest (6) Mythology Era | Astronomy (7) Visual recognition (5) Italian | Reward: 183,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |

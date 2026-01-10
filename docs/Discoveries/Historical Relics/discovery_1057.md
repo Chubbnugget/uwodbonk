@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mesoamerican cup map](Quests/Other/quest_1903.md)** | Archeology(6) | Exploration (6) Archeology (6) Unlocking (6) |  |
+| **[Mesoamerican cup map](docs/Quests/Other/1001-2000/quest_1903.md)** | Archeology(6) | Exploration (6) Archeology (6) Unlocking (6) |  |

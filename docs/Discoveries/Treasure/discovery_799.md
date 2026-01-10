@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Epic travelogue](Quests/Adventure/quest_779.md)** | Adventure quest (4) | Exploration (1) Treasures Appraisal (2) Arabic | Reward: 17,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Epic travelogue](docs/Quests/Adventure/1-1000/quest_779.md)** | Adventure quest (4) | Exploration (1) Treasures Appraisal (2) Arabic | Reward: 17,000 / Advance payment: 0Experience: 130 / Fame: 65 |

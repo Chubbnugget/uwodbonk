@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pilapitinga](Quests/Other/quest_1688.md)** | Fishing (2) | Fishing (2) |  |
+| **[Pilapitinga](docs/Quests/Other/1001-2000/quest_1688.md)** | Fishing (2) | Fishing (2) |  |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Galapagos at the East End](Quests/Adventure/quest_2404.md)** | Adventure quest (7) | Geography(8)Biology(5)Visualization(6) | Reward: 400,000 / Advance payment: 40,000 Experience: 410 / Fame: 170 |
+| **[Galapagos at the East End](docs/Quests/Adventure/2001-3000/quest_2404.md)** | Adventure quest (7) | Geography(8)Biology(5)Visualization(6) | Reward: 400,000 / Advance payment: 40,000 Experience: 410 / Fame: 170 |

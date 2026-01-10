@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on traditional musical instruments](Quests/Other/quest_6485.md)** | Pursuit quest (4) | Exploration (12) Treasures Appraisal (14) Arctic Languages ​​(1) | Remuneration: 250,000/Advance payment: 0 |
+| **[Additional research on traditional musical instruments](docs/Quests/Other/6001-7000/quest_6485.md)** | Pursuit quest (4) | Exploration (12) Treasures Appraisal (14) Arctic Languages ​​(1) | Remuneration: 250,000/Advance payment: 0 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of sacred tree](Quests/Other/quest_6580.md)** | Pursuit quest (3) | Ecological research (8) Biology (10) Indian languages | Remuneration: 150,000/Advance payment: 0 |
+| **[Additional investigation of sacred tree](docs/Quests/Other/6001-7000/quest_6580.md)** | Pursuit quest (3) | Ecological research (8) Biology (10) Indian languages | Remuneration: 150,000/Advance payment: 0 |

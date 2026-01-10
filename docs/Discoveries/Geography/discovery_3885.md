@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Coast survey of an island with a volcano](Quests/Adventure/quest_6872.md)** | Adventure quest (6) | Geography (8) Visual recognition (6) Korean (1) | Reward: 284,000/Advance payment: 30,000Experience: 260 |
+| **[Coast survey of an island with a volcano](docs/Quests/Adventure/6001-7000/quest_6872.md)** | Adventure quest (6) | Geography (8) Visual recognition (6) Korean (1) | Reward: 284,000/Advance payment: 30,000Experience: 260 |

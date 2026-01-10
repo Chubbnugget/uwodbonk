@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[New flow of religious paintings](Quests/Adventure/quest_636.md)** | Adventure quest (2) 16th century 4th period | Exploration (1) Art (1) Dutch (1) | Reward: 6,000 / Advance payment: 0Experience: 180 / Fame: 90 |
+| **[New flow of religious paintings](docs/Quests/Adventure/1-1000/quest_636.md)** | Adventure quest (2) 16th century 4th period | Exploration (1) Art (1) Dutch (1) | Reward: 6,000 / Advance payment: 0Experience: 180 / Fame: 90 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Long embankment](Quests/Other/quest_6346.md)** | Treasure hunting (6) | Archeology (8) Visualization (6) Arabic (1) | Reward: 75,000/ Advance payment: 0 |
+| **[Long embankment](docs/Quests/Other/6001-7000/quest_6346.md)** | Treasure hunting (6) | Archeology (8) Visualization (6) Arabic (1) | Reward: 75,000/ Advance payment: 0 |

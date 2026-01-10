@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Place of volcano research](Quests/Adventure/quest_5759.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) French | Reward: 344,000 / Advance payment: 30,000 Experience: 300 / Fame: 180 |
+| **[Place of volcano research](docs/Quests/Adventure/5001-6000/quest_5759.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) French | Reward: 344,000 / Advance payment: 30,000 Experience: 300 / Fame: 180 |

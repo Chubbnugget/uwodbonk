@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Biology that resists poison](Quests/Adventure/quest_2310.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Maya languages ​​(1) | Reward: 145,000 / Advance payment: 10,000 Experience: 190 / Fame: 180 |
-| **[On-site Biology research](Quests/Other/quest_1902.md)** | Imperial command quest (4) | Ecological research (3) Biology (5) |  |
+| **[Biology that resists poison](docs/Quests/Adventure/2001-3000/quest_2310.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Maya languages ​​(1) | Reward: 145,000 / Advance payment: 10,000 Experience: 190 / Fame: 180 |
+| **[On-site Biology research](docs/Quests/Other/1001-2000/quest_1902.md)** | Imperial command quest (4) | Ecological research (3) Biology (5) |  |

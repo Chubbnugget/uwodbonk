@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The road to the “Land of Grapes”](Quests/Adventure/quest_3148.md)** | Adventure quest (8) | Geography (11) Visualization (9) Norse (1) | Reward: 294,000/Advance payment: 20,000Experience: 944 |
+| **[The road to the “Land of Grapes”](docs/Quests/Adventure/3001-4000/quest_3148.md)** | Adventure quest (8) | Geography (11) Visualization (9) Norse (1) | Reward: 294,000/Advance payment: 20,000Experience: 944 |

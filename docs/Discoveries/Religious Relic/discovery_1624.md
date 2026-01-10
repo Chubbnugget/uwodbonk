@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Miraculous Garment](Quests/Adventure/quest_410.md)** | Adventure Quest (6) 16th Century 1st Period | Religious Studies (5) Exploration (3) French | Experience: 255/ Reputation: 120 |
+| **[Miraculous Garment](docs/Quests/Adventure/1-1000/quest_410.md)** | Adventure Quest (6) 16th Century 1st Period | Religious Studies (5) Exploration (3) French | Experience: 255/ Reputation: 120 |

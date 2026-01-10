@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of medium-sized animals similar to squirrels](Quests/Other/quest_5466.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：180 |
+| **[Map of medium-sized animals similar to squirrels](docs/Quests/Other/5001-6000/quest_5466.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：180 |

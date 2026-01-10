@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Siege Tower](Quests/Other/quest_6350.md)** | Treasure hunting (6) | Exploration (6) Archeology (8) Greek (1) | Remuneration: 85,000/Advance payment: 0 |
+| **[Giant Siege Tower](docs/Quests/Other/6001-7000/quest_6350.md)** | Treasure hunting (6) | Exploration (6) Archeology (8) Greek (1) | Remuneration: 85,000/Advance payment: 0 |

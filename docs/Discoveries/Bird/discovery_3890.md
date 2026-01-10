@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of birds with excellent flight ability](Quests/Other/quest_6877.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Map of birds with excellent flight ability](docs/Quests/Other/6001-7000/quest_6877.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

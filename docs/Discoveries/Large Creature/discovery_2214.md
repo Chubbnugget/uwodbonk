@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Deer, cow, horse, and donkey](Quests/Adventure/quest_2880.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Chinese | Reward: 342,000 / Advance payment: 30,000 Experience: 360 / Fame: 150 |
+| **[Deer, cow, horse, and donkey](docs/Quests/Adventure/2001-3000/quest_2880.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Chinese | Reward: 342,000 / Advance payment: 30,000 Experience: 360 / Fame: 150 |

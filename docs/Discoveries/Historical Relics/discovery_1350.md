@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bamboo strip sleeping underground](Quests/Adventure/quest_2822.md)** | Adventure quest (5) | Exploration (4) Archeology (6) Unlocking (4) | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Bamboo strip sleeping underground](docs/Quests/Adventure/2001-3000/quest_2822.md)** | Adventure quest (5) | Exploration (4) Archeology (6) Unlocking (4) | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 65 |

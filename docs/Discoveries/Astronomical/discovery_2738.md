@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars of the Beast](Quests/Adventure/quest_5335.md)** | Adventure quest (7) | Astronomy (4) Religious Studies (5) Visualization (2) | Reward: 114,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[Stars of the Beast](docs/Quests/Adventure/5001-6000/quest_5335.md)** | Adventure quest (7) | Astronomy (4) Religious Studies (5) Visualization (2) | Reward: 114,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

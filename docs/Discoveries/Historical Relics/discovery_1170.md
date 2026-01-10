@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Chained curiosity](Quests/Adventure/quest_2103.md)** | Adventure quest (8) | Exploration (9) Archeology (11) Unlocking (9) | Reward: 2,000 / Advance payment: 0Experience: 180 / Fame: 80 |
+| **[Chained curiosity](docs/Quests/Adventure/2001-3000/quest_2103.md)** | Adventure quest (8) | Exploration (9) Archeology (11) Unlocking (9) | Reward: 2,000 / Advance payment: 0Experience: 180 / Fame: 80 |

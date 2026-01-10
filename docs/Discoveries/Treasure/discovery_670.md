@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Luxury Jewelry Map](Quests/Other/quest_585.md)** | Treasures鑑定(1) | 探索(1)Treasures鑑定(1) |  |
+| **[Luxury Jewelry Map](docs/Quests/Other/1-1000/quest_585.md)** | Treasures鑑定(1) | 探索(1)Treasures鑑定(1) |  |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What you really need](Quests/Adventure/quest_2695.md)** | Adventure quest (7) | 探索(5)考古学(7)朝鮮語 | Reward: 73,000 / Advance payment: 0Experience: 260 / Fame: 65 |
+| **[What you really need](docs/Quests/Adventure/2001-3000/quest_2695.md)** | Adventure quest (7) | 探索(5)考古学(7)朝鮮語 | Reward: 73,000 / Advance payment: 0Experience: 260 / Fame: 65 |

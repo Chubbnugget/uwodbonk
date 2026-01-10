@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Japanese rare musical instruments](Quests/Adventure/quest_6114.md)** | Adventure quest (6) 19th century | 探索(6)Treasures鑑定(8)日本語 | Reward: 437,000 / Advance payment: 40,000 Experience: 360 / Fame: 220 |
+| **[Japanese rare musical instruments](docs/Quests/Adventure/6001-7000/quest_6114.md)** | Adventure quest (6) 19th century | 探索(6)Treasures鑑定(8)日本語 | Reward: 437,000 / Advance payment: 40,000 Experience: 360 / Fame: 220 |

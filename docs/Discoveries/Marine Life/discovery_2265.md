@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Creepy Fish Map](Quests/Other/quest_946.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |
+| **[Creepy Fish Map](docs/Quests/Other/1-1000/quest_946.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |

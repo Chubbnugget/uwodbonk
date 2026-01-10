@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Just the right landmark](Quests/Adventure/quest_5931.md)** | Adventure quest (2) | Geography (3) Visual recognition (1) Portuguese | Reward: 83,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Just the right landmark](docs/Quests/Adventure/5001-6000/quest_5931.md)** | Adventure quest (2) | Geography (3) Visual recognition (1) Portuguese | Reward: 83,000 / Advance payment: 0Experience: 140 / Fame: 70 |

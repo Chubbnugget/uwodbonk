@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Colorful fish map](Quests/Other/quest_105.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |
+| **[Colorful fish map](docs/Quests/Other/1-1000/quest_105.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red Flower Map](Quests/Other/quest_765.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |
+| **[Red Flower Map](docs/Quests/Other/1-1000/quest_765.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indian Popular](Quests/Adventure/quest_5729.md)** | Adventure Quest (10) Mythology Era | Exploration (15) Archeology (17) Indian languages | Reward: 653,000 / Advance payment: 60,000 Experience: 500 / Fame: 310 |
+| **[Indian Popular](docs/Quests/Adventure/5001-6000/quest_5729.md)** | Adventure Quest (10) Mythology Era | Exploration (15) Archeology (17) Indian languages | Reward: 653,000 / Advance payment: 60,000 Experience: 500 / Fame: 310 |

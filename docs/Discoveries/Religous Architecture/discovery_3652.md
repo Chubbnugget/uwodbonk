@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of rock-cut ruins](Quests/Adventure/quest_6595.md)** | Adventure quest (4) | Religious studies (5) Visual recognition (3) Indian languages ​​(1) | Reward: 61,000/ Advance payment: 10,000 Experience: 130/ Fame: 65 |
+| **[Investigation of rock-cut ruins](docs/Quests/Adventure/6001-7000/quest_6595.md)** | Adventure quest (4) | Religious studies (5) Visual recognition (3) Indian languages ​​(1) | Reward: 61,000/ Advance payment: 10,000 Experience: 130/ Fame: 65 |

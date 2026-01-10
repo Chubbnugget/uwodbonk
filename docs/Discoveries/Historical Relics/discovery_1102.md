@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Great Comet Stars](Quests/Adventure/quest_3769.md)** | Adventure quest (4) | Astronomy(1)Exploration(3)Archaeology(5) | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Ancient Great Comet Stars](docs/Quests/Adventure/3001-4000/quest_3769.md)** | Adventure quest (4) | Astronomy(1)Exploration(3)Archaeology(5) | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 65 |

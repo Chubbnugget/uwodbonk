@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[David's Harp](Quests/Other/quest_6731.md)** | Legacy(1) | - |  |
+| **[David's Harp](docs/Quests/Other/6001-7000/quest_6731.md)** | Legacy(1) | - |  |

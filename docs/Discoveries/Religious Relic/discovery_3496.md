@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on Ramayana](Quests/Other/quest_6416.md)** | Pursuit quest (3) | Religious Studies (10) Exploration (8) Mon-Khmer Languages ​​(1) | Reward: 165,000 / Advance payment: 0Experience: 405 |
+| **[Additional research on Ramayana](docs/Quests/Other/6001-7000/quest_6416.md)** | Pursuit quest (3) | Religious Studies (10) Exploration (8) Mon-Khmer Languages ​​(1) | Reward: 165,000 / Advance payment: 0Experience: 405 |

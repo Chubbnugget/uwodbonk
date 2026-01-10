@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of the God of Nature](Quests/Other/quest_6568.md)** | Pursuit quest (3) | Religious Studies (12) Exploration (10) Italian (1) | Reward: 320,000 / Advance payment: 0Experience: 650 |
+| **[Additional investigation of the God of Nature](docs/Quests/Other/6001-7000/quest_6568.md)** | Pursuit quest (3) | Religious Studies (12) Exploration (10) Italian (1) | Reward: 320,000 / Advance payment: 0Experience: 650 |

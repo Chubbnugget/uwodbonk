@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional survey of historical relics on the River Thames](Quests/Other/quest_6551.md)** | Pursuit quest (3) | Exploration (8) Archeology (10) Unlocking (8) | Reward: 180,000 / Advance payment: 0Experience: 320 |
+| **[Additional survey of historical relics on the River Thames](docs/Quests/Other/6001-7000/quest_6551.md)** | Pursuit quest (3) | Exploration (8) Archeology (10) Unlocking (8) | Reward: 180,000 / Advance payment: 0Experience: 320 |

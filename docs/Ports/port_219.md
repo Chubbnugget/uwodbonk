@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 | **Sea Area** | persian gulf |
 | **Required Language** | persian |
 | **Coordinates** | （2300，3825） |
-| **Investment Reward** | [Lot (NO.13)](Items/Consumables/Consumables-Treasure-Chests/item_3021.md) （必要投資額：500,000ドゥカード） |
+| **Investment Reward** | [Lot (NO.13)](docs/Items/Consumables/Consumables-Treasure-Chests/item_3021.md) （必要投資額：500,000ドゥカード） |
 
 ### Available Facilities
 
@@ -42,20 +42,20 @@ A city in the northeast of Bahrain Island, located in the Persian Gulf. Because 
 
 | item | group | purchase price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
-| [olive oil](Items/Trade Goods/TradeGoods-Seasonings/item_48.md) | [交易品（調味料）](Categories/category_4.md) | 289 | (253) |  |
-| [ginger](Items/Trade Goods/TradeGoods-Spices/item_112.md) | [Trading Goods (Spices)](Categories/category_12.md) | 238 | (209) |  |
-| [taffeta](Items/Trade Goods/TradeGoods-Fabrics/item_1001.md) | [交易品（織物）](Categories/category_20.md) | 3,121 | (2,731) |  |
+| [olive oil](docs/Items/TradeGoods/TradeGoods-Seasonings/item_48.md) | [交易品（調味料）](docs/Categories/category_4.md) | 289 | (253) |  |
+| [ginger](docs/Items/TradeGoods/TradeGoods-Spices/item_112.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | 238 | (209) |  |
+| [taffeta](docs/Items/TradeGoods/TradeGoods-Fabrics/item_1001.md) | [交易品（織物）](docs/Categories/category_20.md) | 3,121 | (2,731) |  |
 | 要投資（必要投資額：500,000） |
-| [turquoise](Items/Trade Goods/TradeGoods-Gems/item_1006.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 1,133 | (992) |  |
+| [turquoise](docs/Items/TradeGoods/TradeGoods-Gems/item_1006.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | 1,133 | (992) |  |
 | 要投資（必要投資額：240,000） |
-| [basil](Items/Trade Goods/TradeGoods-Spices/item_126.md) | [Trading Goods (Spices)](Categories/category_12.md) | 108 | (95) |  |
-| [persian rug](Items/Trade Goods/TradeGoods-Fabrics/item_606.md) | [交易品（織物）](Categories/category_20.md) | 4,371 | (3,825) |  |
-| [pearl](Items/Trade Goods/TradeGoods-Gems/item_769.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 4,458 | (3,901) |  |
+| [basil](docs/Items/TradeGoods/TradeGoods-Spices/item_126.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | 108 | (95) |  |
+| [persian rug](docs/Items/TradeGoods/TradeGoods-Fabrics/item_606.md) | [交易品（織物）](docs/Categories/category_20.md) | 4,371 | (3,825) |  |
+| [pearl](docs/Items/TradeGoods/TradeGoods-Gems/item_769.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | 4,458 | (3,901) |  |
 | 要投資（必要投資額：320,000） |
-| [green ore](Items/Trade Goods/TradeGoods-Minerals/item_886.md) | [Trading Items (Iron Stone)](Categories/category_7.md) | (10,629) | 9,300 |  |
+| [green ore](docs/Items/TradeGoods/TradeGoods-Minerals/item_886.md) | [Trading Items (Iron Stone)](docs/Categories/category_7.md) | (10,629) | 9,300 |  |
 | 要投資（必要投資額：8,500,000） |
-| [wool](Items/Trade Goods/TradeGoods-Fibers/item_5.md) | [交易品（繊維）](Categories/category_1.md) | 339 | (297) |  |
-| [mutton](Items/Trade Goods/TradeGoods-Foodstuffs/item_33.md) | [Trading items (food items)](Categories/category_3.md) | 355 | (311) |  |
+| [wool](docs/Items/TradeGoods/TradeGoods-Fibers/item_5.md) | [交易品（繊維）](docs/Categories/category_1.md) | 339 | (297) |  |
+| [mutton](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_33.md) | [Trading items (food items)](docs/Categories/category_3.md) | 355 | (311) |  |
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
@@ -81,19 +81,19 @@ A city in the northeast of Bahrain Island, located in the Persian Gulf. Because 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Equipment (body)](Categories/category_24.md)
+#### [Equipment (body)](docs/Categories/category_24.md)
 
-| [persian dress](Items/Equipment/Equipment-Body/item_1372.md) | Equipment (body) | 138,600 | tool shop owner |  |
+| [persian dress](docs/Items/Equipment/Equipment-Body/item_1372.md) | Equipment (body) | 138,600 | tool shop owner |  |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [numbness medicine](Items/Consumables/Consumables-Landbattle/item_452.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
-| [hellfire torch](Items/Consumables/Consumables-Landbattle/item_233.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [numbness medicine](docs/Items/Consumables/Consumables-Landbattle/item_452.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
+| [strong adhesive oil](docs/Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [hellfire torch](docs/Items/Consumables/Consumables-Landbattle/item_233.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
 
-#### [Consumables (naval/hand-to-hand combat)](Categories/category_30.md)
+#### [Consumables (naval/hand-to-hand combat)](docs/Categories/category_30.md)
 
-| [strange smell](Items/Consumables/Consumables-navalhand-to-hand combat/item_809.md) | Consumables (naval/hand-to-hand combat) | 3,000 | tool shop owner |  |
+| [strange smell](docs/Items/Consumables/Consumables-navalhand-to-hand combat/item_809.md) | Consumables (naval/hand-to-hand combat) | 3,000 | tool shop owner |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
 
@@ -102,12 +102,12 @@ A city in the northeast of Bahrain Island, located in the Persian Gulf. Because 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [Shipbuilding materials and ropes](Items/Recipe Book/item_1761.md) | recipe book | Fixed recipe | Shipwright |  |
+| [Shipbuilding materials and ropes](docs/Items/RecipeBooks/item_1761.md) | recipe book | Fixed recipe | Shipwright |  |
 
-#### [shipbuilding materials](Categories/category_47.md)
+#### [shipbuilding materials](docs/Categories/category_47.md)
 
-| [舫綱](Items/Shipbuilding FS Material/item_1762.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
+| [舫綱](docs/Items/ShipbuildingFS/item_1762.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
   </TabItem>
 </Tabs>

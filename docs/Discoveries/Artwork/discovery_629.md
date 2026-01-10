@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Disciple of Huang Gongwang](Quests/Adventure/quest_2872.md)** | Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know. | 探索(3)美術(5)中国語(1) | Reward: 98,000 / Advance payment: 0Experience: 160 / Fame: 75 |
+| **[Disciple of Huang Gongwang](docs/Quests/Adventure/2001-3000/quest_2872.md)** | Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know. | 探索(3)美術(5)中国語(1) | Reward: 98,000 / Advance payment: 0Experience: 160 / Fame: 75 |

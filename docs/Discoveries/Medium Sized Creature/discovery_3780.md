@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cat hiding in the mountain forest of the island](Quests/Adventure/quest_6738.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Malayu Tagalog (1) | Reward: 380,000/ Advance: 40,000Experience: 380/ Fame: 165 |
+| **[Cat hiding in the mountain forest of the island](docs/Quests/Adventure/6001-7000/quest_6738.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Malayu Tagalog (1) | Reward: 380,000/ Advance: 40,000Experience: 380/ Fame: 165 |

@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Missionary's whereabouts](Quests/Adventure/quest_2117.md)** | Adventure quest (4) | Religious Studies (5) Exploration (3) Mayan Languages | Reward: 133,000/ Advance: 10,000 Experience: 120/ Fame: 57 |
-| **[Survey on local ideology](Quests/Other/quest_1899.md)** | Imperial command quest (4) | Religious Studies(5)Exploration(3) | Experience: 250/ Reputation: 110 |
+| **[Missionary's whereabouts](docs/Quests/Adventure/2001-3000/quest_2117.md)** | Adventure quest (4) | Religious Studies (5) Exploration (3) Mayan Languages | Reward: 133,000/ Advance: 10,000 Experience: 120/ Fame: 57 |
+| **[Survey on local ideology](docs/Quests/Other/1001-2000/quest_1899.md)** | Imperial command quest (4) | Religious Studies(5)Exploration(3) | Experience: 250/ Reputation: 110 |

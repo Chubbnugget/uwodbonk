@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red-tailed monkey](Quests/Adventure/quest_6967.md)** | Adventure quest (6) | Ecological research (6) Biology (8) West African languages ​​(1) | Reward: 241,000/ Advance payment: 20,000Experience: 240 |
+| **[Red-tailed monkey](docs/Quests/Adventure/6001-7000/quest_6967.md)** | Adventure quest (6) | Ecological research (6) Biology (8) West African languages ​​(1) | Reward: 241,000/ Advance payment: 20,000Experience: 240 |

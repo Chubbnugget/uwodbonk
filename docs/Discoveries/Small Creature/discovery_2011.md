@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Seven Changing Lizard](Quests/Adventure/quest_630.md)** | Adventure quest (7) | Ecological research (5) Biology (7) Swahili | Reward: 180,000 / Advance payment: 0Experience: 190 / Fame: 100 |
+| **[Seven Changing Lizard](docs/Quests/Adventure/1-1000/quest_630.md)** | Adventure quest (7) | Ecological research (5) Biology (7) Swahili | Reward: 180,000 / Advance payment: 0Experience: 190 / Fame: 100 |

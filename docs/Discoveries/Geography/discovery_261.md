@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Is there a shallow area where anyone can fish?](Quests/Adventure/quest_824.md)** | Adventure quest (4) | Geography (2) Visual recognition (1) |  |
+| **[Is there a shallow area where anyone can fish?](docs/Quests/Adventure/1-1000/quest_824.md)** | Adventure quest (4) | Geography (2) Visual recognition (1) |  |

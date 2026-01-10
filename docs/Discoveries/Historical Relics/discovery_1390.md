@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of the early Joseon Dynasty](Quests/Adventure/quest_2670.md)** | Adventure quest (6) | 探索(5)考古学(7)朝鮮語(1) | Reward: 173,000 / Advance payment: 10,000 Experience: 220 / Fame: 190 |
+| **[Investigation of the early Joseon Dynasty](docs/Quests/Adventure/2001-3000/quest_2670.md)** | Adventure quest (6) | 探索(5)考古学(7)朝鮮語(1) | Reward: 173,000 / Advance payment: 10,000 Experience: 220 / Fame: 190 |

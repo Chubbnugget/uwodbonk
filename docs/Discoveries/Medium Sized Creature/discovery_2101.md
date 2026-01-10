@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indian animal map](Quests/Other/quest_69.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |
+| **[Indian animal map](docs/Quests/Other/1-1000/quest_69.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ferocious Hunter](Quests/Adventure/quest_6896.md)** | Adventure quest (9) | Ecological research (11) Biology (13) Norse (1) | Reward: 162,000/Advance payment: 20,000Experience: 190 |
+| **[Ferocious Hunter](docs/Quests/Adventure/6001-7000/quest_6896.md)** | Adventure quest (9) | Ecological research (11) Biology (13) Norse (1) | Reward: 162,000/Advance payment: 20,000Experience: 190 |

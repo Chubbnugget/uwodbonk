@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sace Limani Sunken Ship](Quests/Other/quest_6816.md)** | Sunken ship(7) | Salvage Archeology(8) |  |
+| **[Sace Limani Sunken Ship](docs/Quests/Other/6001-7000/quest_6816.md)** | Sunken ship(7) | Salvage Archeology(8) |  |

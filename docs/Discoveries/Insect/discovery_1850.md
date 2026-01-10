@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Bug Map](Quests/Other/quest_1933.md)** | Biology学(7) | Ecological Survey(7)Biology(7) |  |
+| **[Giant Bug Map](docs/Quests/Other/1001-2000/quest_1933.md)** | Biology学(7) | Ecological Survey(7)Biology(7) |  |

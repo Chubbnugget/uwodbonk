@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Temple of the Agriculture God](Quests/Adventure/quest_5362.md)** | Adventure Quest (6) B.C. | Religious Studies (7) Visual Recognition (5) Italian (1) | Reward: 133,000/Advance: 10,000Experience: 170 |
+| **[Temple of the Agriculture God](docs/Quests/Adventure/5001-6000/quest_5362.md)** | Adventure Quest (6) B.C. | Religious Studies (7) Visual Recognition (5) Italian (1) | Reward: 133,000/Advance: 10,000Experience: 170 |

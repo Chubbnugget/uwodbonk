@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jacob's Ladder](Quests/Other/quest_5722.md)** | Weather/phenomena (1) | Visual recognition (6) | Experience：520 |
+| **[Jacob's Ladder](docs/Quests/Other/5001-6000/quest_5722.md)** | Weather/phenomena (1) | Visual recognition (6) | Experience：520 |

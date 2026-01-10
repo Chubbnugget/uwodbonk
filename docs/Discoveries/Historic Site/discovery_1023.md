@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[別世界](Quests/Adventure/quest_1473.md)** | Adventure quest (10) | Archeology (1) Visibility (1) Vigilance (1) | Reward: 108,000 / Advance payment: 21,600 Experience: 540 / Fame: 180 |
+| **[別世界](docs/Quests/Adventure/1001-2000/quest_1473.md)** | Adventure quest (10) | Archeology (1) Visibility (1) Vigilance (1) | Reward: 108,000 / Advance payment: 21,600 Experience: 540 / Fame: 180 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Oslo](Quests/Other/quest_5028.md)** | Port/village (1) | - |  |
+| **[Oslo](docs/Quests/Other/5001-6000/quest_5028.md)** | Port/village (1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Two Colored River](Quests/Adventure/quest_5843.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) French | Reward: 319,000 / Advance payment: 30,000 Experience: 290 / Fame: 170 |
+| **[Two Colored River](docs/Quests/Adventure/5001-6000/quest_5843.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) French | Reward: 319,000 / Advance payment: 30,000 Experience: 290 / Fame: 170 |

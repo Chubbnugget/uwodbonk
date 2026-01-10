@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Spiny Frog](Quests/Adventure/quest_6334.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Malayu Tagalog | Reward: 286,000 / Advance payment: 30,000 Experience: 270 / Fame: 155 |
+| **[Spiny Frog](docs/Quests/Adventure/6001-7000/quest_6334.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Malayu Tagalog | Reward: 286,000 / Advance payment: 30,000 Experience: 270 / Fame: 155 |

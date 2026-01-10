@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Repeat investigation request to Hangzhou](Quests/Adventure/quest_5909.md)** | Adventure quest (10) | Astronomy (17) Visual recognition (15) Chinese | Reward: 902,000 / Advance payment: 90,000 Experience: 650 / Fame: 415 |
+| **[Repeat investigation request to Hangzhou](docs/Quests/Adventure/5001-6000/quest_5909.md)** | Adventure quest (10) | Astronomy (17) Visual recognition (15) Chinese | Reward: 902,000 / Advance payment: 90,000 Experience: 650 / Fame: 415 |

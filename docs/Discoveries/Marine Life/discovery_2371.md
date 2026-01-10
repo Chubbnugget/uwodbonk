@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Frequently viewed shellfish map](Quests/Other/quest_3016.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |
+| **[Frequently viewed shellfish map](docs/Quests/Other/3001-4000/quest_3016.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |

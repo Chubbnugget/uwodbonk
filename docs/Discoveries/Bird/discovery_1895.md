@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White Bearded Bird](Quests/Adventure/quest_1969.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Quechua | Reward: 270,000 / Advance payment: 20,000 Experience: 300 / Fame: 130 |
+| **[White Bearded Bird](docs/Quests/Adventure/1001-2000/quest_1969.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Quechua | Reward: 270,000 / Advance payment: 20,000 Experience: 300 / Fame: 130 |

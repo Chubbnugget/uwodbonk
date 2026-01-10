@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Treasure famous throughout the world](Quests/Adventure/quest_6031.md)** | Adventure Quest (7) B.C. | 探索(7)Treasures鑑定(9)中国語 | Reward: 137,000/ Advance: 10,000 Experience: 170/ Fame: 95 |
+| **[Treasure famous throughout the world](docs/Quests/Adventure/6001-7000/quest_6031.md)** | Adventure Quest (7) B.C. | 探索(7)Treasures鑑定(9)中国語 | Reward: 137,000/ Advance: 10,000 Experience: 170/ Fame: 95 |

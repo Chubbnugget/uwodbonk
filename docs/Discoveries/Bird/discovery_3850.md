@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue bird with troubled face](Quests/Adventure/quest_6831.md)** | Adventure quest (9) | Ecological research (11) Biology (13) Chinese (1) | Reward: 716,000/Advance payment: 70,000Experience: 530 |
+| **[Blue bird with troubled face](docs/Quests/Adventure/6001-7000/quest_6831.md)** | Adventure quest (9) | Ecological research (11) Biology (13) Chinese (1) | Reward: 716,000/Advance payment: 70,000Experience: 530 |

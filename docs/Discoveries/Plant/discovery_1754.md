@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Noble Flower](Quests/Adventure/quest_577.md)** | Adventure quest (4) | Ecological research (1) Biology (2) Italian | Reward: 23,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Noble Flower](docs/Quests/Adventure/1-1000/quest_577.md)** | Adventure quest (4) | Ecological research (1) Biology (2) Italian | Reward: 23,000 / Advance payment: 0Experience: 130 / Fame: 65 |

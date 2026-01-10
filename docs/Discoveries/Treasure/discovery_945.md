@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blade that cuts through lightning](Quests/Adventure/quest_2929.md)** | Adventure quest (7) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 126,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |
+| **[Blade that cuts through lightning](docs/Quests/Adventure/2001-3000/quest_2929.md)** | Adventure quest (7) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 126,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |

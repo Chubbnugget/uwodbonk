@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Water Spirit Lore](Quests/Other/quest_6078.md)** | Tradition (8) | Religious Studies(8) | Reward: 478,400 / Advance payment: 40,000 Experience: 480 / Fame: 240 |
+| **[Water Spirit Lore](docs/Quests/Other/6001-7000/quest_6078.md)** | Tradition (8) | Religious Studies(8) | Reward: 478,400 / Advance payment: 40,000 Experience: 480 / Fame: 240 |

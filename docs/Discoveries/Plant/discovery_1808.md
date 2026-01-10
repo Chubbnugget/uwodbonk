@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tree that protects the ship](Quests/Adventure/quest_2957.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) English | Reward: 156,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[Tree that protects the ship](docs/Quests/Adventure/2001-3000/quest_2957.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) English | Reward: 156,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

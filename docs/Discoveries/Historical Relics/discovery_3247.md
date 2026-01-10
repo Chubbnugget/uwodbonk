@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fate of a Great General](Quests/Adventure/quest_6057.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Turkish (1) | Reward: 135,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |
+| **[Fate of a Great General](docs/Quests/Adventure/6001-7000/quest_6057.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Turkish (1) | Reward: 135,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |

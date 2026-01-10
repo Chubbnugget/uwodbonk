@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Oporto](Quests/Other/quest_5030.md)** | Port/village (1) | - |  |
+| **[Oporto](docs/Quests/Other/5001-6000/quest_5030.md)** | Port/village (1) | - |  |

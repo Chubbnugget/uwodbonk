@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Chain that blocked the sea](Quests/Adventure/quest_1905.md)** | Adventure Quest (2) 15th Century 3rd Period | Exploration (1) Archeology (3) Greek | Reward: 78,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Chain that blocked the sea](docs/Quests/Adventure/1001-2000/quest_1905.md)** | Adventure Quest (2) 15th Century 3rd Period | Exploration (1) Archeology (3) Greek | Reward: 78,000 / Advance payment: 0Experience: 140 / Fame: 70 |

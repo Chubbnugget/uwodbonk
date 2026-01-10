@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bird with hair growing from its butt](Quests/Adventure/quest_6317.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Oceanian languages | Reward: 275,000/ Advance: 30,000Experience: 260/ Fame: 150 |
+| **[Bird with hair growing from its butt](docs/Quests/Adventure/6001-7000/quest_6317.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Oceanian languages | Reward: 275,000/ Advance: 30,000Experience: 260/ Fame: 150 |

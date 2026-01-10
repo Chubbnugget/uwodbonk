@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[End of the Angkor Dynasty](Quests/Adventure/quest_1290.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) Mon-Khmer languages | Reward: 89,000 / Advance payment: 0Experience: 285 / Fame: 95 |
+| **[End of the Angkor Dynasty](docs/Quests/Adventure/1001-2000/quest_1290.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) Mon-Khmer languages | Reward: 89,000 / Advance payment: 0Experience: 285 / Fame: 95 |

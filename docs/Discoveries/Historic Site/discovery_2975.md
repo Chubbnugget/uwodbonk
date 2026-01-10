@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Plateau bigger than a country](Quests/Adventure/quest_5659.md)** | Adventure quest (3) | Archeology (6) Visualization (4) Arabic | Reward: 149,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |
+| **[Plateau bigger than a country](docs/Quests/Adventure/5001-6000/quest_5659.md)** | Adventure quest (3) | Archeology (6) Visualization (4) Arabic | Reward: 149,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |

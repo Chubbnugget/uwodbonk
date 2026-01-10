@@ -1,6 +1,6 @@
 ---
 id: 451
-name: "Adventurer's Notes"
+name: "\"Adventurer's Notes\""
 type:  Item
 ---
 # Adventurer's Notes
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Adventurer's Notes |
 | **Type** | thing |
-| **Group** | [Consumables (skill activation)](Categories/category_31.md) |
+| **Group** | [Consumables (skill activation)](docs/Categories/category_31.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 2,500 |
 | **Description** | A note left by an adventurer. It will help you find food. Equip location Clothing Effect when used Procurement Durability 15 |

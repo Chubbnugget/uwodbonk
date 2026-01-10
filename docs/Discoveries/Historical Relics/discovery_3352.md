@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient Indian relics](Quests/Other/quest_6215.md)** | Archeology(8) | Exploration(8)Archaeology(8) |  |
+| **[Map of ancient Indian relics](docs/Quests/Other/6001-7000/quest_6215.md)** | Archeology(8) | Exploration(8)Archaeology(8) |  |

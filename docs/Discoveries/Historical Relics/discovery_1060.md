@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Reviver of Ancient Rome](Quests/Adventure/quest_554.md)** | Adventure quest (4) | Exploration (1) Archeology (2) Italian | Reward: 22,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Reviver of Ancient Rome](docs/Quests/Adventure/1-1000/quest_554.md)** | Adventure quest (4) | Exploration (1) Archeology (2) Italian | Reward: 22,000 / Advance payment: 0Experience: 140 / Fame: 70 |

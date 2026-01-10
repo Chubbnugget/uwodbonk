@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars taken by a cowherd](Quests/Adventure/quest_3917.md)** | Adventure quest (6) | Astronomy (7) Visualization (5) German | Reward: 209,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[Stars taken by a cowherd](docs/Quests/Adventure/3001-4000/quest_3917.md)** | Adventure quest (6) | Astronomy (7) Visualization (5) German | Reward: 209,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

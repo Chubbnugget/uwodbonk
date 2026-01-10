@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Controversy over the bones of large biology](Quests/Adventure/quest_2828.md)** | Adventure Quest (8) B.C. | Explore(10)Biology(12)Chinese | Reward: 160,000 / Advance payment: 10,000 Experience: 210 / Fame: 95 |
+| **[Controversy over the bones of large biology](docs/Quests/Adventure/2001-3000/quest_2828.md)** | Adventure Quest (8) B.C. | Explore(10)Biology(12)Chinese | Reward: 160,000 / Advance payment: 10,000 Experience: 210 / Fame: 95 |

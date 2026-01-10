@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Vast ocean](Quests/Adventure/quest_572.md)** | Adventure quest (6) | Geography (5) Visual recognition (3) | Reward: 73,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Vast ocean](docs/Quests/Adventure/1-1000/quest_572.md)** | Adventure quest (6) | Geography (5) Visual recognition (3) | Reward: 73,000 / Advance payment: 0Experience: 150 / Fame: 75 |

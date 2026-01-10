@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bona Confidenta](Quests/Other/quest_3692.md)** | Sunken ship(7) | Salvage Archeology(8) |  |
+| **[Bona Confidenta](docs/Quests/Other/3001-4000/quest_3692.md)** | Sunken ship(7) | Salvage Archeology(8) |  |

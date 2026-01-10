@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pondicherry](Quests/Other/quest_5148.md)** | Port/village (1) | - |  |
+| **[Pondicherry](docs/Quests/Other/5001-6000/quest_5148.md)** | Port/village (1) | - |  |

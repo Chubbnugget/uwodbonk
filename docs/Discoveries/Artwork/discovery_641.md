@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pioneer of beauty paintings](Quests/Adventure/quest_940.md)** | Adventure quest (4) 15th century 4th period | Exploration (1) Art (3) Italian | Reward: 22,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Pioneer of beauty paintings](docs/Quests/Adventure/1-1000/quest_940.md)** | Adventure quest (4) 15th century 4th period | Exploration (1) Art (3) Italian | Reward: 22,000 / Advance payment: 0Experience: 150 / Fame: 70 |

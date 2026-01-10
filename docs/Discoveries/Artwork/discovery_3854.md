@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[God's work](Quests/Adventure/quest_6836.md)** | Adventure quest (9) | Exploration (12) Art (14) French (1) | Reward: 382,000/Advance payment: 40,000Experience: 420 |
+| **[God's work](docs/Quests/Adventure/6001-7000/quest_6836.md)** | Adventure quest (9) | Exploration (12) Art (14) French (1) | Reward: 382,000/Advance payment: 40,000Experience: 420 |

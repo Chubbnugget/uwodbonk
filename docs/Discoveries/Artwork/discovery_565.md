@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Raphael's masterpiece](Quests/Adventure/quest_320.md)** | Adventure quest (4) 16th century 1st period | Exploration (2) Art (4) Italian | Reward: 35,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Raphael's masterpiece](docs/Quests/Adventure/1-1000/quest_320.md)** | Adventure quest (4) 16th century 1st period | Exploration (2) Art (4) Italian | Reward: 35,000 / Advance payment: 0Experience: 140 / Fame: 70 |

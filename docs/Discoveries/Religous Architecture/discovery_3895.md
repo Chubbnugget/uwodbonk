@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[New Great Buddha](Quests/Adventure/quest_6882.md)** | Adventure quest (10) | Religious Studies (17) Visual Recognition (15) Chinese (1) | Reward: 337,000/Advance payment: 30,000Experience: 300 |
+| **[New Great Buddha](docs/Quests/Adventure/6001-7000/quest_6882.md)** | Adventure quest (10) | Religious Studies (17) Visual Recognition (15) Chinese (1) | Reward: 337,000/Advance payment: 30,000Experience: 300 |

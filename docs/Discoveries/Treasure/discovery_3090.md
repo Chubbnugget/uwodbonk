@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Mongolian history book](Quests/Other/quest_5830.md)** | Treasures鑑定(4) | 探索(4)Treasures鑑定(4) |  |
+| **[Map of Mongolian history book](docs/Quests/Other/5001-6000/quest_5830.md)** | Treasures鑑定(4) | 探索(4)Treasures鑑定(4) |  |

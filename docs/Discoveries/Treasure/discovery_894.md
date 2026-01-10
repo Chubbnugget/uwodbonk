@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sand Flower](Quests/Adventure/quest_3270.md)** | Adventure quest (7) | Exploration (5) Treasures Appraisal (7) Arabic (1) | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Sand Flower](docs/Quests/Adventure/3001-4000/quest_3270.md)** | Adventure quest (7) | Exploration (5) Treasures Appraisal (7) Arabic (1) | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |

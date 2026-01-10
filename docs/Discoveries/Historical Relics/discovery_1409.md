@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King's Stele](Quests/Adventure/quest_2823.md)** | Adventure quest (5) | 探索(3)考古学(5)朝鮮語 | Reward: 122,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |
+| **[King's Stele](docs/Quests/Adventure/2001-3000/quest_2823.md)** | Adventure quest (5) | 探索(3)考古学(5)朝鮮語 | Reward: 122,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |

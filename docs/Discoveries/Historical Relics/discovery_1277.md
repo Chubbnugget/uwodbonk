@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Ancient Persian Relics](Quests/Other/quest_549.md)** | Archeology(4) | Exploration(4)Archaeology(4) |  |
+| **[Map of Ancient Persian Relics](docs/Quests/Other/1-1000/quest_549.md)** | Archeology(4) | Exploration(4)Archaeology(4) |  |

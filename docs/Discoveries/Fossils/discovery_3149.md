@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Chasing Giant Biology](Quests/Adventure/quest_5854.md)** | Adventure quest (10) | Exploration (15) Biology (17) Indian languages | Reward: 142,000 / Advance payment: 10,000 Experience: 180 / Fame: 95 |
+| **[Chasing Giant Biology](docs/Quests/Adventure/5001-6000/quest_5854.md)** | Adventure quest (10) | Exploration (15) Biology (17) Indian languages | Reward: 142,000 / Advance payment: 10,000 Experience: 180 / Fame: 95 |

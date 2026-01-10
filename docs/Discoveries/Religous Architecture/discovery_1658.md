@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[City of the Living](Quests/Adventure/quest_723.md)** | Adventure Quest (5) B.C. | Religious Studies (4) Visual Recognition (2) Arabic | Reward: 148,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |
+| **[City of the Living](docs/Quests/Adventure/1-1000/quest_723.md)** | Adventure Quest (5) B.C. | Religious Studies (4) Visual Recognition (2) Arabic | Reward: 148,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |

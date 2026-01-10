@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Curved Weapon Map](Quests/Other/quest_1834.md)** | Treasures鑑定(3) | Exploration (3) Treasures Appraisal (3) Unlocking (3) |  |
+| **[Curved Weapon Map](docs/Quests/Other/1001-2000/quest_1834.md)** | Treasures鑑定(3) | Exploration (3) Treasures Appraisal (3) Unlocking (3) |  |

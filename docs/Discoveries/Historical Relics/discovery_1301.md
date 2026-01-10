@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Disappeared Ancients](Quests/Adventure/quest_1182.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Unlocking (3) | Reward: 189,000 / Advance payment: 30,000 Experience: 360 / Fame: 120 |
+| **[Disappeared Ancients](docs/Quests/Adventure/1001-2000/quest_1182.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Unlocking (3) | Reward: 189,000 / Advance payment: 30,000 Experience: 360 / Fame: 120 |

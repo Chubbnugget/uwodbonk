@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Continued: Science Stars](Quests/Adventure/quest_5652.md)** | Adventure Quest (6) 18th Century Third Period | Astronomy (6) Visual recognition (4) English | Reward: 164,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |
+| **[Continued: Science Stars](docs/Quests/Adventure/5001-6000/quest_5652.md)** | Adventure Quest (6) 18th Century Third Period | Astronomy (6) Visual recognition (4) English | Reward: 164,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |

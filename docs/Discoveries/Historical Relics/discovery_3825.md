@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Zheng He's logbook](Quests/Other/quest_6797.md)** | Pursuit quest (7) | Exploration (7) Archeology (9) Malayu Tagalog | Reward: 136,000 / Advance payment: 0Experience: 340 |
+| **[Additional investigation of Zheng He's logbook](docs/Quests/Other/6001-7000/quest_6797.md)** | Pursuit quest (7) | Exploration (7) Archeology (9) Malayu Tagalog | Reward: 136,000 / Advance payment: 0Experience: 340 |

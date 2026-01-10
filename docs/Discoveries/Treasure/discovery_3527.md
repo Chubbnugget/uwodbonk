@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Three-legged frog incense burner](Quests/Other/quest_6449.md)** | Legacy(1) | - |  |
+| **[Three-legged frog incense burner](docs/Quests/Other/6001-7000/quest_6449.md)** | Legacy(1) | - |  |

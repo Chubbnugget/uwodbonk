@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Aurora Explosion](Quests/Other/quest_5664.md)** | Weather/phenomena (4) | Visual recognition (11) |  |
+| **[Aurora Explosion](docs/Quests/Other/5001-6000/quest_5664.md)** | Weather/phenomena (4) | Visual recognition (11) |  |

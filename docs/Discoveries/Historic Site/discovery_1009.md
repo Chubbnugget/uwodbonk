@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legend of Labyrinthos](Quests/Adventure/quest_318.md)** | Adventure Quest (7) B.C. | Religious studies (1) Archeology (1) Visual recognition (1) | Reward: 270,000 / Advance payment: 5,000 Experience: 180 / Fame: 95 |
+| **[Legend of Labyrinthos](docs/Quests/Adventure/1-1000/quest_318.md)** | Adventure Quest (7) B.C. | Religious studies (1) Archeology (1) Visual recognition (1) | Reward: 270,000 / Advance payment: 5,000 Experience: 180 / Fame: 95 |

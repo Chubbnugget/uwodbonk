@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant of the Southern Sky](Quests/Adventure/quest_3755.md)** | Adventure Quest (1) Myth Era | Astronomy (1) Visualization (1) Greek | Reward: 78,000 / Advance payment: 0Experience: 280 / Fame: 65 |
+| **[Giant of the Southern Sky](docs/Quests/Adventure/3001-4000/quest_3755.md)** | Adventure Quest (1) Myth Era | Astronomy (1) Visualization (1) Greek | Reward: 78,000 / Advance payment: 0Experience: 280 / Fame: 65 |

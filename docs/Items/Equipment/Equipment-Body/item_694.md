@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Chadli |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 84,700 |
 | **Description** | A long robe that completely covers the entire body, often worn by Arab women. *There are 7 colors: black, white, green, pink, brown, yellow, and light green Gender restrictions Female Durability 30 Formal wear 10 Disguise 35 Defense 4 Dye trading +1 Total required fame 1100 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Stone Map](Quests/Other/quest_6930.md)** | Biology学(10) | Explore(10)Biology(10) | Experience：330 |
+| **[Strange Stone Map](docs/Quests/Other/6001-7000/quest_6930.md)** | Biology学(10) | Explore(10)Biology(10) | Experience：330 |

@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Records of our predecessors](Quests/Adventure/quest_2020.md)** | Adventure Quest (4) 16th Century 2nd Period | Exploration(3)Archaeology(5)ケチュアlanguage(1) | Reward: 99,000 / Advance payment: 0Experience: 160 / Fame: 75 |
-| **[Records of our predecessors who expanded to the west coast of the New World](Quests/Other/quest_1778.md)** | Imperial command quest (4) | Exploration(3)Archaeology(5) |  |
+| **[Records of our predecessors](docs/Quests/Adventure/2001-3000/quest_2020.md)** | Adventure Quest (4) 16th Century 2nd Period | Exploration(3)Archaeology(5)ケチュアlanguage(1) | Reward: 99,000 / Advance payment: 0Experience: 160 / Fame: 75 |
+| **[Records of our predecessors who expanded to the west coast of the New World](docs/Quests/Other/1001-2000/quest_1778.md)** | Imperial command quest (4) | Exploration(3)Archaeology(5) |  |

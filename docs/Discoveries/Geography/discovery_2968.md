@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Seeking Paradise](Quests/Adventure/quest_5653.md)** | Adventure quest (5) | Geography (7) Visual recognition (5) Malayu Tagalog | Reward: 172,000 / Advance payment: 10,000 Experience: 190 / Fame: 110 |
+| **[Seeking Paradise](docs/Quests/Adventure/5001-6000/quest_5653.md)** | Adventure quest (5) | Geography (7) Visual recognition (5) Malayu Tagalog | Reward: 172,000 / Advance payment: 10,000 Experience: 190 / Fame: 110 |

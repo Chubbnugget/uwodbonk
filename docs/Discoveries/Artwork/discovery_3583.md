@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue of Nike of Olympia](Quests/Other/quest_6511.md)** | Legacy(1) | - | Experience：2,805 |
+| **[Statue of Nike of Olympia](docs/Quests/Other/6001-7000/quest_6511.md)** | Legacy(1) | - | Experience：2,805 |

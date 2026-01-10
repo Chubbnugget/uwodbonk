@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[History engraved](Quests/Adventure/quest_2288.md)** | Adventure quest (6) | Religious Studies (8) Visualization (6) Mayan Languages | Reward: 455,000/ Advance: 40,000Experience: 450/ Fame: 185 |
+| **[History engraved](docs/Quests/Adventure/2001-3000/quest_2288.md)** | Adventure quest (6) | Religious Studies (8) Visualization (6) Mayan Languages | Reward: 455,000/ Advance: 40,000Experience: 450/ Fame: 185 |

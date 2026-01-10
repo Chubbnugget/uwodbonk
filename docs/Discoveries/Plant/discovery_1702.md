@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of white flowers on the plateau](Quests/Other/quest_1926.md)** | Biology学(5) | Ecological Survey(5)Biology(5) | Experience：150 |
+| **[Map of white flowers on the plateau](docs/Quests/Other/1001-2000/quest_1926.md)** | Biology学(5) | Ecological Survey(5)Biology(5) | Experience：150 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Guardian Goddess of the Great Lighthouse and Navigation](Quests/Other/quest_6349.md)** | Treasure hunting (6) | Exploration (6) Archeology (8) Arabic (1) | Remuneration: 85,000/Advance payment: 0 |
+| **[Guardian Goddess of the Great Lighthouse and Navigation](docs/Quests/Other/6001-7000/quest_6349.md)** | Treasure hunting (6) | Exploration (6) Archeology (8) Arabic (1) | Remuneration: 85,000/Advance payment: 0 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Research on frescoes](Quests/Adventure/quest_4949.md)** | Adventure Quest (2) 15th Century 1st Period | Religious Studies (3) Visual Recognition (1) Dutch | Reward: 119,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Research on frescoes](docs/Quests/Adventure/4001-5000/quest_4949.md)** | Adventure Quest (2) 15th Century 1st Period | Religious Studies (3) Visual Recognition (1) Dutch | Reward: 119,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

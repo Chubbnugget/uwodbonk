@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Zuben El Geneubi](Quests/Other/quest_6868.md)** | Celestial Object Discovery Name(7)15th Century Issue 2 | Astronomy(7)Visualization(7) |  |
+| **[Zuben El Geneubi](docs/Quests/Other/6001-7000/quest_6868.md)** | Celestial Object Discovery Name(7)15th Century Issue 2 | Astronomy(7)Visualization(7) |  |

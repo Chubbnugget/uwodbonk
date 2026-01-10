@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of South American plants](Quests/Other/quest_6154.md)** | Biology学(9) | Ecological Survey(9)Biology(9) |  |
+| **[Map of South American plants](docs/Quests/Other/6001-7000/quest_6154.md)** | Biology学(9) | Ecological Survey(9)Biology(9) |  |

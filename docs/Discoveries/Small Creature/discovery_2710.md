@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Curling lizard](Quests/Adventure/quest_5296.md)** | Adventure quest (9) | Ecological research (8) Biology (10) West African languages | Reward: 223,000/ Advance: 20,000Experience: 230/ Fame: 130 |
+| **[Curling lizard](docs/Quests/Adventure/5001-6000/quest_5296.md)** | Adventure quest (9) | Ecological research (8) Biology (10) West African languages | Reward: 223,000/ Advance: 20,000Experience: 230/ Fame: 130 |

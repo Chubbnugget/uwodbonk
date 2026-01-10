@@ -60,29 +60,29 @@ import TabItem from '@theme/TabItem';
 
 #### others
 
-| [Traditional North American shoe manufacturing method](Items/Recipe Book/item_5336.md) | [recipe book](Categories/category_22.md) | Fixed recipe |  |  |
+| [Traditional North American shoe manufacturing method](docs/Items/RecipeBooks/item_5336.md) | [recipe book](docs/Categories/category_22.md) | Fixed recipe |  |  |
 | Omaha NPC Traveler (appears during the Great Thanksgiving) |
-| [lead cannonball](Items/Shipbuilding FS Material/item_1909.md) | [shipbuilding materials](Categories/category_47.md) |  |  |  |
-| [mysterious find](Items/Consumables/Consumables-Treasure-Chests/item_5312.md) | [Consumables (lots, treasure chests)](Categories/category_50.md) | 1,000,000 |  |  |
+| [lead cannonball](docs/Items/ShipbuildingFS/item_1909.md) | [shipbuilding materials](docs/Categories/category_47.md) |  |  |  |
+| [mysterious find](docs/Items/Consumables/Consumables-Treasure-Chests/item_5312.md) | [Consumables (lots, treasure chests)](docs/Categories/category_50.md) | 1,000,000 |  |  |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Equipment (body)](Categories/category_24.md)
+#### [Equipment (body)](docs/Categories/category_24.md)
 
-| [miner's protective clothing](Items/Equipment/Equipment-Body/item_5284.md) | Equipment (body) | 70,000 | tool shop owner |  |
+| [miner's protective clothing](docs/Items/Equipment/Equipment-Body/item_5284.md) | Equipment (body) | 70,000 | tool shop owner |  |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [black kite feather](Items/Consumables/Consumables-Landbattle/item_88.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
-| [Assortment of wound medicine](Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
-| [therapeutic drug](Items/Consumables/Consumables-Landbattle/item_89.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
-| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
+| [black kite feather](docs/Items/Consumables/Consumables-Landbattle/item_88.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
+| [Assortment of wound medicine](docs/Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
+| [therapeutic drug](docs/Items/Consumables/Consumables-Landbattle/item_89.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [antidote](docs/Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
 
-#### [Consumables (other)](Categories/category_44.md)
+#### [Consumables (other)](docs/Categories/category_44.md)
 
-| [fossil fuel](Items/Consumables/Consumables-Other/item_5425.md) | Consumables (other) | 100,000 | tool shop owner |  |
+| [fossil fuel](docs/Items/Consumables/Consumables-Other/item_5425.md) | Consumables (other) | 100,000 | tool shop owner |  |
   </TabItem>
 </Tabs>

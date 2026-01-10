@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Toy-like percussion instrument](Quests/Adventure/quest_5540.md)** | Adventure quest (6) | Exploration (4) Treasures Appraisal (6) Portuguese | Reward: 106,000 / Advance payment: 1,000 Experience: 150 / Fame: 80 |
+| **[Toy-like percussion instrument](docs/Quests/Adventure/5001-6000/quest_5540.md)** | Adventure quest (6) | Exploration (4) Treasures Appraisal (6) Portuguese | Reward: 106,000 / Advance payment: 1,000 Experience: 150 / Fame: 80 |

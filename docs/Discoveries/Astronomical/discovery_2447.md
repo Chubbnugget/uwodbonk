@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Shining tips in the sky](Quests/Adventure/quest_3748.md)** | Adventure quest (3) | Astronomy (4) Visual recognition (2) Italian | Reward: 82,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Shining tips in the sky](docs/Quests/Adventure/3001-4000/quest_3748.md)** | Adventure quest (3) | Astronomy (4) Visual recognition (2) Italian | Reward: 82,000 / Advance payment: 0Experience: 140 / Fame: 70 |

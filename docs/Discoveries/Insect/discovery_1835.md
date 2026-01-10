@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Insect encyclopedia](Quests/Adventure/quest_837.md)** | Adventure quest (4) | Ecological research (2) Biology (4) Indian languages | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Insect encyclopedia](docs/Quests/Adventure/1-1000/quest_837.md)** | Adventure quest (4) | Ecological research (2) Biology (4) Indian languages | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |

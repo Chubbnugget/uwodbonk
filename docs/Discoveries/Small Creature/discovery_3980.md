@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Little Orange Hunter](Quests/Adventure/quest_6972.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Chinese (1) | Reward: 365,000/Advance payment: 40,000Experience: 480 |
+| **[Little Orange Hunter](docs/Quests/Adventure/6001-7000/quest_6972.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Chinese (1) | Reward: 365,000/Advance payment: 40,000Experience: 480 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Amazon River Rogue](Quests/Adventure/quest_5456.md)** | Adventure quest (5) | Ecological Survey (5) Biology (7) Portuguese | Reward: 127,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |
+| **[Amazon River Rogue](docs/Quests/Adventure/5001-6000/quest_5456.md)** | Adventure quest (5) | Ecological Survey (5) Biology (7) Portuguese | Reward: 127,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |

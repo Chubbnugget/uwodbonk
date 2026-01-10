@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Greek God Statue](Quests/Adventure/quest_498.md)** | Adventure quest (3) | Religious Studies (1) Exploration (1) Greek | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Ancient Greek God Statue](docs/Quests/Adventure/1-1000/quest_498.md)** | Adventure quest (3) | Religious Studies (1) Exploration (1) Greek | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of the spiral tower](Quests/Other/quest_6484.md)** | Pursuit quest (4) | Religious Studies (14) Visual Recognition (12) Spanish | Remuneration: 275,000 / Advance payment: 0 |
+| **[Additional investigation of the spiral tower](docs/Quests/Other/6001-7000/quest_6484.md)** | Pursuit quest (4) | Religious Studies (14) Visual Recognition (12) Spanish | Remuneration: 275,000 / Advance payment: 0 |

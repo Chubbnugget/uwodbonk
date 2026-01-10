@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The place where heaven and earth turned upside down](Quests/Adventure/quest_5706.md)** | Adventure quest (7) | Geography (10) Visualization (8) Arabic (1) | Reward: 274,000 / Advance payment: 20,000 Experience: 260 / Fame: 150 |
+| **[The place where heaven and earth turned upside down](docs/Quests/Adventure/5001-6000/quest_5706.md)** | Adventure quest (7) | Geography (10) Visualization (8) Arabic (1) | Reward: 274,000 / Advance payment: 20,000 Experience: 260 / Fame: 150 |

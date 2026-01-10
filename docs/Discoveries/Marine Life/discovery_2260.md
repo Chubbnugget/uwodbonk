@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red sunfish](Quests/Other/quest_1719.md)** | Fishing (3) | Fishing (3) |  |
+| **[Red sunfish](docs/Quests/Other/1001-2000/quest_1719.md)** | Fishing (3) | Fishing (3) |  |

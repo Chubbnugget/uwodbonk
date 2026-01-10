@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of sea turtles](Quests/Other/quest_377.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |
+| **[Map of sea turtles](docs/Quests/Other/1-1000/quest_377.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |

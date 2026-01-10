@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tapestry Map](Quests/Other/quest_204.md)** | Treasures鑑定(3) | 探索(3)Treasures鑑定(3) |  |
+| **[Tapestry Map](docs/Quests/Other/1-1000/quest_204.md)** | Treasures鑑定(3) | 探索(3)Treasures鑑定(3) |  |

@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unfinished map](Quests/Other/quest_2748.md)** | Geography学(7) | Geography(7)Visibility(7) | Experience：270 |
+| **[Unfinished map](docs/Quests/Other/2001-3000/quest_2748.md)** | Geography学(7) | Geography(7)Visibility(7) | Experience：270 |

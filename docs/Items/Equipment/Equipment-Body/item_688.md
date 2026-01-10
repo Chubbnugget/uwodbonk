@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | dolman |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 153,900 |
 | **Description** | A long gown and shirt worn by Arab merchants. Gender restrictions Male Durability 30 Formal wear 10 Disguise 40 Defense 10 Storage +1 Total required fame 2000 |

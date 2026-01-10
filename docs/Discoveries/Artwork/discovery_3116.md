@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mask Search](Quests/Adventure/quest_5850.md)** | Adventure quest (10) | Exploration (15) Art (17) West African languages | Reward: 472,000/Advance payment: 40,000Experience: 380 |
+| **[Mask Search](docs/Quests/Adventure/5001-6000/quest_5850.md)** | Adventure quest (10) | Exploration (15) Art (17) West African languages | Reward: 472,000/Advance payment: 40,000Experience: 380 |

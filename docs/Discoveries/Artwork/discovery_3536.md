@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of valuable tea utensils](Quests/Other/quest_6458.md)** | Pursuit quest (5) | 探索(15)美術(17)日本語(1) | Reward: 555,000 / Advance payment: 0Experience: 990 |
+| **[Additional investigation of valuable tea utensils](docs/Quests/Other/6001-7000/quest_6458.md)** | Pursuit quest (5) | 探索(15)美術(17)日本語(1) | Reward: 555,000 / Advance payment: 0Experience: 990 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Panama Stink Case Files](Quests/Adventure/quest_6324.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Spanish | Reward: 116,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[Panama Stink Case Files](docs/Quests/Adventure/6001-7000/quest_6324.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Spanish | Reward: 116,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

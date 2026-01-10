@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Da Vinci's first major work](Quests/Adventure/quest_195.md)** | Adventure quest (5) | Exploration (2) Art (4) French | Reward: 38,000 / Advance payment: 0Experience: 210 / Fame: 105 |
+| **[Da Vinci's first major work](docs/Quests/Adventure/1-1000/quest_195.md)** | Adventure quest (5) | Exploration (2) Art (4) French | Reward: 38,000 / Advance payment: 0Experience: 210 / Fame: 105 |

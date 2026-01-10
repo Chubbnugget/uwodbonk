@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[If you wait, there will be good weather for the sea route](Quests/Adventure/quest_6176.md)** | Adventure Quest (5) B.C. | Ecological research (4) Biology (6) Greek | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[If you wait, there will be good weather for the sea route](docs/Quests/Adventure/6001-7000/quest_6176.md)** | Adventure Quest (5) B.C. | Ecological research (4) Biology (6) Greek | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 70 |

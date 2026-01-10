@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Life of the Ancients](Quests/Adventure/quest_559.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Indian languages | Reward: 104,000 / Advance payment: 0Experience: 140 / Fame: 75 |
+| **[Life of the Ancients](docs/Quests/Adventure/1-1000/quest_559.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Indian languages | Reward: 104,000 / Advance payment: 0Experience: 140 / Fame: 75 |

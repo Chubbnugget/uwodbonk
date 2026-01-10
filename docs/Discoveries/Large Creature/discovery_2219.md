@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of cows living near the water](Quests/Other/quest_713.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |
+| **[Map of cows living near the water](docs/Quests/Other/1-1000/quest_713.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |

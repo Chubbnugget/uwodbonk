@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Doll buried in the cliff](Quests/Adventure/quest_2483.md)** | Adventure quest (6) | Religious Studies(7)Explore(5)Japanese | Reward: 133,000 / Advance payment: 10,000 Experience: 360 / Fame: 85 |
+| **[Doll buried in the cliff](docs/Quests/Adventure/2001-3000/quest_2483.md)** | Adventure quest (6) | Religious Studies(7)Explore(5)Japanese | Reward: 133,000 / Advance payment: 10,000 Experience: 360 / Fame: 85 |

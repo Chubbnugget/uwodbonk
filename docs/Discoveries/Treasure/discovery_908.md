@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gorgeous Armor Map](Quests/Other/quest_580.md)** | Treasures鑑定(6) | Exploration (6) Treasures Appraisal (6) Unlocking (6) |  |
+| **[Gorgeous Armor Map](docs/Quests/Other/1-1000/quest_580.md)** | Treasures鑑定(6) | Exploration (6) Treasures Appraisal (6) Unlocking (6) |  |

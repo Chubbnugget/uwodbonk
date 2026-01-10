@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Monster Bay](Quests/Adventure/quest_3185.md)** | Adventure quest (9) | Geography (9) Visualization (7) Spanish | Reward: 195,000 / Advance payment: 10,000 Experience: 240 / Fame: 105 |
+| **[Monster Bay](docs/Quests/Adventure/3001-4000/quest_3185.md)** | Adventure quest (9) | Geography (9) Visualization (7) Spanish | Reward: 195,000 / Advance payment: 10,000 Experience: 240 / Fame: 105 |

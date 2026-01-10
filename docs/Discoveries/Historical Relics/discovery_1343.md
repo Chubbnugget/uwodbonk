@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mysterious ancient people](Quests/Adventure/quest_890.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Greek | Reward: 2,000Experience: 160/ Fame: 75 |
+| **[Mysterious ancient people](docs/Quests/Adventure/1-1000/quest_890.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Greek | Reward: 2,000Experience: 160/ Fame: 75 |

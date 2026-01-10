@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sheep that shines in the sky](Quests/Adventure/quest_3774.md)** | Adventure Quest (6) Mythology Era | Astronomy (7) Visualization (5) Turkish | Reward: 94,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Sheep that shines in the sky](docs/Quests/Adventure/3001-4000/quest_3774.md)** | Adventure Quest (6) Mythology Era | Astronomy (7) Visualization (5) Turkish | Reward: 94,000 / Advance payment: 0Experience: 150 / Fame: 75 |

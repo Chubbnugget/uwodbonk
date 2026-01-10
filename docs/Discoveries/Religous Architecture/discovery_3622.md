@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Minaret of Kairouan](Quests/Other/quest_6556.md)** | Legacy(1) | - |  |
+| **[Minaret of Kairouan](docs/Quests/Other/6001-7000/quest_6556.md)** | Legacy(1) | - |  |

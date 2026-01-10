@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Little Bird Map](Quests/Other/quest_1458.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Little Bird Map](docs/Quests/Other/1001-2000/quest_1458.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

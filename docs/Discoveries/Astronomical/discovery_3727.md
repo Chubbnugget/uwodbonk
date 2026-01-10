@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Alferatz](Quests/Other/quest_6677.md)** | Celestial Object Discovery Name(8)16th Century Issue 4 | Astronomy(8)Visualization(8) | Experience：640 |
+| **[Alferatz](docs/Quests/Other/6001-7000/quest_6677.md)** | Celestial Object Discovery Name(8)16th Century Issue 4 | Astronomy(8)Visualization(8) | Experience：640 |

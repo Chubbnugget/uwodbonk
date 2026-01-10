@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Emerald Snake](Quests/Adventure/quest_5289.md)** | Adventure quest (7) | Ecological research (5) Biology (7) Swahili | Reward: 124,000 / Advance payment: 10,000 Experience: 160 / Fame: 90 |
+| **[Emerald Snake](docs/Quests/Adventure/5001-6000/quest_5289.md)** | Adventure quest (7) | Ecological research (5) Biology (7) Swahili | Reward: 124,000 / Advance payment: 10,000 Experience: 160 / Fame: 90 |

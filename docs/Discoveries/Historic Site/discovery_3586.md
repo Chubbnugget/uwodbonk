@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stadion of Delphi](Quests/Other/quest_6514.md)** | Legacy(1) | - |  |
+| **[Stadion of Delphi](docs/Quests/Other/6001-7000/quest_6514.md)** | Legacy(1) | - |  |

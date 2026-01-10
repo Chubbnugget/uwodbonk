@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Observation record of Sat Stars](Quests/Other/quest_3900.md)** | Astronomy(7) | Astronomy(7)Visualization(7) |  |
+| **[Observation record of Sat Stars](docs/Quests/Other/3001-4000/quest_3900.md)** | Astronomy(7) | Astronomy(7)Visualization(7) |  |

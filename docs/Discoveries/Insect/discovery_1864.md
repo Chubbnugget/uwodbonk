@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Ant](Quests/Adventure/quest_2081.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Quechua | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Giant Ant](docs/Quests/Adventure/2001-3000/quest_2081.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Quechua | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 70 |

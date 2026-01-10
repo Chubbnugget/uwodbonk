@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gaya's Record](Quests/Adventure/quest_2688.md)** | Adventure quest (2) | Exploration (1) Archeology (3) Unlocking (1) | Reward: 92,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Gaya's Record](docs/Quests/Adventure/2001-3000/quest_2688.md)** | Adventure quest (2) | Exploration (1) Archeology (3) Unlocking (1) | Reward: 92,000 / Advance payment: 0Experience: 150 / Fame: 70 |

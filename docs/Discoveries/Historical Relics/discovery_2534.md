@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[紅毛城（深層隠し部屋）](Quests/Other/quest_4807.md)** | Dungeon (5) | - |  |
+| **[紅毛城（深層隠し部屋）](docs/Quests/Other/4001-5000/quest_4807.md)** | Dungeon (5) | - |  |

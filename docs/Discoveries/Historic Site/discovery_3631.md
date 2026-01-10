@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of the city built by Paphos](Quests/Other/quest_6572.md)** | Pursuit quest (3) | Archeology (10) Visualization (8) Spanish (1) | Reward: 240,000 / Advance payment: 0Experience: 400 |
+| **[Additional investigation of the city built by Paphos](docs/Quests/Other/6001-7000/quest_6572.md)** | Pursuit quest (3) | Archeology (10) Visualization (8) Spanish (1) | Reward: 240,000 / Advance payment: 0Experience: 400 |

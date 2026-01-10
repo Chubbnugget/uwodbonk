@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Seeking pilgrimage site](Quests/Adventure/quest_6050.md)** | Adventure quest (6) | Religious Studies (7) Visualization (5) Arabic (1) | Reward: 406,000 / Advance payment: 40,000 Experience: 340 / Fame: 205 |
+| **[Seeking pilgrimage site](docs/Quests/Adventure/6001-7000/quest_6050.md)** | Adventure quest (6) | Religious Studies (7) Visualization (5) Arabic (1) | Reward: 406,000 / Advance payment: 40,000 Experience: 340 / Fame: 205 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Vice Rainbow](Quests/Other/quest_6001.md)** | Weather/phenomena (2) | Visual recognition (4) | Experience：240 |
+| **[Vice Rainbow](docs/Quests/Other/6001-7000/quest_6001.md)** | Weather/phenomena (2) | Visual recognition (4) | Experience：240 |

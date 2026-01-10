@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Horned Snake Investigation](Quests/Adventure/quest_5298.md)** | Adventure quest (8) | Ecological Survey (8) Biology (10) Portuguese | Reward: 128,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |
+| **[Horned Snake Investigation](docs/Quests/Adventure/5001-6000/quest_5298.md)** | Adventure quest (8) | Ecological Survey (8) Biology (10) Portuguese | Reward: 128,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |

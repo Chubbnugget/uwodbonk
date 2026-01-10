@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mesoamerican bowl map](Quests/Other/quest_1590.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |
+| **[Mesoamerican bowl map](docs/Quests/Other/1001-2000/quest_1590.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |

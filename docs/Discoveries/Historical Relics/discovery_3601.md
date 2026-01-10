@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fasari's Astrolabe](Quests/Other/quest_6534.md)** | Legacy(1) | - | Experience：1,500 |
+| **[Fasari's Astrolabe](docs/Quests/Other/6001-7000/quest_6534.md)** | Legacy(1) | - | Experience：1,500 |

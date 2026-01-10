@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mogadishu](Quests/Other/quest_5162.md)** | Port/village (1) | - |  |
+| **[Mogadishu](docs/Quests/Other/5001-6000/quest_5162.md)** | Port/village (1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mysterious tropical flower](Quests/Adventure/quest_896.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Spanish | Reward: 137,000 / Advance payment: 50,000 Experience: 200 / Fame: 95 |
+| **[Mysterious tropical flower](docs/Quests/Adventure/1-1000/quest_896.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Spanish | Reward: 137,000 / Advance payment: 50,000 Experience: 200 / Fame: 95 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King of Palenque](Quests/Adventure/quest_1437.md)** | Adventure quest (6) | Exploration (5) Archeology (7) Unlocking (5) | Reward: 108,000 / Advance payment: 10,000 Experience: 285 / Fame: 95 |
+| **[King of Palenque](docs/Quests/Adventure/1001-2000/quest_1437.md)** | Adventure quest (6) | Exploration (5) Archeology (7) Unlocking (5) | Reward: 108,000 / Advance payment: 10,000 Experience: 285 / Fame: 95 |

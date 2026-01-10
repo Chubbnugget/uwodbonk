@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Little Rabbit Map](Quests/Other/quest_5616.md)** | Re-examination reward (7) | Ecological Survey(7)Biology(7) |  |
+| **[Little Rabbit Map](docs/Quests/Other/5001-6000/quest_5616.md)** | Re-examination reward (7) | Ecological Survey(7)Biology(7) |  |

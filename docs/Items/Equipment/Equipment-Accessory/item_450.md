@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | diamond earrings |
 | **Type** | thing |
-| **Group** | [Equipment（服飾品）](Categories/category_28.md) |
+| **Group** | [Equipment（服飾品）](docs/Categories/category_28.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 7,000,000 |
 | **Description** | A very beautiful earring decorated with diamonds. Durability 20 Formal wear 80 Effect when used: Enhancement of wooing skill Jewelry trading +2 Craft trading +2 Marching +1 Total required fame 800 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of a woman's daily life](Quests/Other/quest_6901.md)** | 美術(15) | 探索(15)美術(15) |  |
+| **[Map of a woman's daily life](docs/Quests/Other/6001-7000/quest_6901.md)** | 美術(15) | 探索(15)美術(15) |  |

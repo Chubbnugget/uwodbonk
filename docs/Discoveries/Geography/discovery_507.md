@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Geography survey of the east coast of Taiwan Island](Quests/Adventure/quest_2542.md)** | Adventure quest (4) | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 109,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[Geography survey of the east coast of Taiwan Island](docs/Quests/Adventure/2001-3000/quest_2542.md)** | Adventure quest (4) | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 109,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

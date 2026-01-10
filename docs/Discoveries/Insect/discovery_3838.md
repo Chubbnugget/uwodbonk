@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Spider with a clock](Quests/Adventure/quest_6810.md)** | Adventure quest (9) | Ecological research (11) Biology (13) Mayan languages ​​(1) | Reward: 238,000/Advance: 20,000Experience: 240 |
+| **[Spider with a clock](docs/Quests/Adventure/6001-7000/quest_6810.md)** | Adventure quest (9) | Ecological research (11) Biology (13) Mayan languages ​​(1) | Reward: 238,000/Advance: 20,000Experience: 240 |

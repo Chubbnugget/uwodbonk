@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Past of the Royal Castle](Quests/Adventure/quest_2482.md)** | Adventure Quest (7) 17th Century 2nd Period | Archeology (9) Visualization (7) Chinese | Reward: 134,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Past of the Royal Castle](docs/Quests/Adventure/2001-3000/quest_2482.md)** | Adventure Quest (7) 17th Century 2nd Period | Archeology (9) Visualization (7) Chinese | Reward: 134,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

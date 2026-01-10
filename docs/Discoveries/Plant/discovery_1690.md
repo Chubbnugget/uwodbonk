@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Yellow beautiful circle](Quests/Adventure/quest_366.md)** | Adventure quest (5) | Ecological research (3) Biology (5) Greek | Reward: 48,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Yellow beautiful circle](docs/Quests/Adventure/1-1000/quest_366.md)** | Adventure quest (5) | Ecological research (3) Biology (5) Greek | Reward: 48,000 / Advance payment: 0Experience: 140 / Fame: 70 |

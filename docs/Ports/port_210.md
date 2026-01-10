@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 | **Sea Area** | Southern Britain |
 | **Required Language** | English |
 | **Coordinates** | （16256，2488） |
-| **Investment Reward** | [Improved large cannon casting method](Items/Recipe Book/item_5127.md) （必要投資額：2,000,000ドゥカード） |
+| **Investment Reward** | [Improved large cannon casting method](docs/Items/RecipeBooks/item_5127.md) （必要投資額：2,000,000ドゥカード） |
 
 ### Available Facilities
 
@@ -42,74 +42,74 @@ A town in southern Britain. It served as a military port during the Crusades and
 
 | item | group | purchase price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
-| [garlic](Items/Trade Goods/TradeGoods-Spices/item_526.md) | [Trading Goods (Spices)](Categories/category_12.md) | (278) | 244 |  |
-| [bacon](Items/Trade Goods/TradeGoods-Foodstuffs/item_566.md) | [Trading items (food items)](Categories/category_3.md) | (370) | 324 |  |
+| [garlic](docs/Items/TradeGoods/TradeGoods-Spices/item_526.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | (278) | 244 |  |
+| [bacon](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_566.md) | [Trading items (food items)](docs/Categories/category_3.md) | (370) | 324 |  |
 | 要投資（必要投資額：不明） 251k以上270k以下 |
-| [大砲](Items/Trade Goods/TradeGoods-Firearms/item_4.md) | [Trading Items (Firearms)](Categories/category_17.md) | 3,575 | (3,128) |  |
+| [大砲](docs/Items/TradeGoods/TradeGoods-Firearms/item_4.md) | [Trading Items (Firearms)](docs/Categories/category_17.md) | 3,575 | (3,128) |  |
 | 要投資（必要投資額：8,500,000） |
-| [woolen fabric](Items/Trade Goods/TradeGoods-Fabrics/item_163.md) | [交易品（織物）](Categories/category_20.md) | (928) | 812 |  |
-| [coal](Items/Trade Goods/TradeGoods-Wares/item_359.md) | [交易品（工業品）](Categories/category_19.md) | (475) | 416 |  |
+| [woolen fabric](docs/Items/TradeGoods/TradeGoods-Fabrics/item_163.md) | [交易品（織物）](docs/Categories/category_20.md) | (928) | 812 |  |
+| [coal](docs/Items/TradeGoods/TradeGoods-Wares/item_359.md) | [交易品（工業品）](docs/Categories/category_19.md) | (475) | 416 |  |
 | 要投資（必要投資額：不明） 291k以上310k以下 |
-| [mutton](Items/Trade Goods/TradeGoods-Foodstuffs/item_33.md) | [Trading items (food items)](Categories/category_3.md) | (361) | 316 |  |
-| [pork](Items/Trade Goods/TradeGoods-Foodstuffs/item_41.md) | [Trading items (food items)](Categories/category_3.md) | (347) | 304 |  |
+| [mutton](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_33.md) | [Trading items (food items)](docs/Categories/category_3.md) | (361) | 316 |  |
+| [pork](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_41.md) | [Trading items (food items)](docs/Categories/category_3.md) | (347) | 304 |  |
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
 | item | group | sale price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [交易品（繊維）](Categories/category_1.md)
+#### [交易品（繊維）](docs/Categories/category_1.md)
 
-| [Green ramie](Items/Trade Goods/TradeGoods-Fibers/item_3428.md) | 交易品（繊維） | (24,128) | 28,153 |  |
-| [deerskin](Items/Trade Goods/TradeGoods-Fibers/item_3648.md) | 交易品（繊維） | (23,092) | 26,945 |  |
+| [Green ramie](docs/Items/TradeGoods/TradeGoods-Fibers/item_3428.md) | 交易品（繊維） | (24,128) | 28,153 |  |
+| [deerskin](docs/Items/TradeGoods/TradeGoods-Fibers/item_3648.md) | 交易品（繊維） | (23,092) | 26,945 |  |
 
-#### [交易品（雑貨）](Categories/category_5.md)
+#### [交易品（雑貨）](docs/Categories/category_5.md)
 
-| [old ink stick](Items/Trade Goods/TradeGoods-Misc/item_3921.md) | 交易品（雑貨） | (10,027) | 11,700 |  |
+| [old ink stick](docs/Items/TradeGoods/TradeGoods-Misc/item_3921.md) | 交易品（雑貨） | (10,027) | 11,700 |  |
 
-#### [Trading products (medical products)](Categories/category_6.md)
+#### [Trading products (medical products)](docs/Categories/category_6.md)
 
-| [Borei](Items/Trade Goods/TradeGoods-Medicine/item_3678.md) | Trading products (medical products) | (23,339) | 27,233 |  |
+| [Borei](docs/Items/TradeGoods/TradeGoods-Medicine/item_3678.md) | Trading products (medical products) | (23,339) | 27,233 |  |
 
-#### [Trading Items (Iron Stone)](Categories/category_7.md)
+#### [Trading Items (Iron Stone)](docs/Categories/category_7.md)
 
-| [white porcelain ore](Items/Trade Goods/TradeGoods-Minerals/item_3433.md) | Trading Items (Iron Stone) | (25,808) | 30,114 |  |
+| [white porcelain ore](docs/Items/TradeGoods/TradeGoods-Minerals/item_3433.md) | Trading Items (Iron Stone) | (25,808) | 30,114 |  |
 
-#### [交易品（酒類）](Categories/category_9.md)
+#### [交易品（酒類）](docs/Categories/category_9.md)
 
-| [Taiwan rice wine](Items/Trade Goods/TradeGoods-Alcohol/item_3672.md) | 交易品（酒類） | (32,309) | 37,700 |  |
+| [Taiwan rice wine](docs/Items/TradeGoods/TradeGoods-Alcohol/item_3672.md) | 交易品（酒類） | (32,309) | 37,700 |  |
 | 2017.11.12 Home country 100% = 37,700 confirmed |
-| [Sake](Items/Trade Goods/TradeGoods-Alcohol/item_3424.md) | 交易品（酒類） | (25,945) | 30,274 |  |
+| [Sake](docs/Items/TradeGoods/TradeGoods-Alcohol/item_3424.md) | 交易品（酒類） | (25,945) | 30,274 |  |
 
-#### [Trading goods (hobby goods)](Categories/category_10.md)
+#### [Trading goods (hobby goods)](docs/Categories/category_10.md)
 
-| [Aigyoku](Items/Trade Goods/TradeGoods-Sunddries/item_3677.md) | Trading goods (hobby goods) | (22,520) | 26,277 |  |
-| [cacao](Items/Trade Goods/TradeGoods-Sunddries/item_140.md) | Trading goods (hobby goods) | (1,524) | 1,778 |  |
-| [cranberry](Items/Trade Goods/TradeGoods-Sunddries/item_4008.md) | Trading goods (hobby goods) | (1,083) | 1,263 |  |
-| [tobacco](Items/Trade Goods/TradeGoods-Sunddries/item_109.md) | Trading goods (hobby goods) | (4,815) | 5,618 |  |
-| [chicle](Items/Trade Goods/TradeGoods-Sunddries/item_4083.md) | Trading goods (hobby goods) | (2,117) | 2,470 |  |
-| [pineapple](Items/Trade Goods/TradeGoods-Sunddries/item_867.md) | Trading goods (hobby goods) | (2,018) | 2,354 |  |
-| [peanuts](Items/Trade Goods/TradeGoods-Sunddries/item_134.md) | Trading goods (hobby goods) | (387) | 451 |  |
+| [Aigyoku](docs/Items/TradeGoods/TradeGoods-Sunddries/item_3677.md) | Trading goods (hobby goods) | (22,520) | 26,277 |  |
+| [cacao](docs/Items/TradeGoods/TradeGoods-Sunddries/item_140.md) | Trading goods (hobby goods) | (1,524) | 1,778 |  |
+| [cranberry](docs/Items/TradeGoods/TradeGoods-Sunddries/item_4008.md) | Trading goods (hobby goods) | (1,083) | 1,263 |  |
+| [tobacco](docs/Items/TradeGoods/TradeGoods-Sunddries/item_109.md) | Trading goods (hobby goods) | (4,815) | 5,618 |  |
+| [chicle](docs/Items/TradeGoods/TradeGoods-Sunddries/item_4083.md) | Trading goods (hobby goods) | (2,117) | 2,470 |  |
+| [pineapple](docs/Items/TradeGoods/TradeGoods-Sunddries/item_867.md) | Trading goods (hobby goods) | (2,018) | 2,354 |  |
+| [peanuts](docs/Items/TradeGoods/TradeGoods-Sunddries/item_134.md) | Trading goods (hobby goods) | (387) | 451 |  |
 
-#### [Trading goods (artificial goods)](Categories/category_13.md)
+#### [Trading goods (artificial goods)](docs/Categories/category_13.md)
 
-| [Kuresute](Items/Trade Goods/TradeGoods-Luxuries/item_3897.md) | Trading goods (artificial goods) | (40,289) | 47,011 |  |
+| [Kuresute](docs/Items/TradeGoods/TradeGoods-Luxuries/item_3897.md) | Trading goods (artificial goods) | (40,289) | 47,011 |  |
 
-#### [交易品（美術品）](Categories/category_14.md)
+#### [交易品（美術品）](docs/Categories/category_14.md)
 
-| [taiwan wood carving](Items/Trade Goods/TradeGoods-Art/item_3697.md) | 交易品（美術品） | (33,172) | 38,707 |  |
+| [taiwan wood carving](docs/Items/TradeGoods/TradeGoods-Art/item_3697.md) | 交易品（美術品） | (33,172) | 38,707 |  |
 
-#### [Trading Goods (Livestock)](Categories/category_18.md)
+#### [Trading Goods (Livestock)](docs/Categories/category_18.md)
 
-| [boar](Items/Trade Goods/TradeGoods-Livestock/item_3476.md) | Trading Goods (Livestock) | (23,825) | 27,800 |  |
+| [boar](docs/Items/TradeGoods/TradeGoods-Livestock/item_3476.md) | Trading Goods (Livestock) | (23,825) | 27,800 |  |
 
-#### [交易品（工業品）](Categories/category_19.md)
+#### [交易品（工業品）](docs/Categories/category_19.md)
 
-| [Japanese paper](Items/Trade Goods/TradeGoods-Wares/item_3438.md) | 交易品（工業品） | (32,652) | 38,100 |  |
+| [Japanese paper](docs/Items/TradeGoods/TradeGoods-Wares/item_3438.md) | 交易品（工業品） | (32,652) | 38,100 |  |
 
-#### [交易品（織物）](Categories/category_20.md)
+#### [交易品（織物）](docs/Categories/category_20.md)
 
-| [Nishijin textile](Items/Trade Goods/TradeGoods-Fabrics/item_3431.md) | 交易品（織物） | (33,771) | 39,405 |  |
+| [Nishijin textile](docs/Items/TradeGoods/TradeGoods-Fabrics/item_3431.md) | 交易品（織物） | (33,771) | 39,405 |  |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
@@ -129,39 +129,39 @@ A town in southern Britain. It served as a military port during the Crusades and
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [Mode Design Collection Volume 1](Items/Recipe Book/item_92.md) | recipe book | 10,000 | tool shop owner |  |
-| [Sword training/application](Items/Recipe Book/item_589.md) | recipe book | 50,000 | tool shop owner |  |
-| [Textile secrets/fabric book](Items/Recipe Book/item_91.md) | recipe book | 10,000 | tool shop owner |  |
+| [Mode Design Collection Volume 1](docs/Items/RecipeBooks/item_92.md) | recipe book | 10,000 | tool shop owner |  |
+| [Sword training/application](docs/Items/RecipeBooks/item_589.md) | recipe book | 50,000 | tool shop owner |  |
+| [Textile secrets/fabric book](docs/Items/RecipeBooks/item_91.md) | recipe book | 10,000 | tool shop owner |  |
 
-#### [Equipment (belongings)](Categories/category_27.md)
+#### [Equipment (belongings)](docs/Categories/category_27.md)
 
-| [flintlock pistol](Items/Equipment/Equipment-Weapon/item_5122.md) | Equipment (belongings) | 3,000 | tool shop owner |  |
+| [flintlock pistol](docs/Items/Equipment/Equipment-Weapon/item_5122.md) | Equipment (belongings) | 3,000 | tool shop owner |  |
 | 要投資（必要投資額：180,000） |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [black kite feather](Items/Consumables/Consumables-Landbattle/item_88.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
-| [Assortment of wound medicine](Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
-| [therapeutic drug](Items/Consumables/Consumables-Landbattle/item_89.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
-| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
+| [black kite feather](docs/Items/Consumables/Consumables-Landbattle/item_88.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
+| [Assortment of wound medicine](docs/Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
+| [therapeutic drug](docs/Items/Consumables/Consumables-Landbattle/item_89.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [antidote](docs/Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
 
-#### [Consumables (other)](Categories/category_44.md)
+#### [Consumables (other)](docs/Categories/category_44.md)
 
-| [fossil fuel](Items/Consumables/Consumables-Other/item_5425.md) | Consumables (other) | 100,000 | tool shop owner |  |
+| [fossil fuel](docs/Items/Consumables/Consumables-Other/item_5425.md) | Consumables (other) | 100,000 | tool shop owner |  |
   </TabItem>
   <TabItem value="production factory" label="production factory">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [Production technology book/storage application edition (canning machine)](Items/Recipe Book/item_5149.md) | recipe book | Fixed recipe | production factory |  |
-| [Production technology book/Craft application edition (printing machine)](Items/Recipe Book/item_5147.md) | recipe book | Fixed recipe | production factory |  |
-| [Production technology book/Sewing application edition (loom)](Items/Recipe Book/item_5145.md) | recipe book | Fixed recipe | production factory |  |
-| [Production technology book/Cooking application edition (cooking table)](Items/Recipe Book/item_5150.md) | recipe book | Fixed recipe | production factory |  |
-| [Production technology book/casting application edition (blast furnace)](Items/Recipe Book/item_5148.md) | recipe book | Fixed recipe | production factory |  |
+| [Production technology book/storage application edition (canning machine)](docs/Items/RecipeBooks/item_5149.md) | recipe book | Fixed recipe | production factory |  |
+| [Production technology book/Craft application edition (printing machine)](docs/Items/RecipeBooks/item_5147.md) | recipe book | Fixed recipe | production factory |  |
+| [Production technology book/Sewing application edition (loom)](docs/Items/RecipeBooks/item_5145.md) | recipe book | Fixed recipe | production factory |  |
+| [Production technology book/Cooking application edition (cooking table)](docs/Items/RecipeBooks/item_5150.md) | recipe book | Fixed recipe | production factory |  |
+| [Production technology book/casting application edition (blast furnace)](docs/Items/RecipeBooks/item_5148.md) | recipe book | Fixed recipe | production factory |  |
   </TabItem>
 </Tabs>

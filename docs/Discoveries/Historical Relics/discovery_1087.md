@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Great war for supremacy](Quests/Adventure/quest_900.md)** | Adventure Quest (8) B.C. | Exploration (8) Archeology (10) Arabic | Reward: 211,000 / Advance payment: 0Experience: 210 / Fame: 110 |
+| **[Great war for supremacy](docs/Quests/Adventure/1-1000/quest_900.md)** | Adventure Quest (8) B.C. | Exploration (8) Archeology (10) Arabic | Reward: 211,000 / Advance payment: 0Experience: 210 / Fame: 110 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Aztec God of the Night](Quests/Adventure/quest_1192.md)** | Adventure quest (7) | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 96,000 / Advance payment: 10,000 Experience: 315 / Fame: 105 |
+| **[Aztec God of the Night](docs/Quests/Adventure/1001-2000/quest_1192.md)** | Adventure quest (7) | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 96,000 / Advance payment: 10,000 Experience: 315 / Fame: 105 |

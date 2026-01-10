@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ritual tools](Quests/Other/quest_1600.md)** | Religious Studies(5) | Religious Studies (5) Exploration (5) Unlocking (5) |  |
+| **[Map of ritual tools](docs/Quests/Other/1001-2000/quest_1600.md)** | Religious Studies(5) | Religious Studies (5) Exploration (5) Unlocking (5) |  |

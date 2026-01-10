@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Crocodile or fish](Quests/Adventure/quest_2961.md)** | Adventure quest (7) | Ecological research (8) Biology (10) French (1) | Reward: 209,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[Crocodile or fish](docs/Quests/Adventure/2001-3000/quest_2961.md)** | Adventure quest (7) | Ecological research (8) Biology (10) French (1) | Reward: 209,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

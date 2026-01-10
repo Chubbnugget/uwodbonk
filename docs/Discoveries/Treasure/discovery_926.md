@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Goldsmith Map](Quests/Other/quest_1820.md)** | Treasures鑑定(6) | Exploration (6) Treasures Appraisal (6) Unlocking (6) |  |
+| **[Goldsmith Map](docs/Quests/Other/1001-2000/quest_1820.md)** | Treasures鑑定(6) | Exploration (6) Treasures Appraisal (6) Unlocking (6) |  |

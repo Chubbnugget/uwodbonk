@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Living Stone Fish](Quests/Adventure/quest_1984.md)** | Adventure quest (9) | Ecological research (10) Biology (12) West African languages | Reward: 280,000 / Advance payment: 10,000 Experience: 495 / Fame: 165 |
+| **[Living Stone Fish](docs/Quests/Adventure/1001-2000/quest_1984.md)** | Adventure quest (9) | Ecological research (10) Biology (12) West African languages | Reward: 280,000 / Advance payment: 10,000 Experience: 495 / Fame: 165 |

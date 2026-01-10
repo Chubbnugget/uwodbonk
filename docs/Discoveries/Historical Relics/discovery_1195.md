@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Celtic Shield](Quests/Adventure/quest_3296.md)** | Adventure quest (6) | Exploration (8) Archeology (10) Unlocking (8) | Reward: 62,000 / Advance payment: 0Experience: 150 / Fame: 65 |
+| **[Celtic Shield](docs/Quests/Adventure/3001-4000/quest_3296.md)** | Adventure quest (6) | Exploration (8) Archeology (10) Unlocking (8) | Reward: 62,000 / Advance payment: 0Experience: 150 / Fame: 65 |

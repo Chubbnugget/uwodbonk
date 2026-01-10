@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fall of Academic City](Quests/Adventure/quest_6026.md)** | Adventure quest (6) | Exploration (7) Archeology (9) Arabic | Reward: 107,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[Fall of Academic City](docs/Quests/Adventure/6001-7000/quest_6026.md)** | Adventure quest (6) | Exploration (7) Archeology (9) Arabic | Reward: 107,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

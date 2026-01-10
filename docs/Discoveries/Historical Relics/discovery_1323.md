@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Colored brick map](Quests/Other/quest_604.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |
+| **[Colored brick map](docs/Quests/Other/1-1000/quest_604.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |

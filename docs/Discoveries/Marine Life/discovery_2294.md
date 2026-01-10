@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King Salmon](Quests/Other/quest_3675.md)** | Fishing (2) | Fishing (11) | Experience：280 |
+| **[King Salmon](docs/Quests/Other/3001-4000/quest_3675.md)** | Fishing (2) | Fishing (11) | Experience：280 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Plants that wish for prosperity](Quests/Adventure/quest_3584.md)** | Adventure quest (7) | Ecological research (5) Biology (7) Oceanian languages | Reward: 458,000 / Advance payment: 40,000 Experience: 460 / Fame: 185 |
+| **[Plants that wish for prosperity](docs/Quests/Adventure/3001-4000/quest_3584.md)** | Adventure quest (7) | Ecological research (5) Biology (7) Oceanian languages | Reward: 458,000 / Advance payment: 40,000 Experience: 460 / Fame: 185 |

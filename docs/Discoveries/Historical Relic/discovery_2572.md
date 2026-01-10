@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Seal of the Fierce General](Quests/Other/quest_3630.md)** | Treasure hunting (10) | Exploration (15) Archeology (17) Latin | Experience: 3,440/ Reputation: 1,375 |
+| **[Seal of the Fierce General](docs/Quests/Other/3001-4000/quest_3630.md)** | Treasure hunting (10) | Exploration (15) Archeology (17) Latin | Experience: 3,440/ Reputation: 1,375 |

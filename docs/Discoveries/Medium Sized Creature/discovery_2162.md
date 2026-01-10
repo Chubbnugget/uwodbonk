@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Animals that build their homes](Quests/Adventure/quest_3894.md)** | Adventure quest (7) 19th century | Ecological research (6) Biology (8) North American languages | Reward: 314,000 / Advance payment: 30,000 Experience: 320 / Fame: 130 |
+| **[Animals that build their homes](docs/Quests/Adventure/3001-4000/quest_3894.md)** | Adventure quest (7) 19th century | Ecological research (6) Biology (8) North American languages | Reward: 314,000 / Advance payment: 30,000 Experience: 320 / Fame: 130 |

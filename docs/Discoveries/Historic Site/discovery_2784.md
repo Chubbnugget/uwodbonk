@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Theater Investigation](Quests/Adventure/quest_5392.md)** | Adventure quest (7) 18th century third period | Archeology (9) Visualization (7) Greek | Reward: 220,000/ Advance: 20,000Experience: 220/ Fame: 130 |
+| **[Ancient Theater Investigation](docs/Quests/Adventure/5001-6000/quest_5392.md)** | Adventure quest (7) 18th century third period | Archeology (9) Visualization (7) Greek | Reward: 220,000/ Advance: 20,000Experience: 220/ Fame: 130 |

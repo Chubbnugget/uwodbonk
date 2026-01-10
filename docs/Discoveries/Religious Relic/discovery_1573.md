@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bible consultation](Quests/Adventure/quest_3807.md)** | Adventure Quest (9) 17th Century 4th Period | Religious Studies (10) Exploration (8) Portuguese | Reward: 1,278,000 / Advance payment: 20,000 Experience: 310 / Fame: 260 |
+| **[Bible consultation](docs/Quests/Adventure/3001-4000/quest_3807.md)** | Adventure Quest (9) 17th Century 4th Period | Religious Studies (10) Exploration (8) Portuguese | Reward: 1,278,000 / Advance payment: 20,000 Experience: 310 / Fame: 260 |

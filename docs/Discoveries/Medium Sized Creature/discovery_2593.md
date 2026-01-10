@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mosaic carapace](Quests/Adventure/quest_4960.md)** | Adventure quest (4) | Ecological research (4) Biology (6) Arabic (1) | Reward: 315,000 / Advance payment: 30,000 Experience: 340 / Fame: 140 |
+| **[Mosaic carapace](docs/Quests/Adventure/4001-5000/quest_4960.md)** | Adventure quest (4) | Ecological research (4) Biology (6) Arabic (1) | Reward: 315,000 / Advance payment: 30,000 Experience: 340 / Fame: 140 |

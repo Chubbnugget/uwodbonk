@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Santa Maria](Quests/Other/quest_1886.md)** | Sunken ship (5) | Salvage visibility (5) | Experience：600 |
+| **[Santa Maria](docs/Quests/Other/1001-2000/quest_1886.md)** | Sunken ship (5) | Salvage visibility (5) | Experience：600 |

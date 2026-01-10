@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Discovery of ancestors](Quests/Adventure/quest_5692.md)** | Adventure quest (4) | Ecological research (4) Biology (6) Portuguese (1) | Reward: 122,000 / Advance payment: 10,000 Experience: 160 / Fame: 90 |
+| **[Discovery of ancestors](docs/Quests/Adventure/5001-6000/quest_5692.md)** | Adventure quest (4) | Ecological research (4) Biology (6) Portuguese (1) | Reward: 122,000 / Advance payment: 10,000 Experience: 160 / Fame: 90 |

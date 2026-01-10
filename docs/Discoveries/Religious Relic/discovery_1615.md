@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The origins of Greek mythology](Quests/Adventure/quest_126.md)** | Adventure quest (3) | Religious Studies (1) Exploration (1) Greek | Reward: 7,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[The origins of Greek mythology](docs/Quests/Adventure/1-1000/quest_126.md)** | Adventure quest (3) | Religious Studies (1) Exploration (1) Greek | Reward: 7,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful pot map](Quests/Other/quest_925.md)** | Treasures鑑定(4) | 探索(4)Treasures鑑定(4) |  |
+| **[Beautiful pot map](docs/Quests/Other/1-1000/quest_925.md)** | Treasures鑑定(4) | 探索(4)Treasures鑑定(4) |  |

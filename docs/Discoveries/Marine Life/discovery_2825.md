@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black Crocodile Map](Quests/Other/quest_5475.md)** | Biology学(8) | Ecological Survey(8)Biology(8) | Experience：270 |
+| **[Black Crocodile Map](docs/Quests/Other/5001-6000/quest_5475.md)** | Biology学(8) | Ecological Survey(8)Biology(8) | Experience：270 |

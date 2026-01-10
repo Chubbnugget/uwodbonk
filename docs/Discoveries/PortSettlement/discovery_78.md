@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tacoma](Quests/Other/quest_5088.md)** | Port/village | - |  |
+| **[Tacoma](docs/Quests/Other/5001-6000/quest_5088.md)** | Port/village | - |  |

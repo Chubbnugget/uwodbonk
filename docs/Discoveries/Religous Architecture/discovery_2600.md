@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A state of prayer and meditation](Quests/Adventure/quest_4971.md)** | Adventure quest (2) 14th century | Religious Studies (3) Visualization (1) Greek | Reward: 72,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[A state of prayer and meditation](docs/Quests/Adventure/4001-5000/quest_4971.md)** | Adventure quest (2) 14th century | Religious Studies (3) Visualization (1) Greek | Reward: 72,000 / Advance payment: 0Experience: 130 / Fame: 65 |

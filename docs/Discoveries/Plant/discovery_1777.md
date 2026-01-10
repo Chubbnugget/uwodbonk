@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of tree with bent branches](Quests/Other/quest_3163.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |
+| **[Map of tree with bent branches](docs/Quests/Other/3001-4000/quest_3163.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |

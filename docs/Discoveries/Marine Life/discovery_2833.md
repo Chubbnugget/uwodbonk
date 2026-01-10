@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue shark](Quests/Other/quest_5490.md)** | Fishing (7) | fishing |  |
+| **[Blue shark](docs/Quests/Other/5001-6000/quest_5490.md)** | Fishing (7) | fishing |  |

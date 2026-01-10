@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pollux](Quests/Other/quest_3789.md)** | Celestial Object Discovery Name(5)16th Century Issue 5 | Astronomy(5) |  |
+| **[Pollux](docs/Quests/Other/3001-4000/quest_3789.md)** | Celestial Object Discovery Name(5)16th Century Issue 5 | Astronomy(5) |  |

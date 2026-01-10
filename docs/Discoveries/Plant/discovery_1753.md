@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lilies blooming in the wasteland](Quests/Adventure/quest_2561.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Chinese (1) | Reward: 128,000/ Advance: 10,000 Experience: 180/ Fame: 85 |
+| **[Lilies blooming in the wasteland](docs/Quests/Adventure/2001-3000/quest_2561.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Chinese (1) | Reward: 128,000/ Advance: 10,000 Experience: 180/ Fame: 85 |

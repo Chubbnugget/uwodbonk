@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King of the Four Realms](Quests/Adventure/quest_3390.md)** | Adventure quest (7) | Exploration (6) Archeology (8) Unlocking (6) | Reward: 636,000 / Advance payment: 60,000 Experience: 600 / Fame: 240 |
+| **[King of the Four Realms](docs/Quests/Adventure/3001-4000/quest_3390.md)** | Adventure quest (7) | Exploration (6) Archeology (8) Unlocking (6) | Reward: 636,000 / Advance payment: 60,000 Experience: 600 / Fame: 240 |

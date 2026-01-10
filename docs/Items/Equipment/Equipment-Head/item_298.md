@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | flat cap with wings |
 | **Type** | thing |
-| **Group** | [Equipment（頭）](Categories/category_23.md) |
+| **Group** | [Equipment（頭）](docs/Categories/category_23.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 5,100 |
 | **Description** | A flat, short-brimmed hat with a feather headdress. *5 colors Durability 35 Formal wear 5 Defense 2 Total required fame 200 |

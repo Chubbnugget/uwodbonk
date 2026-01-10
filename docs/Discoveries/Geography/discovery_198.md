@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A place where birds gather](Quests/Adventure/quest_1773.md)** | Adventure quest (6) | Geography (8) Visualization (6) Quechua | Reward: 112,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[A place where birds gather](docs/Quests/Adventure/1001-2000/quest_1773.md)** | Adventure quest (6) | Geography (8) Visualization (6) Quechua | Reward: 112,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

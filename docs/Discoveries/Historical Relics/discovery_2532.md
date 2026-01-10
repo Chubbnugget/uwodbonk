@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Leshan Great Buddha (middle level hidden room)](Quests/Other/quest_4814.md)** | Dungeon (5) | - |  |
+| **[Leshan Great Buddha (middle level hidden room)](docs/Quests/Other/4001-5000/quest_4814.md)** | Dungeon (5) | - |  |

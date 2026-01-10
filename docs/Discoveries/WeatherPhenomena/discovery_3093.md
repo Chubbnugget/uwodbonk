@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[乳房雲](Quests/Other/quest_5831.md)** | Weather/phenomena (5) | Visual recognition (5) | Experience：320 |
+| **[乳房雲](docs/Quests/Other/5001-6000/quest_5831.md)** | Weather/phenomena (5) | Visual recognition (5) | Experience：320 |

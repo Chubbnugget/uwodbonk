@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The reason for the pink color](Quests/Adventure/quest_3823.md)** | Adventure quest (8) | Ecological Survey (8) Biology (10) Spanish | Reward: 216,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[The reason for the pink color](docs/Quests/Adventure/3001-4000/quest_3823.md)** | Adventure quest (8) | Ecological Survey (8) Biology (10) Spanish | Reward: 216,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

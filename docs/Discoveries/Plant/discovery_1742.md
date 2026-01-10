@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Charm in Yakushima](Quests/Adventure/quest_2406.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Japanese | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Charm in Yakushima](docs/Quests/Adventure/2001-3000/quest_2406.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Japanese | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Small fruit](Quests/Adventure/quest_2725.md)** | Adventure quest (4) | Ecological Survey (4) Biology (6) Korean | Reward: 216,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[Small fruit](docs/Quests/Adventure/2001-3000/quest_2725.md)** | Adventure quest (4) | Ecological Survey (4) Biology (6) Korean | Reward: 216,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

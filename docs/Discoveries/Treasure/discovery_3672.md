@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jiuding](Quests/Other/quest_6616.md)** | Legacy(1) | - | Experience：3,150 |
+| **[Jiuding](docs/Quests/Other/6001-7000/quest_6616.md)** | Legacy(1) | - | Experience：3,150 |

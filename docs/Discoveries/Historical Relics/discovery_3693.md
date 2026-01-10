@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pompeii Lakshmi](Quests/Other/quest_6640.md)** | Legacy(1) | - |  |
+| **[Pompeii Lakshmi](docs/Quests/Other/6001-7000/quest_6640.md)** | Legacy(1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Roman Emperor Equestrian Statue](Quests/Adventure/quest_326.md)** | Adventure quest (3) | Exploration (1) Archeology (1) Italian | Reward: 15,000 / Advance payment: 0Experience: 208 |
+| **[Roman Emperor Equestrian Statue](docs/Quests/Adventure/1-1000/quest_326.md)** | Adventure quest (3) | Exploration (1) Archeology (1) Italian | Reward: 15,000 / Advance payment: 0Experience: 208 |

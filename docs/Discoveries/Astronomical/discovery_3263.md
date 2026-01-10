@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Navigator's observation record](Quests/Other/quest_6081.md)** | Astronomy(9) | Astronomy(9)Visualization(9) | Experience：300 |
+| **[Navigator's observation record](docs/Quests/Other/6001-7000/quest_6081.md)** | Astronomy(9) | Astronomy(9)Visualization(9) | Experience：300 |

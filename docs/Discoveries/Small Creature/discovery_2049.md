@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Owner's concerns](Quests/Adventure/quest_2241.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Quechua | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Owner's concerns](docs/Quests/Adventure/2001-3000/quest_2241.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Quechua | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |

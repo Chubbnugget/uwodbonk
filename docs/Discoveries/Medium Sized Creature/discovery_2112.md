@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ferocious Biology](Quests/Other/quest_2992.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Map of ferocious Biology](docs/Quests/Other/2001-3000/quest_2992.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful Hakuba](Quests/Adventure/quest_5618.md)** | Adventure quest (4) | Archeology (6) Visualization (4) Arctic languages | Reward: 104,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[Beautiful Hakuba](docs/Quests/Adventure/5001-6000/quest_5618.md)** | Adventure quest (4) | Archeology (6) Visualization (4) Arctic languages | Reward: 104,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

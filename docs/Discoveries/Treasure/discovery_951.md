@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful and strange stone](Quests/Adventure/quest_1357.md)** | Adventure quest (9) | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 520,000 / Advance payment: 50,000 Experience: 720 / Fame: 250 |
+| **[Beautiful and strange stone](docs/Quests/Adventure/1001-2000/quest_1357.md)** | Adventure quest (9) | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 520,000 / Advance payment: 50,000 Experience: 720 / Fame: 250 |

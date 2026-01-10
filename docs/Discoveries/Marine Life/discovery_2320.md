@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mermaid's true identity](Quests/Adventure/quest_707.md)** | Adventure quest (8) | Ecological research (7) Biology (9) Indian languages | Reward: 158,000 / Advance payment: 0Experience: 180 / Fame: 100 |
+| **[Mermaid's true identity](docs/Quests/Adventure/1-1000/quest_707.md)** | Adventure quest (8) | Ecological research (7) Biology (9) Indian languages | Reward: 158,000 / Advance payment: 0Experience: 180 / Fame: 100 |

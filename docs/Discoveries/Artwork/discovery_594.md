@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pictures related to military tales](Quests/Adventure/quest_2589.md)** | Adventure quest (5) | 探索(4)美術(6)日本語 | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |
+| **[Pictures related to military tales](docs/Quests/Adventure/2001-3000/quest_2589.md)** | Adventure quest (5) | 探索(4)美術(6)日本語 | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |

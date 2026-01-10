@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on fish with large jaws](Quests/Other/quest_6497.md)** | Pursuit quest (4) | Exploration (12) Biology (14) North American languages | Remuneration: 325,000 / Advance payment: 0 |
+| **[Additional research on fish with large jaws](docs/Quests/Other/6001-7000/quest_6497.md)** | Pursuit quest (4) | Exploration (12) Biology (14) North American languages | Remuneration: 325,000 / Advance payment: 0 |

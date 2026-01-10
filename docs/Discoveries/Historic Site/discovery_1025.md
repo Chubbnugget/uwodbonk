@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Troy](Quests/Adventure/quest_226.md)** | Adventure Quest (8) B.C. | Religious Studies (4) Archeology (10) Visualization (8) Greek Turkish | Reward: 370,000 / Advance payment: 10,000 Experience: 210 / Fame: 110 |
+| **[Troy](docs/Quests/Adventure/1-1000/quest_226.md)** | Adventure Quest (8) B.C. | Religious Studies (4) Archeology (10) Visualization (8) Greek Turkish | Reward: 370,000 / Advance payment: 10,000 Experience: 210 / Fame: 110 |

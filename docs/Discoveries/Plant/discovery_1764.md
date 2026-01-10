@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Little Flower Map](Quests/Other/quest_1346.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |
+| **[Little Flower Map](docs/Quests/Other/1001-2000/quest_1346.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |

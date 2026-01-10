@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legend of the High Priestess](Quests/Adventure/quest_5743.md)** | Adventure quest (10) | Religious Studies (17) Exploration (15) Italian | Reward: 336,000/ Advance: 30,000Experience: 300/ Fame: 175 |
+| **[Legend of the High Priestess](docs/Quests/Adventure/5001-6000/quest_5743.md)** | Adventure quest (10) | Religious Studies (17) Exploration (15) Italian | Reward: 336,000/ Advance: 30,000Experience: 300/ Fame: 175 |

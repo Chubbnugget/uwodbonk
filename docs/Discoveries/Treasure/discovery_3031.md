@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big man who lives in the mountains](Quests/Adventure/quest_5732.md)** | Adventure quest (7) | Exploration (7) Treasures Appraisal (9) Unlocking (7) | Reward: 392,000 / Advance payment: 30,000 Experience: 330 / Fame: 200 |
+| **[Big man who lives in the mountains](docs/Quests/Adventure/5001-6000/quest_5732.md)** | Adventure quest (7) | Exploration (7) Treasures Appraisal (9) Unlocking (7) | Reward: 392,000 / Advance payment: 30,000 Experience: 330 / Fame: 200 |

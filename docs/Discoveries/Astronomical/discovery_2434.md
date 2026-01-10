@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Antares](Quests/Other/quest_3780.md)** | Celestial Object Discovery Name(6)15th Century Issue 1 | Astronomy(6) |  |
+| **[Antares](docs/Quests/Other/3001-4000/quest_3780.md)** | Celestial Object Discovery Name(6)15th Century Issue 1 | Astronomy(6) |  |

@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Christmas Stars](Quests/Adventure/quest_5878.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) Italian | Reward: 687,000 / Advance payment: 60,000 Experience: 520 / Fame: 325 |
+| **[Christmas Stars](docs/Quests/Adventure/5001-6000/quest_5878.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) Italian | Reward: 687,000 / Advance payment: 60,000 Experience: 520 / Fame: 325 |

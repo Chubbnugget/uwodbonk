@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | French |
 | **Type** | thing |
-| **Group** | [Skills (Language)](Categories/category_42.md) |
+| **Group** | [Skills (Language)](docs/Categories/category_42.md) |
 | **Purchase Price** | 1,000 |
 | **Description** | Conversation and reading books are possible. Used around France. |
 | **Last Updated** | 2005-07-31 20:31:23 Phone@Administrator |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Ultimate Sage](Quests/Other/quest_3415.md)** | Treasure hunting (4) | Religious Studies(7)Exploration(5)Art(3) | Experience：1,370 |
+| **[The Ultimate Sage](docs/Quests/Other/3001-4000/quest_3415.md)** | Treasure hunting (4) | Religious Studies(7)Exploration(5)Art(3) | Experience：1,370 |

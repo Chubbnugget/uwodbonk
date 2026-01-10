@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[High quality wood research](Quests/Adventure/quest_2361.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Japanese | Reward: 118,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[High quality wood research](docs/Quests/Adventure/2001-3000/quest_2361.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Japanese | Reward: 118,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

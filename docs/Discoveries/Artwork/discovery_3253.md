@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Before departure](Quests/Adventure/quest_6063.md)** | Adventure quest (2) | Exploration (1) Art (3) Portuguese | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Before departure](docs/Quests/Adventure/6001-7000/quest_6063.md)** | Adventure quest (2) | Exploration (1) Art (3) Portuguese | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |

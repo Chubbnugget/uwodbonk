@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A stepping stone to the Caribbean](Quests/Adventure/quest_110.md)** | Adventure Quest (6) 15th Century 5th Period | Geography (6) Visual recognition (4) | Reward: 99,000 / Advance payment: 0Experience: 225 / Fame: 85 |
+| **[A stepping stone to the Caribbean](docs/Quests/Adventure/1-1000/quest_110.md)** | Adventure Quest (6) 15th Century 5th Period | Geography (6) Visual recognition (4) | Reward: 99,000 / Advance payment: 0Experience: 225 / Fame: 85 |

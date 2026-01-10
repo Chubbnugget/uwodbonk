@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Voodoo God](Quests/Adventure/quest_3809.md)** | Adventure quest (7) | Religious Studies (9) Exploration (7) Spanish (1) | Reward: 156,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[Voodoo God](docs/Quests/Adventure/3001-4000/quest_3809.md)** | Adventure quest (7) | Religious Studies (9) Exploration (7) Spanish (1) | Reward: 156,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

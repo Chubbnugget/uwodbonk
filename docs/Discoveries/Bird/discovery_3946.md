@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of birds with shiny feathers](Quests/Other/quest_6934.md)** | Pursuit quest (6) | Ecological research (6) Biology (8) North American languages ​​(1) | Reward: 160,000 / Advance payment: 0Experience: 300 |
+| **[Additional investigation of birds with shiny feathers](docs/Quests/Other/6001-7000/quest_6934.md)** | Pursuit quest (6) | Ecological research (6) Biology (8) North American languages ​​(1) | Reward: 160,000 / Advance payment: 0Experience: 300 |

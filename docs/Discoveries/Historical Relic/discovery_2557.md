@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Endless Land of Gold](Quests/Other/quest_3537.md)** | Treasure hunting (10) | Religious Studies(13)Exploration(15)Treasures Identification(17) | Experience: 3,100/ Reputation: 2,480 |
+| **[The Endless Land of Gold](docs/Quests/Other/3001-4000/quest_3537.md)** | Treasure hunting (10) | Religious Studies(13)Exploration(15)Treasures Identification(17) | Experience: 3,100/ Reputation: 2,480 |

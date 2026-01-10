@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The end of the Achaemenid dynasty](Quests/Adventure/quest_6.md)** | Adventure Quest (5) B.C. | Exploration (1) Archeology (3) Unlocking (1) | Reward: 42,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[The end of the Achaemenid dynasty](docs/Quests/Adventure/1-1000/quest_6.md)** | Adventure Quest (5) B.C. | Exploration (1) Archeology (3) Unlocking (1) | Reward: 42,000 / Advance payment: 0Experience: 140 / Fame: 70 |

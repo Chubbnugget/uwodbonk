@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Insect with a bow](Quests/Adventure/quest_6985.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Malayu Tagalog (1) | Remuneration: 93,000 / Advance payment: 10,000 |
+| **[Insect with a bow](docs/Quests/Adventure/6001-7000/quest_6985.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Malayu Tagalog (1) | Remuneration: 93,000 / Advance payment: 10,000 |

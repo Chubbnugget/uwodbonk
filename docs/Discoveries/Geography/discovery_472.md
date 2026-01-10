@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Land on the edge of Spain](Quests/Adventure/quest_1277.md)** | Adventure Quest (4) 16th Century 2nd Period | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 134,000 / Advance payment: 10,000 Experience: 295 / Fame: 102 |
+| **[Land on the edge of Spain](docs/Quests/Adventure/1001-2000/quest_1277.md)** | Adventure Quest (4) 16th Century 2nd Period | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 134,000 / Advance payment: 10,000 Experience: 295 / Fame: 102 |

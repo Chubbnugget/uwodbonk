@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flowers and trees of sad love](Quests/Adventure/quest_6291.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Korean | Reward: 378,000/Advance: 30,000Experience: 320 |
+| **[Flowers and trees of sad love](docs/Quests/Adventure/6001-7000/quest_6291.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Korean | Reward: 378,000/Advance: 30,000Experience: 320 |

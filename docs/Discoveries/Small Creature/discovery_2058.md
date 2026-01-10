@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of small carnivores](Quests/Other/quest_662.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |
+| **[Map of small carnivores](docs/Quests/Other/1-1000/quest_662.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |

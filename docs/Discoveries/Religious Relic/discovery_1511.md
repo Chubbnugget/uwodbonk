@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue with a lion's head](Quests/Adventure/quest_1474.md)** | Adventure Quest (4) Mythology Era | Religious Studies (5) Exploration (3) Thai/Burmese | Reward: 98,000 / Advance payment: 0Experience: 220 / Fame: 80 |
+| **[Statue with a lion's head](docs/Quests/Adventure/1001-2000/quest_1474.md)** | Adventure Quest (4) Mythology Era | Religious Studies (5) Exploration (3) Thai/Burmese | Reward: 98,000 / Advance payment: 0Experience: 220 / Fame: 80 |

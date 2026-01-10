@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kedar Merchant](Quests/Other/quest_6801.md)** | Sunken ship(8) | Salvage Archeology(9) |  |
+| **[Kedar Merchant](docs/Quests/Other/6001-7000/quest_6801.md)** | Sunken ship(8) | Salvage Archeology(9) |  |

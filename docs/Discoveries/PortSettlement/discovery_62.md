@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jeddah](Quests/Other/quest_5072.md)** | Port/village (1) | - |  |
+| **[Jeddah](docs/Quests/Other/5001-6000/quest_5072.md)** | Port/village (1) | - |  |

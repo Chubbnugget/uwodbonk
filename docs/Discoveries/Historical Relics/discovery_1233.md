@@ -25,5 +25,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stolen Inscription](Quests/Adventure/quest_2048.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Arabic (1) | Reward: 63,000Experience: 130/ Fame: 65 |
-| **[Records of canal opening](Quests/Other/quest_2039.md)** | Imperial command quest (5) | Exploration(3)Archaeology(5) |  |
+| **[Stolen Inscription](docs/Quests/Adventure/2001-3000/quest_2048.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Arabic (1) | Reward: 63,000Experience: 130/ Fame: 65 |
+| **[Records of canal opening](docs/Quests/Other/2001-3000/quest_2039.md)** | Imperial command quest (5) | Exploration(3)Archaeology(5) |  |

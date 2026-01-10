@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Suez](Quests/Other/quest_5078.md)** | Port/village (1) | - |  |
+| **[Suez](docs/Quests/Other/5001-6000/quest_5078.md)** | Port/village (1) | - |  |

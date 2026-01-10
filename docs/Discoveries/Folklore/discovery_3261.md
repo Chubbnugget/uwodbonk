@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore of the Fireball Procession](Quests/Other/quest_6073.md)** | Tradition (7) | Biology学(8) | Reward: 538,200 / Advance payment: 50,000 Experience: 530 / Fame: 265 |
+| **[Lore of the Fireball Procession](docs/Quests/Other/6001-7000/quest_6073.md)** | Tradition (7) | Biology学(8) | Reward: 538,200 / Advance payment: 50,000 Experience: 530 / Fame: 265 |

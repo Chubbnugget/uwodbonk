@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Famous mountain where rituals are performed](Quests/Adventure/quest_2904.md)** | Adventure quest (7) | Geography (8) Visual recognition (6) Chinese | Reward: 174,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |
+| **[Famous mountain where rituals are performed](docs/Quests/Adventure/2001-3000/quest_2904.md)** | Adventure quest (7) | Geography (8) Visual recognition (6) Chinese | Reward: 174,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |

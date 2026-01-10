@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[One word I remembered](Quests/Adventure/quest_2613.md)** | Adventure quest (9) | Exploration (11) Archeology (13) Unlocking (11) | Reward: 138,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[One word I remembered](docs/Quests/Adventure/2001-3000/quest_2613.md)** | Adventure quest (9) | Exploration (11) Archeology (13) Unlocking (11) | Reward: 138,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

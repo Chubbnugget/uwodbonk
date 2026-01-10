@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lübeck](Quests/Other/quest_5175.md)** | Port/village (1) | - |  |
+| **[Lübeck](docs/Quests/Other/5001-6000/quest_5175.md)** | Port/village (1) | - |  |

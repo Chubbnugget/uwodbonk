@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | 木槍 |
 | **Type** | thing |
-| **Group** | [Equipment](Categories/category_27.md) |
+| **Group** | [Equipment](docs/Categories/category_27.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 34,400 |
 | **Description** | A simple spear made of wood. It has a unique style of tip. Durability 30 Attack power 22 Equipable occupation Combat type Total required fame 1200 Range Close range |

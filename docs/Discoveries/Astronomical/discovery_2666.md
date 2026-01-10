@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars made in France](Quests/Adventure/quest_5254.md)** | Adventure quest (8) 18th century third period | Astronomy (11) Visual recognition (9) West African languages | Reward: 280,000 / Advance payment: 20,000 Experience: 260 / Fame: 155 |
+| **[Stars made in France](docs/Quests/Adventure/5001-6000/quest_5254.md)** | Adventure quest (8) 18th century third period | Astronomy (11) Visual recognition (9) West African languages | Reward: 280,000 / Advance payment: 20,000 Experience: 260 / Fame: 155 |

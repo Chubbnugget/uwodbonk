@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sericulture and silkworm flora](Quests/Adventure/quest_2851.md)** | Adventure quest (9) | Exploration (10) Archeology (12) Unlocking (10) | Reward: 280,000 / Advance payment: 20,000 Experience: 310 / Fame: 260 |
+| **[Sericulture and silkworm flora](docs/Quests/Adventure/2001-3000/quest_2851.md)** | Adventure quest (9) | Exploration (10) Archeology (12) Unlocking (10) | Reward: 280,000 / Advance payment: 20,000 Experience: 310 / Fame: 260 |

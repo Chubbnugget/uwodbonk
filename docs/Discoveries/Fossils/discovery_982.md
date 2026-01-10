@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Shell Jewelry](Quests/Adventure/quest_1439.md)** | Adventure quest (6) | Exploration (6) Biology (8) Malayu Tagalog | Reward: 113,000 / Advance payment: 10,000 Experience: 380 / Fame: 125 |
+| **[Shell Jewelry](docs/Quests/Adventure/1001-2000/quest_1439.md)** | Adventure quest (6) | Exploration (6) Biology (8) Malayu Tagalog | Reward: 113,000 / Advance payment: 10,000 Experience: 380 / Fame: 125 |

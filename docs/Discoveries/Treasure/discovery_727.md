@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Sultan](Quests/Adventure/quest_180.md)** | Adventure quest (4) | Exploration (1) Treasures Appraisal (3) Unlocking (1) | Reward: 29,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[The Sultan](docs/Quests/Adventure/1-1000/quest_180.md)** | Adventure quest (4) | Exploration (1) Treasures Appraisal (3) Unlocking (1) | Reward: 29,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | hindu cap |
 | **Type** | thing |
-| **Group** | [Equipment（頭）](Categories/category_23.md) |
+| **Group** | [Equipment（頭）](docs/Categories/category_23.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 76,000 |
 | **Description** | A cylindrical hat made from woven cloth, unique to India. *Five colors: white, yellow, blue-green, blackish gray, and red Durability 30 Formal wear 20 Defense 5 Total required fame 1000 |

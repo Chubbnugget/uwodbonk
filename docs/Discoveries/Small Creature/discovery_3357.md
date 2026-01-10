@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Little Boar Map](Quests/Other/quest_6223.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |
+| **[Little Boar Map](docs/Quests/Other/6001-7000/quest_6223.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |

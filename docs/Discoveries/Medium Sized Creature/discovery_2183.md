@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Under the cactus](Quests/Adventure/quest_2245.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Quechua | Reward: 117,000 / Advance payment: 10,000 Experience: 170 / Fame: 160 |
+| **[Under the cactus](docs/Quests/Adventure/2001-3000/quest_2245.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Quechua | Reward: 117,000 / Advance payment: 10,000 Experience: 170 / Fame: 160 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black Butterfly Map](Quests/Other/quest_2525.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Black Butterfly Map](docs/Quests/Other/2001-3000/quest_2525.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

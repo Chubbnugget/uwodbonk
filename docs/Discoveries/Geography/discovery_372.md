@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Barren Plateau](Quests/Adventure/quest_3294.md)** | Adventure quest (7) | Geography (8) Visual recognition (6) English | Reward: 94,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Barren Plateau](docs/Quests/Adventure/3001-4000/quest_3294.md)** | Adventure quest (7) | Geography (8) Visual recognition (6) English | Reward: 94,000 / Advance payment: 0Experience: 150 / Fame: 75 |

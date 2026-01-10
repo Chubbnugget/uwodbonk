@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Epic of Creation](Quests/Adventure/quest_3389.md)** | Adventure quest (8) | Exploration (13) Archeology (15) Unlocking (13) | Reward: 242,000 / Advance payment: 20,000 Experience: 460 / Fame: 170 |
+| **[Epic of Creation](docs/Quests/Adventure/3001-4000/quest_3389.md)** | Adventure quest (8) | Exploration (13) Archeology (15) Unlocking (13) | Reward: 242,000 / Advance payment: 20,000 Experience: 460 / Fame: 170 |

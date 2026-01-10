@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of rock cave ruins](Quests/Adventure/quest_4803.md)** | Adventure quest (6) | Archeology (8) Visualization (6) North American languages | Reward: 110,000 / Advance payment: 10,000 Experience: 170 / Fame: 75 |
+| **[Investigation of rock cave ruins](docs/Quests/Adventure/4001-5000/quest_4803.md)** | Adventure quest (6) | Archeology (8) Visualization (6) North American languages | Reward: 110,000 / Advance payment: 10,000 Experience: 170 / Fame: 75 |

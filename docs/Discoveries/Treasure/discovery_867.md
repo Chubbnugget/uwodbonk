@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Books preferred by Ming Dynasty people](Quests/Adventure/quest_2830.md)** | Adventure quest (6) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 123,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |
+| **[Books preferred by Ming Dynasty people](docs/Quests/Adventure/2001-3000/quest_2830.md)** | Adventure quest (6) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 123,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |

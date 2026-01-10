@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Caesar and Cleopatra](Quests/Adventure/quest_98.md)** | Adventure Quest (5) B.C. | Exploration (2) Archeology (4) Unlocking (2) | Reward: 83,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Caesar and Cleopatra](docs/Quests/Adventure/1-1000/quest_98.md)** | Adventure Quest (5) B.C. | Exploration (2) Archeology (4) Unlocking (2) | Reward: 83,000 / Advance payment: 0Experience: 150 / Fame: 70 |

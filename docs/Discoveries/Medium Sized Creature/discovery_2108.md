@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant shadow lurking in the mountain stream](Quests/Adventure/quest_2390.md)** | Adventure quest (7) | Ecological research (6) Biology (8) Japanese (1) | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Giant shadow lurking in the mountain stream](docs/Quests/Adventure/2001-3000/quest_2390.md)** | Adventure quest (7) | Ecological research (6) Biology (8) Japanese (1) | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |

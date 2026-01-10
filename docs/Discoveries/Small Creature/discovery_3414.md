@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Invasion of giant snails](Quests/Adventure/quest_6328.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Swahili (5) | Reward: 111,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[Invasion of giant snails](docs/Quests/Adventure/6001-7000/quest_6328.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Swahili (5) | Reward: 111,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of flowers blooming in the desert](Quests/Other/quest_6645.md)** | Biology学(7) | Ecological Survey(7)Biology(7) | Experience：345 |
+| **[Map of flowers blooming in the desert](docs/Quests/Other/6001-7000/quest_6645.md)** | Biology学(7) | Ecological Survey(7)Biology(7) | Experience：345 |

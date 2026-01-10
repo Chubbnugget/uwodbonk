@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Burning Mushroom](Quests/Adventure/quest_2859.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Chinese | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Burning Mushroom](docs/Quests/Adventure/2001-3000/quest_2859.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Chinese | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |

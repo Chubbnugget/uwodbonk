@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King Wen’s crown](Quests/Other/quest_7002.md)** | Legacy(1) | - |  |
+| **[King Wen’s crown](docs/Quests/Other/7001-8000/quest_7002.md)** | Legacy(1) | - |  |

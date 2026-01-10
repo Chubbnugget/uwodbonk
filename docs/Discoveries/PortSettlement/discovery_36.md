@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kugali](Quests/Other/quest_5046.md)** | Port/village (1) | - |  |
+| **[Kugali](docs/Quests/Other/5001-6000/quest_5046.md)** | Port/village (1) | - |  |

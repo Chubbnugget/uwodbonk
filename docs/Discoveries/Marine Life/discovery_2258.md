@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big turtle in the warm sea](Quests/Adventure/quest_830.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Portuguese | Reward: 31,200 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Big turtle in the warm sea](docs/Quests/Adventure/1-1000/quest_830.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Portuguese | Reward: 31,200 / Advance payment: 0Experience: 140 / Fame: 65 |

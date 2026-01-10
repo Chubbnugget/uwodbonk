@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Indian gods](Quests/Other/quest_6543.md)** | Pursuit quest (3) | Religious Studies (12) Exploration (10) Indian Languages ​​(1) | Reward: 200,000 / Advance payment: 0Experience: 340 |
+| **[Additional investigation of Indian gods](docs/Quests/Other/6001-7000/quest_6543.md)** | Pursuit quest (3) | Religious Studies (12) Exploration (10) Indian Languages ​​(1) | Reward: 200,000 / Advance payment: 0Experience: 340 |

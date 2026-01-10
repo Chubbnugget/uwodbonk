@@ -68,33 +68,33 @@ A city in the southern part of the Mongolian Plateau. It was built by the empero
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Equipment (head)](Categories/category_23.md)
+#### [Equipment (head)](docs/Categories/category_23.md)
 
-| [Unegune Margai](Items/Equipment/Equipment-Head/item_4763.md) | Equipment (head) | 15,000 | tool shop owner |  |
+| [Unegune Margai](docs/Items/Equipment/Equipment-Head/item_4763.md) | Equipment (head) | 15,000 | tool shop owner |  |
 | 時代限定（14世紀） 14世紀限定 |
-| [Janjin Margai](Items/Equipment/Equipment-Head/item_4766.md) | Equipment (head) | 15,000 | tool shop owner |  |
+| [Janjin Margai](docs/Items/Equipment/Equipment-Head/item_4766.md) | Equipment (head) | 15,000 | tool shop owner |  |
 | 時代限定（14世紀） 14世紀限定 |
-| [Mongolian bag](Items/Equipment/Equipment-Head/item_4761.md) | Equipment (head) | 15,000 | tool shop owner |  |
-| 時代限定（14世紀） 14世紀限定 |
-
-#### [Equipment (body)](Categories/category_24.md)
-
-| [Ustadale (for women)](Items/Equipment/Equipment-Body/item_4765.md) | Equipment (body) | 20,000 | tool shop owner |  |
-| 時代限定（14世紀） 14世紀限定 |
-| [Ustadale (for men)](Items/Equipment/Equipment-Body/item_4764.md) | Equipment (body) | 20,000 | tool shop owner |  |
-| 時代限定（14世紀） 14世紀限定 |
-| [蒙古鎧](Items/Equipment/Equipment-Body/item_4760.md) | Equipment (body) | 20,000 | tool shop owner |  |
+| [Mongolian bag](docs/Items/Equipment/Equipment-Head/item_4761.md) | Equipment (head) | 15,000 | tool shop owner |  |
 | 時代限定（14世紀） 14世紀限定 |
 
-#### [Equipment (legs)](Categories/category_26.md)
+#### [Equipment (body)](docs/Categories/category_24.md)
 
-| [Gotal](Items/Equipment/Equipment-Feet/item_4762.md) | Equipment (legs) | 10,000 | tool shop owner |  |
+| [Ustadale (for women)](docs/Items/Equipment/Equipment-Body/item_4765.md) | Equipment (body) | 20,000 | tool shop owner |  |
+| 時代限定（14世紀） 14世紀限定 |
+| [Ustadale (for men)](docs/Items/Equipment/Equipment-Body/item_4764.md) | Equipment (body) | 20,000 | tool shop owner |  |
+| 時代限定（14世紀） 14世紀限定 |
+| [蒙古鎧](docs/Items/Equipment/Equipment-Body/item_4760.md) | Equipment (body) | 20,000 | tool shop owner |  |
 | 時代限定（14世紀） 14世紀限定 |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Equipment (legs)](docs/Categories/category_26.md)
 
-| [tonic](Items/Consumables/Consumables-Landbattle/item_1678.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
-| [throwing knife](Items/Consumables/Consumables-Landbattle/item_560.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [Gotal](docs/Items/Equipment/Equipment-Feet/item_4762.md) | Equipment (legs) | 10,000 | tool shop owner |  |
+| 時代限定（14世紀） 14世紀限定 |
+
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
+
+| [tonic](docs/Items/Consumables/Consumables-Landbattle/item_1678.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [throwing knife](docs/Items/Consumables/Consumables-Landbattle/item_560.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [torch for throwing](docs/Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
   </TabItem>
 </Tabs>

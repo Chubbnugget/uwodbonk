@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Book of History and Mythology](Quests/Adventure/quest_2673.md)** | Adventure quest (3) | 探索(3)考古学(5)朝鮮語(1) | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Book of History and Mythology](docs/Quests/Adventure/2001-3000/quest_2673.md)** | Adventure quest (3) | 探索(3)考古学(5)朝鮮語(1) | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |

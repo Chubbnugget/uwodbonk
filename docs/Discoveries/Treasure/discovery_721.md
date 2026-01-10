@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jaguar Eyes](Quests/Adventure/quest_1209.md)** | Adventure quest (9) | Exploration (9) Treasures Appraisal (11) Unlocking (9) | Reward: 280,000 / Advance payment: 10,000 Experience: 540 / Fame: 180 |
+| **[Jaguar Eyes](docs/Quests/Adventure/1001-2000/quest_1209.md)** | Adventure quest (9) | Exploration (9) Treasures Appraisal (11) Unlocking (9) | Reward: 280,000 / Advance payment: 10,000 Experience: 540 / Fame: 180 |

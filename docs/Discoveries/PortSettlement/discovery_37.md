@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kuching](Quests/Other/quest_5047.md)** | Port/village (1) | - |  |
+| **[Kuching](docs/Quests/Other/5001-6000/quest_5047.md)** | Port/village (1) | - |  |

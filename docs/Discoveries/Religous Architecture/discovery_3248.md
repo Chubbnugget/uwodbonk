@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lower Egypt Sanctuary](Quests/Adventure/quest_6065.md)** | Adventure Quest (5) B.C. | Religious Studies (6) Visual Recognition (4) Arabic | Reward: 123,000 / Advance payment: 10,000 Experience: 160 / Fame: 90 |
+| **[Lower Egypt Sanctuary](docs/Quests/Adventure/6001-7000/quest_6065.md)** | Adventure Quest (5) B.C. | Religious Studies (6) Visual Recognition (4) Arabic | Reward: 123,000 / Advance payment: 10,000 Experience: 160 / Fame: 90 |

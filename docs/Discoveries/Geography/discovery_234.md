@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wilderness Desert](Quests/Adventure/quest_3269.md)** | Adventure quest (5) | Geography (5) Visual recognition (3) West African languages ​​(1) | Reward: 120,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Wilderness Desert](docs/Quests/Adventure/3001-4000/quest_3269.md)** | Adventure quest (5) | Geography (5) Visual recognition (3) West African languages ​​(1) | Reward: 120,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

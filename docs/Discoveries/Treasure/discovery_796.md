@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Oldest Japanese poetry collection](Quests/Adventure/quest_2338.md)** | Adventure quest (7) | 探索(6)Treasures鑑定(8)日本語 | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Oldest Japanese poetry collection](docs/Quests/Adventure/2001-3000/quest_2338.md)** | Adventure quest (7) | 探索(6)Treasures鑑定(8)日本語 | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |

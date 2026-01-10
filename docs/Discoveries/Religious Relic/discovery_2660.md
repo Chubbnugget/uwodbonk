@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Ur Dynasty Law Code](Quests/Other/quest_5222.md)** | Re-examination reward (6) | Religious Studies(6)Exploration(6) |  |
+| **[Map of Ur Dynasty Law Code](docs/Quests/Other/5001-6000/quest_5222.md)** | Re-examination reward (6) | Religious Studies(6)Exploration(6) |  |

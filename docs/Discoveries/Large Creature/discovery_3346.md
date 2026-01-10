@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King's Wind](Quests/Adventure/quest_6208.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Arabic (1) | Reward: 215,000/ Advance: 20,000Experience: 220/ Fame: 125 |
+| **[King's Wind](docs/Quests/Adventure/6001-7000/quest_6208.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Arabic (1) | Reward: 215,000/ Advance: 20,000Experience: 220/ Fame: 125 |

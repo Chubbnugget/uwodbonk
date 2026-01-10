@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A flower that only occurs once in a hundred years](Quests/Adventure/quest_6316.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Portuguese | Reward: 441,000 / Advance payment: 40,000 Experience: 360 / Fame: 440 |
+| **[A flower that only occurs once in a hundred years](docs/Quests/Adventure/6001-7000/quest_6316.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Portuguese | Reward: 441,000 / Advance payment: 40,000 Experience: 360 / Fame: 440 |

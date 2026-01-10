@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on cats of Siamese origin](Quests/Other/quest_6888.md)** | Pursuit quest (8) | Ecological Survey (10) Biology (12) Malayu Tagalog (1) | Reward: 600,000 / Advance payment: 0Experience: 840 |
+| **[Additional research on cats of Siamese origin](docs/Quests/Other/6001-7000/quest_6888.md)** | Pursuit quest (8) | Ecological Survey (10) Biology (12) Malayu Tagalog (1) | Reward: 600,000 / Advance payment: 0Experience: 840 |

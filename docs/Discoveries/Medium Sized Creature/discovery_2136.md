@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Biology research on Wrangel Island](Quests/Adventure/quest_3686.md)** | Adventure Quest (6) 18th Century Third Period | Ecological research (6) Biology (8) Arctic languages | Reward: 235,000/Advance payment: 20,000Experience: 470 |
+| **[Biology research on Wrangel Island](docs/Quests/Adventure/3001-4000/quest_3686.md)** | Adventure Quest (6) 18th Century Third Period | Ecological research (6) Biology (8) Arctic languages | Reward: 235,000/Advance payment: 20,000Experience: 470 |

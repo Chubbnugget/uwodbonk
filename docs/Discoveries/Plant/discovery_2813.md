@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wood boasting strength](Quests/Adventure/quest_5449.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) French | Reward: 186,000 / Advance payment: 10,000 Experience: 200 / Fame: 115 |
+| **[Wood boasting strength](docs/Quests/Adventure/5001-6000/quest_5449.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) French | Reward: 186,000 / Advance payment: 10,000 Experience: 200 / Fame: 115 |

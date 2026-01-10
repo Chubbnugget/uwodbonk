@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Foreign people](Quests/Adventure/quest_6182.md)** | Adventure Quest (4) B.C. | Exploration (3) Archeology (5) Arabic | Reward: 90,000 / Advance payment: 0Experience: 140 / Fame: 75 |
+| **[Foreign people](docs/Quests/Adventure/6001-7000/quest_6182.md)** | Adventure Quest (4) B.C. | Exploration (3) Archeology (5) Arabic | Reward: 90,000 / Advance payment: 0Experience: 140 / Fame: 75 |

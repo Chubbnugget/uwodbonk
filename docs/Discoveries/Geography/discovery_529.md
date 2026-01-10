@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Whereabouts of the monk](Quests/Adventure/quest_2320.md)** | Adventure quest (5) | Geography (5) Visual recognition (3) Japanese | Reward: 113,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Whereabouts of the monk](docs/Quests/Adventure/2001-3000/quest_2320.md)** | Adventure quest (5) | Geography (5) Visual recognition (3) Japanese | Reward: 113,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

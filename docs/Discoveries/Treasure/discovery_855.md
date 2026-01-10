@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[To fly the messenger of justice](Quests/Adventure/quest_2700.md)** | Adventure quest (4) | 探索(4)Treasures鑑定(6)朝鮮語 | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[To fly the messenger of justice](docs/Quests/Adventure/2001-3000/quest_2700.md)** | Adventure quest (4) | 探索(4)Treasures鑑定(6)朝鮮語 | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |

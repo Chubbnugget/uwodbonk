@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Spring Triangle](Quests/Adventure/quest_3750.md)** | Adventure quest (4) | Astronomy (5) Visualization (3) Dutch | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Spring Triangle](docs/Quests/Adventure/3001-4000/quest_3750.md)** | Adventure quest (4) | Astronomy (5) Visualization (3) Dutch | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 70 |

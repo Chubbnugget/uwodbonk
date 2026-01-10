@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sacred Linen](Quests/Adventure/quest_1904.md)** | Adventure quest (3) | Religious Studies (4) Exploration (2) Italian | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Sacred Linen](docs/Quests/Adventure/1001-2000/quest_1904.md)** | Adventure quest (3) | Religious Studies (4) Exploration (2) Italian | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 70 |

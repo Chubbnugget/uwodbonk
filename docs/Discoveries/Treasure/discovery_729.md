@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of African accessories](Quests/Other/quest_27.md)** | Treasures鑑定(4) | 探索(4)Treasures鑑定(4) |  |
+| **[Map of African accessories](docs/Quests/Other/1-1000/quest_27.md)** | Treasures鑑定(4) | 探索(4)Treasures鑑定(4) |  |

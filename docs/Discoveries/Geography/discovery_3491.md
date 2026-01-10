@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of the Great Desert](Quests/Other/quest_6411.md)** | Pursuit quest (3) | Geography (10) Visualization (8) Arabic (1) | Remuneration: 170,000/ Advance payment: 0 |
+| **[Additional investigation of the Great Desert](docs/Quests/Other/6001-7000/quest_6411.md)** | Pursuit quest (3) | Geography (10) Visualization (8) Arabic (1) | Remuneration: 170,000/ Advance payment: 0 |

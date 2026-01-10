@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | salmon meuniere |
 | **Type** | thing |
-| **Group** | [Consumables (cooking)](Categories/category_32.md) |
-| **Sold by NPC** | [Production (Cooking)](NPCs/npc_24.md) |
+| **Group** | [Consumables (cooking)](docs/Categories/category_32.md) |
+| **Sold by NPC** | [Production (Cooking)](docs/NPCs/npc_24.md) |
 | **Description** | Salmon grilled with butter. Effect when using Action power recovery Action power +50 |
 | **Last Updated** | 2007-10-29 15:26:05 Passing navigator @guest |
 

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Quirky Dragon](Quests/Adventure/quest_950.md)** | Adventure Quest (6) B.C. | Exploration (3) Biology (5) Portuguese | Reward: 159,000 / Advance payment: 5,000 Experience: 240 / Fame: 130 |
+| **[Quirky Dragon](docs/Quests/Adventure/1-1000/quest_950.md)** | Adventure Quest (6) B.C. | Exploration (3) Biology (5) Portuguese | Reward: 159,000 / Advance payment: 5,000 Experience: 240 / Fame: 130 |

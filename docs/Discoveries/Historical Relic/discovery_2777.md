@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hercules' Offering](Quests/Other/quest_5388.md)** | Treasure hunting (7) | Religion(13)Exploration(11)Archaeology(9) |  |
+| **[Hercules' Offering](docs/Quests/Other/5001-6000/quest_5388.md)** | Treasure hunting (7) | Religion(13)Exploration(11)Archaeology(9) |  |

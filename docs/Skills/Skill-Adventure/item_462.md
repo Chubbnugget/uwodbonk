@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Survive |
 | **Type** | thing |
-| **Group** | [Skill (Adventure)](Categories/category_39.md) |
+| **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 3,000 |
 | **Description** | Reduce crew fatigue when water and food run out. Acquisition conditions 7/0/0/total 10 Prerequisite skills Fishing (1) |
 | **Last Updated** | 2005-04-02 09:58:31 System |

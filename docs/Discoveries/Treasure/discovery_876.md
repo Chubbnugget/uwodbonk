@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lion Hearted](Quests/Adventure/quest_310.md)** | Adventure quest (7) | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 80,000/ Advance payment: 20,000 Experience: 220/ Fame: 95 |
+| **[Lion Hearted](docs/Quests/Adventure/1-1000/quest_310.md)** | Adventure quest (7) | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 80,000/ Advance payment: 20,000 Experience: 220/ Fame: 95 |

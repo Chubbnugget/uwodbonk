@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Marble Male Statue](Quests/Other/quest_820.md)** | 美術(3) | 探索(3)美術(3) |  |
+| **[Map of Marble Male Statue](docs/Quests/Other/1-1000/quest_820.md)** | 美術(3) | 探索(3)美術(3) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flying Biology](Quests/Adventure/quest_464.md)** | Adventure quest (6) | Ecological research (4) Biology (6) West African languages | Reward: 67,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Flying Biology](docs/Quests/Adventure/1-1000/quest_464.md)** | Adventure quest (6) | Ecological research (4) Biology (6) West African languages | Reward: 67,000 / Advance payment: 0Experience: 140 / Fame: 70 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Message from ancient times](Quests/Adventure/quest_5689.md)** | Adventure Quest (5) B.C. | Exploration (4) Archeology (6) Arctic languages ​​(1) | Reward: 234,000/ Advance: 20,000Experience: 230/ Fame: 135 |
+| **[Message from ancient times](docs/Quests/Adventure/5001-6000/quest_5689.md)** | Adventure Quest (5) B.C. | Exploration (4) Archeology (6) Arctic languages ​​(1) | Reward: 234,000/ Advance: 20,000Experience: 230/ Fame: 135 |

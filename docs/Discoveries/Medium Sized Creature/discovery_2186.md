@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Round seal map](Quests/Other/quest_3682.md)** | Biology学(5) | Ecological Survey(5)Biology(5) | Experience：340 |
+| **[Round seal map](docs/Quests/Other/3001-4000/quest_3682.md)** | Biology学(5) | Ecological Survey(5)Biology(5) | Experience：340 |

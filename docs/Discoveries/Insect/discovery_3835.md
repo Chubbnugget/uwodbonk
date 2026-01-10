@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Insect that can only live for one day](Quests/Adventure/quest_6807.md)** | Adventure quest (9) | Ecological research (11) Biology (13) Japanese (1) | Reward: 729,000 / Advance payment: 70,000 Experience: 540 |
+| **[Insect that can only live for one day](docs/Quests/Adventure/6001-7000/quest_6807.md)** | Adventure quest (9) | Ecological research (11) Biology (13) Japanese (1) | Reward: 729,000 / Advance payment: 70,000 Experience: 540 |

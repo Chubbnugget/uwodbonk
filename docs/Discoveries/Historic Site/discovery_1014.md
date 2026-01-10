@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ship Grave](Quests/Adventure/quest_3413.md)** | Adventure quest (7) | Archeology (8) Visualization (6) English | Reward: 199,000 / Advance payment: 10,000 Experience: 240 / Fame: 105 |
+| **[Ship Grave](docs/Quests/Adventure/3001-4000/quest_3413.md)** | Adventure quest (7) | Archeology (8) Visualization (6) English | Reward: 199,000 / Advance payment: 10,000 Experience: 240 / Fame: 105 |

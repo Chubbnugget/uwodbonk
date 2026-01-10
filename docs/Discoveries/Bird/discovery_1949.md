@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bird survey on Taiwan Island](Quests/Adventure/quest_2556.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Chinese | Reward: 361,000 / Advance payment: 30,000 Experience: 380 / Fame: 155 |
+| **[Bird survey on Taiwan Island](docs/Quests/Adventure/2001-3000/quest_2556.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Chinese | Reward: 361,000 / Advance payment: 30,000 Experience: 380 / Fame: 155 |

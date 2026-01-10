@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Deneb Kaitos](Quests/Other/quest_6676.md)** | Celestial Object Discovery Name(10)15th Century Issue 3 | Astronomy (10) Visualization (10) | Experience：800 |
+| **[Deneb Kaitos](docs/Quests/Other/6001-7000/quest_6676.md)** | Celestial Object Discovery Name(10)15th Century Issue 3 | Astronomy (10) Visualization (10) | Experience：800 |

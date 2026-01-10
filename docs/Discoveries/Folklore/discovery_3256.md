@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore of the Devil's Whirlpool](Quests/Other/quest_6076.md)** | Tradition (4) | Religious Studies(5) | Reward: 186,000 / Advance payment: 10,000 Experience: 180 / Fame: 90 |
+| **[Lore of the Devil's Whirlpool](docs/Quests/Other/6001-7000/quest_6076.md)** | Tradition (4) | Religious Studies(5) | Reward: 186,000 / Advance payment: 10,000 Experience: 180 / Fame: 90 |

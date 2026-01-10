@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Water level measuring instrument map](Quests/Other/quest_1759.md)** | Archeology(6) | Exploration(6)Archaeology(6) |  |
+| **[Water level measuring instrument map](docs/Quests/Other/1001-2000/quest_1759.md)** | Archeology(6) | Exploration(6)Archaeology(6) |  |

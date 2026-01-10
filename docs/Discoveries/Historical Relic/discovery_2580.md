@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legendary Golden Land](Quests/Other/quest_3426.md)** | Treasure hunting (8) | Exploration(12)Visibility(10)Treasures Appraisal(14) | Experience：2,340 |
+| **[Legendary Golden Land](docs/Quests/Other/3001-4000/quest_3426.md)** | Treasure hunting (8) | Exploration(12)Visibility(10)Treasures Appraisal(14) | Experience：2,340 |

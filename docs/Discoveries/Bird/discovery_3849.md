@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Yamamusume](Quests/Other/quest_6830.md)** | Pursuit quest (8) | Ecological research (10) Biology (12) Chinese (1) | Reward: 350,000 / Advance payment: 0Experience: 800 |
+| **[Additional investigation of Yamamusume](docs/Quests/Other/6001-7000/quest_6830.md)** | Pursuit quest (8) | Ecological research (10) Biology (12) Chinese (1) | Reward: 350,000 / Advance payment: 0Experience: 800 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The capital towering over the Andes](Quests/Adventure/quest_1852.md)** | Adventure Quest (7) 16th Century 2nd Period | Archeology (11) Visualization (9) Socialization (10) | Reward: 264,000 / Advance payment: 20,000 Experience: 380 / Fame: 290 |
+| **[The capital towering over the Andes](docs/Quests/Adventure/1001-2000/quest_1852.md)** | Adventure Quest (7) 16th Century 2nd Period | Archeology (11) Visualization (9) Socialization (10) | Reward: 264,000 / Advance payment: 20,000 Experience: 380 / Fame: 290 |

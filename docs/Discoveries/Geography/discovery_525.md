@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Biology scholar's desired destination](Quests/Adventure/quest_2566.md)** | Adventure quest (8) | Geography (12) Visual recognition (10) Chinese | Reward: 158,000 / Advance payment: 10,000 Experience: 210 / Fame: 95 |
+| **[Biology scholar's desired destination](docs/Quests/Adventure/2001-3000/quest_2566.md)** | Adventure quest (8) | Geography (12) Visual recognition (10) Chinese | Reward: 158,000 / Advance payment: 10,000 Experience: 210 / Fame: 95 |

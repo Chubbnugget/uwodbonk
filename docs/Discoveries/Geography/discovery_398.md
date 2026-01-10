@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sinking Earth](Quests/Adventure/quest_1244.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) Spanish | Reward: 99,000 / Advance payment: 5,000 Experience: 225 / Fame: 75 |
+| **[Sinking Earth](docs/Quests/Adventure/1001-2000/quest_1244.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) Spanish | Reward: 99,000 / Advance payment: 5,000 Experience: 225 / Fame: 75 |

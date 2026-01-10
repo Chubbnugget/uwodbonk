@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | dart |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 50 |
 | **Description** | Items for land combat. A weapon that can be thrown at enemies to cause damage. Effect/small. Effect when used: Stab attack (In land battle, perform a stab attack on the enemy. Effective against guard mode.) Rank 3 Required gauge 50 Cooldown time 225 |

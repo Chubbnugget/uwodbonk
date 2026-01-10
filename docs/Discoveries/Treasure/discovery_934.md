@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rare bracelet map](Quests/Other/quest_1790.md)** | Treasures鑑定(4) | Exploration (4) Treasures Appraisal (4) Unlocking (4) |  |
+| **[Rare bracelet map](docs/Quests/Other/1001-2000/quest_1790.md)** | Treasures鑑定(4) | Exploration (4) Treasures Appraisal (4) Unlocking (4) |  |

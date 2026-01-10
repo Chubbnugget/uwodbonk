@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Looking for white spider](Quests/Adventure/quest_6329.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Malayu Tagalog (7) | Reward: 146,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |
+| **[Looking for white spider](docs/Quests/Adventure/6001-7000/quest_6329.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Malayu Tagalog (7) | Reward: 146,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |

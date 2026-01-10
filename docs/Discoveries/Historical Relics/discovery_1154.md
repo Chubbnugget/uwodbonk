@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[War God vs. War God](Quests/Adventure/quest_466.md)** | Adventure Quest (9) B.C. | Exploration (9) Archeology (11) Unlocking (9) | Reward: 343,000/ Advance: 20,000Experience: 240/ Fame: 125 |
+| **[War God vs. War God](docs/Quests/Adventure/1-1000/quest_466.md)** | Adventure Quest (9) B.C. | Exploration (9) Archeology (11) Unlocking (9) | Reward: 343,000/ Advance: 20,000Experience: 240/ Fame: 125 |

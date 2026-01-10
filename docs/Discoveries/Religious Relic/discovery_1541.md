@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Advariyu Priest's Scripture](Quests/Adventure/quest_486.md)** | Adventure quest (6) | Religious Studies (6) Exploration (4) Indian Languages | Remuneration: 280,800 Experience: 390/ Reputation: 221 |
+| **[Advariyu Priest's Scripture](docs/Quests/Adventure/1-1000/quest_486.md)** | Adventure quest (6) | Religious Studies (6) Exploration (4) Indian Languages | Remuneration: 280,800 Experience: 390/ Reputation: 221 |

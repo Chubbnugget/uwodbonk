@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Round Biology Map](Quests/Other/quest_2990.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Round Biology Map](docs/Quests/Other/2001-3000/quest_2990.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

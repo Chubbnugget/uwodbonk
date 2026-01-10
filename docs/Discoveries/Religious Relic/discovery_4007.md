@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Themis Balance](Quests/Other/quest_6998.md)** | Legacy(1) | - | Experience：1,800 |
+| **[Themis Balance](docs/Quests/Other/6001-7000/quest_6998.md)** | Legacy(1) | - | Experience：1,800 |

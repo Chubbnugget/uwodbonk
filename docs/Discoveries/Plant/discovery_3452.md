@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Taoyana Flower Map](Quests/Other/quest_6364.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：150 |
+| **[Taoyana Flower Map](docs/Quests/Other/6001-7000/quest_6364.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：150 |

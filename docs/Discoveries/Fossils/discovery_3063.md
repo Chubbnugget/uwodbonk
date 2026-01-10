@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Biology that appears in mythology](Quests/Adventure/quest_5786.md)** | Adventure Quest (10) B.C. | Exploration (12) Biology (14) Norse | Reward: 364,000 / Advance payment: 30,000 Experience: 310 / Fame: 190 |
+| **[Giant Biology that appears in mythology](docs/Quests/Adventure/5001-6000/quest_5786.md)** | Adventure Quest (10) B.C. | Exploration (12) Biology (14) Norse | Reward: 364,000 / Advance payment: 30,000 Experience: 310 / Fame: 190 |

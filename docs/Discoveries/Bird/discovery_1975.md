@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Very small gem](Quests/Adventure/quest_220.md)** | Adventure quest (8) | Ecological Survey (8) Biology (10) Spanish | Reward: 260,000/ Advance: 20,000 Experience: 230/ Fame: 105 |
+| **[Very small gem](docs/Quests/Adventure/1-1000/quest_220.md)** | Adventure quest (8) | Ecological Survey (8) Biology (10) Spanish | Reward: 260,000/ Advance: 20,000 Experience: 230/ Fame: 105 |

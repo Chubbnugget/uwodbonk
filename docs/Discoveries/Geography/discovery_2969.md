@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Man in blue](Quests/Adventure/quest_5655.md)** | Adventure quest (7) | Geography (8) Visualization (6) Arabic | Reward: 405,000 / Advance payment: 40,000 Experience: 340 / Fame: 205 |
+| **[Man in blue](docs/Quests/Adventure/5001-6000/quest_5655.md)** | Adventure quest (7) | Geography (8) Visualization (6) Arabic | Reward: 405,000 / Advance payment: 40,000 Experience: 340 / Fame: 205 |

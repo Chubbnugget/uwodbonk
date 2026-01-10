@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bronze Statue Investigation](Quests/Adventure/quest_6138.md)** | Adventure quest (3) | Exploration (1) Art (2) Greek | Reward: 36,000 / Advance payment: 0Experience: 180 |
-| **[Ancient Greek Masterpiece](Quests/Adventure/quest_497.md)** | Adventure quest (3) | Exploration (1) Art (2) Greek | Reward: 16,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Bronze Statue Investigation](docs/Quests/Adventure/6001-7000/quest_6138.md)** | Adventure quest (3) | Exploration (1) Art (2) Greek | Reward: 36,000 / Advance payment: 0Experience: 180 |
+| **[Ancient Greek Masterpiece](docs/Quests/Adventure/1-1000/quest_497.md)** | Adventure quest (3) | Exploration (1) Art (2) Greek | Reward: 16,000 / Advance payment: 0Experience: 130 / Fame: 65 |

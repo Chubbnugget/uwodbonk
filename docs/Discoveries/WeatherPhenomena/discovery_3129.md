@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flying Dutchman](Quests/Other/quest_5869.md)** | Weather/phenomena (9) | Visual recognition (10) |  |
+| **[Flying Dutchman](docs/Quests/Other/5001-6000/quest_5869.md)** | Weather/phenomena (9) | Visual recognition (10) |  |

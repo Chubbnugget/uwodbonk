@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Swirling Horned Animal](Quests/Adventure/quest_5285.md)** | Adventure quest (7) | Ecological Survey (5) Biology (7) Arabic | Reward: 105,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[Swirling Horned Animal](docs/Quests/Adventure/5001-6000/quest_5285.md)** | Adventure quest (7) | Ecological Survey (5) Biology (7) Arabic | Reward: 105,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

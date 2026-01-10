@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Elegant bird map](Quests/Other/quest_2426.md)** | Biology学(7) | Ecological Survey(7)Biology(7) | Experience：270 |
+| **[Elegant bird map](docs/Quests/Other/2001-3000/quest_2426.md)** | Biology学(7) | Ecological Survey(7)Biology(7) | Experience：270 |

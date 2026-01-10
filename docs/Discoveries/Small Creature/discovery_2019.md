@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of poisonous snakes in Northern Europe](Quests/Adventure/quest_1002.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Norse | Reward: 32,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Investigation of poisonous snakes in Northern Europe](docs/Quests/Adventure/1001-2000/quest_1002.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Norse | Reward: 32,000 / Advance payment: 0Experience: 130 / Fame: 65 |

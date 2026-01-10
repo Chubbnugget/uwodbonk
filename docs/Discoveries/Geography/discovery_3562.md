@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Red Desert](Quests/Other/quest_6488.md)** | Pursuit quest (4) | Geography (14) Visual recognition (12) Oceanian languages | Remuneration: 325,000 / Advance payment: 0 |
+| **[Additional investigation of Red Desert](docs/Quests/Other/6001-7000/quest_6488.md)** | Pursuit quest (4) | Geography (14) Visual recognition (12) Oceanian languages | Remuneration: 325,000 / Advance payment: 0 |

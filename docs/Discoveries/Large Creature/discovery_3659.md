@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beasts in novels](Quests/Adventure/quest_6602.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Chinese | Reward: 228,000 / Advance payment: 20,000 Experience: 260 / Fame: 115 |
+| **[Beasts in novels](docs/Quests/Adventure/6001-7000/quest_6602.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Chinese | Reward: 228,000 / Advance payment: 20,000 Experience: 260 / Fame: 115 |

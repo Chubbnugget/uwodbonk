@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore at the End of the World](Quests/Other/quest_6070.md)** | Tradition (5) | Geography学(3) | Reward: 213,000/ Advance: 20,000Experience: 210/ Fame: 105 |
+| **[Lore at the End of the World](docs/Quests/Other/6001-7000/quest_6070.md)** | Tradition (5) | Geography学(3) | Reward: 213,000/ Advance: 20,000Experience: 210/ Fame: 105 |

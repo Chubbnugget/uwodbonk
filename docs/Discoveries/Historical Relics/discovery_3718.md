@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Banreki issue](Quests/Other/quest_6665.md)** | Sunken ship(8) | salvage |  |
+| **[Banreki issue](docs/Quests/Other/6001-7000/quest_6665.md)** | Sunken ship(8) | salvage |  |

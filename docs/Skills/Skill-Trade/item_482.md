@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | textile trading |
 | **Type** | thing |
-| **Group** | [Skill (Trade)](Categories/category_40.md) |
+| **Group** | [Skill (Trade)](docs/Categories/category_40.md) |
 | **Purchase Price** | 10,000 |
 | **Description** | You can buy more textiles at the trading post. Acquisition requirements 0/3/0/total 0 Prerequisite skills Accounting (1) |
 | **Last Updated** | 2005-04-02 09:58:31 System |

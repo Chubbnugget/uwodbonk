@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What the bird's wings carry](Quests/Adventure/quest_1697.md)** | Adventure quest (9) | Ecological research (11) Biology (13) Indian languages | Reward: 176,000 / Advance payment: 20,000 Experience: 700 / Fame: 240 |
+| **[What the bird's wings carry](docs/Quests/Adventure/1001-2000/quest_1697.md)** | Adventure quest (9) | Ecological research (11) Biology (13) Indian languages | Reward: 176,000 / Advance payment: 20,000 Experience: 700 / Fame: 240 |

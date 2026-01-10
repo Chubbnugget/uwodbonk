@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Living with friends](Quests/Adventure/quest_4978.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Spanish | Reward: 156,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[Living with friends](docs/Quests/Adventure/4001-5000/quest_4978.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Spanish | Reward: 156,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

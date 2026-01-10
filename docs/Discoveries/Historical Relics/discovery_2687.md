@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Viking Shield Map](Quests/Other/quest_5269.md)** | Re-examination reward (12) | Exploration(12)Archaeology(12) |  |
+| **[Viking Shield Map](docs/Quests/Other/5001-6000/quest_5269.md)** | Re-examination reward (12) | Exploration(12)Archaeology(12) |  |

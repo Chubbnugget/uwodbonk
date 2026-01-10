@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Reason for not returning, feelings that cannot be understood](Quests/Adventure/quest_3227.md)** | Adventure quest (8) | Exploration (8) Archeology (10) Unlocking (8) | Reward: 150,000 / Advance payment: 20,000 Experience: 300 / Fame: 130 |
+| **[Reason for not returning, feelings that cannot be understood](docs/Quests/Adventure/3001-4000/quest_3227.md)** | Adventure quest (8) | Exploration (8) Archeology (10) Unlocking (8) | Reward: 150,000 / Advance payment: 20,000 Experience: 300 / Fame: 130 |

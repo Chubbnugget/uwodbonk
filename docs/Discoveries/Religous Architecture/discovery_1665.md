@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sacrificial Statue](Quests/Adventure/quest_1196.md)** | Adventure quest (4) | Religious Studies (4) Visual Recognition (2) Spanish | Reward: 55,000/ Advance payment: 10,000 Experience: 195/ Fame: 70 |
+| **[Sacrificial Statue](docs/Quests/Adventure/1001-2000/quest_1196.md)** | Adventure quest (4) | Religious Studies (4) Visual Recognition (2) Spanish | Reward: 55,000/ Advance payment: 10,000 Experience: 195/ Fame: 70 |

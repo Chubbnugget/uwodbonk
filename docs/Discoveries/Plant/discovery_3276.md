@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Different origin](Quests/Adventure/quest_6120.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Spanish | Reward: 195,000 / Advance payment: 10,000 Experience: 210 / Fame: 120 |
+| **[Different origin](docs/Quests/Adventure/6001-7000/quest_6120.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Spanish | Reward: 195,000 / Advance payment: 10,000 Experience: 210 / Fame: 120 |

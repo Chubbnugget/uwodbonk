@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[City-state alongside Ur](Quests/Adventure/quest_3380.md)** | Adventure quest (5) | Archeology (6) Visualization (4) Arabic | Reward: 291,000 / Advance payment: 20,000 Experience: 320 / Fame: 135 |
+| **[City-state alongside Ur](docs/Quests/Adventure/3001-4000/quest_3380.md)** | Adventure quest (5) | Archeology (6) Visualization (4) Arabic | Reward: 291,000 / Advance payment: 20,000 Experience: 320 / Fame: 135 |

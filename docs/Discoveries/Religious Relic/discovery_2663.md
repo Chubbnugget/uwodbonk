@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of the Goddess Statue of Mount Tai](Quests/Other/quest_5249.md)** | Re-examination reward (6) | Religious Studies(6)Exploration(6) |  |
+| **[Map of the Goddess Statue of Mount Tai](docs/Quests/Other/5001-6000/quest_5249.md)** | Re-examination reward (6) | Religious Studies(6)Exploration(6) |  |

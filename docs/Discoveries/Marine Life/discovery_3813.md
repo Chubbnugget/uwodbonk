@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Manamako](Quests/Other/quest_6774.md)** | Pursuit quest (8) | Ecological research (10) Biology (12) French (1) | Reward: 780,000 / Advance payment: 0Experience: 760 |
+| **[Additional investigation of Manamako](docs/Quests/Other/6001-7000/quest_6774.md)** | Pursuit quest (8) | Ecological research (10) Biology (12) French (1) | Reward: 780,000 / Advance payment: 0Experience: 760 |

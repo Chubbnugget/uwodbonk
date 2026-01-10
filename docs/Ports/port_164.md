@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 | **Sea Area** | central pacific basin |
 | **Required Language** | Oceanian languages |
 | **Coordinates** | （10133，5007） |
-| **Investment Reward** | [Lot (NO.14)](Items/Consumables/Consumables-Treasure-Chests/item_2901.md) （必要投資額：500,000ドゥカード） |
+| **Investment Reward** | [Lot (NO.14)](docs/Items/Consumables/Consumables-Treasure-Chests/item_2901.md) （必要投資額：500,000ドゥカード） |
 
 ### Available Facilities
 
@@ -42,89 +42,89 @@ A town on Hiva Oa Island in the southern part of the Marquesas Islands. It is a 
 
 | item | group | purchase price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
-| [Cassava](Items/Trade Goods/TradeGoods-Foodstuffs/item_1805.md) | [Trading items (food items)](Categories/category_3.md) | (68) | 60 |  |
-| [coconut](Items/Trade Goods/TradeGoods-Sunddries/item_96.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (292) | 256 |  |
-| [taro](Items/Trade Goods/TradeGoods-Foodstuffs/item_1960.md) | [Trading items (food items)](Categories/category_3.md) | (77) | 68 |  |
-| [banana](Items/Trade Goods/TradeGoods-Sunddries/item_1947.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (150) | 132 |  |
+| [Cassava](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_1805.md) | [Trading items (food items)](docs/Categories/category_3.md) | (68) | 60 |  |
+| [coconut](docs/Items/TradeGoods/TradeGoods-Sunddries/item_96.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | (292) | 256 |  |
+| [taro](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_1960.md) | [Trading items (food items)](docs/Categories/category_3.md) | (77) | 68 |  |
+| [banana](docs/Items/TradeGoods/TradeGoods-Sunddries/item_1947.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | (150) | 132 |  |
 | 要投資（必要投資額：400,000） |
-| [vanilla](Items/Trade Goods/TradeGoods-Spices/item_1810.md) | [Trading Goods (Spices)](Categories/category_12.md) | (362) | 317 |  |
-| [papaya](Items/Trade Goods/TradeGoods-Sunddries/item_1948.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (347) | 304 |  |
+| [vanilla](docs/Items/TradeGoods/TradeGoods-Spices/item_1810.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | (362) | 317 |  |
+| [papaya](docs/Items/TradeGoods/TradeGoods-Sunddries/item_1948.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | (347) | 304 |  |
 | 要投資（必要投資額：180,000） |
-| [mango](Items/Trade Goods/TradeGoods-Sunddries/item_2095.md) | [Trading goods (hobby goods)](Categories/category_10.md) | (361) | 316 |  |
+| [mango](docs/Items/TradeGoods/TradeGoods-Sunddries/item_2095.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | (361) | 316 |  |
 | 要投資（必要投資額：400,000） |
-| [魚肉](Items/Trade Goods/TradeGoods-Foodstuffs/item_10.md) | [Trading items (food items)](Categories/category_3.md) | 146 | 128 |  |
+| [魚肉](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_10.md) | [Trading items (food items)](docs/Categories/category_3.md) | 146 | 128 |  |
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
 | item | group | sale price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Trading Goods (Dye)](Categories/category_2.md)
+#### [Trading Goods (Dye)](docs/Categories/category_2.md)
 
-| [Indian indigo](Items/Trade Goods/TradeGoods-Dye/item_157.md) | Trading Goods (Dye) | 911 | (1,024) |  |
+| [Indian indigo](docs/Items/TradeGoods/TradeGoods-Dye/item_157.md) | Trading Goods (Dye) | 911 | (1,024) |  |
 
-#### [交易品（調味料）](Categories/category_4.md)
+#### [交易品（調味料）](docs/Categories/category_4.md)
 
-| [tamarind](Items/Trade Goods/TradeGoods-Seasonings/item_1968.md) | 交易品（調味料） | 1,605 | (1,805) |  |
+| [tamarind](docs/Items/TradeGoods/TradeGoods-Seasonings/item_1968.md) | 交易品（調味料） | 1,605 | (1,805) |  |
 
-#### [Trading products (medical products)](Categories/category_6.md)
+#### [Trading products (medical products)](docs/Categories/category_6.md)
 
-| [calamus](Items/Trade Goods/TradeGoods-Medicine/item_3427.md) | Trading products (medical products) | 23,000 | (25,877) |  |
+| [calamus](docs/Items/TradeGoods/TradeGoods-Medicine/item_3427.md) | Trading products (medical products) | 23,000 | (25,877) |  |
 
-#### [交易品（酒類）](Categories/category_9.md)
+#### [交易品（酒類）](docs/Categories/category_9.md)
 
-| [Taiwan rice wine](Items/Trade Goods/TradeGoods-Alcohol/item_3672.md) | 交易品（酒類） | 23,645 | (26,603) |  |
+| [Taiwan rice wine](docs/Items/TradeGoods/TradeGoods-Alcohol/item_3672.md) | 交易品（酒類） | 23,645 | (26,603) |  |
 
-#### [Trading goods (hobby goods)](Categories/category_10.md)
+#### [Trading goods (hobby goods)](docs/Categories/category_10.md)
 
-| [durian](Items/Trade Goods/TradeGoods-Sunddries/item_1949.md) | Trading goods (hobby goods) | 1,937 | (2,179) |  |
-| [macadamia nuts](Items/Trade Goods/TradeGoods-Sunddries/item_2282.md) | Trading goods (hobby goods) | 740 | (832) |  |
-| [black tea](Items/Trade Goods/TradeGoods-Sunddries/item_675.md) | Trading goods (hobby goods) | 2,414 | (2,716) |  |
-| [raspberry](Items/Trade Goods/TradeGoods-Sunddries/item_5419.md) | Trading goods (hobby goods) | 3,963 | (4,458) |  |
+| [durian](docs/Items/TradeGoods/TradeGoods-Sunddries/item_1949.md) | Trading goods (hobby goods) | 1,937 | (2,179) |  |
+| [macadamia nuts](docs/Items/TradeGoods/TradeGoods-Sunddries/item_2282.md) | Trading goods (hobby goods) | 740 | (832) |  |
+| [black tea](docs/Items/TradeGoods/TradeGoods-Sunddries/item_675.md) | Trading goods (hobby goods) | 2,414 | (2,716) |  |
+| [raspberry](docs/Items/TradeGoods/TradeGoods-Sunddries/item_5419.md) | Trading goods (hobby goods) | 3,963 | (4,458) |  |
 
-#### [Trading Goods (Spices)](Categories/category_11.md)
+#### [Trading Goods (Spices)](docs/Categories/category_11.md)
 
-| [eucalyptus](Items/Trade Goods/TradeGoods-Perfume/item_2278.md) | Trading Goods (Spices) | 696 | (783) |  |
-| [sandalwood](Items/Trade Goods/TradeGoods-Perfume/item_771.md) | Trading Goods (Spices) | 3,850 | (4,331) |  |
+| [eucalyptus](docs/Items/TradeGoods/TradeGoods-Perfume/item_2278.md) | Trading Goods (Spices) | 696 | (783) |  |
+| [sandalwood](docs/Items/TradeGoods/TradeGoods-Perfume/item_771.md) | Trading Goods (Spices) | 3,850 | (4,331) |  |
 | 非同盟時100% |
 
-#### [Trading Goods (Spices)](Categories/category_12.md)
+#### [Trading Goods (Spices)](docs/Categories/category_12.md)
 
-| [pepper](Items/Trade Goods/TradeGoods-Spices/item_58.md) | Trading Goods (Spices) | 3,402 | (3,827) |  |
-| [nutmeg](Items/Trade Goods/TradeGoods-Spices/item_1969.md) | Trading Goods (Spices) | 4,465 | (5,023) |  |
-| [mace](Items/Trade Goods/TradeGoods-Spices/item_2100.md) | Trading Goods (Spices) | 5,043 | (5,673) |  |
+| [pepper](docs/Items/TradeGoods/TradeGoods-Spices/item_58.md) | Trading Goods (Spices) | 3,402 | (3,827) |  |
+| [nutmeg](docs/Items/TradeGoods/TradeGoods-Spices/item_1969.md) | Trading Goods (Spices) | 4,465 | (5,023) |  |
+| [mace](docs/Items/TradeGoods/TradeGoods-Spices/item_2100.md) | Trading Goods (Spices) | 5,043 | (5,673) |  |
 
-#### [Trading Items (Gemstones)](Categories/category_15.md)
+#### [Trading Items (Gemstones)](docs/Categories/category_15.md)
 
-| [sapphire](Items/Trade Goods/TradeGoods-Gems/item_676.md) | Trading Items (Gemstones) | 6,450 | (7,256) |  |
-| [amethyst](Items/Trade Goods/TradeGoods-Gems/item_3434.md) | Trading Items (Gemstones) | 12,841 | (14,447) |  |
+| [sapphire](docs/Items/TradeGoods/TradeGoods-Gems/item_676.md) | Trading Items (Gemstones) | 6,450 | (7,256) |  |
+| [amethyst](docs/Items/TradeGoods/TradeGoods-Gems/item_3434.md) | Trading Items (Gemstones) | 12,841 | (14,447) |  |
 
-#### [交易品（織物）](Categories/category_20.md)
+#### [交易品（織物）](docs/Categories/category_20.md)
 
-| [indian chintz](Items/Trade Goods/TradeGoods-Fabrics/item_159.md) | 交易品（織物） | 2,062 | (2,319) |  |
-| [Nishijin textile](Items/Trade Goods/TradeGoods-Fabrics/item_3431.md) | 交易品（織物） | 22,800 | (25,652) |  |
+| [indian chintz](docs/Items/TradeGoods/TradeGoods-Fabrics/item_159.md) | 交易品（織物） | 2,062 | (2,319) |  |
+| [Nishijin textile](docs/Items/TradeGoods/TradeGoods-Fabrics/item_3431.md) | 交易品（織物） | 22,800 | (25,652) |  |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
 | item | group | sale price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Trading items (food items)](Categories/category_3.md)
+#### [Trading items (food items)](docs/Categories/category_3.md)
 
-| [sardine](Items/Trade Goods/TradeGoods-Foodstuffs/item_39.md) | Trading items (food items) | 14 | (15) |  |
-| [Yellowfin horse mackerel](Items/Trade Goods/TradeGoods-Foodstuffs/item_1532.md) | Trading items (food items) | 500 | (562) |  |
-| [soybeans](Items/Trade Goods/TradeGoods-Foodstuffs/item_1958.md) | Trading items (food items) | 102 | (114) |  |
-| [red bean](Items/Trade Goods/TradeGoods-Foodstuffs/item_123.md) | Trading items (food items) | 90 | (101) |  |
+| [sardine](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_39.md) | Trading items (food items) | 14 | (15) |  |
+| [Yellowfin horse mackerel](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_1532.md) | Trading items (food items) | 500 | (562) |  |
+| [soybeans](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_1958.md) | Trading items (food items) | 102 | (114) |  |
+| [red bean](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_123.md) | Trading items (food items) | 90 | (101) |  |
 
-#### [Trading Goods (Spices)](Categories/category_12.md)
+#### [Trading Goods (Spices)](docs/Categories/category_12.md)
 
-| [cumin](Items/Trade Goods/TradeGoods-Spices/item_156.md) | Trading Goods (Spices) | 1,164 | (1,309) |  |
-| [ginger](Items/Trade Goods/TradeGoods-Spices/item_112.md) | Trading Goods (Spices) | 714 | (803) |  |
-| [mint](Items/Trade Goods/TradeGoods-Spices/item_816.md) | Trading Goods (Spices) | 224 | (252) |  |
+| [cumin](docs/Items/TradeGoods/TradeGoods-Spices/item_156.md) | Trading Goods (Spices) | 1,164 | (1,309) |  |
+| [ginger](docs/Items/TradeGoods/TradeGoods-Spices/item_112.md) | Trading Goods (Spices) | 714 | (803) |  |
+| [mint](docs/Items/TradeGoods/TradeGoods-Spices/item_816.md) | Trading Goods (Spices) | 224 | (252) |  |
 
-#### [Trading goods (artificial goods)](Categories/category_13.md)
+#### [Trading goods (artificial goods)](docs/Categories/category_13.md)
 
-| [embroidery thread](Items/Trade Goods/TradeGoods-Luxuries/item_898.md) | Trading goods (artificial goods) | 2,066 | (2,324) |  |
+| [embroidery thread](docs/Items/TradeGoods/TradeGoods-Luxuries/item_898.md) | Trading goods (artificial goods) | 2,066 | (2,324) |  |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
@@ -138,34 +138,34 @@ A town on Hiva Oa Island in the southern part of the Marquesas Islands. It is a 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Equipment (belongings)](Categories/category_27.md)
+#### [Equipment (belongings)](docs/Categories/category_27.md)
 
-| [木槍](Items/Equipment/Equipment-Weapon/item_438.md) | Equipment (belongings) | 34,400 | tool shop owner |  |
-| [hunter's spear](Items/Equipment/Equipment-Weapon/item_655.md) | Equipment (belongings) | 38,700 | tool shop owner |  |
+| [木槍](docs/Items/Equipment/Equipment-Weapon/item_438.md) | Equipment (belongings) | 34,400 | tool shop owner |  |
+| [hunter's spear](docs/Items/Equipment/Equipment-Weapon/item_655.md) | Equipment (belongings) | 38,700 | tool shop owner |  |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [boomerang](Items/Consumables/Consumables-Landbattle/item_454.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
-| [catapult](Items/Consumables/Consumables-Landbattle/item_311.md) | Consumables (land battle/deck battle) | 30 | tool shop owner |  |
-| [Assortment of therapeutic drugs](Items/Consumables/Consumables-Landbattle/item_564.md) | Consumables (land battle/deck battle) | 900 | tool shop owner |  |
-| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
+| [boomerang](docs/Items/Consumables/Consumables-Landbattle/item_454.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [strong adhesive oil](docs/Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [catapult](docs/Items/Consumables/Consumables-Landbattle/item_311.md) | Consumables (land battle/deck battle) | 30 | tool shop owner |  |
+| [Assortment of therapeutic drugs](docs/Items/Consumables/Consumables-Landbattle/item_564.md) | Consumables (land battle/deck battle) | 900 | tool shop owner |  |
+| [secret cure](docs/Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 
-#### [Consumables (skill activation)](Categories/category_31.md)
+#### [Consumables (skill activation)](docs/Categories/category_31.md)
 
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
+| [fishing gear](docs/Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
 
-#### [Consumables (request documents)](Categories/category_45.md)
+#### [Consumables (request documents)](docs/Categories/category_45.md)
 
-| [Pharmaceutical purchase order](Items/Consumables/Consumables-Documents/item_4924.md) | Consumables (request documents) | 20,000 | tool shop owner |  |
+| [Pharmaceutical purchase order](docs/Items/Consumables/Consumables-Documents/item_4924.md) | Consumables (request documents) | 20,000 | tool shop owner |  |
   </TabItem>
   <TabItem value="Tavern Master" label="Tavern Master">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [Oceania traditional cuisine collection](Items/Recipe Book/item_2286.md) | recipe book | Fixed recipe | Tavern Master |  |
+| [Oceania traditional cuisine collection](docs/Items/RecipeBooks/item_2286.md) | recipe book | Fixed recipe | Tavern Master |  |
   </TabItem>
 </Tabs>

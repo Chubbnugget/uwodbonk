@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Looking for friends](Quests/Adventure/quest_6261.md)** | Adventure quest (2) | Ecological research (1) Biology (3) Swahili | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Looking for friends](docs/Quests/Adventure/6001-7000/quest_6261.md)** | Adventure quest (2) | Ecological research (1) Biology (3) Swahili | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |

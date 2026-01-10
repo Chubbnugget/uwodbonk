@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ecliptic Goddess](Quests/Adventure/quest_3749.md)** | Adventure Quest (4) Mythology Era | Astronomy (5) Visual recognition (3) German | Reward: 119,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Ecliptic Goddess](docs/Quests/Adventure/3001-4000/quest_3749.md)** | Adventure Quest (4) Mythology Era | Astronomy (5) Visual recognition (3) German | Reward: 119,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

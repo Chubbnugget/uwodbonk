@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big island in the Indian Ocean](Quests/Adventure/quest_73.md)** | Adventure Quest (5) 15th Century 5th Period | Geography (3) Visual recognition (1) | Reward: 160,000Experience: 450/ Fame: 250 |
+| **[Big island in the Indian Ocean](docs/Quests/Adventure/1-1000/quest_73.md)** | Adventure Quest (5) 15th Century 5th Period | Geography (3) Visual recognition (1) | Reward: 160,000Experience: 450/ Fame: 250 |

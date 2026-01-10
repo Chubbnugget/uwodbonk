@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tower built by Tang monk Xuanzang](Quests/Adventure/quest_6893.md)** | Adventure quest (10) | Religious Studies (15) Visual Recognition (13) Chinese | Remuneration: 301,000 / Advance payment: 30,000 |
+| **[Tower built by Tang monk Xuanzang](docs/Quests/Adventure/6001-7000/quest_6893.md)** | Adventure quest (10) | Religious Studies (15) Visual Recognition (13) Chinese | Remuneration: 301,000 / Advance payment: 30,000 |

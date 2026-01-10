@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of the western Balearic Islands](Quests/Adventure/quest_250.md)** | Adventure quest (3) | Geography (1) Visual recognition (1) Spanish | Reward: 8,000 / Advance payment: 0Experience: 208 / Fame: 96 |
-| **[Investigation west of Parma](Quests/Adventure/quest_5996.md)** | Adventure quest (2) | Geography (1) Visual recognition (1) French | Reward: 25,000Experience: 140/ Fame: 130 |
+| **[Investigation of the western Balearic Islands](docs/Quests/Adventure/1-1000/quest_250.md)** | Adventure quest (3) | Geography (1) Visual recognition (1) Spanish | Reward: 8,000 / Advance payment: 0Experience: 208 / Fame: 96 |
+| **[Investigation west of Parma](docs/Quests/Adventure/5001-6000/quest_5996.md)** | Adventure quest (2) | Geography (1) Visual recognition (1) French | Reward: 25,000Experience: 140/ Fame: 130 |

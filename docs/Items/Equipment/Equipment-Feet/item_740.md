@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | gold embellished sandals |
 | **Type** | thing |
-| **Group** | [Equipment (foot)](Categories/category_26.md) |
+| **Group** | [Equipment (foot)](docs/Categories/category_26.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 6,600 |
 | **Description** | Sandals decorated with gold. Wealthy merchants often wear it. Durability 25 Formal wear 7 Defense 1 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pharos Island of the past](Quests/Other/quest_6555.md)** | Legacy(1) | - |  |
+| **[Pharos Island of the past](docs/Quests/Other/6001-7000/quest_6555.md)** | Legacy(1) | - |  |

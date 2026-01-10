@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Roman fortifications](Quests/Other/quest_3324.md)** | Archeology(8) | Exploration(8)Archaeology(8) |  |
+| **[Map of Roman fortifications](docs/Quests/Other/3001-4000/quest_3324.md)** | Archeology(8) | Exploration(8)Archaeology(8) |  |

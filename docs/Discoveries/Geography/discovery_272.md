@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Survey of the sea near Athens](Quests/Adventure/quest_6098.md)** | Adventure quest (3) | Geography (2) Visual recognition (1) | Reward: 36,000 |
-| **[Topography near Greece](Quests/Adventure/quest_123.md)** | Adventure quest (4) | Geography (2) Visualization (1) Greek | Reward: 16,000 / Advance payment: 0Experience: 130 |
+| **[Survey of the sea near Athens](docs/Quests/Adventure/6001-7000/quest_6098.md)** | Adventure quest (3) | Geography (2) Visual recognition (1) | Reward: 36,000 |
+| **[Topography near Greece](docs/Quests/Adventure/1-1000/quest_123.md)** | Adventure quest (4) | Geography (2) Visualization (1) Greek | Reward: 16,000 / Advance payment: 0Experience: 130 |

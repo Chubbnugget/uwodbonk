@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Officer's Conclusion](Quests/Adventure/quest_2104.md)** | Adventure quest (8) | Exploration (9) Archeology (11) Unlocking (9) | Reward: 2,000 / Advance payment: 0Experience: 160 / Fame: 150 |
+| **[Officer's Conclusion](docs/Quests/Adventure/2001-3000/quest_2104.md)** | Adventure quest (8) | Exploration (9) Archeology (11) Unlocking (9) | Reward: 2,000 / Advance payment: 0Experience: 160 / Fame: 150 |

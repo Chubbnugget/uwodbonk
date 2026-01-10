@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bird with blue makeup](Quests/Adventure/quest_2069.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Malayu Tagalog | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 140 |
+| **[Bird with blue makeup](docs/Quests/Adventure/2001-3000/quest_2069.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Malayu Tagalog | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 140 |

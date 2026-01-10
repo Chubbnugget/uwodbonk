@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flower that stopped time](Quests/Adventure/quest_1761.md)** | Adventure quest (9) | Ecological Survey (7) Biology (9) Norse | Reward: 79,000 / Advance payment: 0Experience: 360 / Fame: 115 |
+| **[Flower that stopped time](docs/Quests/Adventure/1001-2000/quest_1761.md)** | Adventure quest (9) | Ecological Survey (7) Biology (9) Norse | Reward: 79,000 / Advance payment: 0Experience: 360 / Fame: 115 |

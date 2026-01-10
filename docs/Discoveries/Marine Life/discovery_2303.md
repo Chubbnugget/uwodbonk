@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mottled Whale Map](Quests/Other/quest_3869.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：210 |
+| **[Mottled Whale Map](docs/Quests/Other/3001-4000/quest_3869.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：210 |

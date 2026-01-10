@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Monkey on the palm](Quests/Adventure/quest_1935.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) French | Reward: 218,000 / Advance payment: 20,000 Experience: 260 / Fame: 110 |
+| **[Monkey on the palm](docs/Quests/Adventure/1001-2000/quest_1935.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) French | Reward: 218,000 / Advance payment: 20,000 Experience: 260 / Fame: 110 |

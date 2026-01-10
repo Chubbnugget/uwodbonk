@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Marble Female Statue Map](Quests/Other/quest_818.md)** | Treasures鑑定(6) | 探索(6)Treasures鑑定(6) |  |
+| **[Marble Female Statue Map](docs/Quests/Other/1-1000/quest_818.md)** | Treasures鑑定(6) | 探索(6)Treasures鑑定(6) |  |

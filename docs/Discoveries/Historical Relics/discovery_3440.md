@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Abandoned Arms](Quests/Other/quest_6351.md)** | Treasure hunting (6) | Exploration (6) Archeology (8) Greek (1) | Reward: 100,000/ Advance payment: 0 |
+| **[Abandoned Arms](docs/Quests/Other/6001-7000/quest_6351.md)** | Treasure hunting (6) | Exploration (6) Archeology (8) Greek (1) | Reward: 100,000/ Advance payment: 0 |

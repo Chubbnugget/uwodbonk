@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A military story wishing for peace](Quests/Adventure/quest_2329.md)** | Adventure quest (4) | 探索(3)Treasures鑑定(5)日本語 | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[A military story wishing for peace](docs/Quests/Adventure/2001-3000/quest_2329.md)** | Adventure quest (4) | 探索(3)Treasures鑑定(5)日本語 | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 65 |

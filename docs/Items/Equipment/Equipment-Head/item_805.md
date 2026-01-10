@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | hijab |
 | **Type** | thing |
-| **Group** | [Equipment（頭）](Categories/category_23.md) |
+| **Group** | [Equipment（頭）](docs/Categories/category_23.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 33,200 |
 | **Description** | A type of turban worn by Arab women with a combination of cloth. *5 colors available Gender limited Female Durability 30 Formal wear 7 Disguise 20 Defense 2 Total required fame 500 |

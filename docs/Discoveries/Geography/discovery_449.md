@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Roaring thunder](Quests/Adventure/quest_3006.md)** | Adventure quest (9) | Geography (10) Visual recognition (8) Swahili | Reward: 157,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[Roaring thunder](docs/Quests/Adventure/3001-4000/quest_3006.md)** | Adventure quest (9) | Geography (10) Visual recognition (8) Swahili | Reward: 157,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

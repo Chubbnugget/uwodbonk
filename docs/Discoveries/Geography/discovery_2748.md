@@ -30,4 +30,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Volcano Records](Quests/Adventure/quest_5340.md)** | Adventure Quest (8) B.C. | Geography (6) Visual recognition (4) West African languages | Reward: 165,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |
+| **[Volcano Records](docs/Quests/Adventure/5001-6000/quest_5340.md)** | Adventure Quest (8) B.C. | Geography (6) Visual recognition (4) West African languages | Reward: 165,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |

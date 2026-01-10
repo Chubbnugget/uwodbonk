@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tableware that protects life](Quests/Adventure/quest_3153.md)** | Adventure quest (7) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Tableware that protects life](docs/Quests/Adventure/3001-4000/quest_3153.md)** | Adventure quest (7) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |

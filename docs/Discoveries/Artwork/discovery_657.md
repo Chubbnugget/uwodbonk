@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Landscape painting master](Quests/Adventure/quest_2819.md)** | Adventure quest (4) | 探索(3)美術(5)中国語(1) | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Landscape painting master](docs/Quests/Adventure/2001-3000/quest_2819.md)** | Adventure quest (4) | 探索(3)美術(5)中国語(1) | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |

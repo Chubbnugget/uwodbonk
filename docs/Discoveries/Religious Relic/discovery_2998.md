@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mountains that reject humanity](Quests/Adventure/quest_5707.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) Indian Languages | Reward: 374,000 / Advance payment: 30,000 Experience: 320 / Fame: 195 |
+| **[Mountains that reject humanity](docs/Quests/Adventure/5001-6000/quest_5707.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) Indian Languages | Reward: 374,000 / Advance payment: 30,000 Experience: 320 / Fame: 195 |

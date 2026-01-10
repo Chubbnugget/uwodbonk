@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of plants with strange leaves](Quests/Other/quest_6388.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |
+| **[Map of plants with strange leaves](docs/Quests/Other/6001-7000/quest_6388.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |

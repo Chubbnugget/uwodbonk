@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Large flower](Quests/Adventure/quest_1951.md)** | Adventure quest (9) | Ecological Survey (11) Biology (13) Malayu Tagalog | Reward: 562,000 / Advance payment: 50,000 Experience: 540 / Fame: 440 |
+| **[Large flower](docs/Quests/Adventure/1001-2000/quest_1951.md)** | Adventure quest (9) | Ecological Survey (11) Biology (13) Malayu Tagalog | Reward: 562,000 / Advance payment: 50,000 Experience: 540 / Fame: 440 |

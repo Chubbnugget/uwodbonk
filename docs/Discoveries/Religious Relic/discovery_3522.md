@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Martyr's Elixir](Quests/Adventure/quest_6444.md)** | Adventure quest (1) | Religious Studies(2)Exploration(1)English(1) | Reward: 30,000 / Advance payment: 0Experience: 120 / Fame: 65 |
+| **[Martyr's Elixir](docs/Quests/Adventure/6001-7000/quest_6444.md)** | Adventure quest (1) | Religious Studies(2)Exploration(1)English(1) | Reward: 30,000 / Advance payment: 0Experience: 120 / Fame: 65 |

@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Cutlass |
 | **Type** | thing |
-| **Group** | [Equipment](Categories/category_27.md) |
+| **Group** | [Equipment](docs/Categories/category_27.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 24,200 |
 | **Description** | A long sword with a sharp curved blade, often used by sailors. Durability 30 Attack power 20 Equipable occupation Combat type Total required fame 480 Weapon type Sword |

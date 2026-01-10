@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Monster Bones](Quests/Adventure/quest_1008.md)** | Adventure quest (9) | Exploration (10) Biology (12) Spanish | Reward: 365,000 / Advance payment: 50,000 Experience: 360 / Fame: 150 |
+| **[Monster Bones](docs/Quests/Adventure/1001-2000/quest_1008.md)** | Adventure quest (9) | Exploration (10) Biology (12) Spanish | Reward: 365,000 / Advance payment: 50,000 Experience: 360 / Fame: 150 |

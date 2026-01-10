@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Volcano Thunder](Quests/Other/quest_5784.md)** | Weather/phenomena (1) | Visual recognition (8) | Experience：540 |
+| **[Volcano Thunder](docs/Quests/Other/5001-6000/quest_5784.md)** | Weather/phenomena (1) | Visual recognition (8) | Experience：540 |

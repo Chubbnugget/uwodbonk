@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black beast](Quests/Adventure/quest_592.md)** | Adventure quest (8) | Ecological research (7) Biology (9) Swahili | Reward: 220,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |
+| **[Black beast](docs/Quests/Adventure/1-1000/quest_592.md)** | Adventure quest (8) | Ecological research (7) Biology (9) Swahili | Reward: 220,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |

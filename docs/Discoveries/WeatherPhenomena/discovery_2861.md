@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kosa](Quests/Other/quest_5532.md)** | Weather/phenomena (3) | Visual recognition (7) | Experience：520 |
+| **[Kosa](docs/Quests/Other/5001-6000/quest_5532.md)** | Weather/phenomena (3) | Visual recognition (7) | Experience：520 |

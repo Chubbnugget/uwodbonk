@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Triton](Quests/Other/quest_5346.md)** | Celestial Object Discovery Name(15)19th century | Astronomy (15) Visualization (15) | Experience：1,310 |
+| **[Triton](docs/Quests/Other/5001-6000/quest_5346.md)** | Celestial Object Discovery Name(15)19th century | Astronomy (15) Visualization (15) | Experience：1,310 |

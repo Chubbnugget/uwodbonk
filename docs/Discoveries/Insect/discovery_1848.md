@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Velvet Feather](Quests/Adventure/quest_2360.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Japanese | Reward: 101,000/ Advance: 10,000 Experience: 160/ Fame: 75 |
+| **[Velvet Feather](docs/Quests/Adventure/2001-3000/quest_2360.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Japanese | Reward: 101,000/ Advance: 10,000 Experience: 160/ Fame: 75 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sweet Scented Tree](Quests/Adventure/quest_3207.md)** | Adventure quest (7) | Ecological research (4) Biology (6) Spanish (1) | Reward: 140,000 / Advance payment: 10,000 Experience: 190 / Fame: 170 |
+| **[Sweet Scented Tree](docs/Quests/Adventure/3001-4000/quest_3207.md)** | Adventure quest (7) | Ecological research (4) Biology (6) Spanish (1) | Reward: 140,000 / Advance payment: 10,000 Experience: 190 / Fame: 170 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Marble Statue Map](Quests/Other/quest_5390.md)** | 美術(6) | 探索(6)美術(6) |  |
+| **[Marble Statue Map](docs/Quests/Other/5001-6000/quest_5390.md)** | 美術(6) | 探索(6)美術(6) |  |

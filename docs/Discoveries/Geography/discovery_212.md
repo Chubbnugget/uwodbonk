@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Magnificent Water](Quests/Adventure/quest_2988.md)** | Adventure quest (8) | Geography (9) Visualization (7) Portuguese | Reward: 181,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |
+| **[Magnificent Water](docs/Quests/Adventure/2001-3000/quest_2988.md)** | Adventure quest (8) | Geography (9) Visualization (7) Portuguese | Reward: 181,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |

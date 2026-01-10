@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | catapult |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 30 |
 | **Description** | Items for land combat. A weapon that can be thrown at enemies to cause damage. Effect/small. Effect when used: Throwing attack (Throwing a thrown weapon at the enemy in land battles; effective against charge mode.) Rank 3 Required gauge 50 Cooldown time 225 |

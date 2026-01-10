@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Devil's Island](Quests/Adventure/quest_6183.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Mayan languages | Reward: 116,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[Devil's Island](docs/Quests/Adventure/6001-7000/quest_6183.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Mayan languages | Reward: 116,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

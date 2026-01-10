@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Observation record of Tree Stars](Quests/Other/quest_3914.md)** | Astronomy(6) | Astronomy(6)Visualization(6) | Experience：240 |
+| **[Observation record of Tree Stars](docs/Quests/Other/3001-4000/quest_3914.md)** | Astronomy(6) | Astronomy(6)Visualization(6) | Experience：240 |

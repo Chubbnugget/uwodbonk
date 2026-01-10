@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[New Stars of Cassiopeia](Quests/Other/quest_3904.md)** | Celestial Object Discovery Name(9)16th Century Issue 4 | Astronomy (9) Visualization (8) | Experience：710 |
+| **[New Stars of Cassiopeia](docs/Quests/Other/3001-4000/quest_3904.md)** | Celestial Object Discovery Name(9)16th Century Issue 4 | Astronomy (9) Visualization (8) | Experience：710 |

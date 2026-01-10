@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Round little bird](Quests/Adventure/quest_5621.md)** | Adventure quest (4) | Ecological Survey (4) Biology (6) Japanese | Reward: 100,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[Round little bird](docs/Quests/Adventure/5001-6000/quest_5621.md)** | Adventure quest (4) | Ecological Survey (4) Biology (6) Japanese | Reward: 100,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Little Old Man in the Forest](Quests/Adventure/quest_1976.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) French | Reward: 336,000 / Advance payment: 30,000 Experience: 350 / Fame: 150 |
+| **[Little Old Man in the Forest](docs/Quests/Adventure/1001-2000/quest_1976.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) French | Reward: 336,000 / Advance payment: 30,000 Experience: 350 / Fame: 150 |

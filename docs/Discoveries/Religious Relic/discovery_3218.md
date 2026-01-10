@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Life of a Married Woman](Quests/Adventure/quest_6029.md)** | Adventure quest (5) | Religious Studies (8) Exploration (6) Arctic languages | Reward: 169,000 / Advance payment: 10,000 Experience: 190 / Fame: 110 |
+| **[Life of a Married Woman](docs/Quests/Adventure/6001-7000/quest_6029.md)** | Adventure quest (5) | Religious Studies (8) Exploration (6) Arctic languages | Reward: 169,000 / Advance payment: 10,000 Experience: 190 / Fame: 110 |

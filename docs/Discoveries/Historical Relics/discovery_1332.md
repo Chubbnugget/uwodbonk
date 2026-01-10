@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mesopotamian stone statue](Quests/Adventure/quest_300.md)** | Adventure Quest (7) B.C. | Exploration (5) Archeology (7) Arabic | Reward: 154,000 / Advance payment: 0Experience: 170 / Fame: 90 |
+| **[Mesopotamian stone statue](docs/Quests/Adventure/1-1000/quest_300.md)** | Adventure Quest (7) B.C. | Exploration (5) Archeology (7) Arabic | Reward: 154,000 / Advance payment: 0Experience: 170 / Fame: 90 |

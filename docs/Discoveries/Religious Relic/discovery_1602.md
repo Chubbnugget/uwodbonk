@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Leshan Great Buddha (middle floor)](Quests/Other/quest_2825.md)** | Dungeon (5) | - |  |
+| **[Leshan Great Buddha (middle floor)](docs/Quests/Other/2001-3000/quest_2825.md)** | Dungeon (5) | - |  |

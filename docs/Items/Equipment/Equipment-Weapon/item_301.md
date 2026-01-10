@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | short sword |
 | **Type** | thing |
-| **Group** | [Equipment](Categories/category_27.md) |
+| **Group** | [Equipment](docs/Categories/category_27.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 9,300 |
 | **Description** | A short sword. It's good enough for self-defense, but it won't stand up against strong enemies. Durability 30 Attack power 9 Weapon type Throwing knife |

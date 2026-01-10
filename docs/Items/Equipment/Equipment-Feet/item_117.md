@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | caribbean sandals |
 | **Type** | thing |
-| **Group** | [Equipment (foot)](Categories/category_26.md) |
+| **Group** | [Equipment (foot)](docs/Categories/category_26.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 5,600 |
 | **Description** | Sandals are mainly worn by people in the Caribbean. Durability 30 Formal wear 1 Disguise 3 Defense 1 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beginning of the Seven Wonders](Quests/Adventure/quest_6210.md)** | Adventure Quest (5) B.C. | Exploration (4) Archeology (6) Greek | Reward: 102,000 / Advance payment: 10,000 Experience: 150 / Fame: 160 |
+| **[Beginning of the Seven Wonders](docs/Quests/Adventure/6001-7000/quest_6210.md)** | Adventure Quest (5) B.C. | Exploration (4) Archeology (6) Greek | Reward: 102,000 / Advance payment: 10,000 Experience: 150 / Fame: 160 |

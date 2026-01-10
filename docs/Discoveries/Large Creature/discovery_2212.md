@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of large horned beasts](Quests/Other/quest_394.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |
+| **[Map of large horned beasts](docs/Quests/Other/1-1000/quest_394.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |

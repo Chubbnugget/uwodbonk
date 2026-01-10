@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional survey of vast lake](Quests/Other/quest_6565.md)** | Pursuit quest (3) | Geography (10) Visualization (8) Dutch (1) | Reward: 240,000 / Advance payment: 0Experience: 1,040 |
+| **[Additional survey of vast lake](docs/Quests/Other/6001-7000/quest_6565.md)** | Pursuit quest (3) | Geography (10) Visualization (8) Dutch (1) | Reward: 240,000 / Advance payment: 0Experience: 1,040 |

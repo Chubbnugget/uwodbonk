@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unreadable manuscript](Quests/Adventure/quest_2043.md)** | Adventure quest (4) 16th century 1st period | Exploration (3) Treasures Appraisal (5) Arabic (1) | Reward: 82,000 / Advance payment: 0Experience: 140 / Fame: 140 |
-| **[Canal opening project technical book](Quests/Other/quest_2049.md)** | Imperial command quest (5) | 探索(3)Treasures鑑定(5) |  |
+| **[Unreadable manuscript](docs/Quests/Adventure/2001-3000/quest_2043.md)** | Adventure quest (4) 16th century 1st period | Exploration (3) Treasures Appraisal (5) Arabic (1) | Reward: 82,000 / Advance payment: 0Experience: 140 / Fame: 140 |
+| **[Canal opening project technical book](docs/Quests/Other/2001-3000/quest_2049.md)** | Imperial command quest (5) | 探索(3)Treasures鑑定(5) |  |

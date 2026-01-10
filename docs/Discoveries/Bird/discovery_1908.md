@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Long-tailed chicken](Quests/Adventure/quest_2363.md)** | Adventure quest (5) | Ecological Survey (6) Biology (8) Japanese | Reward: 192,000 / Advance payment: 10,000 Experience: 230 / Fame: 105 |
+| **[Long-tailed chicken](docs/Quests/Adventure/2001-3000/quest_2363.md)** | Adventure quest (5) | Ecological Survey (6) Biology (8) Japanese | Reward: 192,000 / Advance payment: 10,000 Experience: 230 / Fame: 105 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue praying for good luck and longevity](Quests/Adventure/quest_6928.md)** | Adventure quest (9) | Religious Studies(14)Exploration(12)Chinese(1) | Reward: 588,000/Advance payment: 60,000Experience: 450 |
+| **[Statue praying for good luck and longevity](docs/Quests/Adventure/6001-7000/quest_6928.md)** | Adventure quest (9) | Religious Studies(14)Exploration(12)Chinese(1) | Reward: 588,000/Advance payment: 60,000Experience: 450 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Egyptian Princess's Balm](Quests/Other/quest_6454.md)** | Legacy(1) | - |  |
+| **[Egyptian Princess's Balm](docs/Quests/Other/6001-7000/quest_6454.md)** | Legacy(1) | - |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Island near Cuba](Quests/Adventure/quest_1093.md)** | Adventure quest (4) | Geography (6) Visual recognition (4) Spanish | Reward: 46,000 / Advance payment: 5,000 Experience: 150 / Fame: 65 |
+| **[Island near Cuba](docs/Quests/Adventure/1001-2000/quest_1093.md)** | Adventure quest (4) | Geography (6) Visual recognition (4) Spanish | Reward: 46,000 / Advance payment: 5,000 Experience: 150 / Fame: 65 |

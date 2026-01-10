@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strike even though it is a string](Quests/Adventure/quest_2126.md)** | Adventure quest (6) | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 92,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Strike even though it is a string](docs/Quests/Adventure/2001-3000/quest_2126.md)** | Adventure quest (6) | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 92,000 / Advance payment: 0Experience: 150 / Fame: 70 |

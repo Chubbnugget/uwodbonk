@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Islamic culture crafts](Quests/Adventure/quest_44.md)** | Adventure Quest (5) 16th Century 2nd Period | Exploration (3) Treasures Appraisal (5) Arabic | Reward: 74,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Islamic culture crafts](docs/Quests/Adventure/1-1000/quest_44.md)** | Adventure Quest (5) 16th Century 2nd Period | Exploration (3) Treasures Appraisal (5) Arabic | Reward: 74,000 / Advance payment: 0Experience: 150 / Fame: 70 |

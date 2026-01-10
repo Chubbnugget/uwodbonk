@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Exile Fragment](Quests/Adventure/quest_2053.md)** | Adventure quest (6) | Exploration (6) Archeology (8) Unlocking (6) | Reward: 89,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Exile Fragment](docs/Quests/Adventure/2001-3000/quest_2053.md)** | Adventure quest (6) | Exploration (6) Archeology (8) Unlocking (6) | Reward: 89,000 / Advance payment: 0Experience: 150 / Fame: 70 |

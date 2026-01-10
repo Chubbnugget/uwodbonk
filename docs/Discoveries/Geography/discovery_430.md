@@ -28,5 +28,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Narrow road leading to eastern country](Quests/Adventure/quest_1331.md)** | Adventure quest (5) 16th century 1st period | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 70,000 / Advance payment: 5,000 Experience: 250 / Fame: 82 |
-| **[Key point for advancing towards the Spice Islands](Quests/Other/quest_2075.md)** | Imperial command quest (3) | Geography (6) Visual recognition (4) | Experience: 250/ Reputation: 110 |
+| **[Narrow road leading to eastern country](docs/Quests/Adventure/1001-2000/quest_1331.md)** | Adventure quest (5) 16th century 1st period | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 70,000 / Advance payment: 5,000 Experience: 250 / Fame: 82 |
+| **[Key point for advancing towards the Spice Islands](docs/Quests/Other/2001-3000/quest_2075.md)** | Imperial command quest (3) | Geography (6) Visual recognition (4) | Experience: 250/ Reputation: 110 |

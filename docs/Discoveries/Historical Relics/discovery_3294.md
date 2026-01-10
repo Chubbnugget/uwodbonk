@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of the Great King](Quests/Adventure/quest_6148.md)** | Adventure quest (3) 15th century 1st period | Exploration (5) Archeology (7) Portuguese | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Investigation of the Great King](docs/Quests/Adventure/6001-7000/quest_6148.md)** | Adventure quest (3) 15th century 1st period | Exploration (5) Archeology (7) Portuguese | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |

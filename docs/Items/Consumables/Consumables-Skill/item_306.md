@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | 片眼鏡 |
 | **Type** | thing |
-| **Group** | [Consumables (skill activation)](Categories/category_31.md) |
+| **Group** | [Consumables (skill activation)](docs/Categories/category_31.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 500 |
 | **Description** | Glasses worn on one eye. Convenient for finding interesting things. You can collect various materials and items. Equip location Clothing Durability 10 Effect when used Gathering |

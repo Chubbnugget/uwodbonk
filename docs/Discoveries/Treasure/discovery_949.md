@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Records of Goryeo](Quests/Adventure/quest_2678.md)** | Adventure quest (2) | Exploration (2) Treasures Appraisal (4) Unlocking (2) | Reward: 95,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Records of Goryeo](docs/Quests/Adventure/2001-3000/quest_2678.md)** | Adventure quest (2) | Exploration (2) Treasures Appraisal (4) Unlocking (2) | Reward: 95,000 / Advance payment: 0Experience: 150 / Fame: 75 |

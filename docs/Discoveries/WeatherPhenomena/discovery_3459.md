@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dust Devil](Quests/Other/quest_6376.md)** | Weather/phenomena (1) | Visual recognition | Experience：300 |
+| **[Dust Devil](docs/Quests/Other/6001-7000/quest_6376.md)** | Weather/phenomena (1) | Visual recognition | Experience：300 |

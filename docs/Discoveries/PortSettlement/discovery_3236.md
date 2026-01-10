@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Inhambane](Quests/Other/quest_6060.md)** | Port/village (1) | - |  |
+| **[Inhambane](docs/Quests/Other/6001-7000/quest_6060.md)** | Port/village (1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Vishakhapatnam](Quests/Other/quest_6584.md)** | Port/village (1) | - |  |
+| **[Vishakhapatnam](docs/Quests/Other/6001-7000/quest_6584.md)** | Port/village (1) | - |  |

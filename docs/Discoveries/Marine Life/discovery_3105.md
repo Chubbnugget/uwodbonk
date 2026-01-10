@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fushigiuo](Quests/Other/quest_5847.md)** | Fishing (8) | fishing |  |
+| **[Fushigiuo](docs/Quests/Other/5001-6000/quest_5847.md)** | Fishing (8) | fishing |  |

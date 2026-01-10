@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Geography survey near freshwater](Quests/Adventure/quest_2544.md)** | Adventure quest (3) | Geography (4) Visual recognition (2) Chinese (1) | Reward: 94,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Geography survey near freshwater](docs/Quests/Adventure/2001-3000/quest_2544.md)** | Adventure quest (3) | Geography (4) Visual recognition (2) Chinese (1) | Reward: 94,000 / Advance payment: 0Experience: 150 / Fame: 70 |

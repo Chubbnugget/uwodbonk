@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Relief Stone](Quests/Adventure/quest_1282.md)** | Adventure Quest (5) B.C. | Exploration (3) Archeology (5) Unlocking (3) | Reward: 69,000 / Advance payment: 0Experience: 270 / Fame: 95 |
+| **[Relief Stone](docs/Quests/Adventure/1001-2000/quest_1282.md)** | Adventure Quest (5) B.C. | Exploration (3) Archeology (5) Unlocking (3) | Reward: 69,000 / Advance payment: 0Experience: 270 / Fame: 95 |

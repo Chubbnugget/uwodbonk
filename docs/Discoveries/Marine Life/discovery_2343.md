@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hagfish](Quests/Other/quest_4816.md)** | Fishing (2) | Fishing (10) |  |
+| **[Hagfish](docs/Quests/Other/4001-5000/quest_4816.md)** | Fishing (2) | Fishing (10) |  |

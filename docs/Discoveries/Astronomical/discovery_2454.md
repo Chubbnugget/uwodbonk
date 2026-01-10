@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Betelgeuse](Quests/Other/quest_3790.md)** | Celestial Object Discovery Name(2)17th Century Issue 2 | Astronomy(2) |  |
+| **[Betelgeuse](docs/Quests/Other/3001-4000/quest_3790.md)** | Celestial Object Discovery Name(2)17th Century Issue 2 | Astronomy(2) |  |

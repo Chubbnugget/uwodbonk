@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dangerous Straits](Quests/Adventure/quest_3187.md)** | Adventure quest (8) | Geography (7) Visual recognition (5) Spanish | Reward: 178,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |
+| **[Dangerous Straits](docs/Quests/Adventure/3001-4000/quest_3187.md)** | Adventure quest (8) | Geography (7) Visual recognition (5) Spanish | Reward: 178,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |

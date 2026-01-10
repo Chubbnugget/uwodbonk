@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[合理的統治戦略](Quests/Adventure/quest_1872.md)** | Adventure quest (8) | Exploration (7) Archeology (9) Unlocking (7) | Reward: 119,000/ Advance: 10,000Experience: 170/ Fame: 160 |
+| **[合理的統治戦略](docs/Quests/Adventure/1001-2000/quest_1872.md)** | Adventure quest (8) | Exploration (7) Archeology (9) Unlocking (7) | Reward: 119,000/ Advance: 10,000Experience: 170/ Fame: 160 |

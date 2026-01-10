@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The meaning of different murals](Quests/Adventure/quest_2302.md)** | Adventure quest (9) | Exploration (9) Archeology (11) Unlocking (9) | Reward: 412,000 / Advance payment: 40,000 Experience: 420 / Fame: 210 |
+| **[The meaning of different murals](docs/Quests/Adventure/2001-3000/quest_2302.md)** | Adventure quest (9) | Exploration (9) Archeology (11) Unlocking (9) | Reward: 412,000 / Advance payment: 40,000 Experience: 420 / Fame: 210 |

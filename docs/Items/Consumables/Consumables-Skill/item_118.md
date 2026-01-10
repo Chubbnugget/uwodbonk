@@ -1,6 +1,6 @@
 ---
 id: 118
-name: "Charlatan's Dowsing Rod"
+name: "\"Charlatan's Dowsing Rod\""
 type:  Item
 ---
 # Charlatan's Dowsing Rod
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Charlatan's Dowsing Rod |
 | **Type** | thing |
-| **Group** | [Consumables (skill activation)](Categories/category_31.md) |
+| **Group** | [Consumables (skill activation)](docs/Categories/category_31.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 2,500 |
 | **Description** | A pair of sticks said to have been used by gold miners to find ore veins. Equip location Clothing Durability 15 Effect when used Exploration |

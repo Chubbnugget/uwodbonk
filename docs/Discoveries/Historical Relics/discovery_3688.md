@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Silver pepper shaker](Quests/Other/quest_6635.md)** | Legacy(1) | - |  |
+| **[Silver pepper shaker](docs/Quests/Other/6001-7000/quest_6635.md)** | Legacy(1) | - |  |

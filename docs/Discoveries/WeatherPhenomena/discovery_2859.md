@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Banphi Payanak](Quests/Other/quest_5530.md)** | Weather/phenomena (3) | Visual recognition (8) |  |
+| **[Banphi Payanak](docs/Quests/Other/5001-6000/quest_5530.md)** | Weather/phenomena (3) | Visual recognition (8) |  |

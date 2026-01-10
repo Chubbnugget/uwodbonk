@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pointed Hoof](Quests/Adventure/quest_774.md)** | Adventure quest (8) | Ecological research (6) Biology (8) West African languages | Reward: 2,000/ Advance payment: 50,000 Experience: 190/ Fame: 95 |
+| **[Pointed Hoof](docs/Quests/Adventure/1-1000/quest_774.md)** | Adventure quest (8) | Ecological research (6) Biology (8) West African languages | Reward: 2,000/ Advance payment: 50,000 Experience: 190/ Fame: 95 |

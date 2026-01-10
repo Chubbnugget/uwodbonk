@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | deerskin vest |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 6,700 |
 | **Description** | A bodice made from deerskin. It's easy to move around in and has a luxurious feel. Durability 40 Formal wear 5 Defense 3 Total required fame 300 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Culture that is layered](Quests/Adventure/quest_6956.md)** | Adventure quest (9) | Archeology (13) Visualization (11) Malayu Tagalog (1) | Remuneration: 512,000 / Advance payment: 50,000 |
+| **[Culture that is layered](docs/Quests/Adventure/6001-7000/quest_6956.md)** | Adventure quest (9) | Archeology (13) Visualization (11) Malayu Tagalog (1) | Remuneration: 512,000 / Advance payment: 50,000 |

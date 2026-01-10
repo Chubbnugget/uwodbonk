@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hotri Priest's Scripture](Quests/Adventure/quest_487.md)** | Adventure quest (6) | Religious Studies (6) Exploration (4) Indian Languages | Reward: 108,000 / Advance payment: 0Experience: 190 / Fame: 85 |
+| **[Hotri Priest's Scripture](docs/Quests/Adventure/1-1000/quest_487.md)** | Adventure quest (6) | Religious Studies (6) Exploration (4) Indian Languages | Reward: 108,000 / Advance payment: 0Experience: 190 / Fame: 85 |

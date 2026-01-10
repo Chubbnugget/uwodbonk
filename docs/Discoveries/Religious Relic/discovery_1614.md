@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Searching for the shrine maiden's bell](Quests/Adventure/quest_2321.md)** | Adventure quest (3) | Religious Studies(4)Explore(2)Japanese | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Searching for the shrine maiden's bell](docs/Quests/Adventure/2001-3000/quest_2321.md)** | Adventure quest (3) | Religious Studies(4)Explore(2)Japanese | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Preparation before pilgrimage](Quests/Adventure/quest_3291.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) English | Reward: 81,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Preparation before pilgrimage](docs/Quests/Adventure/3001-4000/quest_3291.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) English | Reward: 81,000 / Advance payment: 0Experience: 140 / Fame: 70 |

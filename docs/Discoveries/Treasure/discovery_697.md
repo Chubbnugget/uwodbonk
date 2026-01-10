@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Restoration of the Western Roman Empire](Quests/Adventure/quest_748.md)** | Adventure quest (6) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 65,000/ Advance payment: 20,000 Experience: 140/ Fame: 70 |
+| **[Restoration of the Western Roman Empire](docs/Quests/Adventure/1-1000/quest_748.md)** | Adventure quest (6) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 65,000/ Advance payment: 20,000 Experience: 140/ Fame: 70 |

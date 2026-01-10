@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Proof of the Strong](Quests/Adventure/quest_2974.md)** | Adventure quest (8) | Ecological research (8) Biology (10) Mayan languages | Reward: 113,000/ Advance: 10,000Experience: 170/ Fame: 160 |
+| **[Proof of the Strong](docs/Quests/Adventure/2001-3000/quest_2974.md)** | Adventure quest (8) | Ecological research (8) Biology (10) Mayan languages | Reward: 113,000/ Advance: 10,000Experience: 170/ Fame: 160 |

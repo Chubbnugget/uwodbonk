@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | strong adhesive oil |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 200 |
 | **Description** | Items for land combat. A special oil that can be poured onto enemies to slow them down. Effect/medium. Effect when used: Sticky attack (slows enemy movement in land battles.) Rank 6 Required gauge 60 Weight 40 Cooldown time 400 |

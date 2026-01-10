@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indian bird Star constellation](Quests/Adventure/quest_5354.md)** | Adventure Quest (4) 16th Century 5th Period | Astronomy (9) Visual recognition (7) Indian languages | Reward: 456,000 / Advance payment: 40,000 Experience: 370 / Fame: 225 |
+| **[Indian bird Star constellation](docs/Quests/Adventure/5001-6000/quest_5354.md)** | Adventure Quest (4) 16th Century 5th Period | Astronomy (9) Visual recognition (7) Indian languages | Reward: 456,000 / Advance payment: 40,000 Experience: 370 / Fame: 225 |

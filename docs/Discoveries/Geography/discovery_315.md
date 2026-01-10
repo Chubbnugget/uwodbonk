@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Inside the continent](Quests/Adventure/quest_2952.md)** | Adventure quest (3) | Geography(8)Visibility(6) | Reward: 104,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[Inside the continent](docs/Quests/Adventure/2001-3000/quest_2952.md)** | Adventure quest (3) | Geography(8)Visibility(6) | Reward: 104,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flying Penguin Again](Quests/Adventure/quest_6835.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Malayu Tagalog (1) | Reward: 559,000/Advance payment: 60,000Experience: 440 |
+| **[Flying Penguin Again](docs/Quests/Adventure/6001-7000/quest_6835.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Malayu Tagalog (1) | Reward: 559,000/Advance payment: 60,000Experience: 440 |

@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of peacock](Quests/Other/quest_6630.md)** | Pursuit quest (7) | Ecological research (8) Biology (10) Indian languages | Reward: 160,000 / Advance payment: 0Experience: 540 |
+| **[Additional investigation of peacock](docs/Quests/Other/6001-7000/quest_6630.md)** | Pursuit quest (7) | Ecological research (8) Biology (10) Indian languages | Reward: 160,000 / Advance payment: 0Experience: 540 |

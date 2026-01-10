@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Baal's Jewel](Quests/Adventure/quest_239.md)** | Adventure Quest (3) Mythology Era | Exploration (1) Treasures Appraisal (3) Unlocking (1) | Reward: 2,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Baal's Jewel](docs/Quests/Adventure/1-1000/quest_239.md)** | Adventure Quest (3) Mythology Era | Exploration (1) Treasures Appraisal (3) Unlocking (1) | Reward: 2,000 / Advance payment: 0Experience: 130 / Fame: 65 |

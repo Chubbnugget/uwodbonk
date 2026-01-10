@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[About Prince Duarte](Quests/Adventure/quest_6019.md)** | Adventure Quest (2) 15th Century 1st Period | Exploration (1) Treasures Appraisal (3) Portuguese | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[About Prince Duarte](docs/Quests/Adventure/6001-7000/quest_6019.md)** | Adventure Quest (2) 15th Century 1st Period | Exploration (1) Treasures Appraisal (3) Portuguese | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |

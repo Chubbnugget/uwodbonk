@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gentle Emperor](Quests/Adventure/quest_369.md)** | Adventure quest (5) | Exploration (1) Archeology (3) Unlocking (1) | Reward: 35,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Gentle Emperor](docs/Quests/Adventure/1-1000/quest_369.md)** | Adventure quest (5) | Exploration (1) Archeology (3) Unlocking (1) | Reward: 35,000 / Advance payment: 0Experience: 150 / Fame: 70 |

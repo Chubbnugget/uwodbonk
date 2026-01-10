@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Crow Sonus](Quests/Adventure/quest_139.md)** | Adventure Quest (10) Mythology Era | Exploration (12) Archeology (14) Unlocking (12) | Reward: 565,000 / Advance payment: 20,000 Experience: 510 / Fame: 260 |
+| **[Crow Sonus](docs/Quests/Adventure/1-1000/quest_139.md)** | Adventure Quest (10) Mythology Era | Exploration (12) Archeology (14) Unlocking (12) | Reward: 565,000 / Advance payment: 20,000 Experience: 510 / Fame: 260 |

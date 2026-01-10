@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Alvida's Helm](Quests/Other/quest_3576.md)** | Treasure hunting (8) | Exploration (9) Archeology (11) Norse (1) | Reward: 0/Advance payment: 0Experience: 1,980 |
+| **[Alvida's Helm](docs/Quests/Other/3001-4000/quest_3576.md)** | Treasure hunting (8) | Exploration (9) Archeology (11) Norse (1) | Reward: 0/Advance payment: 0Experience: 1,980 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Scenery inside the body](Quests/Adventure/quest_2894.md)** | Adventure quest (7) | 探索(4)美術(6)中国語 | Reward: 142,000/ Advance: 10,000 Experience: 190/ Fame: 85 |
+| **[Scenery inside the body](docs/Quests/Adventure/2001-3000/quest_2894.md)** | Adventure quest (7) | 探索(4)美術(6)中国語 | Reward: 142,000/ Advance: 10,000 Experience: 190/ Fame: 85 |

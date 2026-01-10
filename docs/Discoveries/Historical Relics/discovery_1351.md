@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Castle bird's-eye view map](Quests/Other/quest_2607.md)** | Archeology(8) | Exploration (8) Archeology (8) Unlocking (8) |  |
+| **[Castle bird's-eye view map](docs/Quests/Other/2001-3000/quest_2607.md)** | Archeology(8) | Exploration (8) Archeology (8) Unlocking (8) |  |

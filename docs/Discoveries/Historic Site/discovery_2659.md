@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Truth of the Temple](Quests/Adventure/quest_5240.md)** | Adventure Quest (6) B.C. | Archeology (8) Visualization (6) Greek (1) | Reward: 146,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |
+| **[Truth of the Temple](docs/Quests/Adventure/5001-6000/quest_5240.md)** | Adventure Quest (6) B.C. | Archeology (8) Visualization (6) Greek (1) | Reward: 146,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Endless Wilderness](Quests/Adventure/quest_1232.md)** | Adventure quest (7) 16th century 1st period | Geography (7) Visual recognition (5) Spanish | Reward: 160,000 / Advance payment: 10,000 Experience: 330 / Fame: 110 |
+| **[Endless Wilderness](docs/Quests/Adventure/1001-2000/quest_1232.md)** | Adventure quest (7) 16th century 1st period | Geography (7) Visual recognition (5) Spanish | Reward: 160,000 / Advance payment: 10,000 Experience: 330 / Fame: 110 |

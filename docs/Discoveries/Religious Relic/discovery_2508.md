@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[I also like bar girls who eat rice](Quests/Adventure/quest_4847.md)** | Adventure Quest (9) Myth Era | Religious Studies (9) Exploration (7) Arabic (1) | Reward: 399,000 / Advance payment: 30,000 Experience: 410 / Fame: 170 |
+| **[I also like bar girls who eat rice](docs/Quests/Adventure/4001-5000/quest_4847.md)** | Adventure Quest (9) Myth Era | Religious Studies (9) Exploration (7) Arabic (1) | Reward: 399,000 / Advance payment: 30,000 Experience: 410 / Fame: 170 |

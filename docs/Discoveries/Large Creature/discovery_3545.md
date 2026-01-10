@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional boar investigation](Quests/Other/quest_6467.md)** | Pursuit quest (3) | Ecological Survey (8) Biology (10) Italian | Reward: 190,000 / Advance payment: 0Experience: 340 |
+| **[Additional boar investigation](docs/Quests/Other/6001-7000/quest_6467.md)** | Pursuit quest (3) | Ecological Survey (8) Biology (10) Italian | Reward: 190,000 / Advance payment: 0Experience: 340 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Moorish souvenir](Quests/Adventure/quest_5946.md)** | Adventure quest (5) | Exploration (5) Art (7) Portuguese (1) | Reward: 92,000 / Advance payment: 0Experience: 140 / Fame: 75 |
+| **[Moorish souvenir](docs/Quests/Adventure/5001-6000/quest_5946.md)** | Adventure quest (5) | Exploration (5) Art (7) Portuguese (1) | Reward: 92,000 / Advance payment: 0Experience: 140 / Fame: 75 |

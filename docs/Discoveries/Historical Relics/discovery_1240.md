@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Land of Iron](Quests/Adventure/quest_857.md)** | Adventure Quest (7) B.C. | Exploration (6) Archeology (8) Unlocking (6) | Reward: 2,000Experience: 190/ Fame: 85 |
+| **[Land of Iron](docs/Quests/Adventure/1-1000/quest_857.md)** | Adventure Quest (7) B.C. | Exploration (6) Archeology (8) Unlocking (6) | Reward: 2,000Experience: 190/ Fame: 85 |

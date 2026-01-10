@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Balmunk](Quests/Adventure/quest_248.md)** | Adventure quest (8) | Exploration (11) Archeology (13) Unlocking (11) | Reward: 2,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Balmunk](docs/Quests/Adventure/1-1000/quest_248.md)** | Adventure quest (8) | Exploration (11) Archeology (13) Unlocking (11) | Reward: 2,000 / Advance payment: 0Experience: 150 / Fame: 70 |

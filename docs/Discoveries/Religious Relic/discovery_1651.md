@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Golden Raft](Quests/Adventure/quest_1874.md)** | Adventure Quest (9) 16th Century 3rd Period | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 250,000 / Advance payment: 20,000 Experience: 430 / Fame: 180 |
+| **[Golden Raft](docs/Quests/Adventure/1001-2000/quest_1874.md)** | Adventure Quest (9) 16th Century 3rd Period | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 250,000 / Advance payment: 20,000 Experience: 430 / Fame: 180 |

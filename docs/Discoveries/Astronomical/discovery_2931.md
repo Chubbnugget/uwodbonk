@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bird-shaped Stars Cloud in Sagittarius](Quests/Other/quest_5610.md)** | Celestial Object Discovery Name(9)18th Century Issue 3 | Astronomy(9) |  |
+| **[Bird-shaped Stars Cloud in Sagittarius](docs/Quests/Other/5001-6000/quest_5610.md)** | Celestial Object Discovery Name(9)18th Century Issue 3 | Astronomy(9) |  |

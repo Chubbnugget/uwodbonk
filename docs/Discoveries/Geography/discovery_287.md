@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Southwestern tip of the Iberian Peninsula](Quests/Adventure/quest_48.md)** | Adventure quest (2) | Geography (1) Visual recognition (1) Portuguese | Reward: 9,100 / Advance payment: 0Experience: 120 / Fame: 120 |
+| **[Southwestern tip of the Iberian Peninsula](docs/Quests/Adventure/1-1000/quest_48.md)** | Adventure quest (2) | Geography (1) Visual recognition (1) Portuguese | Reward: 9,100 / Advance payment: 0Experience: 120 / Fame: 120 |

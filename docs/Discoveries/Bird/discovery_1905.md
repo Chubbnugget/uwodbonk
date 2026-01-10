@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fighting over the beak](Quests/Adventure/quest_1206.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Mayan languages | Reward: 125,000 / Advance: 0Experience: 270 / Fame: 95 |
+| **[Fighting over the beak](docs/Quests/Adventure/1001-2000/quest_1206.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Mayan languages | Reward: 125,000 / Advance: 0Experience: 270 / Fame: 95 |

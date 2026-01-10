@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Upside down rainbow](Quests/Other/quest_6377.md)** | Weather/phenomena (4) | Visual recognition (12) | Experience：800 |
+| **[Upside down rainbow](docs/Quests/Other/6001-7000/quest_6377.md)** | Weather/phenomena (4) | Visual recognition (12) | Experience：800 |

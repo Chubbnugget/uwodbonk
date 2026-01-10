@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[蚊愛好家](Quests/Adventure/quest_5881.md)** | Adventure quest (4) | Ecological Survey (11) Biology (13) Malayu Tagalog | Reward: 289,000 / Advance payment: 20,000 Experience: 270 / Fame: 160 |
+| **[蚊愛好家](docs/Quests/Adventure/5001-6000/quest_5881.md)** | Adventure quest (4) | Ecological Survey (11) Biology (13) Malayu Tagalog | Reward: 289,000 / Advance payment: 20,000 Experience: 270 / Fame: 160 |

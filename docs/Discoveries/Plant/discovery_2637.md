@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pretty flower map](Quests/Other/quest_5211.md)** | Re-examination reward (6) | Ecological Survey(6)Biology(6) |  |
+| **[Pretty flower map](docs/Quests/Other/5001-6000/quest_5211.md)** | Re-examination reward (6) | Ecological Survey(6)Biology(6) |  |

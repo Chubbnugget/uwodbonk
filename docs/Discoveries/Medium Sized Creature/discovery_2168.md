@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Turtle beats rabbit](Quests/Adventure/quest_2096.md)** | Adventure quest (1) | Ecological research (1) Biology (2) Italian | Reward: 64,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Turtle beats rabbit](docs/Quests/Adventure/2001-3000/quest_2096.md)** | Adventure quest (1) | Ecological research (1) Biology (2) Italian | Reward: 64,000 / Advance payment: 0Experience: 130 / Fame: 65 |

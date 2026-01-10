@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Various ink paintings](Quests/Adventure/quest_2751.md)** | Adventure quest (3) | 探索(4)美術(6)朝鮮語(1) | Reward: 186,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |
+| **[Various ink paintings](docs/Quests/Adventure/2001-3000/quest_2751.md)** | Adventure quest (3) | 探索(4)美術(6)朝鮮語(1) | Reward: 186,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |

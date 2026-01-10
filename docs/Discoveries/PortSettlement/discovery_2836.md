@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Viana do Castelo](Quests/Other/quest_5506.md)** | Port/village (1) | - | Experience：32 |
+| **[Viana do Castelo](docs/Quests/Other/5001-6000/quest_5506.md)** | Port/village (1) | - | Experience：32 |

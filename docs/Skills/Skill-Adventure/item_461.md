@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | 行軍 |
 | **Type** | thing |
-| **Group** | [Skill (Adventure)](Categories/category_39.md) |
+| **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 3,000 |
 | **Description** | Reduces fatigue and bandit attack rates on land. Reduces damage inside sunken ships. Automatic effect Learning conditions 5/0/0/total 0 Prerequisite skill Supply (1) |
 | **Last Updated** | 2009-10-10 12:27:09 Saori-chan @ Guest |

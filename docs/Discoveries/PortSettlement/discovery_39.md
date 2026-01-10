@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Guam](Quests/Other/quest_5049.md)** | Port/village (1) | - |  |
+| **[Guam](docs/Quests/Other/5001-6000/quest_5049.md)** | Port/village (1) | - |  |

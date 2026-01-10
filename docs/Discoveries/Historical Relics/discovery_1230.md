@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient tombs](Quests/Other/quest_539.md)** | Archeology(7) | Exploration (7) Archeology (7) Unlocking (7) |  |
+| **[Map of ancient tombs](docs/Quests/Other/1-1000/quest_539.md)** | Archeology(7) | Exploration (7) Archeology (7) Unlocking (7) |  |

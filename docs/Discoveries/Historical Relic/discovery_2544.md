@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sword of the Lioness of Brittany](Quests/Other/quest_3703.md)** | Treasure hunting (7) | Exploration (10) Treasures Appraisal (12) French | Reward: 0 / Advance payment: 0 Experience: 2,260 / Fame: 1,800 |
+| **[Sword of the Lioness of Brittany](docs/Quests/Other/3001-4000/quest_3703.md)** | Treasure hunting (7) | Exploration (10) Treasures Appraisal (12) French | Reward: 0 / Advance payment: 0 Experience: 2,260 / Fame: 1,800 |

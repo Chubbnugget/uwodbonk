@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Shedal](Quests/Other/quest_6673.md)** | Celestial Object Discovery Name(9)15th Century Issue 1 | Astronomy(9)Visualization(9) | Experience：710 |
+| **[Shedal](docs/Quests/Other/6001-7000/quest_6673.md)** | Celestial Object Discovery Name(9)15th Century Issue 1 | Astronomy(9)Visualization(9) | Experience：710 |

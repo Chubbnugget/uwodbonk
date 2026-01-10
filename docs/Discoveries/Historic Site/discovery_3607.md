@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Large lighthouse that no longer exists](Quests/Adventure/quest_6540.md)** | Adventure quest (2) | Archeology (3) Visualization (1) German | Reward: 123,000 / Advance payment: 10,000 Experience: 180 / Fame: 200 |
+| **[Large lighthouse that no longer exists](docs/Quests/Adventure/6001-7000/quest_6540.md)** | Adventure quest (2) | Archeology (3) Visualization (1) German | Reward: 123,000 / Advance payment: 10,000 Experience: 180 / Fame: 200 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big-eyed bird map](Quests/Other/quest_5383.md)** | Re-examination reward (6) | Ecological Survey(6)Biology(6) |  |
+| **[Big-eyed bird map](docs/Quests/Other/5001-6000/quest_5383.md)** | Re-examination reward (6) | Ecological Survey(6)Biology(6) |  |

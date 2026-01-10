@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sacred Flower](Quests/Adventure/quest_726.md)** | Adventure quest (6) | Ecological research (4) Biology (6) Indian languages | Reward: 153,000 / Advance payment: 0Experience: 170 / Fame: 90 |
+| **[Sacred Flower](docs/Quests/Adventure/1-1000/quest_726.md)** | Adventure quest (6) | Ecological research (4) Biology (6) Indian languages | Reward: 153,000 / Advance payment: 0Experience: 170 / Fame: 90 |

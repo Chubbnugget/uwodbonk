@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Missionary base](Quests/Adventure/quest_3301.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) English | Reward: 99,000 / Advance payment: 0Experience: 160 / Fame: 75 |
+| **[Missionary base](docs/Quests/Adventure/3001-4000/quest_3301.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) English | Reward: 99,000 / Advance payment: 0Experience: 160 / Fame: 75 |

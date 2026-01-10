@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sakai Reputation](Quests/Adventure/quest_2358.md)** | Adventure quest (8) 16th century 4th period | Exploration (7) Treasures Appraisal (9) Indian Languages | Reward: 456,000 / Advance payment: 40,000 Experience: 450 / Fame: 370 |
+| **[Sakai Reputation](docs/Quests/Adventure/2001-3000/quest_2358.md)** | Adventure quest (8) 16th century 4th period | Exploration (7) Treasures Appraisal (9) Indian Languages | Reward: 456,000 / Advance payment: 40,000 Experience: 450 / Fame: 370 |

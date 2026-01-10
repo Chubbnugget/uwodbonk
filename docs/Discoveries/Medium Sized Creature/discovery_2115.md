@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tracking again](Quests/Adventure/quest_1443.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Marching (5) | Reward: 128,000 / Advance payment: 10,000 Experience: 410 / Fame: 270 |
+| **[Tracking again](docs/Quests/Adventure/1001-2000/quest_1443.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Marching (5) | Reward: 128,000 / Advance payment: 10,000 Experience: 410 / Fame: 270 |

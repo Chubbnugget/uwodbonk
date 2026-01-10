@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Onion painting](Quests/Adventure/quest_5853.md)** | Adventure quest (10) | Exploration (15) Art (17) Dutch | Reward: 786,000/Advance payment: 70,000Experience: 580 |
+| **[Onion painting](docs/Quests/Adventure/5001-6000/quest_5853.md)** | Adventure quest (10) | Exploration (15) Art (17) Dutch | Reward: 786,000/Advance payment: 70,000Experience: 580 |

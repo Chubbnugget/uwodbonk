@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White Animal of the Ice Land](Quests/Adventure/quest_6803.md)** | Adventure quest (9) | Ecological research (12) Biology (14) Arctic languages ​​(1) | Reward: 378,000/Advance payment: 40,000Experience: 320 |
+| **[White Animal of the Ice Land](docs/Quests/Adventure/6001-7000/quest_6803.md)** | Adventure quest (9) | Ecological research (12) Biology (14) Arctic languages ​​(1) | Reward: 378,000/Advance payment: 40,000Experience: 320 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Topographic survey of the Balearic Islands](Quests/Adventure/quest_249.md)** | Adventure quest (3) | Geography (1) Visual recognition (1) Spanish | Reward: 6,000/ Advance payment: 0Experience: 208 |
+| **[Topographic survey of the Balearic Islands](docs/Quests/Adventure/1-1000/quest_249.md)** | Adventure quest (3) | Geography (1) Visual recognition (1) Spanish | Reward: 6,000/ Advance payment: 0Experience: 208 |

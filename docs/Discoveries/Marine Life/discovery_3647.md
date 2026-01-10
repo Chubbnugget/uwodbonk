@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Azfar](Quests/Other/quest_6590.md)** | Fishing (1) | fishing |  |
+| **[Azfar](docs/Quests/Other/6001-7000/quest_6590.md)** | Fishing (1) | fishing |  |

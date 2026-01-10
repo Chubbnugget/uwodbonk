@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Papyrus of King Khufu Era](Quests/Other/quest_6397.md)** | Legacy(1) | - |  |
+| **[Papyrus of King Khufu Era](docs/Quests/Other/6001-7000/quest_6397.md)** | Legacy(1) | - |  |

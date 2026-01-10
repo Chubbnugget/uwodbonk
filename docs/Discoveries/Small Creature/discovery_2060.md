@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of animals that eat ants](Quests/Other/quest_1459.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：160 |
+| **[Map of animals that eat ants](docs/Quests/Other/1001-2000/quest_1459.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：160 |

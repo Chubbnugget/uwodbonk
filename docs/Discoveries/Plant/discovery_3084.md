@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Green Egg](Quests/Adventure/quest_5822.md)** | Adventure quest (8) | Ecological Survey (7) Biology (9) Spanish | Reward: 371,000 / Advance payment: 30,000 Experience: 320 / Fame: 190 |
+| **[Green Egg](docs/Quests/Adventure/5001-6000/quest_5822.md)** | Adventure quest (8) | Ecological Survey (7) Biology (9) Spanish | Reward: 371,000 / Advance payment: 30,000 Experience: 320 / Fame: 190 |

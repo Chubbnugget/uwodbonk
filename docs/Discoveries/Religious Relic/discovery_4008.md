@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Thoth with Maat's Feather](Quests/Other/quest_6999.md)** | Legacy(1) | - | Experience：2,650 |
+| **[Thoth with Maat's Feather](docs/Quests/Other/6001-7000/quest_6999.md)** | Legacy(1) | - | Experience：2,650 |

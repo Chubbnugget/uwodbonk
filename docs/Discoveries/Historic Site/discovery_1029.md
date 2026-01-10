@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Treasure Fortress](Quests/Adventure/quest_971.md)** | Adventure Quest (4) 16th Century 3rd Period | Archeology (2) Visualization (1) Latin | Reward: 55,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Treasure Fortress](docs/Quests/Adventure/1-1000/quest_971.md)** | Adventure Quest (4) 16th Century 3rd Period | Archeology (2) Visualization (1) Latin | Reward: 55,000 / Advance payment: 0Experience: 130 / Fame: 65 |

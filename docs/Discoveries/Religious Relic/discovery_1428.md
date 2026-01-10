@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The appearance of the mountain dog of judgment](Quests/Adventure/quest_606.md)** | Adventure Quest (4) Mythology Era | Religious Studies (2) Exploration (1) Arabic | Reward: 19,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[The appearance of the mountain dog of judgment](docs/Quests/Adventure/1-1000/quest_606.md)** | Adventure Quest (4) Mythology Era | Religious Studies (2) Exploration (1) Arabic | Reward: 19,000 / Advance payment: 0Experience: 130 / Fame: 65 |

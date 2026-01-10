@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Third Great River](Quests/Adventure/quest_6842.md)** | Adventure quest (9) | Geography (13) Visual recognition (11) Indian languages ​​(1) | Reward: 565,000/Advance payment: 60,000Experience: 440 |
+| **[Third Great River](docs/Quests/Adventure/6001-7000/quest_6842.md)** | Adventure quest (9) | Geography (13) Visual recognition (11) Indian languages ​​(1) | Reward: 565,000/Advance payment: 60,000Experience: 440 |

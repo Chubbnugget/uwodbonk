@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dignified blooming blue flower](Quests/Adventure/quest_2453.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Japanese | Reward: 108,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Dignified blooming blue flower](docs/Quests/Adventure/2001-3000/quest_2453.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Japanese | Reward: 108,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

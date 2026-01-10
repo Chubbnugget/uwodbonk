@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Goat and Fish Stars](Quests/Adventure/quest_3776.md)** | Adventure Quest (7) Mythology Era | Astronomy (10) Visualization (8) Arabic | Reward: 511,000 / Advance payment: 50,000 Experience: 500 / Fame: 205 |
+| **[Goat and Fish Stars](docs/Quests/Adventure/3001-4000/quest_3776.md)** | Adventure Quest (7) Mythology Era | Astronomy (10) Visualization (8) Arabic | Reward: 511,000 / Advance payment: 50,000 Experience: 500 / Fame: 205 |

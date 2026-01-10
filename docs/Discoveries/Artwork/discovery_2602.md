@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The story of the cow ghost](Quests/Adventure/quest_4974.md)** | Adventure Quest (6) Mythology Era | Exploration (6) Art (8) Greek | Reward: 208,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[The story of the cow ghost](docs/Quests/Adventure/4001-5000/quest_4974.md)** | Adventure Quest (6) Mythology Era | Exploration (6) Art (8) Greek | Reward: 208,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

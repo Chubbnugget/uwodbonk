@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Three angels](Quests/Adventure/quest_6116.md)** | Adventure quest (8) 15th century 1st period | Religious Studies(12)Exploration(10)Art(12) | Reward: 238,000 / Advance payment: 20,000 Experience: 240 / Fame: 135 |
+| **[Three angels](docs/Quests/Adventure/6001-7000/quest_6116.md)** | Adventure quest (8) 15th century 1st period | Religious Studies(12)Exploration(10)Art(12) | Reward: 238,000 / Advance payment: 20,000 Experience: 240 / Fame: 135 |

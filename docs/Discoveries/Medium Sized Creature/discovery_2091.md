@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beginner Adventure Course Completion Certification Exam](Quests/Adventure/quest_5954.md)** | Adventure quest (1) | Ecological survey (1) | Reward: 30,000Experience: 500/Fame: 400 |
-| **[Black-eyed sea monster](Quests/Adventure/quest_590.md)** | Adventure quest (1) | Ecological survey (1) English | Reward: 4,000 / Advance payment: 0Experience: 20 / Fame: 10 |
+| **[Beginner Adventure Course Completion Certification Exam](docs/Quests/Adventure/5001-6000/quest_5954.md)** | Adventure quest (1) | Ecological survey (1) | Reward: 30,000Experience: 500/Fame: 400 |
+| **[Black-eyed sea monster](docs/Quests/Adventure/1-1000/quest_590.md)** | Adventure quest (1) | Ecological survey (1) English | Reward: 4,000 / Advance payment: 0Experience: 20 / Fame: 10 |

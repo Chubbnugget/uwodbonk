@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Aristocrat's selfishness](Quests/Adventure/quest_2097.md)** | Adventure quest (7) | Religious Studies (10) Exploration (8) Unlocking (8) | Reward: 74,000 / Advance payment: 0Experience: 210 / Fame: 97 |
+| **[Aristocrat's selfishness](docs/Quests/Adventure/2001-3000/quest_2097.md)** | Adventure quest (7) | Religious Studies (10) Exploration (8) Unlocking (8) | Reward: 74,000 / Advance payment: 0Experience: 210 / Fame: 97 |

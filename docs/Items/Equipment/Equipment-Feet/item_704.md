@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | ribbon shoes |
 | **Type** | thing |
-| **Group** | [Equipment (foot)](Categories/category_26.md) |
+| **Group** | [Equipment (foot)](docs/Categories/category_26.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 10,000 |
 | **Description** | leather shorts. It can also be used for formal wear by adding ribbon decorations. Durability 30 Formal wear 8 Defense 2 Total required fame 100 |

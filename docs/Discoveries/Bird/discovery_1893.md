@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Animal research in Alishan](Quests/Adventure/quest_2572.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Chinese (1) | Reward: 100,000/Advance payment: 10,000Experience: 160 |
+| **[Animal research in Alishan](docs/Quests/Adventure/2001-3000/quest_2572.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Chinese (1) | Reward: 100,000/Advance payment: 10,000Experience: 160 |

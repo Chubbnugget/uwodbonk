@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Crocodile living in the southeastern continent](Quests/Adventure/quest_1573.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Oceanian languages ​​(1) | Reward: 90,000 / Advance payment: 0Experience: 300 / Fame: 100 |
-| **[Crocodile living in the southeastern continent](Quests/Adventure/quest_6905.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Oceanian languages | Reward: 90,000 |
+| **[Crocodile living in the southeastern continent](docs/Quests/Adventure/1001-2000/quest_1573.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Oceanian languages ​​(1) | Reward: 90,000 / Advance payment: 0Experience: 300 / Fame: 100 |
+| **[Crocodile living in the southeastern continent](docs/Quests/Adventure/6001-7000/quest_6905.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Oceanian languages | Reward: 90,000 |

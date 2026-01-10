@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Frost Flower](Quests/Other/quest_5589.md)** | Weather/phenomena (3) | Visual recognition (7) | Experience：520 |
+| **[Frost Flower](docs/Quests/Other/5001-6000/quest_5589.md)** | Weather/phenomena (3) | Visual recognition (7) | Experience：520 |

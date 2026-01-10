@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Heretic Masterpiece](Quests/Adventure/quest_2601.md)** | Adventure quest (6) 16th century 4th period | 探索(5)美術(7)日本語(1) | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |
+| **[Heretic Masterpiece](docs/Quests/Adventure/2001-3000/quest_2601.md)** | Adventure quest (6) 16th century 4th period | 探索(5)美術(7)日本語(1) | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Silk Road Treasures](Quests/Other/quest_6946.md)** | Treasures鑑定(12) | Exploration (12) Treasures Appraisal (12) Unlocking (12) |  |
+| **[Map of Silk Road Treasures](docs/Quests/Other/6001-7000/quest_6946.md)** | Treasures鑑定(12) | Exploration (12) Treasures Appraisal (12) Unlocking (12) |  |

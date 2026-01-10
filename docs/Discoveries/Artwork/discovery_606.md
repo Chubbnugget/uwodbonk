@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Da Vinci's Altarpiece](Quests/Adventure/quest_193.md)** | Adventure Quest (7) 15th Century 5th Period | Exploration (4) Art (6) French | Reward: 68,000 / Advance payment: 0Experience: 180 / Fame: 80 |
+| **[Da Vinci's Altarpiece](docs/Quests/Adventure/1-1000/quest_193.md)** | Adventure Quest (7) 15th Century 5th Period | Exploration (4) Art (6) French | Reward: 68,000 / Advance payment: 0Experience: 180 / Fame: 80 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pyramid of Giza (upper layer hidden passage)](Quests/Other/quest_3662.md)** | Dungeon (1) | - |  |
+| **[Pyramid of Giza (upper layer hidden passage)](docs/Quests/Other/3001-4000/quest_3662.md)** | Dungeon (1) | - |  |

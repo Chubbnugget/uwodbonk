@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Trading base map](Quests/Other/quest_6276.md)** | Geography学(5) | Geography (5) Visual recognition (5) |  |
+| **[Trading base map](docs/Quests/Other/6001-7000/quest_6276.md)** | Geography学(5) | Geography (5) Visual recognition (5) |  |

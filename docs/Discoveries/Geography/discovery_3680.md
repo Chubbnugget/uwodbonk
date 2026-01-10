@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Vibrant Lake](Quests/Adventure/quest_6627.md)** | Adventure quest (9) | Geography (13) Visual recognition (11) Chinese | Reward: 330,000/Advance payment: 30,000Experience: 310 |
+| **[Vibrant Lake](docs/Quests/Adventure/6001-7000/quest_6627.md)** | Adventure quest (9) | Geography (13) Visual recognition (11) Chinese | Reward: 330,000/Advance payment: 30,000Experience: 310 |

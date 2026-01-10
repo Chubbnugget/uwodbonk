@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Holo](Quests/Other/quest_5145.md)** | Port/village (1) | - |  |
+| **[Holo](docs/Quests/Other/5001-6000/quest_5145.md)** | Port/village (1) | - |  |

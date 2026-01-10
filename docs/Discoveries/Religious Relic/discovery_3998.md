@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Egyptian God Statues](Quests/Other/quest_6991.md)** | Religious Studies(9) | Religious Studies(9)Exploration(9) |  |
+| **[Map of Egyptian God Statues](docs/Quests/Other/6001-7000/quest_6991.md)** | Religious Studies(9) | Religious Studies(9)Exploration(9) |  |

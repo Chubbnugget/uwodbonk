@@ -25,5 +25,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Secret of the Mountain](Quests/Adventure/quest_2352.md)** | Adventure quest (4) | Geography (4) Visual recognition (2) Japanese | Reward: 125,000/ Advance: 10,000 Experience: 180/ Fame: 90 |
-| **[Investigation of mountains in island countries](Quests/Other/quest_2315.md)** | Imperial command quest (4) | Geography (4) Visual recognition (2) |  |
+| **[Secret of the Mountain](docs/Quests/Adventure/2001-3000/quest_2352.md)** | Adventure quest (4) | Geography (4) Visual recognition (2) Japanese | Reward: 125,000/ Advance: 10,000 Experience: 180/ Fame: 90 |
+| **[Investigation of mountains in island countries](docs/Quests/Other/2001-3000/quest_2315.md)** | Imperial command quest (4) | Geography (4) Visual recognition (2) |  |

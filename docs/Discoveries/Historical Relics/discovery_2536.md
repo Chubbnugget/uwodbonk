@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Songsan-ri Ruins (Upper Hidden Room)](Quests/Other/quest_4811.md)** | Dungeon (5) | - |  |
+| **[Songsan-ri Ruins (Upper Hidden Room)](docs/Quests/Other/4001-5000/quest_4811.md)** | Dungeon (5) | - |  |

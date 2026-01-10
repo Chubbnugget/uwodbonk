@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Praequipua](Quests/Other/quest_6710.md)** | Celestial Object Discovery Name(10)17th Century Issue 1 | Astronomy (10) Visualization (10) | Experience：900 |
+| **[Praequipua](docs/Quests/Other/6001-7000/quest_6710.md)** | Celestial Object Discovery Name(10)17th Century Issue 1 | Astronomy (10) Visualization (10) | Experience：900 |

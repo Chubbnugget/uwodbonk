@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Water falling from a far height](Quests/Adventure/quest_2977.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) French | Reward: 183,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |
+| **[Water falling from a far height](docs/Quests/Adventure/2001-3000/quest_2977.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) French | Reward: 183,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Epic Relief](Quests/Adventure/quest_6974.md)** | Adventure quest (7) | Religious Studies (9) Exploration (7) Indian Languages ​​(1) | Reward: 341,000/Advance: 30,000Experience: 450 |
+| **[Epic Relief](docs/Quests/Adventure/6001-7000/quest_6974.md)** | Adventure quest (7) | Religious Studies (9) Exploration (7) Indian Languages ​​(1) | Reward: 341,000/Advance: 30,000Experience: 450 |

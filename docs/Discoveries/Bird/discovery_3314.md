@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bird that brings signs](Quests/Adventure/quest_6174.md)** | Adventure Quest (6) 17th Century 4th Period | Ecological Survey (6) Biology (8) English | Reward: 129,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |
+| **[Bird that brings signs](docs/Quests/Adventure/6001-7000/quest_6174.md)** | Adventure Quest (6) 17th Century 4th Period | Ecological Survey (6) Biology (8) English | Reward: 129,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |

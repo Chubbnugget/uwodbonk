@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of megaliths in the forest](Quests/Other/quest_5214.md)** | Re-examination reward (3) | Exploration(3)Archaeology(3) |  |
+| **[Map of megaliths in the forest](docs/Quests/Other/5001-6000/quest_5214.md)** | Re-examination reward (3) | Exploration(3)Archaeology(3) |  |

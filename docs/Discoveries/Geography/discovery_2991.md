@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Climbing trends](Quests/Adventure/quest_5699.md)** | Adventure quest (5) 19th century | Geography (5) Visualization (3) Greek | Reward: 233,000/ Advance: 20,000Experience: 230/ Fame: 135 |
+| **[Climbing trends](docs/Quests/Adventure/5001-6000/quest_5699.md)** | Adventure quest (5) 19th century | Geography (5) Visualization (3) Greek | Reward: 233,000/ Advance: 20,000Experience: 230/ Fame: 135 |

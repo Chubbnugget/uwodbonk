@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Shrubs with many medicinal properties](Quests/Adventure/quest_5557.md)** | Adventure quest (6) | Ecological research (10) Biology (12) Oceanian languages | Reward: 275,000 / Advance payment: 20,000 Experience: 260 / Fame: 150 |
+| **[Shrubs with many medicinal properties](docs/Quests/Adventure/5001-6000/quest_5557.md)** | Adventure quest (6) | Ecological research (10) Biology (12) Oceanian languages | Reward: 275,000 / Advance payment: 20,000 Experience: 260 / Fame: 150 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Indian heroes](Quests/Other/quest_6459.md)** | Pursuit quest (5) | Exploration (15) Archeology (17) Indian Languages ​​(1) | Reward: 775,000 / Advance payment: 0Experience: 2,530 |
+| **[Additional investigation of Indian heroes](docs/Quests/Other/6001-7000/quest_6459.md)** | Pursuit quest (5) | Exploration (15) Archeology (17) Indian Languages ​​(1) | Reward: 775,000 / Advance payment: 0Experience: 2,530 |

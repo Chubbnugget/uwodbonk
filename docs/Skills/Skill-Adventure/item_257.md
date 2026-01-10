@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | explore |
 | **Type** | thing |
-| **Group** | [Skill (Adventure)](Categories/category_39.md) |
+| **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 15,000 |
 | **Description** | You can explore and excavate the area and discover all kinds of treasures. Learning conditions 7/0/0/total 5 |
 | **Last Updated** | 2005-04-02 09:58:31 System |

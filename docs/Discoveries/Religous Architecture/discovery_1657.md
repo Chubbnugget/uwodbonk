@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Eternal Smile](Quests/Adventure/quest_1285.md)** | Adventure quest (6) | Religious Studies (7) Visualization (5) Mon-Khmer languages | Reward: 105,000 / Advance payment: 15,000 Experience: 300 / Fame: 110 |
+| **[Eternal Smile](docs/Quests/Adventure/1001-2000/quest_1285.md)** | Adventure quest (6) | Religious Studies (7) Visualization (5) Mon-Khmer languages | Reward: 105,000 / Advance payment: 15,000 Experience: 300 / Fame: 110 |

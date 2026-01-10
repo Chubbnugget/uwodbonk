@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[古代の銀器](Quests/Adventure/quest_6610.md)** | Adventure Quest (6) B.C. | Religious Studies (7) Exploration (5) Italian (1) | Reward: 126,500 / Advance payment: 10,000 Experience: 170 / Fame: 100 |
+| **[古代の銀器](docs/Quests/Adventure/6001-7000/quest_6610.md)** | Adventure Quest (6) B.C. | Religious Studies (7) Exploration (5) Italian (1) | Reward: 126,500 / Advance payment: 10,000 Experience: 170 / Fame: 100 |

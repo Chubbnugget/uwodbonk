@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Goblin Shark](Quests/Other/quest_5669.md)** | Fishing (1) | Fishing (8) |  |
+| **[Goblin Shark](docs/Quests/Other/5001-6000/quest_5669.md)** | Fishing (1) | Fishing (8) |  |

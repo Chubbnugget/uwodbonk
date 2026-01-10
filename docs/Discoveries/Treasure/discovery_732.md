@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Investigation](Quests/Adventure/quest_3418.md)** | Adventure quest (7) 17th century 1st period | Exploration (6) Treasures Appraisal (8) Italian | Reward: 180,000 / Advance payment: 10,000 Experience: 250 / Fame: 110 |
+| **[Strange Investigation](docs/Quests/Adventure/3001-4000/quest_3418.md)** | Adventure quest (7) 17th century 1st period | Exploration (6) Treasures Appraisal (8) Italian | Reward: 180,000 / Advance payment: 10,000 Experience: 250 / Fame: 110 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Senju Shrimp](Quests/Other/quest_5804.md)** | Fishing (8) | Fishing (8) |  |
+| **[Senju Shrimp](docs/Quests/Other/5001-6000/quest_5804.md)** | Fishing (8) | Fishing (8) |  |

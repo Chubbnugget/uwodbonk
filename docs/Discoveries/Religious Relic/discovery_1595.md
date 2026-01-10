@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Piece of paper given life](Quests/Adventure/quest_2364.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 459,000 / Advance payment: 40,000 Experience: 460 / Fame: 185 |
+| **[Piece of paper given life](docs/Quests/Adventure/2001-3000/quest_2364.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 459,000 / Advance payment: 40,000 Experience: 460 / Fame: 185 |

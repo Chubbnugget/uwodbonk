@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Samarkand](Quests/Other/quest_6981.md)** | Port/village (1) | - |  |
+| **[Samarkand](docs/Quests/Other/6001-7000/quest_6981.md)** | Port/village (1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Whale ecological research](Quests/Adventure/quest_137.md)** | Adventure quest (3) | Ecological research (1) Biology (1) Portuguese | Reward: 9,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Whale ecological research](docs/Quests/Adventure/1-1000/quest_137.md)** | Adventure quest (3) | Ecological research (1) Biology (1) Portuguese | Reward: 9,000 / Advance payment: 0Experience: 130 / Fame: 65 |

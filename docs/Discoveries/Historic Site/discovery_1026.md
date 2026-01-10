@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Policy change of the Roman Empire](Quests/Adventure/quest_3318.md)** | Adventure quest (9) | Archeology (10) Visualization (8) English | Reward: 180,000 / Advance payment: 10,000 Experience: 440 / Fame: 100 |
+| **[Policy change of the Roman Empire](docs/Quests/Adventure/3001-4000/quest_3318.md)** | Adventure quest (9) | Archeology (10) Visualization (8) English | Reward: 180,000 / Advance payment: 10,000 Experience: 440 / Fame: 100 |

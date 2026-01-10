@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Acropolis](Quests/Other/quest_5377.md)** | Port/village (1) | - | Experience: 500/ Reputation: 250 |
+| **[Acropolis](docs/Quests/Other/5001-6000/quest_5377.md)** | Port/village (1) | - | Experience: 500/ Reputation: 250 |

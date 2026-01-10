@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sultan's Crown](Quests/Adventure/quest_181.md)** | Adventure quest (4) | Exploration (2) Treasures Appraisal (4) Unlocking (2) | Reward: 67,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Sultan's Crown](docs/Quests/Adventure/1-1000/quest_181.md)** | Adventure quest (4) | Exploration (2) Treasures Appraisal (4) Unlocking (2) | Reward: 67,000 / Advance payment: 0Experience: 150 / Fame: 70 |

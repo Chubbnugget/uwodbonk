@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Arch cloud](Quests/Other/quest_6410.md)** | Weather/phenomena (1) | Visual recognition (10) | Experience：320 |
+| **[Arch cloud](docs/Quests/Other/6001-7000/quest_6410.md)** | Weather/phenomena (1) | Visual recognition (10) | Experience：320 |

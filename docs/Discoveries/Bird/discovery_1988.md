@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bird that speaks human language](Quests/Adventure/quest_704.md)** | Adventure quest (7) | Ecological Survey (5) Biology (7) Portuguese | Reward: 69,200/ Advance payment: 10,000 Experience: 130/ Fame: 65 |
+| **[Bird that speaks human language](docs/Quests/Adventure/1-1000/quest_704.md)** | Adventure quest (7) | Ecological Survey (5) Biology (7) Portuguese | Reward: 69,200/ Advance payment: 10,000 Experience: 130/ Fame: 65 |

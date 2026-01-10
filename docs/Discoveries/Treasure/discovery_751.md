@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Banshee's Tears](Quests/Adventure/quest_252.md)** | Adventure Quest (5) Mythology Era | Exploration (3) Treasures Appraisal (5) Unlocking (3) | Reward: 57,000 / Advance payment: 10,000 Experience: 130 / Fame: 65 |
+| **[Banshee's Tears](docs/Quests/Adventure/1-1000/quest_252.md)** | Adventure Quest (5) Mythology Era | Exploration (3) Treasures Appraisal (5) Unlocking (3) | Reward: 57,000 / Advance payment: 10,000 Experience: 130 / Fame: 65 |

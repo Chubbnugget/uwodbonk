@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Surface of the Moon](Quests/Adventure/quest_3764.md)** | Adventure quest (1) | Astronomy (1) Visual recognition (1) Italian | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Surface of the Moon](docs/Quests/Adventure/3001-4000/quest_3764.md)** | Adventure quest (1) | Astronomy (1) Visual recognition (1) Italian | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |

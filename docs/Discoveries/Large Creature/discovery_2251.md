@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King of Beasts](Quests/Adventure/quest_941.md)** | Adventure quest (9) | Ecological research (9) Biology (11) West African languages | Reward: 247,000 / Advance payment: 30,000 Experience: 320 / Fame: 135 |
+| **[King of Beasts](docs/Quests/Adventure/1-1000/quest_941.md)** | Adventure quest (9) | Ecological research (9) Biology (11) West African languages | Reward: 247,000 / Advance payment: 30,000 Experience: 320 / Fame: 135 |

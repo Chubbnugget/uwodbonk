@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Steamed flounder in wine |
 | **Type** | thing |
-| **Group** | [Consumables (cooking)](Categories/category_32.md) |
-| **Sold by NPC** | [Production (Cooking)](NPCs/npc_24.md) |
+| **Group** | [Consumables (cooking)](docs/Categories/category_32.md) |
+| **Sold by NPC** | [Production (Cooking)](docs/NPCs/npc_24.md) |
 | **Description** | Steamed flounder. Action power +35 Effect when using Action power recovery Action power +35 |
 | **Last Updated** | 2010-06-06 09:54:28 Passing navigator @guest |
 

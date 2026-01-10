@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Babylonian Captivity](Quests/Adventure/quest_1699.md)** | Adventure quest (8) | Exploration (8) Archeology (10) Unlocking (8) | Reward: 235,000 / Advance payment: 20,000 Experience: 530 / Fame: 175 |
+| **[Babylonian Captivity](docs/Quests/Adventure/1001-2000/quest_1699.md)** | Adventure quest (8) | Exploration (8) Archeology (10) Unlocking (8) | Reward: 235,000 / Advance payment: 20,000 Experience: 530 / Fame: 175 |

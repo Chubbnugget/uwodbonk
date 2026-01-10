@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legend of the Kraken](Quests/Adventure/quest_3197.md)** | Adventure quest (10) | Ecological research (9) Biology (11) Spanish (1) | Reward: 304,000 / Advance payment: 30,000 Experience: 330 / Fame: 140 |
+| **[Legend of the Kraken](docs/Quests/Adventure/3001-4000/quest_3197.md)** | Adventure quest (10) | Ecological research (9) Biology (11) Spanish (1) | Reward: 304,000 / Advance payment: 30,000 Experience: 330 / Fame: 140 |

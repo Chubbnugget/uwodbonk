@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tai Shang Laojun](Quests/Adventure/quest_2797.md)** | Adventure quest (9) | Religious Studies (13) Visual Recognition (11) Chinese | Reward: 273,000 / Advance payment: 20,000 Experience: 300 / Fame: 130 |
+| **[Tai Shang Laojun](docs/Quests/Adventure/2001-3000/quest_2797.md)** | Adventure quest (9) | Religious Studies (13) Visual Recognition (11) Chinese | Reward: 273,000 / Advance payment: 20,000 Experience: 300 / Fame: 130 |

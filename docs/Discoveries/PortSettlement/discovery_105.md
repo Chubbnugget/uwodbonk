@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Valencia](Quests/Other/quest_5115.md)** | Port/village (1) | - |  |
+| **[Valencia](docs/Quests/Other/5001-6000/quest_5115.md)** | Port/village (1) | - |  |

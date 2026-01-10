@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Symbol of faith](Quests/Adventure/quest_680.md)** | Adventure quest (8) | Religious Studies (9) Exploration (7) Unlocking (7) | Reward: 140,000 / Advance payment: 20,000 Experience: 200 / Fame: 90 |
+| **[Symbol of faith](docs/Quests/Adventure/1-1000/quest_680.md)** | Adventure quest (8) | Religious Studies (9) Exploration (7) Unlocking (7) | Reward: 140,000 / Advance payment: 20,000 Experience: 200 / Fame: 90 |

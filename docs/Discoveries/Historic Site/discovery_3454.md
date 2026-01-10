@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient ruins](Quests/Other/quest_6366.md)** | Archeology(6) | Archeology(6)Visibility(6) |  |
+| **[Map of ancient ruins](docs/Quests/Other/6001-7000/quest_6366.md)** | Archeology(6) | Archeology(6)Visibility(6) |  |

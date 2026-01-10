@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient epics of India](Quests/Adventure/quest_61.md)** | Adventure Quest (5) Mythology Era | Exploration (2) Treasures Appraisal (4) Indian Languages | Reward: 60,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Ancient epics of India](docs/Quests/Adventure/1-1000/quest_61.md)** | Adventure Quest (5) Mythology Era | Exploration (2) Treasures Appraisal (4) Indian Languages | Reward: 60,000 / Advance payment: 0Experience: 140 / Fame: 70 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Phobos](Quests/Other/quest_5989.md)** | Celestial Object Discovery Name(6)19th century | Astronomy(6) | Experience：470 |
+| **[Phobos](docs/Quests/Other/5001-6000/quest_5989.md)** | Celestial Object Discovery Name(6)19th century | Astronomy(6) | Experience：470 |

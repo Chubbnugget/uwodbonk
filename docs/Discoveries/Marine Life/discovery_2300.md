@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Green Fish](Quests/Adventure/quest_3805.md)** | Adventure quest (5) | Ecological Survey (5) Biology (7) Spanish | Reward: 176,000 / Advance payment: 10,000 Experience: 220 / Fame: 200 |
+| **[Giant Green Fish](docs/Quests/Adventure/3001-4000/quest_3805.md)** | Adventure quest (5) | Ecological Survey (5) Biology (7) Spanish | Reward: 176,000 / Advance payment: 10,000 Experience: 220 / Fame: 200 |

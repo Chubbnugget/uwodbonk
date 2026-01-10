@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Atlantic Island Survey](Quests/Other/quest_5431.md)** | Imperial command quest (4) | Geography (2) Visualization (1) Portuguese (1) | Remuneration: 18,000 / Advance payment: 0 |
-| **[Middle of the Atlantic Ocean](Quests/Adventure/quest_810.md)** | Adventure Quest (4) 15th Century 2nd Period | Geography (2) Visual recognition (1) Portuguese | Reward: 58,800 |
+| **[Atlantic Island Survey](docs/Quests/Other/5001-6000/quest_5431.md)** | Imperial command quest (4) | Geography (2) Visualization (1) Portuguese (1) | Remuneration: 18,000 / Advance payment: 0 |
+| **[Middle of the Atlantic Ocean](docs/Quests/Adventure/1-1000/quest_810.md)** | Adventure Quest (4) 15th Century 2nd Period | Geography (2) Visual recognition (1) Portuguese | Reward: 58,800 |

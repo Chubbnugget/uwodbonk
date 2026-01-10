@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Large cave investigation request](Quests/Adventure/quest_2965.md)** | Adventure quest (6) | Geography (7) Visual recognition (5) Spanish | Reward: 198,000 / Advance payment: 10,000 Experience: 240 / Fame: 105 |
+| **[Large cave investigation request](docs/Quests/Adventure/2001-3000/quest_2965.md)** | Adventure quest (6) | Geography (7) Visual recognition (5) Spanish | Reward: 198,000 / Advance payment: 10,000 Experience: 240 / Fame: 105 |

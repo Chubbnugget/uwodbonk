@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[War of Stars](Quests/Adventure/quest_1165.md)** | Adventure quest (9) | Archeology (12) Visualization (10) Mayan languages | Reward: 108,000 / Advance payment: 10,000 Experience: 375 / Fame: 125 |
+| **[War of Stars](docs/Quests/Adventure/1001-2000/quest_1165.md)** | Adventure quest (9) | Archeology (12) Visualization (10) Mayan languages | Reward: 108,000 / Advance payment: 10,000 Experience: 375 / Fame: 125 |

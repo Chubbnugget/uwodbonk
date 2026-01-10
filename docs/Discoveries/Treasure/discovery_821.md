@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[St.George's Curious Jewel](Quests/Adventure/quest_1120.md)** | Adventure quest (7) | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 110,000 / Advance payment: 0Experience: 255 / Fame: 90 |
+| **[St.George's Curious Jewel](docs/Quests/Adventure/1001-2000/quest_1120.md)** | Adventure quest (7) | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 110,000 / Advance payment: 0Experience: 255 / Fame: 90 |

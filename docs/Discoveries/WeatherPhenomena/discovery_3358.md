@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fire Devil](Quests/Other/quest_6224.md)** | Weather/phenomena (10) | Visual recognition (7) | Experience：500 |
+| **[Fire Devil](docs/Quests/Other/6001-7000/quest_6224.md)** | Weather/phenomena (10) | Visual recognition (7) | Experience：500 |

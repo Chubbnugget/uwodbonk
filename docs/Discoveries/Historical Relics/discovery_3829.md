@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kalmar Nickel](Quests/Other/quest_6802.md)** | Sunken ship(7) | Salvage Archeology(8) |  |
+| **[Kalmar Nickel](docs/Quests/Other/6001-7000/quest_6802.md)** | Sunken ship(7) | Salvage Archeology(8) |  |

@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue with mysterious inscriptions](Quests/Adventure/quest_6606.md)** | Adventure quest (9) | Exploration (11) Archeology (13) Unlocking (11) | Reward: 388,600 / Advance payment: 40,000 Experience: 350 / Fame: 200 |
+| **[Statue with mysterious inscriptions](docs/Quests/Adventure/6001-7000/quest_6606.md)** | Adventure quest (9) | Exploration (11) Archeology (13) Unlocking (11) | Reward: 388,600 / Advance payment: 40,000 Experience: 350 / Fame: 200 |

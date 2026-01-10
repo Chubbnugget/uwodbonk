@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A world born of chaos](Quests/Adventure/quest_6178.md)** | Adventure Quest (7) Mythology Era | Religious studies (10) Ecological research (8) Biology (10) | Reward: 315,000/Advance: 30,000Experience: 280 |
+| **[A world born of chaos](docs/Quests/Adventure/6001-7000/quest_6178.md)** | Adventure Quest (7) Mythology Era | Religious studies (10) Ecological research (8) Biology (10) | Reward: 315,000/Advance: 30,000Experience: 280 |

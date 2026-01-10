@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Silversmith Armor Map](Quests/Other/quest_461.md)** | Treasures鑑定(4) | Exploration (4) Treasures Appraisal (4) Unlocking (4) |  |
+| **[Silversmith Armor Map](docs/Quests/Other/1-1000/quest_461.md)** | Treasures鑑定(4) | Exploration (4) Treasures Appraisal (4) Unlocking (4) |  |

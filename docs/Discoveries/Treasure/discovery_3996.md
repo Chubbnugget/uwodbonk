@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Inherited Medicine](Quests/Adventure/quest_6989.md)** | Adventure quest (7) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Remuneration: 154,000 / Advance payment: 20,000 |
+| **[Inherited Medicine](docs/Quests/Adventure/6001-7000/quest_6989.md)** | Adventure quest (7) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Remuneration: 154,000 / Advance payment: 20,000 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars Sky Ship](Quests/Adventure/quest_5710.md)** | Adventure Quest (10) 18th Century Third Period | Astronomy (15) Visualization (13) Greek | Reward: 783,000 / Advance payment: 70,000 Experience: 580 / Fame: 365 |
+| **[Stars Sky Ship](docs/Quests/Adventure/5001-6000/quest_5710.md)** | Adventure Quest (10) 18th Century Third Period | Astronomy (15) Visualization (13) Greek | Reward: 783,000 / Advance payment: 70,000 Experience: 580 / Fame: 365 |

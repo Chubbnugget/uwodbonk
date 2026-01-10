@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hanyang Palace](Quests/Adventure/quest_2738.md)** | Adventure quest (6) | Archeology (7) Visual recognition (5) Korean | Reward: 444,000 / Advance payment: 30,000 Experience: 410 / Fame: 175 |
+| **[Hanyang Palace](docs/Quests/Adventure/2001-3000/quest_2738.md)** | Adventure quest (6) | Archeology (7) Visual recognition (5) Korean | Reward: 444,000 / Advance payment: 30,000 Experience: 410 / Fame: 175 |

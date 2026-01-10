@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pink Bird Map](Quests/Other/quest_2989.md)** | Biology学(5) | Ecological Survey(6)Biology(6) |  |
+| **[Pink Bird Map](docs/Quests/Other/2001-3000/quest_2989.md)** | Biology学(5) | Ecological Survey(6)Biology(6) |  |

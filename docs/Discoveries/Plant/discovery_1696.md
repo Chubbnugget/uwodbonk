@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hamlet's poison](Quests/Adventure/quest_3416.md)** | Adventure quest (2) | Ecological Survey (1) Biology (1) English | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Hamlet's poison](docs/Quests/Adventure/3001-4000/quest_3416.md)** | Adventure quest (2) | Ecological Survey (1) Biology (1) English | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kapitana](Quests/Other/quest_1892.md)** | Sunken ship (5) | Salvage visual recognition (3) unlocking |  |
+| **[Kapitana](docs/Quests/Other/1001-2000/quest_1892.md)** | Sunken ship (5) | Salvage visual recognition (3) unlocking |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional magpie investigation](Quests/Other/quest_6717.md)** | Pursuit quest (6) | Ecological research (5) Biology (7) Italian (1) | Reward: 160,000 / Advance payment: 0Experience: 300 |
+| **[Additional magpie investigation](docs/Quests/Other/6001-7000/quest_6717.md)** | Pursuit quest (6) | Ecological research (5) Biology (7) Italian (1) | Reward: 160,000 / Advance payment: 0Experience: 300 |

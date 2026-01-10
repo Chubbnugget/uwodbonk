@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Spear of Longinus](Quests/Adventure/quest_331.md)** | Adventure Quest (9) 16th Century 2nd Period | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 207,000 / Advance payment: 20,000 Experience: 190 / Fame: 100 |
+| **[Spear of Longinus](docs/Quests/Adventure/1-1000/quest_331.md)** | Adventure Quest (9) 16th Century 2nd Period | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 207,000 / Advance payment: 20,000 Experience: 190 / Fame: 100 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Eating poison until the end](Quests/Adventure/quest_5901.md)** | Adventure quest (10) | Ecological Survey (15) Biology (17) Spanish | Reward: 835,000/Advance payment: 80,000Experience: 610 |
+| **[Eating poison until the end](docs/Quests/Adventure/5001-6000/quest_5901.md)** | Adventure quest (10) | Ecological Survey (15) Biology (17) Spanish | Reward: 835,000/Advance payment: 80,000Experience: 610 |

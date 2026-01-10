@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blood-Flowing Tree](Quests/Adventure/quest_6960.md)** | Adventure quest (7) | Ecological Survey (7) Biology (9) Malayu Tagalog (1) | Reward: 507,000/Advance payment: 50,000Experience: 400 |
+| **[Blood-Flowing Tree](docs/Quests/Adventure/6001-7000/quest_6960.md)** | Adventure quest (7) | Ecological Survey (7) Biology (9) Malayu Tagalog (1) | Reward: 507,000/Advance payment: 50,000Experience: 400 |

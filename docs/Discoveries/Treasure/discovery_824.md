@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of a daimyo's helmet](Quests/Other/quest_2743.md)** | Capture/Land Battle (8) | Exploration (8) Treasures Appraisal (8) Unlocking (8) |  |
+| **[Map of a daimyo's helmet](docs/Quests/Other/2001-3000/quest_2743.md)** | Capture/Land Battle (8) | Exploration (8) Treasures Appraisal (8) Unlocking (8) |  |

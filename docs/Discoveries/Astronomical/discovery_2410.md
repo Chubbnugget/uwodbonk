@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wine etiquette](Quests/Adventure/quest_3867.md)** | Adventure quest (4) 19th century | Astronomy (5) Religious Studies (5) Visualization (3) | Reward: 261,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |
+| **[Wine etiquette](docs/Quests/Adventure/3001-4000/quest_3867.md)** | Adventure quest (4) 19th century | Astronomy (5) Religious Studies (5) Visualization (3) | Reward: 261,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |

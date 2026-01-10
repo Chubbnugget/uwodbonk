@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Money](Quests/Adventure/quest_4804.md)** | Adventure quest (7) | Exploration (6) Treasures Appraisal (8) Malayu Tagalog | Reward: 356,000 / Advance payment: 30,000 Experience: 370 / Fame: 155 |
+| **[Giant Money](docs/Quests/Adventure/4001-5000/quest_4804.md)** | Adventure quest (7) | Exploration (6) Treasures Appraisal (8) Malayu Tagalog | Reward: 356,000 / Advance payment: 30,000 Experience: 370 / Fame: 155 |

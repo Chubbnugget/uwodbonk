@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of the mountaintop ruins](Quests/Other/quest_6336.md)** | Religious Studies(12) | Religious Studies(12)Visibility(12) |  |
+| **[Map of the mountaintop ruins](docs/Quests/Other/6001-7000/quest_6336.md)** | Religious Studies(12) | Religious Studies(12)Visibility(12) |  |

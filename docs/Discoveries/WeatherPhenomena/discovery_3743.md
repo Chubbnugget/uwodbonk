@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hanging cloud](Quests/Other/quest_6694.md)** | Weather/phenomena (1) | Visual recognition (7) |  |
+| **[Hanging cloud](docs/Quests/Other/6001-7000/quest_6694.md)** | Weather/phenomena (1) | Visual recognition (7) |  |

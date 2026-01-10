@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Trading base built by the royal family](Quests/Adventure/quest_5924.md)** | Adventure quest (4) | Archeology (8) Visualization (6) Portuguese | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Trading base built by the royal family](docs/Quests/Adventure/5001-6000/quest_5924.md)** | Adventure quest (4) | Archeology (8) Visualization (6) Portuguese | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |

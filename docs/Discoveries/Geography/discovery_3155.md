@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unexplored River](Quests/Adventure/quest_5820.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) Indian languages | Reward: 292,000/Advance: 20,000Experience: 270 |
+| **[Unexplored River](docs/Quests/Adventure/5001-6000/quest_5820.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) Indian languages | Reward: 292,000/Advance: 20,000Experience: 270 |

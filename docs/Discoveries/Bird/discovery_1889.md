@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Birds that live on the ground](Quests/Adventure/quest_1927.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Spanish | Reward: 76,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Birds that live on the ground](docs/Quests/Adventure/1001-2000/quest_1927.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Spanish | Reward: 76,000 / Advance payment: 0Experience: 140 / Fame: 65 |

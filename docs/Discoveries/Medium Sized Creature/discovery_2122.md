@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Green Dragon](Quests/Adventure/quest_140.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Spanish | Reward: 132,400 / Advance payment: 2,000 Experience: 288 / Fame: 160 |
+| **[Green Dragon](docs/Quests/Adventure/1-1000/quest_140.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Spanish | Reward: 132,400 / Advance payment: 2,000 Experience: 288 / Fame: 160 |

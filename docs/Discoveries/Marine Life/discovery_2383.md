@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Goddess of the Yangtze River](Quests/Adventure/quest_2907.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Chinese (1) | Reward: 104,000 / Advance payment: 10,000 Experience: 160 / Fame: 150 |
+| **[Goddess of the Yangtze River](docs/Quests/Adventure/2001-3000/quest_2907.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Chinese (1) | Reward: 104,000 / Advance payment: 10,000 Experience: 160 / Fame: 150 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Furniture depicting the Islamic world](Quests/Adventure/quest_1845.md)** | Adventure quest (5) | Exploration (4) Treasures Appraisal (6) Arabic | Reward: 142,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |
+| **[Furniture depicting the Islamic world](docs/Quests/Adventure/1001-2000/quest_1845.md)** | Adventure quest (5) | Exploration (4) Treasures Appraisal (6) Arabic | Reward: 142,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |

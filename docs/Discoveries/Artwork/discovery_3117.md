@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Glass and lace](Quests/Adventure/quest_5851.md)** | Adventure quest (10) | Exploration (15) Art (17) Italian | Reward: 852,000 / Advance payment: 80,000 Experience: 620 / Fame: 390 |
+| **[Glass and lace](docs/Quests/Adventure/5001-6000/quest_5851.md)** | Adventure quest (10) | Exploration (15) Art (17) Italian | Reward: 852,000 / Advance payment: 80,000 Experience: 620 / Fame: 390 |

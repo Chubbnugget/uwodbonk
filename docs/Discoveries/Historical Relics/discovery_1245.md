@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Heroic Inscription Map](Quests/Other/quest_1614.md)** | Archeology(5) | Exploration(5)Archaeology(5) | Experience：140 |
+| **[Heroic Inscription Map](docs/Quests/Other/1001-2000/quest_1614.md)** | Archeology(5) | Exploration(5)Archaeology(5) | Experience：140 |

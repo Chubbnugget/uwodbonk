@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Thorough investigation of the Russian emperor](Quests/Adventure/quest_3622.md)** | Adventure quest (8) 18th century third period | Exploration (7) Archeology (9) Unlocking (7) | Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know. |
+| **[Thorough investigation of the Russian emperor](docs/Quests/Adventure/3001-4000/quest_3622.md)** | Adventure quest (8) 18th century third period | Exploration (7) Archeology (9) Unlocking (7) | Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know. |

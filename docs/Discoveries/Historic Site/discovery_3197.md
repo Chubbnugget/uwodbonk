@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ruins in the oasis city](Quests/Adventure/quest_5925.md)** | Adventure quest (5) | Archeology (7) Visualization (5) Arabic | Reward: 313,000 / Advance payment: 30,000 Experience: 280 / Fame: 170 |
+| **[Ruins in the oasis city](docs/Quests/Adventure/5001-6000/quest_5925.md)** | Adventure quest (5) | Archeology (7) Visualization (5) Arabic | Reward: 313,000 / Advance payment: 30,000 Experience: 280 / Fame: 170 |

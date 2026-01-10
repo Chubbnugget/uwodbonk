@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of river dolphins](Quests/Other/quest_1686.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |
+| **[Map of river dolphins](docs/Quests/Other/1001-2000/quest_1686.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |

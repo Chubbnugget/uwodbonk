@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Saida](Quests/Other/quest_5846.md)** | Celestial Discovery Name(7)Myth Era | Astronomy(7) |  |
+| **[Saida](docs/Quests/Other/5001-6000/quest_5846.md)** | Celestial Discovery Name(7)Myth Era | Astronomy(7) |  |

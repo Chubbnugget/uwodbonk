@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Amphitheatre](Quests/Other/quest_6405.md)** | Legacy(1) | - |  |
+| **[Amphitheatre](docs/Quests/Other/6001-7000/quest_6405.md)** | Legacy(1) | - |  |

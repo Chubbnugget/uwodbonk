@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flowering tree similar to magnolia](Quests/Adventure/quest_3304.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Spanish | Reward: 76,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Flowering tree similar to magnolia](docs/Quests/Adventure/3001-4000/quest_3304.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Spanish | Reward: 76,000 / Advance payment: 0Experience: 140 / Fame: 65 |

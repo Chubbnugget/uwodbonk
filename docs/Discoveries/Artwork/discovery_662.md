@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Vermeer's trial and error](Quests/Adventure/quest_2001.md)** | Adventure quest (6) | Exploration (5) Art (7) Dutch | Reward: 96,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Vermeer's trial and error](docs/Quests/Adventure/2001-3000/quest_2001.md)** | Adventure quest (6) | Exploration (5) Art (7) Dutch | Reward: 96,000 / Advance payment: 0Experience: 150 / Fame: 75 |

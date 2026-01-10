@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Animals that live underground](Quests/Adventure/quest_5658.md)** | Adventure quest (8) | Ecological Survey (6) Biology (8) Malayu Tagalog (1) | Reward: 231,000/ Advance: 20,000Experience: 230/ Fame: 270 |
+| **[Animals that live underground](docs/Quests/Adventure/5001-6000/quest_5658.md)** | Adventure quest (8) | Ecological Survey (6) Biology (8) Malayu Tagalog (1) | Reward: 231,000/ Advance: 20,000Experience: 230/ Fame: 270 |

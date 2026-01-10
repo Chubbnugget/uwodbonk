@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Glowing Cave](Quests/Adventure/quest_5870.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Oceanian languages | Reward: 470,000/Advance payment: 40,000Experience: 380 |
+| **[Glowing Cave](docs/Quests/Adventure/5001-6000/quest_5870.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Oceanian languages | Reward: 470,000/Advance payment: 40,000Experience: 380 |

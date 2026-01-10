@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient scriptures](Quests/Other/quest_5761.md)** | Re-examination reward (9) | Religious Studies(9)Exploration(9) |  |
+| **[Map of ancient scriptures](docs/Quests/Other/5001-6000/quest_5761.md)** | Re-examination reward (9) | Religious Studies(9)Exploration(9) |  |

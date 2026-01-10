@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of strangely shaped plants](Quests/Other/quest_1953.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：170 |
+| **[Map of strangely shaped plants](docs/Quests/Other/1001-2000/quest_1953.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：170 |

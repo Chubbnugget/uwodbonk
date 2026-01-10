@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Essence of Ancient Wisdom](Quests/Other/quest_5276.md)** | Treasure hunting (6) | Exploration (9) Archeology (11) Greek (1) | Experience：2,440 |
+| **[The Essence of Ancient Wisdom](docs/Quests/Other/5001-6000/quest_5276.md)** | Treasure hunting (6) | Exploration (9) Archeology (11) Greek (1) | Experience：2,440 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lost characters](Quests/Adventure/quest_3729.md)** | Adventure quest (7) 14th century | Exploration (11) Archeology (13) Unlocking (11) | Remuneration: 681,000 / Advance payment: 60,000 |
+| **[Lost characters](docs/Quests/Adventure/3001-4000/quest_3729.md)** | Adventure quest (7) 14th century | Exploration (11) Archeology (13) Unlocking (11) | Remuneration: 681,000 / Advance payment: 60,000 |

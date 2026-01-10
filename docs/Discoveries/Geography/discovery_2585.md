@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Let's search for God's mountain](Quests/Adventure/quest_4950.md)** | Adventure quest (2) | Geography (2) Visualization (1) Greek | Reward: 72,000Experience: 130/ Fame: 65 |
+| **[Let's search for God's mountain](docs/Quests/Adventure/4001-5000/quest_4950.md)** | Adventure quest (2) | Geography (2) Visualization (1) Greek | Reward: 72,000Experience: 130/ Fame: 65 |

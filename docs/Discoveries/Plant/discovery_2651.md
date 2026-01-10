@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Suffering of a large family](Quests/Adventure/quest_5223.md)** | Adventure quest (1) 17th century third period | Ecological Survey (1) Biology (2) English | Reward: 72,000 / Advance payment: 0Experience: 156 / Fame: 78 |
+| **[Suffering of a large family](docs/Quests/Adventure/5001-6000/quest_5223.md)** | Adventure quest (1) 17th century third period | Ecological Survey (1) Biology (2) English | Reward: 72,000 / Advance payment: 0Experience: 156 / Fame: 78 |

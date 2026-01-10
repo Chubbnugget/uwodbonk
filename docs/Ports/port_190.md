@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 | **Sea Area** | baltic sea |
 | **Required Language** | arctic languages |
 | **Coordinates** | （1211，1956） |
-| **Investment Reward** | [Craftsman's training book](Items/Recipe Book/item_918.md) （必要投資額：320,000ドゥカード） |
+| **Investment Reward** | [Craftsman's training book](docs/Items/RecipeBooks/item_918.md) （必要投資額：320,000ドゥカード） |
 
 ### Available Facilities
 
@@ -42,22 +42,22 @@ import TabItem from '@theme/TabItem';
 
 | item | group | purchase price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
-| [alexandrite](Items/Trade Goods/TradeGoods-Gems/item_4429.md) | [Trading Items (Gemstones)](Categories/category_15.md) | 3,562 | (3,117) |  |
+| [alexandrite](docs/Items/TradeGoods/TradeGoods-Gems/item_4429.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | 3,562 | (3,117) |  |
 | 時代限定（17世紀第5期、18世紀第1期、18世紀第2期、18世紀第3期） |
-| [vodka](Items/Trade Goods/TradeGoods-Alcohol/item_579.md) | [交易品（酒類）](Categories/category_9.md) | 452 | (396) |  |
-| [rabbit hair](Items/Trade Goods/TradeGoods-Fibers/item_1036.md) | [交易品（繊維）](Categories/category_1.md) | 721 | (631) |  |
+| [vodka](docs/Items/TradeGoods/TradeGoods-Alcohol/item_579.md) | [交易品（酒類）](docs/Categories/category_9.md) | 452 | (396) |  |
+| [rabbit hair](docs/Items/TradeGoods/TradeGoods-Fibers/item_1036.md) | [交易品（繊維）](docs/Categories/category_1.md) | 721 | (631) |  |
 | 要投資（必要投資額：8,500,000） 7.7M以下　2017-6確認 |
-| [felt](Items/Trade Goods/TradeGoods-Fabrics/item_4439.md) | [交易品（織物）](Categories/category_20.md) | 792 | (693) |  |
+| [felt](docs/Items/TradeGoods/TradeGoods-Fabrics/item_4439.md) | [交易品（織物）](docs/Categories/category_20.md) | 792 | (693) |  |
 | Investment required (Required investment amount: 7,394,000) Required investment amount is between 7.014M and 7.394M Confirmed on 2024.1.13 |
-| [wood](Items/Trade Goods/TradeGoods-Wares/item_277.md) | [交易品（工業品）](Categories/category_19.md) | 506 | (443) |  |
-| [fur](Items/Trade Goods/TradeGoods-Fibers/item_634.md) | [交易品（繊維）](Categories/category_1.md) | 1,040 | (910) |  |
+| [wood](docs/Items/TradeGoods/TradeGoods-Wares/item_277.md) | [交易品（工業品）](docs/Categories/category_19.md) | 506 | (443) |  |
+| [fur](docs/Items/TradeGoods/TradeGoods-Fibers/item_634.md) | [交易品（繊維）](docs/Categories/category_1.md) | 1,040 | (910) |  |
 | 要投資（必要投資額：240,000） |
-| [oil](Items/Trade Goods/TradeGoods-Wares/item_613.md) | [交易品（工業品）](Categories/category_19.md) | 580 | (508) |  |
-| [paper](Items/Trade Goods/TradeGoods-Wares/item_625.md) | [交易品（工業品）](Categories/category_19.md) | 274 | (240) |  |
+| [oil](docs/Items/TradeGoods/TradeGoods-Wares/item_613.md) | [交易品（工業品）](docs/Categories/category_19.md) | 580 | (508) |  |
+| [paper](docs/Items/TradeGoods/TradeGoods-Wares/item_625.md) | [交易品（工業品）](docs/Categories/category_19.md) | 274 | (240) |  |
 | 要投資（必要投資額：180,000） |
-| [gold](Items/Trade Goods/TradeGoods-Metals/item_659.md) | [Trading products (precious metals)](Categories/category_8.md) | 8,657 | (7,574) |  |
+| [gold](docs/Items/TradeGoods/TradeGoods-Metals/item_659.md) | [Trading products (precious metals)](docs/Categories/category_8.md) | 8,657 | (7,574) |  |
 | 要投資（必要投資額：8,500,000） |
-| [iron material](Items/Trade Goods/TradeGoods-Wares/item_268.md) | [交易品（工業品）](Categories/category_19.md) | 807 | (707) |  |
+| [iron material](docs/Items/TradeGoods/TradeGoods-Wares/item_268.md) | [交易品（工業品）](docs/Categories/category_19.md) | 807 | (707) |  |
 | 要投資（必要投資額：120,000） |
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
@@ -65,34 +65,34 @@ import TabItem from '@theme/TabItem';
 | item | group | sale price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [交易品（雑貨）](Categories/category_5.md)
+#### [交易品（雑貨）](docs/Categories/category_5.md)
 
-| [old ink stick](Items/Trade Goods/TradeGoods-Misc/item_3921.md) | 交易品（雑貨） | 37,900 | (42,641) |  |
+| [old ink stick](docs/Items/TradeGoods/TradeGoods-Misc/item_3921.md) | 交易品（雑貨） | 37,900 | (42,641) |  |
 
-#### [Trading goods (hobby goods)](Categories/category_10.md)
+#### [Trading goods (hobby goods)](docs/Categories/category_10.md)
 
-| [raspberry](Items/Trade Goods/TradeGoods-Sunddries/item_5419.md) | Trading goods (hobby goods) | 9,948 | (11,192) |  |
+| [raspberry](docs/Items/TradeGoods/TradeGoods-Sunddries/item_5419.md) | Trading goods (hobby goods) | 9,948 | (11,192) |  |
 
-#### [Trading goods (artificial goods)](Categories/category_13.md)
+#### [Trading goods (artificial goods)](docs/Categories/category_13.md)
 
-| [african wood carving](Items/Trade Goods/TradeGoods-Luxuries/item_5558.md) | Trading goods (artificial goods) | 4,487 | (5,048) |  |
+| [african wood carving](docs/Items/TradeGoods/TradeGoods-Luxuries/item_5558.md) | Trading goods (artificial goods) | 4,487 | (5,048) |  |
 
-#### [交易品（美術品）](Categories/category_14.md)
+#### [交易品（美術品）](docs/Categories/category_14.md)
 
-| [oil painting](Items/Trade Goods/TradeGoods-Art/item_1088.md) | 交易品（美術品） | 2,790 | (3,139) |  |
+| [oil painting](docs/Items/TradeGoods/TradeGoods-Art/item_1088.md) | 交易品（美術品） | 2,790 | (3,139) |  |
 
-#### [交易品（工業品）](Categories/category_19.md)
+#### [交易品（工業品）](docs/Categories/category_19.md)
 
-| [Japanese paper](Items/Trade Goods/TradeGoods-Wares/item_3438.md) | 交易品（工業品） | 25,100 | (28,240) |  |
+| [Japanese paper](docs/Items/TradeGoods/TradeGoods-Wares/item_3438.md) | 交易品（工業品） | 25,100 | (28,240) |  |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
 | item | group | sale price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Trading Items (Gemstones)](Categories/category_15.md)
+#### [Trading Items (Gemstones)](docs/Categories/category_15.md)
 
-| [coral](Items/Trade Goods/TradeGoods-Gems/item_141.md) | Trading Items (Gemstones) | 4,521 | (5,086) |  |
+| [coral](docs/Items/TradeGoods/TradeGoods-Gems/item_141.md) | Trading Items (Gemstones) | 4,521 | (5,086) |  |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
@@ -101,30 +101,30 @@ import TabItem from '@theme/TabItem';
 
 #### adventure guild
 
-| [trap](Skills/Skill-Adventure/item_3579.md) | [Skill (adventure)](Categories/category_39.md) | 100,000 | adventure guild |  |
+| [trap](docs/Skills/Skill-Adventure/item_3579.md) | [Skill (adventure)](docs/Categories/category_39.md) | 100,000 | adventure guild |  |
 
 #### merchant guild
 
-| [alchemy](Skills/Skill-Trade/item_1727.md) | [Skill (trade)](Categories/category_40.md) | 5,000,000 | merchant guild |  |
-| [Norse](Skills/Skills-Language/item_601.md) | [Skills (language)](Categories/category_42.md) | 1,000 | merchant guild |  |
+| [alchemy](docs/Skills/Skill-Trade/item_1727.md) | [Skill (trade)](docs/Categories/category_40.md) | 5,000,000 | merchant guild |  |
+| [Norse](docs/Skills/Skills-Language/item_601.md) | [Skills (language)](docs/Categories/category_42.md) | 1,000 | merchant guild |  |
 
 #### maritime guild
 
-| [Slavic languages](Skills/Skills-Language/item_286.md) | [Skills (language)](Categories/category_42.md) | 4,000 | maritime guild |  |
+| [Slavic languages](docs/Skills/Skills-Language/item_286.md) | [Skills (language)](docs/Categories/category_42.md) | 4,000 | maritime guild |  |
 
 #### Daikokuya Kodayu
 
-| [Survive](Skills/Skill-Adventure/item_462.md) | [Skill (adventure)](Categories/category_39.md) | 3,000 | Daikokuya Kodayu |  |
-| [Japanese](Skills/Skills-Language/item_3396.md) | [Skills (language)](Categories/category_42.md) | 600,000 | Daikokuya Kodayu |  |
-| [arctic languages](Skills/Skills-Language/item_4414.md) | [Skills (language)](Categories/category_42.md) | 1,000,000 | Daikokuya Kodayu |  |
+| [Survive](docs/Skills/Skill-Adventure/item_462.md) | [Skill (adventure)](docs/Categories/category_39.md) | 3,000 | Daikokuya Kodayu |  |
+| [Japanese](docs/Skills/Skills-Language/item_3396.md) | [Skills (language)](docs/Categories/category_42.md) | 600,000 | Daikokuya Kodayu |  |
+| [arctic languages](docs/Skills/Skills-Language/item_4414.md) | [Skills (language)](docs/Categories/category_42.md) | 1,000,000 | Daikokuya Kodayu |  |
 
 #### others
 
-| [Eastern European folk costume sewing method](Items/Recipe Book/item_4523.md) | [recipe book](Categories/category_22.md) | Fixed recipe |  |  |
+| [Eastern European folk costume sewing method](docs/Items/RecipeBooks/item_4523.md) | [recipe book](docs/Categories/category_22.md) | Fixed recipe |  |  |
 | 時代限定（18世紀第3期） 街娘 |
-| [Eastern European ornament manufacturing method](Items/Recipe Book/item_4492.md) | [recipe book](Categories/category_22.md) | Fixed recipe |  |  |
+| [Eastern European ornament manufacturing method](docs/Items/RecipeBooks/item_4492.md) | [recipe book](docs/Categories/category_22.md) | Fixed recipe |  |  |
 | 時代限定（18世紀第3期） 18世紀第3期　旅商人 |
-| [Eastern European armor casting method](Items/Recipe Book/item_4487.md) | [recipe book](Categories/category_22.md) | Fixed recipe |  |  |
+| [Eastern European armor casting method](docs/Items/RecipeBooks/item_4487.md) | [recipe book](docs/Categories/category_22.md) | Fixed recipe |  |  |
 | Limited period (3rd period of 18th century) Attendant |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
@@ -132,107 +132,107 @@ import TabItem from '@theme/TabItem';
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [Mode Design Collection Volume 1](Items/Recipe Book/item_92.md) | recipe book | 10,000 | tool shop owner |  |
-| [traditional russian cuisine](Items/Recipe Book/item_4491.md) | recipe book | 100,000 | tool shop owner |  |
+| [Mode Design Collection Volume 1](docs/Items/RecipeBooks/item_92.md) | recipe book | 10,000 | tool shop owner |  |
+| [traditional russian cuisine](docs/Items/RecipeBooks/item_4491.md) | recipe book | 100,000 | tool shop owner |  |
 | 時代限定（17世紀第5期、18世紀第1期、18世紀第2期、18世紀第3期） |
-| [Sword training/application](Items/Recipe Book/item_589.md) | recipe book | 50,000 | tool shop owner |  |
+| [Sword training/application](docs/Items/RecipeBooks/item_589.md) | recipe book | 50,000 | tool shop owner |  |
 | 要投資（必要投資額：不明） |
-| [Far North costume sewing method](Items/Recipe Book/item_5452.md) | recipe book | Fixed recipe | tool shop owner |  |
-| [Textile secrets/fabric book](Items/Recipe Book/item_91.md) | recipe book | 10,000 | tool shop owner |  |
+| [Far North costume sewing method](docs/Items/RecipeBooks/item_5452.md) | recipe book | Fixed recipe | tool shop owner |  |
+| [Textile secrets/fabric book](docs/Items/RecipeBooks/item_91.md) | recipe book | 10,000 | tool shop owner |  |
 
-#### [Equipment (head)](Categories/category_23.md)
+#### [Equipment (head)](docs/Categories/category_23.md)
 
-| [Kichka](Items/Equipment/Equipment-Head/item_4422.md) | Equipment (head) | 15,000 | tool shop owner |  |
+| [Kichka](docs/Items/Equipment/Equipment-Head/item_4422.md) | Equipment (head) | 15,000 | tool shop owner |  |
 | Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
-| [kokoshnik](Items/Equipment/Equipment-Head/item_4421.md) | Equipment (head) | 15,000 | tool shop owner |  |
+| [kokoshnik](docs/Items/Equipment/Equipment-Head/item_4421.md) | Equipment (head) | 15,000 | tool shop owner |  |
 | Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
-| [cossack cap](Items/Equipment/Equipment-Head/item_4425.md) | Equipment (head) | 15,000 | tool shop owner |  |
+| [cossack cap](docs/Items/Equipment/Equipment-Head/item_4425.md) | Equipment (head) | 15,000 | tool shop owner |  |
 | Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
-| [Shapka](Items/Equipment/Equipment-Head/item_4420.md) | Equipment (head) | 15,000 | tool shop owner |  |
+| [Shapka](docs/Items/Equipment/Equipment-Head/item_4420.md) | Equipment (head) | 15,000 | tool shop owner |  |
 | Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
-| [secrets](Items/Equipment/Equipment-Head/item_4426.md) | Equipment (head) | 15,000 | tool shop owner |  |
+| [secrets](docs/Items/Equipment/Equipment-Head/item_4426.md) | Equipment (head) | 15,000 | tool shop owner |  |
 | Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
-| [boyar](Items/Equipment/Equipment-Head/item_4423.md) | Equipment (head) | 15,000 | tool shop owner |  |
+| [boyar](docs/Items/Equipment/Equipment-Head/item_4423.md) | Equipment (head) | 15,000 | tool shop owner |  |
 | Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
-| [sea ​​otter fur ushanka](Items/Equipment/Equipment-Head/item_4424.md) | Equipment (head) | 15,000 | tool shop owner |  |
-| Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
-
-#### [Equipment (body)](Categories/category_24.md)
-
-| [Kaftan](Items/Equipment/Equipment-Body/item_4415.md) | Equipment (body) | 20,000 | tool shop owner |  |
-| Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
-| [cossack kaftan](Items/Equipment/Equipment-Body/item_4418.md) | Equipment (body) | 20,000 | tool shop owner |  |
-| Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
-| [sarafan](Items/Equipment/Equipment-Body/item_4417.md) | Equipment (body) | 20,000 | tool shop owner |  |
-| Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
-| [Ferreze & Half Kaftan](Items/Equipment/Equipment-Body/item_4416.md) | Equipment (body) | 20,000 | tool shop owner |  |
-| Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
-| [lamellar armor](Items/Equipment/Equipment-Body/item_4419.md) | Equipment (body) | 20,000 | tool shop owner |  |
+| [sea ​​otter fur ushanka](docs/Items/Equipment/Equipment-Head/item_4424.md) | Equipment (head) | 15,000 | tool shop owner |  |
 | Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
 
-#### [Equipment (hands)](Categories/category_25.md)
+#### [Equipment (body)](docs/Categories/category_24.md)
 
-| [jewelry glove](Items/Equipment/Equipment-Hands/item_4428.md) | Equipment (hands) | 10,000 | tool shop owner |  |
+| [Kaftan](docs/Items/Equipment/Equipment-Body/item_4415.md) | Equipment (body) | 20,000 | tool shop owner |  |
+| Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
+| [cossack kaftan](docs/Items/Equipment/Equipment-Body/item_4418.md) | Equipment (body) | 20,000 | tool shop owner |  |
+| Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
+| [sarafan](docs/Items/Equipment/Equipment-Body/item_4417.md) | Equipment (body) | 20,000 | tool shop owner |  |
+| Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
+| [Ferreze & Half Kaftan](docs/Items/Equipment/Equipment-Body/item_4416.md) | Equipment (body) | 20,000 | tool shop owner |  |
+| Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
+| [lamellar armor](docs/Items/Equipment/Equipment-Body/item_4419.md) | Equipment (body) | 20,000 | tool shop owner |  |
 | Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
 
-#### [Equipment (legs)](Categories/category_26.md)
+#### [Equipment (hands)](docs/Categories/category_25.md)
 
-| [russian boots](Items/Equipment/Equipment-Feet/item_4427.md) | Equipment (legs) | 10,000 | tool shop owner |  |
+| [jewelry glove](docs/Items/Equipment/Equipment-Hands/item_4428.md) | Equipment (hands) | 10,000 | tool shop owner |  |
 | Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Equipment (legs)](docs/Categories/category_26.md)
 
-| [black kite feather](Items/Consumables/Consumables-Landbattle/item_88.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
-| [Assortment of wound medicine](Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
-| [therapeutic drug](Items/Consumables/Consumables-Landbattle/item_89.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
-| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
+| [russian boots](docs/Items/Equipment/Equipment-Feet/item_4427.md) | Equipment (legs) | 10,000 | tool shop owner |  |
+| Period-specific (17th century 5th period, 18th century 1st period, 18th century 2nd period, 18th century 3rd period) Requires the title of one who knows time (18th century-3) |
+
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
+
+| [black kite feather](docs/Items/Consumables/Consumables-Landbattle/item_88.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
+| [Assortment of wound medicine](docs/Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
+| [therapeutic drug](docs/Items/Consumables/Consumables-Landbattle/item_89.md) | Consumables (land battle/deck battle) | 300 | tool shop owner |  |
+| [antidote](docs/Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Consumables (condition recovery)](Categories/category_21.md)
+#### [Consumables (condition recovery)](docs/Categories/category_21.md)
 
-| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
-| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
+| [Nostalgic carillon bell](docs/Items/Consumables/Consumables-Recovery/item_245.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
+| [Ship song sheet music](docs/Items/Consumables/Consumables-Recovery/item_247.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [Marine life sculpture](Items/Recipe Book/item_273.md) | recipe book | 10,000 | workshop craftsman |  |
-| [Shipwright Introduction/Craft Book](Items/Recipe Book/item_75.md) | recipe book | 10,000 | workshop craftsman |  |
-| [Shipwright Introduction/Sewing Book](Items/Recipe Book/item_74.md) | recipe book | 10,000 | workshop craftsman |  |
-| [Shipwright Introduction/Casting Book](Items/Recipe Book/item_76.md) | recipe book | 10,000 | workshop craftsman |  |
+| [Marine life sculpture](docs/Items/RecipeBooks/item_273.md) | recipe book | 10,000 | workshop craftsman |  |
+| [Shipwright Introduction/Craft Book](docs/Items/RecipeBooks/item_75.md) | recipe book | 10,000 | workshop craftsman |  |
+| [Shipwright Introduction/Sewing Book](docs/Items/RecipeBooks/item_74.md) | recipe book | 10,000 | workshop craftsman |  |
+| [Shipwright Introduction/Casting Book](docs/Items/RecipeBooks/item_76.md) | recipe book | 10,000 | workshop craftsman |  |
 
-#### [Consumables (skill activation)](Categories/category_31.md)
+#### [Consumables (skill activation)](docs/Categories/category_31.md)
 
-| [四分儀](Items/Consumables/Consumables-Skill/item_346.md) | Consumables (skill activation) | 500 | workshop craftsman |  |
-| [simple salvage rope](Items/Consumables/Consumables-Skill/item_2294.md) | Consumables (skill activation) | 500 | workshop craftsman |  |
-| [Simple towing auxiliary rope](Items/Consumables/Consumables-Skill/item_2295.md) | Consumables (skill activation) | 500 | workshop craftsman |  |
+| [四分儀](docs/Items/Consumables/Consumables-Skill/item_346.md) | Consumables (skill activation) | 500 | workshop craftsman |  |
+| [simple salvage rope](docs/Items/Consumables/Consumables-Skill/item_2294.md) | Consumables (skill activation) | 500 | workshop craftsman |  |
+| [Simple towing auxiliary rope](docs/Items/Consumables/Consumables-Skill/item_2295.md) | Consumables (skill activation) | 500 | workshop craftsman |  |
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Consumables (condition recovery)](Categories/category_21.md)
+#### [Consumables (condition recovery)](docs/Categories/category_21.md)
 
-| [spare sail](Items/Consumables/Consumables-Recovery/item_242.md) | Consumables (condition recovery) |  | peddler |  |
-| [reserve rudder](Items/Consumables/Consumables-Recovery/item_243.md) | Consumables (condition recovery) |  | peddler |  |
-| [sleep hammock](Items/Consumables/Consumables-Recovery/item_73.md) | Consumables (condition recovery) |  | peddler |  |
-| [rope of punishment](Items/Consumables/Consumables-Recovery/item_71.md) | Consumables (condition recovery) |  | peddler |  |
+| [spare sail](docs/Items/Consumables/Consumables-Recovery/item_242.md) | Consumables (condition recovery) |  | peddler |  |
+| [reserve rudder](docs/Items/Consumables/Consumables-Recovery/item_243.md) | Consumables (condition recovery) |  | peddler |  |
+| [sleep hammock](docs/Items/Consumables/Consumables-Recovery/item_73.md) | Consumables (condition recovery) |  | peddler |  |
+| [rope of punishment](docs/Items/Consumables/Consumables-Recovery/item_71.md) | Consumables (condition recovery) |  | peddler |  |
 
-#### [Consumables (naval/hand-to-hand combat)](Categories/category_30.md)
+#### [Consumables (naval/hand-to-hand combat)](docs/Categories/category_30.md)
 
-| [ceasefire agreement](Items/Consumables/Consumables-navalhand-to-hand combat/item_129.md) | Consumables (naval/hand-to-hand combat) |  | peddler |  |
-| [手術道具](Items/Consumables/Consumables-navalhand-to-hand combat/item_80.md) | Consumables (naval/hand-to-hand combat) |  | peddler |  |
-| [flag of calm](Items/Consumables/Consumables-navalhand-to-hand combat/item_84.md) | Consumables (naval/hand-to-hand combat) |  | peddler |  |
+| [ceasefire agreement](docs/Items/Consumables/Consumables-navalhand-to-hand combat/item_129.md) | Consumables (naval/hand-to-hand combat) |  | peddler |  |
+| [手術道具](docs/Items/Consumables/Consumables-navalhand-to-hand combat/item_80.md) | Consumables (naval/hand-to-hand combat) |  | peddler |  |
+| [flag of calm](docs/Items/Consumables/Consumables-navalhand-to-hand combat/item_84.md) | Consumables (naval/hand-to-hand combat) |  | peddler |  |
 
-#### [Consumables (skill activation)](Categories/category_31.md)
+#### [Consumables (skill activation)](docs/Categories/category_31.md)
 
-| [landmark ribbon](Items/Consumables/Consumables-Skill/item_316.md) | Consumables (skill activation) |  | peddler |  |
+| [landmark ribbon](docs/Items/Consumables/Consumables-Skill/item_316.md) | Consumables (skill activation) |  | peddler |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
 
@@ -241,88 +241,88 @@ import TabItem from '@theme/TabItem';
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Ship parts (additional armor)](Categories/category_35.md)
+#### [Ship parts (additional armor)](docs/Categories/category_35.md)
 
-| [elm board](Items/Ship Parts/Shipparts-Plates/item_328.md) | Ship parts (additional armor) | 13,000 | Lumbermaker |  |
-| [oak board](Items/Ship Parts/Shipparts-Plates/item_354.md) | Ship parts (additional armor) | 34,000 | Lumbermaker |  |
-| [cedar board](Items/Ship Parts/Shipparts-Plates/item_353.md) | Ship parts (additional armor) | 800 | Lumbermaker |  |
-| [beach board](Items/Ship Parts/Shipparts-Plates/item_327.md) | Ship parts (additional armor) | 6,400 | Lumbermaker |  |
-| [red pine board](Items/Ship Parts/Shipparts-Plates/item_326.md) | Ship parts (additional armor) | 2,700 | Lumbermaker |  |
-| [lightweight oak board](Items/Ship Parts/Shipparts-Plates/item_533.md) | Ship parts (additional armor) | 38,000 | Lumbermaker |  |
-| [lightweight cedar board](Items/Ship Parts/Shipparts-Plates/item_325.md) | Ship parts (additional armor) | 880 | Lumbermaker |  |
-| [lightweight beach board](Items/Ship Parts/Shipparts-Plates/item_532.md) | Ship parts (additional armor) | 7,000 | Lumbermaker |  |
-| [Lightweight red pine board](Items/Ship Parts/Shipparts-Plates/item_531.md) | Ship parts (additional armor) | 3,000 | Lumbermaker |  |
+| [elm board](docs/Items/ShipParts/Shipparts-Plates/item_328.md) | Ship parts (additional armor) | 13,000 | Lumbermaker |  |
+| [oak board](docs/Items/ShipParts/Shipparts-Plates/item_354.md) | Ship parts (additional armor) | 34,000 | Lumbermaker |  |
+| [cedar board](docs/Items/ShipParts/Shipparts-Plates/item_353.md) | Ship parts (additional armor) | 800 | Lumbermaker |  |
+| [beach board](docs/Items/ShipParts/Shipparts-Plates/item_327.md) | Ship parts (additional armor) | 6,400 | Lumbermaker |  |
+| [red pine board](docs/Items/ShipParts/Shipparts-Plates/item_326.md) | Ship parts (additional armor) | 2,700 | Lumbermaker |  |
+| [lightweight oak board](docs/Items/ShipParts/Shipparts-Plates/item_533.md) | Ship parts (additional armor) | 38,000 | Lumbermaker |  |
+| [lightweight cedar board](docs/Items/ShipParts/Shipparts-Plates/item_325.md) | Ship parts (additional armor) | 880 | Lumbermaker |  |
+| [lightweight beach board](docs/Items/ShipParts/Shipparts-Plates/item_532.md) | Ship parts (additional armor) | 7,000 | Lumbermaker |  |
+| [Lightweight red pine board](docs/Items/ShipParts/Shipparts-Plates/item_531.md) | Ship parts (additional armor) | 3,000 | Lumbermaker |  |
 
 ### Sail-maker
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Ship parts (auxiliary sails)](Categories/category_33.md)
+#### [Ship parts (auxiliary sails)](docs/Categories/category_33.md)
 
-| [outer jib](Items/Ship Parts/Shipparts-Studding-Sail/item_331.md) | Ship parts (auxiliary sails) | 18,000 | Sail-maker |  |
-| [Outer & inner jib](Items/Ship Parts/Shipparts-Studding-Sail/item_332.md) | Ship parts (auxiliary sails) | 23,000 | Sail-maker |  |
-| [inner jib](Items/Ship Parts/Shipparts-Studding-Sail/item_279.md) | Ship parts (auxiliary sails) | 1,700 | Sail-maker |  |
-| [Vorgernstaisl](Items/Ship Parts/Shipparts-Studding-Sail/item_333.md) | Ship parts (auxiliary sails) | 22,000 | Sail-maker |  |
-| [Forestaisle](Items/Ship Parts/Shipparts-Studding-Sail/item_280.md) | Ship parts (auxiliary sails) | 8,300 | Sail-maker |  |
-| [Foretop Gernsur](Items/Ship Parts/Shipparts-Studding-Sail/item_282.md) | Ship parts (auxiliary sails) | 2,400 | Sail-maker |  |
-| [Foretop staysle](Items/Ship Parts/Shipparts-Studding-Sail/item_357.md) | Ship parts (auxiliary sails) | 29,000 | Sail-maker |  |
-| [Foreroyalgernsl](Items/Ship Parts/Shipparts-Studding-Sail/item_330.md) | Ship parts (auxiliary sails) | 26,000 | Sail-maker |  |
-| [bonnet](Items/Ship Parts/Shipparts-Studding-Sail/item_329.md) | Ship parts (auxiliary sails) | 25,000 | Sail-maker |  |
-| [mizungernstaisl](Items/Ship Parts/Shipparts-Studding-Sail/item_334.md) | Ship parts (auxiliary sails) | 22,000 | Sail-maker |  |
-| [mizzen staple](Items/Ship Parts/Shipparts-Studding-Sail/item_281.md) | Ship parts (auxiliary sails) | 11,000 | Sail-maker |  |
-| [mizzen top gelrunsle](Items/Ship Parts/Shipparts-Studding-Sail/item_283.md) | Ship parts (auxiliary sails) | 4,200 | Sail-maker |  |
-| [mizzen royal gelrunsle](Items/Ship Parts/Shipparts-Studding-Sail/item_284.md) | Ship parts (auxiliary sails) | 21,000 | Sail-maker |  |
-| [small inner jib](Items/Ship Parts/Shipparts-Studding-Sail/item_278.md) | Ship parts (auxiliary sails) | 500 | Sail-maker |  |
-| [wide bonnet](Items/Ship Parts/Shipparts-Studding-Sail/item_356.md) | Ship parts (auxiliary sails) | 38,000 | Sail-maker |  |
+| [outer jib](docs/Items/ShipParts/Shipparts-Studding-Sail/item_331.md) | Ship parts (auxiliary sails) | 18,000 | Sail-maker |  |
+| [Outer & inner jib](docs/Items/ShipParts/Shipparts-Studding-Sail/item_332.md) | Ship parts (auxiliary sails) | 23,000 | Sail-maker |  |
+| [inner jib](docs/Items/ShipParts/Shipparts-Studding-Sail/item_279.md) | Ship parts (auxiliary sails) | 1,700 | Sail-maker |  |
+| [Vorgernstaisl](docs/Items/ShipParts/Shipparts-Studding-Sail/item_333.md) | Ship parts (auxiliary sails) | 22,000 | Sail-maker |  |
+| [Forestaisle](docs/Items/ShipParts/Shipparts-Studding-Sail/item_280.md) | Ship parts (auxiliary sails) | 8,300 | Sail-maker |  |
+| [Foretop Gernsur](docs/Items/ShipParts/Shipparts-Studding-Sail/item_282.md) | Ship parts (auxiliary sails) | 2,400 | Sail-maker |  |
+| [Foretop staysle](docs/Items/ShipParts/Shipparts-Studding-Sail/item_357.md) | Ship parts (auxiliary sails) | 29,000 | Sail-maker |  |
+| [Foreroyalgernsl](docs/Items/ShipParts/Shipparts-Studding-Sail/item_330.md) | Ship parts (auxiliary sails) | 26,000 | Sail-maker |  |
+| [bonnet](docs/Items/ShipParts/Shipparts-Studding-Sail/item_329.md) | Ship parts (auxiliary sails) | 25,000 | Sail-maker |  |
+| [mizungernstaisl](docs/Items/ShipParts/Shipparts-Studding-Sail/item_334.md) | Ship parts (auxiliary sails) | 22,000 | Sail-maker |  |
+| [mizzen staple](docs/Items/ShipParts/Shipparts-Studding-Sail/item_281.md) | Ship parts (auxiliary sails) | 11,000 | Sail-maker |  |
+| [mizzen top gelrunsle](docs/Items/ShipParts/Shipparts-Studding-Sail/item_283.md) | Ship parts (auxiliary sails) | 4,200 | Sail-maker |  |
+| [mizzen royal gelrunsle](docs/Items/ShipParts/Shipparts-Studding-Sail/item_284.md) | Ship parts (auxiliary sails) | 21,000 | Sail-maker |  |
+| [small inner jib](docs/Items/ShipParts/Shipparts-Studding-Sail/item_278.md) | Ship parts (auxiliary sails) | 500 | Sail-maker |  |
+| [wide bonnet](docs/Items/ShipParts/Shipparts-Studding-Sail/item_356.md) | Ship parts (auxiliary sails) | 38,000 | Sail-maker |  |
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Ship parts (special weapons)](Categories/category_37.md)
+#### [Ship parts (special weapons)](docs/Categories/category_37.md)
 
-| [Corvus](Items/Ship Parts/Shipparts-Special-Weapons/item_194.md) | Ship parts (special weapons) | 24,000 | weapon craftsman |  |
-| [rum](Items/Ship Parts/Shipparts-Special-Weapons/item_191.md) | Ship parts (special weapons) | 4,800 | weapon craftsman |  |
-| [small corvus](Items/Ship Parts/Shipparts-Special-Weapons/item_193.md) | Ship parts (special weapons) | 3,000 | weapon craftsman |  |
-| [small ram](Items/Ship Parts/Shipparts-Special-Weapons/item_190.md) | Ship parts (special weapons) | 1,000 | weapon craftsman |  |
-| [small poop](Items/Ship Parts/Shipparts-Special-Weapons/item_198.md) | Ship parts (special weapons) | 39,000 | weapon craftsman |  |
-| [small ship forecastle](Items/Ship Parts/Shipparts-Special-Weapons/item_195.md) | Ship parts (special weapons) | 5,000 | weapon craftsman |  |
-| [forecastle](Items/Ship Parts/Shipparts-Special-Weapons/item_241.md) | Ship parts (special weapons) | 16,000 | weapon craftsman |  |
-| [additional spanker](Items/Ship Parts/Shipparts-Special-Weapons/item_200.md) | Ship parts (special weapons) | 55,000 | weapon craftsman |  |
-| [additional split](Items/Ship Parts/Shipparts-Special-Weapons/item_197.md) | Ship parts (special weapons) | 44,000 | weapon craftsman |  |
-| [additional small spanker](Items/Ship Parts/Shipparts-Special-Weapons/item_199.md) | Ship parts (special weapons) | 3,500 | weapon craftsman |  |
-| [additional small split](Items/Ship Parts/Shipparts-Special-Weapons/item_196.md) | Ship parts (special weapons) | 2,000 | weapon craftsman |  |
+| [Corvus](docs/Items/ShipParts/Shipparts-Special-Weapons/item_194.md) | Ship parts (special weapons) | 24,000 | weapon craftsman |  |
+| [rum](docs/Items/ShipParts/Shipparts-Special-Weapons/item_191.md) | Ship parts (special weapons) | 4,800 | weapon craftsman |  |
+| [small corvus](docs/Items/ShipParts/Shipparts-Special-Weapons/item_193.md) | Ship parts (special weapons) | 3,000 | weapon craftsman |  |
+| [small ram](docs/Items/ShipParts/Shipparts-Special-Weapons/item_190.md) | Ship parts (special weapons) | 1,000 | weapon craftsman |  |
+| [small poop](docs/Items/ShipParts/Shipparts-Special-Weapons/item_198.md) | Ship parts (special weapons) | 39,000 | weapon craftsman |  |
+| [small ship forecastle](docs/Items/ShipParts/Shipparts-Special-Weapons/item_195.md) | Ship parts (special weapons) | 5,000 | weapon craftsman |  |
+| [forecastle](docs/Items/ShipParts/Shipparts-Special-Weapons/item_241.md) | Ship parts (special weapons) | 16,000 | weapon craftsman |  |
+| [additional spanker](docs/Items/ShipParts/Shipparts-Special-Weapons/item_200.md) | Ship parts (special weapons) | 55,000 | weapon craftsman |  |
+| [additional split](docs/Items/ShipParts/Shipparts-Special-Weapons/item_197.md) | Ship parts (special weapons) | 44,000 | weapon craftsman |  |
+| [additional small spanker](docs/Items/ShipParts/Shipparts-Special-Weapons/item_199.md) | Ship parts (special weapons) | 3,500 | weapon craftsman |  |
+| [additional small split](docs/Items/ShipParts/Shipparts-Special-Weapons/item_196.md) | Ship parts (special weapons) | 2,000 | weapon craftsman |  |
 
-#### [Ship parts (cannon)](Categories/category_38.md)
+#### [Ship parts (cannon)](docs/Categories/category_38.md)
 
-| [12 carronades](Items/Ship Parts/Shipparts-Cannons/item_1162.md) | Ship parts (cannon) |  | weapon craftsman |  |
-| [10 Saker cannons](Items/Ship Parts/Shipparts-Cannons/item_187.md) | Ship parts (cannon) | 79,000 | weapon craftsman |  |
-| [2 saker cannons](Items/Ship Parts/Shipparts-Cannons/item_183.md) | Ship parts (cannon) | 3,200 | weapon craftsman |  |
-| [4 saker cannons](Items/Ship Parts/Shipparts-Cannons/item_184.md) | Ship parts (cannon) | 12,600 | weapon craftsman |  |
-| [6 Saker cannons](Items/Ship Parts/Shipparts-Cannons/item_185.md) | Ship parts (cannon) | 28,400 | weapon craftsman |  |
-| [8 Saker cannons](Items/Ship Parts/Shipparts-Cannons/item_186.md) | Ship parts (cannon) | 50,500 | weapon craftsman |  |
-| [2 demi culverin cannons](Items/Ship Parts/Shipparts-Cannons/item_188.md) | Ship parts (cannon) | 4,000 | weapon craftsman |  |
-| [4 demi culverin cannons](Items/Ship Parts/Shipparts-Cannons/item_189.md) | Ship parts (cannon) | 16,200 | weapon craftsman |  |
-| [2 falcon guns](Items/Ship Parts/Shipparts-Cannons/item_174.md) | Ship parts (cannon) | 500 | weapon craftsman |  |
-| [4 falcon guns](Items/Ship Parts/Shipparts-Cannons/item_175.md) | Ship parts (cannon) | 2,000 | weapon craftsman |  |
-| [6 falcon guns](Items/Ship Parts/Shipparts-Cannons/item_176.md) | Ship parts (cannon) | 4,600 | weapon craftsman |  |
-| [8 falcon guns](Items/Ship Parts/Shipparts-Cannons/item_177.md) | Ship parts (cannon) | 8,100 | weapon craftsman |  |
-| [10 minion cannons](Items/Ship Parts/Shipparts-Cannons/item_182.md) | Ship parts (cannon) | 34,800 | weapon craftsman |  |
-| [2 minion cannons](Items/Ship Parts/Shipparts-Cannons/item_178.md) | Ship parts (cannon) | 1,400 | weapon craftsman |  |
-| [4 minion cannons](Items/Ship Parts/Shipparts-Cannons/item_179.md) | Ship parts (cannon) | 5,600 | weapon craftsman |  |
-| [6 minion cannons](Items/Ship Parts/Shipparts-Cannons/item_180.md) | Ship parts (cannon) | 12,400 | weapon craftsman |  |
-| [8 minion cannons](Items/Ship Parts/Shipparts-Cannons/item_181.md) | Ship parts (cannon) | 22,400 | weapon craftsman |  |
+| [12 carronades](docs/Items/ShipParts/Shipparts-Cannons/item_1162.md) | Ship parts (cannon) |  | weapon craftsman |  |
+| [10 Saker cannons](docs/Items/ShipParts/Shipparts-Cannons/item_187.md) | Ship parts (cannon) | 79,000 | weapon craftsman |  |
+| [2 saker cannons](docs/Items/ShipParts/Shipparts-Cannons/item_183.md) | Ship parts (cannon) | 3,200 | weapon craftsman |  |
+| [4 saker cannons](docs/Items/ShipParts/Shipparts-Cannons/item_184.md) | Ship parts (cannon) | 12,600 | weapon craftsman |  |
+| [6 Saker cannons](docs/Items/ShipParts/Shipparts-Cannons/item_185.md) | Ship parts (cannon) | 28,400 | weapon craftsman |  |
+| [8 Saker cannons](docs/Items/ShipParts/Shipparts-Cannons/item_186.md) | Ship parts (cannon) | 50,500 | weapon craftsman |  |
+| [2 demi culverin cannons](docs/Items/ShipParts/Shipparts-Cannons/item_188.md) | Ship parts (cannon) | 4,000 | weapon craftsman |  |
+| [4 demi culverin cannons](docs/Items/ShipParts/Shipparts-Cannons/item_189.md) | Ship parts (cannon) | 16,200 | weapon craftsman |  |
+| [2 falcon guns](docs/Items/ShipParts/Shipparts-Cannons/item_174.md) | Ship parts (cannon) | 500 | weapon craftsman |  |
+| [4 falcon guns](docs/Items/ShipParts/Shipparts-Cannons/item_175.md) | Ship parts (cannon) | 2,000 | weapon craftsman |  |
+| [6 falcon guns](docs/Items/ShipParts/Shipparts-Cannons/item_176.md) | Ship parts (cannon) | 4,600 | weapon craftsman |  |
+| [8 falcon guns](docs/Items/ShipParts/Shipparts-Cannons/item_177.md) | Ship parts (cannon) | 8,100 | weapon craftsman |  |
+| [10 minion cannons](docs/Items/ShipParts/Shipparts-Cannons/item_182.md) | Ship parts (cannon) | 34,800 | weapon craftsman |  |
+| [2 minion cannons](docs/Items/ShipParts/Shipparts-Cannons/item_178.md) | Ship parts (cannon) | 1,400 | weapon craftsman |  |
+| [4 minion cannons](docs/Items/ShipParts/Shipparts-Cannons/item_179.md) | Ship parts (cannon) | 5,600 | weapon craftsman |  |
+| [6 minion cannons](docs/Items/ShipParts/Shipparts-Cannons/item_180.md) | Ship parts (cannon) | 12,400 | weapon craftsman |  |
+| [8 minion cannons](docs/Items/ShipParts/Shipparts-Cannons/item_181.md) | Ship parts (cannon) | 22,400 | weapon craftsman |  |
   </TabItem>
   <TabItem value="Tavern Master" label="Tavern Master">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [Russian Tavern cuisine](Items/Recipe Book/item_4511.md) | recipe book | Fixed recipe | Tavern Master |  |
+| [Russian Tavern cuisine](docs/Items/RecipeBooks/item_4511.md) | recipe book | Fixed recipe | Tavern Master |  |
 | It doesn't seem to be time limited. |
   </TabItem>
 </Tabs>

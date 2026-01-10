@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient tools](Quests/Other/quest_2590.md)** | Treasures鑑定(9) | 探索(9)Treasures鑑定(9) | Experience：290 |
+| **[Map of ancient tools](docs/Quests/Other/2001-3000/quest_2590.md)** | Treasures鑑定(9) | 探索(9)Treasures鑑定(9) | Experience：290 |

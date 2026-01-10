@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Plague again? ](Quests/Adventure/quest_6044.md)** | Adventure Quest (3) 18th Century 2nd Period | Exploration (2) Treasures Appraisal (4) Indian Languages | Reward: 122,200 / Advance payment: 10,000 Experience: 130 / Fame: 65 |
+| **[Plague again? ](docs/Quests/Adventure/6001-7000/quest_6044.md)** | Adventure Quest (3) 18th Century 2nd Period | Exploration (2) Treasures Appraisal (4) Indian Languages | Reward: 122,200 / Advance payment: 10,000 Experience: 130 / Fame: 65 |

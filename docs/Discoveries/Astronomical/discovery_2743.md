@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Constellation Stars derived from the Bible](Quests/Adventure/quest_5334.md)** | Adventure Quest (5) 16th Century 5th Period | Astronomy (7) Visual recognition (5) Italian | Reward: 165,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |
+| **[Constellation Stars derived from the Bible](docs/Quests/Adventure/5001-6000/quest_5334.md)** | Adventure Quest (5) 16th Century 5th Period | Astronomy (7) Visual recognition (5) Italian | Reward: 165,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |

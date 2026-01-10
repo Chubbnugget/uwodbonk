@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Another Temple of Athena](Quests/Adventure/quest_4954.md)** | Adventure Quest (5) B.C. | Archeology (7) Visualization (5) Greek | Reward: 91,000 Experience: 150 / Fame: 70 |
+| **[Another Temple of Athena](docs/Quests/Adventure/4001-5000/quest_4954.md)** | Adventure Quest (5) B.C. | Archeology (7) Visualization (5) Greek | Reward: 91,000 Experience: 150 / Fame: 70 |

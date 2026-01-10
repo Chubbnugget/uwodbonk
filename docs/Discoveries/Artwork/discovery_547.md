@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Social Painter](Quests/Adventure/quest_633.md)** | Adventure quest (7) 17th century 1st period | Exploration (7) Art (9) Unlocking (7) | Reward: 167,000Experience: 285/ Fame: 115 |
+| **[Social Painter](docs/Quests/Adventure/1-1000/quest_633.md)** | Adventure quest (7) 17th century 1st period | Exploration (7) Art (9) Unlocking (7) | Reward: 167,000Experience: 285/ Fame: 115 |

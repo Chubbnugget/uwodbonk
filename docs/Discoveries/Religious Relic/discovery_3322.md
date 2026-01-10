@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Things that tell folklore](Quests/Adventure/quest_6170.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) Turkish | Reward: 90,000 / Advance payment: 0Experience: 140 / Fame: 75 |
+| **[Things that tell folklore](docs/Quests/Adventure/6001-7000/quest_6170.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) Turkish | Reward: 90,000 / Advance payment: 0Experience: 140 / Fame: 75 |

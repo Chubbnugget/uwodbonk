@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indian Secret Book](Quests/Adventure/quest_2100.md)** | Adventure quest (6) | Religious Studies (7) Exploration (5) Unlocking (5) | Reward: 99,000 / Advance payment: 0Experience: 160 / Fame: 75 |
+| **[Indian Secret Book](docs/Quests/Adventure/2001-3000/quest_2100.md)** | Adventure quest (6) | Religious Studies (7) Exploration (5) Unlocking (5) | Reward: 99,000 / Advance payment: 0Experience: 160 / Fame: 75 |

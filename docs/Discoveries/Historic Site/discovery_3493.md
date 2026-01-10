@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of the city of the underworld](Quests/Other/quest_6412.md)** | Pursuit Quest (3) B.C. | Archeology (10) Visualization (8) Spanish (1) | Reward: 224,000 / Advance payment: 0Experience: 320 |
+| **[Additional investigation of the city of the underworld](docs/Quests/Other/6001-7000/quest_6412.md)** | Pursuit Quest (3) B.C. | Archeology (10) Visualization (8) Spanish (1) | Reward: 224,000 / Advance payment: 0Experience: 320 |

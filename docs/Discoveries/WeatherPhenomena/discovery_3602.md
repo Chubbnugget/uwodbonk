@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Synchronized light emission phenomenon](Quests/Other/quest_6535.md)** | Weather/phenomena (1) | Visual recognition |  |
+| **[Synchronized light emission phenomenon](docs/Quests/Other/6001-7000/quest_6535.md)** | Weather/phenomena (1) | Visual recognition |  |

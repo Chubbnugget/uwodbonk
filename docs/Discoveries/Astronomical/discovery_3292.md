@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The last "God"](Quests/Adventure/quest_6107.md)** | Adventure quest (7) | Astronomy (10) Visualization (8) Arabic | Reward: 163,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |
+| **[The last "God"](docs/Quests/Adventure/6001-7000/quest_6107.md)** | Adventure quest (7) | Astronomy (10) Visualization (8) Arabic | Reward: 163,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |

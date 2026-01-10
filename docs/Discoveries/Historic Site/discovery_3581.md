@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Settlement ruins on Cyprus island](Quests/Adventure/quest_6509.md)** | Adventure quest (4) | Archeology (5) Visualization (3) French | Reward: 93,000 / Advance payment: 10,000 Experience: 150 / Fame: 75 |
+| **[Settlement ruins on Cyprus island](docs/Quests/Adventure/6001-7000/quest_6509.md)** | Adventure quest (4) | Archeology (5) Visualization (3) French | Reward: 93,000 / Advance payment: 10,000 Experience: 150 / Fame: 75 |

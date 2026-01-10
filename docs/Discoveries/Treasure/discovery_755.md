@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of red gem vein](Quests/Other/quest_767.md)** | Treasures鑑定(12) | 探索(12)Treasures鑑定(12) |  |
+| **[Map of red gem vein](docs/Quests/Other/1-1000/quest_767.md)** | Treasures鑑定(12) | 探索(12)Treasures鑑定(12) |  |

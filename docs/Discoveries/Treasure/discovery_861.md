@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Taste of the four seasons](Quests/Adventure/quest_2327.md)** | Adventure quest (7) | 探索(6)Treasures鑑定(8)日本語 | Reward: 137,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Taste of the four seasons](docs/Quests/Adventure/2001-3000/quest_2327.md)** | Adventure quest (7) | 探索(6)Treasures鑑定(8)日本語 | Reward: 137,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

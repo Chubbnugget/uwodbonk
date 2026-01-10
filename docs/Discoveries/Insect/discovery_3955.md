@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Love story of a young aristocrat](Quests/Adventure/quest_6943.md)** | Adventure quest (10) | Ecological research (14) Biology (16) Mayan languages ​​(16) | Reward: 612,000/Advance: 60,000Experience: 470 |
+| **[Love story of a young aristocrat](docs/Quests/Adventure/6001-7000/quest_6943.md)** | Adventure quest (10) | Ecological research (14) Biology (16) Mayan languages ​​(16) | Reward: 612,000/Advance: 60,000Experience: 470 |

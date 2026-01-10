@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unfinished map](Quests/Other/quest_6624.md)** | Geography学(13) | Geography(13)Visibility(13) |  |
+| **[Unfinished map](docs/Quests/Other/6001-7000/quest_6624.md)** | Geography学(13) | Geography(13)Visibility(13) |  |

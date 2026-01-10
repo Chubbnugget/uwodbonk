@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ecological survey of cranes in North America](Quests/Adventure/quest_3847.md)** | Adventure quest (3) 19th century | Ecological research (2) Biology (4) North American languages | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 130 |
+| **[Ecological survey of cranes in North America](docs/Quests/Adventure/3001-4000/quest_3847.md)** | Adventure quest (3) 19th century | Ecological research (2) Biology (4) North American languages | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 130 |

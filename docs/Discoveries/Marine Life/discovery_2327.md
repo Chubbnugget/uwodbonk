@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Semi-gurnard](Quests/Other/quest_1921.md)** | Fishing (3) | Fishing (3) |  |
+| **[Semi-gurnard](docs/Quests/Other/1001-2000/quest_1921.md)** | Fishing (3) | Fishing (3) |  |

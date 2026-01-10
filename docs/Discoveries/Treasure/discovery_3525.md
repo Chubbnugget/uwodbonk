@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Princess's scented leather gloves](Quests/Other/quest_6447.md)** | Legacy(1) | - |  |
+| **[Princess's scented leather gloves](docs/Quests/Other/6001-7000/quest_6447.md)** | Legacy(1) | - |  |

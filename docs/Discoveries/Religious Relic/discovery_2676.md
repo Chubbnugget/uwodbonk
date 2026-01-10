@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Temple relief map](Quests/Other/quest_5260.md)** | Re-examination reward (5) | Religious Studies(5)Exploration(5) |  |
+| **[Temple relief map](docs/Quests/Other/5001-6000/quest_5260.md)** | Re-examination reward (5) | Religious Studies(5)Exploration(5) |  |

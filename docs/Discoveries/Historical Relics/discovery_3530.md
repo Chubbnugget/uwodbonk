@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kiwa no Kaori](Quests/Other/quest_6452.md)** | Legacy(1) | - |  |
+| **[Kiwa no Kaori](docs/Quests/Other/6001-7000/quest_6452.md)** | Legacy(1) | - |  |

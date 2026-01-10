@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Beauty of Knowledge](Quests/Adventure/quest_832.md)** | Adventure Quest (8) B.C. | Exploration (7) Archeology (9) Unlocking (7) | Reward: 211,000 / Advance payment: 0Experience: 230 / Fame: 100 |
+| **[The Beauty of Knowledge](docs/Quests/Adventure/1-1000/quest_832.md)** | Adventure Quest (8) B.C. | Exploration (7) Archeology (9) Unlocking (7) | Reward: 211,000 / Advance payment: 0Experience: 230 / Fame: 100 |

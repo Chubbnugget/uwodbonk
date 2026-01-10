@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | 貫通 |
 | **Type** | thing |
-| **Group** | [Skill (combat)](Categories/category_41.md) |
+| **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 80,000 |
 | **Description** | The destructive power of cannons increases. Acquisition requirements 0/0/20/total 25 Prerequisite skills Ballistics (2) |
 | **Last Updated** | 2005-04-02 09:58:31 System |

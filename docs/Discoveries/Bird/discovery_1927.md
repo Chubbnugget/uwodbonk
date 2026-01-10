@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black-faced migratory bird](Quests/Adventure/quest_2668.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Korean | Reward: 121,000/ Advance: 10,000Experience: 170/ Fame: 160 |
+| **[Black-faced migratory bird](docs/Quests/Adventure/2001-3000/quest_2668.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Korean | Reward: 121,000/ Advance: 10,000Experience: 170/ Fame: 160 |

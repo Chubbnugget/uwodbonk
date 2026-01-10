@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flowers for hair](Quests/Adventure/quest_2259.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Oceanian languages | Reward: 94,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Flowers for hair](docs/Quests/Adventure/2001-3000/quest_2259.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Oceanian languages | Reward: 94,000 / Advance payment: 0Experience: 150 / Fame: 75 |

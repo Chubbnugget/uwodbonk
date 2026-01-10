@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Amsterdam](Quests/Other/quest_5017.md)** | Port/village (1) | - |  |
+| **[Amsterdam](docs/Quests/Other/5001-6000/quest_5017.md)** | Port/village (1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Al Aziz's Plan](Quests/Other/quest_6400.md)** | Legacy(1) | - |  |
+| **[Al Aziz's Plan](docs/Quests/Other/6001-7000/quest_6400.md)** | Legacy(1) | - |  |

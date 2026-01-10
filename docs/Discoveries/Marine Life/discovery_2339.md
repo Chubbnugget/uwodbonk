@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Nile Arowana](Quests/Other/quest_1811.md)** | Fishing (3) | Fishing (3) |  |
+| **[Nile Arowana](docs/Quests/Other/1001-2000/quest_1811.md)** | Fishing (3) | Fishing (3) |  |

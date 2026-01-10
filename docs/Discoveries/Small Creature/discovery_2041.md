@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A fast-running rabbit](Quests/Adventure/quest_874.md)** | Adventure quest (3) | Ecological research (1) Biology (3) West African languages | Reward: 22,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[A fast-running rabbit](docs/Quests/Adventure/1-1000/quest_874.md)** | Adventure quest (3) | Ecological research (1) Biology (3) West African languages | Reward: 22,000 / Advance payment: 0Experience: 130 / Fame: 65 |

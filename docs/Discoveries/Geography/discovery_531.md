@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ocean of the Sky](Quests/Adventure/quest_2900.md)** | Adventure quest (6) | Geography (8) Visual recognition (6) Chinese | Reward: 121,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Ocean of the Sky](docs/Quests/Adventure/2001-3000/quest_2900.md)** | Adventure quest (6) | Geography (8) Visual recognition (6) Chinese | Reward: 121,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

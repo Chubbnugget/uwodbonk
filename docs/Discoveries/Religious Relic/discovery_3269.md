@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tip and Heresy](Quests/Adventure/quest_6104.md)** | Adventure quest (5) | Religious Studies (6) Exploration (4) Italian | Reward: 74,000 / Advance payment: 0Experience: 195 / Fame: 105 |
+| **[Tip and Heresy](docs/Quests/Adventure/6001-7000/quest_6104.md)** | Adventure quest (5) | Religious Studies (6) Exploration (4) Italian | Reward: 74,000 / Advance payment: 0Experience: 195 / Fame: 105 |

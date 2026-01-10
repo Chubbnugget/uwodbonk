@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Trismegistus](Quests/Other/quest_3419.md)** | Treasure hunting (6) | Religious Studies(11)Exploration(9)Treasures Identification(7) | Experience：1,870 |
+| **[Trismegistus](docs/Quests/Other/3001-4000/quest_3419.md)** | Treasure hunting (6) | Religious Studies(11)Exploration(9)Treasures Identification(7) | Experience：1,870 |

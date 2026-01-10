@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[ローマ地下遺跡（中層）](Quests/Other/quest_3659.md)** | Dungeon (1) | - | Experience：510 |
+| **[ローマ地下遺跡（中層）](docs/Quests/Other/3001-4000/quest_3659.md)** | Dungeon (1) | - | Experience：510 |

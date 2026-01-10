@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red Sea](Quests/Adventure/quest_573.md)** | Adventure quest (5) | Geography (4) Visual recognition (2) Arabic | Reward: 52,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Red Sea](docs/Quests/Adventure/1-1000/quest_573.md)** | Adventure quest (5) | Geography (4) Visual recognition (2) Arabic | Reward: 52,000 / Advance payment: 0Experience: 150 / Fame: 70 |

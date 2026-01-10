@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Algin](Quests/Other/quest_5018.md)** | Port/village (1) | - |  |
+| **[Algin](docs/Quests/Other/5001-6000/quest_5018.md)** | Port/village (1) | - |  |

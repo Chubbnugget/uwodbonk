@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Akame](Quests/Other/quest_2421.md)** | Fishing (1) | Fishing (2) |  |
+| **[Akame](docs/Quests/Other/2001-3000/quest_2421.md)** | Fishing (1) | Fishing (2) |  |

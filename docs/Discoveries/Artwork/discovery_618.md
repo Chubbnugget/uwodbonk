@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Li Di's masterpiece](Quests/Adventure/quest_2849.md)** | Adventure quest (6) | Exploration (4) Art (6) Unlocking (4) | Reward: 332,000 / Advance payment: 30,000 Experience: 350 / Fame: 145 |
+| **[Li Di's masterpiece](docs/Quests/Adventure/2001-3000/quest_2849.md)** | Adventure quest (6) | Exploration (4) Art (6) Unlocking (4) | Reward: 332,000 / Advance payment: 30,000 Experience: 350 / Fame: 145 |

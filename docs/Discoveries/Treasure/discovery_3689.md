@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Coin of Augustus](Quests/Other/quest_6636.md)** | Legacy(1) | - |  |
+| **[Coin of Augustus](docs/Quests/Other/6001-7000/quest_6636.md)** | Legacy(1) | - |  |

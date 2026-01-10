@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Portrait of grandfather](Quests/Adventure/quest_3170.md)** | Adventure quest (8) | Exploration (9) Treasures Appraisal (11) Italian | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Portrait of grandfather](docs/Quests/Adventure/3001-4000/quest_3170.md)** | Adventure quest (8) | Exploration (9) Treasures Appraisal (11) Italian | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |

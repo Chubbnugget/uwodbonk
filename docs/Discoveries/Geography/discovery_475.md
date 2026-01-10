@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mountains of Lebanon](Quests/Adventure/quest_2046.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) | Reward: 78,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Mountains of Lebanon](docs/Quests/Adventure/2001-3000/quest_2046.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) | Reward: 78,000 / Advance payment: 0Experience: 140 / Fame: 70 |

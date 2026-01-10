@@ -35,12 +35,12 @@ type: NPC
 
 | Item Name | Group | Purchase Price | Notes |
 | --- | --- | --- | --- |
-| [Master Caribbean Cuisine](Items/Recipe Book/item_2847.md) | [Recipe book](Categories/category_22.md) | Fixed recipe | [Trujillo](Ports/port_115.md) |
+| [Master Caribbean Cuisine](docs/Items/RecipeBooks/item_2847.md) | [Recipe book](docs/Categories/category_22.md) | Fixed recipe | [Trujillo](docs/Ports/port_115.md) |
 
 ## NPC: Item Name
 
 | Item Name | Group | Purchase Price | Notes |
 | --- | --- | --- | --- |
-| [Master Caribbean Cuisine](Items/Recipe Book/item_2847.md) | [Recipe book](Categories/category_22.md) | Fixed recipe | [Trujillo](Ports/port_115.md) |
+| [Master Caribbean Cuisine](docs/Items/RecipeBooks/item_2847.md) | [Recipe book](docs/Categories/category_22.md) | Fixed recipe | [Trujillo](docs/Ports/port_115.md) |
 
 ## NPC: Item Name

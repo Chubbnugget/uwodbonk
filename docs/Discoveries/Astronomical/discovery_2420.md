@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legend of Beauty](Quests/Adventure/quest_3920.md)** | Adventure Quest (2) Mythology Era | Astronomy (3) Visual recognition (1) Italian | Reward: 116,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Legend of Beauty](docs/Quests/Adventure/3001-4000/quest_3920.md)** | Adventure Quest (2) Mythology Era | Astronomy (3) Visual recognition (1) Italian | Reward: 116,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

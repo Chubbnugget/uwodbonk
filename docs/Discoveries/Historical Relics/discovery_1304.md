@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Large island map](Quests/Other/quest_2592.md)** | Archeology(5) | Exploration (5) Archeology (5) Unlocking (5) |  |
+| **[Large island map](docs/Quests/Other/2001-3000/quest_2592.md)** | Archeology(5) | Exploration (5) Archeology (5) Unlocking (5) |  |

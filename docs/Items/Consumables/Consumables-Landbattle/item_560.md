@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | throwing knife |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 150 |
 | **Description** | Items for land combat. A weapon that can be thrown at enemies to cause damage. Effect/medium. Effect when used: Stab attack (In land battle, perform a stab attack on the enemy. Effective against guard mode.) Rank 6 Required gauge 75 Cooldown time 300 |

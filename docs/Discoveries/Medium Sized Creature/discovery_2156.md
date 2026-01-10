@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wild Dog Map](Quests/Other/quest_1029.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |
+| **[Wild Dog Map](docs/Quests/Other/1001-2000/quest_1029.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |

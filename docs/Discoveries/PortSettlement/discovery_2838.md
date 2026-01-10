@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Le Havre](Quests/Other/quest_5508.md)** | Port/village (1) | - | Experience：33 |
+| **[Le Havre](docs/Quests/Other/5001-6000/quest_5508.md)** | Port/village (1) | - | Experience：33 |

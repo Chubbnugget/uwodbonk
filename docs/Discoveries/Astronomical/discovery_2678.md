@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Find the disappeared Stars](Quests/Adventure/quest_5242.md)** | Adventure quest (9) 19th century | Astronomy (13) Visualization (11) German (1) | Reward: 582,000 / Advance payment: 50,000 Experience: 450 / Fame: 280 |
+| **[Find the disappeared Stars](docs/Quests/Adventure/5001-6000/quest_5242.md)** | Adventure quest (9) 19th century | Astronomy (13) Visualization (11) German (1) | Reward: 582,000 / Advance payment: 50,000 Experience: 450 / Fame: 280 |

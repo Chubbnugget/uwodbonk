@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Calicut](Quests/Other/quest_5038.md)** | Port/village (1) | - |  |
+| **[Calicut](docs/Quests/Other/5001-6000/quest_5038.md)** | Port/village (1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of a whale with a head resembling a hammer](Quests/Other/quest_2373.md)** | Biology学(5) | Ecological Survey(5)Biology(5) | Experience：150 |
+| **[Map of a whale with a head resembling a hammer](docs/Quests/Other/2001-3000/quest_2373.md)** | Biology学(5) | Ecological Survey(5)Biology(5) | Experience：150 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Busan](Quests/Other/quest_5195.md)** | Port/village (1) | - |  |
+| **[Busan](docs/Quests/Other/5001-6000/quest_5195.md)** | Port/village (1) | - |  |

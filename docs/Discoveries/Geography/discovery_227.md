@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Taiga investigation](Quests/Adventure/quest_1243.md)** | Adventure quest (5) | Geography (5) Visual recognition (3) Spanish | Reward: 90,000/ Advance payment: 2,000 Experience: 165/ Fame: 130 |
+| **[Taiga investigation](docs/Quests/Adventure/1001-2000/quest_1243.md)** | Adventure quest (5) | Geography (5) Visual recognition (3) Spanish | Reward: 90,000/ Advance payment: 2,000 Experience: 165/ Fame: 130 |

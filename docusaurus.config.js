@@ -1,6 +1,5 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
-import plugins from './plugins';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -20,20 +19,33 @@ const config = {
   projectName: 'uwodbonk', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'ignore',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
-future: {
-  v4: true,
-  experimental_faster: true,
-},
-  plugins: plugins,
+  future: {
+    v4: {
+      removeLegacyPostBuildHeadAttribute: true,
+      useCssCascadeLayers: true,
+    },
+    experimental_faster: {
+      swcJsLoader: true,
+      swcJsMinimizer: true,
+      swcHtmlMinimizer: true,
+      lightningCssMinimizer: true,
+      rspackBundler: false,
+      rspackPersistentCache: false,
+      ssgWorkerThreads: true,
+      mdxCrossCompilerCache: true,
+    },
+    experimental_storage: {
+      type: 'localStorage',
+      namespace: true,
+    },
+    experimental_router: 'browser',
+  },
   presets: [
     [
       'classic',
@@ -73,6 +85,24 @@ future: {
         },
         items: [
           {
+            type: 'docSidebar',
+            sidebarId: 'QuestSidebar',
+            position: 'left',
+            label: 'Docs',
+          },
+                    {
+            type: 'docSidebar',
+            sidebarId: 'TradeGoodSidebar',
+            position: 'left',
+            label: 'Docs',
+          },
+                    {
+            type: 'docSidebar',
+            sidebarId: 'SkillSidebar',
+            position: 'left',
+            label: 'Docs',
+          },
+          {
             href: 'https://github.com/Chubbnugget/uwodbonk',
             label: 'GitHub',
             position: 'right',
@@ -84,12 +114,7 @@ future: {
         links: [
           {
             title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
+            items: [],
           },
           {
             title: 'Community',

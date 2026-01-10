@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Crowned Bird](Quests/Adventure/quest_399.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Swahili | Reward: 46,000 / Advance payment: 5,000 Experience: 140 / Fame: 65 |
+| **[Crowned Bird](docs/Quests/Adventure/1-1000/quest_399.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Swahili | Reward: 46,000 / Advance payment: 5,000 Experience: 140 / Fame: 65 |

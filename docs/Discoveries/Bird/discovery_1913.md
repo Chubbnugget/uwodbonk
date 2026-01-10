@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jewels of Europe](Quests/Adventure/quest_306.md)** | Adventure quest (6) | Ecological Survey (4) Biology (6) Italian | Reward: 47,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Jewels of Europe](docs/Quests/Adventure/1-1000/quest_306.md)** | Adventure quest (6) | Ecological Survey (4) Biology (6) Italian | Reward: 47,000 / Advance payment: 0Experience: 140 / Fame: 70 |

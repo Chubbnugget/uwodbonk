@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The future promised](Quests/Adventure/quest_3631.md)** | Adventure quest (9) 14th century | Archeology (15) Visualization (13) Chinese | Remuneration: 1,397,000/Advance payment: 130,000Experience: 1,395 |
+| **[The future promised](docs/Quests/Adventure/3001-4000/quest_3631.md)** | Adventure quest (9) 14th century | Archeology (15) Visualization (13) Chinese | Remuneration: 1,397,000/Advance payment: 130,000Experience: 1,395 |

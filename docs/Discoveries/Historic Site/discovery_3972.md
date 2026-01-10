@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient village map](Quests/Other/quest_6963.md)** | Archeology(7) | Archeology(7)Visibility(7) |  |
+| **[Ancient village map](docs/Quests/Other/6001-7000/quest_6963.md)** | Archeology(7) | Archeology(7)Visibility(7) |  |

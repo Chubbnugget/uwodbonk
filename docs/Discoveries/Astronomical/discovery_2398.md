@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of Twin Fish Palace](Quests/Adventure/quest_3777.md)** | Adventure Quest (7) Mythology Era | Astronomy (10) Visualization (8) Arabic | Reward: 563,000 / Advance payment: 50,000 Experience: 540 / Fame: 220 |
+| **[Investigation of Twin Fish Palace](docs/Quests/Adventure/3001-4000/quest_3777.md)** | Adventure Quest (7) Mythology Era | Astronomy (10) Visualization (8) Arabic | Reward: 563,000 / Advance payment: 50,000 Experience: 540 / Fame: 220 |

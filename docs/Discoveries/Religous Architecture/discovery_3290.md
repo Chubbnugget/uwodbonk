@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Longing for Eden](Quests/Adventure/quest_6109.md)** | Adventure Quest (10) 16th Century 4th Period | Religious Studies (15) Visual Recognition (13) Indian Languages | Reward: 95,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Longing for Eden](docs/Quests/Adventure/6001-7000/quest_6109.md)** | Adventure Quest (10) 16th Century 4th Period | Religious Studies (15) Visual Recognition (13) Indian Languages | Reward: 95,000 / Advance payment: 0Experience: 150 / Fame: 75 |

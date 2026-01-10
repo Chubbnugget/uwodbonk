@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient statues](Quests/Other/quest_1848.md)** | Religious Studies(4) | Religious Studies (4) Exploration (4) Unlocking (4) |  |
+| **[Map of ancient statues](docs/Quests/Other/1001-2000/quest_1848.md)** | Religious Studies(4) | Religious Studies (4) Exploration (4) Unlocking (4) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Portsmouth](Quests/Other/quest_5510.md)** | Port/village (1) | - | Experience：30 |
+| **[Portsmouth](docs/Quests/Other/5001-6000/quest_5510.md)** | Port/village (1) | - | Experience：30 |

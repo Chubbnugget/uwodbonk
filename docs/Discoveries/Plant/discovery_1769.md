@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flowers that bloom in the land of the wind](Quests/Adventure/quest_1869.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Quechua | Reward: 126,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |
+| **[Flowers that bloom in the land of the wind](docs/Quests/Adventure/1001-2000/quest_1869.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Quechua | Reward: 126,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |

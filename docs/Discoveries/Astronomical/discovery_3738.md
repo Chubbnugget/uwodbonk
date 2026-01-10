@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Doube](Quests/Other/quest_6688.md)** | Celestial Object Discovery Name(6)14th century | Astronomy(6)Visualization(6) | Experience：550 |
+| **[Doube](docs/Quests/Other/6001-7000/quest_6688.md)** | Celestial Object Discovery Name(6)14th century | Astronomy(6)Visualization(6) | Experience：550 |

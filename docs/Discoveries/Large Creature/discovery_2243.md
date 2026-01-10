@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White God's Messenger](Quests/Adventure/quest_913.md)** | Adventure quest (10) | Ecological research (12) Biology (14) Indian languages | Reward: 2,000 / Advance payment: 20,000 Experience: 630 / Fame: 250 |
+| **[White God's Messenger](docs/Quests/Adventure/1-1000/quest_913.md)** | Adventure quest (10) | Ecological research (12) Biology (14) Indian languages | Reward: 2,000 / Advance payment: 20,000 Experience: 630 / Fame: 250 |

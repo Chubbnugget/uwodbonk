@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pink bird](Quests/Adventure/quest_1626.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Malayu Tagalog | Reward: 69,000 / Advance payment: 0Experience: 260 / Fame: 170 |
+| **[Pink bird](docs/Quests/Adventure/1001-2000/quest_1626.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Malayu Tagalog | Reward: 69,000 / Advance payment: 0Experience: 260 / Fame: 170 |

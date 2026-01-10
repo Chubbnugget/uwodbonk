@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A race colored in gold](Quests/Adventure/quest_364.md)** | Adventure quest (7) | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 151,000 / Advance: 0Experience: 180 / Fame: 95 |
+| **[A race colored in gold](docs/Quests/Adventure/1-1000/quest_364.md)** | Adventure quest (7) | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 151,000 / Advance: 0Experience: 180 / Fame: 95 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[That amazing appearance](Quests/Adventure/quest_190.md)** | Adventure quest (8) | Ecological research (8) Biology (10) Swahili | Reward: 108,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[That amazing appearance](docs/Quests/Adventure/1-1000/quest_190.md)** | Adventure quest (8) | Ecological research (8) Biology (10) Swahili | Reward: 108,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

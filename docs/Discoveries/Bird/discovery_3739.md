@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Western small duck](Quests/Adventure/quest_6691.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Chinese | Reward: 155,000 / Advance payment: 20,000 Experience: 180 / Fame: 184 |
+| **[Western small duck](docs/Quests/Adventure/6001-7000/quest_6691.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Chinese | Reward: 155,000 / Advance payment: 20,000 Experience: 180 / Fame: 184 |

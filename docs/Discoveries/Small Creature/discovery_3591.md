@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of strange frog](Quests/Other/quest_6518.md)** | Pursuit quest (4) | Ecological research (12) Biology (14) West African languages | Reward: 455,000 / Advance payment: 0Experience: 1,720 / Fame: 390 |
+| **[Additional investigation of strange frog](docs/Quests/Other/6001-7000/quest_6518.md)** | Pursuit quest (4) | Ecological research (12) Biology (14) West African languages | Reward: 455,000 / Advance payment: 0Experience: 1,720 / Fame: 390 |

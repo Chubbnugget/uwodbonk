@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Garden in the desert](Quests/Other/quest_4851.md)** | Treasure hunting (7) | Exploration(11)Archaeology(13)Treasures Identification(9) | Reward: 0 / Advance payment: 0 Experience: 2,230 / Fame: 1,780 |
+| **[Garden in the desert](docs/Quests/Other/4001-5000/quest_4851.md)** | Treasure hunting (7) | Exploration(11)Archaeology(13)Treasures Identification(9) | Reward: 0 / Advance payment: 0 Experience: 2,230 / Fame: 1,780 |

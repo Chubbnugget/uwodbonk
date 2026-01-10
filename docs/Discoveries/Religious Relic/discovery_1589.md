@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue watching over the sailors](Quests/Adventure/quest_2604.md)** | Adventure quest (6) | Religious Studies(7)Exploration(5)Chinese(1) | Reward: 139,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Statue watching over the sailors](docs/Quests/Adventure/2001-3000/quest_2604.md)** | Adventure quest (6) | Religious Studies(7)Exploration(5)Chinese(1) | Reward: 139,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

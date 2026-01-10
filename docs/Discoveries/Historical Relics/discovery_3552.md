@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Colossus' Thumb](Quests/Other/quest_6478.md)** | Legacy(1) | - |  |
+| **[Colossus' Thumb](docs/Quests/Other/6001-7000/quest_6478.md)** | Legacy(1) | - |  |

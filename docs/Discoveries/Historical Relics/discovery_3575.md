@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wings of the Soaring Lord God](Quests/Adventure/quest_6500.md)** | Adventure quest (1) | Exploration (1) Archeology (3) German | Reward: 140,000 / Advance payment: 10,000 Experience: 210 / Fame: 220 |
+| **[Wings of the Soaring Lord God](docs/Quests/Adventure/6001-7000/quest_6500.md)** | Adventure quest (1) | Exploration (1) Archeology (3) German | Reward: 140,000 / Advance payment: 10,000 Experience: 210 / Fame: 220 |

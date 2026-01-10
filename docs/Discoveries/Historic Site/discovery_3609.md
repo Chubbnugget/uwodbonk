@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of hill-like ruins](Quests/Other/quest_6542.md)** | Pursuit quest (3) | Archeology (12) Visualization (10) English | Reward: 220,000 / Advance payment: 0Experience: 500 |
+| **[Additional investigation of hill-like ruins](docs/Quests/Other/6001-7000/quest_6542.md)** | Pursuit quest (3) | Archeology (12) Visualization (10) English | Reward: 220,000 / Advance payment: 0Experience: 500 |

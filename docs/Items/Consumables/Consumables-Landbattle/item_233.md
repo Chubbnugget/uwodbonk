@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | hellfire torch |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 300 |
 | **Description** | Inflict damage on the enemy with strong firepower. Effect/medium. Effect when used: Attack with flames (attacks the enemy with flames in land battles.) Rank 6 Required gauge 75 Cooldown time 300 |

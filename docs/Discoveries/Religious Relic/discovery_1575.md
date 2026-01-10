@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The monk who traveled to the South Sea](Quests/Adventure/quest_2834.md)** | Adventure quest (8) | Religious Studies(8)Exploration(6)Chinese | Reward: 133,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |
+| **[The monk who traveled to the South Sea](docs/Quests/Adventure/2001-3000/quest_2834.md)** | Adventure quest (8) | Religious Studies(8)Exploration(6)Chinese | Reward: 133,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |

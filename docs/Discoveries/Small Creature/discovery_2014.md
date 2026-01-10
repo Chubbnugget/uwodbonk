@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Devil's messenger](Quests/Adventure/quest_335.md)** | Adventure quest (10) | Ecological research (12) Biology (14) West African languages | Reward: 2,000/ Advance payment: 20,000 Experience: 465/ Fame: 170 |
+| **[Devil's messenger](docs/Quests/Adventure/1-1000/quest_335.md)** | Adventure quest (10) | Ecological research (12) Biology (14) West African languages | Reward: 2,000/ Advance payment: 20,000 Experience: 465/ Fame: 170 |

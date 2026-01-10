@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Light yellow flower map](Quests/Other/quest_6839.md)** | Biology学(10) | Ecological Survey(10)Biology(10) |  |
+| **[Light yellow flower map](docs/Quests/Other/6001-7000/quest_6839.md)** | Biology学(10) | Ecological Survey(10)Biology(10) |  |

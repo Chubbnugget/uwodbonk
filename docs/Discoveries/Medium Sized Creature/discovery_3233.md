@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Higher dog than ever](Quests/Adventure/quest_6055.md)** | Adventure quest (9) | Ecological research (9) Biology (11) Chinese (1) | Reward: 421,000 / Advance payment: 40,000 Experience: 350 / Fame: 215 |
+| **[Higher dog than ever](docs/Quests/Adventure/6001-7000/quest_6055.md)** | Adventure quest (9) | Ecological research (9) Biology (11) Chinese (1) | Reward: 421,000 / Advance payment: 40,000 Experience: 350 / Fame: 215 |

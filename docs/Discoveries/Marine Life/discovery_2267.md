@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unicorn Horn](Quests/Adventure/quest_3649.md)** | Adventure quest (8) 18th century third period | Ecological research (7) Biology (9) Arctic languages | Reward: 179,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |
+| **[Unicorn Horn](docs/Quests/Adventure/3001-4000/quest_3649.md)** | Adventure quest (8) 18th century third period | Ecological research (7) Biology (9) Arctic languages | Reward: 179,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |

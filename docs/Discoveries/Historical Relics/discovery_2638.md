@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Baekje King's Stone Monument](Quests/Other/quest_5212.md)** | Resurvey reward (10) | Exploration(10)Archaeology(10) |  |
+| **[Map of Baekje King's Stone Monument](docs/Quests/Other/5001-6000/quest_5212.md)** | Resurvey reward (10) | Exploration(10)Archaeology(10) |  |

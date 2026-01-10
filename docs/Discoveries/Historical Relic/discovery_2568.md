@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Last Roman](Quests/Other/quest_3544.md)** | Treasure hunting (9) | Exploration (14) Archeology (16) Latin | Experience: 3,340/ Reputation: 1,335 |
+| **[The Last Roman](docs/Quests/Other/3001-4000/quest_3544.md)** | Treasure hunting (9) | Exploration (14) Archeology (16) Latin | Experience: 3,340/ Reputation: 1,335 |

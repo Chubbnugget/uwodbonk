@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pyramid of Giza in the past](Quests/Other/quest_6402.md)** | Legacy(1) | - |  |
+| **[Pyramid of Giza in the past](docs/Quests/Other/6001-7000/quest_6402.md)** | Legacy(1) | - |  |

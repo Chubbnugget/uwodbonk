@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[City of Gold](Quests/Adventure/quest_2567.md)** | Adventure quest (6) | 探索(4)美術(6)日本語 | Reward: 144,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |
+| **[City of Gold](docs/Quests/Adventure/2001-3000/quest_2567.md)** | Adventure quest (6) | 探索(4)美術(6)日本語 | Reward: 144,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |

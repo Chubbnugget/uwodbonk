@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Togenkyo is Izuko](Quests/Other/quest_3590.md)** | Treasure hunting (8) | 探索(12)Treasures鑑定(14)中国語 | Experience: 2,690/ Reputation: 1,060 |
+| **[Togenkyo is Izuko](docs/Quests/Other/3001-4000/quest_3590.md)** | Treasure hunting (8) | 探索(12)Treasures鑑定(14)中国語 | Experience: 2,690/ Reputation: 1,060 |

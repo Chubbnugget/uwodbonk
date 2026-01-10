@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Things left behind](Quests/Adventure/quest_341.md)** | Adventure Quest (8) B.C. | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 140,000 / Advance payment: 20,000 Experience: 170 / Fame: 90 |
+| **[Things left behind](docs/Quests/Adventure/1-1000/quest_341.md)** | Adventure Quest (8) B.C. | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 140,000 / Advance payment: 20,000 Experience: 170 / Fame: 90 |

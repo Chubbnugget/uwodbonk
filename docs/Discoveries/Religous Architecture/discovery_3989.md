@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Chapel named after the queen](Quests/Adventure/quest_6980.md)** | Adventure quest (10) | Religious Studies (15) Visual Recognition (13) Chinese (1) | Reward: 855,000 / Advance payment: 90,000 Experience: 975 / Fame: 585 |
+| **[Chapel named after the queen](docs/Quests/Adventure/6001-7000/quest_6980.md)** | Adventure quest (10) | Religious Studies (15) Visual Recognition (13) Chinese (1) | Reward: 855,000 / Advance payment: 90,000 Experience: 975 / Fame: 585 |

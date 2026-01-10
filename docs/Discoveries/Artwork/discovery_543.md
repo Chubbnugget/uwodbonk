@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bloody Founder](Quests/Adventure/quest_1274.md)** | Adventure quest (9) 15th century 4th period | Exploration (11) Art (13) Unlocking (11) | Reward: 330,000 / Advance payment: 30,000 Experience: 510 / Fame: 160 |
+| **[Bloody Founder](docs/Quests/Adventure/1001-2000/quest_1274.md)** | Adventure quest (9) 15th century 4th period | Exploration (11) Art (13) Unlocking (11) | Reward: 330,000 / Advance payment: 30,000 Experience: 510 / Fame: 160 |

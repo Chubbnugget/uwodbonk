@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Middle of the Pacific Ocean](Quests/Adventure/quest_3588.md)** | Adventure quest (7) | Geography (2) Visual recognition (1) Oceanian languages | Reward: 183,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |
+| **[Middle of the Pacific Ocean](docs/Quests/Adventure/3001-4000/quest_3588.md)** | Adventure quest (7) | Geography (2) Visual recognition (1) Oceanian languages | Reward: 183,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |

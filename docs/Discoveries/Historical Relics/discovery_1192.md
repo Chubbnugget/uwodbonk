@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of military personnel known as great generals](Quests/Adventure/quest_6141.md)** | Adventure quest (3) | Exploration (1) Archeology (2) Arabic | Reward: 34,000 / Advance payment: 0Experience: 170 / Fame: 140 |
-| **[Arrangement of a famous general](Quests/Adventure/quest_1018.md)** | Adventure Quest (4) B.C. | Exploration (1) Archeology (2) Arabic | Remuneration: 19,000 / Advance payment: 0 |
+| **[Investigation of military personnel known as great generals](docs/Quests/Adventure/6001-7000/quest_6141.md)** | Adventure quest (3) | Exploration (1) Archeology (2) Arabic | Reward: 34,000 / Advance payment: 0Experience: 170 / Fame: 140 |
+| **[Arrangement of a famous general](docs/Quests/Adventure/1001-2000/quest_1018.md)** | Adventure Quest (4) B.C. | Exploration (1) Archeology (2) Arabic | Remuneration: 19,000 / Advance payment: 0 |

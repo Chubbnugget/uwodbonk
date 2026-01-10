@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big black stone](Quests/Adventure/quest_1235.md)** | Adventure quest (4) | Religious Studies (4) Exploration (2) Unlocking (2) | Reward: 68,000 / Advance payment: 10,000 Experience: 225 / Fame: 75 |
+| **[Big black stone](docs/Quests/Adventure/1001-2000/quest_1235.md)** | Adventure quest (4) | Religious Studies (4) Exploration (2) Unlocking (2) | Reward: 68,000 / Advance payment: 10,000 Experience: 225 / Fame: 75 |

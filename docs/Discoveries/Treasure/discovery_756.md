@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pink gemstone vein map](Quests/Other/quest_258.md)** | Treasures鑑定(12) | 探索(12)Treasures鑑定(12) | Experience：590 |
+| **[Pink gemstone vein map](docs/Quests/Other/1-1000/quest_258.md)** | Treasures鑑定(12) | 探索(12)Treasures鑑定(12) | Experience：590 |

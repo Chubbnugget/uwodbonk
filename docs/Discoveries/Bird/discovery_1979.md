@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White Heart](Quests/Adventure/quest_1249.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Mayan languages | Reward: 109,000 / Advance payment: 0Experience: 285 / Fame: 90 |
+| **[White Heart](docs/Quests/Adventure/1001-2000/quest_1249.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Mayan languages | Reward: 109,000 / Advance payment: 0Experience: 285 / Fame: 90 |

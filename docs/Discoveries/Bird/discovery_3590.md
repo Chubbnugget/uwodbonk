@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on flying penguins](Quests/Other/quest_6517.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) Portuguese | Reward: 476,000 / Advance payment: 0Experience: 840 |
+| **[Additional research on flying penguins](docs/Quests/Other/6001-7000/quest_6517.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) Portuguese | Reward: 476,000 / Advance payment: 0Experience: 840 |

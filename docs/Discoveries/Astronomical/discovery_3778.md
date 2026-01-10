@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gomeisa](Quests/Other/quest_6736.md)** | Celestial Object Discovery Name(10)17th Century Issue 2 | Astronomy (10) Visualization (10) | Experience：820 |
+| **[Gomeisa](docs/Quests/Other/6001-7000/quest_6736.md)** | Celestial Object Discovery Name(10)17th Century Issue 2 | Astronomy (10) Visualization (10) | Experience：820 |

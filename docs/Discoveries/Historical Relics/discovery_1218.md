@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Brunak](Quests/Adventure/quest_269.md)** | Adventure Quest (10) Mythology Era | Exploration (12) Archeology (14) Unlocking (12) | Reward: 58,000 / Advance payment: 20,000 Experience: 290 / Fame: 155 |
+| **[Brunak](docs/Quests/Adventure/1-1000/quest_269.md)** | Adventure Quest (10) Mythology Era | Exploration (12) Archeology (14) Unlocking (12) | Reward: 58,000 / Advance payment: 20,000 Experience: 290 / Fame: 155 |

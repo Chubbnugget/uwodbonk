@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | black kite feather |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 100 |
 | **Description** | Items for land combat. Makes it easier to dodge enemy attacks. Effect/Small Effect when used Complete evasion (Enemy's normal attacks will not hit you.) Rank 3 Required gauge 80 Cooldown time 750 |

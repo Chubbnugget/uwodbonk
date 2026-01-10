@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mako shark](Quests/Other/quest_1534.md)** | Fishing (5) | Fishing (5) |  |
+| **[Mako shark](docs/Quests/Other/1001-2000/quest_1534.md)** | Fishing (5) | Fishing (5) |  |

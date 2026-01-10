@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Depicted ideal](Quests/Adventure/quest_2044.md)** | Adventure quest (4) 16th century 1st period | Exploration (3) Art (5) German (1) | Reward: 130,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |
+| **[Depicted ideal](docs/Quests/Adventure/2001-3000/quest_2044.md)** | Adventure quest (4) 16th century 1st period | Exploration (3) Art (5) German (1) | Reward: 130,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |

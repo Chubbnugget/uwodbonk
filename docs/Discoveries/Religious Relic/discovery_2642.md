@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cross Necklace Map](Quests/Other/quest_5216.md)** | Re-examination reward (6) | Religious Studies(6)Exploration(6) |  |
+| **[Cross Necklace Map](docs/Quests/Other/5001-6000/quest_5216.md)** | Re-examination reward (6) | Religious Studies(6)Exploration(6) |  |

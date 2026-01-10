@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Land White Sails](Quests/Adventure/quest_3581.md)** | Adventure quest (6) | Religious Studies (6) Exploration (4) Oceanian Languages | Reward: 401,000 / Advance payment: 40,000 Experience: 410 / Fame: 170 |
+| **[Land White Sails](docs/Quests/Adventure/3001-4000/quest_3581.md)** | Adventure quest (6) | Religious Studies (6) Exploration (4) Oceanian Languages | Reward: 401,000 / Advance payment: 40,000 Experience: 410 / Fame: 170 |

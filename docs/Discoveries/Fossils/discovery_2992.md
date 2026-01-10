@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stone preferred by connoisseurs](Quests/Adventure/quest_5700.md)** | Adventure Quest (7) B.C. | Explore(10)Biology(12)Arabic(1) | Reward: 600,000 / Advance payment: 60,000 Experience: 460 / Fame: 285 |
+| **[Stone preferred by connoisseurs](docs/Quests/Adventure/5001-6000/quest_5700.md)** | Adventure Quest (7) B.C. | Explore(10)Biology(12)Arabic(1) | Reward: 600,000 / Advance payment: 60,000 Experience: 460 / Fame: 285 |

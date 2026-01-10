@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Biology research flying over the sea](Quests/Adventure/quest_4802.md)** | Adventure quest (6) | Ecological research (4) Biology (6) Oceanian languages | Reward: 184,000/ Advance: 10,000 Experience: 230/ Fame: 200 |
+| **[Biology research flying over the sea](docs/Quests/Adventure/4001-5000/quest_4802.md)** | Adventure quest (6) | Ecological research (4) Biology (6) Oceanian languages | Reward: 184,000/ Advance: 10,000 Experience: 230/ Fame: 200 |

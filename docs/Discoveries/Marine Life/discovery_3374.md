@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ostylish-san](Quests/Adventure/quest_6263.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Oceanian languages | Reward: 145,000/ Advance: 10,000 Experience: 180/ Fame: 100 |
+| **[Ostylish-san](docs/Quests/Adventure/6001-7000/quest_6263.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Oceanian languages | Reward: 145,000/ Advance: 10,000 Experience: 180/ Fame: 100 |

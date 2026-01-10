@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Proud Aztec Hero](Quests/Adventure/quest_1878.md)** | Adventure quest (9) | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 10,000 / Advance payment: 10,000 Experience: 480 / Fame: 150 |
+| **[Proud Aztec Hero](docs/Quests/Adventure/1001-2000/quest_1878.md)** | Adventure quest (9) | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 10,000 / Advance payment: 10,000 Experience: 480 / Fame: 150 |

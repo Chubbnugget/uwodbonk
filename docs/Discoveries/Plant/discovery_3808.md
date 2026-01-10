@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Echeveria](Quests/Other/quest_6771.md)** | Pursuit quest (7) | Ecological research (8) Biology (10) Spanish (1) | Reward: 220,000 / Advance payment: 0Experience: 380 |
+| **[Additional investigation of Echeveria](docs/Quests/Other/6001-7000/quest_6771.md)** | Pursuit quest (7) | Ecological research (8) Biology (10) Spanish (1) | Reward: 220,000 / Advance payment: 0Experience: 380 |

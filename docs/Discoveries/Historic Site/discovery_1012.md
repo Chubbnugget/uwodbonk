@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Ruins and Arena](Quests/Adventure/quest_3166.md)** | Adventure quest (7) | Archeology (6) Visualization (4) Italian | Reward: 102,000 / Advance payment: 10,000 Experience: 240 / Fame: 112 |
+| **[Ancient Ruins and Arena](docs/Quests/Adventure/3001-4000/quest_3166.md)** | Adventure quest (7) | Archeology (6) Visualization (4) Italian | Reward: 102,000 / Advance payment: 10,000 Experience: 240 / Fame: 112 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation about Zheng Chenggong](Quests/Adventure/quest_2614.md)** | Adventure quest (8) | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 132,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |
+| **[Investigation about Zheng Chenggong](docs/Quests/Adventure/2001-3000/quest_2614.md)** | Adventure quest (8) | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 132,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |

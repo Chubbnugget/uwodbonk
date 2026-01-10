@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of wooden statues in the Slavic region](Quests/Other/quest_3644.md)** | Religious Studies(7) | Religious Studies (7) Exploration (7) Unlocking (7) | Experience：330 |
+| **[Map of wooden statues in the Slavic region](docs/Quests/Other/3001-4000/quest_3644.md)** | Religious Studies(7) | Religious Studies (7) Exploration (7) Unlocking (7) | Experience：330 |

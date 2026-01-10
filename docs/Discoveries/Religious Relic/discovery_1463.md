@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hindu God Statue](Quests/Adventure/quest_1276.md)** | Adventure Quest (6) Mythology Era | Religious Studies (7) Exploration (5) Malayu Tagalog | Reward: 86,000 / Advance payment: 0Experience: 285 / Fame: 90 |
+| **[Hindu God Statue](docs/Quests/Adventure/1001-2000/quest_1276.md)** | Adventure Quest (6) Mythology Era | Religious Studies (7) Exploration (5) Malayu Tagalog | Reward: 86,000 / Advance payment: 0Experience: 285 / Fame: 90 |

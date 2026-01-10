@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Animal-shaped goldwork map](Quests/Other/quest_6340.md)** | Religious Studies(9) | Religious Studies(9)Exploration(9) | Experience：300 |
+| **[Animal-shaped goldwork map](docs/Quests/Other/6001-7000/quest_6340.md)** | Religious Studies(9) | Religious Studies(9)Exploration(9) | Experience：300 |

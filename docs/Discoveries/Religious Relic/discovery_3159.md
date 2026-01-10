@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stone map with carved text](Quests/Other/quest_5895.md)** | Religious Studies(4) | Religious Studies(4)Exploration(4) |  |
+| **[Stone map with carved text](docs/Quests/Other/5001-6000/quest_5895.md)** | Religious Studies(4) | Religious Studies(4)Exploration(4) |  |

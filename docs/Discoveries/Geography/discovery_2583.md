@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Roof and spine](Quests/Adventure/quest_4952.md)** | Adventure quest (2) | Geography (2) Visualization (1) Greek | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Roof and spine](docs/Quests/Adventure/4001-5000/quest_4952.md)** | Adventure quest (2) | Geography (2) Visualization (1) Greek | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |

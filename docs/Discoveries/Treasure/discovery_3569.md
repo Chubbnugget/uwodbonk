@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Coin of Ephesus](Quests/Other/quest_6495.md)** | Legacy(1) | - |  |
+| **[Coin of Ephesus](docs/Quests/Other/6001-7000/quest_6495.md)** | Legacy(1) | - |  |

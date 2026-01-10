@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on arctic foxes](Quests/Other/quest_6425.md)** | Pursuit quest (3) | Ecological research (8) Biology (10) English (1) | Remuneration: 176,000 / Advance payment: 0 |
+| **[Additional research on arctic foxes](docs/Quests/Other/6001-7000/quest_6425.md)** | Pursuit quest (3) | Ecological research (8) Biology (10) English (1) | Remuneration: 176,000 / Advance payment: 0 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Lizard Bone Map](Quests/Other/quest_5662.md)** | Biology学(7) | Explore(7)Biology(7) |  |
+| **[Strange Lizard Bone Map](docs/Quests/Other/5001-6000/quest_5662.md)** | Biology学(7) | Explore(7)Biology(7) |  |

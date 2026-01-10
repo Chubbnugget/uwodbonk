@@ -30,4 +30,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Vergina's treasure](Quests/Other/quest_6413.md)** | Pursuit Quest (3) B.C. | Exploration (8) Archeology (10) Unlocking (8) | Reward: 184,000 |
+| **[Additional investigation of Vergina's treasure](docs/Quests/Other/6001-7000/quest_6413.md)** | Pursuit Quest (3) B.C. | Exploration (8) Archeology (10) Unlocking (8) | Reward: 184,000 |

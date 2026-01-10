@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of necklace that protects against illness](Quests/Other/quest_5207.md)** | Re-examination reward (7) | Religious Studies(7)Exploration(7) |  |
+| **[Map of necklace that protects against illness](docs/Quests/Other/5001-6000/quest_5207.md)** | Re-examination reward (7) | Religious Studies(7)Exploration(7) |  |

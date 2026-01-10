@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | bean and bacon soup |
 | **Type** | thing |
-| **Group** | [Consumables (cooking)](Categories/category_32.md) |
-| **Sold by NPC** | [Production (Cooking)](NPCs/npc_24.md) |
+| **Group** | [Consumables (cooking)](docs/Categories/category_32.md) |
+| **Sold by NPC** | [Production (Cooking)](docs/NPCs/npc_24.md) |
 | **Description** | A simple soup. Effect when using Action power recovery Action power +15 |
 | **Last Updated** | 2007-09-24 08:09:44 When |
 

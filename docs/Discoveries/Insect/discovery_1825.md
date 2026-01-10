@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sun Butterfly](Quests/Adventure/quest_785.md)** | Adventure Quest (5) 16th Century 3rd Period | Ecological Survey (5) Biology (7) Spanish | Reward: 48,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Sun Butterfly](docs/Quests/Adventure/1-1000/quest_785.md)** | Adventure Quest (5) 16th Century 3rd Period | Ecological Survey (5) Biology (7) Spanish | Reward: 48,000 / Advance payment: 0Experience: 150 / Fame: 70 |

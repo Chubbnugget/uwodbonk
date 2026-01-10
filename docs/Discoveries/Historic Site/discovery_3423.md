@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of stone balls in the jungle](Quests/Other/quest_6338.md)** | Archeology(8) | Archeology(8)Visibility(8) | Experience：140 |
+| **[Map of stone balls in the jungle](docs/Quests/Other/6001-7000/quest_6338.md)** | Archeology(8) | Archeology(8)Visibility(8) | Experience：140 |

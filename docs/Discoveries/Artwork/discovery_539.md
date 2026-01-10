@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Da Vinci's human figure](Quests/Adventure/quest_1804.md)** | Adventure Quest (5) 15th Century 5th Period | Exploration (4) Art (6) French | Reward: 103,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[Da Vinci's human figure](docs/Quests/Adventure/1001-2000/quest_1804.md)** | Adventure Quest (5) 15th Century 5th Period | Exploration (4) Art (6) French | Reward: 103,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

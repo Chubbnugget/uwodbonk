@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beluga](Quests/Other/quest_1754.md)** | Fishing (5) | Fishing (5) |  |
+| **[Beluga](docs/Quests/Other/1001-2000/quest_1754.md)** | Fishing (5) | Fishing (5) |  |

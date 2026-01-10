@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gemini Stars Group](Quests/Other/quest_4845.md)** | Celestial Object Discovery Name(7)19th century | Astronomy(7) | Experience：510 |
+| **[Gemini Stars Group](docs/Quests/Other/4001-5000/quest_4845.md)** | Celestial Object Discovery Name(7)19th century | Astronomy(7) | Experience：510 |

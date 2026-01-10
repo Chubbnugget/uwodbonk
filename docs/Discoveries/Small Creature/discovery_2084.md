@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of fish with legs](Quests/Other/quest_2955.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：140 |
+| **[Map of fish with legs](docs/Quests/Other/2001-3000/quest_2955.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：140 |

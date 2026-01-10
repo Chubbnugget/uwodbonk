@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Lizard Bone Map](Quests/Other/quest_5613.md)** | Re-examination reward (7) | Explore(7)Biology(7) |  |
+| **[Strange Lizard Bone Map](docs/Quests/Other/5001-6000/quest_5613.md)** | Re-examination reward (7) | Explore(7)Biology(7) |  |

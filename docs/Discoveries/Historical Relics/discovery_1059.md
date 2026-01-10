@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Zun Si Zhe](Quests/Adventure/quest_781.md)** | Adventure Quest (5) B.C. | Exploration (1) Archeology (3) Unlocking (1) | Reward: 36,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Zun Si Zhe](docs/Quests/Adventure/1-1000/quest_781.md)** | Adventure Quest (5) B.C. | Exploration (1) Archeology (3) Unlocking (1) | Reward: 36,000 / Advance payment: 0Experience: 130 / Fame: 65 |

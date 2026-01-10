@@ -30,4 +30,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore related to the spirit of thunder](Quests/Other/quest_6156.md)** | Tradition (7) | Religious Studies(11) | Reward: 614,300 / Advance payment: 60,000 Experience: 690 / Fame: 345 |
+| **[Lore related to the spirit of thunder](docs/Quests/Other/6001-7000/quest_6156.md)** | Tradition (7) | Religious Studies(11) | Reward: 614,300 / Advance payment: 60,000 Experience: 690 / Fame: 345 |

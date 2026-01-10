@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Roasted chicken stuffed with garlic |
 | **Type** | thing |
-| **Group** | [Consumables (cooking)](Categories/category_32.md) |
-| **Sold by NPC** | [Production (Cooking)](NPCs/npc_24.md) |
+| **Group** | [Consumables (cooking)](docs/Categories/category_32.md) |
+| **Sold by NPC** | [Production (Cooking)](docs/NPCs/npc_24.md) |
 | **Description** | Chicken stuffed with garlic. Fatigue recovery/action power +70 Effect when used Action power/fatigue recovery Action power +70 Fatigue level -14 |
 | **Last Updated** | 2008-10-04 11:37:15 Passing navigator @guest |
 

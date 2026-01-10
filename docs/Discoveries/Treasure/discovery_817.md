@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of flute-like instruments](Quests/Other/quest_2491.md)** | Treasures鑑定(4) | 探索(4)Treasures鑑定(4) |  |
+| **[Map of flute-like instruments](docs/Quests/Other/2001-3000/quest_2491.md)** | Treasures鑑定(4) | 探索(4)Treasures鑑定(4) |  |

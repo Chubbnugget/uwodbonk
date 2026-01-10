@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Small Biology Map](Quests/Other/quest_6840.md)** | Biology学(13) | Ecological Survey(13)Biology(13) |  |
+| **[Small Biology Map](docs/Quests/Other/6001-7000/quest_6840.md)** | Biology学(13) | Ecological Survey(13)Biology(13) |  |

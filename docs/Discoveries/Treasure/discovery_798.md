@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Story of a group of heroes](Quests/Adventure/quest_2847.md)** | Adventure quest (6) | 探索(1)Treasures鑑定(3)中国語 | Reward: 305,000 / Advance payment: 30,000 Experience: 340 / Fame: 155 |
+| **[Story of a group of heroes](docs/Quests/Adventure/2001-3000/quest_2847.md)** | Adventure quest (6) | 探索(1)Treasures鑑定(3)中国語 | Reward: 305,000 / Advance payment: 30,000 Experience: 340 / Fame: 155 |

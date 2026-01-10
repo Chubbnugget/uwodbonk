@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Heavenly Bull](Quests/Adventure/quest_3760.md)** | Adventure Quest (5) Mythology Era | Astronomy (6) Visualization (4) Arabic | Reward: 135,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Heavenly Bull](docs/Quests/Adventure/3001-4000/quest_3760.md)** | Adventure Quest (5) Mythology Era | Astronomy (6) Visualization (4) Arabic | Reward: 135,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

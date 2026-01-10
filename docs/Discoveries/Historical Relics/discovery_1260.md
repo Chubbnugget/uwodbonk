@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Palenque (middle level)](Quests/Other/quest_2913.md)** | Dungeon (5) | - |  |
+| **[Palenque (middle level)](docs/Quests/Other/2001-3000/quest_2913.md)** | Dungeon (5) | - |  |

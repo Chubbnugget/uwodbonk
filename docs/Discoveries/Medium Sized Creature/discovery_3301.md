@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mythology first](Quests/Adventure/quest_6155.md)** | Adventure quest (7) | Ecological Survey (2) Biology (4) Norse | Reward: 134,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |
+| **[Mythology first](docs/Quests/Adventure/6001-7000/quest_6155.md)** | Adventure quest (7) | Ecological Survey (2) Biology (4) Norse | Reward: 134,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |

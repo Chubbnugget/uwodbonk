@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dark Cloud Swirling Cave](Quests/Adventure/quest_3321.md)** | Adventure quest (9) | Geography (9) Visualization (7) Spanish | Reward: 327,000 / Advance payment: 30,000 Experience: 350 / Fame: 145 |
+| **[Dark Cloud Swirling Cave](docs/Quests/Adventure/3001-4000/quest_3321.md)** | Adventure quest (9) | Geography (9) Visualization (7) Spanish | Reward: 327,000 / Advance payment: 30,000 Experience: 350 / Fame: 145 |

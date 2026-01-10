@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Origin of Manchester](Quests/Adventure/quest_5511.md)** | Adventure quest (3) | Explore(3)Archaeology(5)English | Reward: 107,000/Advance payment: 10,000Experience: 150 |
+| **[Origin of Manchester](docs/Quests/Adventure/5001-6000/quest_5511.md)** | Adventure quest (3) | Explore(3)Archaeology(5)English | Reward: 107,000/Advance payment: 10,000Experience: 150 |

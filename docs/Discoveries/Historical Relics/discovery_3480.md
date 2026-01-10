@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stone painted with lime mortar](Quests/Other/quest_6396.md)** | Legacy(1) | - |  |
+| **[Stone painted with lime mortar](docs/Quests/Other/6001-7000/quest_6396.md)** | Legacy(1) | - |  |

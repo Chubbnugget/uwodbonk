@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stonehenge Investigation](Quests/Adventure/quest_179.md)** | Adventure Quest (3) B.C. | Religious Studies (1) Visual Recognition (1) English | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 60 |
+| **[Stonehenge Investigation](docs/Quests/Adventure/1-1000/quest_179.md)** | Adventure Quest (3) B.C. | Religious Studies (1) Visual Recognition (1) English | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 60 |

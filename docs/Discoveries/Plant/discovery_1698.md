@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Insect weed](Quests/Adventure/quest_1664.md)** | Adventure quest (8) | Ecological Survey (5) Biology (7) Malayu Tagalog | Reward: 167,000 / Advance payment: 10,000 Experience: 330 / Fame: 125 |
+| **[Insect weed](docs/Quests/Adventure/1001-2000/quest_1664.md)** | Adventure quest (8) | Ecological Survey (5) Biology (7) Malayu Tagalog | Reward: 167,000 / Advance payment: 10,000 Experience: 330 / Fame: 125 |

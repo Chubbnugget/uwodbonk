@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Skull Map](Quests/Other/quest_1618.md)** | Archeology(8) | Exploration (8) Archeology (8) Unlocking (8) |  |
+| **[Strange Skull Map](docs/Quests/Other/1001-2000/quest_1618.md)** | Archeology(8) | Exploration (8) Archeology (8) Unlocking (8) |  |

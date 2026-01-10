@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue sought by the nobles](Quests/Adventure/quest_5233.md)** | Adventure quest (4) | Religious Studies (7) Exploration (5) Italian (1) | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Statue sought by the nobles](docs/Quests/Adventure/5001-6000/quest_5233.md)** | Adventure quest (4) | Religious Studies (7) Exploration (5) Italian (1) | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 70 |

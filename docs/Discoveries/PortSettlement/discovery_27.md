@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cagliari](Quests/Other/quest_5037.md)** | Port/village (1) | - |  |
+| **[Cagliari](docs/Quests/Other/5001-6000/quest_5037.md)** | Port/village (1) | - |  |

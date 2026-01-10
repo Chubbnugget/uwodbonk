@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[How to use the castle](Quests/Adventure/quest_6061.md)** | Adventure quest (2) | Archeology (3) Visualization (1) Italian | Reward: 81,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[How to use the castle](docs/Quests/Adventure/6001-7000/quest_6061.md)** | Adventure quest (2) | Archeology (3) Visualization (1) Italian | Reward: 81,000 / Advance payment: 0Experience: 140 / Fame: 70 |

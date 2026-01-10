@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pioneer of the Great Voyage Era](Quests/Adventure/quest_1281.md)** | Adventure quest (5) 15th century 1st period | Exploration (4) Archeology (6) Unlocking (4) | Reward: 16,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Pioneer of the Great Voyage Era](docs/Quests/Adventure/1001-2000/quest_1281.md)** | Adventure quest (5) 15th century 1st period | Exploration (4) Archeology (6) Unlocking (4) | Reward: 16,000 / Advance payment: 0Experience: 140 / Fame: 65 |

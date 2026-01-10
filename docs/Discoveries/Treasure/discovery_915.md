@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Give me the flame](Quests/Adventure/quest_1220.md)** | Adventure quest (9) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 116,000 / Advance payment: 10,000 Experience: 420 / Fame: 140 |
+| **[Give me the flame](docs/Quests/Adventure/1001-2000/quest_1220.md)** | Adventure quest (9) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 116,000 / Advance payment: 10,000 Experience: 420 / Fame: 140 |

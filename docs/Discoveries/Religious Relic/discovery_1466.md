@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pyramid of Giza (middle level hidden passage)](Quests/Other/quest_3663.md)** | Dungeon (1) | - |  |
+| **[Pyramid of Giza (middle level hidden passage)](docs/Quests/Other/3001-4000/quest_3663.md)** | Dungeon (1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Moon Goddess Statue](Quests/Adventure/quest_472.md)** | Adventure Quest (4) Mythology Era | Religious Studies (2) Exploration (1) Greek | Reward: 26,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Moon Goddess Statue](docs/Quests/Adventure/1-1000/quest_472.md)** | Adventure Quest (4) Mythology Era | Religious Studies (2) Exploration (1) Greek | Reward: 26,000 / Advance payment: 0Experience: 130 / Fame: 65 |

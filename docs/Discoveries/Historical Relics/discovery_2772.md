@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient books](Quests/Other/quest_5386.md)** | Archeology(7) | Exploration(7)Archaeology(7) |  |
+| **[Map of ancient books](docs/Quests/Other/5001-6000/quest_5386.md)** | Archeology(7) | Exploration(7)Archaeology(7) |  |

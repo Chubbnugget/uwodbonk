@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Queen of Palenque](Quests/Adventure/quest_1219.md)** | Adventure quest (8) | Exploration (8) Archeology (10) Unlocking (8) | Reward: 80,000/ Advance payment: 10,000 Experience: 330/ Fame: 110 |
+| **[Queen of Palenque](docs/Quests/Adventure/1001-2000/quest_1219.md)** | Adventure quest (8) | Exploration (8) Archeology (10) Unlocking (8) | Reward: 80,000/ Advance payment: 10,000 Experience: 330/ Fame: 110 |

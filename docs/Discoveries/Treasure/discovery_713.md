@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pearls produced by conch shells](Quests/Adventure/quest_3824.md)** | Adventure Quest (9) 17th Century 4th Period | 探索(10)Treasures鑑定(12)英語 | Reward: 1,230,000 / Advance payment: 20,000 Experience: 270 / Fame: 140 |
+| **[Pearls produced by conch shells](docs/Quests/Adventure/3001-4000/quest_3824.md)** | Adventure Quest (9) 17th Century 4th Period | 探索(10)Treasures鑑定(12)英語 | Reward: 1,230,000 / Advance payment: 20,000 Experience: 270 / Fame: 140 |

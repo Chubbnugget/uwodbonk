@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A tributary of Hinduism](Quests/Adventure/quest_1348.md)** | Adventure Quest (6) 16th Century 1st Period | Geography (7) Visual recognition (5) Malayu Tagalog | Reward: 82,000 / Advance payment: 0Experience: 300 / Fame: 105 |
+| **[A tributary of Hinduism](docs/Quests/Adventure/1001-2000/quest_1348.md)** | Adventure Quest (6) 16th Century 1st Period | Geography (7) Visual recognition (5) Malayu Tagalog | Reward: 82,000 / Advance payment: 0Experience: 300 / Fame: 105 |

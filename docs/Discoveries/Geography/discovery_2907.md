@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mountain range that runs through the North American continent](Quests/Adventure/quest_5583.md)** | Adventure quest (3) | Geography (5) Visual recognition (3) North American languages | Reward: 71,000Experience: 130/ Fame: 65 |
+| **[Mountain range that runs through the North American continent](docs/Quests/Adventure/5001-6000/quest_5583.md)** | Adventure quest (3) | Geography (5) Visual recognition (3) North American languages | Reward: 71,000Experience: 130/ Fame: 65 |

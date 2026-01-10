@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Count Saint-Germain's secret book](Quests/Other/quest_3906.md)** | Treasure hunting (5) | Exploration (7) Archeology (9) French (1) | Reward: 0/Advance payment: 0Experience: 2,260 |
+| **[Count Saint-Germain's secret book](docs/Quests/Other/3001-4000/quest_3906.md)** | Treasure hunting (5) | Exploration (7) Archeology (9) French (1) | Reward: 0/Advance payment: 0Experience: 2,260 |

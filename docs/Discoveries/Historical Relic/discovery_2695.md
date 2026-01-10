@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Poseidon's Wrath](Quests/Other/quest_5274.md)** | Treasure hunting (3) | Religion(1)Exploration(3)Archaeology(5) | Experience：3,370 |
+| **[Poseidon's Wrath](docs/Quests/Other/5001-6000/quest_5274.md)** | Treasure hunting (3) | Religion(1)Exploration(3)Archaeology(5) | Experience：3,370 |

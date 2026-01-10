@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Groningen](Quests/Other/quest_5130.md)** | Port/village (1) | - |  |
+| **[Groningen](docs/Quests/Other/5001-6000/quest_5130.md)** | Port/village (1) | - |  |

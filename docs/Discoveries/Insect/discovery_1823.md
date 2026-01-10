@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Green bug map](Quests/Other/quest_2888.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |
+| **[Green bug map](docs/Quests/Other/2001-3000/quest_2888.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |

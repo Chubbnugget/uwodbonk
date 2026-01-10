@@ -25,5 +25,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue staring at the Nile](Quests/Adventure/quest_2054.md)** | Adventure quest (4) | Religious Studies (5) Exploration (3) Arabic | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |
-| **[Statue looking at the opening of the canal](Quests/Other/quest_2040.md)** | Imperial command quest (5) | Religious Studies(5)Exploration(3) |  |
+| **[Statue staring at the Nile](docs/Quests/Adventure/2001-3000/quest_2054.md)** | Adventure quest (4) | Religious Studies (5) Exploration (3) Arabic | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Statue looking at the opening of the canal](docs/Quests/Other/2001-3000/quest_2040.md)** | Imperial command quest (5) | Religious Studies(5)Exploration(3) |  |

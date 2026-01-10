@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hobot Palace Investigation](Quests/Adventure/quest_3762.md)** | Adventure Quest (7) Mythology Era | Astronomy (9) Visualization (7) Greek | Reward: 300,000/ Advance: 30,000Experience: 320/ Fame: 135 |
+| **[Hobot Palace Investigation](docs/Quests/Adventure/3001-4000/quest_3762.md)** | Adventure Quest (7) Mythology Era | Astronomy (9) Visualization (7) Greek | Reward: 300,000/ Advance: 30,000Experience: 320/ Fame: 135 |

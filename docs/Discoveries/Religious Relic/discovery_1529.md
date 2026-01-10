@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Greek God Statues](Quests/Other/quest_120.md)** | Religious Studies(2) | Religious Studies(2)Explore(2) |  |
+| **[Map of Greek God Statues](docs/Quests/Other/1-1000/quest_120.md)** | Religious Studies(2) | Religious Studies(2)Explore(2) |  |

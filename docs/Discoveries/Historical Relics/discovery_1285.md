@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Viking Life](Quests/Adventure/quest_3228.md)** | Adventure quest (4) | Exploration (4) Archeology (6) Spanish | Reward: 76,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Viking Life](docs/Quests/Adventure/3001-4000/quest_3228.md)** | Adventure quest (4) | Exploration (4) Archeology (6) Spanish | Reward: 76,000 / Advance payment: 0Experience: 140 / Fame: 65 |

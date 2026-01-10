@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Yellow Wind Hometown](Quests/Adventure/quest_3721.md)** | Adventure quest (7) 14th century | Geography (10) Visual recognition (8) Chinese (1) | Reward: 506,000 / Advance payment: 50,000 Experience: 500 / Fame: 400 |
+| **[Yellow Wind Hometown](docs/Quests/Adventure/3001-4000/quest_3721.md)** | Adventure quest (7) 14th century | Geography (10) Visual recognition (8) Chinese (1) | Reward: 506,000 / Advance payment: 50,000 Experience: 500 / Fame: 400 |

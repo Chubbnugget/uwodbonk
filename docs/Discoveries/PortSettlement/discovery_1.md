@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Acapulco](Quests/Other/quest_5011.md)** | Port/village (1) | - |  |
+| **[Acapulco](docs/Quests/Other/5001-6000/quest_5011.md)** | Port/village (1) | - |  |

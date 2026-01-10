@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | long sword |
 | **Type** | thing |
-| **Group** | [Equipment](Categories/category_27.md) |
+| **Group** | [Equipment](docs/Categories/category_27.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 15,400 |
 | **Description** | Long sword. A common weapon widely used by knights and mercenaries. Durability 30 Attack power 16 Weapon type Sword |

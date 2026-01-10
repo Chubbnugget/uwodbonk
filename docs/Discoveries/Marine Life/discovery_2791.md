@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mutsu](Quests/Other/quest_5405.md)** | Fishing (3) | fishing | Experience：230 |
+| **[Mutsu](docs/Quests/Other/5001-6000/quest_5405.md)** | Fishing (3) | fishing | Experience：230 |

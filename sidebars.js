@@ -3,7 +3,7 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   // This is your main sidebar that will show up for your docs
-  mySidebar: [
+  QuestSidebar: [
     // --- QUESTS SECTION ---
     {
       type: 'category',
@@ -16,7 +16,8 @@ const sidebars = {
         { type: 'doc', id: 'Quests/MapIndex', label: 'Maps' },
       ],
     },
-
+  ],
+  TradeGoodSidebar: [
     // --- TRADE GOODS SECTION ---
     {
       type: 'category',
@@ -44,7 +45,8 @@ const sidebars = {
         { type: 'doc', id: 'Categories/20', label: 'Fabrics' },
       ],
     },
-
+  ],
+  SkillSidebar: [
     // --- SKILLS SECTION (Your original code) ---
     {
       type: 'category',

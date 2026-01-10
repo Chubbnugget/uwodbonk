@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wandering Butterfly](Quests/Adventure/quest_2979.md)** | Adventure quest (5) | Ecological research (5) Biology (7) Mayan languages | Reward: 231,000 / Advance payment: 20,000 Experience: 270 / Fame: 115 |
+| **[Wandering Butterfly](docs/Quests/Adventure/2001-3000/quest_2979.md)** | Adventure quest (5) | Ecological research (5) Biology (7) Mayan languages | Reward: 231,000 / Advance payment: 20,000 Experience: 270 / Fame: 115 |

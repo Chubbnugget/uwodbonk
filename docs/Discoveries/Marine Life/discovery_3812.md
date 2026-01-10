@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What lurks in the sea cucumber](Quests/Adventure/quest_6773.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Indian languages ​​(1) | Reward: 240,000/Advance payment: 20,000Experience: 375 |
+| **[What lurks in the sea cucumber](docs/Quests/Adventure/6001-7000/quest_6773.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Indian languages ​​(1) | Reward: 240,000/Advance payment: 20,000Experience: 375 |

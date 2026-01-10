@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[History of Korean incense burners](Quests/Adventure/quest_2732.md)** | Adventure quest (4) | Exploration (6) Archeology (8) Unlocking (6) | Reward: 188,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |
+| **[History of Korean incense burners](docs/Quests/Adventure/2001-3000/quest_2732.md)** | Adventure quest (4) | Exploration (6) Archeology (8) Unlocking (6) | Reward: 188,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |

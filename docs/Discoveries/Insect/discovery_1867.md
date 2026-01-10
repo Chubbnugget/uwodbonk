@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strong limbs](Quests/Adventure/quest_1680.md)** | Adventure quest (8) | Ecological research (9) Biology (11) Mayan languages | Reward: 135,000 / Advance payment: 0Experience: 390 / Fame: 140 |
+| **[Strong limbs](docs/Quests/Adventure/1001-2000/quest_1680.md)** | Adventure quest (8) | Ecological research (9) Biology (11) Mayan languages | Reward: 135,000 / Advance payment: 0Experience: 390 / Fame: 140 |

@@ -30,4 +30,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mysterious ink painting map](Quests/Other/quest_2745.md)** | 美術(5) | 探索(5)美術(5) | Experience：170 |
+| **[Mysterious ink painting map](docs/Quests/Other/2001-3000/quest_2745.md)** | 美術(5) | 探索(5)美術(5) | Experience：170 |

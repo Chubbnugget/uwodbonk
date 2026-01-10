@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bay in western France](Quests/Adventure/quest_263.md)** | Adventure quest (3) | Geography (1) Visual recognition (1) French (1) | Reward: 6,000/ Advance payment: 0 |
+| **[Bay in western France](docs/Quests/Adventure/1-1000/quest_263.md)** | Adventure quest (3) | Geography (1) Visual recognition (1) French (1) | Reward: 6,000/ Advance payment: 0 |

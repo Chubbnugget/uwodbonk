@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Feather decoration that is a hot topic](Quests/Adventure/quest_2452.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Japanese | Reward: 150,000 / Advance payment: 10,000 Experience: 200 / Fame: 180 |
+| **[Feather decoration that is a hot topic](docs/Quests/Adventure/2001-3000/quest_2452.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Japanese | Reward: 150,000 / Advance payment: 10,000 Experience: 200 / Fame: 180 |

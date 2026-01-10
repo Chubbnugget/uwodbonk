@@ -42,27 +42,27 @@ A city on the Pacific coast that has been rapidly developing in recent years. Pl
 
 | item | group | purchase price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
-| [buckwheat](Items/Trade Goods/TradeGoods-Foodstuffs/item_3430.md) | [Trading items (food items)](Categories/category_3.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [boar](Items/Trade Goods/TradeGoods-Livestock/item_3476.md) | [Trading Goods (Livestock)](Categories/category_18.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [gardenia](Items/Trade Goods/TradeGoods-Perfume/item_1091.md) | [Trading Goods (Spices)](Categories/category_11.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [eggplant](Items/Trade Goods/TradeGoods-Sunddries/item_3426.md) | [Trading goods (hobby goods)](Categories/category_10.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [gallnut](Items/Trade Goods/TradeGoods-Dye/item_3429.md) | [Trading Goods (Dye)](Categories/category_2.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [佐摩銀](Items/Trade Goods/TradeGoods-Metals/item_3432.md) | [Trading products (precious metals)](Categories/category_8.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [Japanese books](Items/Trade Goods/TradeGoods-Misc/item_3439.md) | [交易品（雑貨）](Categories/category_5.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [Japanese paper](Items/Trade Goods/TradeGoods-Wares/item_3438.md) | [交易品（工業品）](Categories/category_19.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [lantern](Items/Trade Goods/TradeGoods-Misc/item_3683.md) | [交易品（雑貨）](Categories/category_5.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [Japanese sword](Items/Trade Goods/TradeGoods-Weapons/item_3437.md) | [Trading Items (Arms)](Categories/category_16.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [Japanese painting](Items/Trade Goods/TradeGoods-Art/item_3436.md) | [交易品（美術品）](Categories/category_14.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [Grapefruit](Items/Trade Goods/TradeGoods-Spices/item_3422.md) | [Trading Goods (Spices)](Categories/category_12.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [Sake](Items/Trade Goods/TradeGoods-Alcohol/item_3424.md) | [交易品（酒類）](Categories/category_9.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [lacquerware](Items/Trade Goods/TradeGoods-Luxuries/item_3435.md) | [Trading goods (artificial goods)](Categories/category_13.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [white porcelain ore](Items/Trade Goods/TradeGoods-Minerals/item_3433.md) | [Trading Items (Iron Stone)](Categories/category_7.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [tanegashima gun](Items/Trade Goods/TradeGoods-Firearms/item_3423.md) | [Trading Items (Firearms)](Categories/category_17.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [amethyst](Items/Trade Goods/TradeGoods-Gems/item_3434.md) | [Trading Items (Gemstones)](Categories/category_15.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [calamus](Items/Trade Goods/TradeGoods-Medicine/item_3427.md) | [Trading products (medical products)](Categories/category_6.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [Nishijin textile](Items/Trade Goods/TradeGoods-Fabrics/item_3431.md) | [交易品（織物）](Categories/category_20.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [soy sauce](Items/Trade Goods/TradeGoods-Seasonings/item_3425.md) | [交易品（調味料）](Categories/category_4.md) | [Edit Purchase Price](Ports/port_180.md) |  |
-| [Green ramie](Items/Trade Goods/TradeGoods-Fibers/item_3428.md) | [交易品（繊維）](Categories/category_1.md) | [Edit Purchase Price](Ports/port_180.md) |  |
+| [buckwheat](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_3430.md) | [Trading items (food items)](docs/Categories/category_3.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [boar](docs/Items/TradeGoods/TradeGoods-Livestock/item_3476.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [gardenia](docs/Items/TradeGoods/TradeGoods-Perfume/item_1091.md) | [Trading Goods (Spices)](docs/Categories/category_11.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [eggplant](docs/Items/TradeGoods/TradeGoods-Sunddries/item_3426.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [gallnut](docs/Items/TradeGoods/TradeGoods-Dye/item_3429.md) | [Trading Goods (Dye)](docs/Categories/category_2.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [佐摩銀](docs/Items/TradeGoods/TradeGoods-Metals/item_3432.md) | [Trading products (precious metals)](docs/Categories/category_8.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [Japanese books](docs/Items/TradeGoods/TradeGoods-Misc/item_3439.md) | [交易品（雑貨）](docs/Categories/category_5.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [Japanese paper](docs/Items/TradeGoods/TradeGoods-Wares/item_3438.md) | [交易品（工業品）](docs/Categories/category_19.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [lantern](docs/Items/TradeGoods/TradeGoods-Misc/item_3683.md) | [交易品（雑貨）](docs/Categories/category_5.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [Japanese sword](docs/Items/TradeGoods/TradeGoods-Weapons/item_3437.md) | [Trading Items (Arms)](docs/Categories/category_16.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [Japanese painting](docs/Items/TradeGoods/TradeGoods-Art/item_3436.md) | [交易品（美術品）](docs/Categories/category_14.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [Grapefruit](docs/Items/TradeGoods/TradeGoods-Spices/item_3422.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [Sake](docs/Items/TradeGoods/TradeGoods-Alcohol/item_3424.md) | [交易品（酒類）](docs/Categories/category_9.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [lacquerware](docs/Items/TradeGoods/TradeGoods-Luxuries/item_3435.md) | [Trading goods (artificial goods)](docs/Categories/category_13.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [white porcelain ore](docs/Items/TradeGoods/TradeGoods-Minerals/item_3433.md) | [Trading Items (Iron Stone)](docs/Categories/category_7.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [tanegashima gun](docs/Items/TradeGoods/TradeGoods-Firearms/item_3423.md) | [Trading Items (Firearms)](docs/Categories/category_17.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [amethyst](docs/Items/TradeGoods/TradeGoods-Gems/item_3434.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [calamus](docs/Items/TradeGoods/TradeGoods-Medicine/item_3427.md) | [Trading products (medical products)](docs/Categories/category_6.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [Nishijin textile](docs/Items/TradeGoods/TradeGoods-Fabrics/item_3431.md) | [交易品（織物）](docs/Categories/category_20.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [soy sauce](docs/Items/TradeGoods/TradeGoods-Seasonings/item_3425.md) | [交易品（調味料）](docs/Categories/category_4.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
+| [Green ramie](docs/Items/TradeGoods/TradeGoods-Fibers/item_3428.md) | [交易品（繊維）](docs/Categories/category_1.md) | [Edit Purchase Price](docs/Ports/port_180.md) |  |
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
@@ -88,54 +88,54 @@ A city on the Pacific coast that has been rapidly developing in recent years. Pl
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [East Asian accessories and crafts](Items/Recipe Book/item_3409.md) | recipe book | 800,000 | tool shop owner |  |
+| [East Asian accessories and crafts](docs/Items/RecipeBooks/item_3409.md) | recipe book | 800,000 | tool shop owner |  |
 
-#### [Equipment (head)](Categories/category_23.md)
+#### [Equipment (head)](docs/Categories/category_23.md)
 
-| [Hairpin](Items/Equipment/Equipment-Head/item_3384.md) | Equipment (head) | 102,000 | tool shop owner |  |
-| [折烏帽子](Items/Equipment/Equipment-Head/item_3383.md) | Equipment (head) | 102,000 | tool shop owner |  |
+| [Hairpin](docs/Items/Equipment/Equipment-Head/item_3384.md) | Equipment (head) | 102,000 | tool shop owner |  |
+| [折烏帽子](docs/Items/Equipment/Equipment-Head/item_3383.md) | Equipment (head) | 102,000 | tool shop owner |  |
 
-#### [Equipment (body)](Categories/category_24.md)
+#### [Equipment (body)](docs/Categories/category_24.md)
 
-| [Kosode (for women)](Items/Equipment/Equipment-Body/item_5077.md) | Equipment (body) | 154,000 | tool shop owner |  |
-| [Kosode (for men)](Items/Equipment/Equipment-Body/item_3379.md) | Equipment (body) | 154,000 | tool shop owner |  |
-| [crested haori hakama](Items/Equipment/Equipment-Body/item_3408.md) | Equipment (body) | 404,000 | tool shop owner |  |
+| [Kosode (for women)](docs/Items/Equipment/Equipment-Body/item_5077.md) | Equipment (body) | 154,000 | tool shop owner |  |
+| [Kosode (for men)](docs/Items/Equipment/Equipment-Body/item_3379.md) | Equipment (body) | 154,000 | tool shop owner |  |
+| [crested haori hakama](docs/Items/Equipment/Equipment-Body/item_3408.md) | Equipment (body) | 404,000 | tool shop owner |  |
 
-#### [Equipment (legs)](Categories/category_26.md)
+#### [Equipment (legs)](docs/Categories/category_26.md)
 
-| [Zori sandals](Items/Equipment/Equipment-Feet/item_3386.md) | Equipment (legs) | 56,000 | tool shop owner |  |
-| [Straw sandals](Items/Equipment/Equipment-Feet/item_3385.md) | Equipment (legs) | 48,000 | tool shop owner |  |
+| [Zori sandals](docs/Items/Equipment/Equipment-Feet/item_3386.md) | Equipment (legs) | 56,000 | tool shop owner |  |
+| [Straw sandals](docs/Items/Equipment/Equipment-Feet/item_3385.md) | Equipment (legs) | 48,000 | tool shop owner |  |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
-| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
+| [strong adhesive oil](docs/Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [torch for throwing](docs/Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [secret cure](docs/Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 
-#### [Consumables (skill activation)](Categories/category_31.md)
+#### [Consumables (skill activation)](docs/Categories/category_31.md)
 
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
+| [fishing gear](docs/Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Consumables (condition recovery)](Categories/category_21.md)
+#### [Consumables (condition recovery)](docs/Categories/category_21.md)
 
-| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
-| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
+| [Nostalgic carillon bell](docs/Items/Consumables/Consumables-Recovery/item_245.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
+| [Ship song sheet music](docs/Items/Consumables/Consumables-Recovery/item_247.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [Japanese weapons](Items/Recipe Book/item_3405.md) | recipe book | Fixed recipe | workshop craftsman |  |
+| [Japanese weapons](docs/Items/RecipeBooks/item_3405.md) | recipe book | Fixed recipe | workshop craftsman |  |
 
-#### [Consumables (other)](Categories/category_44.md)
+#### [Consumables (other)](docs/Categories/category_44.md)
 
-| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | Consumables (other) | 500 | workshop craftsman |  |
-| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | Consumables (other) | 500 | workshop craftsman |  |
+| [帆塗料](docs/Items/Consumables/Consumables-Other/item_348.md) | Consumables (other) | 500 | workshop craftsman |  |
+| [ship paint](docs/Items/Consumables/Consumables-Other/item_347.md) | Consumables (other) | 500 | workshop craftsman |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
 
@@ -144,17 +144,17 @@ A city on the Pacific coast that has been rapidly developing in recent years. Pl
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Boat](Categories/category_43.md)
+#### [Boat](docs/Categories/category_43.md)
 
-| [Hishigaki Kaisen](Items/Ships/item_3388.md) | Boat | 8,400,000 | Shipyard Master |  |
+| [Hishigaki Kaisen](docs/Items/Ships/item_3388.md) | Boat | 8,400,000 | Shipyard Master |  |
 
 ### Shipwright
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [East Asian reinforced board manufacturing method](Items/Recipe Book/item_3472.md) | recipe book | Fixed recipe | Shipwright |  |
+| [East Asian reinforced board manufacturing method](docs/Items/RecipeBooks/item_3472.md) | recipe book | Fixed recipe | Shipwright |  |
   </TabItem>
 </Tabs>

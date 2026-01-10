@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Grinning insect](Quests/Adventure/quest_1900.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Malayu Tagalog | Reward: 101,000/ Advance: 10,000 Experience: 160/ Fame: 75 |
+| **[Grinning insect](docs/Quests/Adventure/1001-2000/quest_1900.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Malayu Tagalog | Reward: 101,000/ Advance: 10,000 Experience: 160/ Fame: 75 |

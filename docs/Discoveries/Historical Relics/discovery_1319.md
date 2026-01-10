@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Proof of saving Roman citizens](Quests/Adventure/quest_1780.md)** | Adventure Quest (5) B.C. | Exploration (4) Archeology (6) Unlocking (4) | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Proof of saving Roman citizens](docs/Quests/Adventure/1001-2000/quest_1780.md)** | Adventure Quest (5) B.C. | Exploration (4) Archeology (6) Unlocking (4) | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 65 |

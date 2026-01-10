@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[God who gave me death](Quests/Adventure/quest_618.md)** | Adventure quest (5) | Religious Studies (4) Exploration (2) Unlocking (2) | Reward: 53,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[God who gave me death](docs/Quests/Adventure/1-1000/quest_618.md)** | Adventure quest (5) | Religious Studies (4) Exploration (2) Unlocking (2) | Reward: 53,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dangerous Cloud](Quests/Adventure/quest_405.md)** | Adventure quest (6) | Ecological research (7) Biology (9) Indian languages | Reward: 2,000/ Advance payment: 20,000 Experience: 270/ Fame: 95 |
+| **[Dangerous Cloud](docs/Quests/Adventure/1-1000/quest_405.md)** | Adventure quest (6) | Ecological research (7) Biology (9) Indian languages | Reward: 2,000/ Advance payment: 20,000 Experience: 270/ Fame: 95 |

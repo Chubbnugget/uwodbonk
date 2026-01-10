@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pioneer of Greatness](Quests/Adventure/quest_337.md)** | Adventure Quest (7) B.C. | Exploration (6) Archeology (8) Unlocking (6) | Reward: 92,000 / Advance payment: 0Experience: 170 / Fame: 90 |
+| **[Pioneer of Greatness](docs/Quests/Adventure/1-1000/quest_337.md)** | Adventure Quest (7) B.C. | Exploration (6) Archeology (8) Unlocking (6) | Reward: 92,000 / Advance payment: 0Experience: 170 / Fame: 90 |

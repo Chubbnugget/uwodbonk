@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Scylla and Charybdis](Quests/Adventure/quest_3157.md)** | Adventure Quest (7) Mythology Era | Geography (7) Visual recognition (5) Italian (1) | Reward: 129,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |
+| **[Scylla and Charybdis](docs/Quests/Adventure/3001-4000/quest_3157.md)** | Adventure Quest (7) Mythology Era | Geography (7) Visual recognition (5) Italian (1) | Reward: 129,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |

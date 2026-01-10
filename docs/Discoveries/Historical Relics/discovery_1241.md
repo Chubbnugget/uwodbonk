@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legend of Crete](Quests/Adventure/quest_145.md)** | Adventure quest (7) | Exploration (6) Archeology (8) Unlocking (6) | Reward: 2,000/ Advance payment: 10,000 Experience: 170/ Fame: 85 |
+| **[Legend of Crete](docs/Quests/Adventure/1-1000/quest_145.md)** | Adventure quest (7) | Exploration (6) Archeology (8) Unlocking (6) | Reward: 2,000/ Advance payment: 10,000 Experience: 170/ Fame: 85 |

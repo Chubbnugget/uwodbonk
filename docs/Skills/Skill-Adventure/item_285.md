@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | 美術 |
 | **Type** | thing |
-| **Group** | [Skill (Adventure)](Categories/category_39.md) |
+| **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 5,000 |
 | **Description** | Able to collect information on art objects and appraise discovered objects. Learning conditions 5/2/0/total 0 Prerequisite skill Treasure appraisal (1) |
 | **Last Updated** | 2005-04-02 09:58:31 System |

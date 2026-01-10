@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Peutinger diagram](Quests/Other/quest_6634.md)** | Legacy(1) | - |  |
+| **[Peutinger diagram](docs/Quests/Other/6001-7000/quest_6634.md)** | Legacy(1) | - |  |

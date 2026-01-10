@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Nutritious plants](Quests/Adventure/quest_5454.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Spanish (1) | Reward: 182,000 / Advance payment: 10,000 Experience: 200 / Fame: 115 |
+| **[Nutritious plants](docs/Quests/Adventure/5001-6000/quest_5454.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Spanish (1) | Reward: 182,000 / Advance payment: 10,000 Experience: 200 / Fame: 115 |

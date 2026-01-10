@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Temple Guardian](Quests/Adventure/quest_1468.md)** | Adventure quest (6) | Religious Studies (7) Exploration (5) Indian Languages | Reward: 66,000 / Advance payment: 0Experience: 260 / Fame: 85 |
+| **[Temple Guardian](docs/Quests/Adventure/1001-2000/quest_1468.md)** | Adventure quest (6) | Religious Studies (7) Exploration (5) Indian Languages | Reward: 66,000 / Advance payment: 0Experience: 260 / Fame: 85 |

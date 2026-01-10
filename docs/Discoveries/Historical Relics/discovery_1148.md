@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Light shining on the mural](Quests/Adventure/quest_3881.md)** | Adventure quest (9) 19th century | Exploration (8) Archeology (10) North American languages | Reward: 472,000 / Advance payment: 40,000 Experience: 440 / Fame: 180 |
+| **[Light shining on the mural](docs/Quests/Adventure/3001-4000/quest_3881.md)** | Adventure quest (9) 19th century | Exploration (8) Archeology (10) North American languages | Reward: 472,000 / Advance payment: 40,000 Experience: 440 / Fame: 180 |

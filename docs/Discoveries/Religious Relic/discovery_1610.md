@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Korean relics](Quests/Other/quest_2731.md)** | Religious Studies(4) | Religious Studies (4) Exploration (4) Unlocking (4) |  |
+| **[Map of Korean relics](docs/Quests/Other/2001-3000/quest_2731.md)** | Religious Studies(4) | Religious Studies (4) Exploration (4) Unlocking (4) |  |

@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Triangular frog map](Quests/Other/quest_2537.md)** | Biology学(7) | Ecological Survey(7)Biology(7) | Experience：240 |
+| **[Triangular frog map](docs/Quests/Other/2001-3000/quest_2537.md)** | Biology学(7) | Ecological Survey(7)Biology(7) | Experience：240 |

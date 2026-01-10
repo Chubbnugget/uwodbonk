@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The goddess who seduces Melos Island](Quests/Adventure/quest_1692.md)** | Adventure Quest (10) B.C. | Exploration (12) Art (14) Greek | Reward: 134,000 / Advance payment: 10,000 Experience: 410 / Fame: 135 |
+| **[The goddess who seduces Melos Island](docs/Quests/Adventure/1001-2000/quest_1692.md)** | Adventure Quest (10) B.C. | Exploration (12) Art (14) Greek | Reward: 134,000 / Advance payment: 10,000 Experience: 410 / Fame: 135 |

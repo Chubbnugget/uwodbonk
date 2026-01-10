@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[New World Ritual Flute](Quests/Adventure/quest_1964.md)** | Adventure quest (6) | Exploration (5) Treasures Appraisal (7) Quechua | Reward: 248,000 / Advance payment: 20,000 Experience: 280 / Fame: 240 |
+| **[New World Ritual Flute](docs/Quests/Adventure/1001-2000/quest_1964.md)** | Adventure quest (6) | Exploration (5) Treasures Appraisal (7) Quechua | Reward: 248,000 / Advance payment: 20,000 Experience: 280 / Fame: 240 |

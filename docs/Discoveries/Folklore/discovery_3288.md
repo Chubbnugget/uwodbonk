@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore related to rainbow](Quests/Other/quest_6126.md)** | Tradition (7) | Geography学(11) | Reward: 614,300/Advance payment: 60,000Experience: 690 |
+| **[Lore related to rainbow](docs/Quests/Other/6001-7000/quest_6126.md)** | Tradition (7) | Geography学(11) | Reward: 614,300/Advance payment: 60,000Experience: 690 |

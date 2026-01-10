@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[New information about Buddha](Quests/Adventure/quest_6365.md)** | Adventure Quest (5) B.C. | Religious Studies (6) Visual Recognition (4) Korean | Reward: 155,000 / Advance payment: 20,000 Experience: 360 / Fame: 100 |
+| **[New information about Buddha](docs/Quests/Adventure/6001-7000/quest_6365.md)** | Adventure Quest (5) B.C. | Religious Studies (6) Visual Recognition (4) Korean | Reward: 155,000 / Advance payment: 20,000 Experience: 360 / Fame: 100 |

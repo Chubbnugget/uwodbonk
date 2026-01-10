@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Book from which the past is missing](Quests/Adventure/quest_3621.md)** | Adventure Quest (5) 18th Century 3rd Period | Exploration (3) Archeology (5) Unlocking (3) | Reward: 89,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Book from which the past is missing](docs/Quests/Adventure/3001-4000/quest_3621.md)** | Adventure Quest (5) 18th Century 3rd Period | Exploration (3) Archeology (5) Unlocking (3) | Reward: 89,000 / Advance payment: 0Experience: 150 / Fame: 70 |

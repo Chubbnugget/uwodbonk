@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Another Primal Chronicle](Quests/Adventure/quest_3656.md)** | Adventure Quest (5) 18th Century 3rd Period | Exploration (3) Treasures Appraisal (5) Unlocking (3) | Reward: 149,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[Another Primal Chronicle](docs/Quests/Adventure/3001-4000/quest_3656.md)** | Adventure Quest (5) 18th Century 3rd Period | Exploration (3) Treasures Appraisal (5) Unlocking (3) | Reward: 149,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

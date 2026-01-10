@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Right person in the right place for a painter](Quests/Adventure/quest_2002.md)** | Adventure Quest (6) 17th Century 1st Period | Exploration (6) Art (8) Norse | Reward: 111,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Right person in the right place for a painter](docs/Quests/Adventure/2001-3000/quest_2002.md)** | Adventure Quest (6) 17th Century 1st Period | Exploration (6) Art (8) Norse | Reward: 111,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

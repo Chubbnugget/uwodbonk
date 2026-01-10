@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Chasing Yellow](Quests/Adventure/quest_367.md)** | Adventure quest (9) | Ecological research (10) Biology (12) Crafts (4) | Reward: 285,000 / Advance payment: 20,000 Experience: 440 / Fame: 180 |
+| **[Chasing Yellow](docs/Quests/Adventure/1-1000/quest_367.md)** | Adventure quest (9) | Ecological research (10) Biology (12) Crafts (4) | Reward: 285,000 / Advance payment: 20,000 Experience: 440 / Fame: 180 |

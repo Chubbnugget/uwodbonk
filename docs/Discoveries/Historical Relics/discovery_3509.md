@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Accurate artillery calculation device](Quests/Adventure/quest_6431.md)** | Adventure quest (2) | Exploration (1) Archeology (3) Italian (1) | Reward: 85,000 / Advance payment: 10,000 Experience: 140 / Fame: 80 |
+| **[Accurate artillery calculation device](docs/Quests/Adventure/6001-7000/quest_6431.md)** | Adventure quest (2) | Exploration (1) Archeology (3) Italian (1) | Reward: 85,000 / Advance payment: 10,000 Experience: 140 / Fame: 80 |

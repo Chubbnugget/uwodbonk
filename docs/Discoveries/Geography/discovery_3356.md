@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The basis there](Quests/Adventure/quest_6222.md)** | Adventure Quest (8) B.C. | Geography (12) Religious Studies (8) Visualization (10) | Reward: 164,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |
+| **[The basis there](docs/Quests/Adventure/6001-7000/quest_6222.md)** | Adventure Quest (8) B.C. | Geography (12) Religious Studies (8) Visualization (10) | Reward: 164,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |

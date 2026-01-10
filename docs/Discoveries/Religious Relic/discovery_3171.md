@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sacred nail that changed form](Quests/Adventure/quest_5904.md)** | Adventure quest (10) | Religious Studies (17) Exploration (15) Italian | Reward: 333,000 / Advance payment: 30,000 Experience: 300 / Fame: 175 |
+| **[Sacred nail that changed form](docs/Quests/Adventure/5001-6000/quest_5904.md)** | Adventure quest (10) | Religious Studies (17) Exploration (15) Italian | Reward: 333,000 / Advance payment: 30,000 Experience: 300 / Fame: 175 |

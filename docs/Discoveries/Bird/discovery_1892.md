@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fire-bearing bird](Quests/Adventure/quest_3578.md)** | Adventure quest (8) | Ecological research (4) Biology (6) Oceanian languages ​​(1) | Reward: 429,000 / Advance payment: 40,000 Experience: 430 / Fame: 175 |
+| **[Fire-bearing bird](docs/Quests/Adventure/3001-4000/quest_3578.md)** | Adventure quest (8) | Ecological research (4) Biology (6) Oceanian languages ​​(1) | Reward: 429,000 / Advance payment: 40,000 Experience: 430 / Fame: 175 |

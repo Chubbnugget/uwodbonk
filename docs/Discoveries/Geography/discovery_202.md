@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Geography Survey of Eastern North America](Quests/Adventure/quest_3165.md)** | Adventure Quest (6) 16th Century 2nd Period | Geography (5) Visual recognition (3) Spanish (1) | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Geography Survey of Eastern North America](docs/Quests/Adventure/3001-4000/quest_3165.md)** | Adventure Quest (6) 16th Century 2nd Period | Geography (5) Visual recognition (3) Spanish (1) | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |

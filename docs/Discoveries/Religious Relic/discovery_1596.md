@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Continuous culture](Quests/Adventure/quest_1861.md)** | Adventure quest (7) | Religious Studies (9) Exploration (7) Unlocking (7) | Reward: 80,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Continuous culture](docs/Quests/Adventure/1001-2000/quest_1861.md)** | Adventure quest (7) | Religious Studies (9) Exploration (7) Unlocking (7) | Reward: 80,000 / Advance payment: 0Experience: 140 / Fame: 70 |

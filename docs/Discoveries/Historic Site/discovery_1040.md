@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A dream that wakes up a nightmare](Quests/Adventure/quest_3191.md)** | Adventure quest (10) | Religious Studies (11) Archeology (14) Visualization (12) Norse | Reward: 492,000/Advance payment: 40,000Experience: 768 |
+| **[A dream that wakes up a nightmare](docs/Quests/Adventure/3001-4000/quest_3191.md)** | Adventure quest (10) | Religious Studies (11) Archeology (14) Visualization (12) Norse | Reward: 492,000/Advance payment: 40,000Experience: 768 |

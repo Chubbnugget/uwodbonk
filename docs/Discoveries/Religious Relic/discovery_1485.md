@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Luxor Temple (Deep Hidden Passage)](Quests/Other/quest_3668.md)** | Dungeon (1) | - |  |
+| **[Luxor Temple (Deep Hidden Passage)](docs/Quests/Other/3001-4000/quest_3668.md)** | Dungeon (1) | - |  |

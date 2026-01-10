@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Soren](Quests/Other/quest_2112.md)** | Sunken ship(8) | Salvage visibility (4) |  |
+| **[Soren](docs/Quests/Other/2001-3000/quest_2112.md)** | Sunken ship(8) | Salvage visibility (4) |  |

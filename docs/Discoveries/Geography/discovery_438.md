@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Islet in the West of Britain](Quests/Adventure/quest_265.md)** | Adventure quest (4) | Geography (2) Visual recognition (1) English | Remuneration: 18,000 / Advance payment: 0 |
+| **[Islet in the West of Britain](docs/Quests/Adventure/1-1000/quest_265.md)** | Adventure quest (4) | Geography (2) Visual recognition (1) English | Remuneration: 18,000 / Advance payment: 0 |

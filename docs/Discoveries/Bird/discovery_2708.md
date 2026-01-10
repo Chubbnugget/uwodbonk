@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Friend of the Beast](Quests/Adventure/quest_5295.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Swahili | Reward: 227,000/ Advance: 20,000Experience: 230/ Fame: 130 |
+| **[Friend of the Beast](docs/Quests/Adventure/5001-6000/quest_5295.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Swahili | Reward: 227,000/ Advance: 20,000Experience: 230/ Fame: 130 |

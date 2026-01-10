@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of the big pink bird](Quests/Other/quest_6952.md)** | Pursuit quest (8) | Ecological research (9) Biology (11) Indian languages ​​(1) | Remuneration: 165,000 / Advance payment: 0 |
+| **[Additional investigation of the big pink bird](docs/Quests/Other/6001-7000/quest_6952.md)** | Pursuit quest (8) | Ecological research (9) Biology (11) Indian languages ​​(1) | Remuneration: 165,000 / Advance payment: 0 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Mesopotamian city](Quests/Adventure/quest_550.md)** | Adventure Quest (7) B.C. | Archeology (5) Visualization (3) Arabic | Reward: 362,200 / Advance payment: 10,000 Experience: 290 / Fame: 125 |
+| **[Ancient Mesopotamian city](docs/Quests/Adventure/1-1000/quest_550.md)** | Adventure Quest (7) B.C. | Archeology (5) Visualization (3) Arabic | Reward: 362,200 / Advance payment: 10,000 Experience: 290 / Fame: 125 |

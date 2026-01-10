@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Islet and Mountain](Quests/Adventure/quest_2252.md)** | Adventure quest (4) | Geography (6) Visual recognition (4) | Reward: 184,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |
+| **[Islet and Mountain](docs/Quests/Adventure/2001-3000/quest_2252.md)** | Adventure quest (4) | Geography (6) Visual recognition (4) | Reward: 184,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |

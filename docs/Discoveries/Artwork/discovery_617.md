@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Feelings of seeking peace](Quests/Adventure/quest_2831.md)** | Adventure quest (8) | 探索(7)美術(9)中国語 | Reward: 493,000 / Advance payment: 40,000 Experience: 480 / Fame: 195 |
+| **[Feelings of seeking peace](docs/Quests/Adventure/2001-3000/quest_2831.md)** | Adventure quest (8) | 探索(7)美術(9)中国語 | Reward: 493,000 / Advance payment: 40,000 Experience: 480 / Fame: 195 |

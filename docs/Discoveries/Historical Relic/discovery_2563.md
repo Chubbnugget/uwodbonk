@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Where is the wise man](Quests/Other/quest_3433.md)** | Treasure hunting (7) | Religious Studies (12) Exploration (10) Turkish |  |
+| **[Where is the wise man](docs/Quests/Other/3001-4000/quest_3433.md)** | Treasure hunting (7) | Religious Studies (12) Exploration (10) Turkish |  |

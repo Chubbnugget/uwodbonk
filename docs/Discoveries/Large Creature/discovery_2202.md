@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What lurks in the Amazon River](Quests/Adventure/quest_1193.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Mayan languages | Reward: 115,000 / Advance payment: 0Experience: 285 / Fame: 100 |
+| **[What lurks in the Amazon River](docs/Quests/Adventure/1001-2000/quest_1193.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Mayan languages | Reward: 115,000 / Advance payment: 0Experience: 285 / Fame: 100 |

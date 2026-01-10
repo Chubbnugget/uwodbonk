@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legendary King](Quests/Adventure/quest_864.md)** | Adventure Quest (8) B.C. | Exploration (8) Archeology (10) Unlocking (8) | Reward: 238,000 / Advance payment: 0Experience: 200 / Fame: 105 |
+| **[Legendary King](docs/Quests/Adventure/1-1000/quest_864.md)** | Adventure Quest (8) B.C. | Exploration (8) Archeology (10) Unlocking (8) | Reward: 238,000 / Advance payment: 0Experience: 200 / Fame: 105 |

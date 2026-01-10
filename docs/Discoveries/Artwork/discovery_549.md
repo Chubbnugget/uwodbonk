@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King's Painter and King of Painters](Quests/Adventure/quest_1076.md)** | Adventure quest (7) 17th century 1st period | Exploration (7) Art (9) Unlocking (7) | Reward: 128,000 / Advance payment: 0Experience: 255 / Fame: 90 |
+| **[King's Painter and King of Painters](docs/Quests/Adventure/1001-2000/quest_1076.md)** | Adventure quest (7) 17th century 1st period | Exploration (7) Art (9) Unlocking (7) | Reward: 128,000 / Advance payment: 0Experience: 255 / Fame: 90 |

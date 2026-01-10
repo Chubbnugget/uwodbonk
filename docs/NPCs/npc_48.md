@@ -35,12 +35,12 @@ type: NPC
 
 | Item Name | Group | Purchase Price | Notes |
 | --- | --- | --- | --- |
-| [Advanced casting technology](Items/Recipe Book/item_2848.md) | [Recipe book](Categories/category_22.md) | Fixed recipe | [Trujillo](Ports/port_115.md) |
+| [Advanced casting technology](docs/Items/RecipeBooks/item_2848.md) | [Recipe book](docs/Categories/category_22.md) | Fixed recipe | [Trujillo](docs/Ports/port_115.md) |
 
 ## NPC: Item Name
 
 | Item Name | Group | Purchase Price | Notes |
 | --- | --- | --- | --- |
-| [Advanced casting technology](Items/Recipe Book/item_2848.md) | [Recipe book](Categories/category_22.md) | Fixed recipe | [Trujillo](Ports/port_115.md) |
+| [Advanced casting technology](docs/Items/RecipeBooks/item_2848.md) | [Recipe book](docs/Categories/category_22.md) | Fixed recipe | [Trujillo](docs/Ports/port_115.md) |
 
 ## NPC: Item Name

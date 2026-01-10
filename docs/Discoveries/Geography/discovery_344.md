@@ -26,5 +26,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[South American topographic survey](Quests/Adventure/quest_2019.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Quechua | Reward: 99,000 / Advance payment: 0Experience: 160 / Fame: 75 |
-| **[Guidepost to the west coast of the new continent](Quests/Other/quest_1774.md)** | Imperial command quest (4) | Geography (5) Visual recognition (3) |  |
+| **[South American topographic survey](docs/Quests/Adventure/2001-3000/quest_2019.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Quechua | Reward: 99,000 / Advance payment: 0Experience: 160 / Fame: 75 |
+| **[Guidepost to the west coast of the new continent](docs/Quests/Other/1001-2000/quest_1774.md)** | Imperial command quest (4) | Geography (5) Visual recognition (3) |  |

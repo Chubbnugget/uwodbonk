@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Titania](Quests/Other/quest_5990.md)** | Celestial Object Discovery Name(9)18th Century Issue 4 | Astronomy(9) | Experience：710 |
+| **[Titania](docs/Quests/Other/5001-6000/quest_5990.md)** | Celestial Object Discovery Name(9)18th Century Issue 4 | Astronomy(9) | Experience：710 |

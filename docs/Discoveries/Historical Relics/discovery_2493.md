@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[古代の建築指南書](Quests/Adventure/quest_4866.md)** | Adventure Quest (8) B.C. | Exploration (6) Archeology (8) Arabic | Reward: 300,000 / Advance payment: 30,000 Experience: 320 / Fame: 160 |
+| **[古代の建築指南書](docs/Quests/Adventure/4001-5000/quest_4866.md)** | Adventure Quest (8) B.C. | Exploration (6) Archeology (8) Arabic | Reward: 300,000 / Advance payment: 30,000 Experience: 320 / Fame: 160 |

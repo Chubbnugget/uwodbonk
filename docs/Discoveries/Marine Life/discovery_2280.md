@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wolffish](Quests/Other/quest_2984.md)** | Fishing (2) | Fishing (4) |  |
+| **[Wolffish](docs/Quests/Other/2001-3000/quest_2984.md)** | Fishing (2) | Fishing (4) |  |

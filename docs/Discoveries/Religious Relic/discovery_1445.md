@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Zulu mythology](Quests/Adventure/quest_171.md)** | Adventure quest (5) | Religious Studies (4) Exploration (2) Unlocking (2) | Reward: 53,000Experience: 130/ Fame: 65 |
+| **[Zulu mythology](docs/Quests/Adventure/1-1000/quest_171.md)** | Adventure quest (5) | Religious Studies (4) Exploration (2) Unlocking (2) | Reward: 53,000Experience: 130/ Fame: 65 |

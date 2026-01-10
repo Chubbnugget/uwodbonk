@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Martinenga](Quests/Other/quest_2115.md)** | Sunken ship(7) | Salvage visibility (4) |  |
+| **[Martinenga](docs/Quests/Other/2001-3000/quest_2115.md)** | Sunken ship(7) | Salvage visibility (4) |  |

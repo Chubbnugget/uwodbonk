@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hard Wood Map](Quests/Other/quest_3176.md)** | Biology学(5) | Ecological Survey(5)Biology(5) | Experience：190 |
+| **[Hard Wood Map](docs/Quests/Other/3001-4000/quest_3176.md)** | Biology学(5) | Ecological Survey(5)Biology(5) | Experience：190 |

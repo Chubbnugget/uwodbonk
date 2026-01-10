@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Popular religious paintings](Quests/Adventure/quest_1045.md)** | Adventure quest (3) 15th century 1st period | Exploration (1) Art (2) French | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 130 |
+| **[Popular religious paintings](docs/Quests/Adventure/1001-2000/quest_1045.md)** | Adventure quest (3) 15th century 1st period | Exploration (1) Art (2) French | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 130 |

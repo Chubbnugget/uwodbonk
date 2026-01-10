@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Da Vinci's authentic handwriting](Quests/Adventure/quest_194.md)** | Adventure Quest (9) 15th Century 5th Period | Exploration (10) Art (12) Italian | Reward: 148,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[Da Vinci's authentic handwriting](docs/Quests/Adventure/1-1000/quest_194.md)** | Adventure Quest (9) 15th Century 5th Period | Exploration (10) Art (12) Italian | Reward: 148,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

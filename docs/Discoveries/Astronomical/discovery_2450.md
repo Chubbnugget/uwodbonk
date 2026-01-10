@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Formalhaut](Quests/Other/quest_3779.md)** | Celestial Object Discovery Name(7)14th century | Astronomy(7) |  |
+| **[Formalhaut](docs/Quests/Other/3001-4000/quest_3779.md)** | Celestial Object Discovery Name(7)14th century | Astronomy(7) |  |

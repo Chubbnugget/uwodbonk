@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[House of God](Quests/Adventure/quest_4837.md)** | Adventure quest (6) | Archeology (5) Visualization (3) Italian (1) | Reward: 246,000 / Advance payment: 20,000 Experience: 280 / Fame: 120 |
+| **[House of God](docs/Quests/Adventure/4001-5000/quest_4837.md)** | Adventure quest (6) | Archeology (5) Visualization (3) Italian (1) | Reward: 246,000 / Advance payment: 20,000 Experience: 280 / Fame: 120 |

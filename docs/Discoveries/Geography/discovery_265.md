@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Recommendation of local procurement](Quests/Adventure/quest_2256.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) | Reward: 111,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Recommendation of local procurement](docs/Quests/Adventure/2001-3000/quest_2256.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) | Reward: 111,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

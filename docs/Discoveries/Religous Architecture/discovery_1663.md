@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jewel built in Paris](Quests/Adventure/quest_3154.md)** | Adventure quest (9) | Religious Studies (5) Visual Recognition (3) French (1) | Reward: 72,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Jewel built in Paris](docs/Quests/Adventure/3001-4000/quest_3154.md)** | Adventure quest (9) | Religious Studies (5) Visual Recognition (3) French (1) | Reward: 72,000 / Advance payment: 0Experience: 130 / Fame: 65 |

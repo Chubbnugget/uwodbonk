@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fish living with sea anemones](Quests/Adventure/quest_46.md)** | Adventure quest (6) | Ecological research (3) Biology (5) Arabic | Reward: 67,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Fish living with sea anemones](docs/Quests/Adventure/1-1000/quest_46.md)** | Adventure quest (6) | Ecological research (3) Biology (5) Arabic | Reward: 67,000 / Advance payment: 0Experience: 150 / Fame: 70 |

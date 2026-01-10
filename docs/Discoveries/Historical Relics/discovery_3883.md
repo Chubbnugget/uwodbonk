@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Wig](Quests/Adventure/quest_6870.md)** | Adventure quest (9) | Exploration (12) Archeology (14) French (1) | Reward: 292,000 / Advance payment: 10,000 Experience: 270 |
+| **[Ancient Wig](docs/Quests/Adventure/6001-7000/quest_6870.md)** | Adventure quest (9) | Exploration (12) Archeology (14) French (1) | Reward: 292,000 / Advance payment: 10,000 Experience: 270 |

@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | bougainvillea |
 | **Type** | thing |
-| **Group** | [Equipment（頭）](Categories/category_23.md) |
+| **Group** | [Equipment（頭）](docs/Categories/category_23.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 14,300 |
 | **Description** | Brightly colored tropical flowers. Used as a headdress. *There are 5 colors Gender restrictions Female Durability 25 Formal wear 4 Total required fame 400 |

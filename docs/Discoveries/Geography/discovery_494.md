@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sisters' Fate](Quests/Adventure/quest_2570.md)** | Adventure quest (6) | Geography (5) Visual recognition (3) Chinese (1) | Reward: 130,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |
+| **[Sisters' Fate](docs/Quests/Adventure/2001-3000/quest_2570.md)** | Adventure quest (6) | Geography (5) Visual recognition (3) Chinese (1) | Reward: 130,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |

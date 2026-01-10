@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King of Madagascar](Quests/Adventure/quest_290.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Swahili | Reward: 249,000 / Advance payment: 10,000 Experience: 315 / Fame: 110 |
+| **[King of Madagascar](docs/Quests/Adventure/1-1000/quest_290.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Swahili | Reward: 249,000 / Advance payment: 10,000 Experience: 315 / Fame: 110 |

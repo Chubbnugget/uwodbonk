@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Odessa](Quests/Other/quest_5029.md)** | Port/village (1) | - |  |
+| **[Odessa](docs/Quests/Other/5001-6000/quest_5029.md)** | Port/village (1) | - |  |

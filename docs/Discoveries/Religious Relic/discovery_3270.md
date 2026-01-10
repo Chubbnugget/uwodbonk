@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Solving the Visionary Mystery](Quests/Adventure/quest_6106.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) German | Reward: 287,000/ Advance: 20,000Experience: 270/ Fame: 155 |
+| **[Solving the Visionary Mystery](docs/Quests/Adventure/6001-7000/quest_6106.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) German | Reward: 287,000/ Advance: 20,000Experience: 270/ Fame: 155 |

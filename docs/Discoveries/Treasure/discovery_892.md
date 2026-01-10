@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Yoshio's true face](Quests/Adventure/quest_2852.md)** | Adventure quest (7) | 探索(6)Treasures鑑定(8)中国語 | Reward: 95,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Yoshio's true face](docs/Quests/Adventure/2001-3000/quest_2852.md)** | Adventure quest (7) | 探索(6)Treasures鑑定(8)中国語 | Reward: 95,000 / Advance payment: 0Experience: 150 / Fame: 75 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Nebra's Observatory](Quests/Other/quest_6532.md)** | Legacy(1) | - | Experience：2,700 |
+| **[Nebra's Observatory](docs/Quests/Other/6001-7000/quest_6532.md)** | Legacy(1) | - | Experience：2,700 |

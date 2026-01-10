@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unusual-shaped giant rock](Quests/Adventure/quest_5813.md)** | Adventure quest (4) | Geography (7) Visualization (5) Turkish | Reward: 214,000/ Advance: 20,000Experience: 220/ Fame: 125 |
+| **[Unusual-shaped giant rock](docs/Quests/Adventure/5001-6000/quest_5813.md)** | Adventure quest (4) | Geography (7) Visualization (5) Turkish | Reward: 214,000/ Advance: 20,000Experience: 220/ Fame: 125 |

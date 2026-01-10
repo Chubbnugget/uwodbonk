@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Strait that protects the transparency of the Red Sea](Quests/Adventure/quest_574.md)** | Adventure quest (5) | Geography (4) Visual recognition (2) Arabic | Reward: 52,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[The Strait that protects the transparency of the Red Sea](docs/Quests/Adventure/1-1000/quest_574.md)** | Adventure quest (5) | Geography (4) Visual recognition (2) Arabic | Reward: 52,000 / Advance payment: 0Experience: 150 / Fame: 70 |

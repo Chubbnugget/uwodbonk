@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red Sprite](Quests/Other/quest_5836.md)** | Weather/phenomena (4) | Visual recognition (12) | Experience：650 |
+| **[Red Sprite](docs/Quests/Other/5001-6000/quest_5836.md)** | Weather/phenomena (4) | Visual recognition (12) | Experience：650 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cursed Treasures](Quests/Adventure/quest_5742.md)** | Adventure Quest (10) Mythology Era | Religious Studies (17) Exploration (15) Dutch | Remuneration: 166,000 / Advance payment: 10,000 |
+| **[Cursed Treasures](docs/Quests/Adventure/5001-6000/quest_5742.md)** | Adventure Quest (10) Mythology Era | Religious Studies (17) Exploration (15) Dutch | Remuneration: 166,000 / Advance payment: 10,000 |

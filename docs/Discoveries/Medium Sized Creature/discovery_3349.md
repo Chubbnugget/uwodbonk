@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Creating exceptions](Quests/Adventure/quest_6209.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Malayu Tagalog | Reward: 99,000 / Advance payment: 0Experience: 150 / Fame: 80 |
+| **[Creating exceptions](docs/Quests/Adventure/6001-7000/quest_6209.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Malayu Tagalog | Reward: 99,000 / Advance payment: 0Experience: 150 / Fame: 80 |

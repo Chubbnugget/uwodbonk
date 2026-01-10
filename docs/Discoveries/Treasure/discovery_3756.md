@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Secret of immortality](Quests/Adventure/quest_6712.md)** | Adventure quest (6) | 探索(6)Treasures鑑定(8)中国語(1) | Reward: 380,000/Advance: 40,000Experience: 380 |
+| **[Secret of immortality](docs/Quests/Adventure/6001-7000/quest_6712.md)** | Adventure quest (6) | 探索(6)Treasures鑑定(8)中国語(1) | Reward: 380,000/Advance: 40,000Experience: 380 |

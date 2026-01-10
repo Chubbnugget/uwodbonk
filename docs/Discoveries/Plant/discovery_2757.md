@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful flowers and their anecdotes](Quests/Adventure/quest_5363.md)** | Adventure quest (5) | Religious studies (2) Ecological research (4) Biology (6) | Reward: 354,000 / Advance payment: 30,000 Experience: 310 / Fame: 185 |
+| **[Beautiful flowers and their anecdotes](docs/Quests/Adventure/5001-6000/quest_5363.md)** | Adventure quest (5) | Religious studies (2) Ecological research (4) Biology (6) | Reward: 354,000 / Advance payment: 30,000 Experience: 310 / Fame: 185 |

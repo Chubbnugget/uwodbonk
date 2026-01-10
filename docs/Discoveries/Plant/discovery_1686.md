@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ingredients for sweets](Quests/Adventure/quest_2539.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Chinese | Reward: 252,000 / Advance payment: 20,000 Experience: 280 / Fame: 120 |
+| **[Ingredients for sweets](docs/Quests/Adventure/2001-3000/quest_2539.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Chinese | Reward: 252,000 / Advance payment: 20,000 Experience: 280 / Fame: 120 |

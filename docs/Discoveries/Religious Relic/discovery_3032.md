@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A coffin that feels so good you'll die](Quests/Adventure/quest_5733.md)** | Adventure Quest (10) Mythology Era | Religious Studies (17) Exploration (15) Arabic | Reward: 403,000/ Advance: 40,000Experience: 340/ Fame: 205 |
+| **[A coffin that feels so good you'll die](docs/Quests/Adventure/5001-6000/quest_5733.md)** | Adventure Quest (10) Mythology Era | Religious Studies (17) Exploration (15) Arabic | Reward: 403,000/ Advance: 40,000Experience: 340/ Fame: 205 |

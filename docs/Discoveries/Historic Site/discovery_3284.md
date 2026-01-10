@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Shidayu's writing](Quests/Other/quest_6133.md)** | Archeology(10) | Archeology(10)Visibility(10) |  |
+| **[Shidayu's writing](docs/Quests/Other/6001-7000/quest_6133.md)** | Archeology(10) | Archeology(10)Visibility(10) |  |

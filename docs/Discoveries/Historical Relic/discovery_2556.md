@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legend of no return](Quests/Other/quest_3432.md)** | Treasure hunting (5) | Religion(9)Exploration(7)Archaeology(5) |  |
+| **[Legend of no return](docs/Quests/Other/3001-4000/quest_3432.md)** | Treasure hunting (5) | Religion(9)Exploration(7)Archaeology(5) |  |

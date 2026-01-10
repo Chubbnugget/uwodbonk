@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hungarian Queen's Water](Quests/Other/quest_6448.md)** | Legacy(1) | - |  |
+| **[Hungarian Queen's Water](docs/Quests/Other/6001-7000/quest_6448.md)** | Legacy(1) | - |  |

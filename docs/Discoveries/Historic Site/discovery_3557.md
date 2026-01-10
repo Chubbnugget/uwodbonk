@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional survey of stone buildings](Quests/Other/quest_6483.md)** | Pursuit quest (3) | Archeology (10) Visualization (8) Swahili (1) | Reward: 190,000 / Advance payment: 0Experience: 340 |
+| **[Additional survey of stone buildings](docs/Quests/Other/6001-7000/quest_6483.md)** | Pursuit quest (3) | Archeology (10) Visualization (8) Swahili (1) | Reward: 190,000 / Advance payment: 0Experience: 340 |

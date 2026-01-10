@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Bird Bone Map](Quests/Other/quest_6218.md)** | Biology学(8) | Explore(8)Biology(8) |  |
+| **[Giant Bird Bone Map](docs/Quests/Other/6001-7000/quest_6218.md)** | Biology学(8) | Explore(8)Biology(8) |  |

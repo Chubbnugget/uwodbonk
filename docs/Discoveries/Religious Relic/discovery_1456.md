@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Yoruba mythology](Quests/Adventure/quest_307.md)** | Adventure quest (5) | Religious Studies (3) Exploration (1) Unlocking (1) | Reward: 27,000Experience: 130/ Fame: 65 |
+| **[Yoruba mythology](docs/Quests/Adventure/1-1000/quest_307.md)** | Adventure quest (5) | Religious Studies (3) Exploration (1) Unlocking (1) | Reward: 27,000Experience: 130/ Fame: 65 |

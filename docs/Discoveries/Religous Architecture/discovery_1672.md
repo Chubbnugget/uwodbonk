@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Temple dedicated to Shiva](Quests/Adventure/quest_166.md)** | Adventure quest (6) | Religious studies (4) Visual recognition (2) Indian languages | Reward: 362,000/ Advance: 10,000Experience: 240/ Fame: 105 |
+| **[Temple dedicated to Shiva](docs/Quests/Adventure/1-1000/quest_166.md)** | Adventure quest (6) | Religious studies (4) Visual recognition (2) Indian languages | Reward: 362,000/ Advance: 10,000Experience: 240/ Fame: 105 |

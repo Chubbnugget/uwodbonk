@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Undiscovered islet](Quests/Adventure/quest_2253.md)** | Adventure Quest (4) 16th Century 5th Period | Geography (7) Visual recognition (5) Oceanian languages | Reward: 207,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[Undiscovered islet](docs/Quests/Adventure/2001-3000/quest_2253.md)** | Adventure Quest (4) 16th Century 5th Period | Geography (7) Visual recognition (5) Oceanian languages | Reward: 207,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

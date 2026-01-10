@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Daughter taken by Cortes](Quests/Adventure/quest_1170.md)** | Adventure Quest (8) 16th Century 2nd Period | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 112,000 / Advance payment: 10,000 Experience: 300 / Fame: 105 |
+| **[Daughter taken by Cortes](docs/Quests/Adventure/1001-2000/quest_1170.md)** | Adventure Quest (8) 16th Century 2nd Period | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 112,000 / Advance payment: 10,000 Experience: 300 / Fame: 105 |

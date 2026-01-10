@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[最重要監視海域](Quests/Adventure/quest_1340.md)** | Adventure Quest (4) 16th Century 2nd Period | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 77,000 / Advance payment: 0Experience: 290 / Fame: 100 |
+| **[最重要監視海域](docs/Quests/Adventure/1001-2000/quest_1340.md)** | Adventure Quest (4) 16th Century 2nd Period | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 77,000 / Advance payment: 0Experience: 290 / Fame: 100 |

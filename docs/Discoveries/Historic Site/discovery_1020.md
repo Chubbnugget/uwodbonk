@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stacked brick house](Quests/Adventure/quest_3880.md)** | Adventure quest (5) 19th century | Archeology (6) Visualization (4) North American languages | Reward: 297,000 / Advance payment: 20,000 Experience: 350 / Fame: 150 |
+| **[Stacked brick house](docs/Quests/Adventure/3001-4000/quest_3880.md)** | Adventure quest (5) 19th century | Archeology (6) Visualization (4) North American languages | Reward: 297,000 / Advance payment: 20,000 Experience: 350 / Fame: 150 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Living dragonfly ball](Quests/Adventure/quest_3803.md)** | Adventure quest (10) | Ecological Survey (10) Biology (12) Spanish | Reward: 260,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |
+| **[Living dragonfly ball](docs/Quests/Adventure/3001-4000/quest_3803.md)** | Adventure quest (10) | Ecological Survey (10) Biology (12) Spanish | Reward: 260,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |

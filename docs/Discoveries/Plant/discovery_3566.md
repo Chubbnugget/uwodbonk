@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Queen of the Andes](Quests/Other/quest_6492.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) Portuguese | Reward: 325,000 / Advance payment: 0Experience: 790 |
+| **[Additional investigation of Queen of the Andes](docs/Quests/Other/6001-7000/quest_6492.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) Portuguese | Reward: 325,000 / Advance payment: 0Experience: 790 |

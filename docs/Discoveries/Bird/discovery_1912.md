@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bird following bird](Quests/Adventure/quest_1312.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Mayan languages | Reward: 102,000 / Advance payment: 0Experience: 285 / Fame: 95 |
+| **[Bird following bird](docs/Quests/Adventure/1001-2000/quest_1312.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Mayan languages | Reward: 102,000 / Advance payment: 0Experience: 285 / Fame: 95 |

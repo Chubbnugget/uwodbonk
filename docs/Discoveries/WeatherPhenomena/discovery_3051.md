@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[St. Elmo's Fire](Quests/Other/quest_5762.md)** | Weather/phenomena (1) | Visual recognition (7) | Experience：540 |
+| **[St. Elmo's Fire](docs/Quests/Other/5001-6000/quest_5762.md)** | Weather/phenomena (1) | Visual recognition (7) | Experience：540 |

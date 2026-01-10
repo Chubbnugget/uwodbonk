@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Excalibur](Quests/Adventure/quest_83.md)** | Adventure quest (10) | Exploration (13) Archeology (15) Unlocking (13) | Remuneration: 12,000 / Advance payment: 20,000 |
+| **[Excalibur](docs/Quests/Adventure/1-1000/quest_83.md)** | Adventure quest (10) | Exploration (13) Archeology (15) Unlocking (13) | Remuneration: 12,000 / Advance payment: 20,000 |

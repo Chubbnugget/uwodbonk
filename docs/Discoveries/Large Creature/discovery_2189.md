@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The movement of the earth](Quests/Adventure/quest_812.md)** | Adventure quest (6) | Ecological research (5) Biology (7) West African languages | Reward: 132,000 / Advance payment: 0Experience: 190 / Fame: 85 |
+| **[The movement of the earth](docs/Quests/Adventure/1-1000/quest_812.md)** | Adventure quest (6) | Ecological research (5) Biology (7) West African languages | Reward: 132,000 / Advance payment: 0Experience: 190 / Fame: 85 |

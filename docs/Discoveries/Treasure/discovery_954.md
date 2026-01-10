@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Adventure Trail](Quests/Adventure/quest_2036.md)** | Adventure quest (4) | Exploration (3) Treasures Appraisal (5) Quechua | Reward: 99,000Experience: 160/ Fame: 75 |
-| **[Exploring Golden Land Treasures](Quests/Other/quest_1877.md)** | Imperial command quest (4) | 探索(3)Treasures鑑定(5) |  |
+| **[Adventure Trail](docs/Quests/Adventure/2001-3000/quest_2036.md)** | Adventure quest (4) | Exploration (3) Treasures Appraisal (5) Quechua | Reward: 99,000Experience: 160/ Fame: 75 |
+| **[Exploring Golden Land Treasures](docs/Quests/Other/1001-2000/quest_1877.md)** | Imperial command quest (4) | 探索(3)Treasures鑑定(5) |  |

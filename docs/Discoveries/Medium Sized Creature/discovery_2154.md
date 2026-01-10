@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Doctor searches for poisonous snake](Quests/Adventure/quest_2376.md)** | Adventure quest (5) | Ecological research (3) Biology (5) Japanese (1) | Reward: 106,000 / Advance payment: 10,000 Experience: 160 / Fame: 150 |
+| **[Doctor searches for poisonous snake](docs/Quests/Adventure/2001-3000/quest_2376.md)** | Adventure quest (5) | Ecological research (3) Biology (5) Japanese (1) | Reward: 106,000 / Advance payment: 10,000 Experience: 160 / Fame: 150 |

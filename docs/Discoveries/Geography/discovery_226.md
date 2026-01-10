@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gateway to the Adriatic Sea](Quests/Adventure/quest_14.md)** | Adventure quest (3) | Geography (1) Visual recognition (1) Italian | Reward: 6,000/ Advance payment: 0Experience: 120 |
+| **[Gateway to the Adriatic Sea](docs/Quests/Adventure/1-1000/quest_14.md)** | Adventure quest (3) | Geography (1) Visual recognition (1) Italian | Reward: 6,000/ Advance payment: 0Experience: 120 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flowers that bloom in extremely cold places](Quests/Adventure/quest_3737.md)** | Adventure quest (4) | Ecological research (4) Biology (6) Dutch (1) | Reward: 77,000 / Advance payment: 0Experience: 140 / Fame: 340 |
+| **[Flowers that bloom in extremely cold places](docs/Quests/Adventure/3001-4000/quest_3737.md)** | Adventure quest (4) | Ecological research (4) Biology (6) Dutch (1) | Reward: 77,000 / Advance payment: 0Experience: 140 / Fame: 340 |

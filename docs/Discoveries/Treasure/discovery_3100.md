@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The world's oldest flute](Quests/Adventure/quest_5828.md)** | Adventure quest (10) | Exploration (15) Treasures Appraisal (17) Norse | Reward: 1,233,000 / Advance payment: 120,000 Experience: 860 / Fame: 550 |
+| **[The world's oldest flute](docs/Quests/Adventure/5001-6000/quest_5828.md)** | Adventure quest (10) | Exploration (15) Treasures Appraisal (17) Norse | Reward: 1,233,000 / Advance payment: 120,000 Experience: 860 / Fame: 550 |

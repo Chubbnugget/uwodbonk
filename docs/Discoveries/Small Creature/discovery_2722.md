@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Curious lizard map](Quests/Other/quest_5312.md)** | Re-examination reward (6) | Ecological Survey(6)Biology(6) |  |
+| **[Curious lizard map](docs/Quests/Other/5001-6000/quest_5312.md)** | Re-examination reward (6) | Ecological Survey(6)Biology(6) |  |

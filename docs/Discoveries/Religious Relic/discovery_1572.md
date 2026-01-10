@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A story of cause and effect](Quests/Adventure/quest_1361.md)** | Adventure quest (4) | Religious Studies (6) Exploration (4) Unlocking (4) | Reward: 79,000 / Advance payment: 0Experience: 290 / Fame: 100 |
+| **[A story of cause and effect](docs/Quests/Adventure/1001-2000/quest_1361.md)** | Adventure quest (4) | Religious Studies (6) Exploration (4) Unlocking (4) | Reward: 79,000 / Advance payment: 0Experience: 290 / Fame: 100 |

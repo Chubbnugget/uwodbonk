@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Eyes of Medusa that protects people](Quests/Adventure/quest_2055.md)** | Adventure Quest (5) Mythology Era | Exploration (4) Treasures Appraisal (6) Turkish (1) | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Eyes of Medusa that protects people](docs/Quests/Adventure/2001-3000/quest_2055.md)** | Adventure Quest (5) Mythology Era | Exploration (4) Treasures Appraisal (6) Turkish (1) | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of long-necked animals](Quests/Other/quest_1102.md)** | Biology学(9) | Ecological Survey(9)Biology(9) | Experience：310 |
+| **[Map of long-necked animals](docs/Quests/Other/1001-2000/quest_1102.md)** | Biology学(9) | Ecological Survey(9)Biology(9) | Experience：310 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hwarang General](Quests/Adventure/quest_2737.md)** | Adventure quest (8) | Archeology (7) Visual recognition (5) Korean | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Hwarang General](docs/Quests/Adventure/2001-3000/quest_2737.md)** | Adventure quest (8) | Archeology (7) Visual recognition (5) Korean | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |

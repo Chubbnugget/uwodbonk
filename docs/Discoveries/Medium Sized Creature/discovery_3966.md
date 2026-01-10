@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional raccoon investigation](Quests/Other/quest_6957.md)** | Pursuit quest (9) | Ecological research (12) Biology (14) English (1) | Reward: 350,000 / Advance payment: 0Experience: 860 |
+| **[Additional raccoon investigation](docs/Quests/Other/6001-7000/quest_6957.md)** | Pursuit quest (9) | Ecological research (12) Biology (14) English (1) | Reward: 350,000 / Advance payment: 0Experience: 860 |

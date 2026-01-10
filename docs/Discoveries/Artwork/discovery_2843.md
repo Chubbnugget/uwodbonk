@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful basket from West Africa](Quests/Adventure/quest_5513.md)** | Adventure quest (6) | Exploration (5) Art (7) West African languages | Reward: 161,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |
+| **[Beautiful basket from West Africa](docs/Quests/Adventure/5001-6000/quest_5513.md)** | Adventure quest (6) | Exploration (5) Art (7) West African languages | Reward: 161,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |

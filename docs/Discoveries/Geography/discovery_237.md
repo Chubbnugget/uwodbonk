@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Continent survey east of Malacca](Quests/Adventure/quest_1338.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Malayu Tagalog | Reward: 100,000 / Advance payment: 10,000 Experience: 225 / Fame: 80 |
+| **[Continent survey east of Malacca](docs/Quests/Adventure/1001-2000/quest_1338.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Malayu Tagalog | Reward: 100,000 / Advance payment: 10,000 Experience: 225 / Fame: 80 |

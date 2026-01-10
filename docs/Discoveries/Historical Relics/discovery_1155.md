@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[In memory of tragedy](Quests/Adventure/quest_919.md)** | Adventure Quest (5) B.C. | Exploration (2) Archeology (4) Greek | Reward: 63,000Experience: 130/ Fame: 65 |
+| **[In memory of tragedy](docs/Quests/Adventure/1-1000/quest_919.md)** | Adventure Quest (5) B.C. | Exploration (2) Archeology (4) Greek | Reward: 63,000Experience: 130/ Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Healing Gem](Quests/Adventure/quest_1815.md)** | Adventure quest (7) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 204,000 / Advance payment: 20,000 Experience: 240 / Fame: 105 |
+| **[Healing Gem](docs/Quests/Adventure/1001-2000/quest_1815.md)** | Adventure quest (7) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 204,000 / Advance payment: 20,000 Experience: 240 / Fame: 105 |

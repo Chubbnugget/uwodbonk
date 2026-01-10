@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Frozen Beast Map](Quests/Other/quest_5763.md)** | Biology学(10) | Explore(10)Biology(10) |  |
+| **[Frozen Beast Map](docs/Quests/Other/5001-6000/quest_5763.md)** | Biology学(10) | Explore(10)Biology(10) |  |

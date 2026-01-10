@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Monster Bird Again](Quests/Adventure/quest_1722.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Oceanian languages | Reward: 590,000 / Advance payment: 50,000 Experience: 950 / Fame: 740 |
+| **[Monster Bird Again](docs/Quests/Adventure/1001-2000/quest_1722.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Oceanian languages | Reward: 590,000 / Advance payment: 50,000 Experience: 950 / Fame: 740 |

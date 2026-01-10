@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[English Reinforced Bow](Quests/Adventure/quest_2843.md)** | Adventure quest (5) | 探索(4)Treasures鑑定(6)英語 | Reward: 65,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[English Reinforced Bow](docs/Quests/Adventure/2001-3000/quest_2843.md)** | Adventure quest (5) | 探索(4)Treasures鑑定(6)英語 | Reward: 65,000 / Advance payment: 0Experience: 130 / Fame: 65 |

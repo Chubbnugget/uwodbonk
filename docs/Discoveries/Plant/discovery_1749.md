@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Untouchable Flower](Quests/Adventure/quest_3672.md)** | Adventure quest (3) 18th century third period | Ecological research (3) Biology (5) Arctic languages | Reward: 196,000 / Advance payment: 10,000 Experience: 240 / Fame: 105 |
+| **[Untouchable Flower](docs/Quests/Adventure/3001-4000/quest_3672.md)** | Adventure quest (3) 18th century third period | Ecological research (3) Biology (5) Arctic languages | Reward: 196,000 / Advance payment: 10,000 Experience: 240 / Fame: 105 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bulging body](Quests/Adventure/quest_1000.md)** | Adventure quest (4) | Ecological research (3) Biology (5) West African languages | Reward: 67,000 / Advance payment: 0Experience: 180 / Fame: 65 |
+| **[Bulging body](docs/Quests/Adventure/1-1000/quest_1000.md)** | Adventure quest (4) | Ecological research (3) Biology (5) West African languages | Reward: 67,000 / Advance payment: 0Experience: 180 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient coin map](Quests/Other/quest_511.md)** | Archeology(6) | Exploration (6) Archeology (6) Unlocking (6) |  |
+| **[Ancient coin map](docs/Quests/Other/1-1000/quest_511.md)** | Archeology(6) | Exploration (6) Archeology (6) Unlocking (6) |  |

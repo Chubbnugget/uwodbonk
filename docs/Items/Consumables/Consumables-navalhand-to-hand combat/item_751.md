@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | 援軍要請書 |
 | **Type** | thing |
-| **Group** | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |
-| **Sold by NPC** | [Production (craft)](NPCs/npc_28.md) |
+| **Group** | [Consumables (naval/hand-to-hand combat)](docs/Categories/category_30.md) |
+| **Sold by NPC** | [Production (craft)](docs/NPCs/npc_28.md) |
 | **Description** | Used during battles at sea. It is possible to request reinforcements from nearby admirals. Effect when used: Reinforcement request |
 | **Last Updated** | 2007-09-19 11:06:51 Passing navigator @guest |
 

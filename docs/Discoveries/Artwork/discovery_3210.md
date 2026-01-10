@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dreaming of Urushi no Kimi](Quests/Adventure/quest_6013.md)** | Adventure quest (3) 15th century third period | Exploration (1) Art (3) French | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Dreaming of Urushi no Kimi](docs/Quests/Adventure/6001-7000/quest_6013.md)** | Adventure quest (3) 15th century third period | Exploration (1) Art (3) French | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |

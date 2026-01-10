@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Request from Anatomist](Quests/Adventure/quest_5812.md)** | Adventure quest (5) | Ecological Survey (6) Biology (8) Spanish | Reward: 380,000 / Advance payment: 30,000 Experience: 320 / Fame: 195 |
+| **[Request from Anatomist](docs/Quests/Adventure/5001-6000/quest_5812.md)** | Adventure quest (5) | Ecological Survey (6) Biology (8) Spanish | Reward: 380,000 / Advance payment: 30,000 Experience: 320 / Fame: 195 |

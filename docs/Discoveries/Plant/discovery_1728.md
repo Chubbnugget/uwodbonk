@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The tree where the sun admires](Quests/Adventure/quest_783.md)** | Adventure Quest (6) Mythology Era | Religious studies (2) Ecological research (5) Biology (7) | Reward: 62,000 / Advance payment: 5,000 Experience: 150 / Fame: 75 |
+| **[The tree where the sun admires](docs/Quests/Adventure/1-1000/quest_783.md)** | Adventure Quest (6) Mythology Era | Religious studies (2) Ecological research (5) Biology (7) | Reward: 62,000 / Advance payment: 5,000 Experience: 150 / Fame: 75 |

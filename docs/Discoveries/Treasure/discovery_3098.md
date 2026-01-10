@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Instruments used to accompany epic poems](Quests/Adventure/quest_5834.md)** | Adventure quest (10) | Exploration (15) Treasures Appraisal (17) Dutch | Reward: 330,000 / Advance payment: 30,000 Experience: 290 / Fame: 175 |
+| **[Instruments used to accompany epic poems](docs/Quests/Adventure/5001-6000/quest_5834.md)** | Adventure quest (10) | Exploration (15) Treasures Appraisal (17) Dutch | Reward: 330,000 / Advance payment: 30,000 Experience: 290 / Fame: 175 |

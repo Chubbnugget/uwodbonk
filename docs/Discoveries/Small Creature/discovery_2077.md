@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Little flying squirrel](Quests/Adventure/quest_660.md)** | Adventure quest (3) | Ecological research (1) Biology (1) Norse | Reward: 10,000 / Advance payment: 0Experience: 130 / Fame: 65 |
-| **[Investigation of flying squirrels](Quests/Adventure/quest_5985.md)** | Adventure quest (2) | Ecological research (1) Biology (1) Norse | Reward: 25,000 / Advance payment: 0Experience: 140 / Fame: 130 |
+| **[Little flying squirrel](docs/Quests/Adventure/1-1000/quest_660.md)** | Adventure quest (3) | Ecological research (1) Biology (1) Norse | Reward: 10,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Investigation of flying squirrels](docs/Quests/Adventure/5001-6000/quest_5985.md)** | Adventure quest (2) | Ecological research (1) Biology (1) Norse | Reward: 25,000 / Advance payment: 0Experience: 140 / Fame: 130 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Traditional route](Quests/Other/quest_6194.md)** | Tradition (1) | - |  |
+| **[Traditional route](docs/Quests/Other/6001-7000/quest_6194.md)** | Tradition (1) | - |  |

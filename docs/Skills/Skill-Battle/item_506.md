@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | surgical technique |
 | **Type** | thing |
-| **Group** | [Skill (combat)](Categories/category_41.md) |
+| **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 60,000 |
 | **Description** | Can treat sailors injured in battle. Requires 1 water. Learning conditions 0/0/10/total 30 Prerequisite skills First aid (3) |
 | **Last Updated** | 2005-04-02 09:58:31 System |

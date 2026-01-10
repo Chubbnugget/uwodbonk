@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What the variant testifies to](Quests/Adventure/quest_6180.md)** | Adventure Quest (5) Mythology Era | Religious Studies(6)Exploration(4)Treasures Identification(6) | Reward: 76,000 / Advance payment: 0Experience: 130 / Fame: 70 |
+| **[What the variant testifies to](docs/Quests/Adventure/6001-7000/quest_6180.md)** | Adventure Quest (5) Mythology Era | Religious Studies(6)Exploration(4)Treasures Identification(6) | Reward: 76,000 / Advance payment: 0Experience: 130 / Fame: 70 |

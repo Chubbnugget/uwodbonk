@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Colossus of the Ancient Hero](Quests/Adventure/quest_508.md)** | Adventure quest (8) 16th century 1st period | Exploration (6) Art (8) Italian | Reward: 112,000 / Advance payment: 0Experience: 360 / Fame: 157 |
+| **[Colossus of the Ancient Hero](docs/Quests/Adventure/1-1000/quest_508.md)** | Adventure quest (8) 16th century 1st period | Exploration (6) Art (8) Italian | Reward: 112,000 / Advance payment: 0Experience: 360 / Fame: 157 |

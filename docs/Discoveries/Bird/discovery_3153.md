@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of birds with developed sense of smell](Quests/Other/quest_5894.md)** | Biology学(11) | Ecological Survey(11)Biology(11) |  |
+| **[Map of birds with developed sense of smell](docs/Quests/Other/5001-6000/quest_5894.md)** | Biology学(11) | Ecological Survey(11)Biology(11) |  |

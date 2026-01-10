@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The hero shining in the night sky](Quests/Adventure/quest_4865.md)** | Adventure Quest (10) 18th Century Third Period | Astronomy (10) Visualization (8) Spanish | Reward: 453,000 / Advance payment: 40,000 Experience: 450 / Fame: 185 |
+| **[The hero shining in the night sky](docs/Quests/Adventure/4001-5000/quest_4865.md)** | Adventure Quest (10) 18th Century Third Period | Astronomy (10) Visualization (8) Spanish | Reward: 453,000 / Advance payment: 40,000 Experience: 450 / Fame: 185 |

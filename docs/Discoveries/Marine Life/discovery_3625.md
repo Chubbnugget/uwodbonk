@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of dangerous fish](Quests/Other/quest_6564.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) English | Reward: 420,000 / Advance payment: 0Experience: 960 |
+| **[Additional investigation of dangerous fish](docs/Quests/Other/6001-7000/quest_6564.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) English | Reward: 420,000 / Advance payment: 0Experience: 960 |

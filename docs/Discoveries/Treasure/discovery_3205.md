@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Middle Eastern pottery](Quests/Other/quest_6009.md)** | Treasures鑑定(7) | 探索(7)Treasures鑑定(7) |  |
+| **[Map of Middle Eastern pottery](docs/Quests/Other/6001-7000/quest_6009.md)** | Treasures鑑定(7) | 探索(7)Treasures鑑定(7) |  |

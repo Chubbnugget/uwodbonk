@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of the calligrapher's letters](Quests/Other/quest_2353.md)** | Treasures鑑定(5) | 探索(5)Treasures鑑定(5) |  |
+| **[Map of the calligrapher's letters](docs/Quests/Other/2001-3000/quest_2353.md)** | Treasures鑑定(5) | 探索(5)Treasures鑑定(5) |  |

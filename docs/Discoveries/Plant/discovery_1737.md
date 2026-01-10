@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of flowers blooming in the shade](Quests/Other/quest_2865.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |
+| **[Map of flowers blooming in the shade](docs/Quests/Other/2001-3000/quest_2865.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |

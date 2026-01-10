@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mysterious ancient architecture](Quests/Adventure/quest_6585.md)** | Adventure quest (2) | Exploration (1) Archeology (3) German | Reward: 439,000/Advance: 40,000Experience: 360 |
+| **[Mysterious ancient architecture](docs/Quests/Adventure/6001-7000/quest_6585.md)** | Adventure quest (2) | Exploration (1) Archeology (3) German | Reward: 439,000/Advance: 40,000Experience: 360 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient writings](Quests/Other/quest_2337.md)** | Archeology(5) | Exploration (5) Archeology (5) Unlocking (5) |  |
+| **[Map of ancient writings](docs/Quests/Other/2001-3000/quest_2337.md)** | Archeology(5) | Exploration (5) Archeology (5) Unlocking (5) |  |

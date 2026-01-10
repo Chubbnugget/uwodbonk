@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What the divine thunder brings](Quests/Adventure/quest_1836.md)** | Adventure Quest (9) 15th Century 2nd Period | Religious Studies (12) Exploration (10) Unlocking (10) | Reward: 160,000 / Advance payment: 10,000 Experience: 500 / Fame: 165 |
+| **[What the divine thunder brings](docs/Quests/Adventure/1001-2000/quest_1836.md)** | Adventure Quest (9) 15th Century 2nd Period | Religious Studies (12) Exploration (10) Unlocking (10) | Reward: 160,000 / Advance payment: 10,000 Experience: 500 / Fame: 165 |

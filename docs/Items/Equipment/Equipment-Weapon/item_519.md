@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | lute |
 | **Type** | thing |
-| **Group** | [Equipment](Categories/category_27.md) |
+| **Group** | [Equipment](docs/Categories/category_27.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 8,000 |
 | **Description** | A stringed instrument widely used by minstrels. It is a common instrument. Equipped location: Items: Durability: 50 Effect when used: Guitar performance (Plays the guitar to recover sailors from fatigue, anxiety, and homesickness.) |

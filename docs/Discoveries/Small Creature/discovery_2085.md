@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Small Biology Map](Quests/Other/quest_659.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |
+| **[Small Biology Map](docs/Quests/Other/1-1000/quest_659.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |

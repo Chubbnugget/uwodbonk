@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient Egyptian relics](Quests/Other/quest_495.md)** | Archeology(2) | Exploration(2)Archaeology(2) |  |
+| **[Map of ancient Egyptian relics](docs/Quests/Other/1-1000/quest_495.md)** | Archeology(2) | Exploration(2)Archaeology(2) |  |

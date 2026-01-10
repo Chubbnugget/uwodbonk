@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hudson Bay Survey](Quests/Adventure/quest_5754.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) North American languages | Reward: 449,000/Advance payment: 40,000Experience: 370 |
+| **[Hudson Bay Survey](docs/Quests/Adventure/5001-6000/quest_5754.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) North American languages | Reward: 449,000/Advance payment: 40,000Experience: 370 |

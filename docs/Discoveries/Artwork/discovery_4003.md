@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient carvings again](Quests/Adventure/quest_6994.md)** | Adventure Quest (7) B.C. | Exploration (7) Art (9) Spanish (1) | Reward: 166,000/Advance: 20,000Experience: 1,205 |
+| **[Ancient carvings again](docs/Quests/Adventure/6001-7000/quest_6994.md)** | Adventure Quest (7) B.C. | Exploration (7) Art (9) Spanish (1) | Reward: 166,000/Advance: 20,000Experience: 1,205 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of indigenous pottery](Quests/Other/quest_3013.md)** | Archeology(6) | Exploration (6) Archeology (6) Unlocking (6) | Experience：240 |
+| **[Map of indigenous pottery](docs/Quests/Other/3001-4000/quest_3013.md)** | Archeology(6) | Exploration (6) Archeology (6) Unlocking (6) | Experience：240 |

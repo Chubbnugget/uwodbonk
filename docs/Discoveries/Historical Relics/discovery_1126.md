@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cleopatra's makeup](Quests/Adventure/quest_143.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Unlocking (3) | Reward: 103,000 / Advance payment: 0Experience: 160 / Fame: 75 |
+| **[Cleopatra's makeup](docs/Quests/Adventure/1-1000/quest_143.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Unlocking (3) | Reward: 103,000 / Advance payment: 0Experience: 160 / Fame: 75 |

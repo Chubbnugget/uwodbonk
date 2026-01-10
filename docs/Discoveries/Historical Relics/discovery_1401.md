@@ -26,5 +26,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Popular Crusade](Quests/Adventure/quest_1013.md)** | Adventure quest (3) | Exploration (1) Archeology (1) Dutch | Reward: 9,000 / Advance payment: 0Experience: 130 / Fame: 130 |
-| **[Investigation of Irregular Crusades](Quests/Adventure/quest_5998.md)** | Adventure quest (2) | Explore(1)Archaeology(1)English | Reward: 25,000/ Advance payment: 0 |
+| **[Popular Crusade](docs/Quests/Adventure/1001-2000/quest_1013.md)** | Adventure quest (3) | Exploration (1) Archeology (1) Dutch | Reward: 9,000 / Advance payment: 0Experience: 130 / Fame: 130 |
+| **[Investigation of Irregular Crusades](docs/Quests/Adventure/5001-6000/quest_5998.md)** | Adventure quest (2) | Explore(1)Archaeology(1)English | Reward: 25,000/ Advance payment: 0 |

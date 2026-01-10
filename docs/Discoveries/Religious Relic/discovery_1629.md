@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A statue shaped like a snake](Quests/Adventure/quest_1163.md)** | Adventure quest (5) | Religious Studies (6) Exploration (4) Unlocking (4) | Reward: 78,000/ Advance: 10,000Experience: 270/ Fame: 95 |
+| **[A statue shaped like a snake](docs/Quests/Adventure/1001-2000/quest_1163.md)** | Adventure quest (5) | Religious Studies (6) Exploration (4) Unlocking (4) | Reward: 78,000/ Advance: 10,000Experience: 270/ Fame: 95 |

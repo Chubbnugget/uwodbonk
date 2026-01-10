@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Navigator/Viking](Quests/Adventure/quest_3147.md)** | Adventure quest (5) | Exploration (3) Treasures Appraisal (5) Norse (1) | Reward: 81,000 / Advance payment: 0Experience: 224 |
+| **[Navigator/Viking](docs/Quests/Adventure/3001-4000/quest_3147.md)** | Adventure quest (5) | Exploration (3) Treasures Appraisal (5) Norse (1) | Reward: 81,000 / Advance payment: 0Experience: 224 |

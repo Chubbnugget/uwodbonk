@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Supercell](Quests/Other/quest_6375.md)** | Weather/phenomena (4) | Visual recognition | Experience：690 |
+| **[Supercell](docs/Quests/Other/6001-7000/quest_6375.md)** | Weather/phenomena (4) | Visual recognition | Experience：690 |

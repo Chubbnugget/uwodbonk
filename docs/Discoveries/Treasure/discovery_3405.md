@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Value of the container](Quests/Adventure/quest_6319.md)** | Adventure quest (5) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 122,000 / Advance payment: 10,000 Experience: 160 / Fame: 90 |
+| **[Value of the container](docs/Quests/Adventure/6001-7000/quest_6319.md)** | Adventure quest (5) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 122,000 / Advance payment: 10,000 Experience: 160 / Fame: 90 |

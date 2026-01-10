@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legend of the Hound](Quests/Adventure/quest_3897.md)** | Adventure Quest (3) Mythology Era | Astronomy (4) Religious Studies (4) Visualization (2) | Reward: 145,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |
+| **[Legend of the Hound](docs/Quests/Adventure/3001-4000/quest_3897.md)** | Adventure Quest (3) Mythology Era | Astronomy (4) Religious Studies (4) Visualization (2) | Reward: 145,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |

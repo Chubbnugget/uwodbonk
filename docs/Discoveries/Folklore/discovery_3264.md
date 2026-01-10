@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bonfire Lore](Quests/Other/quest_6083.md)** | Tradition (7) | Religious Studies(9) | Reward: 245,000/ Advance: 20,000Experience: 245/ Fame: 120 |
+| **[Bonfire Lore](docs/Quests/Other/6001-7000/quest_6083.md)** | Tradition (7) | Religious Studies(9) | Reward: 245,000/ Advance: 20,000Experience: 245/ Fame: 120 |

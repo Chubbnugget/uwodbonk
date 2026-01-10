@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Memories in your heart](Quests/Adventure/quest_1738.md)** | Adventure quest (10) | Exploration (12) Treasures Appraisal (14) Unlocking (12) | Reward: 280,000 / Advance payment: 10,000 Experience: 540 / Fame: 180 |
+| **[Memories in your heart](docs/Quests/Adventure/1001-2000/quest_1738.md)** | Adventure quest (10) | Exploration (12) Treasures Appraisal (14) Unlocking (12) | Reward: 280,000 / Advance payment: 10,000 Experience: 540 / Fame: 180 |

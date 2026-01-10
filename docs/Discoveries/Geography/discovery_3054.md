@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Silver Island](Quests/Adventure/quest_5779.md)** | Adventure quest (10) | Geography (17) Visualization (15) Greek | Reward: 728,000 / Advance payment: 70,000 Experience: 540 / Fame: 340 |
+| **[Silver Island](docs/Quests/Adventure/5001-6000/quest_5779.md)** | Adventure quest (10) | Geography (17) Visualization (15) Greek | Reward: 728,000 / Advance payment: 70,000 Experience: 540 / Fame: 340 |

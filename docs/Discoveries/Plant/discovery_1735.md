@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gift for sickly mother](Quests/Adventure/quest_2515.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Chinese | Reward: 60,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Gift for sickly mother](docs/Quests/Adventure/2001-3000/quest_2515.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Chinese | Reward: 60,000 / Advance payment: 0Experience: 140 / Fame: 65 |

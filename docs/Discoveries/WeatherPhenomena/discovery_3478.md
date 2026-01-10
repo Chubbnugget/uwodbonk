@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ichibuki Snow](Quests/Other/quest_6395.md)** | Weather/phenomena (1) | Visual recognition |  |
+| **[Ichibuki Snow](docs/Quests/Other/6001-7000/quest_6395.md)** | Weather/phenomena (1) | Visual recognition |  |

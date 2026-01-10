@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dancing face](Quests/Adventure/quest_5591.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Oceanian languages | Reward: 260,000/ Advance: 20,000Experience: 250/ Fame: 145 |
+| **[Dancing face](docs/Quests/Adventure/5001-6000/quest_5591.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Oceanian languages | Reward: 260,000/ Advance: 20,000Experience: 250/ Fame: 145 |

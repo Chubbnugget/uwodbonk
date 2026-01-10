@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beauty that Vishnu lends a hand](Quests/Adventure/quest_1478.md)** | Adventure quest (8) 15th century 1st period | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 170,000 / Advance payment: 10,000 Experience: 380 / Fame: 125 |
+| **[Beauty that Vishnu lends a hand](docs/Quests/Adventure/1001-2000/quest_1478.md)** | Adventure quest (8) 15th century 1st period | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 170,000 / Advance payment: 10,000 Experience: 380 / Fame: 125 |

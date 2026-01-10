@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Monster bird](Quests/Adventure/quest_375.md)** | Adventure quest (9) | Ecological Survey(11)Biology(13)Archaeology(2) | Reward: 419,000 / Advance payment: 30,000 Experience: 490 / Fame: 200 |
+| **[Monster bird](docs/Quests/Adventure/1-1000/quest_375.md)** | Adventure quest (9) | Ecological Survey(11)Biology(13)Archaeology(2) | Reward: 419,000 / Advance payment: 30,000 Experience: 490 / Fame: 200 |

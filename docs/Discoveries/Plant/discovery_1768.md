@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Temptation of sweet smell](Quests/Adventure/quest_2120.md)** | Adventure quest (2) | Ecological research (1) Biology (3) Italian | Reward: 89,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Temptation of sweet smell](docs/Quests/Adventure/2001-3000/quest_2120.md)** | Adventure quest (2) | Ecological research (1) Biology (3) Italian | Reward: 89,000 / Advance payment: 0Experience: 150 / Fame: 70 |

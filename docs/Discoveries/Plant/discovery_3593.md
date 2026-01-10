@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dyeed Tree](Quests/Adventure/quest_6520.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Oceanian languages | Reward: 687,000/Advance payment: 70,000Experience: 520 |
+| **[Dyeed Tree](docs/Quests/Adventure/6001-7000/quest_6520.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Oceanian languages | Reward: 687,000/Advance payment: 70,000Experience: 520 |

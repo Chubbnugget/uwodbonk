@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Translucent white statue](Quests/Adventure/quest_917.md)** | Adventure quest (6) | Exploration (4) Archeology (6) Arabic | Reward: 122,000 / Advance: 0Experience: 150 / Fame: 80 |
+| **[Translucent white statue](docs/Quests/Adventure/1-1000/quest_917.md)** | Adventure quest (6) | Exploration (4) Archeology (6) Arabic | Reward: 122,000 / Advance: 0Experience: 150 / Fame: 80 |

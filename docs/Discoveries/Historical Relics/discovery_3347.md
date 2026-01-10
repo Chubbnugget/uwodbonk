@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mars](Quests/Other/quest_6212.md)** | Sunken ship(7) | Salvage visibility (8) |  |
+| **[Mars](docs/Quests/Other/6001-7000/quest_6212.md)** | Sunken ship(7) | Salvage visibility (8) |  |

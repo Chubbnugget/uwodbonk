@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Marble Furniture Map](Quests/Other/quest_821.md)** | Treasures鑑定(4) | 探索(4)Treasures鑑定(4) |  |
+| **[Marble Furniture Map](docs/Quests/Other/1-1000/quest_821.md)** | Treasures鑑定(4) | 探索(4)Treasures鑑定(4) |  |

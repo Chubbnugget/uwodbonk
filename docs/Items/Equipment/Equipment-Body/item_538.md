@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | cotton acton |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 12,300 |
 | **Description** | Traveler's clothes made of cotton fabric with a somewhat elegant finish. Gender Restrictions Male Durability 30 Formal Attire 6 Defense 5 Total Required Fame 300 |

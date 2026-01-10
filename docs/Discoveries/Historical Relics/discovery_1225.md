@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Private house map](Quests/Other/quest_1674.md)** | Archeology(9) | Exploration(9)Archaeology(9) |  |
+| **[Private house map](docs/Quests/Other/1001-2000/quest_1674.md)** | Archeology(9) | Exploration(9)Archaeology(9) |  |

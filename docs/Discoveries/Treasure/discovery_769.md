@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of coins in a city](Quests/Other/quest_3817.md)** | Treasures鑑定(5) | Exploration (5) Treasures Appraisal (5) Unlocking (5) | Experience：650 |
+| **[Map of coins in a city](docs/Quests/Other/3001-4000/quest_3817.md)** | Treasures鑑定(5) | Exploration (5) Treasures Appraisal (5) Unlocking (5) | Experience：650 |

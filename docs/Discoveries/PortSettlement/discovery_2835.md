@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bilbao](Quests/Other/quest_5505.md)** | Port/village (1) | - | Experience：32 |
+| **[Bilbao](docs/Quests/Other/5001-6000/quest_5505.md)** | Port/village (1) | - | Experience：32 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Footprints of the Grassland People](Quests/Adventure/quest_6202.md)** | Adventure quest (6) | Archeology (8) Visualization (6) Turkish | Reward: 195,000 / Advance payment: 10,000 Experience: 210 / Fame: 120 |
+| **[Footprints of the Grassland People](docs/Quests/Adventure/6001-7000/quest_6202.md)** | Adventure quest (6) | Archeology (8) Visualization (6) Turkish | Reward: 195,000 / Advance payment: 10,000 Experience: 210 / Fame: 120 |

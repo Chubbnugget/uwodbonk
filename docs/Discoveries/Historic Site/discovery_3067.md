@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What we can learn from rock art](Quests/Adventure/quest_5794.md)** | Adventure quest (10) | Archeology (17) Visualization (15) Arabic | Reward: 576,000 / Advance payment: 50,000 Experience: 450 |
+| **[What we can learn from rock art](docs/Quests/Adventure/5001-6000/quest_5794.md)** | Adventure quest (10) | Archeology (17) Visualization (15) Arabic | Reward: 576,000 / Advance payment: 50,000 Experience: 450 |

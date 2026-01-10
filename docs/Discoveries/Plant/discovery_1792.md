@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flame Flower](Quests/Adventure/quest_2975.md)** | Adventure quest (2) | Ecological Survey (2) Biology (4) Portuguese | Reward: 135,000 / Advance payment: 10,000 Experience: 190 / Fame: 170 |
+| **[Flame Flower](docs/Quests/Adventure/2001-3000/quest_2975.md)** | Adventure quest (2) | Ecological Survey (2) Biology (4) Portuguese | Reward: 135,000 / Advance payment: 10,000 Experience: 190 / Fame: 170 |

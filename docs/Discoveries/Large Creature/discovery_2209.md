@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Risk Biology Investigation](Quests/Adventure/quest_3844.md)** | Adventure quest (7) 19th century | Ecological research (5) Biology (7) North American languages | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Risk Biology Investigation](docs/Quests/Adventure/3001-4000/quest_3844.md)** | Adventure quest (7) 19th century | Ecological research (5) Biology (7) North American languages | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 65 |

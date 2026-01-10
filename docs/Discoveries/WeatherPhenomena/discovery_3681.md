@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Phantom Tower](Quests/Other/quest_6628.md)** | Weather/phenomena (1) | Visual recognition (9) | Experience：680 |
+| **[Phantom Tower](docs/Quests/Other/6001-7000/quest_6628.md)** | Weather/phenomena (1) | Visual recognition (9) | Experience：680 |

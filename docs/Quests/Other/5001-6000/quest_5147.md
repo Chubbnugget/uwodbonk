@@ -1,0 +1,28 @@
+---
+id: 5147
+category: Other
+---
+# Quest [Portobello]
+
+### Quest [Portobello] Details
+
+| Attribute | Details |
+| :--- | :--- |
+| **Quest Name** | Portobello |
+
+### Quest Contents
+
+| Attribute | Details |
+| :--- | :--- |
+| **Chrono Quest** |  |
+| **Offer Method** | Port/Village (Discovery) |
+| **Difficulty** | 1 |
+| **Time Limit** | none |
+| **Town** | There are no Towns available for offers. |
+| **Required Skills** | There are no required skills. |
+| **Discovery** | [Port/Settlement](docs/Categories/category_1.md) / [Portobello](docs/Quests/Adventure/1-1000/quest_137.md) A port town facing the Caribbean Sea that serves as a relay point for trade with Central and South America. [Portobello](docs/Quests/Adventure/1-1000/quest_137.md) means "beautiful port". Reach Rank: 2, Points: 2, Difficulty: 1, Experience Points: 244 |
+| **Reward/Advance** |  |
+| **Exp/Fame** |  |
+| **Items Obtained** |  |
+| **Chain Quests** |  |
+| **Notes** | reach |

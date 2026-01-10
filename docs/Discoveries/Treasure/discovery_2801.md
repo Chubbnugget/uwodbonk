@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Qualification to know and readiness](Quests/Adventure/quest_5448.md)** | Adventure Quest (5) Mythology Era | Exploration (5) Treasures Appraisal (7) Italian | Reward: 276,000 / Advance payment: 20,000 Experience: 390 / Fame: 225 |
+| **[Qualification to know and readiness](docs/Quests/Adventure/5001-6000/quest_5448.md)** | Adventure Quest (5) Mythology Era | Exploration (5) Treasures Appraisal (7) Italian | Reward: 276,000 / Advance payment: 20,000 Experience: 390 / Fame: 225 |

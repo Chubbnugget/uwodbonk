@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Hill](Quests/Adventure/quest_3014.md)** | Adventure quest (6) | Archeology (8) Visualization (6) Mayan languages | Reward: 190,000 / Advance payment: 10,000 Experience: 230 / Fame: 210 |
+| **[Giant Hill](docs/Quests/Adventure/3001-4000/quest_3014.md)** | Adventure quest (6) | Archeology (8) Visualization (6) Mayan languages | Reward: 190,000 / Advance payment: 10,000 Experience: 230 / Fame: 210 |

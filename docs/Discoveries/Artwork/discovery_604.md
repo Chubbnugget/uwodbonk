@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of picture scroll](Quests/Other/quest_2504.md)** | 美術(5) | 探索(5)美術(5) | Experience：200 |
+| **[Map of picture scroll](docs/Quests/Other/2001-3000/quest_2504.md)** | 美術(5) | 探索(5)美術(5) | Experience：200 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Caribbean Ore Map](Quests/Other/quest_3639.md)** | Treasures鑑定(8) | Exploration (8) Treasures Appraisal (8) Unlocking (8) | Experience：380 |
+| **[Caribbean Ore Map](docs/Quests/Other/3001-4000/quest_3639.md)** | Treasures鑑定(8) | Exploration (8) Treasures Appraisal (8) Unlocking (8) | Experience：380 |

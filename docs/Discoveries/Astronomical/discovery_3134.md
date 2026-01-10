@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legendary Spiritual Beast](Quests/Adventure/quest_5876.md)** | Adventure quest (10) | Astronomy (17) Visual recognition (15) Korean | Reward: 875,000 / Advance payment: 80,000 Experience: 630 / Fame: 400 |
+| **[Legendary Spiritual Beast](docs/Quests/Adventure/5001-6000/quest_5876.md)** | Adventure quest (10) | Astronomy (17) Visual recognition (15) Korean | Reward: 875,000 / Advance payment: 80,000 Experience: 630 / Fame: 400 |

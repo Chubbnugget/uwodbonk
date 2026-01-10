@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Weapons of ancient peoples](Quests/Adventure/quest_564.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Lockpicking (3) Turkish | Reward: 2,000 / Advance payment: 0Experience: 170 / Fame: 80 |
+| **[Weapons of ancient peoples](docs/Quests/Adventure/1-1000/quest_564.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Lockpicking (3) Turkish | Reward: 2,000 / Advance payment: 0Experience: 170 / Fame: 80 |

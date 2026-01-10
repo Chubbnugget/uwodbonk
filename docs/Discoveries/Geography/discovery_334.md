@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Middle of the ocean](Quests/Adventure/quest_808.md)** | Adventure quest (7) | Geography (6) Visual recognition (4) Indian languages | Reward: 110,000 / Advance payment: 0Experience: 150 / Fame: 80 |
+| **[Middle of the ocean](docs/Quests/Adventure/1-1000/quest_808.md)** | Adventure quest (7) | Geography (6) Visual recognition (4) Indian languages | Reward: 110,000 / Advance payment: 0Experience: 150 / Fame: 80 |

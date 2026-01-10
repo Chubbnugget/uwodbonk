@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Golden Cat Map](Quests/Other/quest_6266.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Golden Cat Map](docs/Quests/Other/6001-7000/quest_6266.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

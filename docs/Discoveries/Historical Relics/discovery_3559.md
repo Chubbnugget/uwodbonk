@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Medusa Sculpture](Quests/Other/quest_6486.md)** | Legacy(1) | - | Experience：2,700 |
+| **[Medusa Sculpture](docs/Quests/Other/6001-7000/quest_6486.md)** | Legacy(1) | - | Experience：2,700 |

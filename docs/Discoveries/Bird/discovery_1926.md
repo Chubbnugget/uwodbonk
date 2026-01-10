@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Peacock farm plan](Quests/Adventure/quest_136.md)** | Adventure quest (6) | Ecological research (4) Biology (6) Indian languages | Reward: 362,200 / Advance payment: 5,000 Experience: 408 / Fame: 216 |
+| **[Peacock farm plan](docs/Quests/Adventure/1-1000/quest_136.md)** | Adventure quest (6) | Ecological research (4) Biology (6) Indian languages | Reward: 362,200 / Advance payment: 5,000 Experience: 408 / Fame: 216 |

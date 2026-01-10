@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Curious lizard map](Quests/Other/quest_5323.md)** | Biology学(9) | Ecological Survey(9)Biology(9) |  |
+| **[Curious lizard map](docs/Quests/Other/5001-6000/quest_5323.md)** | Biology学(9) | Ecological Survey(9)Biology(9) |  |

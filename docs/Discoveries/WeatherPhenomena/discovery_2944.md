@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hole Cloud](Quests/Other/quest_5632.md)** | Weather/phenomena (9) | Visual recognition (9) | Experience：660 |
+| **[Hole Cloud](docs/Quests/Other/5001-6000/quest_5632.md)** | Weather/phenomena (9) | Visual recognition (9) | Experience：660 |

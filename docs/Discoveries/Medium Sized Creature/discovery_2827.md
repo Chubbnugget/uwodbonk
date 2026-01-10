@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Monkey ecological survey](Quests/Adventure/quest_5477.md)** | Adventure quest (3) | Ecological Survey (3) Biology (5) Portuguese | Reward: 106,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[Monkey ecological survey](docs/Quests/Adventure/5001-6000/quest_5477.md)** | Adventure quest (3) | Ecological Survey (3) Biology (5) Portuguese | Reward: 106,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

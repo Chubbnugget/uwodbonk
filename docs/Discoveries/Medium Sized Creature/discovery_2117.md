@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Four-eyed deer](Quests/Adventure/quest_2546.md)** | Adventure quest (5) | Ecological research (5) Biology (7) Chinese (1) | Reward: 105,000 / Advance payment: 10,000 Experience: 160 / Fame: 150 |
+| **[Four-eyed deer](docs/Quests/Adventure/2001-3000/quest_2546.md)** | Adventure quest (5) | Ecological research (5) Biology (7) Chinese (1) | Reward: 105,000 / Advance payment: 10,000 Experience: 160 / Fame: 150 |

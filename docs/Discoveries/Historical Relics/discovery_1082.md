@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Indian seal map](Quests/Other/quest_485.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |
+| **[Ancient Indian seal map](docs/Quests/Other/1-1000/quest_485.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |

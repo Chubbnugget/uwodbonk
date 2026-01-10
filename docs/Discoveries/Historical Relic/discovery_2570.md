@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Galian Hero Helmet](Quests/Other/quest_3546.md)** | Treasure hunting (10) | Exploration (15) Archeology (17) Latin | Experience：3,480 |
+| **[Galian Hero Helmet](docs/Quests/Other/3001-4000/quest_3546.md)** | Treasure hunting (10) | Exploration (15) Archeology (17) Latin | Experience：3,480 |

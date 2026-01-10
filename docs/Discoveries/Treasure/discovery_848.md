@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Headdress Map](Quests/Other/quest_1739.md)** | Treasures鑑定(7) | Exploration (7) Treasures Appraisal (7) Unlocking (7) | Experience：210 |
+| **[Headdress Map](docs/Quests/Other/1001-2000/quest_1739.md)** | Treasures鑑定(7) | Exploration (7) Treasures Appraisal (7) Unlocking (7) | Experience：210 |

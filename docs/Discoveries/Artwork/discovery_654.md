@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indian Elephant Tamer](Quests/Adventure/quest_59.md)** | Adventure quest (7) | Exploration (4) Art (6) Indian languages | Reward: 102,000 / Advance payment: 0Experience: 260 |
+| **[Indian Elephant Tamer](docs/Quests/Adventure/1-1000/quest_59.md)** | Adventure quest (7) | Exploration (4) Art (6) Indian languages | Reward: 102,000 / Advance payment: 0Experience: 260 |

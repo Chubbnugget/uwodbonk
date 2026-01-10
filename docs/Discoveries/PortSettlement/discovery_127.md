@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Benin](Quests/Other/quest_5137.md)** | Port/village (1) | - |  |
+| **[Benin](docs/Quests/Other/5001-6000/quest_5137.md)** | Port/village (1) | - |  |

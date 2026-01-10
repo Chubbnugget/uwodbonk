@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Man from the Golden Country](Quests/Adventure/quest_1463.md)** | Adventure quest (7) 16th century third period | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 232,000 / Advance payment: 20,000 Experience: 400 / Fame: 165 |
+| **[The Man from the Golden Country](docs/Quests/Adventure/1001-2000/quest_1463.md)** | Adventure quest (7) 16th century third period | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 232,000 / Advance payment: 20,000 Experience: 400 / Fame: 165 |

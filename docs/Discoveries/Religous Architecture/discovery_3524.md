@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fragrance that even the home of perfumery would envy](Quests/Adventure/quest_6446.md)** | Adventure quest (2) | Religious studies (3) Visual recognition (1) Indian languages | Reward: 123,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |
+| **[Fragrance that even the home of perfumery would envy](docs/Quests/Adventure/6001-7000/quest_6446.md)** | Adventure quest (2) | Religious studies (3) Visual recognition (1) Indian languages | Reward: 123,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Area with many earthquakes](Quests/Adventure/quest_2863.md)** | Adventure quest (9) | Exploration (8) Archeology (10) Unlocking (8) | Reward: 520,000 / Advance payment: 50,000 Experience: 510 / Fame: 205 |
+| **[Area with many earthquakes](docs/Quests/Adventure/2001-3000/quest_2863.md)** | Adventure quest (9) | Exploration (8) Archeology (10) Unlocking (8) | Reward: 520,000 / Advance payment: 50,000 Experience: 510 / Fame: 205 |

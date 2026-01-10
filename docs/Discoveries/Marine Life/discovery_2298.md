@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Shell that produces gemstones](Quests/Adventure/quest_960.md)** | Adventure quest (6) | Ecological Survey (4) Biology (6) Persian | Reward: 99,000 / Advance payment: 0Experience: 150 / Fame: 85 |
+| **[Shell that produces gemstones](docs/Quests/Adventure/1-1000/quest_960.md)** | Adventure quest (6) | Ecological Survey (4) Biology (6) Persian | Reward: 99,000 / Advance payment: 0Experience: 150 / Fame: 85 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Birds migrating in large flocks](Quests/Adventure/quest_3299.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Spanish | Reward: 129,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |
+| **[Birds migrating in large flocks](docs/Quests/Adventure/3001-4000/quest_3299.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Spanish | Reward: 129,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |

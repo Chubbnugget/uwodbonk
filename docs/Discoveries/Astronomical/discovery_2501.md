@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What lies between parent and child](Quests/Adventure/quest_4867.md)** | Adventure Quest (4) Mythology Era | Astronomy (5) Visual recognition (3) Indian languages | Reward: 101,000/ Advance: 10,000 Experience: 160/ Fame: 75 |
+| **[What lies between parent and child](docs/Quests/Adventure/4001-5000/quest_4867.md)** | Adventure Quest (4) Mythology Era | Astronomy (5) Visual recognition (3) Indian languages | Reward: 101,000/ Advance: 10,000 Experience: 160/ Fame: 75 |

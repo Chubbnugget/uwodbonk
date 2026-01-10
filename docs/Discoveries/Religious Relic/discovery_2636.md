@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stone Pagoda Map](Quests/Other/quest_5210.md)** | Re-examination reward (9) | Religious Studies(9)Exploration(9) |  |
+| **[Stone Pagoda Map](docs/Quests/Other/5001-6000/quest_5210.md)** | Re-examination reward (9) | Religious Studies(9)Exploration(9) |  |

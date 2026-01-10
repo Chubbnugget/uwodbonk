@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tycho Brahe's wall quadrant](Quests/Other/quest_6530.md)** | Legacy(1) | - | Experience：2,550 |
+| **[Tycho Brahe's wall quadrant](docs/Quests/Other/6001-7000/quest_6530.md)** | Legacy(1) | - | Experience：2,550 |

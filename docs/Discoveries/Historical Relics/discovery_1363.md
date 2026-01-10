@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Mesoamerican ritual vessels](Quests/Other/quest_1958.md)** | Archeology(11) | Exploration (11) Archeology (11) Unlocking (11) |  |
+| **[Map of Mesoamerican ritual vessels](docs/Quests/Other/1001-2000/quest_1958.md)** | Archeology(11) | Exploration (11) Archeology (11) Unlocking (11) |  |

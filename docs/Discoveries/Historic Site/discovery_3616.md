@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lighthouse of the past](Quests/Other/quest_6550.md)** | Legacy(1) | - |  |
+| **[Lighthouse of the past](docs/Quests/Other/6001-7000/quest_6550.md)** | Legacy(1) | - |  |

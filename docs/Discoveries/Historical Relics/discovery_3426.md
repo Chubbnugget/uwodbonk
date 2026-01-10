@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Incorruptible Inquiry](Quests/Adventure/quest_6331.md)** | Adventure Quest (9) B.C. | Exploration (11) Archeology (13) Portuguese | Reward: 377,000/Advance payment: 40,000Experience: 320 |
+| **[Incorruptible Inquiry](docs/Quests/Adventure/6001-7000/quest_6331.md)** | Adventure Quest (9) B.C. | Exploration (11) Archeology (13) Portuguese | Reward: 377,000/Advance payment: 40,000Experience: 320 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stone echoing in the ruins](Quests/Adventure/quest_2268.md)** | Adventure quest (8) | Exploration (5) Archeology (7) Oceanian languages | Reward: 94,000 / Advance payment: 0Experience: 170 / Fame: 80 |
+| **[Stone echoing in the ruins](docs/Quests/Adventure/2001-3000/quest_2268.md)** | Adventure quest (8) | Exploration (5) Archeology (7) Oceanian languages | Reward: 94,000 / Advance payment: 0Experience: 170 / Fame: 80 |

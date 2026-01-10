@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[尾流雲](Quests/Other/quest_6439.md)** | Weather/phenomena (1) | Visual recognition | Experience：340 |
+| **[尾流雲](docs/Quests/Other/6001-7000/quest_6439.md)** | Weather/phenomena (1) | Visual recognition | Experience：340 |

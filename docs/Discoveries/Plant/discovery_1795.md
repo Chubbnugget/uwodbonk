@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Yellow and red flower map](Quests/Other/quest_2866.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |
+| **[Yellow and red flower map](docs/Quests/Other/2001-3000/quest_2866.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |

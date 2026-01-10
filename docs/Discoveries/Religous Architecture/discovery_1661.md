@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sun God's Carriage](Quests/Adventure/quest_788.md)** | Adventure quest (5) | Religious studies (3) Visual recognition (1) Indian languages | Reward: 78,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Sun God's Carriage](docs/Quests/Adventure/1-1000/quest_788.md)** | Adventure quest (5) | Religious studies (3) Visual recognition (1) Indian languages | Reward: 78,000 / Advance payment: 0Experience: 150 / Fame: 75 |

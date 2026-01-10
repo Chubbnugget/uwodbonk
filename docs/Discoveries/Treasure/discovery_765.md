@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Belial's Jewel](Quests/Adventure/quest_275.md)** | Adventure Quest (3) Mythology Era | Exploration (1) Treasures Appraisal (3) Unlocking (1) | Reward: 2,000 / Advance payment: 0Experience: 120 / Fame: 60 |
+| **[Belial's Jewel](docs/Quests/Adventure/1-1000/quest_275.md)** | Adventure Quest (3) Mythology Era | Exploration (1) Treasures Appraisal (3) Unlocking (1) | Reward: 2,000 / Advance payment: 0Experience: 120 / Fame: 60 |

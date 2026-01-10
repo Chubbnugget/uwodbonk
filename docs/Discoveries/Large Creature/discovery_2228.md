@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indian Serpent](Quests/Adventure/quest_67.md)** | Adventure quest (9) | Ecological research (10) Biology (12) Indian languages | Reward: 419,000 / Advance payment: 30,000 Experience: 260 / Fame: 140 |
+| **[Indian Serpent](docs/Quests/Adventure/1-1000/quest_67.md)** | Adventure quest (9) | Ecological research (10) Biology (12) Indian languages | Reward: 419,000 / Advance payment: 30,000 Experience: 260 / Fame: 140 |

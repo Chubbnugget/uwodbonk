@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Brown bear habitat survey](Quests/Adventure/quest_256.md)** | Adventure quest (5) | Ecological research (1) Biology (3) French | Reward: 27,000 / Advance payment: 2,000 Experience: 130 / Fame: 65 |
+| **[Brown bear habitat survey](docs/Quests/Adventure/1-1000/quest_256.md)** | Adventure quest (5) | Ecological research (1) Biology (3) French | Reward: 27,000 / Advance payment: 2,000 Experience: 130 / Fame: 65 |

@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Searching for birds related to feelings](Quests/Adventure/quest_2908.md)** | Adventure quest (5) | Ecological research (5) Biology (7) Chinese (1) | Reward: 83,000 / Advance payment: 0Experience: 140 / Fame: 140 |
+| **[Searching for birds related to feelings](docs/Quests/Adventure/2001-3000/quest_2908.md)** | Adventure quest (5) | Ecological research (5) Biology (7) Chinese (1) | Reward: 83,000 / Advance payment: 0Experience: 140 / Fame: 140 |

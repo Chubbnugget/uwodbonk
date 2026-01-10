@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Glitnir House](Quests/Other/quest_7000.md)** | Legacy(1) | - | Experience：2,850 |
+| **[Glitnir House](docs/Quests/Other/6001-7000/quest_7000.md)** | Legacy(1) | - | Experience：2,850 |

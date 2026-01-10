@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Festival of Walking on Ashes](Quests/Adventure/quest_2610.md)** | Adventure quest (8) | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 192,000 / Advance payment: 10,000 Experience: 230 / Fame: 105 |
+| **[Festival of Walking on Ashes](docs/Quests/Adventure/2001-3000/quest_2610.md)** | Adventure quest (8) | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 192,000 / Advance payment: 10,000 Experience: 230 / Fame: 105 |

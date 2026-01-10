@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Life](Quests/Adventure/quest_2956.md)** | Adventure Quest (5) B.C. | Exploration (5) Biology (7) Mayan languages ​​(1) | Reward: 80,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Ancient Life](docs/Quests/Adventure/2001-3000/quest_2956.md)** | Adventure Quest (5) B.C. | Exploration (5) Biology (7) Mayan languages ​​(1) | Reward: 80,000 / Advance payment: 0Experience: 140 / Fame: 70 |

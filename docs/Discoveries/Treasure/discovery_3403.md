@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The end of the chain of revenge](Quests/Adventure/quest_6301.md)** | Adventure quest (10) | Exploration (11) Treasures Appraisal (13) Arabic (1) | Reward: 578,000 / Advance payment: 50,000 Experience: 450 / Fame: 280 |
+| **[The end of the chain of revenge](docs/Quests/Adventure/6001-7000/quest_6301.md)** | Adventure quest (10) | Exploration (11) Treasures Appraisal (13) Arabic (1) | Reward: 578,000 / Advance payment: 50,000 Experience: 450 / Fame: 280 |

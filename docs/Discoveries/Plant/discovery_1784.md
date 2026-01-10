@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of flowers blooming on the beach](Quests/Other/quest_2367.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：150 |
+| **[Map of flowers blooming on the beach](docs/Quests/Other/2001-3000/quest_2367.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：150 |

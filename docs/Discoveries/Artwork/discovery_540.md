@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Standards of Beauty](Quests/Adventure/quest_1268.md)** | Adventure Quest (8) 16th Century 2nd Period | Exploration (7) Art (9) Unlocking (7) | Reward: 140,000 / Advance payment: 15,000 Experience: 260 / Fame: 90 |
+| **[Standards of Beauty](docs/Quests/Adventure/1001-2000/quest_1268.md)** | Adventure Quest (8) 16th Century 2nd Period | Exploration (7) Art (9) Unlocking (7) | Reward: 140,000 / Advance payment: 15,000 Experience: 260 / Fame: 90 |

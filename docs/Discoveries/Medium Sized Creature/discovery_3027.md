@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lord of the Lake](Quests/Adventure/quest_5734.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Spanish | Reward: 684,000 / Advance payment: 60,000 Experience: 510 / Fame: 320 |
+| **[Lord of the Lake](docs/Quests/Adventure/5001-6000/quest_5734.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Spanish | Reward: 684,000 / Advance payment: 60,000 Experience: 510 / Fame: 320 |

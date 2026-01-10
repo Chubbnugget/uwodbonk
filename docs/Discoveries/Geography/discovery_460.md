@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[End of the Caribbean](Quests/Adventure/quest_1096.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) Spanish | Reward: 99,000 / Advance payment: 0Experience: 225 / Fame: 85 |
+| **[End of the Caribbean](docs/Quests/Adventure/1001-2000/quest_1096.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) Spanish | Reward: 99,000 / Advance payment: 0Experience: 225 / Fame: 85 |

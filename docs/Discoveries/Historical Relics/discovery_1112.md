@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Trinkets Map](Quests/Other/quest_527.md)** | Archeology(2) | Exploration(2)Archaeology(2) |  |
+| **[Ancient Trinkets Map](docs/Quests/Other/1-1000/quest_527.md)** | Archeology(2) | Exploration(2)Archaeology(2) |  |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Taoist boy statue map](Quests/Other/quest_2619.md)** | Religious Studies(8) | Religious Studies(8)Exploration(8) |  |
+| **[Taoist boy statue map](docs/Quests/Other/2001-3000/quest_2619.md)** | Religious Studies(8) | Religious Studies(8)Exploration(8) |  |

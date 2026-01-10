@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big Flower Map](Quests/Other/quest_3045.md)** | Biology学(7) | Ecological Survey(7)Biology(7) |  |
+| **[Big Flower Map](docs/Quests/Other/3001-4000/quest_3045.md)** | Biology学(7) | Ecological Survey(7)Biology(7) |  |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[東西宗教交流](Quests/Adventure/quest_2816.md)** | Adventure quest (4) | Religious Studies(5)Exploration(3)Chinese(1) | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[東西宗教交流](docs/Quests/Adventure/2001-3000/quest_2816.md)** | Adventure quest (4) | Religious Studies(5)Exploration(3)Chinese(1) | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Traditional Hawaiian musical instruments](Quests/Adventure/quest_3582.md)** | Adventure quest (8) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 489,000 / Advance payment: 40,000 Experience: 430 / Fame: 175 |
+| **[Traditional Hawaiian musical instruments](docs/Quests/Adventure/3001-4000/quest_3582.md)** | Adventure quest (8) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 489,000 / Advance payment: 40,000 Experience: 430 / Fame: 175 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fish with the pattern of a beast](Quests/Adventure/quest_6986.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Malayu Tagalog (1) | Remuneration: 191,000 / Advance payment: 20,000 |
+| **[Fish with the pattern of a beast](docs/Quests/Adventure/6001-7000/quest_6986.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Malayu Tagalog (1) | Remuneration: 191,000 / Advance payment: 20,000 |

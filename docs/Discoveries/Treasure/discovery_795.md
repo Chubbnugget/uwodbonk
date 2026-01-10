@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Versatile poet](Quests/Adventure/quest_2045.md)** | Adventure quest (3) | Exploration (2) Treasures Appraisal (4) Turkish (1) | Reward: 78,000Experience: 140/ Fame: 65 |
+| **[Versatile poet](docs/Quests/Adventure/2001-3000/quest_2045.md)** | Adventure quest (3) | Exploration (2) Treasures Appraisal (4) Turkish (1) | Reward: 78,000Experience: 140/ Fame: 65 |

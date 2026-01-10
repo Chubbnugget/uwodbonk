@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Great Battle of Mahabharata](Quests/Adventure/quest_5698.md)** | Adventure Quest (10) Mythology Era | Geography (17) Visual recognition (15) Indian languages | Reward: 285,000 / Advance payment: 20,000 Experience: 270 / Fame: 155 |
+| **[Great Battle of Mahabharata](docs/Quests/Adventure/5001-6000/quest_5698.md)** | Adventure Quest (10) Mythology Era | Geography (17) Visual recognition (15) Indian languages | Reward: 285,000 / Advance payment: 20,000 Experience: 270 / Fame: 155 |

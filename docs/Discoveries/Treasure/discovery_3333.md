@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Anonymous Paper](Quests/Adventure/quest_6189.md)** | Adventure Quest (10) 18th Century Third Period | Religion(15)Exploration(13)Treasures Identification(15) | Reward: 259,000 / Advance payment: 20,000 Experience: 250 / Fame: 210 |
+| **[Anonymous Paper](docs/Quests/Adventure/6001-7000/quest_6189.md)** | Adventure Quest (10) 18th Century Third Period | Religion(15)Exploration(13)Treasures Identification(15) | Reward: 259,000 / Advance payment: 20,000 Experience: 250 / Fame: 210 |

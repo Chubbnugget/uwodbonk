@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Colorful trout](Quests/Other/quest_4348.md)** | Fishing (2) | Fishing (6) |  |
+| **[Colorful trout](docs/Quests/Other/4001-5000/quest_4348.md)** | Fishing (2) | Fishing (6) |  |

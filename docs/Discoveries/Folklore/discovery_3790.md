@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore of the dragon that brings wealth](Quests/Other/quest_6748.md)** | Tradition (8) | Biology学(12) | Remuneration: 439,500 / Advance payment: 40,000 |
+| **[Lore of the dragon that brings wealth](docs/Quests/Other/6001-7000/quest_6748.md)** | Tradition (8) | Biology学(12) | Remuneration: 439,500 / Advance payment: 40,000 |

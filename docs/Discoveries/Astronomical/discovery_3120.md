@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[North America Stars Cloud](Quests/Other/quest_5860.md)** | Celestial Object Discovery Name(9)18th Century Issue 3 | Astronomy(9) | Experience：700 |
+| **[North America Stars Cloud](docs/Quests/Other/5001-6000/quest_5860.md)** | Celestial Object Discovery Name(9)18th Century Issue 3 | Astronomy(9) | Experience：700 |

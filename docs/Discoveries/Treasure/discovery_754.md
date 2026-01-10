@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Greek history book](Quests/Adventure/quest_501.md)** | Adventure Quest (4) B.C. | Exploration (1) Treasures Appraisal (2) Spanish | Reward: 16,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Ancient Greek history book](docs/Quests/Adventure/1-1000/quest_501.md)** | Adventure Quest (4) B.C. | Exploration (1) Treasures Appraisal (2) Spanish | Reward: 16,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ong Han's Armor](Quests/Other/quest_3547.md)** | Treasure hunting (10) | Exploration (12) Archeology (14) Indian languages | Experience: 3,050/ Reputation: 714 |
+| **[Ong Han's Armor](docs/Quests/Other/3001-4000/quest_3547.md)** | Treasure hunting (10) | Exploration (12) Archeology (14) Indian languages | Experience: 3,050/ Reputation: 714 |

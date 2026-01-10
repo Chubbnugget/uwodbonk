@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Transmission of Sansai](Quests/Adventure/quest_2793.md)** | Adventure quest (7) | 探索(5)Treasures鑑定(7)中国語(1) | Reward: 157,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[Transmission of Sansai](docs/Quests/Adventure/2001-3000/quest_2793.md)** | Adventure quest (7) | 探索(5)Treasures鑑定(7)中国語(1) | Reward: 157,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

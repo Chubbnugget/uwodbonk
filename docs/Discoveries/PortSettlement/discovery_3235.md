@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gabon](Quests/Other/quest_6059.md)** | Port/village (1) | - |  |
+| **[Gabon](docs/Quests/Other/6001-7000/quest_6059.md)** | Port/village (1) | - |  |

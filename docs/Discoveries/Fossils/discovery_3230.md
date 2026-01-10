@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Turtle Bone Map](Quests/Other/quest_6039.md)** | Biology学(10) | Explore(10)Biology(10) |  |
+| **[Giant Turtle Bone Map](docs/Quests/Other/6001-7000/quest_6039.md)** | Biology学(10) | Explore(10)Biology(10) |  |

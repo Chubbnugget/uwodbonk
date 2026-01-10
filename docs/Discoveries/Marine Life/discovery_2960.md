@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Elephant Nose Fish](Quests/Other/quest_5644.md)** | Fishing (1) | fishing |  |
+| **[Elephant Nose Fish](docs/Quests/Other/5001-6000/quest_5644.md)** | Fishing (1) | fishing |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Golden Land is Far](Quests/Adventure/quest_6264.md)** | Adventure Quest (6) 16th Century 3rd Period | Explore(5)Archaeology(7)ケチュアlanguage | Reward: 290,000 / Advance payment: 20,000 Experience: 270 / Fame: 160 |
+| **[The Golden Land is Far](docs/Quests/Adventure/6001-7000/quest_6264.md)** | Adventure Quest (6) 16th Century 3rd Period | Explore(5)Archaeology(7)ケチュアlanguage | Reward: 290,000 / Advance payment: 20,000 Experience: 270 / Fame: 160 |

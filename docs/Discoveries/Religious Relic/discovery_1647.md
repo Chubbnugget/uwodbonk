@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Skull Map](Quests/Other/quest_1912.md)** | Religious Studies(9) | Religious Studies (9) Exploration (9) Unlocking (9) |  |
+| **[Strange Skull Map](docs/Quests/Other/1001-2000/quest_1912.md)** | Religious Studies(9) | Religious Studies (9) Exploration (9) Unlocking (9) |  |

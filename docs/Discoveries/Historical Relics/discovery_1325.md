@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Silla relics research cooperation](Quests/Adventure/quest_2734.md)** | Adventure quest (4) | 探索(5)考古学(7)朝鮮語 | Reward: 133,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Silla relics research cooperation](docs/Quests/Adventure/2001-3000/quest_2734.md)** | Adventure quest (4) | 探索(5)考古学(7)朝鮮語 | Reward: 133,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

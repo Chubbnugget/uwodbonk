@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Material of wound medicine](Quests/Adventure/quest_2385.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Japanese (1) | Reward: 60,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Material of wound medicine](docs/Quests/Adventure/2001-3000/quest_2385.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Japanese (1) | Reward: 60,000 / Advance payment: 0Experience: 140 / Fame: 70 |

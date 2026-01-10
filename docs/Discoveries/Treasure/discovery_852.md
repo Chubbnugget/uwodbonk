@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Essay map](Quests/Other/quest_2333.md)** | Treasures鑑定(4) | 探索(4)Treasures鑑定(4) |  |
+| **[Essay map](docs/Quests/Other/2001-3000/quest_2333.md)** | Treasures鑑定(4) | 探索(4)Treasures鑑定(4) |  |

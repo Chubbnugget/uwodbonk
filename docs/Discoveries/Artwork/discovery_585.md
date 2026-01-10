@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gorgeous folding screen map](Quests/Other/quest_2528.md)** | 美術(6) | 探索(6)美術(6) |  |
+| **[Gorgeous folding screen map](docs/Quests/Other/2001-3000/quest_2528.md)** | 美術(6) | 探索(6)美術(6) |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lost Culture](Quests/Adventure/quest_2003.md)** | Adventure quest (8) | Religion(11)Explore(9)ケチュア语 | Reward: 84,000Experience: 140/ Fame: 140 |
+| **[Lost Culture](docs/Quests/Adventure/2001-3000/quest_2003.md)** | Adventure quest (8) | Religion(11)Explore(9)ケチュア语 | Reward: 84,000Experience: 140/ Fame: 140 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Reconciliation ritual](Quests/Adventure/quest_5697.md)** | Adventure quest (9) | 探索(8)Treasures鑑定(10)中国語(1) | Reward: 569,000 / Advance payment: 50,000 Experience: 440 / Fame: 275 |
+| **[Reconciliation ritual](docs/Quests/Adventure/5001-6000/quest_5697.md)** | Adventure quest (9) | 探索(8)Treasures鑑定(10)中国語(1) | Reward: 569,000 / Advance payment: 50,000 Experience: 440 / Fame: 275 |

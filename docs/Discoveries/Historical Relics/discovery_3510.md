@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Abacus Tablet of Salamis](Quests/Other/quest_6432.md)** | Legacy(1) | - |  |
+| **[Abacus Tablet of Salamis](docs/Quests/Other/6001-7000/quest_6432.md)** | Legacy(1) | - |  |

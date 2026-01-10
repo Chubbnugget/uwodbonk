@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Deer with magnificent antlers](Quests/Adventure/quest_3842.md)** | Adventure quest (7) 19th century | Ecological research (3) Biology (5) North American languages | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Deer with magnificent antlers](docs/Quests/Adventure/3001-4000/quest_3842.md)** | Adventure quest (7) 19th century | Ecological research (3) Biology (5) North American languages | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 65 |

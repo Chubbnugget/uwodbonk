@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rare deer map](Quests/Other/quest_3698.md)** | Biology学(10) | Ecological Survey(10)Biology(10) |  |
+| **[Rare deer map](docs/Quests/Other/3001-4000/quest_3698.md)** | Biology学(10) | Ecological Survey(10)Biology(10) |  |

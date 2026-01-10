@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Playste Joan's Country](Quests/Adventure/quest_271.md)** | Adventure Quest (5) 15th Century 5th Period | Religious Studies (3) Visual Recognition (1) Italian | Reward: 250,500 / Advance payment: 5,000 Experience: 385 / Fame: 192 |
+| **[Playste Joan's Country](docs/Quests/Adventure/1-1000/quest_271.md)** | Adventure Quest (5) 15th Century 5th Period | Religious Studies (3) Visual Recognition (1) Italian | Reward: 250,500 / Advance payment: 5,000 Experience: 385 / Fame: 192 |

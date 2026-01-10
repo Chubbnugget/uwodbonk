@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Creeping sharp flower](Quests/Adventure/quest_6716.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Arabic | Reward: 233,400/Advance payment: 30,000Experience: 375 |
+| **[Creeping sharp flower](docs/Quests/Adventure/6001-7000/quest_6716.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Arabic | Reward: 233,400/Advance payment: 30,000Experience: 375 |

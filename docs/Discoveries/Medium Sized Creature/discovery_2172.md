@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant antelope in the forest](Quests/Adventure/quest_685.md)** | Adventure quest (9) | Ecological Survey (9) Biology (11) Portuguese | Reward: 252,000/ Advance: 50,000Experience: 220/ Fame: 120 |
+| **[Giant antelope in the forest](docs/Quests/Adventure/1-1000/quest_685.md)** | Adventure quest (9) | Ecological Survey (9) Biology (11) Portuguese | Reward: 252,000/ Advance: 50,000Experience: 220/ Fame: 120 |

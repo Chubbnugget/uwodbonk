@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Vina](Quests/Other/quest_6650.md)** | Legacy(1) | - |  |
+| **[Vina](docs/Quests/Other/6001-7000/quest_6650.md)** | Legacy(1) | - |  |

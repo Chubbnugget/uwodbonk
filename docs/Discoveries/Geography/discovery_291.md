@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant bay west of Yardane](Quests/Adventure/quest_1327.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Mon-Khmer languages | Reward: 68,400 Experience: 220 / Fame: 70 |
+| **[Giant bay west of Yardane](docs/Quests/Adventure/1001-2000/quest_1327.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Mon-Khmer languages | Reward: 68,400 Experience: 220 / Fame: 70 |

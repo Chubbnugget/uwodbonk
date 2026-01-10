@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Offering Statue](Quests/Adventure/quest_1862.md)** | Adventure quest (3) | Religious Studies (4) Exploration (2) Unlocking (2) | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Offering Statue](docs/Quests/Adventure/1001-2000/quest_1862.md)** | Adventure quest (3) | Religious Studies (4) Exploration (2) Unlocking (2) | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 65 |

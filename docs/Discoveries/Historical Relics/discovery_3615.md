@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Euclidean Elements](Quests/Other/quest_6549.md)** | Legacy(1) | - |  |
+| **[Euclidean Elements](docs/Quests/Other/6001-7000/quest_6549.md)** | Legacy(1) | - |  |

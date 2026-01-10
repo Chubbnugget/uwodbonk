@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Testimony of those who preach](Quests/Adventure/quest_2760.md)** | Adventure quest (6) | Religious Studies (10) Exploration (8) Unlocking (8) | Reward: 95,000 / Advance payment: 0Experience: 180 / Fame: 85 |
+| **[Testimony of those who preach](docs/Quests/Adventure/2001-3000/quest_2760.md)** | Adventure quest (6) | Religious Studies (10) Exploration (8) Unlocking (8) | Reward: 95,000 / Advance payment: 0Experience: 180 / Fame: 85 |

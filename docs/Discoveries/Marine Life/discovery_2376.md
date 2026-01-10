@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Little Turtle Map](Quests/Other/quest_2870.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |
+| **[Little Turtle Map](docs/Quests/Other/2001-3000/quest_2870.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |

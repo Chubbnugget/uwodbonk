@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cliff Cave](Quests/Adventure/quest_5695.md)** | Adventure Quest (10) B.C. | Archeology (17) Visualization (15) Greek (1) | Reward: 647,000 / Advance payment: 60,000 Experience: 490 / Fame: 305 |
+| **[Cliff Cave](docs/Quests/Adventure/5001-6000/quest_5695.md)** | Adventure Quest (10) B.C. | Archeology (17) Visualization (15) Greek (1) | Reward: 647,000 / Advance payment: 60,000 Experience: 490 / Fame: 305 |

@@ -39,12 +39,12 @@ type: NPC
 
 | Item Name | Group | Purchase Price | Notes |
 | --- | --- | --- | --- |
-| [加工木材](Items/Shipbuilding FS Material/item_1695.md) (15世紀第2期、15世紀第3期、15世紀第4期) | [Shipbuilding materials](Categories/category_47.md) | Fixed recipe | [Amsterdam](Ports/port_49.md) |
+| [加工木材](docs/Items/ShipbuildingFS/item_1695.md) (15世紀第2期、15世紀第3期、15世紀第4期) | [Shipbuilding materials](docs/Categories/category_47.md) | Fixed recipe | [Amsterdam](docs/Ports/port_49.md) |
 
 ## NPC: Item Name
 
 | Item Name | Group | Purchase Price | Notes |
 | --- | --- | --- | --- |
-| [加工木材](Items/Shipbuilding FS Material/item_1695.md) (15世紀第2期、15世紀第3期、15世紀第4期) | [Shipbuilding materials](Categories/category_47.md) | Fixed recipe | [Amsterdam](Ports/port_49.md) |
+| [加工木材](docs/Items/ShipbuildingFS/item_1695.md) (15世紀第2期、15世紀第3期、15世紀第4期) | [Shipbuilding materials](docs/Categories/category_47.md) | Fixed recipe | [Amsterdam](docs/Ports/port_49.md) |
 
 ## NPC: Item Name

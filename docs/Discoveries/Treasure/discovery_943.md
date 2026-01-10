@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hidden Treasures Map](Quests/Other/quest_346.md)** | Treasures鑑定(8) | Exploration (8) Treasures Appraisal (8) Unlocking (8) |  |
+| **[Hidden Treasures Map](docs/Quests/Other/1-1000/quest_346.md)** | Treasures鑑定(8) | Exploration (8) Treasures Appraisal (8) Unlocking (8) |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on African lungfish](Quests/Other/quest_6464.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) Dutch | Reward: 400,000 / Advance payment: 0Experience: 1,680 |
+| **[Additional research on African lungfish](docs/Quests/Other/6001-7000/quest_6464.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) Dutch | Reward: 400,000 / Advance payment: 0Experience: 1,680 |

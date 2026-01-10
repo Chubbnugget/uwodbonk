@@ -68,46 +68,46 @@ A city that developed through manufacturing, trade, and finance. Many merchants 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Equipment (head)](Categories/category_23.md)
+#### [Equipment (head)](docs/Categories/category_23.md)
 
-| [breton](Items/Equipment/Equipment-Head/item_299.md) | Equipment (head) | 3,800 | tool shop owner |  |
-| [Breton with wings](Items/Equipment/Equipment-Head/item_587.md) | Equipment (head) | 8,400 | tool shop owner |  |
+| [breton](docs/Items/Equipment/Equipment-Head/item_299.md) | Equipment (head) | 3,800 | tool shop owner |  |
+| [Breton with wings](docs/Items/Equipment/Equipment-Head/item_587.md) | Equipment (head) | 8,400 | tool shop owner |  |
 
-#### [Equipment (body)](Categories/category_24.md)
+#### [Equipment (body)](docs/Categories/category_24.md)
 
-| [jerkin](Items/Equipment/Equipment-Body/item_323.md) | Equipment (body) | 12,500 | tool shop owner |  |
-| [felt tunic](Items/Equipment/Equipment-Body/item_324.md) | Equipment (body) | 3,800 | tool shop owner |  |
-| [petticoat](Items/Equipment/Equipment-Body/item_415.md) | Equipment (body) | 3,800 | tool shop owner |  |
+| [jerkin](docs/Items/Equipment/Equipment-Body/item_323.md) | Equipment (body) | 12,500 | tool shop owner |  |
+| [felt tunic](docs/Items/Equipment/Equipment-Body/item_324.md) | Equipment (body) | 3,800 | tool shop owner |  |
+| [petticoat](docs/Items/Equipment/Equipment-Body/item_415.md) | Equipment (body) | 3,800 | tool shop owner |  |
 
-#### [Equipment (legs)](Categories/category_26.md)
+#### [Equipment (legs)](docs/Categories/category_26.md)
 
-| [buckle boots](Items/Equipment/Equipment-Feet/item_417.md) | Equipment (legs) | 100 | tool shop owner |  |
-| [ribbon shoes](Items/Equipment/Equipment-Feet/item_704.md) | Equipment (legs) | 10,000 | tool shop owner |  |
+| [buckle boots](docs/Items/Equipment/Equipment-Feet/item_417.md) | Equipment (legs) | 100 | tool shop owner |  |
+| [ribbon shoes](docs/Items/Equipment/Equipment-Feet/item_704.md) | Equipment (legs) | 10,000 | tool shop owner |  |
 
-#### [Equipment (belongings)](Categories/category_27.md)
+#### [Equipment (belongings)](docs/Categories/category_27.md)
 
-| [short sword](Items/Equipment/Equipment-Weapon/item_301.md) | Equipment (belongings) | 9,300 | tool shop owner |  |
-| [priest's cane](Items/Equipment/Equipment-Weapon/item_517.md) | Equipment (belongings) | 10,900 | tool shop owner |  |
+| [short sword](docs/Items/Equipment/Equipment-Weapon/item_301.md) | Equipment (belongings) | 9,300 | tool shop owner |  |
+| [priest's cane](docs/Items/Equipment/Equipment-Weapon/item_517.md) | Equipment (belongings) | 10,900 | tool shop owner |  |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [傷薬](Items/Consumables/Consumables-Landbattle/item_317.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
-| [Assortment of wound medicine](Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
-| [antidote](Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
+| [傷薬](docs/Items/Consumables/Consumables-Landbattle/item_317.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [Assortment of wound medicine](docs/Items/Consumables/Consumables-Landbattle/item_90.md) | Consumables (land battle/deck battle) | 500 | tool shop owner |  |
+| [antidote](docs/Items/Consumables/Consumables-Landbattle/item_270.md) | Consumables (land battle/deck battle) | 100 | tool shop owner |  |
 
-#### [Consumables (skill activation)](Categories/category_31.md)
+#### [Consumables (skill activation)](docs/Categories/category_31.md)
 
-| [card](Items/Consumables/Consumables-Skill/item_855.md) | Consumables (skill activation) | 500 | tool shop owner |  |
-| [片眼鏡](Items/Consumables/Consumables-Skill/item_306.md) | Consumables (skill activation) | 500 | tool shop owner |  |
+| [card](docs/Items/Consumables/Consumables-Skill/item_855.md) | Consumables (skill activation) | 500 | tool shop owner |  |
+| [片眼鏡](docs/Items/Consumables/Consumables-Skill/item_306.md) | Consumables (skill activation) | 500 | tool shop owner |  |
 
-#### [Consumables (other)](Categories/category_44.md)
+#### [Consumables (other)](docs/Categories/category_44.md)
 
-| [Dyed powder](Items/Consumables/Consumables-Other/item_3370.md) | Consumables (other) | 2,000 | tool shop owner |  |
-| [sewing tools](Items/Consumables/Consumables-Other/item_310.md) | Consumables (other) | 10,000 | tool shop owner |  |
+| [Dyed powder](docs/Items/Consumables/Consumables-Other/item_3370.md) | Consumables (other) | 2,000 | tool shop owner |  |
+| [sewing tools](docs/Items/Consumables/Consumables-Other/item_310.md) | Consumables (other) | 10,000 | tool shop owner |  |
 
-#### [Consumables (request documents)](Categories/category_45.md)
+#### [Consumables (request documents)](docs/Categories/category_45.md)
 
-| [投資申請書](Items/Consumables/Consumables-Documents/item_1483.md) | Consumables (request documents) | 1,000 | tool shop owner |  |
+| [投資申請書](docs/Items/Consumables/Consumables-Documents/item_1483.md) | Consumables (request documents) | 1,000 | tool shop owner |  |
 | 時代限定（15世紀第3期、15世紀第4期、15世紀第5期） |
   </TabItem>
   <TabItem value="chamber of commerce" label="chamber of commerce">
@@ -115,27 +115,27 @@ A city that developed through manufacturing, trade, and finance. Many merchants 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [Florence Recipe (Lorenzo Medici)](Items/Recipe Book/item_4726.md) | recipe book | Fixed recipe | chamber of commerce |  |
+| [Florence Recipe (Lorenzo Medici)](docs/Items/RecipeBooks/item_4726.md) | recipe book | Fixed recipe | chamber of commerce |  |
 | lorenzo medici |
-| [Florence Recipe (Craftsman)](Items/Recipe Book/item_4724.md) | recipe book | Fixed recipe | chamber of commerce |  |
+| [Florence Recipe (Craftsman)](docs/Items/RecipeBooks/item_4724.md) | recipe book | Fixed recipe | chamber of commerce |  |
 | chamber of commerce |
-| [Florence Recipe (Sewing Craftsman)](Items/Recipe Book/item_4727.md) | recipe book | Fixed recipe | chamber of commerce |  |
+| [Florence Recipe (Sewing Craftsman)](docs/Items/RecipeBooks/item_4727.md) | recipe book | Fixed recipe | chamber of commerce |  |
 | chamber of commerce |
-| [Florence Recipe (Cook)](Items/Recipe Book/item_4494.md) | recipe book | Fixed recipe | chamber of commerce |  |
+| [Florence Recipe (Cook)](docs/Items/RecipeBooks/item_4494.md) | recipe book | Fixed recipe | chamber of commerce |  |
 | chamber of commerce |
-| [Florence Recipe (Foundry Craftsman)](Items/Recipe Book/item_4725.md) | recipe book | Fixed recipe | chamber of commerce |  |
+| [Florence Recipe (Foundry Craftsman)](docs/Items/RecipeBooks/item_4725.md) | recipe book | Fixed recipe | chamber of commerce |  |
 | chamber of commerce |
-| [Florence Storage Recipe (Nadia)](Items/Recipe Book/item_4525.md) | recipe book | Fixed recipe | chamber of commerce |  |
+| [Florence Storage Recipe (Nadia)](docs/Items/RecipeBooks/item_4525.md) | recipe book | Fixed recipe | chamber of commerce |  |
 | nadia |
-| [Florence Crafts Recipes (Anita)](Items/Recipe Book/item_4091.md) | recipe book | Fixed recipe | chamber of commerce |  |
+| [Florence Crafts Recipes (Anita)](docs/Items/RecipeBooks/item_4091.md) | recipe book | Fixed recipe | chamber of commerce |  |
 | Anita |
-| [Florence sewing recipe (Roberta)](Items/Recipe Book/item_4101.md) | recipe book | Fixed recipe | chamber of commerce |  |
+| [Florence sewing recipe (Roberta)](docs/Items/RecipeBooks/item_4101.md) | recipe book | Fixed recipe | chamber of commerce |  |
 | roberta |
-| [Florentine cooking recipes (Monica)](Items/Recipe Book/item_4097.md) | recipe book | Fixed recipe | chamber of commerce |  |
+| [Florentine cooking recipes (Monica)](docs/Items/RecipeBooks/item_4097.md) | recipe book | Fixed recipe | chamber of commerce |  |
 | Monica |
-| [Florence casting recipe (Zita)](Items/Recipe Book/item_4104.md) | recipe book | Fixed recipe | chamber of commerce |  |
+| [Florence casting recipe (Zita)](docs/Items/RecipeBooks/item_4104.md) | recipe book | Fixed recipe | chamber of commerce |  |
 | Zita |
   </TabItem>
 </Tabs>

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of the mighty bird](Quests/Other/quest_3162.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |
+| **[Map of the mighty bird](docs/Quests/Other/3001-4000/quest_3162.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |

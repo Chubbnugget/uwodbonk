@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Castle](Quests/Other/quest_3788.md)** | Celestial Object Discovery Name(5)16th Century Issue 4 | Astronomy(5) |  |
+| **[Castle](docs/Quests/Other/3001-4000/quest_3788.md)** | Celestial Object Discovery Name(5)16th Century Issue 4 | Astronomy(5) |  |

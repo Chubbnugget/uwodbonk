@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Voyage to health](Quests/Adventure/quest_6327.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Japanese | Reward: 170,000 / Advance payment: 20,000 Experience: 190 / Fame: 110 |
+| **[Voyage to health](docs/Quests/Adventure/6001-7000/quest_6327.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Japanese | Reward: 170,000 / Advance payment: 20,000 Experience: 190 / Fame: 110 |

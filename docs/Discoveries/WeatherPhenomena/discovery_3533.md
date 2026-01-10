@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Multiple Vortex Tornado](Quests/Other/quest_6455.md)** | Weather/phenomena (1) | Visual recognition | Experience：140 |
+| **[Multiple Vortex Tornado](docs/Quests/Other/6001-7000/quest_6455.md)** | Weather/phenomena (1) | Visual recognition | Experience：140 |

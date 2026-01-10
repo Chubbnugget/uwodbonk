@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wandering Roman](Quests/Adventure/quest_6034.md)** | Adventure quest (4) 15th century third period | Exploration (10) Archeology (12) Greek | Reward: 119,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[Wandering Roman](docs/Quests/Adventure/6001-7000/quest_6034.md)** | Adventure quest (4) 15th century third period | Exploration (10) Archeology (12) Greek | Reward: 119,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Regenerated Scripture](Quests/Adventure/quest_601.md)** | Adventure Quest (5) Mythology Era | Religious Studies (3) Exploration (1) Arabic | Reward: 33,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Regenerated Scripture](docs/Quests/Adventure/1-1000/quest_601.md)** | Adventure Quest (5) Mythology Era | Religious Studies (3) Exploration (1) Arabic | Reward: 33,000 / Advance payment: 0Experience: 150 / Fame: 75 |

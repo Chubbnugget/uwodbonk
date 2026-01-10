@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jewel of the Caribbean](Quests/Adventure/quest_109.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Spanish | Reward: 85,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Jewel of the Caribbean](docs/Quests/Adventure/1-1000/quest_109.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Spanish | Reward: 85,000 / Advance payment: 0Experience: 140 / Fame: 70 |

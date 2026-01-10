@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore about the phantom floating city](Quests/Other/quest_6368.md)** | Tradition (8) | Geography学(12) | Reward: 756,000 / Advance payment: 80,000 Experience: 580 / Fame: 350 |
+| **[Lore about the phantom floating city](docs/Quests/Other/6001-7000/quest_6368.md)** | Tradition (8) | Geography学(12) | Reward: 756,000 / Advance payment: 80,000 Experience: 580 / Fame: 350 |

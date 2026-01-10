@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Oldest steam engine](Quests/Adventure/quest_5512.md)** | Adventure quest (5) | Exploration (10) Treasures Appraisal (12) Arabic | Reward: 251,000/ Advance: 20,000Experience: 240/ Fame: 140 |
+| **[Oldest steam engine](docs/Quests/Adventure/5001-6000/quest_5512.md)** | Adventure quest (5) | Exploration (10) Treasures Appraisal (12) Arabic | Reward: 251,000/ Advance: 20,000Experience: 240/ Fame: 140 |

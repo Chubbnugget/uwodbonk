@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Winged Man Engraved on Copper Plate](Quests/Adventure/quest_3017.md)** | Adventure quest (8) | Exploration (7) Archeology (9) Unlocking (7) | Reward: 212,000/Advance: 20,000Experience: 250 |
+| **[Winged Man Engraved on Copper Plate](docs/Quests/Adventure/3001-4000/quest_3017.md)** | Adventure quest (8) | Exploration (7) Archeology (9) Unlocking (7) | Reward: 212,000/Advance: 20,000Experience: 250 |

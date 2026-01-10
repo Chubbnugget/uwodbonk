@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of Faith](Quests/Other/quest_5414.md)** | Imperial command quest (2) | Religious Studies (1) Exploration (1) Greek | Reward: 14,000Experience: 100/Fame: 50 |
-| **[Sea God Statue](Quests/Adventure/quest_379.md)** | Adventure Quest (3) Mythology Era | Religious Studies (1) Exploration (1) Greek | Reward: 6,000 / Advance payment: 0Experience: 120 / Fame: 60 |
+| **[Investigation of Faith](docs/Quests/Other/5001-6000/quest_5414.md)** | Imperial command quest (2) | Religious Studies (1) Exploration (1) Greek | Reward: 14,000Experience: 100/Fame: 50 |
+| **[Sea God Statue](docs/Quests/Adventure/1-1000/quest_379.md)** | Adventure Quest (3) Mythology Era | Religious Studies (1) Exploration (1) Greek | Reward: 6,000 / Advance payment: 0Experience: 120 / Fame: 60 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Stone Map](Quests/Other/quest_2886.md)** | Biology学(9) | Explore(9)Biology(9) | Experience：330 |
+| **[Strange Stone Map](docs/Quests/Other/2001-3000/quest_2886.md)** | Biology学(9) | Explore(9)Biology(9) | Experience：330 |

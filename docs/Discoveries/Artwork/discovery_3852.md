@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of religious paintings](Quests/Other/quest_6832.md)** | 美術(13) | 探索(13)美術(13) |  |
+| **[Map of religious paintings](docs/Quests/Other/6001-7000/quest_6832.md)** | 美術(13) | 探索(13)美術(13) |  |

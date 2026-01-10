@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The future seen in the land of grapes](Quests/Adventure/quest_3186.md)** | Adventure Quest (9) 15th Century 5th Period | Geography (14) Visualization (12) Norse (1) | Reward: 368,000/Advance payment: 30,000Experience: 608 |
+| **[The future seen in the land of grapes](docs/Quests/Adventure/3001-4000/quest_3186.md)** | Adventure Quest (9) 15th Century 5th Period | Geography (14) Visualization (12) Norse (1) | Reward: 368,000/Advance payment: 30,000Experience: 608 |

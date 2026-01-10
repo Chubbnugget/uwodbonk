@@ -42,22 +42,22 @@ The reading is "Macau". A city with a large port. It was a small village centere
 
 | item | group | purchase price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
-| [Osmanthus](Items/Trade Goods/TradeGoods-Perfume/item_3925.md) | [Trading Goods (Spices)](Categories/category_11.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [star anise](Items/Trade Goods/TradeGoods-Spices/item_3908.md) | [Trading Goods (Spices)](Categories/category_12.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [Basho](Items/Trade Goods/TradeGoods-Fibers/item_3862.md) | [交易品（繊維）](Categories/category_1.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [Locao](Items/Trade Goods/TradeGoods-Dye/item_3909.md) | [Trading Goods (Dye)](Categories/category_2.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [donkey](Items/Trade Goods/TradeGoods-Livestock/item_3924.md) | [Trading Goods (Livestock)](Categories/category_18.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [chinese books](Items/Trade Goods/TradeGoods-Misc/item_3927.md) | [交易品（雑貨）](Categories/category_5.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [chinese calligraphy](Items/Trade Goods/TradeGoods-Art/item_3926.md) | [交易品（美術品）](Categories/category_14.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [Chinese tea](Items/Trade Goods/TradeGoods-Sunddries/item_3907.md) | [Trading goods (hobby goods)](Categories/category_10.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [Cordyceps sinensis](Items/Trade Goods/TradeGoods-Medicine/item_3839.md) | [Trading products (medical products)](Categories/category_6.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [monocular gun](Items/Trade Goods/TradeGoods-Firearms/item_3916.md) | [Trading Items (Firearms)](Categories/category_17.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [紹興酒](Items/Trade Goods/TradeGoods-Alcohol/item_3882.md) | [交易品（酒類）](Categories/category_9.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [mutton fat white jade](Items/Trade Goods/TradeGoods-Gems/item_3903.md) | [Trading Items (Gemstones)](Categories/category_15.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [Bean sauce](Items/Trade Goods/TradeGoods-Seasonings/item_3875.md) | [交易品（調味料）](Categories/category_4.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [red copper ore](Items/Trade Goods/TradeGoods-Minerals/item_3863.md) | [Trading Items (Iron Stone)](Categories/category_7.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [雲南銀](Items/Trade Goods/TradeGoods-Metals/item_3905.md) | [Trading products (precious metals)](Categories/category_8.md) | [Edit Purchase Price](Ports/port_169.md) |  |
-| [Blue dragon sword](Items/Trade Goods/TradeGoods-Weapons/item_3923.md) | [Trading Items (Arms)](Categories/category_16.md) | [Edit Purchase Price](Ports/port_169.md) |  |
+| [Osmanthus](docs/Items/TradeGoods/TradeGoods-Perfume/item_3925.md) | [Trading Goods (Spices)](docs/Categories/category_11.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [star anise](docs/Items/TradeGoods/TradeGoods-Spices/item_3908.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [Basho](docs/Items/TradeGoods/TradeGoods-Fibers/item_3862.md) | [交易品（繊維）](docs/Categories/category_1.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [Locao](docs/Items/TradeGoods/TradeGoods-Dye/item_3909.md) | [Trading Goods (Dye)](docs/Categories/category_2.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [donkey](docs/Items/TradeGoods/TradeGoods-Livestock/item_3924.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [chinese books](docs/Items/TradeGoods/TradeGoods-Misc/item_3927.md) | [交易品（雑貨）](docs/Categories/category_5.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [chinese calligraphy](docs/Items/TradeGoods/TradeGoods-Art/item_3926.md) | [交易品（美術品）](docs/Categories/category_14.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [Chinese tea](docs/Items/TradeGoods/TradeGoods-Sunddries/item_3907.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [Cordyceps sinensis](docs/Items/TradeGoods/TradeGoods-Medicine/item_3839.md) | [Trading products (medical products)](docs/Categories/category_6.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [monocular gun](docs/Items/TradeGoods/TradeGoods-Firearms/item_3916.md) | [Trading Items (Firearms)](docs/Categories/category_17.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [紹興酒](docs/Items/TradeGoods/TradeGoods-Alcohol/item_3882.md) | [交易品（酒類）](docs/Categories/category_9.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [mutton fat white jade](docs/Items/TradeGoods/TradeGoods-Gems/item_3903.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [Bean sauce](docs/Items/TradeGoods/TradeGoods-Seasonings/item_3875.md) | [交易品（調味料）](docs/Categories/category_4.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [red copper ore](docs/Items/TradeGoods/TradeGoods-Minerals/item_3863.md) | [Trading Items (Iron Stone)](docs/Categories/category_7.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [雲南銀](docs/Items/TradeGoods/TradeGoods-Metals/item_3905.md) | [Trading products (precious metals)](docs/Categories/category_8.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
+| [Blue dragon sword](docs/Items/TradeGoods/TradeGoods-Weapons/item_3923.md) | [Trading Items (Arms)](docs/Categories/category_16.md) | [Edit Purchase Price](docs/Ports/port_169.md) |  |
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
@@ -78,55 +78,55 @@ The reading is "Macau". A city with a large port. It was a small village centere
 
 #### mateo ricci
 
-| [Chinese](Skills/Skills-Language/item_3651.md) | [Skills (language)](Categories/category_42.md) | 500,000 | mateo ricci |  |
+| [Chinese](docs/Skills/Skills-Language/item_3651.md) | [Skills (language)](docs/Categories/category_42.md) | 500,000 | mateo ricci |  |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [East Asian accessories/sewing edition](Items/Recipe Book/item_3387.md) | recipe book | 800,000 | tool shop owner |  |
+| [East Asian accessories/sewing edition](docs/Items/RecipeBooks/item_3387.md) | recipe book | 800,000 | tool shop owner |  |
 
-#### [Equipment (head)](Categories/category_23.md)
+#### [Equipment (head)](docs/Categories/category_23.md)
 
-| [Square flat towel](Items/Equipment/Equipment-Head/item_3607.md) | Equipment (head) | 102,000 | tool shop owner |  |
-| [頭巾](Items/Equipment/Equipment-Head/item_3551.md) | Equipment (head) | 82,000 | tool shop owner |  |
+| [Square flat towel](docs/Items/Equipment/Equipment-Head/item_3607.md) | Equipment (head) | 102,000 | tool shop owner |  |
+| [頭巾](docs/Items/Equipment/Equipment-Head/item_3551.md) | Equipment (head) | 82,000 | tool shop owner |  |
 
-#### [Equipment (body)](Categories/category_24.md)
+#### [Equipment (body)](docs/Categories/category_24.md)
 
-| [Hufu](Items/Equipment/Equipment-Body/item_3874.md) | Equipment (body) | 154,000 | tool shop owner |  |
+| [Hufu](docs/Items/Equipment/Equipment-Body/item_3874.md) | Equipment (body) | 154,000 | tool shop owner |  |
 
-#### [Equipment (legs)](Categories/category_26.md)
+#### [Equipment (legs)](docs/Categories/category_26.md)
 
-| [shoe](Items/Equipment/Equipment-Feet/item_3603.md) | Equipment (legs) | 56,000 | tool shop owner |  |
-| [shoes](Items/Equipment/Equipment-Feet/item_3471.md) | Equipment (legs) | 48,000 | tool shop owner |  |
+| [shoe](docs/Items/Equipment/Equipment-Feet/item_3603.md) | Equipment (legs) | 56,000 | tool shop owner |  |
+| [shoes](docs/Items/Equipment/Equipment-Feet/item_3471.md) | Equipment (legs) | 48,000 | tool shop owner |  |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
-| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
+| [strong adhesive oil](docs/Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [torch for throwing](docs/Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [secret cure](docs/Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 
-#### [Consumables (skill activation)](Categories/category_31.md)
+#### [Consumables (skill activation)](docs/Categories/category_31.md)
 
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
+| [fishing gear](docs/Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Consumables (condition recovery)](Categories/category_21.md)
+#### [Consumables (condition recovery)](docs/Categories/category_21.md)
 
-| [Nostalgic carillon bell](Items/Consumables/Consumables-Recovery/item_245.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
-| [Ship song sheet music](Items/Consumables/Consumables-Recovery/item_247.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
+| [Nostalgic carillon bell](docs/Items/Consumables/Consumables-Recovery/item_245.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
+| [Ship song sheet music](docs/Items/Consumables/Consumables-Recovery/item_247.md) | Consumables (condition recovery) | 200 | workshop craftsman |  |
 
-#### [Consumables (other)](Categories/category_44.md)
+#### [Consumables (other)](docs/Categories/category_44.md)
 
-| [帆塗料](Items/Consumables/Consumables-Other/item_348.md) | Consumables (other) | 500 | workshop craftsman |  |
-| [ship paint](Items/Consumables/Consumables-Other/item_347.md) | Consumables (other) | 500 | workshop craftsman |  |
+| [帆塗料](docs/Items/Consumables/Consumables-Other/item_348.md) | Consumables (other) | 500 | workshop craftsman |  |
+| [ship paint](docs/Items/Consumables/Consumables-Other/item_347.md) | Consumables (other) | 500 | workshop craftsman |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
 
@@ -135,25 +135,25 @@ The reading is "Macau". A city with a large port. It was a small village centere
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Boat](Categories/category_43.md)
+#### [Boat](docs/Categories/category_43.md)
 
-| [寧波船](Items/Ships/item_3915.md) | Boat | 16,200,000 | Shipyard Master |  |
-| [Cruise ship](Items/Ships/item_3659.md) | Boat | 15,800,000 | Shipyard Master |  |
-| [armed sand barge](Items/Ships/item_3914.md) | Boat | 7,600,000 | Shipyard Master |  |
-| [sand ship](Items/Ships/item_3913.md) | Boat | 7,500,000 | Shipyard Master |  |
-| [wide ship for transportation](Items/Ships/item_3658.md) | Boat | 15,600,000 | Shipyard Master |  |
+| [寧波船](docs/Items/Ships/item_3915.md) | Boat | 16,200,000 | Shipyard Master |  |
+| [Cruise ship](docs/Items/Ships/item_3659.md) | Boat | 15,800,000 | Shipyard Master |  |
+| [armed sand barge](docs/Items/Ships/item_3914.md) | Boat | 7,600,000 | Shipyard Master |  |
+| [sand ship](docs/Items/Ships/item_3913.md) | Boat | 7,500,000 | Shipyard Master |  |
+| [wide ship for transportation](docs/Items/Ships/item_3658.md) | Boat | 15,600,000 | Shipyard Master |  |
 
 ### Shipwright
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [East Asian cabin design methods](Items/Recipe Book/item_3397.md) | recipe book | Fixed recipe | Shipwright |  |
+| [East Asian cabin design methods](docs/Items/RecipeBooks/item_3397.md) | recipe book | Fixed recipe | Shipwright |  |
 
-#### [shipbuilding materials](Categories/category_47.md)
+#### [shipbuilding materials](docs/Categories/category_47.md)
 
-| [East Asia trade hold](Items/Shipbuilding FS Material/item_3537.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
+| [East Asia trade hold](docs/Items/ShipbuildingFS/item_3537.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
   </TabItem>
 </Tabs>

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unknown Island](Quests/Adventure/quest_1650.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 112,000 / Advance payment: 10,000 Experience: 300 / Fame: 100 |
+| **[Unknown Island](docs/Quests/Adventure/1001-2000/quest_1650.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 112,000 / Advance payment: 10,000 Experience: 300 / Fame: 100 |

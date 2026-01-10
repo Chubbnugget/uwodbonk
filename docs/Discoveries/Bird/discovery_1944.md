@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White Wisdom](Quests/Adventure/quest_2994.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) French | Reward: 209,000/ Advance: 20,000Experience: 250/ Fame: 220 |
+| **[White Wisdom](docs/Quests/Adventure/2001-3000/quest_2994.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) French | Reward: 209,000/ Advance: 20,000Experience: 250/ Fame: 220 |

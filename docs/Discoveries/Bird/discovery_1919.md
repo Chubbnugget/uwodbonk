@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Things that remain in my memories](Quests/Adventure/quest_615.md)** | Adventure quest (9) | Ecological Survey (10) Biology (12) Swahili | Reward: 185,000 / Advance payment: 20,000 Experience: 370 / Fame: 155 |
+| **[Things that remain in my memories](docs/Quests/Adventure/1-1000/quest_615.md)** | Adventure quest (9) | Ecological Survey (10) Biology (12) Swahili | Reward: 185,000 / Advance payment: 20,000 Experience: 370 / Fame: 155 |

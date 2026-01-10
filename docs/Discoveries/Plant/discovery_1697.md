@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fantasy Plant](Quests/Adventure/quest_2969.md)** | Adventure quest (10) | Ecological research (12) Biology (14) West African languages | Reward: 395,000 / Advance payment: 30,000 Experience: 400 / Fame: 165 |
+| **[Fantasy Plant](docs/Quests/Adventure/2001-3000/quest_2969.md)** | Adventure quest (10) | Ecological research (12) Biology (14) West African languages | Reward: 395,000 / Advance payment: 30,000 Experience: 400 / Fame: 165 |

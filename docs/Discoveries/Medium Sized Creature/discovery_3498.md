@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional seal investigation](Quests/Other/quest_6418.md)** | Pursuit quest (3) | Ecological Survey (8) Biology (10) Italian | Reward: 160,000 / Advance payment: 0Experience: 280 |
+| **[Additional seal investigation](docs/Quests/Other/6001-7000/quest_6418.md)** | Pursuit quest (3) | Ecological Survey (8) Biology (10) Italian | Reward: 160,000 / Advance payment: 0Experience: 280 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fifth World](Quests/Adventure/quest_1453.md)** | Adventure Quest (8) Mythology Era | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 220,000/ Advance: 10,000Experience: 450/ Fame: 150 |
+| **[Fifth World](docs/Quests/Adventure/1001-2000/quest_1453.md)** | Adventure Quest (8) Mythology Era | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 220,000/ Advance: 10,000Experience: 450/ Fame: 150 |

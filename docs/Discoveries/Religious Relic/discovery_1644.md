@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue of Amitabha Tathagata](Quests/Adventure/quest_1516.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 109,000Experience: 315/ Fame: 115 |
+| **[Statue of Amitabha Tathagata](docs/Quests/Adventure/1001-2000/quest_1516.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 109,000Experience: 315/ Fame: 115 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Detailed handiwork of a painter](Quests/Adventure/quest_5923.md)** | Adventure quest (4) | Exploration (2) Art (4) Italian | Reward: 80,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Detailed handiwork of a painter](docs/Quests/Adventure/5001-6000/quest_5923.md)** | Adventure quest (4) | Exploration (2) Art (4) Italian | Reward: 80,000 / Advance payment: 0Experience: 140 / Fame: 70 |

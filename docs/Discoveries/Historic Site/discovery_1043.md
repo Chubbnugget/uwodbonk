@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unfulfilled Dream](Quests/Adventure/quest_478.md)** | Adventure quest (7) | Archeology (7) Visualization (5) Greek | Reward: 158,000 / Advance payment: 10,000 Experience: 180 / Fame: 95 |
+| **[Unfulfilled Dream](docs/Quests/Adventure/1-1000/quest_478.md)** | Adventure quest (7) | Archeology (7) Visualization (5) Greek | Reward: 158,000 / Advance payment: 10,000 Experience: 180 / Fame: 95 |

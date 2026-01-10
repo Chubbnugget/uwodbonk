@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of flightless birds](Quests/Other/quest_2427.md)** | Biology学(8) | Ecological Survey(8)Biology(8) | Experience：260 |
+| **[Map of flightless birds](docs/Quests/Other/2001-3000/quest_2427.md)** | Biology学(8) | Ecological Survey(8)Biology(8) | Experience：260 |

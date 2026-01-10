@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Trendy ring](Quests/Adventure/quest_5839.md)** | Adventure quest (10) | 探索(15)美術(17)英語 | Reward: 580,000 / Advance payment: 50,000 Experience: 450 / Fame: 280 |
+| **[Trendy ring](docs/Quests/Adventure/5001-6000/quest_5839.md)** | Adventure quest (10) | 探索(15)美術(17)英語 | Reward: 580,000 / Advance payment: 50,000 Experience: 450 / Fame: 280 |

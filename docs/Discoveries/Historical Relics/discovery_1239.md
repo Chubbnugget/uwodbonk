@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tombstone of Radames and Aida](Quests/Adventure/quest_317.md)** | Adventure quest (5) | Exploration (2) Archeology (4) Ancient Egyptian | Reward: 104,000 / Advance payment: 0Experience: 170 / Fame: 80 |
+| **[Tombstone of Radames and Aida](docs/Quests/Adventure/1-1000/quest_317.md)** | Adventure quest (5) | Exploration (2) Archeology (4) Ancient Egyptian | Reward: 104,000 / Advance payment: 0Experience: 170 / Fame: 80 |

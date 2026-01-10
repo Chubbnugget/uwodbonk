@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gushu Historic Site](Quests/Adventure/quest_6288.md)** | Adventure Quest (10) B.C. | Archeology (14) Visualization (12) Chinese | Reward: 409,000/Advance payment: 40,000Experience: 340 |
+| **[Gushu Historic Site](docs/Quests/Adventure/6001-7000/quest_6288.md)** | Adventure Quest (10) B.C. | Archeology (14) Visualization (12) Chinese | Reward: 409,000/Advance payment: 40,000Experience: 340 |

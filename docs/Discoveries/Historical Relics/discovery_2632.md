@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of towering stone pillars](Quests/Other/quest_5206.md)** | Re-examination reward (5) | Exploration(5)Archaeology(5) |  |
+| **[Map of towering stone pillars](docs/Quests/Other/5001-6000/quest_5206.md)** | Re-examination reward (5) | Exploration(5)Archaeology(5) |  |

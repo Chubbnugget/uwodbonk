@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[His appearance in the Stars sky](Quests/Adventure/quest_6021.md)** | Adventure quest (9) | Astronomy (11) Visualization (9) French | Reward: 155,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |
+| **[His appearance in the Stars sky](docs/Quests/Adventure/6001-7000/quest_6021.md)** | Adventure quest (9) | Astronomy (11) Visualization (9) French | Reward: 155,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |

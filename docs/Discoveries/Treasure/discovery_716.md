@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hero of Islam](Quests/Adventure/quest_41.md)** | Adventure quest (8) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 2,000/ Advance: 50,000Experience: 220/ Fame: 100 |
+| **[Hero of Islam](docs/Quests/Adventure/1-1000/quest_41.md)** | Adventure quest (8) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 2,000/ Advance: 50,000Experience: 220/ Fame: 100 |

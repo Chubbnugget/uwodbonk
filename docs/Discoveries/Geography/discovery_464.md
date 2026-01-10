@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Too vast lake](Quests/Adventure/quest_3615.md)** | Adventure Quest (5) 18th Century 3rd Period | Geography (7) Visual recognition (5) | Reward: 200,000 / Advance payment: 20,000 Experience: 240 / Fame: 105 |
+| **[Too vast lake](docs/Quests/Adventure/3001-4000/quest_3615.md)** | Adventure Quest (5) 18th Century 3rd Period | Geography (7) Visual recognition (5) | Reward: 200,000 / Advance payment: 20,000 Experience: 240 / Fame: 105 |

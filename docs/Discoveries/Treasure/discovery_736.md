@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Illuminated Manuscript Map](Quests/Other/quest_3309.md)** | Treasures鑑定(8) | Exploration (8) Treasures Appraisal (8) Unlocking (8) |  |
+| **[Illuminated Manuscript Map](docs/Quests/Other/3001-4000/quest_3309.md)** | Treasures鑑定(8) | Exploration (8) Treasures Appraisal (8) Unlocking (8) |  |

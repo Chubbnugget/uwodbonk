@@ -25,5 +25,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Record of eruption](Quests/Adventure/quest_2749.md)** | Adventure quest (4) | Geography (6) Visual recognition (4) Korean (1) | Reward: 72,000 / Advance payment: 0Experience: 130 / Fame: 65 |
-| **[Disaster advance observation](Quests/Other/quest_2318.md)** | Imperial command quest (4) | Geography (6) Visual recognition (4) | Reward: 250/ Advance payment: 110 |
+| **[Record of eruption](docs/Quests/Adventure/2001-3000/quest_2749.md)** | Adventure quest (4) | Geography (6) Visual recognition (4) Korean (1) | Reward: 72,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Disaster advance observation](docs/Quests/Other/2001-3000/quest_2318.md)** | Imperial command quest (4) | Geography (6) Visual recognition (4) | Reward: 250/ Advance payment: 110 |

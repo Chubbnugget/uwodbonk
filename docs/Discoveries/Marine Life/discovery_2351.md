@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Half Bird Pout](Quests/Other/quest_3618.md)** | Fishing (2) | Fishing (8) |  |
+| **[Half Bird Pout](docs/Quests/Other/3001-4000/quest_3618.md)** | Fishing (2) | Fishing (8) |  |

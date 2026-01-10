@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gentle Shark](Quests/Adventure/quest_2972.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Spanish | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Gentle Shark](docs/Quests/Adventure/2001-3000/quest_2972.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Spanish | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 70 |

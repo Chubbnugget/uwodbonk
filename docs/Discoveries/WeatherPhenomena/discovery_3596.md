@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[川霧](Quests/Other/quest_6528.md)** | Weather/phenomena (1) | Visual recognition | Experience：280 |
+| **[川霧](docs/Quests/Other/6001-7000/quest_6528.md)** | Weather/phenomena (1) | Visual recognition | Experience：280 |

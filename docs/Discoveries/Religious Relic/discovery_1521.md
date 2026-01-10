@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mother Goddess of the Andes](Quests/Adventure/quest_1858.md)** | Adventure quest (3) | Religious Studies(4)Exploration(2)ケチュア语 | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 130 |
+| **[Mother Goddess of the Andes](docs/Quests/Adventure/1001-2000/quest_1858.md)** | Adventure quest (3) | Religious Studies(4)Exploration(2)ケチュア语 | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 130 |

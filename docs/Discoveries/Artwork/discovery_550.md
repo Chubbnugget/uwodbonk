@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The man with the head of a warrior](Quests/Adventure/quest_1272.md)** | Adventure Quest (6) 17th Century 1st Period | Exploration (4) Art (6) Spanish | Reward: 41,000 Experience: 220 / Fame: 75 |
+| **[The man with the head of a warrior](docs/Quests/Adventure/1001-2000/quest_1272.md)** | Adventure Quest (6) 17th Century 1st Period | Exploration (4) Art (6) Spanish | Reward: 41,000 Experience: 220 / Fame: 75 |

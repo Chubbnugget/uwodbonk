@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flamengo](Quests/Other/quest_2111.md)** | Sunken ship(6) | salvage |  |
+| **[Flamengo](docs/Quests/Other/2001-3000/quest_2111.md)** | Sunken ship(6) | salvage |  |

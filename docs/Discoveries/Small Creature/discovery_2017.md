@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Golden Biology](Quests/Adventure/quest_459.md)** | Adventure quest (9) | Ecological research (10) Biology (12) West African languages | Reward: 365,000/ Advance: 50,000Experience: 375/ Fame: 155 |
+| **[Golden Biology](docs/Quests/Adventure/1-1000/quest_459.md)** | Adventure quest (9) | Ecological research (10) Biology (12) West African languages | Reward: 365,000/ Advance: 50,000Experience: 375/ Fame: 155 |

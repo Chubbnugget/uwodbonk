@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Crete goddess statue](Quests/Other/quest_4995.md)** | Religious Studies(10) | Religious Studies (10) Exploration (10) Unlocking (10) |  |
+| **[Map of Crete goddess statue](docs/Quests/Other/4001-5000/quest_4995.md)** | Religious Studies(10) | Religious Studies (10) Exploration (10) Unlocking (10) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Singing Mouse](Quests/Adventure/quest_1975.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Quechua (1) | Reward: 311,000 / Advance payment: 30,000 Experience: 330 / Fame: 280 |
+| **[Singing Mouse](docs/Quests/Adventure/1001-2000/quest_1975.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Quechua (1) | Reward: 311,000 / Advance payment: 30,000 Experience: 330 / Fame: 280 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Ornaments Map](Quests/Other/quest_2591.md)** | Treasures鑑定(10) | Exploration (10) Treasures Appraisal (10) Unlocking (10) |  |
+| **[Ancient Ornaments Map](docs/Quests/Other/2001-3000/quest_2591.md)** | Treasures鑑定(10) | Exploration (10) Treasures Appraisal (10) Unlocking (10) |  |

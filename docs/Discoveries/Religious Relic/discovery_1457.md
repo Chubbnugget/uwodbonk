@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lost Panacea](Quests/Adventure/quest_1871.md)** | Adventure quest (8) | Religious Studies (12) Exploration (10) Unlocking (10) | Reward: 164,000 / Advance payment: 10,000 Experience: 210 / Fame: 190 |
+| **[Lost Panacea](docs/Quests/Adventure/1001-2000/quest_1871.md)** | Adventure quest (8) | Religious Studies (12) Exploration (10) Unlocking (10) | Reward: 164,000 / Advance payment: 10,000 Experience: 210 / Fame: 190 |

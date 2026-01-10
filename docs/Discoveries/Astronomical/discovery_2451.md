@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful collection of Stars](Quests/Adventure/quest_3761.md)** | Adventure Quest (6) Mythology Era | Astronomy (7) Visual recognition (5) Italian | Reward: 114,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Beautiful collection of Stars](docs/Quests/Adventure/3001-4000/quest_3761.md)** | Adventure Quest (6) Mythology Era | Astronomy (7) Visual recognition (5) Italian | Reward: 114,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

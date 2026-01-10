@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rumors of good fishing grounds](Quests/Adventure/quest_3193.md)** | Adventure quest (9) | Geography (8) Visualization (6) Spanish | Reward: 197,000 / Advance payment: 10,000 Experience: 240 / Fame: 105 |
+| **[Rumors of good fishing grounds](docs/Quests/Adventure/3001-4000/quest_3193.md)** | Adventure quest (9) | Geography (8) Visualization (6) Spanish | Reward: 197,000 / Advance payment: 10,000 Experience: 240 / Fame: 105 |

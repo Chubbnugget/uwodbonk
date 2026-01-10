@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tower of Babel Painting](Quests/Adventure/quest_241.md)** | Adventure quest (4) 16th century 4th period | Exploration (1) Art (3) Dutch | Reward: 22,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Tower of Babel Painting](docs/Quests/Adventure/1-1000/quest_241.md)** | Adventure quest (4) 16th century 4th period | Exploration (1) Art (3) Dutch | Reward: 22,000 / Advance payment: 0Experience: 140 / Fame: 65 |

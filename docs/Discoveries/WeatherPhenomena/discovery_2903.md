@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[渦潮](Quests/Other/quest_5584.md)** | Weather/phenomena (2) | Visual recognition (6) | Experience：390 |
+| **[渦潮](docs/Quests/Other/5001-6000/quest_5584.md)** | Weather/phenomena (2) | Visual recognition (6) | Experience：390 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Painting drawn by an art dealer](Quests/Adventure/quest_374.md)** | Adventure quest (8) | Exploration (6) Art (8) Dutch | Reward: 104,000 / Advance payment: 0Experience: 210 / Fame: 95 |
+| **[Painting drawn by an art dealer](docs/Quests/Adventure/1-1000/quest_374.md)** | Adventure quest (8) | Exploration (6) Art (8) Dutch | Reward: 104,000 / Advance payment: 0Experience: 210 / Fame: 95 |

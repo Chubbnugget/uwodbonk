@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mysterious Document](Quests/Adventure/quest_893.md)** | Adventure Quest (8) 16th Century 2nd Period | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 0 / Advance payment: 0 Experience: 140 / Fame: 65 |
+| **[Mysterious Document](docs/Quests/Adventure/1-1000/quest_893.md)** | Adventure Quest (8) 16th Century 2nd Period | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 0 / Advance payment: 0 Experience: 140 / Fame: 65 |

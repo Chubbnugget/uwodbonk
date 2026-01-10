@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore regarding interracial marriage](Quests/Other/quest_6262.md)** | Tradition (6) | Archeology(5) | Reward: 433,050/Advance payment: 40,000Experience: 430 |
+| **[Lore regarding interracial marriage](docs/Quests/Other/6001-7000/quest_6262.md)** | Tradition (6) | Archeology(5) | Reward: 433,050/Advance payment: 40,000Experience: 430 |

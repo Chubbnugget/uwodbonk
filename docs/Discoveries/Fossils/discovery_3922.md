@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Deer King](Quests/Adventure/quest_6906.md)** | Adventure quest (15) | Exploration (13) Biology (15) Arctic languages |  |
+| **[Deer King](docs/Quests/Adventure/6001-7000/quest_6906.md)** | Adventure quest (15) | Exploration (13) Biology (15) Arctic languages |  |

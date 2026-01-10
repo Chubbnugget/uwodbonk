@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unfinished map](Quests/Other/quest_5000.md)** | Re-examination reward (6) | Geography(6)Visibility(6) |  |
+| **[Unfinished map](docs/Quests/Other/4001-5000/quest_5000.md)** | Re-examination reward (6) | Geography(6)Visibility(6) |  |

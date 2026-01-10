@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fish Stone Map](Quests/Other/quest_1603.md)** | Biology学(4) | Explore(4)Biology(4) | Experience：105 |
+| **[Fish Stone Map](docs/Quests/Other/1001-2000/quest_1603.md)** | Biology学(4) | Explore(4)Biology(4) | Experience：105 |

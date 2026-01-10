@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Oriental fortune-telling tools](Quests/Adventure/quest_3830.md)** | Adventure quest (8) 17th century 1st period | 探索(9)Treasures鑑定(11)中国語 | Reward: 200,000/Advance payment: 20,000Experience: 240 |
+| **[Oriental fortune-telling tools](docs/Quests/Adventure/3001-4000/quest_3830.md)** | Adventure quest (8) 17th century 1st period | 探索(9)Treasures鑑定(11)中国語 | Reward: 200,000/Advance payment: 20,000Experience: 240 |

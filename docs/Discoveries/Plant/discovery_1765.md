@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sunflower](Quests/Adventure/quest_2971.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Indian languages | Reward: 76,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Sunflower](docs/Quests/Adventure/2001-3000/quest_2971.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Indian languages | Reward: 76,000 / Advance payment: 0Experience: 140 / Fame: 65 |

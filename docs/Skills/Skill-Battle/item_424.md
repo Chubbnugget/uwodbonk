@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | rowing boat |
 | **Type** | thing |
-| **Group** | [Skill (combat)](Categories/category_41.md) |
+| **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 5,000 |
 | **Description** | The speed of a boat with rowing power increases. Learning conditions 0/0/3/total 10 Prerequisite skill Steering (1) |
 | **Last Updated** | 2005-04-02 09:58:31 System |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Raphael's Madonna and Child Painting](Quests/Adventure/quest_319.md)** | Adventure quest (7) 16th century 1st period | Exploration (4) Art (6) Italian | Reward: 68,000 / Advance payment: 0Experience: 180 / Fame: 85 |
+| **[Raphael's Madonna and Child Painting](docs/Quests/Adventure/1-1000/quest_319.md)** | Adventure quest (7) 16th century 1st period | Exploration (4) Art (6) Italian | Reward: 68,000 / Advance payment: 0Experience: 180 / Fame: 85 |

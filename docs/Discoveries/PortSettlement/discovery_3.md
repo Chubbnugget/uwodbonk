@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Achin](Quests/Other/quest_5013.md)** | Port/village (1) | - |  |
+| **[Achin](docs/Quests/Other/5001-6000/quest_5013.md)** | Port/village (1) | - |  |

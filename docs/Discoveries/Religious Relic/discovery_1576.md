@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of decorative sutras](Quests/Adventure/quest_2603.md)** | Adventure quest (8) | Religious Studies (9) Exploration (7) Unlocking (7) | Reward: 134,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Additional investigation of decorative sutras](docs/Quests/Adventure/2001-3000/quest_2603.md)** | Adventure quest (8) | Religious Studies (9) Exploration (7) Unlocking (7) | Reward: 134,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

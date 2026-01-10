@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Queen of Ethiopia's Stars](Quests/Adventure/quest_3778.md)** | Adventure Quest (1) Myth Era | Astronomy (2) Visualization (1) Greek | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Queen of Ethiopia's Stars](docs/Quests/Adventure/3001-4000/quest_3778.md)** | Adventure Quest (1) Myth Era | Astronomy (2) Visualization (1) Greek | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |

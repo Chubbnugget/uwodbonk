@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Aguchi's contribution](Quests/Adventure/quest_5474.md)** | Adventure quest (8) | Ecological Survey (8) Biology (10) Portuguese | Reward: 224,000 / Advance payment: 20,000 Experience: 230 / Fame: 130 |
+| **[Aguchi's contribution](docs/Quests/Adventure/5001-6000/quest_5474.md)** | Adventure quest (8) | Ecological Survey (8) Biology (10) Portuguese | Reward: 224,000 / Advance payment: 20,000 Experience: 230 / Fame: 130 |

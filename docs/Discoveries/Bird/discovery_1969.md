@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big pink bird](Quests/Adventure/quest_873.md)** | Adventure quest (4) | Ecological research (1) Biology (2) Indian languages | Reward: 26,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Big pink bird](docs/Quests/Adventure/1-1000/quest_873.md)** | Adventure quest (4) | Ecological research (1) Biology (2) Indian languages | Reward: 26,000 / Advance payment: 0Experience: 130 / Fame: 65 |

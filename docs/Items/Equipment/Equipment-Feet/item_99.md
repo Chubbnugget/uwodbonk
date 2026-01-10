@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | cross strap sandals |
 | **Type** | thing |
-| **Group** | [Equipment (foot)](Categories/category_26.md) |
+| **Group** | [Equipment (foot)](docs/Categories/category_26.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 7,300 |
 | **Description** | Sandals that are secured to the foot by combining laces in a criss-cross pattern. *9 colors Durability 25 Disguise 5 Defense 1 |

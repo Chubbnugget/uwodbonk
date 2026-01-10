@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jewel Island](Quests/Adventure/quest_958.md)** | Adventure quest (6) | Geography (5) Visual recognition (3) | Reward: 96,000 Experience: 140 / Fame: 70 |
+| **[Jewel Island](docs/Quests/Adventure/1-1000/quest_958.md)** | Adventure quest (6) | Geography (5) Visual recognition (3) | Reward: 96,000 Experience: 140 / Fame: 70 |

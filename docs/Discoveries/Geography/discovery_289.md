@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fishing grounds near the river mouth](Quests/Adventure/quest_372.md)** | Adventure quest (5) | Geography (3) Visual recognition (1) | Remuneration: 29,000 / Advance payment: 0 |
+| **[Fishing grounds near the river mouth](docs/Quests/Adventure/1-1000/quest_372.md)** | Adventure quest (5) | Geography (3) Visual recognition (1) | Remuneration: 29,000 / Advance payment: 0 |

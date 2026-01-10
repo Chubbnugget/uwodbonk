@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of the ruins of ancient Dilmun](Quests/Adventure/quest_6596.md)** | Adventure quest (4) | Archeology (5) Visualization (3) Arabic (1) | Reward: 90,000/ Advance payment: 10,000 Experience: 140/ Fame: 75 |
+| **[Investigation of the ruins of ancient Dilmun](docs/Quests/Adventure/6001-7000/quest_6596.md)** | Adventure quest (4) | Archeology (5) Visualization (3) Arabic (1) | Reward: 90,000/ Advance payment: 10,000 Experience: 140/ Fame: 75 |

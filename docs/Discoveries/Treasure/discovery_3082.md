@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Aztec Crown](Quests/Adventure/quest_5817.md)** | Adventure quest (10) | Exploration (15) Treasures Appraisal (17) Nahuatl | Remuneration: 404,000 / Advance payment: 40,000 |
+| **[Aztec Crown](docs/Quests/Adventure/5001-6000/quest_5817.md)** | Adventure quest (10) | Exploration (15) Treasures Appraisal (17) Nahuatl | Remuneration: 404,000 / Advance payment: 40,000 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Special vase](Quests/Adventure/quest_2107.md)** | Adventure quest (6) | Exploration (5) Archeology (7) Unlocking (5) | Reward: 96,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Special vase](docs/Quests/Adventure/2001-3000/quest_2107.md)** | Adventure quest (6) | Exploration (5) Archeology (7) Unlocking (5) | Reward: 96,000 / Advance payment: 0Experience: 150 / Fame: 75 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Celestial objects list](Quests/Adventure/quest_5620.md)** | Adventure quest (9) 18th century third period | Exploration (10) Treasures Appraisal (12) French | Reward: 239,000 / Advance payment: 20,000 Experience: 240 / Fame: 135 |
+| **[Celestial objects list](docs/Quests/Adventure/5001-6000/quest_5620.md)** | Adventure quest (9) 18th century third period | Exploration (10) Treasures Appraisal (12) French | Reward: 239,000 / Advance payment: 20,000 Experience: 240 / Fame: 135 |

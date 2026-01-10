@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Brown sea monster](Quests/Adventure/quest_1581.md)** | Adventure quest (8) | Ecological research (2) Biology (4) Oceanian languages | Reward: 190,000 / Advance payment: 10,000 Experience: 430 / Fame: 284 |
+| **[Brown sea monster](docs/Quests/Adventure/1001-2000/quest_1581.md)** | Adventure quest (8) | Ecological research (2) Biology (4) Oceanian languages | Reward: 190,000 / Advance payment: 10,000 Experience: 430 / Fame: 284 |

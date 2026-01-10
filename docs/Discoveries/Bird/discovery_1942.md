@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Striped Bird](Quests/Adventure/quest_3305.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Spanish | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |
+| **[Striped Bird](docs/Quests/Adventure/3001-4000/quest_3305.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Spanish | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |

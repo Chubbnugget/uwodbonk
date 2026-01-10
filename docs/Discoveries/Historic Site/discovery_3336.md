@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indigenous Sanctuary Map](Quests/Other/quest_6192.md)** | Archeology(10) | Archeology(10)Visibility(10) |  |
+| **[Indigenous Sanctuary Map](docs/Quests/Other/6001-7000/quest_6192.md)** | Archeology(10) | Archeology(10)Visibility(10) |  |

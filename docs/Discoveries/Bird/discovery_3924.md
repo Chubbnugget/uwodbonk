@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[In search of an unknown bird](Quests/Adventure/quest_6908.md)** | Adventure quest (9) | Ecological research (12) Biology (14) Oceanian languages ​​(1) | Reward: 287,000/Advance payment: 30,000Experience: 1,160 |
+| **[In search of an unknown bird](docs/Quests/Adventure/6001-7000/quest_6908.md)** | Adventure quest (9) | Ecological research (12) Biology (14) Oceanian languages ​​(1) | Reward: 287,000/Advance payment: 30,000Experience: 1,160 |

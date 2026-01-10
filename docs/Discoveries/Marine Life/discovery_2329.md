@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Glossy shell map](Quests/Other/quest_358.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |
+| **[Glossy shell map](docs/Quests/Other/1-1000/quest_358.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cat loved by Oriental nobility](Quests/Adventure/quest_6863.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Dutch (1) | Reward: 343,000/Advance: 30,000Experience: 150 |
+| **[Cat loved by Oriental nobility](docs/Quests/Adventure/6001-7000/quest_6863.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Dutch (1) | Reward: 343,000/Advance: 30,000Experience: 150 |

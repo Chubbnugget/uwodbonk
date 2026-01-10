@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Literary works depicting Taikobo](Quests/Adventure/quest_5842.md)** | Adventure quest (10) | 探索(15)Treasures鑑定(17)中国語 | Reward: 368,000 / Advance payment: 30,000 Experience: 320 / Fame: 190 |
+| **[Literary works depicting Taikobo](docs/Quests/Adventure/5001-6000/quest_5842.md)** | Adventure quest (10) | 探索(15)Treasures鑑定(17)中国語 | Reward: 368,000 / Advance payment: 30,000 Experience: 320 / Fame: 190 |

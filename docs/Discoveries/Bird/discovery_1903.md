@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of the bird with a split tail](Quests/Other/quest_2565.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |
+| **[Map of the bird with a split tail](docs/Quests/Other/2001-3000/quest_2565.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |

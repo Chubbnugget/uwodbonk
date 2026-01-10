@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pergamon's Forgotten Memento](Quests/Adventure/quest_1693.md)** | Adventure Quest (7) B.C. | Exploration (8) Art (10) Turkish | Reward: 270,000 / Advance payment: 0Experience: 290 / Fame: 100 |
+| **[Pergamon's Forgotten Memento](docs/Quests/Adventure/1001-2000/quest_1693.md)** | Adventure Quest (7) B.C. | Exploration (8) Art (10) Turkish | Reward: 270,000 / Advance payment: 0Experience: 290 / Fame: 100 |

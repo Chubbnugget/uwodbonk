@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Clue to the Royal Tombs](Quests/Adventure/quest_2301.md)** | Adventure quest (7) | Exploration (7) Treasures Appraisal (9) Unlocking (7) | Reward: 392,000 / Advance payment: 30,000 Experience: 400 / Fame: 165 |
+| **[Clue to the Royal Tombs](docs/Quests/Adventure/2001-3000/quest_2301.md)** | Adventure quest (7) | Exploration (7) Treasures Appraisal (9) Unlocking (7) | Reward: 392,000 / Advance payment: 30,000 Experience: 400 / Fame: 165 |

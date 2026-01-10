@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Two names of fighters](Quests/Adventure/quest_3262.md)** | Adventure quest (9) | Ecological research (7) Biology (9) Portuguese (1) | Reward: 207,000 / Advance payment: 20,000 Experience: 250 / Fame: 220 |
+| **[Two names of fighters](docs/Quests/Adventure/3001-4000/quest_3262.md)** | Adventure quest (9) | Ecological research (7) Biology (9) Portuguese (1) | Reward: 207,000 / Advance payment: 20,000 Experience: 250 / Fame: 220 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Roman history books](Quests/Other/quest_3626.md)** | Archeology(10) | Exploration (10) Archeology (10) Unlocking (10) |  |
+| **[Map of Roman history books](docs/Quests/Other/3001-4000/quest_3626.md)** | Archeology(10) | Exploration (10) Archeology (10) Unlocking (10) |  |

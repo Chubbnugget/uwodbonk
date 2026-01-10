@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The tree that the traveler visits again](Quests/Adventure/quest_1865.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Quechua | Reward: 101,000/ Advance: 10,000 Experience: 160/ Fame: 75 |
+| **[The tree that the traveler visits again](docs/Quests/Adventure/1001-2000/quest_1865.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Quechua | Reward: 101,000/ Advance: 10,000 Experience: 160/ Fame: 75 |

@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mountain wall painting](Quests/Adventure/quest_3645.md)** | Adventure quest (5) 14th century | Archeology (9) Visualization (7) Chinese | Reward: 942,000/Advance payment: 90,000Experience: 860 |
-| **[秘境調査任務](Quests/Adventure/quest_6195.md)** | Adventure quest (9) 14th century | Archeology (15) Visualization (13) Chinese | Reward: 1,329,000／Advance payment: 130,000Experience: 1,180 |
+| **[Mountain wall painting](docs/Quests/Adventure/3001-4000/quest_3645.md)** | Adventure quest (5) 14th century | Archeology (9) Visualization (7) Chinese | Reward: 942,000/Advance payment: 90,000Experience: 860 |
+| **[秘境調査任務](docs/Quests/Adventure/6001-7000/quest_6195.md)** | Adventure quest (9) 14th century | Archeology (15) Visualization (13) Chinese | Reward: 1,329,000／Advance payment: 130,000Experience: 1,180 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Girl's Painting Map](Quests/Other/quest_6852.md)** | 美術(15) | 探索(15)美術(15) |  |
+| **[Girl's Painting Map](docs/Quests/Other/6001-7000/quest_6852.md)** | 美術(15) | 探索(15)美術(15) |  |

@@ -30,4 +30,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore about giants living in the sea](Quests/Other/quest_6157.md)** | Tradition (7) | Biology学(9) | Reward: 398,000 / Advance payment: 30,000 Experience: 410 / Fame: 205 |
+| **[Lore about giants living in the sea](docs/Quests/Other/6001-7000/quest_6157.md)** | Tradition (7) | Biology学(9) | Reward: 398,000 / Advance payment: 30,000 Experience: 410 / Fame: 205 |

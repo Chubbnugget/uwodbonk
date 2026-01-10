@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of sugar maple](Quests/Other/quest_6421.md)** | Pursuit quest (3) | Ecological research (8) Biology (10) North American languages ​​(1) | Reward: 170,000 / Advance payment: 0Experience: 330 |
+| **[Additional investigation of sugar maple](docs/Quests/Other/6001-7000/quest_6421.md)** | Pursuit quest (3) | Ecological research (8) Biology (10) North American languages ​​(1) | Reward: 170,000 / Advance payment: 0Experience: 330 |

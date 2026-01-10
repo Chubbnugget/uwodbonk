@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[白鯨](Quests/Adventure/quest_915.md)** | Adventure quest (5) | Ecological research (2) Biology (4) West African languages | Reward: 156,000 / Advance payment: 0Experience: 330 / Fame: 180 |
+| **[白鯨](docs/Quests/Adventure/1-1000/quest_915.md)** | Adventure quest (5) | Ecological research (2) Biology (4) West African languages | Reward: 156,000 / Advance payment: 0Experience: 330 / Fame: 180 |

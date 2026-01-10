@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Utopia that actually existed](Quests/Adventure/quest_632.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Lockpicking (3) Greek | Reward: 74,000 / Advance payment: 0Experience: 170 / Fame: 80 |
+| **[Utopia that actually existed](docs/Quests/Adventure/1-1000/quest_632.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Lockpicking (3) Greek | Reward: 74,000 / Advance payment: 0Experience: 170 / Fame: 80 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[An unusual ship in Lanyu](Quests/Adventure/quest_2608.md)** | Adventure quest (7) | 探索(6)Treasures鑑定(8)中国語(1) | Reward: 128,000/ Advance: 10,000 Experience: 180/ Fame: 85 |
+| **[An unusual ship in Lanyu](docs/Quests/Adventure/2001-3000/quest_2608.md)** | Adventure quest (7) | 探索(6)Treasures鑑定(8)中国語(1) | Reward: 128,000/ Advance: 10,000 Experience: 180/ Fame: 85 |

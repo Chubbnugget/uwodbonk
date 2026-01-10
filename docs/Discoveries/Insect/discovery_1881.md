@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Truth or falsity of the insect story](Quests/Adventure/quest_2409.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Japanese | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Truth or falsity of the insect story](docs/Quests/Adventure/2001-3000/quest_2409.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Japanese | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[War book for mercenaries](Quests/Adventure/quest_3311.md)** | Adventure Quest (6) 16th Century 5th Period | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 167,000/ Advance: 10,000 Experience: 210/ Fame: 95 |
+| **[War book for mercenaries](docs/Quests/Adventure/3001-4000/quest_3311.md)** | Adventure Quest (6) 16th Century 5th Period | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 167,000/ Advance: 10,000 Experience: 210/ Fame: 95 |

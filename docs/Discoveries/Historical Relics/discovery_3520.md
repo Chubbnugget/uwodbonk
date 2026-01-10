@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Game of the Ancient Lords](Quests/Adventure/quest_6442.md)** | Adventure quest (7) | Exploration (6) Archeology (8) Arabic (1) | Reward: 450,000 / Advance payment: 50,000 Experience: 340 / Fame: 200 |
+| **[Game of the Ancient Lords](docs/Quests/Adventure/6001-7000/quest_6442.md)** | Adventure quest (7) | Exploration (6) Archeology (8) Arabic (1) | Reward: 450,000 / Advance payment: 50,000 Experience: 340 / Fame: 200 |

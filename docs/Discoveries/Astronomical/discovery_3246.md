@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Southern birds are in the southern sky](Quests/Adventure/quest_6043.md)** | Adventure quest (9) 17th century 1st period | Astronomy (11) Visualization (9) Dutch | Reward: 338,000 / Advance payment: 30,000 Experience: 300 / Fame: 180 |
+| **[Southern birds are in the southern sky](docs/Quests/Adventure/6001-7000/quest_6043.md)** | Adventure quest (9) 17th century 1st period | Astronomy (11) Visualization (9) Dutch | Reward: 338,000 / Advance payment: 30,000 Experience: 300 / Fame: 180 |

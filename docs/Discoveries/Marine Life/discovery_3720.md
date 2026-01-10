@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sea Assassin](Quests/Adventure/quest_6671.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Malayu Tagalog | Reward: 43,000／ Advance payment: 0Experience: 150 |
+| **[Sea Assassin](docs/Quests/Adventure/6001-7000/quest_6671.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Malayu Tagalog | Reward: 43,000／ Advance payment: 0Experience: 150 |

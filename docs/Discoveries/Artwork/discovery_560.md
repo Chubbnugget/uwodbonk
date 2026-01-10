@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pictures based on Greek mythology](Quests/Adventure/quest_125.md)** | Adventure Quest (3) 17th Century 2nd Period | Exploration (1) Art (2) Italian | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Pictures based on Greek mythology](docs/Quests/Adventure/1-1000/quest_125.md)** | Adventure Quest (3) 17th Century 2nd Period | Exploration (1) Art (2) Italian | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 65 |

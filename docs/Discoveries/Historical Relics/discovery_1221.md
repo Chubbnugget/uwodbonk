@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ring of the World](Quests/Adventure/quest_3688.md)** | Adventure quest (4) | Exploration(3)Archaeology(5) | Reward: 83,000／ Advance payment: 0Experience: 140 |
+| **[Ring of the World](docs/Quests/Adventure/3001-4000/quest_3688.md)** | Adventure quest (4) | Exploration(3)Archaeology(5) | Reward: 83,000／ Advance payment: 0Experience: 140 |

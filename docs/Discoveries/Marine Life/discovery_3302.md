@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fish or whale](Quests/Adventure/quest_6152.md)** | Adventure quest (10) | Ecological Survey (13) Biology (15) English | Reward: 87,000 / Advance payment: 0Experience: 140 / Fame: 150 |
+| **[Fish or whale](docs/Quests/Adventure/6001-7000/quest_6152.md)** | Adventure quest (10) | Ecological Survey (13) Biology (15) English | Reward: 87,000 / Advance payment: 0Experience: 140 / Fame: 150 |

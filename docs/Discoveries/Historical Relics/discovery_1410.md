@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Regional survey request](Quests/Adventure/quest_2733.md)** | Adventure quest (5) | 探索(3)考古学(5)朝鮮語 | Reward: 234,000 / Advance payment: 20,000 Experience: 270 / Fame: 230 |
+| **[Regional survey request](docs/Quests/Adventure/2001-3000/quest_2733.md)** | Adventure quest (5) | 探索(3)考古学(5)朝鮮語 | Reward: 234,000 / Advance payment: 20,000 Experience: 270 / Fame: 230 |

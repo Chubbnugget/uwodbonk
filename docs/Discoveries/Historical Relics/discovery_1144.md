@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Salvetta](Quests/Other/quest_2114.md)** | Sunken ship (5) | Salvage visibility (4) |  |
+| **[Salvetta](docs/Quests/Other/2001-3000/quest_2114.md)** | Sunken ship (5) | Salvage visibility (4) |  |

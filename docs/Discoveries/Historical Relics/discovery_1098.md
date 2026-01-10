@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cleopatra's Son](Quests/Adventure/quest_144.md)** | Adventure Quest (4) B.C. | Exploration (1) Archeology (2) Arabic | Reward: 28,000 / Advance payment: 0Experience: 130 / Fame: 65 |
-| **[Cleopatra's Son Investigation](Quests/Adventure/quest_6140.md)** | Adventure quest (3) | Exploration (1) Archeology (2) Arabic | Reward: 36,000 |
+| **[Cleopatra's Son](docs/Quests/Adventure/1-1000/quest_144.md)** | Adventure Quest (4) B.C. | Exploration (1) Archeology (2) Arabic | Reward: 28,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Cleopatra's Son Investigation](docs/Quests/Adventure/6001-7000/quest_6140.md)** | Adventure quest (3) | Exploration (1) Archeology (2) Arabic | Reward: 36,000 |

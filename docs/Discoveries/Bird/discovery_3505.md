@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on grouse](Quests/Other/quest_6426.md)** | Pursuit quest (3) 18th century third period | Ecological research (8) Biology (10) Arctic languages ​​(1) | Remuneration: 208,000 / Advance payment: 0 |
+| **[Additional research on grouse](docs/Quests/Other/6001-7000/quest_6426.md)** | Pursuit quest (3) 18th century third period | Ecological research (8) Biology (10) Arctic languages ​​(1) | Remuneration: 208,000 / Advance payment: 0 |

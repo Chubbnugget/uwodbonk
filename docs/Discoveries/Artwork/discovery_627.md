@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Nude paintings based on mythology](Quests/Adventure/quest_701.md)** | Adventure Quest (4) 16th Century 3rd Period | Exploration (1) Art (3) French | Reward: 22,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Nude paintings based on mythology](docs/Quests/Adventure/1-1000/quest_701.md)** | Adventure Quest (4) 16th Century 3rd Period | Exploration (1) Art (3) French | Reward: 22,000 / Advance payment: 0Experience: 130 / Fame: 65 |

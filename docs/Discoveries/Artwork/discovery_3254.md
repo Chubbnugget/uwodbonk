@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Suspicious](Quests/Adventure/quest_6077.md)** | Adventure Quest (6) B.C. | Exploration (5) Art (7) Arabic | Reward: 137,000/ Advance: 10,000 Experience: 170/ Fame: 95 |
+| **[Suspicious](docs/Quests/Adventure/6001-7000/quest_6077.md)** | Adventure Quest (6) B.C. | Exploration (5) Art (7) Arabic | Reward: 137,000/ Advance: 10,000 Experience: 170/ Fame: 95 |

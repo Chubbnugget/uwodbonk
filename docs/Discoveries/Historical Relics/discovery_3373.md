@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The ship that crossed the story](Quests/Adventure/quest_6260.md)** | Adventure quest (5) | Explore(2)Archaeology(4)English | Reward: 71,000 / Advance payment: 0Experience: 130 |
+| **[The ship that crossed the story](docs/Quests/Adventure/6001-7000/quest_6260.md)** | Adventure quest (5) | Explore(2)Archaeology(4)English | Reward: 71,000 / Advance payment: 0Experience: 130 |

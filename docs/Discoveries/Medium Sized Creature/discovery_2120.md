@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Long-limbed monkey map](Quests/Other/quest_1110.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：75 |
+| **[Long-limbed monkey map](docs/Quests/Other/1001-2000/quest_1110.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：75 |

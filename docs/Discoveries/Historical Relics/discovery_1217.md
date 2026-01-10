@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Buen Jesús](Quests/Other/quest_2010.md)** | Sunken ship(7) | Visual recognition (5) |  |
+| **[Buen Jesús](docs/Quests/Other/2001-3000/quest_2010.md)** | Sunken ship(7) | Visual recognition (5) |  |

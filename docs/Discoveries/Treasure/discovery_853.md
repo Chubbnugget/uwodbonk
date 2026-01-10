@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Intentions of a great power](Quests/Adventure/quest_3310.md)** | Adventure Quest (6) 17th Century 2nd Period | Exploration (4) Treasures Appraisal (6) Italian | Reward: 147,000 / Advance payment: 10,000 Experience: 253 / Fame: 236 |
+| **[Intentions of a great power](docs/Quests/Adventure/3001-4000/quest_3310.md)** | Adventure Quest (6) 17th Century 2nd Period | Exploration (4) Treasures Appraisal (6) Italian | Reward: 147,000 / Advance payment: 10,000 Experience: 253 / Fame: 236 |

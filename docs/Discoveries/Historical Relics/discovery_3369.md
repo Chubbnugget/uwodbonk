@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Eastern Roman Book Map](Quests/Other/quest_6259.md)** | Archeology(8) | Exploration(8)Archaeology(8) | Experience：297 |
+| **[Eastern Roman Book Map](docs/Quests/Other/6001-7000/quest_6259.md)** | Archeology(8) | Exploration(8)Archaeology(8) | Experience：297 |

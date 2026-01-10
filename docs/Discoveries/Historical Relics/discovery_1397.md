@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Trajectory of an excellent government official](Quests/Adventure/quest_2486.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Unlocking (3) | Reward: 100,500 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Trajectory of an excellent government official](docs/Quests/Adventure/2001-3000/quest_2486.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Unlocking (3) | Reward: 100,500 / Advance payment: 0Experience: 130 / Fame: 65 |

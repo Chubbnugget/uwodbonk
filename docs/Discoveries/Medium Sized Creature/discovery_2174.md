@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big Monkey Map](Quests/Other/quest_801.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |
+| **[Big Monkey Map](docs/Quests/Other/1-1000/quest_801.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |

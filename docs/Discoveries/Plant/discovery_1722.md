@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King's Flower](Quests/Adventure/quest_3254.md)** | Adventure quest (7) | Ecological research (6) Biology (8) Portuguese (1) | Reward: 121,000/ Advance: 10,000Experience: 170/ Fame: 160 |
+| **[King's Flower](docs/Quests/Adventure/3001-4000/quest_3254.md)** | Adventure quest (7) | Ecological research (6) Biology (8) Portuguese (1) | Reward: 121,000/ Advance: 10,000Experience: 170/ Fame: 160 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Acrux](Quests/Other/quest_6695.md)** | Celestial Object Discovery Name(12)19th century | Astronomy (12) Visualization (12) | Experience：910 |
+| **[Acrux](docs/Quests/Other/6001-7000/quest_6695.md)** | Celestial Object Discovery Name(12)19th century | Astronomy (12) Visualization (12) | Experience：910 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Constructed Cave](Quests/Adventure/quest_2727.md)** | Adventure quest (7) | Religious Studies (13) Visual Recognition (11) Korean | Reward: 83,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Constructed Cave](docs/Quests/Adventure/2001-3000/quest_2727.md)** | Adventure quest (7) | Religious Studies (13) Visual Recognition (11) Korean | Reward: 83,000 / Advance payment: 0Experience: 140 / Fame: 70 |

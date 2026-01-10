@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lord of Beautiful Voice](Quests/Adventure/quest_2362.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Japanese | Reward: 141,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Lord of Beautiful Voice](docs/Quests/Adventure/2001-3000/quest_2362.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Japanese | Reward: 141,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

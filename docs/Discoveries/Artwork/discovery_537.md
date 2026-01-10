@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Luxurious wall map](Quests/Other/quest_3632.md)** | 美術(6) | 探索(6)美術(6) |  |
+| **[Luxurious wall map](docs/Quests/Other/3001-4000/quest_3632.md)** | 美術(6) | 探索(6)美術(6) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unfinished map](Quests/Other/quest_648.md)** | Geography学(2) | Geography (2) Visual recognition (2) |  |
+| **[Unfinished map](docs/Quests/Other/1-1000/quest_648.md)** | Geography学(2) | Geography (2) Visual recognition (2) |  |

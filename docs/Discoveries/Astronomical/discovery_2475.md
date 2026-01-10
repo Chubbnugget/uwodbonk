@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Retrograde Stars](Quests/Adventure/quest_3771.md)** | Adventure quest (3) 18th century third period | Astronomy (4) Visual recognition (2) German | Reward: 95,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Retrograde Stars](docs/Quests/Adventure/3001-4000/quest_3771.md)** | Adventure quest (3) 18th century third period | Astronomy (4) Visual recognition (2) German | Reward: 95,000 / Advance payment: 0Experience: 150 / Fame: 75 |

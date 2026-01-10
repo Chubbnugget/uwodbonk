@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flower of Sad Love](Quests/Adventure/quest_4789.md)** | Adventure quest (2) | Ecological research (1) Biology (3) Oceanian languages | Reward: 117,000 / Advance payment: 10,000 Experience: 170 / Fame: 160 |
+| **[Flower of Sad Love](docs/Quests/Adventure/4001-5000/quest_4789.md)** | Adventure quest (2) | Ecological research (1) Biology (3) Oceanian languages | Reward: 117,000 / Advance payment: 10,000 Experience: 170 / Fame: 160 |

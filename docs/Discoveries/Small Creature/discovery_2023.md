@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lizard that causes miracles](Quests/Adventure/quest_409.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Spanish | Reward: 210,000/ Advance: 20,000 Experience: 260/ Fame: 110 |
+| **[Lizard that causes miracles](docs/Quests/Adventure/1-1000/quest_409.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Spanish | Reward: 210,000/ Advance: 20,000 Experience: 260/ Fame: 110 |

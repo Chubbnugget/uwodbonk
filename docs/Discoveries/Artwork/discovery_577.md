@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lost Right Arm](Quests/Adventure/quest_1261.md)** | Adventure quest (8) | Exploration (9) Art (11) Unlocking (9) | Reward: 180,000 / Advance payment: 20,000 Experience: 375 / Fame: 125 |
+| **[Lost Right Arm](docs/Quests/Adventure/1001-2000/quest_1261.md)** | Adventure quest (8) | Exploration (9) Art (11) Unlocking (9) | Reward: 180,000 / Advance payment: 20,000 Experience: 375 / Fame: 125 |

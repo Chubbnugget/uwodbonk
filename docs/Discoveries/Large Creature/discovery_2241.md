@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant's Palm](Quests/Adventure/quest_1492.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Norse | Reward: 48,000 / Advance payment: 0Experience: 315 / Fame: 110 |
+| **[Giant's Palm](docs/Quests/Adventure/1001-2000/quest_1492.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Norse | Reward: 48,000 / Advance payment: 0Experience: 315 / Fame: 110 |

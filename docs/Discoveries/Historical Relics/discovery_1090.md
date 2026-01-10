@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Estrela](Quests/Other/quest_2009.md)** | Sunken ship(8) | Visual recognition (3) |  |
+| **[Estrela](docs/Quests/Other/2001-3000/quest_2009.md)** | Sunken ship(8) | Visual recognition (3) |  |

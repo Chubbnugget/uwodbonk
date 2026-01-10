@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Following the ancient river](Quests/Adventure/quest_6272.md)** | Adventure Quest (8) B.C. | Archeology (11) Visualization (9) Indian languages | Reward: 97,000 / Advance payment: 0Experience: 150 / Fame: 80 |
+| **[Following the ancient river](docs/Quests/Adventure/6001-7000/quest_6272.md)** | Adventure Quest (8) B.C. | Archeology (11) Visualization (9) Indian languages | Reward: 97,000 / Advance payment: 0Experience: 150 / Fame: 80 |

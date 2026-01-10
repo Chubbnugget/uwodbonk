@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Medicine and Poison](Quests/Adventure/quest_3202.md)** | Adventure quest (7) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 72,000 / Advance payment: 0Experience: 130 / Fame: 130 |
+| **[Medicine and Poison](docs/Quests/Adventure/3001-4000/quest_3202.md)** | Adventure quest (7) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 72,000 / Advance payment: 0Experience: 130 / Fame: 130 |

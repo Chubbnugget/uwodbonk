@@ -24,6 +24,6 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigating the Pillars of Hercules](Quests/Other/quest_5410.md)** | Imperial command quest (2) | Geography (1) Visual recognition (1) Portuguese | Reward: 14,000 / Advance payment: 0Experience: 100 / Fame: 50 |
-| **[Intermediate Adventure Course Completion Certification Exam](Quests/Adventure/quest_5999.md)** | Adventure quest (2) | Geography (1) Visual recognition (1) Spanish | Reward: 80,000 Experience: 1,500 / Fame: 1,000 |
-| **[Sun-filled beach](Quests/Adventure/quest_784.md)** | Adventure quest (2) | Geography (1) Visual recognition (1) Spanish | Reward: 6,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Investigating the Pillars of Hercules](docs/Quests/Other/5001-6000/quest_5410.md)** | Imperial command quest (2) | Geography (1) Visual recognition (1) Portuguese | Reward: 14,000 / Advance payment: 0Experience: 100 / Fame: 50 |
+| **[Intermediate Adventure Course Completion Certification Exam](docs/Quests/Adventure/5001-6000/quest_5999.md)** | Adventure quest (2) | Geography (1) Visual recognition (1) Spanish | Reward: 80,000 Experience: 1,500 / Fame: 1,000 |
+| **[Sun-filled beach](docs/Quests/Adventure/1-1000/quest_784.md)** | Adventure quest (2) | Geography (1) Visual recognition (1) Spanish | Reward: 6,000 / Advance payment: 0Experience: 130 / Fame: 65 |

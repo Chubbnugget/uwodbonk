@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Edinburgh](Quests/Other/quest_5026.md)** | Port/village (1) | - |  |
+| **[Edinburgh](docs/Quests/Other/5001-6000/quest_5026.md)** | Port/village (1) | - |  |

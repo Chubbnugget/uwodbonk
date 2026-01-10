@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of shell accessories](Quests/Other/quest_3015.md)** | Archeology(4) | Exploration(4)Archaeology(4) | Experience: 140/ Reputation: 70 |
+| **[Map of shell accessories](docs/Quests/Other/3001-4000/quest_3015.md)** | Archeology(4) | Exploration(4)Archaeology(4) | Experience: 140/ Reputation: 70 |

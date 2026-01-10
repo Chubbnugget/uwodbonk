@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unusual Flute](Quests/Adventure/quest_1860.md)** | Adventure quest (3) | Exploration (2) Archeology (4) Unlocking (2) | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Unusual Flute](docs/Quests/Adventure/1001-2000/quest_1860.md)** | Adventure quest (3) | Exploration (2) Archeology (4) Unlocking (2) | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |

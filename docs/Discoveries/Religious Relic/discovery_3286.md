@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unfinished](Quests/Adventure/quest_6130.md)** | Adventure quest (5) | Religious Studies (6) Exploration (4) Turkish | Reward: 175,000 / Advance payment: 10,000 Experience: 200 / Fame: 165 |
+| **[Unfinished](docs/Quests/Adventure/6001-7000/quest_6130.md)** | Adventure quest (5) | Religious Studies (6) Exploration (4) Turkish | Reward: 175,000 / Advance payment: 10,000 Experience: 200 / Fame: 165 |

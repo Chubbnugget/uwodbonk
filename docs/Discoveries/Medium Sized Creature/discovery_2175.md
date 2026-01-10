@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Monkey with scary face](Quests/Adventure/quest_446.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Portuguese | Reward: 162,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |
+| **[Monkey with scary face](docs/Quests/Adventure/1-1000/quest_446.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Portuguese | Reward: 162,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |

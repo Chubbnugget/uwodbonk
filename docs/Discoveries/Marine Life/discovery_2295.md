@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Quest](Quests/Other/quest_2423.md)** | Fishing (1) | Fishing (3) |  |
+| **[Quest](docs/Quests/Other/2001-3000/quest_2423.md)** | Fishing (1) | Fishing (3) |  |

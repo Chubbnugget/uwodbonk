@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Palenque (upper layer)](Quests/Other/quest_2912.md)** | Dungeon (5) | - |  |
+| **[Palenque (upper layer)](docs/Quests/Other/2001-3000/quest_2912.md)** | Dungeon (5) | - |  |

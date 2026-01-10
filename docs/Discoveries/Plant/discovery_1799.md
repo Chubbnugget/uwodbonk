@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big Tree Map](Quests/Other/quest_805.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |
+| **[Big Tree Map](docs/Quests/Other/1-1000/quest_805.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |

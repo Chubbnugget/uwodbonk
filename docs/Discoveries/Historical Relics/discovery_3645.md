@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Geography Book](Quests/Adventure/quest_6588.md)** | Adventure Quest (4) B.C. | Exploration (3) Archeology (5) Arabic | Reward: 90,000/ Advance payment: 10,000 Experience: 140/ Fame: 150 |
-| **[Ancient Geographer](Quests/Adventure/quest_6919.md)** | Adventure Quest (4) B.C. | Exploration (3) Archeology (5) Arabic | Reward: 90,000/Advance: 10,000Experience: 140 |
+| **[Ancient Geography Book](docs/Quests/Adventure/6001-7000/quest_6588.md)** | Adventure Quest (4) B.C. | Exploration (3) Archeology (5) Arabic | Reward: 90,000/ Advance payment: 10,000 Experience: 140/ Fame: 150 |
+| **[Ancient Geographer](docs/Quests/Adventure/6001-7000/quest_6919.md)** | Adventure Quest (4) B.C. | Exploration (3) Archeology (5) Arabic | Reward: 90,000/Advance: 10,000Experience: 140 |

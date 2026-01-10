@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fish drinking nectar](Quests/Adventure/quest_3763.md)** | Adventure quest (6) | Astronomy (8) Visualization (6) Arabic | Reward: 275,000 / Advance payment: 20,000 Experience: 300 / Fame: 130 |
+| **[Fish drinking nectar](docs/Quests/Adventure/3001-4000/quest_3763.md)** | Adventure quest (6) | Astronomy (8) Visualization (6) Arabic | Reward: 275,000 / Advance payment: 20,000 Experience: 300 / Fame: 130 |

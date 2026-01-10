@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Important amulet](Quests/Adventure/quest_2343.md)** | Adventure quest (3) | Religious Studies(4)Explore(2)Japanese | Reward: 66,000 / Advance payment: 0Experience: 260 / Fame: 65 |
+| **[Important amulet](docs/Quests/Adventure/2001-3000/quest_2343.md)** | Adventure quest (3) | Religious Studies(4)Explore(2)Japanese | Reward: 66,000 / Advance payment: 0Experience: 260 / Fame: 65 |

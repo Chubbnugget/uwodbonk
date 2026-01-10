@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sea monster investigation](Quests/Adventure/quest_3919.md)** | Adventure Quest (7) Mythology Era | Astronomy (10) Visualization (8) Spanish | Reward: 513,000 / Advance payment: 50,000 Experience: 500 / Fame: 205 |
+| **[Sea monster investigation](docs/Quests/Adventure/3001-4000/quest_3919.md)** | Adventure Quest (7) Mythology Era | Astronomy (10) Visualization (8) Spanish | Reward: 513,000 / Advance payment: 50,000 Experience: 500 / Fame: 205 |

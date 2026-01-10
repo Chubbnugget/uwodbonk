@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lima Church (middle level hidden passage)](Quests/Other/quest_3667.md)** | Dungeon (1) | - |  |
+| **[Lima Church (middle level hidden passage)](docs/Quests/Other/3001-4000/quest_3667.md)** | Dungeon (1) | - |  |

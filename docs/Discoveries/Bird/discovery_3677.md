@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue-green chicken](Quests/Adventure/quest_6625.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Oceanian languages | Reward: 275,000/ Advance: 30,000Experience: 260/ Fame: 150 |
+| **[Blue-green chicken](docs/Quests/Adventure/6001-7000/quest_6625.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Oceanian languages | Reward: 275,000/ Advance: 30,000Experience: 260/ Fame: 150 |

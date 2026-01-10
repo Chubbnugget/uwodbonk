@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Topographic survey of the isthmus](Quests/Adventure/quest_2084.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |
-| **[Topographic survey of canal opening location](Quests/Other/quest_2062.md)** | Imperial command quest (5) | Geography (5) Visual recognition (3) |  |
+| **[Topographic survey of the isthmus](docs/Quests/Adventure/2001-3000/quest_2084.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Topographic survey of canal opening location](docs/Quests/Other/2001-3000/quest_2062.md)** | Imperial command quest (5) | Geography (5) Visual recognition (3) |  |

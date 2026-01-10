@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Masterpiece dedicated to the Great King](Quests/Adventure/quest_6961.md)** | Adventure quest (7) | Exploration (7) Art (9) Dutch (1) | Reward: 293,000/Advance payment: 30,000Experience: 270 |
+| **[Masterpiece dedicated to the Great King](docs/Quests/Adventure/6001-7000/quest_6961.md)** | Adventure quest (7) | Exploration (7) Art (9) Dutch (1) | Reward: 293,000/Advance payment: 30,000Experience: 270 |

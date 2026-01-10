@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Eternal Memory](Quests/Adventure/quest_6168.md)** | Adventure Quest (4) B.C. | Exploration (3) Archeology (5) Unlocking (3) | Reward: 139,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |
+| **[Eternal Memory](docs/Quests/Adventure/6001-7000/quest_6168.md)** | Adventure Quest (4) B.C. | Exploration (3) Archeology (5) Unlocking (3) | Reward: 139,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |

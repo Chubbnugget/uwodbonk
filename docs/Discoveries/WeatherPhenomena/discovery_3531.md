@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Light Pillar](Quests/Other/quest_6453.md)** | Weather/phenomena (2) | Visual recognition | Experience：260 |
+| **[Light Pillar](docs/Quests/Other/6001-7000/quest_6453.md)** | Weather/phenomena (2) | Visual recognition | Experience：260 |

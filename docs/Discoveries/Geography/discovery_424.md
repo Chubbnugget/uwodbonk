@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Landscape of the Northern Continent](Quests/Adventure/quest_2949.md)** | Adventure quest (2) | Geography (4) Visual recognition (2) | Reward: 107,000/ Advance: 10,000 Experience: 160/ Fame: 75 |
+| **[Landscape of the Northern Continent](docs/Quests/Adventure/2001-3000/quest_2949.md)** | Adventure quest (2) | Geography (4) Visual recognition (2) | Reward: 107,000/ Advance: 10,000 Experience: 160/ Fame: 75 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful basket map](Quests/Other/quest_5892.md)** | 美術(5) | 探索(5)美術(5) |  |
+| **[Beautiful basket map](docs/Quests/Other/5001-6000/quest_5892.md)** | 美術(5) | 探索(5)美術(5) |  |

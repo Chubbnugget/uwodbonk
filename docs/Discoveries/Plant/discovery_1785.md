@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dynasty Flower](Quests/Adventure/quest_2693.md)** | Adventure quest (5) | Ecological Survey (3) Biology (5) Korean | Reward: 363,000 / Advance payment: 30,000 Experience: 390 / Fame: 280 |
+| **[Dynasty Flower](docs/Quests/Adventure/2001-3000/quest_2693.md)** | Adventure quest (5) | Ecological Survey (3) Biology (5) Korean | Reward: 363,000 / Advance payment: 30,000 Experience: 390 / Fame: 280 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Eyes that see chaos](Quests/Adventure/quest_6206.md)** | Adventure Quest (6) 16th Century 2nd Period | Exploration (5) Treasures Appraisal (7) Italian | Reward: 175,000 / Advance payment: 10,000 Experience: 200 |
+| **[Eyes that see chaos](docs/Quests/Adventure/6001-7000/quest_6206.md)** | Adventure Quest (6) 16th Century 2nd Period | Exploration (5) Treasures Appraisal (7) Italian | Reward: 175,000 / Advance payment: 10,000 Experience: 200 |

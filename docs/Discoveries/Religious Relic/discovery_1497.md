@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mayan god of weather](Quests/Adventure/quest_1221.md)** | Adventure quest (5) | Religious Studies (5) Exploration (3) Unlocking (3) | Reward: 72,000 / Advance payment: 10,000 Experience: 255 / Fame: 85 |
+| **[Mayan god of weather](docs/Quests/Adventure/1001-2000/quest_1221.md)** | Adventure quest (5) | Religious Studies (5) Exploration (3) Unlocking (3) | Reward: 72,000 / Advance payment: 10,000 Experience: 255 / Fame: 85 |

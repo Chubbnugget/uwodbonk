@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Greek and Egyptian Gods](Quests/Adventure/quest_5368.md)** | Adventure Quest (6) B.C. | Religious Studies (8) Exploration (6) Arabic | Reward: 117,000 / Advance payment: 10,000 Experience: 160 / Fame: 170 |
+| **[Greek and Egyptian Gods](docs/Quests/Adventure/5001-6000/quest_5368.md)** | Adventure Quest (6) B.C. | Religious Studies (8) Exploration (6) Arabic | Reward: 117,000 / Advance payment: 10,000 Experience: 160 / Fame: 170 |

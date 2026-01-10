@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Revival of the Ancient God](Quests/Adventure/quest_1959.md)** | Adventure quest (5) | Religious Studies (6) Exploration (4) Malayu Tagalog | Reward: 194,000 / Advance payment: 10,000 Experience: 350 / Fame: 115 |
+| **[Revival of the Ancient God](docs/Quests/Adventure/1001-2000/quest_1959.md)** | Adventure quest (5) | Religious Studies (6) Exploration (4) Malayu Tagalog | Reward: 194,000 / Advance payment: 10,000 Experience: 350 / Fame: 115 |

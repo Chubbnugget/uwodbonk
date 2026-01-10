@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Honne and Tatemae](Quests/Adventure/quest_6066.md)** | Adventure quest (7) | Exploration (7) Treasures Appraisal (9) Greek | Reward: 179,000 / Advance payment: 10,000 Experience: 200 / Fame: 110 |
+| **[Honne and Tatemae](docs/Quests/Adventure/6001-7000/quest_6066.md)** | Adventure quest (7) | Exploration (7) Treasures Appraisal (9) Greek | Reward: 179,000 / Advance payment: 10,000 Experience: 200 / Fame: 110 |

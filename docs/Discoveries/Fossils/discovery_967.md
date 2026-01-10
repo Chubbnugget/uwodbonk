@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dragon that walks like a human](Quests/Adventure/quest_706.md)** | Adventure Quest (8) B.C. | Exploration (7) Biology (9) Spanish | Reward: 191,000 / Advance payment: 20,000 Experience: 200 / Fame: 100 |
+| **[Dragon that walks like a human](docs/Quests/Adventure/1-1000/quest_706.md)** | Adventure Quest (8) B.C. | Exploration (7) Biology (9) Spanish | Reward: 191,000 / Advance payment: 20,000 Experience: 200 / Fame: 100 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigating creepy-shaped bones](Quests/Adventure/quest_2799.md)** | Adventure Quest (2) B.C. | Explore(1)Biology(3)Chinese(1) | Reward: 60,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Investigating creepy-shaped bones](docs/Quests/Adventure/2001-3000/quest_2799.md)** | Adventure Quest (2) B.C. | Explore(1)Biology(3)Chinese(1) | Reward: 60,000 / Advance payment: 0Experience: 130 / Fame: 65 |

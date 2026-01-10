@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Butterfly similar to Benimon swallowtail](Quests/Adventure/quest_2514.md)** | Adventure quest (3) | Ecological Survey (1) Biology (3) Chinese | Reward: 63,000 / Advance payment: 0Experience: 130 / Fame: 130 |
+| **[Butterfly similar to Benimon swallowtail](docs/Quests/Adventure/2001-3000/quest_2514.md)** | Adventure quest (3) | Ecological Survey (1) Biology (3) Chinese | Reward: 63,000 / Advance payment: 0Experience: 130 / Fame: 130 |

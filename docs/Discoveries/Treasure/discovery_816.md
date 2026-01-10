@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Oriental Divination Description Book](Quests/Adventure/quest_3831.md)** | Adventure quest (10) | Exploration (11) Treasures Appraisal (13) Unlocking (11) | Reward: 283,000/Advance payment: 20,000Experience: 310 |
+| **[Oriental Divination Description Book](docs/Quests/Adventure/3001-4000/quest_3831.md)** | Adventure quest (10) | Exploration (11) Treasures Appraisal (13) Unlocking (11) | Reward: 283,000/Advance payment: 20,000Experience: 310 |

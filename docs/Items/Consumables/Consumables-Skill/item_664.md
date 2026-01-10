@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | enchanting incense |
 | **Type** | thing |
-| **Group** | [Consumables (skill activation)](Categories/category_31.md) |
+| **Group** | [Consumables (skill activation)](docs/Categories/category_31.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 1,000 |
 | **Description** | A scent that attracts the opposite sex. Use it to temporarily increase your wooing skill. Effect when used: Enhancement of wooing skills (temporarily increases the rank of wooing skills.) |

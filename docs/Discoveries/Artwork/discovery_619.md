@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Picture of fruit basket only](Quests/Adventure/quest_370.md)** | Adventure Quest (7) 16th Century 5th Period | Exploration (4) Art (6) Italian | Reward: 68,000 / Advance payment: 0Experience: 210 / Fame: 90 |
+| **[Picture of fruit basket only](docs/Quests/Adventure/1-1000/quest_370.md)** | Adventure Quest (7) 16th Century 5th Period | Exploration (4) Art (6) Italian | Reward: 68,000 / Advance payment: 0Experience: 210 / Fame: 90 |

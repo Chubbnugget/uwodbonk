@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Karibibu](Quests/Other/quest_5039.md)** | Port/village (1) | - |  |
+| **[Karibibu](docs/Quests/Other/5001-6000/quest_5039.md)** | Port/village (1) | - |  |

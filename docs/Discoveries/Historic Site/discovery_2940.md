@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tower standing in an unexplored region](Quests/Adventure/quest_5624.md)** | Adventure quest (6) | Archeology (7) Visualization (5) Portuguese | Reward: 216,000/ Advance: 20,000Experience: 220/ Fame: 125 |
+| **[Tower standing in an unexplored region](docs/Quests/Adventure/5001-6000/quest_5624.md)** | Adventure quest (6) | Archeology (7) Visualization (5) Portuguese | Reward: 216,000/ Advance: 20,000Experience: 220/ Fame: 125 |

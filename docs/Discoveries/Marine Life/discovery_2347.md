@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful fish map](Quests/Other/quest_3819.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：370 |
+| **[Beautiful fish map](docs/Quests/Other/3001-4000/quest_3819.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：370 |

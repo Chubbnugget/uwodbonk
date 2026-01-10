@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legendary Cattle Driver](Quests/Adventure/quest_3885.md)** | Adventure quest (4) 19th century | Exploration (3) Treasures Appraisal (5) Unlocking (3) | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 130 |
+| **[Legendary Cattle Driver](docs/Quests/Adventure/3001-4000/quest_3885.md)** | Adventure quest (4) 19th century | Exploration (3) Treasures Appraisal (5) Unlocking (3) | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 130 |

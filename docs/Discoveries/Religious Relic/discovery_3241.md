@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The end of the storm](Quests/Adventure/quest_6052.md)** | Adventure quest (3) | Religious Studies (4) Exploration (2) Greek | Reward: 130,000 / Advance payment: 10,000 Experience: 255 / Fame: 135 |
+| **[The end of the storm](docs/Quests/Adventure/6001-7000/quest_6052.md)** | Adventure quest (3) | Religious Studies (4) Exploration (2) Greek | Reward: 130,000 / Advance payment: 10,000 Experience: 255 / Fame: 135 |

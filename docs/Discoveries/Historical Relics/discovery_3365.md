@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Record of the Seven Wonders](Quests/Adventure/quest_6251.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Latin | Reward: 128,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |
+| **[Record of the Seven Wonders](docs/Quests/Adventure/6001-7000/quest_6251.md)** | Adventure quest (4) | Exploration (3) Archeology (5) Latin | Reward: 128,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |

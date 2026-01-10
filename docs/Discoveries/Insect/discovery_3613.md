@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of giant ants](Quests/Other/quest_6547.md)** | Pursuit quest (4) | Ecological research (12) Biology (14) Spanish (1) | Reward: 320,000 / Advance payment: 0Experience: 780 |
+| **[Additional investigation of giant ants](docs/Quests/Other/6001-7000/quest_6547.md)** | Pursuit quest (4) | Ecological research (12) Biology (14) Spanish (1) | Reward: 320,000 / Advance payment: 0Experience: 780 |

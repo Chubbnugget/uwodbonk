@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Birthplace of Buddha](Quests/Adventure/quest_5694.md)** | Adventure quest (6) | Archeology (8) Visualization (6) Indian languages | Reward: 187,000 / Advance payment: 10,000 Experience: 200 / Fame: 115 |
+| **[Birthplace of Buddha](docs/Quests/Adventure/5001-6000/quest_5694.md)** | Adventure quest (6) | Archeology (8) Visualization (6) Indian languages | Reward: 187,000 / Advance payment: 10,000 Experience: 200 / Fame: 115 |

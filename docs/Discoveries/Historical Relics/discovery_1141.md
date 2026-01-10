@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of strange blobs](Quests/Other/quest_1521.md)** | Archeology(4) | Exploration (4) Archeology (4) Unlocking (4) |  |
+| **[Map of strange blobs](docs/Quests/Other/1001-2000/quest_1521.md)** | Archeology(4) | Exploration (4) Archeology (4) Unlocking (4) |  |

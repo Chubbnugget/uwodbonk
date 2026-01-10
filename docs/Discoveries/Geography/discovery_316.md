@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Uninhabited island like heaven](Quests/Adventure/quest_860.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) Swahili | Reward: 92,000 / Advance payment: 0Experience: 150 / Fame: 80 |
+| **[Uninhabited island like heaven](docs/Quests/Adventure/1-1000/quest_860.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) Swahili | Reward: 92,000 / Advance payment: 0Experience: 150 / Fame: 80 |

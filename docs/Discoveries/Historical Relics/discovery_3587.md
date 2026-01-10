@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Amphora depicting a contestant](Quests/Other/quest_6515.md)** | Legacy(1) | - | Experience：1,500 |
+| **[Amphora depicting a contestant](docs/Quests/Other/6001-7000/quest_6515.md)** | Legacy(1) | - | Experience：1,500 |

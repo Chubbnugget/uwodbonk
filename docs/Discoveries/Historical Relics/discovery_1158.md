@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Philosopher and the Bad Wife](Quests/Adventure/quest_856.md)** | Adventure Quest (9) B.C. | Exploration (9) Archeology (11) Unlocking (9) | Reward: 343,000 / Advance payment: 20,000 Experience: 250 / Fame: 125 |
+| **[The Philosopher and the Bad Wife](docs/Quests/Adventure/1-1000/quest_856.md)** | Adventure Quest (9) B.C. | Exploration (9) Archeology (11) Unlocking (9) | Reward: 343,000 / Advance payment: 20,000 Experience: 250 / Fame: 125 |

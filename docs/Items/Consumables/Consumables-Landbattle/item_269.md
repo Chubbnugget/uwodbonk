@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | poison |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 250 |
 | **Description** | Items for land combat. A medicine that weakens enemies with poison. Effect/small. Effect when used: Poison attack (attack using poison in land battles) Rank 3 Required gauge 60 Cooldown time 225 |

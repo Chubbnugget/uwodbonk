@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Historic Sites of Prehistoric Era](Quests/Other/quest_6190.md)** | Archeology(9) | Archeology(9)Visibility(9) |  |
+| **[Map of Historic Sites of Prehistoric Era](docs/Quests/Other/6001-7000/quest_6190.md)** | Archeology(9) | Archeology(9)Visibility(9) |  |

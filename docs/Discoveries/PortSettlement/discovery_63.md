@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Genoa](Quests/Other/quest_5073.md)** | Port/village (1) | - |  |
+| **[Genoa](docs/Quests/Other/5001-6000/quest_5073.md)** | Port/village (1) | - |  |

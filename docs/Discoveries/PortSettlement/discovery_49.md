@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Salonika](Quests/Other/quest_5059.md)** | Port/village (1) | - |  |
+| **[Salonika](docs/Quests/Other/5001-6000/quest_5059.md)** | Port/village (1) | - |  |

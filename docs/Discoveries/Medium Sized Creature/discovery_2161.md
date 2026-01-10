@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mountain Danger Biology](Quests/Adventure/quest_2564.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Chinese | Reward: 407,000 / Advance payment: 40,000 Experience: 410 / Fame: 170 |
+| **[Mountain Danger Biology](docs/Quests/Adventure/2001-3000/quest_2564.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Chinese | Reward: 407,000 / Advance payment: 40,000 Experience: 410 / Fame: 170 |

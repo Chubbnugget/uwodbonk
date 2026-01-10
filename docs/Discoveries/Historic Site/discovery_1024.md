@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rock wall painting](Quests/Adventure/quest_3264.md)** | Adventure quest (9) | Archeology (10) Visualization (8) West African languages | Reward: 217,000 / Advance payment: 20,000 Experience: 260 / Fame: 110 |
+| **[Rock wall painting](docs/Quests/Adventure/3001-4000/quest_3264.md)** | Adventure quest (9) | Archeology (10) Visualization (8) West African languages | Reward: 217,000 / Advance payment: 20,000 Experience: 260 / Fame: 110 |

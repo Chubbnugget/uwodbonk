@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wild Sheep Map](Quests/Other/quest_1035.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |
+| **[Wild Sheep Map](docs/Quests/Other/1001-2000/quest_1035.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |

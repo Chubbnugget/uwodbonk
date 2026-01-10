@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Grassland area life tools](Quests/Adventure/quest_3731.md)** | Adventure quest (7) 14th century | 探索(8)Treasures鑑定(10)中国語 | Reward: 592,000/Advance payment: 50,000Experience: 570 |
+| **[Grassland area life tools](docs/Quests/Adventure/3001-4000/quest_3731.md)** | Adventure quest (7) 14th century | 探索(8)Treasures鑑定(10)中国語 | Reward: 592,000/Advance payment: 50,000Experience: 570 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White Mole Map](Quests/Other/quest_1460.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：80 |
+| **[White Mole Map](docs/Quests/Other/1001-2000/quest_1460.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：80 |

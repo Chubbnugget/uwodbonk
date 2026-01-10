@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | assault flag |
 | **Type** | thing |
-| **Group** | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |
+| **Group** | [Consumables (naval/hand-to-hand combat)](docs/Categories/category_30.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 5,000 |
 | **Description** | Items for hand-to-hand combat. A flag raised by the military during assault battles. The attack power of the sailors increases. Effect when used: Assault |

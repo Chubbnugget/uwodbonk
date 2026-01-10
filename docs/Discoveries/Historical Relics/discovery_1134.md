@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Nomads' residence](Quests/Adventure/quest_3641.md)** | Adventure quest (5) 14th century | Exploration(6)Archaeology(8)Chinese | Reward: 853,000 / Advance payment: 80,000 Experience: 780 / Fame: 310 |
+| **[Nomads' residence](docs/Quests/Adventure/3001-4000/quest_3641.md)** | Adventure quest (5) 14th century | Exploration(6)Archaeology(8)Chinese | Reward: 853,000 / Advance payment: 80,000 Experience: 780 / Fame: 310 |

@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Astronomer's Observation Record](Quests/Other/quest_4998.md)** | Astronomy(8) | Astronomy(8)Visualization(8) | Experience：290 |
+| **[Astronomer's Observation Record](docs/Quests/Other/4001-5000/quest_4998.md)** | Astronomy(8) | Astronomy(8)Visualization(8) | Experience：290 |

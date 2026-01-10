@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Beast Bone Map](Quests/Other/quest_5741.md)** | Re-examination reward (5) | Explore(5)Biology(5) |  |
+| **[Strange Beast Bone Map](docs/Quests/Other/5001-6000/quest_5741.md)** | Re-examination reward (5) | Explore(5)Biology(5) |  |

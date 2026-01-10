@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue gemstone vein map](Quests/Other/quest_755.md)** | Treasures鑑定(11) | 探索(11)Treasures鑑定(11) |  |
+| **[Blue gemstone vein map](docs/Quests/Other/1-1000/quest_755.md)** | Treasures鑑定(11) | 探索(11)Treasures鑑定(11) |  |

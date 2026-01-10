@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Chagas](Quests/Other/quest_1888.md)** | Sunken ship(7) | Salvage visual recognition (4) unlocking |  |
+| **[Chagas](docs/Quests/Other/1001-2000/quest_1888.md)** | Sunken ship(7) | Salvage visual recognition (4) unlocking |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Decorations preferred by craftsmen](Quests/Adventure/quest_1617.md)** | Adventure quest (5) | 探索(6)美術(8)英語(1) | Reward: 149,000 / Advance payment: 10,000 Experience: 300 / Fame: 100 |
+| **[Decorations preferred by craftsmen](docs/Quests/Adventure/1001-2000/quest_1617.md)** | Adventure quest (5) | 探索(6)美術(8)英語(1) | Reward: 149,000 / Advance payment: 10,000 Experience: 300 / Fame: 100 |

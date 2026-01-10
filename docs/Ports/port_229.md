@@ -68,17 +68,17 @@ A city that flourished as a strategic point on the Silk Road. As a relay point c
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [How to make Shennong's secret medicine](Items/Recipe Book/item_6541.md) | recipe book | Fixed recipe | tool shop owner |  |
+| [How to make Shennong's secret medicine](docs/Items/RecipeBooks/item_6541.md) | recipe book | Fixed recipe | tool shop owner |  |
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [How to make a bonfire of congratulations](Items/Recipe Book/item_6538.md) | recipe book | Fixed recipe | workshop craftsman |  |
+| [How to make a bonfire of congratulations](docs/Items/RecipeBooks/item_6538.md) | recipe book | Fixed recipe | workshop craftsman |  |
   </TabItem>
 </Tabs>

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient foreign currency](Quests/Adventure/quest_2098.md)** | Adventure quest (3) | Exploration (2) Treasures Appraisal (4) Arabic | Reward: 205,000 / Advance payment: 20,000 Experience: 240 / Fame: 105 |
+| **[Ancient foreign currency](docs/Quests/Adventure/2001-3000/quest_2098.md)** | Adventure quest (3) | Exploration (2) Treasures Appraisal (4) Arabic | Reward: 205,000 / Advance payment: 20,000 Experience: 240 / Fame: 105 |

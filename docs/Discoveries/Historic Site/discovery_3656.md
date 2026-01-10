@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hanging Gardens of Old Babylon](Quests/Other/quest_6599.md)** | Legacy(1) | - |  |
+| **[Hanging Gardens of Old Babylon](docs/Quests/Other/6001-7000/quest_6599.md)** | Legacy(1) | - |  |

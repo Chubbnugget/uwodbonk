@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flower map with frame](Quests/Other/quest_2365.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |
+| **[Flower map with frame](docs/Quests/Other/2001-3000/quest_2365.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |

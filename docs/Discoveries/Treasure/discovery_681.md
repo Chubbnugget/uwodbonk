@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Yellow gemstone vein map](Quests/Other/quest_365.md)** | Treasures鑑定(12) | 探索(12)Treasures鑑定(12) | Experience：555 |
+| **[Yellow gemstone vein map](docs/Quests/Other/1-1000/quest_365.md)** | Treasures鑑定(12) | 探索(12)Treasures鑑定(12) | Experience：555 |

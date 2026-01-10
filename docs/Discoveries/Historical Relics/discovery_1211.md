@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Greek Spear Map](Quests/Other/quest_499.md)** | Archeology(4) | Exploration(4)Archaeology(4) |  |
+| **[Ancient Greek Spear Map](docs/Quests/Other/1-1000/quest_499.md)** | Archeology(4) | Exploration(4)Archaeology(4) |  |

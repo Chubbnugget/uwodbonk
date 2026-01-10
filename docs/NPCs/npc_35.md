@@ -37,18 +37,18 @@ type: NPC
 
 | Item Name | Group | Purchase Price | Notes |
 | --- | --- | --- | --- |
-| [Delivery to local pirates](Items/Consumables/Consumables-navalhand-to-hand combat/item_1945.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |  | [London](Ports/port_23.md) [Lisbon](Ports/port_2.md) |
-| [高級上納品（中型船用）](Items/Consumables/Consumables-navalhand-to-hand combat/item_1700.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |  | [Lisbon](Ports/port_2.md) [London](Ports/port_23.md) |
-| [高級上納品（大型船用）](Items/Consumables/Consumables-navalhand-to-hand combat/item_1701.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |  | [London](Ports/port_23.md) [Lisbon](Ports/port_2.md) |
-| [高級上納品（小型船用）](Items/Consumables/Consumables-navalhand-to-hand combat/item_1698.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |  | [London](Ports/port_23.md) [Lisbon](Ports/port_2.md) |
+| [Delivery to local pirates](docs/Items/Consumables/Consumables-navalhand-to-hand combat/item_1945.md) | [Consumables (naval/hand-to-hand combat)](docs/Categories/category_30.md) |  | [London](docs/Ports/port_23.md) [Lisbon](docs/Ports/port_2.md) |
+| [高級上納品（中型船用）](docs/Items/Consumables/Consumables-navalhand-to-hand combat/item_1700.md) | [Consumables (naval/hand-to-hand combat)](docs/Categories/category_30.md) |  | [Lisbon](docs/Ports/port_2.md) [London](docs/Ports/port_23.md) |
+| [高級上納品（大型船用）](docs/Items/Consumables/Consumables-navalhand-to-hand combat/item_1701.md) | [Consumables (naval/hand-to-hand combat)](docs/Categories/category_30.md) |  | [London](docs/Ports/port_23.md) [Lisbon](docs/Ports/port_2.md) |
+| [高級上納品（小型船用）](docs/Items/Consumables/Consumables-navalhand-to-hand combat/item_1698.md) | [Consumables (naval/hand-to-hand combat)](docs/Categories/category_30.md) |  | [London](docs/Ports/port_23.md) [Lisbon](docs/Ports/port_2.md) |
 
 ## NPC: Item Name
 
 | Item Name | Group | Purchase Price | Notes |
 | --- | --- | --- | --- |
-| [Delivery to local pirates](Items/Consumables/Consumables-navalhand-to-hand combat/item_1945.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |  | [London](Ports/port_23.md) [Lisbon](Ports/port_2.md) |
-| [高級上納品（中型船用）](Items/Consumables/Consumables-navalhand-to-hand combat/item_1700.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |  | [Lisbon](Ports/port_2.md) [London](Ports/port_23.md) |
-| [高級上納品（大型船用）](Items/Consumables/Consumables-navalhand-to-hand combat/item_1701.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |  | [London](Ports/port_23.md) [Lisbon](Ports/port_2.md) |
-| [高級上納品（小型船用）](Items/Consumables/Consumables-navalhand-to-hand combat/item_1698.md) | [Consumables (naval/hand-to-hand combat)](Categories/category_30.md) |  | [London](Ports/port_23.md) [Lisbon](Ports/port_2.md) |
+| [Delivery to local pirates](docs/Items/Consumables/Consumables-navalhand-to-hand combat/item_1945.md) | [Consumables (naval/hand-to-hand combat)](docs/Categories/category_30.md) |  | [London](docs/Ports/port_23.md) [Lisbon](docs/Ports/port_2.md) |
+| [高級上納品（中型船用）](docs/Items/Consumables/Consumables-navalhand-to-hand combat/item_1700.md) | [Consumables (naval/hand-to-hand combat)](docs/Categories/category_30.md) |  | [Lisbon](docs/Ports/port_2.md) [London](docs/Ports/port_23.md) |
+| [高級上納品（大型船用）](docs/Items/Consumables/Consumables-navalhand-to-hand combat/item_1701.md) | [Consumables (naval/hand-to-hand combat)](docs/Categories/category_30.md) |  | [London](docs/Ports/port_23.md) [Lisbon](docs/Ports/port_2.md) |
+| [高級上納品（小型船用）](docs/Items/Consumables/Consumables-navalhand-to-hand combat/item_1698.md) | [Consumables (naval/hand-to-hand combat)](docs/Categories/category_30.md) |  | [London](docs/Ports/port_23.md) [Lisbon](docs/Ports/port_2.md) |
 
 ## NPC: Item Name

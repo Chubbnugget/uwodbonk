@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dragon living in the forest](Quests/Adventure/quest_1694.md)** | Adventure quest (10) | Ecological Survey (6) Biology (8) Malayu Tagalog | Reward: 348,000 / Advance payment: 30,000 Experience: 500 / Fame: 370 |
+| **[Dragon living in the forest](docs/Quests/Adventure/1001-2000/quest_1694.md)** | Adventure quest (10) | Ecological Survey (6) Biology (8) Malayu Tagalog | Reward: 348,000 / Advance payment: 30,000 Experience: 500 / Fame: 370 |

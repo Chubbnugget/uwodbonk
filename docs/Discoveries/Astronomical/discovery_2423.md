@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[New Stars of Ophiuchus](Quests/Other/quest_3909.md)** | Celestial Object Discovery Name(10)16th Century Issue 5 | Astronomy(10) | Experience：940 |
+| **[New Stars of Ophiuchus](docs/Quests/Other/3001-4000/quest_3909.md)** | Celestial Object Discovery Name(10)16th Century Issue 5 | Astronomy(10) | Experience：940 |

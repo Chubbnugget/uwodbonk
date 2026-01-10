@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sharp Stone Tool Map](Quests/Other/quest_5790.md)** | Archeology(4) | Exploration(4)Archaeology(4) |  |
+| **[Sharp Stone Tool Map](docs/Quests/Other/5001-6000/quest_5790.md)** | Archeology(4) | Exploration(4)Archaeology(4) |  |

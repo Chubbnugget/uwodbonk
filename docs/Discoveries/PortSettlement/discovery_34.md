@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cape Verde](Quests/Other/quest_5044.md)** | Port/village (1) | - |  |
+| **[Cape Verde](docs/Quests/Other/5001-6000/quest_5044.md)** | Port/village (1) | - |  |

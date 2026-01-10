@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Geography information of northeastern South America](Quests/Adventure/quest_3804.md)** | Adventure quest (5) | Geography (7) Visualization (5) Portuguese | Reward: 136,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Geography information of northeastern South America](docs/Quests/Adventure/3001-4000/quest_3804.md)** | Adventure quest (5) | Geography (7) Visualization (5) Portuguese | Reward: 136,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

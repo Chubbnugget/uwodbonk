@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Nimble Dog Map](Quests/Other/quest_5001.md)** | Re-examination reward (3) | Ecological Survey(3)Biology(3) | Experience：160 |
+| **[Nimble Dog Map](docs/Quests/Other/5001-6000/quest_5001.md)** | Re-examination reward (3) | Ecological Survey(3)Biology(3) | Experience：160 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional survey of seabed fish](Quests/Other/quest_6546.md)** | Pursuit quest (3) | Ecological Survey (10) Biology (12) Greek | Reward: 240,000 / Advance payment: 0Experience: 480 |
+| **[Additional survey of seabed fish](docs/Quests/Other/6001-7000/quest_6546.md)** | Pursuit quest (3) | Ecological Survey (10) Biology (12) Greek | Reward: 240,000 / Advance payment: 0Experience: 480 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Marble relief map](Quests/Other/quest_817.md)** | Treasures鑑定(3) | 探索(3)Treasures鑑定(3) |  |
+| **[Marble relief map](docs/Quests/Other/1-1000/quest_817.md)** | Treasures鑑定(3) | 探索(3)Treasures鑑定(3) |  |

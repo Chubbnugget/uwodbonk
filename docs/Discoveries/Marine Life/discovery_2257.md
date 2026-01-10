@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue Gem of the Waves](Quests/Adventure/quest_2948.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Swahili (1) | Reward: 105,000/ Advance: 10,000 Experience: 160/ Fame: 75 |
+| **[Blue Gem of the Waves](docs/Quests/Adventure/2001-3000/quest_2948.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Swahili (1) | Reward: 105,000/ Advance: 10,000 Experience: 160/ Fame: 75 |

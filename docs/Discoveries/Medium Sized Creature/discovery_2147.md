@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of burrowing animals](Quests/Other/quest_470.md)** | Biology学(7) | Ecological Survey(7)Biology(7) |  |
+| **[Map of burrowing animals](docs/Quests/Other/1-1000/quest_470.md)** | Biology学(7) | Ecological Survey(7)Biology(7) |  |

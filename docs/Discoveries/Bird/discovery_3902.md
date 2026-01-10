@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on discolored hummingbirds](Quests/Other/quest_6890.md)** | Pursuit quest (9) | Ecological research (12) Biology (14) North American languages ​​(1) | Reward: 330,000 |
+| **[Additional research on discolored hummingbirds](docs/Quests/Other/6001-7000/quest_6890.md)** | Pursuit quest (9) | Ecological research (12) Biology (14) North American languages ​​(1) | Reward: 330,000 |

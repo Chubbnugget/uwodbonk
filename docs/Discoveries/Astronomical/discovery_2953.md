@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Iapetus](Quests/Other/quest_5637.md)** | Celestial Object Discovery Name(10)17th Century Issue 4 | Astronomy (10) Visualization (10) |  |
+| **[Iapetus](docs/Quests/Other/5001-6000/quest_5637.md)** | Celestial Object Discovery Name(10)17th Century Issue 4 | Astronomy (10) Visualization (10) |  |

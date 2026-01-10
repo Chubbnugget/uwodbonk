@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Enchanted New World Fur](Quests/Adventure/quest_3160.md)** | Adventure quest (8) | Ecological research (6) Biology (8) Norse (1) | Reward: 233,000 / Advance payment: 20,000 Experience: 270 / Fame: 230 |
+| **[Enchanted New World Fur](docs/Quests/Adventure/3001-4000/quest_3160.md)** | Adventure quest (8) | Ecological research (6) Biology (8) Norse (1) | Reward: 233,000 / Advance payment: 20,000 Experience: 270 / Fame: 230 |

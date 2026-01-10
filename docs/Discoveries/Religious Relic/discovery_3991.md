@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Greek goddess statue investigation](Quests/Adventure/quest_6983.md)** | Adventure quest (5) | Religious Studies (7) Exploration (5) Italian (1) | Remuneration: 85,000 / Advance payment: 10,000 |
+| **[Greek goddess statue investigation](docs/Quests/Adventure/6001-7000/quest_6983.md)** | Adventure quest (5) | Religious Studies (7) Exploration (5) Italian (1) | Remuneration: 85,000 / Advance payment: 10,000 |

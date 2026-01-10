@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Basra](Quests/Other/quest_5112.md)** | Port/village (1) | - |  |
+| **[Basra](docs/Quests/Other/5001-6000/quest_5112.md)** | Port/village (1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sable habitat survey](Quests/Adventure/quest_146.md)** | Adventure quest (4) | Ecological research (1) Biology (2) Norse | Reward: 22,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Sable habitat survey](docs/Quests/Adventure/1-1000/quest_146.md)** | Adventure quest (4) | Ecological research (1) Biology (2) Norse | Reward: 22,000 / Advance payment: 0Experience: 130 / Fame: 65 |

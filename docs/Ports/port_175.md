@@ -42,26 +42,26 @@ The pronunciation is "Yuntaishan". This is a historic city where the king of Yue
 
 | item | group | purchase price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
-| [Osmanthus](Items/Trade Goods/TradeGoods-Perfume/item_3925.md) | [Trading Goods (Spices)](Categories/category_11.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [star anise](Items/Trade Goods/TradeGoods-Spices/item_3908.md) | [Trading Goods (Spices)](Categories/category_12.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [Basho](Items/Trade Goods/TradeGoods-Fibers/item_3862.md) | [交易品（繊維）](Categories/category_1.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [Locao](Items/Trade Goods/TradeGoods-Dye/item_3909.md) | [Trading Goods (Dye)](Categories/category_2.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [chinese books](Items/Trade Goods/TradeGoods-Misc/item_3927.md) | [交易品（雑貨）](Categories/category_5.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [chinese calligraphy](Items/Trade Goods/TradeGoods-Art/item_3926.md) | [交易品（美術品）](Categories/category_14.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [Chinese tea](Items/Trade Goods/TradeGoods-Sunddries/item_3907.md) | [Trading goods (hobby goods)](Categories/category_10.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [Chinese noodles](Items/Trade Goods/TradeGoods-Foodstuffs/item_3906.md) | [Trading items (food items)](Categories/category_3.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [Cordyceps sinensis](Items/Trade Goods/TradeGoods-Medicine/item_3839.md) | [Trading products (medical products)](Categories/category_6.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [monocular gun](Items/Trade Goods/TradeGoods-Firearms/item_3916.md) | [Trading Items (Firearms)](Categories/category_17.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [old ink stick](Items/Trade Goods/TradeGoods-Misc/item_3921.md) | [交易品（雑貨）](Categories/category_5.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [唐錦](Items/Trade Goods/TradeGoods-Fabrics/item_3896.md) | [交易品（織物）](Categories/category_20.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [Song Baici](Items/Trade Goods/TradeGoods-Luxuries/item_3904.md) | [Trading goods (artificial goods)](Categories/category_13.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [bamboo](Items/Trade Goods/TradeGoods-Wares/item_3899.md) | [交易品（工業品）](Categories/category_19.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [紹興酒](Items/Trade Goods/TradeGoods-Alcohol/item_3882.md) | [交易品（酒類）](Categories/category_9.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [mutton fat white jade](Items/Trade Goods/TradeGoods-Gems/item_3903.md) | [Trading Items (Gemstones)](Categories/category_15.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [Bean sauce](Items/Trade Goods/TradeGoods-Seasonings/item_3875.md) | [交易品（調味料）](Categories/category_4.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [red copper ore](Items/Trade Goods/TradeGoods-Minerals/item_3863.md) | [Trading Items (Iron Stone)](Categories/category_7.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [雲南銀](Items/Trade Goods/TradeGoods-Metals/item_3905.md) | [Trading products (precious metals)](Categories/category_8.md) | [Edit Purchase Price](Ports/port_175.md) |  |
-| [Blue dragon sword](Items/Trade Goods/TradeGoods-Weapons/item_3923.md) | [Trading Items (Arms)](Categories/category_16.md) | [Edit Purchase Price](Ports/port_175.md) |  |
+| [Osmanthus](docs/Items/TradeGoods/TradeGoods-Perfume/item_3925.md) | [Trading Goods (Spices)](docs/Categories/category_11.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [star anise](docs/Items/TradeGoods/TradeGoods-Spices/item_3908.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [Basho](docs/Items/TradeGoods/TradeGoods-Fibers/item_3862.md) | [交易品（繊維）](docs/Categories/category_1.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [Locao](docs/Items/TradeGoods/TradeGoods-Dye/item_3909.md) | [Trading Goods (Dye)](docs/Categories/category_2.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [chinese books](docs/Items/TradeGoods/TradeGoods-Misc/item_3927.md) | [交易品（雑貨）](docs/Categories/category_5.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [chinese calligraphy](docs/Items/TradeGoods/TradeGoods-Art/item_3926.md) | [交易品（美術品）](docs/Categories/category_14.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [Chinese tea](docs/Items/TradeGoods/TradeGoods-Sunddries/item_3907.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [Chinese noodles](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_3906.md) | [Trading items (food items)](docs/Categories/category_3.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [Cordyceps sinensis](docs/Items/TradeGoods/TradeGoods-Medicine/item_3839.md) | [Trading products (medical products)](docs/Categories/category_6.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [monocular gun](docs/Items/TradeGoods/TradeGoods-Firearms/item_3916.md) | [Trading Items (Firearms)](docs/Categories/category_17.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [old ink stick](docs/Items/TradeGoods/TradeGoods-Misc/item_3921.md) | [交易品（雑貨）](docs/Categories/category_5.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [唐錦](docs/Items/TradeGoods/TradeGoods-Fabrics/item_3896.md) | [交易品（織物）](docs/Categories/category_20.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [Song Baici](docs/Items/TradeGoods/TradeGoods-Luxuries/item_3904.md) | [Trading goods (artificial goods)](docs/Categories/category_13.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [bamboo](docs/Items/TradeGoods/TradeGoods-Wares/item_3899.md) | [交易品（工業品）](docs/Categories/category_19.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [紹興酒](docs/Items/TradeGoods/TradeGoods-Alcohol/item_3882.md) | [交易品（酒類）](docs/Categories/category_9.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [mutton fat white jade](docs/Items/TradeGoods/TradeGoods-Gems/item_3903.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [Bean sauce](docs/Items/TradeGoods/TradeGoods-Seasonings/item_3875.md) | [交易品（調味料）](docs/Categories/category_4.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [red copper ore](docs/Items/TradeGoods/TradeGoods-Minerals/item_3863.md) | [Trading Items (Iron Stone)](docs/Categories/category_7.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [雲南銀](docs/Items/TradeGoods/TradeGoods-Metals/item_3905.md) | [Trading products (precious metals)](docs/Categories/category_8.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
+| [Blue dragon sword](docs/Items/TradeGoods/TradeGoods-Weapons/item_3923.md) | [Trading Items (Arms)](docs/Categories/category_16.md) | [Edit Purchase Price](docs/Ports/port_175.md) |  |
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
@@ -87,33 +87,33 @@ The pronunciation is "Yuntaishan". This is a historic city where the king of Yue
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [East Asian accessories/sewing edition](Items/Recipe Book/item_3387.md) | recipe book | 800,000 | tool shop owner |  |
+| [East Asian accessories/sewing edition](docs/Items/RecipeBooks/item_3387.md) | recipe book | 800,000 | tool shop owner |  |
 
-#### [Equipment (head)](Categories/category_23.md)
+#### [Equipment (head)](docs/Categories/category_23.md)
 
-| [Square flat towel](Items/Equipment/Equipment-Head/item_3607.md) | Equipment (head) | 102,000 | tool shop owner |  |
-| [頭巾](Items/Equipment/Equipment-Head/item_3551.md) | Equipment (head) | 82,000 | tool shop owner |  |
+| [Square flat towel](docs/Items/Equipment/Equipment-Head/item_3607.md) | Equipment (head) | 102,000 | tool shop owner |  |
+| [頭巾](docs/Items/Equipment/Equipment-Head/item_3551.md) | Equipment (head) | 82,000 | tool shop owner |  |
 
-#### [Equipment (body)](Categories/category_24.md)
+#### [Equipment (body)](docs/Categories/category_24.md)
 
-| [Hufu](Items/Equipment/Equipment-Body/item_3874.md) | Equipment (body) | 154,000 | tool shop owner |  |
+| [Hufu](docs/Items/Equipment/Equipment-Body/item_3874.md) | Equipment (body) | 154,000 | tool shop owner |  |
 
-#### [Equipment (legs)](Categories/category_26.md)
+#### [Equipment (legs)](docs/Categories/category_26.md)
 
-| [shoe](Items/Equipment/Equipment-Feet/item_3603.md) | Equipment (legs) | 56,000 | tool shop owner |  |
-| [shoes](Items/Equipment/Equipment-Feet/item_3471.md) | Equipment (legs) | 48,000 | tool shop owner |  |
+| [shoe](docs/Items/Equipment/Equipment-Feet/item_3603.md) | Equipment (legs) | 56,000 | tool shop owner |  |
+| [shoes](docs/Items/Equipment/Equipment-Feet/item_3471.md) | Equipment (legs) | 48,000 | tool shop owner |  |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
-| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
+| [strong adhesive oil](docs/Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [torch for throwing](docs/Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [secret cure](docs/Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 
-#### [Consumables (skill activation)](Categories/category_31.md)
+#### [Consumables (skill activation)](docs/Categories/category_31.md)
 
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
+| [fishing gear](docs/Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
 
@@ -122,16 +122,16 @@ The pronunciation is "Yuntaishan". This is a historic city where the king of Yue
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [East Asian sail making methods](Items/Recipe Book/item_3417.md) | recipe book | Fixed recipe | Shipyard Master |  |
+| [East Asian sail making methods](docs/Items/RecipeBooks/item_3417.md) | recipe book | Fixed recipe | Shipyard Master |  |
 
-#### [Boat](Categories/category_43.md)
+#### [Boat](docs/Categories/category_43.md)
 
-| [寧波船](Items/Ships/item_3915.md) | Boat | 16,200,000 | Shipyard Master |  |
-| [Cruise ship](Items/Ships/item_3659.md) | Boat | 15,800,000 | Shipyard Master |  |
-| [armed sand barge](Items/Ships/item_3914.md) | Boat | 7,600,000 | Shipyard Master |  |
-| [sand ship](Items/Ships/item_3913.md) | Boat | 7,500,000 | Shipyard Master |  |
-| [wide ship for transportation](Items/Ships/item_3658.md) | Boat | 15,600,000 | Shipyard Master |  |
+| [寧波船](docs/Items/Ships/item_3915.md) | Boat | 16,200,000 | Shipyard Master |  |
+| [Cruise ship](docs/Items/Ships/item_3659.md) | Boat | 15,800,000 | Shipyard Master |  |
+| [armed sand barge](docs/Items/Ships/item_3914.md) | Boat | 7,600,000 | Shipyard Master |  |
+| [sand ship](docs/Items/Ships/item_3913.md) | Boat | 7,500,000 | Shipyard Master |  |
+| [wide ship for transportation](docs/Items/Ships/item_3658.md) | Boat | 15,600,000 | Shipyard Master |  |
   </TabItem>
 </Tabs>

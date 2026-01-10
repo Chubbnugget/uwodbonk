@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Col Karori](Quests/Other/quest_6867.md)** | Celestial Object Discovery Name(10)18th Century Issue 4 | astronomy | Experience：850 |
+| **[Col Karori](docs/Quests/Other/6001-7000/quest_6867.md)** | Celestial Object Discovery Name(10)18th Century Issue 4 | astronomy | Experience：850 |

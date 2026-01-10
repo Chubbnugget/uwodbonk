@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Face shaping pot](Quests/Adventure/quest_3012.md)** | Adventure quest (6) | Exploration (5) Archeology (7) Unlocking (5) | Reward: 174,000 / Advance payment: 10,000 Experience: 220 / Fame: 200 |
+| **[Face shaping pot](docs/Quests/Adventure/3001-4000/quest_3012.md)** | Adventure quest (6) | Exploration (5) Archeology (7) Unlocking (5) | Reward: 174,000 / Advance payment: 10,000 Experience: 220 / Fame: 200 |

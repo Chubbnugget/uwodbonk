@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Capella](Quests/Other/quest_3793.md)** | Celestial Object Discovery Name(5)18th Century Issue 3 | Astronomy (5) Visualization (5) | Experience：650 |
+| **[Capella](docs/Quests/Other/3001-4000/quest_3793.md)** | Celestial Object Discovery Name(5)18th Century Issue 3 | Astronomy (5) Visualization (5) | Experience：650 |

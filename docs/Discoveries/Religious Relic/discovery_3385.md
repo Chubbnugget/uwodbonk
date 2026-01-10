@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Things that give protection](Quests/Adventure/quest_6274.md)** | Adventure quest (5) | Religious Studies (6) Exploration (4) Indian Languages | Reward: 184,000 / Advance payment: 10,000 Experience: 200 / Fame: 115 |
+| **[Things that give protection](docs/Quests/Adventure/6001-7000/quest_6274.md)** | Adventure quest (5) | Religious Studies (6) Exploration (4) Indian Languages | Reward: 184,000 / Advance payment: 10,000 Experience: 200 / Fame: 115 |

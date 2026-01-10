@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Conquistador Cortes](Quests/Adventure/quest_1157.md)** | Adventure Quest (7) 16th Century 2nd Period | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 98,000 / Advance payment: 10,000 Experience: 345 / Fame: 110 |
+| **[Conquistador Cortes](docs/Quests/Adventure/1001-2000/quest_1157.md)** | Adventure Quest (7) 16th Century 2nd Period | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 98,000 / Advance payment: 10,000 Experience: 345 / Fame: 110 |

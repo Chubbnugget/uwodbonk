@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Guinea fowl feathers](Quests/Adventure/quest_284.md)** | Adventure quest (6) | Ecological research (4) Biology (6) West African languages | Reward: 48,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Guinea fowl feathers](docs/Quests/Adventure/1-1000/quest_284.md)** | Adventure quest (6) | Ecological research (4) Biology (6) West African languages | Reward: 48,000 / Advance payment: 0Experience: 130 / Fame: 65 |

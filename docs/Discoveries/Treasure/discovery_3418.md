@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The first silver coin engraved with a human figure](Quests/Adventure/quest_6332.md)** | Adventure Quest (6) B.C. | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 182,000/ Advance: 20,000Experience: 200/ Fame: 115 |
+| **[The first silver coin engraved with a human figure](docs/Quests/Adventure/6001-7000/quest_6332.md)** | Adventure Quest (6) B.C. | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 182,000/ Advance: 20,000Experience: 200/ Fame: 115 |

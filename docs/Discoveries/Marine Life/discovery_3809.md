@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Seeking court delicacies](Quests/Adventure/quest_6772.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Chinese (1) | Reward: 420,000/Advance payment: 40,000Experience: 600 |
+| **[Seeking court delicacies](docs/Quests/Adventure/6001-7000/quest_6772.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Chinese (1) | Reward: 420,000/Advance payment: 40,000Experience: 600 |

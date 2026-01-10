@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lion of the Sky](Quests/Adventure/quest_3752.md)** | Adventure Quest (4) Mythology Era | Astronomy (5) Visualization (3) Arabic (1) | Reward: 286,000 / Advance payment: 20,000 Experience: 310 / Fame: 130 |
+| **[Lion of the Sky](docs/Quests/Adventure/3001-4000/quest_3752.md)** | Adventure Quest (4) Mythology Era | Astronomy (5) Visualization (3) Arabic (1) | Reward: 286,000 / Advance payment: 20,000 Experience: 310 / Fame: 130 |

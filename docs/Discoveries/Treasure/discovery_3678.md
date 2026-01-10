@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ship on a sea of ​​dust](Quests/Adventure/quest_6622.md)** | Adventure quest (7) | 探索(7)Treasures鑑定(9)中国語(1) | Reward: 185,000 / Advance payment: 20,000 Experience: 240 / Fame: 130 |
+| **[Ship on a sea of ​​dust](docs/Quests/Adventure/6001-7000/quest_6622.md)** | Adventure quest (7) | 探索(7)Treasures鑑定(9)中国語(1) | Reward: 185,000 / Advance payment: 20,000 Experience: 240 / Fame: 130 |

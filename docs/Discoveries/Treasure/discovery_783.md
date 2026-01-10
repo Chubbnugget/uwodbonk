@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lorenzo's Collectibles](Quests/Adventure/quest_3152.md)** | Adventure Quest (7) 15th Century 5th Period | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Lorenzo's Collectibles](docs/Quests/Adventure/3001-4000/quest_3152.md)** | Adventure Quest (7) 15th Century 5th Period | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |

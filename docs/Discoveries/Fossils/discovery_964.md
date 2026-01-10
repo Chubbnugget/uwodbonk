@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Swimming Dragon](Quests/Adventure/quest_353.md)** | Adventure Quest (5) B.C. | Exploration (1) Biology (3) Swahili | Reward: 31,000/ Advance payment: 5,000 Experience: 130/ Fame: 65 |
+| **[Swimming Dragon](docs/Quests/Adventure/1-1000/quest_353.md)** | Adventure Quest (5) B.C. | Exploration (1) Biology (3) Swahili | Reward: 31,000/ Advance payment: 5,000 Experience: 130/ Fame: 65 |

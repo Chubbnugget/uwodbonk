@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Biology without fear of people](Quests/Adventure/quest_1630.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Oceanian languages | Reward: 112,000 / Advance payment: 10,000 Experience: 330 / Fame: 214 |
+| **[Biology without fear of people](docs/Quests/Adventure/1001-2000/quest_1630.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Oceanian languages | Reward: 112,000 / Advance payment: 10,000 Experience: 330 / Fame: 214 |

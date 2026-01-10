@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Delicate folding screen map](Quests/Other/quest_2746.md)** | 美術(6) | 探索(6)美術(6) |  |
+| **[Delicate folding screen map](docs/Quests/Other/2001-3000/quest_2746.md)** | 美術(6) | 探索(6)美術(6) |  |

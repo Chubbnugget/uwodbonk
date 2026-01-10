@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Buddhist scripture map of Pagan Dynasty](Quests/Other/quest_5259.md)** | Re-examination reward (8) | Religious Studies(8)Exploration(8) |  |
+| **[Buddhist scripture map of Pagan Dynasty](docs/Quests/Other/5001-6000/quest_5259.md)** | Re-examination reward (8) | Religious Studies(8)Exploration(8) |  |

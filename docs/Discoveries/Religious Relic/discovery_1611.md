@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Light in the darkness](Quests/Adventure/quest_2729.md)** | Adventure quest (6) | 宗教学(10)探索(8)朝鮮語 | Reward: 78,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Light in the darkness](docs/Quests/Adventure/2001-3000/quest_2729.md)** | Adventure quest (6) | 宗教学(10)探索(8)朝鮮語 | Reward: 78,000 / Advance payment: 0Experience: 140 / Fame: 70 |

@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gothenburg](Quests/Other/quest_6684.md)** | Port/village (1) | - |  |
+| **[Gothenburg](docs/Quests/Other/6001-7000/quest_6684.md)** | Port/village (1) | - |  |

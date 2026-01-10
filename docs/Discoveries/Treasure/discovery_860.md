@@ -24,10 +24,10 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Adventurer's Bible](Quests/Adventure/quest_997.md)** | Adventure quest (1) | Explore (1) Italian |  |
-| **[Adventurer's Bible](Quests/Adventure/quest_998.md)** | Adventure quest (1) | Explore (1) Dutch |  |
-| **[Adventurer's Bible](Quests/Adventure/quest_995.md)** | Adventure quest (1) | Explore (1) Italian |  |
-| **[Adventurer's Bible](Quests/Adventure/quest_999.md)** | Adventure quest (1) | Explore (1) Dutch | Reward: 4,000／ Advance payment: 0 |
-| **[Adventurer's Bible](Quests/Adventure/quest_994.md)** | Adventure quest (1) | Explore (1) Portuguese |  |
-| **[Adventurer's Bible](Quests/Adventure/quest_996.md)** | Adventure quest (1) | Explore (1) Portuguese |  |
-| **[Investigation of the Touhou Travelogue](Quests/Adventure/quest_5955.md)** | Adventure quest (1) | Explore(1) | Reward: 10,000 / Advance payment: 5,000 Experience: 100 / Fame: 90 |
+| **[Adventurer's Bible](docs/Quests/Adventure/1-1000/quest_997.md)** | Adventure quest (1) | Explore (1) Italian |  |
+| **[Adventurer's Bible](docs/Quests/Adventure/1-1000/quest_998.md)** | Adventure quest (1) | Explore (1) Dutch |  |
+| **[Adventurer's Bible](docs/Quests/Adventure/1-1000/quest_995.md)** | Adventure quest (1) | Explore (1) Italian |  |
+| **[Adventurer's Bible](docs/Quests/Adventure/1-1000/quest_999.md)** | Adventure quest (1) | Explore (1) Dutch | Reward: 4,000／ Advance payment: 0 |
+| **[Adventurer's Bible](docs/Quests/Adventure/1-1000/quest_994.md)** | Adventure quest (1) | Explore (1) Portuguese |  |
+| **[Adventurer's Bible](docs/Quests/Adventure/1-1000/quest_996.md)** | Adventure quest (1) | Explore (1) Portuguese |  |
+| **[Investigation of the Touhou Travelogue](docs/Quests/Adventure/5001-6000/quest_5955.md)** | Adventure quest (1) | Explore(1) | Reward: 10,000 / Advance payment: 5,000 Experience: 100 / Fame: 90 |

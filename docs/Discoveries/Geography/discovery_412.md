@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of the eastern end of the Northeast Passage](Quests/Adventure/quest_3635.md)** | Adventure Quest (5) 18th Century 3rd Period | Geography (10) Visual recognition (8) | Reward: 237,000 / Advance payment: 20,000 Experience: 560 / Fame: 225 |
+| **[Investigation of the eastern end of the Northeast Passage](docs/Quests/Adventure/3001-4000/quest_3635.md)** | Adventure Quest (5) 18th Century 3rd Period | Geography (10) Visual recognition (8) | Reward: 237,000 / Advance payment: 20,000 Experience: 560 / Fame: 225 |

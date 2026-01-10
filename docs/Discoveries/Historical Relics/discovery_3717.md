@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kyrenia Sunken Ship](Quests/Other/quest_6664.md)** | Sunken ship (5) | Salvage Archeology(6) |  |
+| **[Kyrenia Sunken Ship](docs/Quests/Other/6001-7000/quest_6664.md)** | Sunken ship (5) | Salvage Archeology(6) |  |

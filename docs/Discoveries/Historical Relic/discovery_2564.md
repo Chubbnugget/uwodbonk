@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legendary Founder](Quests/Other/quest_3485.md)** | Treasure hunting (6) | Religion(10)Exploration(8)TreasuresIdentification(6) | Experience: 2,060/ Reputation: 1,640 |
+| **[Legendary Founder](docs/Quests/Other/3001-4000/quest_3485.md)** | Treasure hunting (6) | Religion(10)Exploration(8)TreasuresIdentification(6) | Experience: 2,060/ Reputation: 1,640 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Chapel of the Knights](Quests/Adventure/quest_6768.md)** | Adventure quest (5) | Religious Studies (6) Visual Recognition (4) Italian (1) | Reward: 33,000 Experience: 130 |
+| **[Chapel of the Knights](docs/Quests/Adventure/6001-7000/quest_6768.md)** | Adventure quest (5) | Religious Studies (6) Visual Recognition (4) Italian (1) | Reward: 33,000 Experience: 130 |

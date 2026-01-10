@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tarpon](Quests/Other/quest_1989.md)** | Fishing (5) | Fishing (5) |  |
+| **[Tarpon](docs/Quests/Other/1001-2000/quest_1989.md)** | Fishing (5) | Fishing (5) |  |

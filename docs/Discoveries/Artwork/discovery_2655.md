@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unusual Sculpture](Quests/Adventure/quest_5232.md)** | Adventure Quest (4) B.C. | Exploration (3) Art (5) Italian | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Unusual Sculpture](docs/Quests/Adventure/5001-6000/quest_5232.md)** | Adventure Quest (4) B.C. | Exploration (3) Art (5) Italian | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |

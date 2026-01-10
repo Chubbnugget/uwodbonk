@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Road to the Great Empire](Quests/Adventure/quest_814.md)** | Adventure Quest (5) 16th Century 5th Period | Geography (3) Visual recognition (1) Portuguese | Reward: 29,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Road to the Great Empire](docs/Quests/Adventure/1-1000/quest_814.md)** | Adventure Quest (5) 16th Century 5th Period | Geography (3) Visual recognition (1) Portuguese | Reward: 29,000 / Advance payment: 0Experience: 150 / Fame: 70 |

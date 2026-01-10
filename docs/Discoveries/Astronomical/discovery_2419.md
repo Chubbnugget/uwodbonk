@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Night Sky Scales](Quests/Adventure/quest_3775.md)** | Adventure Quest (6) 18th Century Third Period | Astronomy (7) Visualization (5) Spanish | Reward: 136,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Night Sky Scales](docs/Quests/Adventure/3001-4000/quest_3775.md)** | Adventure Quest (6) 18th Century Third Period | Astronomy (7) Visualization (5) Spanish | Reward: 136,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

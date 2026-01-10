@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flying Penguin](Quests/Adventure/quest_3200.md)** | Adventure quest (5) | Ecological research (8) Biology (10) English (1) | Reward: 236,000 / Advance payment: 20,000 Experience: 270 / Fame: 230 |
+| **[Flying Penguin](docs/Quests/Adventure/3001-4000/quest_3200.md)** | Adventure quest (5) | Ecological research (8) Biology (10) English (1) | Reward: 236,000 / Advance payment: 20,000 Experience: 270 / Fame: 230 |

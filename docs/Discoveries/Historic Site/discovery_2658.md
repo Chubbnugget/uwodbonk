@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Customs related to sacred places](Quests/Adventure/quest_5246.md)** | Adventure Quest (2) B.C. | Archeology (3) Visualization (1) Arabic | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Customs related to sacred places](docs/Quests/Adventure/5001-6000/quest_5246.md)** | Adventure Quest (2) B.C. | Archeology (3) Visualization (1) Arabic | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 65 |

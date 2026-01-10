@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Streaming Stars Rain](Quests/Other/quest_5538.md)** | Weather/phenomena (4) | Visual recognition (8) | Experience：630 |
+| **[Streaming Stars Rain](docs/Quests/Other/5001-6000/quest_5538.md)** | Weather/phenomena (4) | Visual recognition (8) | Experience：630 |

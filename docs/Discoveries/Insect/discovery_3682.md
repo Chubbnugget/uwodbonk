@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of black insects](Quests/Other/quest_6629.md)** | Biology学(10) | Ecological Survey(10)Biology(10) | Experience: 320/ Reputation: 0 |
+| **[Map of black insects](docs/Quests/Other/6001-7000/quest_6629.md)** | Biology学(10) | Ecological Survey(10)Biology(10) | Experience: 320/ Reputation: 0 |

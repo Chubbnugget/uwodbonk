@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Another faith](Quests/Adventure/quest_6205.md)** | Adventure quest (4) | Religious studies (5) Visual recognition (3) Indian languages | Reward: 200,000 / Advance payment: 20,000 Experience: 210 / Fame: 120 |
+| **[Another faith](docs/Quests/Adventure/6001-7000/quest_6205.md)** | Adventure quest (4) | Religious studies (5) Visual recognition (3) Indian languages | Reward: 200,000 / Advance payment: 20,000 Experience: 210 / Fame: 120 |

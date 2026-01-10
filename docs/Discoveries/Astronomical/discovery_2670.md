@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The end of the hero](Quests/Adventure/quest_5250.md)** | Adventure Quest (8) Mythology Era | Astronomy (11) Religious Studies (7) Visualization (9) | Reward: 195,000 / Advance payment: 10,000 Experience: 210 / Fame: 120 |
+| **[The end of the hero](docs/Quests/Adventure/5001-6000/quest_5250.md)** | Adventure Quest (8) Mythology Era | Astronomy (11) Religious Studies (7) Visualization (9) | Reward: 195,000 / Advance payment: 10,000 Experience: 210 / Fame: 120 |

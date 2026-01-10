@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Swaying Tenno Stars](Quests/Adventure/quest_5339.md)** | Adventure quest (10) 19th century | Astronomy (14) Visualization (12) French | Reward: 878,000/Advance payment: 80,000Experience: 640 |
+| **[Swaying Tenno Stars](docs/Quests/Adventure/5001-6000/quest_5339.md)** | Adventure quest (10) 19th century | Astronomy (14) Visualization (12) French | Reward: 878,000/Advance payment: 80,000Experience: 640 |

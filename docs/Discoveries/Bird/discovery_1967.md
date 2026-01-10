@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Invisible Biology](Quests/Adventure/quest_1580.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Malayu Tagalog | Reward: 148,000 / Advance payment: 10,000 Experience: 380 / Fame: 125 |
+| **[Invisible Biology](docs/Quests/Adventure/1001-2000/quest_1580.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Malayu Tagalog | Reward: 148,000 / Advance payment: 10,000 Experience: 380 / Fame: 125 |

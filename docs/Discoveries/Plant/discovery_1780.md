@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of fiery flowers](Quests/Other/quest_2366.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：100 |
+| **[Map of fiery flowers](docs/Quests/Other/2001-3000/quest_2366.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：100 |

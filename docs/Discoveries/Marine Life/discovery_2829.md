@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Talairon](Quests/Other/quest_5484.md)** | Fishing (3) | fishing |  |
+| **[Talairon](docs/Quests/Other/5001-6000/quest_5484.md)** | Fishing (3) | fishing |  |

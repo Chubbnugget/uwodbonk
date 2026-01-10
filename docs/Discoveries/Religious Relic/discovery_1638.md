@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Buddhist statues in Korea](Quests/Other/quest_2697.md)** | Religious Studies(3) | Religious Studies (3) Exploration (3) Unlocking (3) |  |
+| **[Map of Buddhist statues in Korea](docs/Quests/Other/2001-3000/quest_2697.md)** | Religious Studies(3) | Religious Studies (3) Exploration (3) Unlocking (3) |  |

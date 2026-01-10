@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Insects or fish](Quests/Adventure/quest_2976.md)** | Adventure quest (7) | Ecological Survey (11) Biology (13) Spanish | Reward: 73,000 / Advance payment: 0Experience: 270 / Fame: 120 |
+| **[Insects or fish](docs/Quests/Adventure/2001-3000/quest_2976.md)** | Adventure quest (7) | Ecological Survey (11) Biology (13) Spanish | Reward: 73,000 / Advance payment: 0Experience: 270 / Fame: 120 |

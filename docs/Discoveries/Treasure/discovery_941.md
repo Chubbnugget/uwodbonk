@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rescator](Quests/Adventure/quest_1130.md)** | Adventure quest (7) 16th century 1st period | Exploration (4) Treasures Appraisal (6) Spanish | Reward: 40,000/ Advance payment: 5,000 Experience: 225/ Fame: 160 |
+| **[Rescator](docs/Quests/Adventure/1001-2000/quest_1130.md)** | Adventure quest (7) 16th century 1st period | Exploration (4) Treasures Appraisal (6) Spanish | Reward: 40,000/ Advance payment: 5,000 Experience: 225/ Fame: 160 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Long-legged crab](Quests/Adventure/quest_5619.md)** | Adventure quest (10) | Ecological Survey (9) Biology (11) Japanese | Reward: 621,000/Advance payment: 60,000Experience: 480 |
+| **[Long-legged crab](docs/Quests/Adventure/5001-6000/quest_5619.md)** | Adventure quest (10) | Ecological Survey (9) Biology (11) Japanese | Reward: 621,000/Advance payment: 60,000Experience: 480 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Swaying Giant Island](Quests/Adventure/quest_1324.md)** | Adventure Quest (5) 16th Century 2nd Period | Geography (7) Visual recognition (5) Malayu Tagalog | Reward: 80,000 / Advance payment: 0Experience: 300 / Fame: 105 |
+| **[Swaying Giant Island](docs/Quests/Adventure/1001-2000/quest_1324.md)** | Adventure Quest (5) 16th Century 2nd Period | Geography (7) Visual recognition (5) Malayu Tagalog | Reward: 80,000 / Advance payment: 0Experience: 300 / Fame: 105 |

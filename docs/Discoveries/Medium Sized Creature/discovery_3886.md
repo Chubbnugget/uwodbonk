@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of small horned animals](Quests/Other/quest_6873.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |
+| **[Map of small horned animals](docs/Quests/Other/6001-7000/quest_6873.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |

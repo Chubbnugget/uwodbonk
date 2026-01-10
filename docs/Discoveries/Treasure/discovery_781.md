@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[North American Song](Quests/Adventure/quest_3876.md)** | Adventure quest (3) 19th century | Exploration (1) Treasures Appraisal (3) North American Languages ​​(1) | Reward: 186,000 / Advance payment: 10,000 Experience: 230 / Fame: 200 |
+| **[North American Song](docs/Quests/Adventure/3001-4000/quest_3876.md)** | Adventure quest (3) 19th century | Exploration (1) Treasures Appraisal (3) North American Languages ​​(1) | Reward: 186,000 / Advance payment: 10,000 Experience: 230 / Fame: 200 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Deer herd map](Quests/Other/quest_167.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |
+| **[Deer herd map](docs/Quests/Other/1-1000/quest_167.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |

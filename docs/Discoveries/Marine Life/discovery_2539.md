@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sakata shark](Quests/Other/quest_4833.md)** | Fishing (3) | fishing |  |
+| **[Sakata shark](docs/Quests/Other/4001-5000/quest_4833.md)** | Fishing (3) | fishing |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Eastern Roman Book Map](Quests/Other/quest_3169.md)** | Treasures鑑定(5) | 探索(3)Treasures鑑定(5) |  |
+| **[Eastern Roman Book Map](docs/Quests/Other/3001-4000/quest_3169.md)** | Treasures鑑定(5) | 探索(3)Treasures鑑定(5) |  |

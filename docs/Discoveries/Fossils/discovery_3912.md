@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Sea Creatures Fossils](Quests/Adventure/quest_6900.md)** | Adventure quest (9) | Exploration (12) Biology (14) North American languages | Remuneration: 1,279,000 / Advance payment: 130,000 |
+| **[Giant Sea Creatures Fossils](docs/Quests/Adventure/6001-7000/quest_6900.md)** | Adventure quest (9) | Exploration (12) Biology (14) North American languages | Remuneration: 1,279,000 / Advance payment: 130,000 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Jewel](Quests/Adventure/quest_6855.md)** | Adventure quest (10) | Exploration (13) Treasures Appraisal (15) Arabic (1) | Reward: 1,119,000/Advance payment: 110,000Experience: 790 |
+| **[Ancient Jewel](docs/Quests/Adventure/6001-7000/quest_6855.md)** | Adventure quest (10) | Exploration (13) Treasures Appraisal (15) Arabic (1) | Reward: 1,119,000/Advance payment: 110,000Experience: 790 |

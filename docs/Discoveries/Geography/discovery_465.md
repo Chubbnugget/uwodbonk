@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Island to see Stars](Quests/Adventure/quest_1647.md)** | Adventure quest (10) | Geography (10) Visual recognition (8) Dutch | Reward: 208,000 / Advance payment: 20,000 Experience: 450 / Fame: 165 |
+| **[Island to see Stars](docs/Quests/Adventure/1001-2000/quest_1647.md)** | Adventure quest (10) | Geography (10) Visual recognition (8) Dutch | Reward: 208,000 / Advance payment: 20,000 Experience: 450 / Fame: 165 |

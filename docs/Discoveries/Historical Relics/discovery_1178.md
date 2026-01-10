@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tristan's Sword](Quests/Adventure/quest_225.md)** | Adventure quest (5) | Exploration (3) Archeology (5) French |  |
+| **[Tristan's Sword](docs/Quests/Adventure/1-1000/quest_225.md)** | Adventure quest (5) | Exploration (3) Archeology (5) French |  |

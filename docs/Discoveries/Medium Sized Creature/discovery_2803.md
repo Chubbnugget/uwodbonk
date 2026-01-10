@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[For the flock](Quests/Adventure/quest_5458.md)** | Adventure quest (2) | Ecological Survey (2) Biology (4) Spanish | Reward: 126,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |
+| **[For the flock](docs/Quests/Adventure/5001-6000/quest_5458.md)** | Adventure quest (2) | Ecological Survey (2) Biology (4) Spanish | Reward: 126,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |

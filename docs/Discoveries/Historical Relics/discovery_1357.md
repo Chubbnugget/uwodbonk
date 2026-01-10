@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Poetry created by incompatible things](Quests/Adventure/quest_3230.md)** | Adventure quest (6) | Exploration (10) Archeology (12) Unlocking (10) | Remuneration: 130,000 / Advance payment: 20,000 |
+| **[Poetry created by incompatible things](docs/Quests/Adventure/3001-4000/quest_3230.md)** | Adventure quest (6) | Exploration (10) Archeology (12) Unlocking (10) | Remuneration: 130,000 / Advance payment: 20,000 |

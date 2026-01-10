@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Traditional celadon](Quests/Adventure/quest_2667.md)** | Adventure quest (3) | 探索(4)Treasures鑑定(6)朝鮮語 | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Traditional celadon](docs/Quests/Adventure/2001-3000/quest_2667.md)** | Adventure quest (3) | 探索(4)Treasures鑑定(6)朝鮮語 | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 65 |

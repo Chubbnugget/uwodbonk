@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ceremonial place](Quests/Adventure/quest_1850.md)** | Adventure quest (7) 16th century third period | Archeology(12)Visibility(10)Socialization(10) | Remuneration: 268,000 / Advance payment: 20,000 |
+| **[Ceremonial place](docs/Quests/Adventure/1001-2000/quest_1850.md)** | Adventure quest (7) 16th century third period | Archeology(12)Visibility(10)Socialization(10) | Remuneration: 268,000 / Advance payment: 20,000 |

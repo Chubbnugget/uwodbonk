@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lifeline of the Knights](Quests/Adventure/quest_6153.md)** | Adventure quest (7) 15th century third period | Religious Studies (3) Visual Recognition (1) Portuguese | Reward: 96,000 / Advance payment: 0Experience: 250 |
+| **[Lifeline of the Knights](docs/Quests/Adventure/6001-7000/quest_6153.md)** | Adventure quest (7) 15th century third period | Religious Studies (3) Visual Recognition (1) Portuguese | Reward: 96,000 / Advance payment: 0Experience: 250 |

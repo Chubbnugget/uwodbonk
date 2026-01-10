@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on percussion instruments](Quests/Other/quest_6578.md)** | Pursuit quest (3) | Exploration (10) Treasures Appraisal (12) Persian (1) | Reward: 320,000 / Advance payment: 0Experience: 650 |
+| **[Additional research on percussion instruments](docs/Quests/Other/6001-7000/quest_6578.md)** | Pursuit quest (3) | Exploration (10) Treasures Appraisal (12) Persian (1) | Reward: 320,000 / Advance payment: 0Experience: 650 |

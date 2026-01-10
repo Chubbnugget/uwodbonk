@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Death of a Hero](Quests/Adventure/quest_355.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Arabic | Reward: 103,000Experience: 150/ Fame: 75 |
+| **[Death of a Hero](docs/Quests/Adventure/1-1000/quest_355.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Arabic | Reward: 103,000Experience: 150/ Fame: 75 |

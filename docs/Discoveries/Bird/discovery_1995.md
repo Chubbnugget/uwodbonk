@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Long-legged animal map](Quests/Other/quest_1610.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：75 |
+| **[Long-legged animal map](docs/Quests/Other/1001-2000/quest_1610.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：75 |

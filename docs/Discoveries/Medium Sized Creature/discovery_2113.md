@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[驚天動地](Quests/Adventure/quest_1751.md)** | Adventure quest (9) | Ecological Survey (12) Biology (14) Malayu Tagalog (1) | Reward: 369,000 / Advance payment: 30,000 Experience: 780 / Fame: 285 |
+| **[驚天動地](docs/Quests/Adventure/1001-2000/quest_1751.md)** | Adventure quest (9) | Ecological Survey (12) Biology (14) Malayu Tagalog (1) | Reward: 369,000 / Advance payment: 30,000 Experience: 780 / Fame: 285 |

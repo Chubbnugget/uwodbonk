@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Will O' Wisp](Quests/Other/quest_5815.md)** | Weather/phenomena (4) | Visual recognition (8) | Experience：620 |
+| **[Will O' Wisp](docs/Quests/Other/5001-6000/quest_5815.md)** | Weather/phenomena (4) | Visual recognition (8) | Experience：620 |

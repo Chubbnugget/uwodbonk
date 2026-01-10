@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Land of the King's Return](Quests/Adventure/quest_360.md)** | Adventure Quest (7) B.C. | Exploration (5) Archeology (7) Unlocking (5) | Reward: 2,000 Experience: 320 / Fame: 135 |
+| **[Land of the King's Return](docs/Quests/Adventure/1-1000/quest_360.md)** | Adventure Quest (7) B.C. | Exploration (5) Archeology (7) Unlocking (5) | Reward: 2,000 Experience: 320 / Fame: 135 |

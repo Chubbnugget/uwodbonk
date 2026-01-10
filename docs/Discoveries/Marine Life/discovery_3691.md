@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Chasing the sea monster](Quests/Adventure/quest_6638.md)** | Adventure quest (8) | Ecological research (10) Biology (12) Mayan languages | Reward: 441,000/Advance payment: 40,000Experience: 360 |
+| **[Chasing the sea monster](docs/Quests/Adventure/6001-7000/quest_6638.md)** | Adventure quest (8) | Ecological research (10) Biology (12) Mayan languages | Reward: 441,000/Advance payment: 40,000Experience: 360 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kusanagi Ken](Quests/Other/quest_6615.md)** | Legacy(1) | - | Experience：3,150 |
+| **[Kusanagi Ken](docs/Quests/Other/6001-7000/quest_6615.md)** | Legacy(1) | - | Experience：3,150 |

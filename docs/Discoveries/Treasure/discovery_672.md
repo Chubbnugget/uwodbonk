@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Continuing to hold onto feelings of nostalgia](Quests/Adventure/quest_1183.md)** | Adventure quest (5) 16th century 1st period | Exploration (2) Treasures Appraisal (4) Mayan Languages | Reward: 86,000/ Advance: 10,000 Experience: 225/ Fame: 85 |
+| **[Continuing to hold onto feelings of nostalgia](docs/Quests/Adventure/1001-2000/quest_1183.md)** | Adventure quest (5) 16th century 1st period | Exploration (2) Treasures Appraisal (4) Mayan Languages | Reward: 86,000/ Advance: 10,000 Experience: 225/ Fame: 85 |

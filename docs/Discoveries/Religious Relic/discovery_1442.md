@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mesoamerican Statue Map](Quests/Other/quest_1707.md)** | Religious Studies(7) | Religious Studies (7) Exploration (7) Unlocking (7) |  |
+| **[Mesoamerican Statue Map](docs/Quests/Other/1001-2000/quest_1707.md)** | Religious Studies(7) | Religious Studies (7) Exploration (7) Unlocking (7) |  |

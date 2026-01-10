@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Knight of the Lake](Quests/Other/quest_3515.md)** | Treasure hunting (6) | Religious Studies (11) Exploration (9) French | Reward: 0 / Advance payment: 0 Experience: 2,430 / Fame: 970 |
+| **[Knight of the Lake](docs/Quests/Other/3001-4000/quest_3515.md)** | Treasure hunting (6) | Religious Studies (11) Exploration (9) French | Reward: 0 / Advance payment: 0 Experience: 2,430 / Fame: 970 |

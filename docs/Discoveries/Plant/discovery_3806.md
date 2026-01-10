@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Searching for the stone flower](Quests/Adventure/quest_6769.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Dutch (1) | Reward: 280,000/Advance payment: 30,000Experience: 280 |
+| **[Searching for the stone flower](docs/Quests/Adventure/6001-7000/quest_6769.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Dutch (1) | Reward: 280,000/Advance payment: 30,000Experience: 280 |

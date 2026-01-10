@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indian Flame God](Quests/Adventure/quest_60.md)** | Adventure Quest (6) Mythology Era | Religious Studies (6) Exploration (4) Indian Languages | Reward: 108,000 / Advance payment: 0Experience: 190 / Fame: 85 |
+| **[Indian Flame God](docs/Quests/Adventure/1-1000/quest_60.md)** | Adventure Quest (6) Mythology Era | Religious Studies (6) Exploration (4) Indian Languages | Reward: 108,000 / Advance payment: 0Experience: 190 / Fame: 85 |

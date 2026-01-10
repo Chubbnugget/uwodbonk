@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ship running underwater](Quests/Adventure/quest_1212.md)** | Adventure quest (9) | Ecological research (10) Biology (12) Fishing (12) | Reward: 148,000 / Advance payment: 0Experience: 420 / Fame: 200 |
+| **[Ship running underwater](docs/Quests/Adventure/1001-2000/quest_1212.md)** | Adventure quest (9) | Ecological research (10) Biology (12) Fishing (12) | Reward: 148,000 / Advance payment: 0Experience: 420 / Fame: 200 |

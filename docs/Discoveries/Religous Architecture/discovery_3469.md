@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of the temple built on the cliff](Quests/Other/quest_6391.md)** | Religious Studies(9) | Religious Studies (9) Visual Recognition (9) |  |
+| **[Map of the temple built on the cliff](docs/Quests/Other/6001-7000/quest_6391.md)** | Religious Studies(9) | Religious Studies (9) Visual Recognition (9) |  |

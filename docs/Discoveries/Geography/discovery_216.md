@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sacred place on the cliff](Quests/Adventure/quest_3843.md)** | Adventure quest (4) 19th century | Geography (6) Visual recognition (4) North American languages ​​(4) | Reward: 72,000 / Advance payment: 0Experience: 130 / Fame: 130 |
+| **[Sacred place on the cliff](docs/Quests/Adventure/3001-4000/quest_3843.md)** | Adventure quest (4) 19th century | Geography (6) Visual recognition (4) North American languages ​​(4) | Reward: 72,000 / Advance payment: 0Experience: 130 / Fame: 130 |

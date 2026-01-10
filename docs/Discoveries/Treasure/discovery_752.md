@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A race born from poisonous snakes](Quests/Adventure/quest_2761.md)** | Adventure quest (7) | Exploration (7) Treasures Appraisal (9) Unlocking (7) | Reward: 96,000 / Advance: 0Experience: 180 / Fame: 75 |
+| **[A race born from poisonous snakes](docs/Quests/Adventure/2001-3000/quest_2761.md)** | Adventure quest (7) | Exploration (7) Treasures Appraisal (9) Unlocking (7) | Reward: 96,000 / Advance: 0Experience: 180 / Fame: 75 |

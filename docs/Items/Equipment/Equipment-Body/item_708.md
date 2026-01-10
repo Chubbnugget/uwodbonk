@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | bogolanfini |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 53,200 |
 | **Description** | Traditional clothing worn by Benin women. Characterized by beautiful astringent dyeing. Gender Restrictions Female Durability 35 Formal Attire 7 Disguise 25 Defense 4 March +1 Total Fame Required 700 |

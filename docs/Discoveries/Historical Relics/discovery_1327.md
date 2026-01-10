@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Battle of Ain Jalut](Quests/Adventure/quest_1700.md)** | Adventure quest (9) | Exploration (11) Archeology (13) Arabic | Reward: 144,000 / Advance payment: 10,000 Experience: 420 / Fame: 140 |
+| **[Battle of Ain Jalut](docs/Quests/Adventure/1001-2000/quest_1700.md)** | Adventure quest (9) | Exploration (11) Archeology (13) Arabic | Reward: 144,000 / Advance payment: 10,000 Experience: 420 / Fame: 140 |

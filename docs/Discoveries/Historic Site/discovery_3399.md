@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient civilizations](Quests/Other/quest_6297.md)** | Archeology(6) | Archeology(6)Visibility(6) | Experience: 200/ Reputation: 100 |
+| **[Map of ancient civilizations](docs/Quests/Other/6001-7000/quest_6297.md)** | Archeology(6) | Archeology(6)Visibility(6) | Experience: 200/ Reputation: 100 |

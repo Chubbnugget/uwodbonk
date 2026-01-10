@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tropical giant fish](Quests/Adventure/quest_899.md)** | Adventure quest (4) | Ecological research (1) Biology (2) Indian languages | Reward: 63,000 / Advance payment: 0Experience: 210 / Fame: 105 |
+| **[Tropical giant fish](docs/Quests/Adventure/1-1000/quest_899.md)** | Adventure quest (4) | Ecological research (1) Biology (2) Indian languages | Reward: 63,000 / Advance payment: 0Experience: 210 / Fame: 105 |

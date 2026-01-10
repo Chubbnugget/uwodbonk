@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[That's a different story](Quests/Adventure/quest_6051.md)** | Adventure quest (3) | Exploration (2) Art (4) Spanish | Reward: 123,000 / Advance payment: 10,000 Experience: 160 / Fame: 90 |
+| **[That's a different story](docs/Quests/Adventure/6001-7000/quest_6051.md)** | Adventure quest (3) | Exploration (2) Art (4) Spanish | Reward: 123,000 / Advance payment: 10,000 Experience: 160 / Fame: 90 |

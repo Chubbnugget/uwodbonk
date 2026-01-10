@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sagojyo's prototype](Quests/Adventure/quest_2861.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Chinese | Reward: 105,000/ Advance: 10,000 Experience: 160/ Fame: 75 |
+| **[Sagojyo's prototype](docs/Quests/Adventure/2001-3000/quest_2861.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Chinese | Reward: 105,000/ Advance: 10,000 Experience: 160/ Fame: 75 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Venetian glasswork](Quests/Adventure/quest_78.md)** | Adventure quest (3) | Exploration (1) Art (2) Italian | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Venetian glasswork](docs/Quests/Adventure/1-1000/quest_78.md)** | Adventure quest (3) | Exploration (1) Art (2) Italian | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 65 |

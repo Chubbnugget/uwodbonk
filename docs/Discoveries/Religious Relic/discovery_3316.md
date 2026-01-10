@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Origin of hagiography](Quests/Adventure/quest_6167.md)** | Adventure quest (3) | Religious Studies (4) Exploration (2) Italian | Reward: 107,000 / Advance payment: 10,000 Experience: 225 / Fame: 120 |
+| **[Origin of hagiography](docs/Quests/Adventure/6001-7000/quest_6167.md)** | Adventure quest (3) | Religious Studies (4) Exploration (2) Italian | Reward: 107,000 / Advance payment: 10,000 Experience: 225 / Fame: 120 |

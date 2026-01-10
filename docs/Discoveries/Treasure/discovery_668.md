@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Luxury Weapon Map](Quests/Other/quest_581.md)** | Treasures鑑定(3) | Exploration (3) Treasures Appraisal (3) Unlocking (3) |  |
+| **[Luxury Weapon Map](docs/Quests/Other/1-1000/quest_581.md)** | Treasures鑑定(3) | Exploration (3) Treasures Appraisal (3) Unlocking (3) |  |

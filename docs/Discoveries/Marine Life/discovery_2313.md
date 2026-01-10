@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Advanced Adventure Course Completion Certification Exam](Quests/Adventure/quest_5991.md)** | Adventure quest (3) | Ecological Survey (2) Biology (4) English | Reward: 100,000 Experience: 4,000 / Fame: 2,500 |
-| **[Giant and ferocious dolphin](Quests/Adventure/quest_430.md)** | Adventure quest (5) | Ecological Survey (2) Biology (4) English | Reward: 39,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Advanced Adventure Course Completion Certification Exam](docs/Quests/Adventure/5001-6000/quest_5991.md)** | Adventure quest (3) | Ecological Survey (2) Biology (4) English | Reward: 100,000 Experience: 4,000 / Fame: 2,500 |
+| **[Giant and ferocious dolphin](docs/Quests/Adventure/1-1000/quest_430.md)** | Adventure quest (5) | Ecological Survey (2) Biology (4) English | Reward: 39,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mystery deep in the forest](Quests/Adventure/quest_2240.md)** | Adventure quest (7) | Geography (9) Visualization (7) Quechua | Reward: 200,000 / Advance payment: 20,000 Experience: 240 / Fame: 105 |
+| **[Mystery deep in the forest](docs/Quests/Adventure/2001-3000/quest_2240.md)** | Adventure quest (7) | Geography (9) Visualization (7) Quechua | Reward: 200,000 / Advance payment: 20,000 Experience: 240 / Fame: 105 |

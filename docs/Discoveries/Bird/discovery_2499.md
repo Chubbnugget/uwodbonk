@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Crimson Bird](Quests/Adventure/quest_4794.md)** | Adventure quest (3) 19th century | Ecological research (2) Biology (4) Oceanian languages | Reward: 90,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Crimson Bird](docs/Quests/Adventure/4001-5000/quest_4794.md)** | Adventure quest (3) 19th century | Ecological research (2) Biology (4) Oceanian languages | Reward: 90,000 / Advance payment: 0Experience: 150 / Fame: 70 |

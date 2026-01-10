@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of deer living on the island](Quests/Other/quest_2419.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |
+| **[Map of deer living on the island](docs/Quests/Other/2001-3000/quest_2419.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |

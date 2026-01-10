@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Luanda](Quests/Other/quest_5176.md)** | Port/village (1) | - |  |
+| **[Luanda](docs/Quests/Other/5001-6000/quest_5176.md)** | Port/village (1) | - |  |

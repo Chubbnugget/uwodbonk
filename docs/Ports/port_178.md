@@ -42,27 +42,27 @@ The reading is "Pohan". Located on the east coast of the Korean Peninsula. There
 
 | item | group | purchase price | 同盟時 | remarks |
 | --- | --- | --- | --- | --- |
-| [Sanshou](Items/Trade Goods/TradeGoods-Spices/item_3794.md) | [Trading Goods (Spices)](Categories/category_12.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [Chamtashima](Items/Trade Goods/TradeGoods-Foodstuffs/item_3771.md) | [Trading items (food items)](Categories/category_3.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [Choshi](Items/Trade Goods/TradeGoods-Seasonings/item_3793.md) | [交易品（調味料）](Categories/category_4.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [Chindarle](Items/Trade Goods/TradeGoods-Perfume/item_3795.md) | [Trading Goods (Spices)](Categories/category_11.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [broadsword](Items/Trade Goods/TradeGoods-Weapons/item_3754.md) | [Trading Items (Arms)](Categories/category_16.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [Andong soju](Items/Trade Goods/TradeGoods-Alcohol/item_3757.md) | [交易品（酒類）](Categories/category_9.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [throwing bomb](Items/Trade Goods/TradeGoods-Firearms/item_3784.md) | [Trading Items (Firearms)](Categories/category_17.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [明紬](Items/Trade Goods/TradeGoods-Fabrics/item_3753.md) | [交易品（織物）](Categories/category_20.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [Korean ginseng](Items/Trade Goods/TradeGoods-Medicine/item_3738.md) | [Trading products (medical products)](Categories/category_6.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [Korean books](Items/Trade Goods/TradeGoods-Misc/item_3750.md) | [交易品（雑貨）](Categories/category_5.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [Korean tea](Items/Trade Goods/TradeGoods-Sunddries/item_3751.md) | [Trading goods (hobby goods)](Categories/category_10.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [Korean silver](Items/Trade Goods/TradeGoods-Metals/item_3796.md) | [Trading products (precious metals)](Categories/category_8.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [purple root](Items/Trade Goods/TradeGoods-Dye/item_3752.md) | [Trading Goods (Dye)](Categories/category_2.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [tiger skin](Items/Trade Goods/TradeGoods-Fibers/item_3790.md) | [交易品（繊維）](Categories/category_1.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [tiger eye stone](Items/Trade Goods/TradeGoods-Gems/item_3797.md) | [Trading Items (Gemstones)](Categories/category_15.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [Mother-of-pearl lacquerware](Items/Trade Goods/TradeGoods-Art/item_3785.md) | [交易品（美術品）](Categories/category_14.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [raspberry](Items/Trade Goods/TradeGoods-Sunddries/item_5419.md) | [Trading goods (hobby goods)](Categories/category_10.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [韓牛](Items/Trade Goods/TradeGoods-Livestock/item_3792.md) | [Trading Goods (Livestock)](Categories/category_18.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [韓紙](Items/Trade Goods/TradeGoods-Wares/item_3755.md) | [交易品（工業品）](Categories/category_19.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [Goryeo celadon](Items/Trade Goods/TradeGoods-Luxuries/item_3758.md) | [Trading goods (artificial goods)](Categories/category_13.md) | [Edit Purchase Price](Ports/port_178.md) |  |
-| [medical stone](Items/Trade Goods/TradeGoods-Minerals/item_3786.md) | [Trading Items (Iron Stone)](Categories/category_7.md) | [Edit Purchase Price](Ports/port_178.md) |  |
+| [Sanshou](docs/Items/TradeGoods/TradeGoods-Spices/item_3794.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [Chamtashima](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_3771.md) | [Trading items (food items)](docs/Categories/category_3.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [Choshi](docs/Items/TradeGoods/TradeGoods-Seasonings/item_3793.md) | [交易品（調味料）](docs/Categories/category_4.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [Chindarle](docs/Items/TradeGoods/TradeGoods-Perfume/item_3795.md) | [Trading Goods (Spices)](docs/Categories/category_11.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [broadsword](docs/Items/TradeGoods/TradeGoods-Weapons/item_3754.md) | [Trading Items (Arms)](docs/Categories/category_16.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [Andong soju](docs/Items/TradeGoods/TradeGoods-Alcohol/item_3757.md) | [交易品（酒類）](docs/Categories/category_9.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [throwing bomb](docs/Items/TradeGoods/TradeGoods-Firearms/item_3784.md) | [Trading Items (Firearms)](docs/Categories/category_17.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [明紬](docs/Items/TradeGoods/TradeGoods-Fabrics/item_3753.md) | [交易品（織物）](docs/Categories/category_20.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [Korean ginseng](docs/Items/TradeGoods/TradeGoods-Medicine/item_3738.md) | [Trading products (medical products)](docs/Categories/category_6.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [Korean books](docs/Items/TradeGoods/TradeGoods-Misc/item_3750.md) | [交易品（雑貨）](docs/Categories/category_5.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [Korean tea](docs/Items/TradeGoods/TradeGoods-Sunddries/item_3751.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [Korean silver](docs/Items/TradeGoods/TradeGoods-Metals/item_3796.md) | [Trading products (precious metals)](docs/Categories/category_8.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [purple root](docs/Items/TradeGoods/TradeGoods-Dye/item_3752.md) | [Trading Goods (Dye)](docs/Categories/category_2.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [tiger skin](docs/Items/TradeGoods/TradeGoods-Fibers/item_3790.md) | [交易品（繊維）](docs/Categories/category_1.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [tiger eye stone](docs/Items/TradeGoods/TradeGoods-Gems/item_3797.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [Mother-of-pearl lacquerware](docs/Items/TradeGoods/TradeGoods-Art/item_3785.md) | [交易品（美術品）](docs/Categories/category_14.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [raspberry](docs/Items/TradeGoods/TradeGoods-Sunddries/item_5419.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [韓牛](docs/Items/TradeGoods/TradeGoods-Livestock/item_3792.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [韓紙](docs/Items/TradeGoods/TradeGoods-Wares/item_3755.md) | [交易品（工業品）](docs/Categories/category_19.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [Goryeo celadon](docs/Items/TradeGoods/TradeGoods-Luxuries/item_3758.md) | [Trading goods (artificial goods)](docs/Categories/category_13.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
+| [medical stone](docs/Items/TradeGoods/TradeGoods-Minerals/item_3786.md) | [Trading Items (Iron Stone)](docs/Categories/category_7.md) | [Edit Purchase Price](docs/Ports/port_178.md) |  |
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
@@ -88,34 +88,34 @@ The reading is "Pohan". Located on the east coast of the Korean Peninsula. There
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [East Asian accessories/sewing edition](Items/Recipe Book/item_3387.md) | recipe book | 800,000 | tool shop owner |  |
+| [East Asian accessories/sewing edition](docs/Items/RecipeBooks/item_3387.md) | recipe book | 800,000 | tool shop owner |  |
 
-#### [Equipment (head)](Categories/category_23.md)
+#### [Equipment (head)](docs/Categories/category_23.md)
 
-| [Ayanmo](Items/Equipment/Equipment-Head/item_3605.md) | Equipment (head) | 102,000 | tool shop owner |  |
-| [Samo](Items/Equipment/Equipment-Head/item_3582.md) | Equipment (head) | 102,000 | tool shop owner |  |
+| [Ayanmo](docs/Items/Equipment/Equipment-Head/item_3605.md) | Equipment (head) | 102,000 | tool shop owner |  |
+| [Samo](docs/Items/Equipment/Equipment-Head/item_3582.md) | Equipment (head) | 102,000 | tool shop owner |  |
 
-#### [Equipment (body)](Categories/category_24.md)
+#### [Equipment (body)](docs/Categories/category_24.md)
 
-| [Bajijeogori](Items/Equipment/Equipment-Body/item_3740.md) | Equipment (body) | 154,000 | tool shop owner |  |
+| [Bajijeogori](docs/Items/Equipment/Equipment-Body/item_3740.md) | Equipment (body) | 154,000 | tool shop owner |  |
 
-#### [Equipment (legs)](Categories/category_26.md)
+#### [Equipment (legs)](docs/Categories/category_26.md)
 
-| [Kossin](Items/Equipment/Equipment-Feet/item_3554.md) | Equipment (legs) | 56,000 | tool shop owner |  |
-| [zip thin](Items/Equipment/Equipment-Feet/item_3619.md) | Equipment (legs) | 48,000 | tool shop owner |  |
-| [Mocka](Items/Equipment/Equipment-Feet/item_3440.md) | Equipment (legs) | 56,000 | tool shop owner |  |
+| [Kossin](docs/Items/Equipment/Equipment-Feet/item_3554.md) | Equipment (legs) | 56,000 | tool shop owner |  |
+| [zip thin](docs/Items/Equipment/Equipment-Feet/item_3619.md) | Equipment (legs) | 48,000 | tool shop owner |  |
+| [Mocka](docs/Items/Equipment/Equipment-Feet/item_3440.md) | Equipment (legs) | 56,000 | tool shop owner |  |
 
-#### [Consumables (land battle/deck battle)](Categories/category_29.md)
+#### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
 
-| [strong adhesive oil](Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
-| [torch for throwing](Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
-| [secret cure](Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
+| [strong adhesive oil](docs/Items/Consumables/Consumables-Landbattle/item_662.md) | Consumables (land battle/deck battle) | 200 | tool shop owner |  |
+| [torch for throwing](docs/Items/Consumables/Consumables-Landbattle/item_313.md) | Consumables (land battle/deck battle) | 150 | tool shop owner |  |
+| [secret cure](docs/Items/Consumables/Consumables-Landbattle/item_563.md) | Consumables (land battle/deck battle) | 600 | tool shop owner |  |
 
-#### [Consumables (skill activation)](Categories/category_31.md)
+#### [Consumables (skill activation)](docs/Categories/category_31.md)
 
-| [fishing gear](Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
+| [fishing gear](docs/Items/Consumables/Consumables-Skill/item_79.md) | Consumables (skill activation) | 2,500 | tool shop owner |  |
   </TabItem>
   <TabItem value="shipyard" label="Shipyard">
 
@@ -124,24 +124,24 @@ The reading is "Pohan". Located on the east coast of the Korean Peninsula. There
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [Boat](Categories/category_43.md)
+#### [Boat](docs/Categories/category_43.md)
 
-| [send ship](Items/Ships/item_3766.md) | Boat | 8,400,000 | Shipyard Master |  |
-| [Battleship](Items/Ships/item_3767.md) | Boat | 16,600,000 | Shipyard Master |  |
-| [漕運船](Items/Ships/item_3765.md) | Boat | 7,900,000 | Shipyard Master |  |
+| [send ship](docs/Items/Ships/item_3766.md) | Boat | 8,400,000 | Shipyard Master |  |
+| [Battleship](docs/Items/Ships/item_3767.md) | Boat | 16,600,000 | Shipyard Master |  |
+| [漕運船](docs/Items/Ships/item_3765.md) | Boat | 7,900,000 | Shipyard Master |  |
 
 ### Shipwright
 
 | item | group | Sales price | Handling NPC | remarks |
 | --- | --- | --- | --- | --- |
 
-#### [recipe book](Categories/category_22.md)
+#### [recipe book](docs/Categories/category_22.md)
 
-| [East Asian cabin design methods](Items/Recipe Book/item_3397.md) | recipe book | Fixed recipe | Shipwright |  |
+| [East Asian cabin design methods](docs/Items/RecipeBooks/item_3397.md) | recipe book | Fixed recipe | Shipwright |  |
 
-#### [shipbuilding materials](Categories/category_47.md)
+#### [shipbuilding materials](docs/Categories/category_47.md)
 
-| [assault cabin](Items/Shipbuilding FS Material/item_3568.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
-| [East Asia trade hold](Items/Shipbuilding FS Material/item_3537.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
+| [assault cabin](docs/Items/ShipbuildingFS/item_3568.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
+| [East Asia trade hold](docs/Items/ShipbuildingFS/item_3537.md) | shipbuilding materials | Fixed recipe | Shipwright |  |
   </TabItem>
 </Tabs>

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Animal with horns and mane](Quests/Adventure/quest_393.md)** | Adventure quest (5) | Ecological Survey (3) Biology (5) Portuguese | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Animal with horns and mane](docs/Quests/Adventure/1-1000/quest_393.md)** | Adventure quest (5) | Ecological Survey (3) Biology (5) Portuguese | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 70 |

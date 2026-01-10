@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars appearing in the epic](Quests/Adventure/quest_3895.md)** | Adventure Quest (5) Mythology Era | Astronomy (6) Visual recognition (4) Italian | Reward: 340,000 / Advance payment: 30,000 Experience: 360 / Fame: 150 |
+| **[Stars appearing in the epic](docs/Quests/Adventure/3001-4000/quest_3895.md)** | Adventure Quest (5) Mythology Era | Astronomy (6) Visual recognition (4) Italian | Reward: 340,000 / Advance payment: 30,000 Experience: 360 / Fame: 150 |

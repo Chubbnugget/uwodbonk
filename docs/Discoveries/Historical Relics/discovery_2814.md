@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Swirl-patterned earthenware](Quests/Adventure/quest_5455.md)** | Adventure quest (6) | Exploration (6) Archeology (8) Unlocking (6) | Reward: 139,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |
+| **[Swirl-patterned earthenware](docs/Quests/Adventure/5001-6000/quest_5455.md)** | Adventure quest (6) | Exploration (6) Archeology (8) Unlocking (6) | Reward: 139,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |

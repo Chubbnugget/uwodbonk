@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Memories of the Silver Mine](Quests/Other/quest_3536.md)** | Treasure hunting (5) | Geography (9) Visual recognition (7) Treasures appraisal (5) | Experience: 1,480/ Reputation: 1,180 |
+| **[Memories of the Silver Mine](docs/Quests/Other/3001-4000/quest_3536.md)** | Treasure hunting (5) | Geography (9) Visual recognition (7) Treasures appraisal (5) | Experience: 1,480/ Reputation: 1,180 |

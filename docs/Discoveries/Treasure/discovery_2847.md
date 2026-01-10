@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Music from distant lands](Quests/Adventure/quest_5515.md)** | Adventure quest (8) | Exploration (5) Treasures Appraisal (7) Swahili | Reward: 137,000/ Advance: 10,000 Experience: 170/ Fame: 95 |
+| **[Music from distant lands](docs/Quests/Adventure/5001-6000/quest_5515.md)** | Adventure quest (8) | Exploration (5) Treasures Appraisal (7) Swahili | Reward: 137,000/ Advance: 10,000 Experience: 170/ Fame: 95 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Earth-colored pot map](Quests/Other/quest_5208.md)** | Re-examination reward (12) | Exploration(12)Archaeology(12) |  |
+| **[Earth-colored pot map](docs/Quests/Other/5001-6000/quest_5208.md)** | Re-examination reward (12) | Exploration(12)Archaeology(12) |  |

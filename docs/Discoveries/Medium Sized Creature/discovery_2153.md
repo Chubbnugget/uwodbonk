@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of deer-like animals](Quests/Other/quest_2369.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：150 |
+| **[Map of deer-like animals](docs/Quests/Other/2001-3000/quest_2369.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：150 |

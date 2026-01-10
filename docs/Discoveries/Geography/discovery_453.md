@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Scented Sea](Quests/Adventure/quest_1315.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 114,000 / Advance payment: 0Experience: 245 / Fame: 85 |
+| **[Scented Sea](docs/Quests/Adventure/1001-2000/quest_1315.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 114,000 / Advance payment: 0Experience: 245 / Fame: 85 |

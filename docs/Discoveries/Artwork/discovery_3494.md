@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of the cow monster](Quests/Other/quest_6414.md)** | Pursuit Quest (4) Myth Era | Exploration (11) Art (13) Greek | Reward: 230,000 Experience: 410 |
+| **[Additional investigation of the cow monster](docs/Quests/Other/6001-7000/quest_6414.md)** | Pursuit Quest (4) Myth Era | Exploration (11) Art (13) Greek | Reward: 230,000 Experience: 410 |

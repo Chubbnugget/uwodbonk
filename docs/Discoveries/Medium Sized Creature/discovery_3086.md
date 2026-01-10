@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Poisonous Serpent](Quests/Adventure/quest_5823.md)** | Adventure quest (5) | Ecological research (9) Biology (11) North American languages ​​(1) | Reward: 619,000 / Advance payment: 60,000 Experience: 470 / Fame: 295 |
+| **[Poisonous Serpent](docs/Quests/Adventure/5001-6000/quest_5823.md)** | Adventure quest (5) | Ecological research (9) Biology (11) North American languages ​​(1) | Reward: 619,000 / Advance payment: 60,000 Experience: 470 / Fame: 295 |

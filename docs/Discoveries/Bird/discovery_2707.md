@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Vultures of southern Africa](Quests/Adventure/quest_5293.md)** | Adventure quest (5) | Ecological research (5) Biology (7) West African languages | Reward: 219,000 / Advance payment: 20,000 Experience: 220 / Fame: 130 |
+| **[Vultures of southern Africa](docs/Quests/Adventure/5001-6000/quest_5293.md)** | Adventure quest (5) | Ecological research (5) Biology (7) West African languages | Reward: 219,000 / Advance payment: 20,000 Experience: 220 / Fame: 130 |

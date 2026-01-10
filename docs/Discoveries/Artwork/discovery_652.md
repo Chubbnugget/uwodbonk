@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Detailed figure drawing](Quests/Adventure/quest_605.md)** | Adventure quest (4) 16th century 4th period | Exploration (1) Art (3) French | Reward: 22,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Detailed figure drawing](docs/Quests/Adventure/1-1000/quest_605.md)** | Adventure quest (4) 16th century 4th period | Exploration (1) Art (3) French | Reward: 22,000 / Advance payment: 0Experience: 140 / Fame: 70 |

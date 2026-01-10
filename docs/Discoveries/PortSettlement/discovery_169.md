@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[London](Quests/Other/quest_5179.md)** | Port/village (1) | - |  |
+| **[London](docs/Quests/Other/5001-6000/quest_5179.md)** | Port/village (1) | - |  |

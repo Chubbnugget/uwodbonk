@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue Map](Quests/Other/quest_1846.md)** | Religious Studies(4) | Religious Studies (4) Exploration (4) Unlocking (4) | Experience：150 |
+| **[Statue Map](docs/Quests/Other/1001-2000/quest_1846.md)** | Religious Studies(4) | Religious Studies (4) Exploration (4) Unlocking (4) | Experience：150 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Running Bird Map](Quests/Other/quest_5384.md)** | Re-examination reward (8) | Ecological Survey(8)Biology(8) |  |
+| **[Running Bird Map](docs/Quests/Other/5001-6000/quest_5384.md)** | Re-examination reward (8) | Ecological Survey(8)Biology(8) |  |

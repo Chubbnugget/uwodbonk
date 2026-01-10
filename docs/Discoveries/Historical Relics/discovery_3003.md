@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A person named Genghis Khan](Quests/Adventure/quest_5705.md)** | Adventure quest (10) 14th century | Exploration(15)Archaeology(17)Chinese | Remuneration: 488,000 / Advance payment: 40,000 |
+| **[A person named Genghis Khan](docs/Quests/Adventure/5001-6000/quest_5705.md)** | Adventure quest (10) 14th century | Exploration(15)Archaeology(17)Chinese | Remuneration: 488,000 / Advance payment: 40,000 |

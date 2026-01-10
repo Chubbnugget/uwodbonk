@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Treasure trove of Baekje culture](Quests/Adventure/quest_6649.md)** | Adventure quest (7) | Archeology (10) Visualization (8) Korean (1) | Reward: 228,000 / Advance payment: 20,000 Experience: 260 / Fame: 115 |
+| **[Treasure trove of Baekje culture](docs/Quests/Adventure/6001-7000/quest_6649.md)** | Adventure quest (7) | Archeology (10) Visualization (8) Korean (1) | Reward: 228,000 / Advance payment: 20,000 Experience: 260 / Fame: 115 |

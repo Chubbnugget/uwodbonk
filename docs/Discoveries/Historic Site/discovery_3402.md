@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Shadow of Granada](Quests/Adventure/quest_6299.md)** | Adventure Quest (10) 16th Century 2nd Period | Archeology (15) Visualization (13) Arabic | Reward: 181,000 / Advance payment: 10,000 Experience: 200 / Fame: 100 |
+| **[Shadow of Granada](docs/Quests/Adventure/6001-7000/quest_6299.md)** | Adventure Quest (10) 16th Century 2nd Period | Archeology (15) Visualization (13) Arabic | Reward: 181,000 / Advance payment: 10,000 Experience: 200 / Fame: 100 |

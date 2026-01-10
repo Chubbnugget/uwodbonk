@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of animals with bags](Quests/Other/quest_1471.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Map of animals with bags](docs/Quests/Other/1001-2000/quest_1471.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

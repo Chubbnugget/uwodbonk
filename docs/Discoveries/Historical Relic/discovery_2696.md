@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Story of a Ruined Country](Quests/Other/quest_5272.md)** | Treasure hunting (9) | Exploration (13) Archeology (15) Greek (1) | Experience: 3,370/ Reputation: 2,690 |
+| **[Story of a Ruined Country](docs/Quests/Other/5001-6000/quest_5272.md)** | Treasure hunting (9) | Exploration (13) Archeology (15) Greek (1) | Experience: 3,370/ Reputation: 2,690 |

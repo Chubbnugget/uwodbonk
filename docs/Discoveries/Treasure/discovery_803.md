@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Specialty souvenirs](Quests/Adventure/quest_2322.md)** | Adventure quest (3) | 探索(2)Treasures鑑定(4)日本語 | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Specialty souvenirs](docs/Quests/Adventure/2001-3000/quest_2322.md)** | Adventure quest (3) | 探索(2)Treasures鑑定(4)日本語 | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |

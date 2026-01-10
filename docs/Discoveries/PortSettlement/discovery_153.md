@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mozambique](Quests/Other/quest_5163.md)** | Port/village (1) | - |  |
+| **[Mozambique](docs/Quests/Other/5001-6000/quest_5163.md)** | Port/village (1) | - |  |

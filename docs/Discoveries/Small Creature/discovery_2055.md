@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flying cat](Quests/Adventure/quest_1295.md)** | Adventure quest (8) | Ecological research (8) Biology (10) Mon-Khmer languages | Reward: 100,000 / Advance payment: 10,000 Experience: 420 / Fame: 140 |
+| **[Flying cat](docs/Quests/Adventure/1001-2000/quest_1295.md)** | Adventure quest (8) | Ecological research (8) Biology (10) Mon-Khmer languages | Reward: 100,000 / Advance payment: 10,000 Experience: 420 / Fame: 140 |

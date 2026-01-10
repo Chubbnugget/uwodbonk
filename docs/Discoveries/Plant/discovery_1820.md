@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Plants that honor the king](Quests/Adventure/quest_2720.md)** | Adventure Quest (5) 15th Century 4th Period | Ecological research (5) Biology (7) Korean (1) | Reward: 122,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |
+| **[Plants that honor the king](docs/Quests/Adventure/2001-3000/quest_2720.md)** | Adventure Quest (5) 15th Century 4th Period | Ecological research (5) Biology (7) Korean (1) | Reward: 122,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |

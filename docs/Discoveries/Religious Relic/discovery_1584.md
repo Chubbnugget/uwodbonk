@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of religious books](Quests/Other/quest_2873.md)** | Religious Studies(9) | Religious Studies(9)Exploration(9) |  |
+| **[Map of religious books](docs/Quests/Other/2001-3000/quest_2873.md)** | Religious Studies(9) | Religious Studies(9)Exploration(9) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ternate](Quests/Other/quest_5094.md)** | Port/village (1) | - |  |
+| **[Ternate](docs/Quests/Other/5001-6000/quest_5094.md)** | Port/village (1) | - |  |

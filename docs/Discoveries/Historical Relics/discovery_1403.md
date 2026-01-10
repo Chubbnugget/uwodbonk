@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bronzeware of Anatolia](Quests/Adventure/quest_17.md)** | Adventure quest (5) | Exploration (4) Archeology (6) Unlocking (4) | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 70 |
+| **[Bronzeware of Anatolia](docs/Quests/Adventure/1-1000/quest_17.md)** | Adventure quest (5) | Exploration (4) Archeology (6) Unlocking (4) | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 70 |

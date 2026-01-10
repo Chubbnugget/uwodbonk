@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fairies dancing in the snow](Quests/Adventure/quest_6766.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Norse (1) | Reward: 420,000/Advance payment: 40,000Experience: 615 |
+| **[Fairies dancing in the snow](docs/Quests/Adventure/6001-7000/quest_6766.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Norse (1) | Reward: 420,000/Advance payment: 40,000Experience: 615 |

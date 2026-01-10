@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flower named after sword](Quests/Adventure/quest_6929.md)** | Adventure quest (6) | Ecological research (6) Biology (8) West African languages ​​(1) | Reward: 230,000/Advance: 20,000Experience: 230 |
+| **[Flower named after sword](docs/Quests/Adventure/6001-7000/quest_6929.md)** | Adventure quest (6) | Ecological research (6) Biology (8) West African languages ​​(1) | Reward: 230,000/Advance: 20,000Experience: 230 |

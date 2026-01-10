@@ -30,4 +30,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dividing the world](Quests/Adventure/quest_6113.md)** | Adventure quest (7) | Archeology (10) Visualization (8) Chinese | Reward: 148,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |
+| **[Dividing the world](docs/Quests/Adventure/6001-7000/quest_6113.md)** | Adventure quest (7) | Archeology (10) Visualization (8) Chinese | Reward: 148,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |

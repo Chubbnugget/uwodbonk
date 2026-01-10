@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Following my sister](Quests/Adventure/quest_5704.md)** | Adventure quest (8) | Geography (9) Visualization (7) Arabic (1) | Reward: 495,000 / Advance payment: 40,000 Experience: 400 / Fame: 490 |
+| **[Following my sister](docs/Quests/Adventure/5001-6000/quest_5704.md)** | Adventure quest (8) | Geography (9) Visualization (7) Arabic (1) | Reward: 495,000 / Advance payment: 40,000 Experience: 400 / Fame: 490 |

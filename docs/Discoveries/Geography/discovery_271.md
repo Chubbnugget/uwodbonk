@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indian Ocean Island](Quests/Adventure/quest_74.md)** | Adventure quest (5) | Geography (3) Visual recognition (1) Swahili | Reward: 180,000 / Advance payment: 0Experience: 500 / Fame: 275 |
+| **[Indian Ocean Island](docs/Quests/Adventure/1-1000/quest_74.md)** | Adventure quest (5) | Geography (3) Visual recognition (1) Swahili | Reward: 180,000 / Advance payment: 0Experience: 500 / Fame: 275 |

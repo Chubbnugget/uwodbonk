@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Food base supporting Edo](Quests/Adventure/quest_2347.md)** | Adventure quest (3) | Geography (4) Visual recognition (2) Japanese | Reward: 102,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[Food base supporting Edo](docs/Quests/Adventure/2001-3000/quest_2347.md)** | Adventure quest (3) | Geography (4) Visual recognition (2) Japanese | Reward: 102,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

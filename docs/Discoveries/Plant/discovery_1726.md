@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Delicate Flower Map](Quests/Other/quest_1568.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |
+| **[Delicate Flower Map](docs/Quests/Other/1001-2000/quest_1568.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |

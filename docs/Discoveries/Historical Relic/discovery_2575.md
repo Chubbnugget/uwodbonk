@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Aladdin's Lamp](Quests/Other/quest_3553.md)** | Treasure hunting (7) | Exploration (10) Treasures Appraisal (12) Arabic |  |
+| **[Aladdin's Lamp](docs/Quests/Other/3001-4000/quest_3553.md)** | Treasure hunting (7) | Exploration (10) Treasures Appraisal (12) Arabic |  |

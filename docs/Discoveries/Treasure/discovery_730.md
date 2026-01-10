@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Deceiving harp](Quests/Adventure/quest_705.md)** | Adventure Quest (8) Mythology Era | Exploration (7) Treasures Appraisal (9) Unlocking (7) | Reward: 140,000 / Advance payment: 20,000 Experience: 170 / Fame: 90 |
+| **[Deceiving harp](docs/Quests/Adventure/1-1000/quest_705.md)** | Adventure Quest (8) Mythology Era | Exploration (7) Treasures Appraisal (9) Unlocking (7) | Reward: 140,000 / Advance payment: 20,000 Experience: 170 / Fame: 90 |

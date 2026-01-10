@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Staff of the Saint](Quests/Adventure/quest_2341.md)** | Adventure quest (6) | Religious Studies (7) Exploration (5) Unlocking (5) | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Staff of the Saint](docs/Quests/Adventure/2001-3000/quest_2341.md)** | Adventure quest (6) | Religious Studies (7) Exploration (5) Unlocking (5) | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 65 |

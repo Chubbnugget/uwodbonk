@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Great Book of Wisdom](Quests/Adventure/quest_5229.md)** | Adventure quest (4) | Astronomy(3)Exploration(5)Treasures Identification(7) | Reward: 93,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Great Book of Wisdom](docs/Quests/Adventure/5001-6000/quest_5229.md)** | Adventure quest (4) | Astronomy(3)Exploration(5)Treasures Identification(7) | Reward: 93,000 / Advance payment: 0Experience: 150 / Fame: 75 |

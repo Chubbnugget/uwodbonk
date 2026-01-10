@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Colossus Light Dish](Quests/Other/quest_6477.md)** | Legacy(1) | - |  |
+| **[Colossus Light Dish](docs/Quests/Other/6001-7000/quest_6477.md)** | Legacy(1) | - |  |

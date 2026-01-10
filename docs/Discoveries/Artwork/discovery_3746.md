@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on woodblock prints](Quests/Other/quest_6699.md)** | Pursuit quest (7) | Exploration (8) Art (10) German | Reward: 330,000 / Advance payment: 0Experience: 340 |
+| **[Additional research on woodblock prints](docs/Quests/Other/6001-7000/quest_6699.md)** | Pursuit quest (7) | Exploration (8) Art (10) German | Reward: 330,000 / Advance payment: 0Experience: 340 |

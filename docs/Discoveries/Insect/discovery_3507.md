@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of corn beetles](Quests/Other/quest_6429.md)** | Pursuit quest (3) | Ecological Survey (8) Biology (10) Malayu Tagalog (1) | Remuneration: 170,000/ Advance payment: 0 |
+| **[Additional investigation of corn beetles](docs/Quests/Other/6001-7000/quest_6429.md)** | Pursuit quest (3) | Ecological Survey (8) Biology (10) Malayu Tagalog (1) | Remuneration: 170,000/ Advance payment: 0 |

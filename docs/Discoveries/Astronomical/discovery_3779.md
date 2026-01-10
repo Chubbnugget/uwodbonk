@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Milfaku](Quests/Other/quest_6737.md)** | Celestial Object Discovery Name(13)15th Century Issue 4 | Astronomy(13)Visualization(13) | Experience：1,120 |
+| **[Milfaku](docs/Quests/Other/6001-7000/quest_6737.md)** | Celestial Object Discovery Name(13)15th Century Issue 4 | Astronomy(13)Visualization(13) | Experience：1,120 |

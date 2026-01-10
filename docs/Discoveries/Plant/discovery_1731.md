@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Green pit](Quests/Adventure/quest_2968.md)** | Adventure quest (5) | Ecological research (7) Biology (9) Spanish (1) | Reward: 198,000 / Advance payment: 10,000 Experience: 250 / Fame: 110 |
+| **[Green pit](docs/Quests/Adventure/2001-3000/quest_2968.md)** | Adventure quest (5) | Ecological research (7) Biology (9) Spanish (1) | Reward: 198,000 / Advance payment: 10,000 Experience: 250 / Fame: 110 |

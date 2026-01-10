@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Synthesis result](Quests/Adventure/quest_5799.md)** | Adventure quest (10) | Religious Studies (17) Visualization (15) Greek | Reward: 463,000 / Advance payment: 40,000 Experience: 380 / Fame: 230 |
+| **[Synthesis result](docs/Quests/Adventure/5001-6000/quest_5799.md)** | Adventure quest (10) | Religious Studies (17) Visualization (15) Greek | Reward: 463,000 / Advance payment: 40,000 Experience: 380 / Fame: 230 |

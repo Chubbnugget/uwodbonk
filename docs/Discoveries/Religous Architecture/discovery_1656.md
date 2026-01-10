@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Temple of Ramses II](Quests/Adventure/quest_321.md)** | Adventure Quest (7) B.C. | Religious Studies (7) Visual Recognition (5) Arabic | Reward: 240,000 / Advance payment: 10,000 Experience: 200 / Fame: 95 |
+| **[Temple of Ramses II](docs/Quests/Adventure/1-1000/quest_321.md)** | Adventure Quest (7) B.C. | Religious Studies (7) Visual Recognition (5) Arabic | Reward: 240,000 / Advance payment: 10,000 Experience: 200 / Fame: 95 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White Mermaid](Quests/Adventure/quest_6686.md)** | Adventure quest (8) | Ecological research (9) Biology (11) Norse (1) | Reward: 270,000/Advance payment: 30,000Experience: 270 |
+| **[White Mermaid](docs/Quests/Adventure/6001-7000/quest_6686.md)** | Adventure quest (8) | Ecological research (9) Biology (11) Norse (1) | Reward: 270,000/Advance payment: 30,000Experience: 270 |

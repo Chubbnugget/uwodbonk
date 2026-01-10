@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Egyptian murals](Quests/Other/quest_92.md)** | Religious Studies(5) | Religious Studies(5)Exploration(5) | Experience: 97/ Reputation: 48 |
+| **[Map of Egyptian murals](docs/Quests/Other/1-1000/quest_92.md)** | Religious Studies(5) | Religious Studies(5)Exploration(5) | Experience: 97/ Reputation: 48 |

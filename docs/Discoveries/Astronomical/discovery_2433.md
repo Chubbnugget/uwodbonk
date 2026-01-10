@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Aldebaran](Quests/Other/quest_3786.md)** | Celestial Object Discovery Name(3)16th Century Issue 2 | Astronomy(3) | Experience：450 |
+| **[Aldebaran](docs/Quests/Other/3001-4000/quest_3786.md)** | Celestial Object Discovery Name(3)16th Century Issue 2 | Astronomy(3) | Experience：450 |

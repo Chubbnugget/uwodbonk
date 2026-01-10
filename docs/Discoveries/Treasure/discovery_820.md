@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mongol bow technology](Quests/Adventure/quest_3636.md)** | Adventure quest (8) 14th century | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 1,218,000/Advance payment: 120,000Experience: 1,090 |
+| **[Mongol bow technology](docs/Quests/Adventure/3001-4000/quest_3636.md)** | Adventure quest (8) 14th century | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 1,218,000/Advance payment: 120,000Experience: 1,090 |

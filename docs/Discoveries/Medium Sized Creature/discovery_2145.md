@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Proud dog](Quests/Adventure/quest_2652.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Korean | Reward: 75,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Proud dog](docs/Quests/Adventure/2001-3000/quest_2652.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Korean | Reward: 75,000 / Advance payment: 0Experience: 140 / Fame: 65 |

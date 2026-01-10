@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Intermediate Adventure Course Completion Certification Exam](Quests/Adventure/quest_5986.md)** | Adventure quest (2) | Ecological research (1) Biology (1) Spanish | Reward: 80,000 Experience: 1,500 / Fame: 1,000 |
-| **[Glowing insect](Quests/Adventure/quest_571.md)** | Adventure quest (3) | Ecological research (1) Biology (1) Portuguese | Reward: 9,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Intermediate Adventure Course Completion Certification Exam](docs/Quests/Adventure/5001-6000/quest_5986.md)** | Adventure quest (2) | Ecological research (1) Biology (1) Spanish | Reward: 80,000 Experience: 1,500 / Fame: 1,000 |
+| **[Glowing insect](docs/Quests/Adventure/1-1000/quest_571.md)** | Adventure quest (3) | Ecological research (1) Biology (1) Portuguese | Reward: 9,000 / Advance payment: 0Experience: 130 / Fame: 65 |

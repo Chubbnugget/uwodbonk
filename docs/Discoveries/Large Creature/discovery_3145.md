@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Looking for the missing black](Quests/Adventure/quest_5886.md)** | Adventure quest (10) | Ecological Survey (15) Biology (17) Dutch | Reward: 140,000 / Advance payment: 10,000 Experience: 170 / Fame: 190 |
+| **[Looking for the missing black](docs/Quests/Adventure/5001-6000/quest_5886.md)** | Adventure quest (10) | Ecological Survey (15) Biology (17) Dutch | Reward: 140,000 / Advance payment: 10,000 Experience: 170 / Fame: 190 |

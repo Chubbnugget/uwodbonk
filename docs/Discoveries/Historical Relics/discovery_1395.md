@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Vikings' Battlefield](Quests/Adventure/quest_3231.md)** | Adventure quest (9) | Exploration (11) Archeology (13) Unlocking (11) | Reward: 150,000/Advance payment: 30,000Experience: 280 |
+| **[Vikings' Battlefield](docs/Quests/Adventure/3001-4000/quest_3231.md)** | Adventure quest (9) | Exploration (11) Archeology (13) Unlocking (11) | Reward: 150,000/Advance payment: 30,000Experience: 280 |

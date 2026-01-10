@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Northern key point](Quests/Adventure/quest_3414.md)** | Adventure quest (1) | Geography (1) Visual recognition (1) Norse | Reward: 76,000 / Advance payment: 0Experience: 160 / Fame: 80 |
+| **[Northern key point](docs/Quests/Adventure/3001-4000/quest_3414.md)** | Adventure quest (1) | Geography (1) Visual recognition (1) Norse | Reward: 76,000 / Advance payment: 0Experience: 160 / Fame: 80 |

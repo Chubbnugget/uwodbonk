@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Stone Map](Quests/Other/quest_6038.md)** | Biology学(8) | Explore(8)Biology(8) |  |
+| **[Strange Stone Map](docs/Quests/Other/6001-7000/quest_6038.md)** | Biology学(8) | Explore(8)Biology(8) |  |

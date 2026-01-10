@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Another North Pole Stars](Quests/Adventure/quest_5696.md)** | Adventure quest (6) | Astronomy (8) Visualization (6) Arabic | Reward: 404,000 / Advance payment: 4,000 Experience: 340 / Fame: 205 |
+| **[Another North Pole Stars](docs/Quests/Adventure/5001-6000/quest_5696.md)** | Adventure quest (6) | Astronomy (8) Visualization (6) Arabic | Reward: 404,000 / Advance payment: 4,000 Experience: 340 / Fame: 205 |

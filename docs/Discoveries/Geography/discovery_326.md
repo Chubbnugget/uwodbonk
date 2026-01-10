@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Road to the west coast of the New World](Quests/Adventure/quest_1210.md)** | Adventure Quest (4) 15th Century 5th Period | Geography (4) Visual recognition (2) Spanish | Reward: 50,000/ Advance payment: 1,000 Experience: 165/ Fame: 65 |
+| **[Road to the west coast of the New World](docs/Quests/Adventure/1001-2000/quest_1210.md)** | Adventure Quest (4) 15th Century 5th Period | Geography (4) Visual recognition (2) Spanish | Reward: 50,000/ Advance payment: 1,000 Experience: 165/ Fame: 65 |

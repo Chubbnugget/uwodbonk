@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big Fish Map](Quests/Other/quest_2710.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：230 |
+| **[Big Fish Map](docs/Quests/Other/2001-3000/quest_2710.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：230 |

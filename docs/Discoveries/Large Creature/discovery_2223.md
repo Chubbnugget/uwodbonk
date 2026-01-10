@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Incredible Speed](Quests/Adventure/quest_678.md)** | Adventure quest (8) | Ecological research (8) Biology (10) Swahili | Reward: 249,000 / Advance payment: 10,000 Experience: 210 / Fame: 110 |
+| **[Incredible Speed](docs/Quests/Adventure/1-1000/quest_678.md)** | Adventure quest (8) | Ecological research (8) Biology (10) Swahili | Reward: 249,000 / Advance payment: 10,000 Experience: 210 / Fame: 110 |

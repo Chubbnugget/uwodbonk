@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jawu](Quests/Other/quest_1985.md)** | Fishing (4) | Fishing (4) |  |
+| **[Jawu](docs/Quests/Other/1001-2000/quest_1985.md)** | Fishing (4) | Fishing (4) |  |

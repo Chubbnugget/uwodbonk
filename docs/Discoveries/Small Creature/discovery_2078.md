@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Waterside frog map](Quests/Other/quest_2370.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：90 |
+| **[Waterside frog map](docs/Quests/Other/2001-3000/quest_2370.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：90 |

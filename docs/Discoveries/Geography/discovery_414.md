@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Persian Straits](Quests/Adventure/quest_277.md)** | Adventure quest (5) | Geography (4) Visual recognition (2) | Reward: 52,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Persian Straits](docs/Quests/Adventure/1-1000/quest_277.md)** | Adventure quest (5) | Geography (4) Visual recognition (2) | Reward: 52,000 / Advance payment: 0Experience: 140 / Fame: 70 |

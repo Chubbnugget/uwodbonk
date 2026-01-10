@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Compassionate Biology](Quests/Adventure/quest_6723.md)** | Adventure quest (8) | Ecological research (9) Biology (11) North American languages ​​(1) | Reward: 390,000/Advance payment: 40,000Experience: 360 |
+| **[Compassionate Biology](docs/Quests/Adventure/6001-7000/quest_6723.md)** | Adventure quest (8) | Ecological research (9) Biology (11) North American languages ​​(1) | Reward: 390,000/Advance payment: 40,000Experience: 360 |

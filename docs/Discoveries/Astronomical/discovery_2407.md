@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars constellation in ancient Egypt](Quests/Adventure/quest_3891.md)** | Adventure Quest (6) Mythology Era | Astronomy (8) Visualization (6) Arabic | Reward: 459,000 / Advance payment: 40,000 Experience: 460 / Fame: 185 |
+| **[Stars constellation in ancient Egypt](docs/Quests/Adventure/3001-4000/quest_3891.md)** | Adventure Quest (6) Mythology Era | Astronomy (8) Visualization (6) Arabic | Reward: 459,000 / Advance payment: 40,000 Experience: 460 / Fame: 185 |

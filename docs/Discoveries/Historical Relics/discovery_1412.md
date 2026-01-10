@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[History of the Iron Country](Quests/Adventure/quest_2698.md)** | Adventure quest (3) | Exploration (4) Archeology (6) Unlocking (4) | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[History of the Iron Country](docs/Quests/Adventure/2001-3000/quest_2698.md)** | Adventure quest (3) | Exploration (4) Archeology (6) Unlocking (4) | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |

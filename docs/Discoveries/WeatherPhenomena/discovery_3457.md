@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rime](Quests/Other/quest_6369.md)** | Weather/phenomena (3) | Visual recognition |  |
+| **[Rime](docs/Quests/Other/6001-7000/quest_6369.md)** | Weather/phenomena (3) | Visual recognition |  |

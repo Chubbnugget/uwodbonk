@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation request from a ball game fan](Quests/Adventure/quest_2428.md)** | Adventure quest (5) | 探索(3)Treasures鑑定(5)日本語 | Reward: 402,000 / Advance payment: 40,000 Experience: 380 / Fame: 165 |
+| **[Investigation request from a ball game fan](docs/Quests/Adventure/2001-3000/quest_2428.md)** | Adventure quest (5) | 探索(3)Treasures鑑定(5)日本語 | Reward: 402,000 / Advance payment: 40,000 Experience: 380 / Fame: 165 |

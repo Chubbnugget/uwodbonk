@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Tomb of Cyrus II](Quests/Other/quest_6406.md)** | Legacy(1) | - |  |
+| **[The Tomb of Cyrus II](docs/Quests/Other/6001-7000/quest_6406.md)** | Legacy(1) | - |  |

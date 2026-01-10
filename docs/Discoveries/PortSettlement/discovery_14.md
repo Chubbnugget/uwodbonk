@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Istanbul](Quests/Other/quest_5024.md)** | Port/village (1) | - |  |
+| **[Istanbul](docs/Quests/Other/5001-6000/quest_5024.md)** | Port/village (1) | - |  |

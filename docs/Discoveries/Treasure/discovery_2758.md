@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Those who see, those who guide](Quests/Adventure/quest_5365.md)** | Adventure Quest (3) Mythology Era | 探索(1)Treasures鑑定(1)英語(1) | Reward: 2,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Those who see, those who guide](docs/Quests/Adventure/5001-6000/quest_5365.md)** | Adventure Quest (3) Mythology Era | 探索(1)Treasures鑑定(1)英語(1) | Reward: 2,000 / Advance payment: 0Experience: 130 / Fame: 65 |

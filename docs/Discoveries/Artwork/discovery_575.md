@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Male statue map](Quests/Other/quest_831.md)** | 美術(4) | Exploration (4) Art (4) Unlocking (4) |  |
+| **[Male statue map](docs/Quests/Other/1-1000/quest_831.md)** | 美術(4) | Exploration (4) Art (4) Unlocking (4) |  |

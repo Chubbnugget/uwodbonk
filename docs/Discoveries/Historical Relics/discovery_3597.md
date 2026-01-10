@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dendera Celestial Map](Quests/Other/quest_6529.md)** | Legacy(1) | - | Experience：1,500 |
+| **[Dendera Celestial Map](docs/Quests/Other/6001-7000/quest_6529.md)** | Legacy(1) | - | Experience：1,500 |

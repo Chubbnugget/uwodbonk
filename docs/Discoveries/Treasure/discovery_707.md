@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The most beautiful book in the world](Quests/Adventure/quest_3302.md)** | Adventure quest (5) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 160,000 / Advance payment: 10,000 Experience: 210 / Fame: 95 |
+| **[The most beautiful book in the world](docs/Quests/Adventure/3001-4000/quest_3302.md)** | Adventure quest (5) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 160,000 / Advance payment: 10,000 Experience: 210 / Fame: 95 |

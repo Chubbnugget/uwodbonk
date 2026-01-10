@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Chang Chan Ruins](Quests/Other/quest_6594.md)** | Legacy(1) | - |  |
+| **[Chang Chan Ruins](docs/Quests/Other/6001-7000/quest_6594.md)** | Legacy(1) | - |  |

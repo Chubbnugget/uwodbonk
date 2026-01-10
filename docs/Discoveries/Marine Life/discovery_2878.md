@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Scarlet Fish Map](Quests/Other/quest_5545.md)** | Biology学(7) | Ecological Survey(7)Biology(7) | Experience：220 |
+| **[Scarlet Fish Map](docs/Quests/Other/5001-6000/quest_5545.md)** | Biology学(7) | Ecological Survey(7)Biology(7) | Experience：220 |

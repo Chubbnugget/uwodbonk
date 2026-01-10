@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Studying the Imperial Examination](Quests/Adventure/quest_2838.md)** | Adventure quest (3) | Religious Studies(4)Exploration(2)Chinese(1) | Reward: 65,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Studying the Imperial Examination](docs/Quests/Adventure/2001-3000/quest_2838.md)** | Adventure quest (3) | Religious Studies(4)Exploration(2)Chinese(1) | Reward: 65,000 / Advance payment: 0Experience: 130 / Fame: 65 |

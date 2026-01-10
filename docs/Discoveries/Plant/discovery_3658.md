@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tree of Life](Quests/Adventure/quest_6601.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Arabic | Reward: 270,000/ Advance: 30,000Experience: 260/ Fame: 150 |
+| **[Tree of Life](docs/Quests/Adventure/6001-7000/quest_6601.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Arabic | Reward: 270,000/ Advance: 30,000Experience: 260/ Fame: 150 |

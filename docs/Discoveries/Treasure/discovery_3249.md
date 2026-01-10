@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Famous General and Secretary](Quests/Adventure/quest_6054.md)** | Adventure quest (6) | Exploration (5) Treasures Appraisal (7) Turkish | Reward: 135,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |
+| **[Famous General and Secretary](docs/Quests/Adventure/6001-7000/quest_6054.md)** | Adventure quest (6) | Exploration (5) Treasures Appraisal (7) Turkish | Reward: 135,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |

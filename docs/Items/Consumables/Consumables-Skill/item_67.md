@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | life aid |
 | **Type** | thing |
-| **Group** | [Consumables (skill activation)](Categories/category_31.md) |
-| **Sold by NPC** | [peddler](NPCs/npc_32.md) |
+| **Group** | [Consumables (skill activation)](docs/Categories/category_31.md) |
+| **Sold by NPC** | [peddler](docs/NPCs/npc_32.md) |
 | **Description** | A tool that can rescue ships that are unable to sail. Effect when using: Rescue |
 | **Last Updated** | 2007-09-19 11:41:57 Passing navigator @guest |
 

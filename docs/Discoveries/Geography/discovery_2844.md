@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mysterious Island](Quests/Adventure/quest_5514.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Mysterious Island](docs/Quests/Adventure/5001-6000/quest_5514.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 79,000 / Advance payment: 0Experience: 140 / Fame: 70 |

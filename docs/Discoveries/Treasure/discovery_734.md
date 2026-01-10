@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sonyukasapa](Quests/Adventure/quest_1829.md)** | Adventure Quest (6) 16th Century 3rd Period | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 256,000 / Advance payment: 20,000 Experience: 500 / Fame: 210 |
+| **[Sonyukasapa](docs/Quests/Adventure/1001-2000/quest_1829.md)** | Adventure Quest (6) 16th Century 3rd Period | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 256,000 / Advance payment: 20,000 Experience: 500 / Fame: 210 |

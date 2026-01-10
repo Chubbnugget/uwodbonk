@@ -1,6 +1,6 @@
 ---
 id: 518
-name: "priest's staff"
+name: "\"priest's staff\""
 type:  Item
 ---
 # priest's staff
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | priest's staff |
 | **Type** | thing |
-| **Group** | [Equipment](Categories/category_27.md) |
+| **Group** | [Equipment](docs/Categories/category_27.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 13,600 |
 | **Description** | Durability 20 Formal wear level 1 Attack power 10 Equipable professions Total required fame 800 Weapon type Club/staff |

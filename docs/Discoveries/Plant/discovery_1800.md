@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of red leaf plants](Quests/Other/quest_1485.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |
+| **[Map of red leaf plants](docs/Quests/Other/1001-2000/quest_1485.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |

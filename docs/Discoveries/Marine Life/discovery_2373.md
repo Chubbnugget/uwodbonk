@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Magellanic greenling](Quests/Other/quest_1718.md)** | Fishing (3) | Fishing (3) |  |
+| **[Magellanic greenling](docs/Quests/Other/1001-2000/quest_1718.md)** | Fishing (3) | Fishing (3) |  |

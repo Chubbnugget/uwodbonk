@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gorgeous sutra](Quests/Adventure/quest_2602.md)** | Adventure quest (5) | Religious Studies(6)Explore(4)Japanese | Reward: 123,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |
+| **[Gorgeous sutra](docs/Quests/Adventure/2001-3000/quest_2602.md)** | Adventure quest (5) | Religious Studies(6)Explore(4)Japanese | Reward: 123,000 / Advance payment: 10,000 Experience: 180 / Fame: 80 |

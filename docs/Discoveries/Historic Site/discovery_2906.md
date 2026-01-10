@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hunting using terrain](Quests/Adventure/quest_5586.md)** | Adventure quest (4) | Archeology (6) Visualization (4) North American languages | Reward: 73,300 / Advance payment: 0Experience: 130 / Fame: 70 |
+| **[Hunting using terrain](docs/Quests/Adventure/5001-6000/quest_5586.md)** | Adventure quest (4) | Archeology (6) Visualization (4) North American languages | Reward: 73,300 / Advance payment: 0Experience: 130 / Fame: 70 |

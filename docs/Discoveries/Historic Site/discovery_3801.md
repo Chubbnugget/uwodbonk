@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The true identity of the lady](Quests/Adventure/quest_6760.md)** | Adventure quest (8) | Archeology (12) Visualization (10) Portuguese (1) | Remuneration: 400,000/Advance payment: 40,000 |
+| **[The true identity of the lady](docs/Quests/Adventure/6001-7000/quest_6760.md)** | Adventure quest (8) | Archeology (12) Visualization (10) Portuguese (1) | Remuneration: 400,000/Advance payment: 40,000 |

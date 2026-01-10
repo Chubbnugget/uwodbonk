@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue Marlin](Quests/Other/quest_1634.md)** | Fishing (9) | Fishing (9) |  |
+| **[Blue Marlin](docs/Quests/Other/1001-2000/quest_1634.md)** | Fishing (9) | Fishing (9) |  |

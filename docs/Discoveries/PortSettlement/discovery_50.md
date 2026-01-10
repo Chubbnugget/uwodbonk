@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[San Antonio](Quests/Other/quest_5060.md)** | Port/village (1) | - |  |
+| **[San Antonio](docs/Quests/Other/5001-6000/quest_5060.md)** | Port/village (1) | - |  |

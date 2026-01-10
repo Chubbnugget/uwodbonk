@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dangerous Young Peak](Quests/Adventure/quest_1856.md)** | Adventure Quest (8) 16th Century 2nd Period | Geography (12) Visualization (10) Quechua | Reward: 247,000 / Advance payment: 20,000 Experience: 280 / Fame: 240 |
+| **[Dangerous Young Peak](docs/Quests/Adventure/1001-2000/quest_1856.md)** | Adventure Quest (8) 16th Century 2nd Period | Geography (12) Visualization (10) Quechua | Reward: 247,000 / Advance payment: 20,000 Experience: 280 / Fame: 240 |

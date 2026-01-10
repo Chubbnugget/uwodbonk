@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Monster disturbance at sea](Quests/Adventure/quest_2704.md)** | Adventure quest (5) | Geography (7) Visual recognition (5) Korean (1) | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Monster disturbance at sea](docs/Quests/Adventure/2001-3000/quest_2704.md)** | Adventure quest (5) | Geography (7) Visual recognition (5) Korean (1) | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Roman Philosopher King](Quests/Other/quest_3531.md)** | Treasure hunting (4) | Religious Studies (8) Exploration (6) Latin | Experience：1,580 |
+| **[Roman Philosopher King](docs/Quests/Other/3001-4000/quest_3531.md)** | Treasure hunting (4) | Religious Studies (8) Exploration (6) Latin | Experience：1,580 |

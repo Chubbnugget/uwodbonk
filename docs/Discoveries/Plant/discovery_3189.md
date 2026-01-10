@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rumored Plant](Quests/Adventure/quest_5936.md)** | Adventure quest (6) | Ecological research (7) Biology (9) Portuguese | Reward: 76,000 / Advance payment: 0Experience: 130 / Fame: 70 |
+| **[Rumored Plant](docs/Quests/Adventure/5001-6000/quest_5936.md)** | Adventure quest (6) | Ecological research (7) Biology (9) Portuguese | Reward: 76,000 / Advance payment: 0Experience: 130 / Fame: 70 |

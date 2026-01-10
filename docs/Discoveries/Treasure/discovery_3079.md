@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Longest epic](Quests/Adventure/quest_5811.md)** | Adventure quest (4) | Exploration (4) Treasures Appraisal (6) Turkish | Reward: 156,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |
+| **[Longest epic](docs/Quests/Adventure/5001-6000/quest_5811.md)** | Adventure quest (4) | Exploration (4) Treasures Appraisal (6) Turkish | Reward: 156,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |

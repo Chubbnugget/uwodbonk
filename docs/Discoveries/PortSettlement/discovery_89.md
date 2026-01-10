@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tripoli](Quests/Other/quest_5099.md)** | Port/village (1) | - |  |
+| **[Tripoli](docs/Quests/Other/5001-6000/quest_5099.md)** | Port/village (1) | - |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fairy King of Comedy](Quests/Adventure/quest_5935.md)** | Adventure quest (6) | Astronomy (7) Visual recognition (5) English | Reward: 156,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |
+| **[Fairy King of Comedy](docs/Quests/Adventure/5001-6000/quest_5935.md)** | Adventure quest (6) | Astronomy (7) Visual recognition (5) English | Reward: 156,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |

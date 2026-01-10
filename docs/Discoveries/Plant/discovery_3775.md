@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Under the dead leaves](Quests/Adventure/quest_6715.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Japanese (1) | Reward: 363,500/Advance payment: 40,000Experience: 360 |
+| **[Under the dead leaves](docs/Quests/Adventure/6001-7000/quest_6715.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Japanese (1) | Reward: 363,500/Advance payment: 40,000Experience: 360 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wise King's Unification Project](Quests/Adventure/quest_6045.md)** | Adventure quest (3) | Exploration (2) Archeology (4) Spanish | Reward: 64,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Wise King's Unification Project](docs/Quests/Adventure/6001-7000/quest_6045.md)** | Adventure quest (3) | Exploration (2) Archeology (4) Spanish | Reward: 64,000 / Advance payment: 0Experience: 130 / Fame: 65 |

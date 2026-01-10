@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Baltic Sturgeon](Quests/Other/quest_1992.md)** | Fishing (3) | Fishing (3) |  |
+| **[Baltic Sturgeon](docs/Quests/Other/1001-2000/quest_1992.md)** | Fishing (3) | Fishing (3) |  |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hidden menu secret](Quests/Adventure/quest_2090.md)** | Adventure quest (6) | Geography (7) Visual recognition (5) West African languages ​​(1) | Reward: 98,000 / Advance payment: 0Experience: 160 / Fame: 150 |
+| **[Hidden menu secret](docs/Quests/Adventure/2001-3000/quest_2090.md)** | Adventure quest (6) | Geography (7) Visual recognition (5) West African languages ​​(1) | Reward: 98,000 / Advance payment: 0Experience: 160 / Fame: 150 |

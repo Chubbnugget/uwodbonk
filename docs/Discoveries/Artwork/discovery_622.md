@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Church religious painting map](Quests/Other/quest_453.md)** | 美術(7) | Exploration (7) Art (7) Unlocking (7) |  |
+| **[Church religious painting map](docs/Quests/Other/1-1000/quest_453.md)** | 美術(7) | Exploration (7) Art (7) Unlocking (7) |  |

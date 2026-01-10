@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flowers that make you feel love](Quests/Adventure/quest_1296.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Malayu Tagalog | Reward: 62,000 / Advance payment: 0Experience: 270 / Fame: 95 |
+| **[Flowers that make you feel love](docs/Quests/Adventure/1001-2000/quest_1296.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Malayu Tagalog | Reward: 62,000 / Advance payment: 0Experience: 270 / Fame: 95 |

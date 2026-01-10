@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Winter Triangle](Quests/Other/quest_3781.md)** | Celestial Object Discovery Name(4)15th Century Issue 2 | Astronomy(4) |  |
+| **[Winter Triangle](docs/Quests/Other/3001-4000/quest_3781.md)** | Celestial Object Discovery Name(4)15th Century Issue 2 | Astronomy(4) |  |

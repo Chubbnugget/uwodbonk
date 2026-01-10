@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | fire extinguishing |
 | **Type** | thing |
-| **Group** | [Skill (combat)](Categories/category_41.md) |
+| **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 2,000 |
 | **Description** | It can extinguish fires that occur at sea. Learning conditions 0/0/2/total 10 |
 | **Last Updated** | 2005-04-02 09:58:31 System |

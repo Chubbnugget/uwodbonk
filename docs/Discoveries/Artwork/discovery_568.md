@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lifelike creation](Quests/Adventure/quest_721.md)** | Adventure quest (7) 16th century 1st period | Exploration (7) Art (9) Unlocking (7) | Reward: 162,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |
+| **[Lifelike creation](docs/Quests/Adventure/1-1000/quest_721.md)** | Adventure quest (7) 16th century 1st period | Exploration (7) Art (9) Unlocking (7) | Reward: 162,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |

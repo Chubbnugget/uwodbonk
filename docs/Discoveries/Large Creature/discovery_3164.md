@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sage's Beard](Quests/Adventure/quest_5900.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Arabic | Reward: 186,000/Advance payment: 10,000Experience: 200 |
+| **[Sage's Beard](docs/Quests/Adventure/5001-6000/quest_5900.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Arabic | Reward: 186,000/Advance payment: 10,000Experience: 200 |

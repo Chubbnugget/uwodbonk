@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legends of ancient civilizations](Quests/Adventure/quest_562.md)** | Adventure quest (3) | Geography (1) Visualization (1) Greek | Reward: 7,000Experience: 120/ Fame: 60 |
-| **[Volcano Survey](Quests/Other/quest_5400.md)** | Imperial command quest (2) | Geography (1) Visualization (1) Greek (1) | Reward: 14,000 / Advance payment: 0Experience: 100 / Fame: 50 |
+| **[Legends of ancient civilizations](docs/Quests/Adventure/1-1000/quest_562.md)** | Adventure quest (3) | Geography (1) Visualization (1) Greek | Reward: 7,000Experience: 120/ Fame: 60 |
+| **[Volcano Survey](docs/Quests/Other/5001-6000/quest_5400.md)** | Imperial command quest (2) | Geography (1) Visualization (1) Greek (1) | Reward: 14,000 / Advance payment: 0Experience: 100 / Fame: 50 |

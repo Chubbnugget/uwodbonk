@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Crab Palace Investigation](Quests/Adventure/quest_3754.md)** | Adventure Quest (6) Mythology Era | Astronomy (8) Visualization (6) French | Reward: 201,000/ Advance: 20,000Experience: 240/ Fame: 105 |
+| **[Giant Crab Palace Investigation](docs/Quests/Adventure/3001-4000/quest_3754.md)** | Adventure Quest (6) Mythology Era | Astronomy (8) Visualization (6) French | Reward: 201,000/ Advance: 20,000Experience: 240/ Fame: 105 |

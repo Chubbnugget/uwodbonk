@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Natural enemy of poisonous snake](Quests/Adventure/quest_889.md)** | Adventure quest (6) | Ecological research (4) Biology (6) Indian languages | Reward: 148,000 / Advance payment: 5,000 Experience: 170 / Fame: 90 |
+| **[Natural enemy of poisonous snake](docs/Quests/Adventure/1-1000/quest_889.md)** | Adventure quest (6) | Ecological research (4) Biology (6) Indian languages | Reward: 148,000 / Advance payment: 5,000 Experience: 170 / Fame: 90 |

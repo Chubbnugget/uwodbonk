@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rock of Sacrifice and Salvation](Quests/Adventure/quest_6925.md)** | Adventure quest (8) | Geography (12) Visualization (10) Arabic (1) | Reward: 903,000/Advance payment: 90,000Experience: 650 |
+| **[Rock of Sacrifice and Salvation](docs/Quests/Adventure/6001-7000/quest_6925.md)** | Adventure quest (8) | Geography (12) Visualization (10) Arabic (1) | Reward: 903,000/Advance payment: 90,000Experience: 650 |

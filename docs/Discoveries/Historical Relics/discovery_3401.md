@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Nobleman's loincloth](Quests/Adventure/quest_6293.md)** | Adventure quest (7) | Exploration (8) Archeology (10) Unlocking (8) | Reward: 515,000/Advance payment: 50,000Experience: 410 |
+| **[Nobleman's loincloth](docs/Quests/Adventure/6001-7000/quest_6293.md)** | Adventure quest (7) | Exploration (8) Archeology (10) Unlocking (8) | Reward: 515,000/Advance payment: 50,000Experience: 410 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Settlement traces in Greenland](Quests/Adventure/quest_3740.md)** | Adventure quest (7) 18th century third period | Archeology (10) Visualization (8) Arctic languages | Reward: 140,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Settlement traces in Greenland](docs/Quests/Adventure/3001-4000/quest_3740.md)** | Adventure quest (7) 18th century third period | Archeology (10) Visualization (8) Arctic languages | Reward: 140,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

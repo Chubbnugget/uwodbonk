@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Island in the Gulf of Guinea](Quests/Adventure/quest_116.md)** | Adventure quest (4) 15th century third period | Geography (2) Visual recognition (1) Portuguese | Reward: 104,500 / Advance payment: 0Experience: 385 / Fame: 192 |
+| **[Island in the Gulf of Guinea](docs/Quests/Adventure/1-1000/quest_116.md)** | Adventure quest (4) 15th century third period | Geography (2) Visual recognition (1) Portuguese | Reward: 104,500 / Advance payment: 0Experience: 385 / Fame: 192 |

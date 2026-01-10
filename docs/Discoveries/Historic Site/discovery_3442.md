@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Chariot of the Sun](Quests/Other/quest_6353.md)** | Treasure hunting (6) | Archeology (8) Visualization (6) Greek (1) | Reward: 100,000/ Advance payment: 0 |
+| **[Chariot of the Sun](docs/Quests/Other/6001-7000/quest_6353.md)** | Treasure hunting (6) | Archeology (8) Visualization (6) Greek (1) | Reward: 100,000/ Advance payment: 0 |

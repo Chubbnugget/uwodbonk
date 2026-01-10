@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue of Zeus at Olympia in the past](Quests/Other/quest_6510.md)** | Legacy(1) | - | Experience：4,400 |
+| **[Statue of Zeus at Olympia in the past](docs/Quests/Other/6001-7000/quest_6510.md)** | Legacy(1) | - | Experience：4,400 |

@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore of snake-like creatures](Quests/Other/quest_6267.md)** | Tradition (7) | Religious Studies(7) | Reward: 473,556/Advance payment: 40,000Experience: 470 |
+| **[Lore of snake-like creatures](docs/Quests/Other/6001-7000/quest_6267.md)** | Tradition (7) | Religious Studies(7) | Reward: 473,556/Advance payment: 40,000Experience: 470 |

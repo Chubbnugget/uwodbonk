@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Science Stars](Quests/Adventure/quest_5629.md)** | Adventure quest (4) 18th century third period | Astronomy (5) Visualization (3) Italian (1) | Reward: 150,000/ Advance: 10,000Experience: 180/ Fame: 100 |
+| **[Science Stars](docs/Quests/Adventure/5001-6000/quest_5629.md)** | Adventure quest (4) 18th century third period | Astronomy (5) Visualization (3) Italian (1) | Reward: 150,000/ Advance: 10,000Experience: 180/ Fame: 100 |

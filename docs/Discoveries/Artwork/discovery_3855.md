@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of the painting of Kitafujin and his daughter](Quests/Other/quest_6837.md)** | Pursuit quest (10) | Exploration (13) Art (15) French (1) | Reward: 600,000 / Advance payment: 0Experience: 840 |
+| **[Additional investigation of the painting of Kitafujin and his daughter](docs/Quests/Other/6001-7000/quest_6837.md)** | Pursuit quest (10) | Exploration (13) Art (15) French (1) | Reward: 600,000 / Advance payment: 0Experience: 840 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gardener's troubles](Quests/Adventure/quest_5374.md)** | Adventure quest (4) | Religious studies (1) Ecological research (3) Biology (5) | Reward: 89,000 / Advance payment: 0Experience: 140 / Fame: 75 |
+| **[Gardener's troubles](docs/Quests/Adventure/5001-6000/quest_5374.md)** | Adventure quest (4) | Religious studies (1) Ecological research (3) Biology (5) | Reward: 89,000 / Advance payment: 0Experience: 140 / Fame: 75 |

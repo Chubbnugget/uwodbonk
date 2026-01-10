@@ -30,4 +30,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Searching for flowers for town girls](Quests/Adventure/quest_2901.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Chinese (1) | Reward: 114,000/ Advance: 10,000Experience: 170/ Fame: 160 |
+| **[Searching for flowers for town girls](docs/Quests/Adventure/2001-3000/quest_2901.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Chinese (1) | Reward: 114,000/ Advance: 10,000Experience: 170/ Fame: 160 |

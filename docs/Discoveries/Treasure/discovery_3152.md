@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Far East Dragon Slayer](Quests/Adventure/quest_5893.md)** | Adventure quest (10) | 探索(15)Treasures鑑定(17)日本語(1) | Reward: 875,000 / Advance payment: 80,000 Experience: 630 / Fame: 400 |
+| **[Far East Dragon Slayer](docs/Quests/Adventure/5001-6000/quest_5893.md)** | Adventure quest (10) | 探索(15)Treasures鑑定(17)日本語(1) | Reward: 875,000 / Advance payment: 80,000 Experience: 630 / Fame: 400 |

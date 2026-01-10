@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Trace of a village](Quests/Adventure/quest_2487.md)** | Adventure quest (4) | 探索(3)Treasures鑑定(5)中国語(1) | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Trace of a village](docs/Quests/Adventure/2001-3000/quest_2487.md)** | Adventure quest (4) | 探索(3)Treasures鑑定(5)中国語(1) | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |

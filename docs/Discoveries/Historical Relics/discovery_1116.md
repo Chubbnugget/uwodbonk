@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Greek Fire](Quests/Adventure/quest_122.md)** | Adventure quest (4) | Exploration (1) Archeology (1) Arabic | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Greek Fire](docs/Quests/Adventure/1-1000/quest_122.md)** | Adventure quest (4) | Exploration (1) Archeology (1) Arabic | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 65 |

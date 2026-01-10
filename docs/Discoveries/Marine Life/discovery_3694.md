@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fish that is effective for beauty](Quests/Adventure/quest_6623.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Turkish (1) | Reward: 217,700 / Advance payment: 20,000 Experience: 260 / Fame: 115 |
+| **[Fish that is effective for beauty](docs/Quests/Adventure/6001-7000/quest_6623.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Turkish (1) | Reward: 217,700 / Advance payment: 20,000 Experience: 260 / Fame: 115 |

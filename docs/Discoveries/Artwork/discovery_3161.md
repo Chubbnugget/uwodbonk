@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Islamic artefacts](Quests/Adventure/quest_5844.md)** | Adventure quest (10) | Exploration (15) Art (17) Arabic | Reward: 924,000 / Advance payment: 90,000 Experience: 660 |
+| **[Islamic artefacts](docs/Quests/Adventure/5001-6000/quest_5844.md)** | Adventure quest (10) | Exploration (15) Art (17) Arabic | Reward: 924,000 / Advance payment: 90,000 Experience: 660 |

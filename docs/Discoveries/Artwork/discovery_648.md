@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Original work](Quests/Adventure/quest_641.md)** | Adventure quest (8) 16th century 1st period | Exploration (6) Art (8) Italian | Reward: 104,000 / Advance payment: 0Experience: 210 / Fame: 110 |
+| **[Original work](docs/Quests/Adventure/1-1000/quest_641.md)** | Adventure quest (8) 16th century 1st period | Exploration (6) Art (8) Italian | Reward: 104,000 / Advance payment: 0Experience: 210 / Fame: 110 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pyramid of Giza (Depth)](Quests/Other/quest_2412.md)** | Dungeon (1) | - |  |
+| **[Pyramid of Giza (Depth)](docs/Quests/Other/2001-3000/quest_2412.md)** | Dungeon (1) | - |  |

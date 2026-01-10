@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Animal like a pincushion](Quests/Adventure/quest_703.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Portuguese | Reward: 34,000 / Advance payment: 2,000 Experience: 130 / Fame: 65 |
+| **[Animal like a pincushion](docs/Quests/Adventure/1-1000/quest_703.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Portuguese | Reward: 34,000 / Advance payment: 2,000 Experience: 130 / Fame: 65 |

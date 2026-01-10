@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Obtaining Fire](Quests/Adventure/quest_5391.md)** | Adventure quest (9) 18th century third period | Religious Studies (13) Exploration (11) Turkish | Reward: 352,000 / Advance payment: 30,000 Experience: 310 / Fame: 277 |
+| **[Obtaining Fire](docs/Quests/Adventure/5001-6000/quest_5391.md)** | Adventure quest (9) 18th century third period | Religious Studies (13) Exploration (11) Turkish | Reward: 352,000 / Advance payment: 30,000 Experience: 310 / Fame: 277 |

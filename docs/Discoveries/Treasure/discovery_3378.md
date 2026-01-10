@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Request for cooperation in reviewing the paper](Quests/Adventure/quest_6265.md)** | Adventure Quest (10) 18th Century Third Period | Exploration (13) Treasures Appraisal (15) Slavic languages | Reward: 160,000/ Advance: 10,000 Experience: 190/ Fame: 105 |
+| **[Request for cooperation in reviewing the paper](docs/Quests/Adventure/6001-7000/quest_6265.md)** | Adventure Quest (10) 18th Century Third Period | Exploration (13) Treasures Appraisal (15) Slavic languages | Reward: 160,000/ Advance: 10,000 Experience: 190/ Fame: 105 |

@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | boomerang |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 150 |
 | **Description** | A weapon that can be thrown at enemies to cause damage. Effect/medium. Effects when used: Throw attack (Throw a throwing weapon at the enemy in land battles. Effective against charge mode.) Rank 6 Required gauge 75 Cooldown time 300 |

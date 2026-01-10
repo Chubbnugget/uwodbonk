@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indus Valley Civilization Stone Statue Map](Quests/Other/quest_6342.md)** | Archeology(11) | Exploration(11)Archaeology(11) |  |
+| **[Indus Valley Civilization Stone Statue Map](docs/Quests/Other/6001-7000/quest_6342.md)** | Archeology(11) | Exploration(11)Archaeology(11) |  |

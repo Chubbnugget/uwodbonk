@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Yagara](Quests/Other/quest_2424.md)** | Fishing (1) | Fishing (6) |  |
+| **[Yagara](docs/Quests/Other/2001-3000/quest_2424.md)** | Fishing (1) | Fishing (6) |  |

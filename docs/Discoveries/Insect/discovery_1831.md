@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kimono design](Quests/Adventure/quest_2454.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Japanese | Reward: 115,000/ Advance: 10,000Experience: 170/ Fame: 160 |
+| **[Kimono design](docs/Quests/Adventure/2001-3000/quest_2454.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Japanese | Reward: 115,000/ Advance: 10,000Experience: 170/ Fame: 160 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of animals that enjoy crabs](Quests/Other/quest_6689.md)** | Biology学(10) | Ecological Survey(10)Biology(10) |  |
+| **[Map of animals that enjoy crabs](docs/Quests/Other/6001-7000/quest_6689.md)** | Biology学(10) | Ecological Survey(10)Biology(10) |  |

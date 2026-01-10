@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of glowing poisonous mushrooms](Quests/Other/quest_6552.md)** | Pursuit quest (4) | Ecological research (12) Biology (14) Spanish (1) | Reward: 420,000 / Advance payment: 0Experience: 948 |
+| **[Additional investigation of glowing poisonous mushrooms](docs/Quests/Other/6001-7000/quest_6552.md)** | Pursuit quest (4) | Ecological research (12) Biology (14) Spanish (1) | Reward: 420,000 / Advance payment: 0Experience: 948 |

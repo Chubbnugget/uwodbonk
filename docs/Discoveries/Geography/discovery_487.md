@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cave overlooking the cliff](Quests/Adventure/quest_2557.md)** | Adventure quest (2) | Geography (3) Visual recognition (1) Chinese | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Cave overlooking the cliff](docs/Quests/Adventure/2001-3000/quest_2557.md)** | Adventure quest (2) | Geography (3) Visual recognition (1) Chinese | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |

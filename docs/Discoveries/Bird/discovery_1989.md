@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Changing Bird](Quests/Adventure/quest_3654.md)** | Adventure quest (3) 18th century third period | Ecological research (2) Biology (4) Arctic languages | Reward: 104,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Changing Bird](docs/Quests/Adventure/3001-4000/quest_3654.md)** | Adventure quest (3) 18th century third period | Ecological research (2) Biology (4) Arctic languages | Reward: 104,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

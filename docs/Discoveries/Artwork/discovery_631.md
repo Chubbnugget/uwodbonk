@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Derivative Painter](Quests/Adventure/quest_2747.md)** | Adventure Quest (2) 16th Century 2nd Period | 探索(2)美術(4)朝鮮語 | Reward: 117,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Derivative Painter](docs/Quests/Adventure/2001-3000/quest_2747.md)** | Adventure Quest (2) 16th Century 2nd Period | 探索(2)美術(4)朝鮮語 | Reward: 117,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

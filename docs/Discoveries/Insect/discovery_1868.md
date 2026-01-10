@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Poison of butterflies](Quests/Adventure/quest_2510.md)** | Adventure quest (7) | Ecological Survey (7) Biology (9) Chinese | Reward: 117,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Poison of butterflies](docs/Quests/Adventure/2001-3000/quest_2510.md)** | Adventure quest (7) | Ecological Survey (7) Biology (9) Chinese | Reward: 117,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

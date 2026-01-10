@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Butterfly with a tail](Quests/Adventure/quest_2654.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Korean | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Butterfly with a tail](docs/Quests/Adventure/2001-3000/quest_2654.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Korean | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |

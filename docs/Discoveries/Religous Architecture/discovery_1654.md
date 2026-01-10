@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beyond the setting sun](Quests/Adventure/quest_1667.md)** | Adventure quest (9) | Religious Studies (12) Visual Recognition (10) | Reward: 283,000 / Advance payment: 20,000 Experience: 570 / Fame: 190 |
+| **[Beyond the setting sun](docs/Quests/Adventure/1001-2000/quest_1667.md)** | Adventure quest (9) | Religious Studies (12) Visual Recognition (10) | Reward: 283,000 / Advance payment: 20,000 Experience: 570 / Fame: 190 |

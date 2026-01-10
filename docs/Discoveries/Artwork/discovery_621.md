@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Old Painting Map](Quests/Other/quest_2841.md)** | 美術(7) | Exploration (7) Art (7) Unlocking (7) |  |
+| **[Old Painting Map](docs/Quests/Other/2001-3000/quest_2841.md)** | 美術(7) | Exploration (7) Art (7) Unlocking (7) |  |

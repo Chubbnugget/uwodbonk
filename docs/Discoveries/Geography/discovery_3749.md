@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of giant stone pillar](Quests/Other/quest_6700.md)** | Pursuit quest (10) | Geography (15) Visual recognition (13) English (1) | Reward: 998,000 / Advance payment: 0 |
+| **[Additional investigation of giant stone pillar](docs/Quests/Other/6001-7000/quest_6700.md)** | Pursuit quest (10) | Geography (15) Visual recognition (13) English (1) | Reward: 998,000 / Advance payment: 0 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Japanese history books](Quests/Adventure/quest_5795.md)** | Adventure quest (10) | Exploration (15) Archeology (17) Japanese | Reward: 809,000 / Advance payment: 80,000 Experience: 590 / Fame: 375 |
+| **[Japanese history books](docs/Quests/Adventure/5001-6000/quest_5795.md)** | Adventure quest (10) | Exploration (15) Archeology (17) Japanese | Reward: 809,000 / Advance payment: 80,000 Experience: 590 / Fame: 375 |

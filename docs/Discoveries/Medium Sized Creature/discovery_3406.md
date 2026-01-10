@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Looking for big and gentle bats](Quests/Adventure/quest_6320.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Indian languages | Reward: 104,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[Looking for big and gentle bats](docs/Quests/Adventure/6001-7000/quest_6320.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Indian languages | Reward: 104,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gateway to the Kingdom of Congo](Quests/Adventure/quest_157.md)** | Adventure Quest (4) 15th Century 5th Period | Geography (2) Visual recognition (1) West African languages | Reward: 103,500 / Advance payment: 0Experience: 315 / Fame: 180 |
+| **[Gateway to the Kingdom of Congo](docs/Quests/Adventure/1-1000/quest_157.md)** | Adventure Quest (4) 15th Century 5th Period | Geography (2) Visual recognition (1) West African languages | Reward: 103,500 / Advance payment: 0Experience: 315 / Fame: 180 |

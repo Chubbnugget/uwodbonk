@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of statues of a certain tribe](Quests/Other/quest_3816.md)** | Religious Studies(7) | Religious Studies (7) Exploration (7) Unlocking (7) |  |
+| **[Map of statues of a certain tribe](docs/Quests/Other/3001-4000/quest_3816.md)** | Religious Studies(7) | Religious Studies (7) Exploration (7) Unlocking (7) |  |

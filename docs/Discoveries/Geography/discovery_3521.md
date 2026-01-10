@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sandwiched between two skies](Quests/Adventure/quest_6443.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Quechua | Reward: 251,000/ Advance: 30,000Experience: 240/ Fame: 140 |
+| **[Sandwiched between two skies](docs/Quests/Adventure/6001-7000/quest_6443.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Quechua | Reward: 251,000/ Advance: 30,000Experience: 240/ Fame: 140 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[New technique](Quests/Adventure/quest_1273.md)** | Adventure Quest (7) 15th Century 2nd Period | Exploration (5) Art (7) Dutch | Reward: 69,000 / Advance payment: 0Experience: 250 / Fame: 80 |
+| **[New technique](docs/Quests/Adventure/1001-2000/quest_1273.md)** | Adventure Quest (7) 15th Century 2nd Period | Exploration (5) Art (7) Dutch | Reward: 69,000 / Advance payment: 0Experience: 250 / Fame: 80 |

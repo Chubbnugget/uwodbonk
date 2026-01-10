@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Those who play history](Quests/Adventure/quest_3265.md)** | Adventure quest (8) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 132,000 / Advance payment: 10,000 Experience: 180 / Fame: 170 |
+| **[Those who play history](docs/Quests/Adventure/3001-4000/quest_3265.md)** | Adventure quest (8) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 132,000 / Advance payment: 10,000 Experience: 180 / Fame: 170 |

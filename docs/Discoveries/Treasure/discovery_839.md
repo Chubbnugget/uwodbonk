@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dream telling and tale collection](Quests/Adventure/quest_2348.md)** | Adventure quest (7) | 探索(5)Treasures鑑定(7)日本語(5) | Reward: 127,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |
+| **[Dream telling and tale collection](docs/Quests/Adventure/2001-3000/quest_2348.md)** | Adventure quest (7) | 探索(5)Treasures鑑定(7)日本語(5) | Reward: 127,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |

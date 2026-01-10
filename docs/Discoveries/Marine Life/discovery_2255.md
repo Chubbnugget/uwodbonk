@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue turtle in the blue sea](Quests/Adventure/quest_753.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Greek | Reward: 24,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Blue turtle in the blue sea](docs/Quests/Adventure/1-1000/quest_753.md)** | Adventure quest (5) | Ecological research (1) Biology (3) Greek | Reward: 24,000 / Advance payment: 0Experience: 130 / Fame: 65 |

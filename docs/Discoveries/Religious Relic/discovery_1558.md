@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[God Descends to the Lake](Quests/Adventure/quest_1875.md)** | Adventure quest (4) | Religious Studies(5)Explore(3)ケチュア语 | Reward: 165,000 / Advance payment: 10,000 Experience: 210 / Fame: 190 |
+| **[God Descends to the Lake](docs/Quests/Adventure/1001-2000/quest_1875.md)** | Adventure quest (4) | Religious Studies(5)Explore(3)ケチュア语 | Reward: 165,000 / Advance payment: 10,000 Experience: 210 / Fame: 190 |

@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Animal in armor](Quests/Adventure/quest_6289.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Indian languages | Reward: 383,000 / Advance payment: 30,000 Experience: 330 / Fame: 195 |
+| **[Animal in armor](docs/Quests/Adventure/6001-7000/quest_6289.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Indian languages | Reward: 383,000 / Advance payment: 30,000 Experience: 330 / Fame: 195 |

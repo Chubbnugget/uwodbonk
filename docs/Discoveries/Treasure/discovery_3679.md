@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jiaozi](Quests/Other/quest_6626.md)** | Legacy(1) | - |  |
+| **[Jiaozi](docs/Quests/Other/6001-7000/quest_6626.md)** | Legacy(1) | - |  |

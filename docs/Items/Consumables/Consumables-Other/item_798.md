@@ -1,6 +1,6 @@
 ---
 id: 798
-name: "Special dye #6"
+name: "\"Special dye #6\""
 type:  Item
 ---
 # Special dye #6
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Special dye #6 |
 | **Type** | thing |
-| **Group** | [Consumables](Categories/category_44.md) |
+| **Group** | [Consumables](docs/Categories/category_44.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 5,000 |
 | **Description** | A dye that dyes hair yellow-green. Effect when used: Hair dye (changes hair color) |

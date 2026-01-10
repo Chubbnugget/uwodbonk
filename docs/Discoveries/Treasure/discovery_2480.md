@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Oceania competitions](Quests/Adventure/quest_4799.md)** | Adventure quest (5) | Exploration (3) Treasures Appraisal (5) Oceanian Languages ​​(1) | Reward: 185,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |
+| **[Oceania competitions](docs/Quests/Adventure/4001-5000/quest_4799.md)** | Adventure quest (5) | Exploration (3) Treasures Appraisal (5) Oceanian Languages ​​(1) | Reward: 185,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |

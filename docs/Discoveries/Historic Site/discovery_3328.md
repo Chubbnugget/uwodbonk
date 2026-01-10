@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[City connected to the underworld](Quests/Adventure/quest_6175.md)** | Adventure Quest (8) B.C. | Archeology (11) Visualization (9) Greek | Reward: 112,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[City connected to the underworld](docs/Quests/Adventure/6001-7000/quest_6175.md)** | Adventure Quest (8) B.C. | Archeology (11) Visualization (9) Greek | Reward: 112,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

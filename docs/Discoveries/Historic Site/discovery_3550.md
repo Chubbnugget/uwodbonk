@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Head of the Colossus of Rhodes in the past](Quests/Other/quest_6476.md)** | Legacy(1) | - |  |
+| **[Head of the Colossus of Rhodes in the past](docs/Quests/Other/6001-7000/quest_6476.md)** | Legacy(1) | - |  |

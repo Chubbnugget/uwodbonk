@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Poisonous Spider Map](Quests/Other/quest_3696.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Poisonous Spider Map](docs/Quests/Other/3001-4000/quest_3696.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

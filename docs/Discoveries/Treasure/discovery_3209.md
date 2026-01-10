@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Arthur of Wales](Quests/Adventure/quest_6015.md)** | Adventure quest (3) | 探索(2)Treasures鑑定(4)英語 | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Arthur of Wales](docs/Quests/Adventure/6001-7000/quest_6015.md)** | Adventure quest (3) | 探索(2)Treasures鑑定(4)英語 | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |

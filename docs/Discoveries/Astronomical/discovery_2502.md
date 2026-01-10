@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The excellent king who ascended to heaven](Quests/Adventure/quest_4858.md)** | Adventure Quest (5) Mythology Era | Astronomy (5) Visualization (3) Greek | Reward: 240,000 / Advance payment: 20,000 Experience: 270 / Fame: 120 |
+| **[The excellent king who ascended to heaven](docs/Quests/Adventure/4001-5000/quest_4858.md)** | Adventure Quest (5) Mythology Era | Astronomy (5) Visualization (3) Greek | Reward: 240,000 / Advance payment: 20,000 Experience: 270 / Fame: 120 |

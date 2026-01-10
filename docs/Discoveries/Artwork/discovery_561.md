@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Proverbs without letters](Quests/Adventure/quest_1799.md)** | Adventure quest (1) 16th century 4th period | Exploration (1) Art (2) Dutch | Reward: 62,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Proverbs without letters](docs/Quests/Adventure/1001-2000/quest_1799.md)** | Adventure quest (1) 16th century 4th period | Exploration (1) Art (2) Dutch | Reward: 62,000 / Advance payment: 0Experience: 130 / Fame: 65 |

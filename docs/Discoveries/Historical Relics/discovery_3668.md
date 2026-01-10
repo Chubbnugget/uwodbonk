@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Joyuse](Quests/Other/quest_6612.md)** | Legacy(1) | - | Experience：2,650 |
+| **[Joyuse](docs/Quests/Other/6001-7000/quest_6612.md)** | Legacy(1) | - | Experience：2,650 |

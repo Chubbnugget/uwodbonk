@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[For gifts](Quests/Adventure/quest_1242.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Mayan languages | Reward: 82,000 / Advance payment: 0Experience: 210 / Fame: 70 |
+| **[For gifts](docs/Quests/Adventure/1001-2000/quest_1242.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Mayan languages | Reward: 82,000 / Advance payment: 0Experience: 210 / Fame: 70 |

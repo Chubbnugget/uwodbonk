@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Abbot's grave goods](Quests/Adventure/quest_637.md)** | Adventure quest (2) | Exploration (1) Art (1) Italian | Reward: 6,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Abbot's grave goods](docs/Quests/Adventure/1-1000/quest_637.md)** | Adventure quest (2) | Exploration (1) Art (1) Italian | Reward: 6,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strangely colored frog](Quests/Adventure/quest_2057.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Swahili | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Strangely colored frog](docs/Quests/Adventure/2001-3000/quest_2057.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Swahili | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |

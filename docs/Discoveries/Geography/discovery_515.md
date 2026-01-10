@@ -30,4 +30,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Eastern Mine](Quests/Adventure/quest_2389.md)** | Adventure quest (8) | Geography (9) Visual recognition (7) Japanese | Reward: 465,000/ Advance: 40,000Experience: 460/ Fame: 190 |
+| **[Eastern Mine](docs/Quests/Adventure/2001-3000/quest_2389.md)** | Adventure quest (8) | Geography (9) Visual recognition (7) Japanese | Reward: 465,000/ Advance: 40,000Experience: 460/ Fame: 190 |

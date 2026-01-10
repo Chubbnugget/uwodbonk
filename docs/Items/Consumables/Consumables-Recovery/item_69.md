@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | hand bucket |
 | **Type** | thing |
-| **Group** | [Consumables](Categories/category_21.md) |
-| **Sold by NPC** | [peddler](NPCs/npc_32.md) |
+| **Group** | [Consumables](docs/Categories/category_21.md) |
+| **Sold by NPC** | [peddler](docs/NPCs/npc_32.md) |
 | **Description** | An orchestra used by sailors. Use it to stop the ship from flooding. Effect when used: Flood recovery (stops own ship from flooding) |
 | **Last Updated** | 2007-09-19 11:40:13 Passing navigator @guest |
 

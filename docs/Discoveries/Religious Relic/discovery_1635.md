@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Prince's Regret](Quests/Adventure/quest_2701.md)** | Adventure quest (7) | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 112,500 / Advance payment: 0Experience: 280 / Fame: 65 |
+| **[The Prince's Regret](docs/Quests/Adventure/2001-3000/quest_2701.md)** | Adventure quest (7) | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 112,500 / Advance payment: 0Experience: 280 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Discussion of ideas](Quests/Adventure/quest_3168.md)** | Adventure quest (8) 15th century 4th period | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Discussion of ideas](docs/Quests/Adventure/3001-4000/quest_3168.md)** | Adventure quest (8) 15th century 4th period | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 69,000 / Advance payment: 0Experience: 130 / Fame: 65 |

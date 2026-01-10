@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Encounter with a legend](Quests/Adventure/quest_3624.md)** | Adventure Quest (9) 17th Century 3rd Period | Ecological research (6) Biology (8) Arctic languages | Reward: 10,400/ Advance payment: 10,000 Experience: 160/ Fame: 75 |
+| **[Encounter with a legend](docs/Quests/Adventure/3001-4000/quest_3624.md)** | Adventure Quest (9) 17th Century 3rd Period | Ecological research (6) Biology (8) Arctic languages | Reward: 10,400/ Advance payment: 10,000 Experience: 160/ Fame: 75 |

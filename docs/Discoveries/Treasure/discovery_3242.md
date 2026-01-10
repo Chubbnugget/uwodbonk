@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Real image of the wise king](Quests/Adventure/quest_6056.md)** | Adventure quest (7) | Exploration (8) Treasures Appraisal (10) Spanish | Reward: 117,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[Real image of the wise king](docs/Quests/Adventure/6001-7000/quest_6056.md)** | Adventure quest (7) | Exploration (8) Treasures Appraisal (10) Spanish | Reward: 117,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

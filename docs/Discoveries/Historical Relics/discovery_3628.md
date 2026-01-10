@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of ancient vessels](Quests/Other/quest_6567.md)** | Pursuit quest (3) | Exploration (8) Archeology (10) Greek | Reward: 220,000 / Advance payment: 0Experience: 468 |
+| **[Additional investigation of ancient vessels](docs/Quests/Other/6001-7000/quest_6567.md)** | Pursuit quest (3) | Exploration (8) Archeology (10) Greek | Reward: 220,000 / Advance payment: 0Experience: 468 |

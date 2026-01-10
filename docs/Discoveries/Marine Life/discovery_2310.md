@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of areas where coral can be found](Quests/Other/quest_162.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |
+| **[Map of areas where coral can be found](docs/Quests/Other/1-1000/quest_162.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |

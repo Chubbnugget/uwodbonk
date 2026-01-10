@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of bridge with arch](Quests/Other/quest_6343.md)** | Archeology(8) | Archeology(8)Visibility(8) |  |
+| **[Map of bridge with arch](docs/Quests/Other/6001-7000/quest_6343.md)** | Archeology(8) | Archeology(8)Visibility(8) |  |

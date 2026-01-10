@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Pathology |
 | **Type** | thing |
-| **Group** | [Skill (combat)](Categories/category_41.md) |
+| **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 4,000 |
 | **Description** | It can treat epidemics that occur at sea. Learning conditions 0/0/5/total 10 Prerequisite skills First aid (2) |
 | **Last Updated** | 2005-04-02 09:58:31 System |

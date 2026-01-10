@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Amur leopard](Quests/Other/quest_6702.md)** | Pursuit quest (8) | Ecological research (13) Biology (15) Arctic languages ​​(1) | Reward: 360,000 / Advance payment: 0Experience: 800 |
+| **[Additional investigation of Amur leopard](docs/Quests/Other/6001-7000/quest_6702.md)** | Pursuit quest (8) | Ecological research (13) Biology (15) Arctic languages ​​(1) | Reward: 360,000 / Advance payment: 0Experience: 800 |

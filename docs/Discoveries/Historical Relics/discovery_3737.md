@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Disappeared Viking](Quests/Adventure/quest_6687.md)** | Adventure quest (8) | Exploration(10)Archaeology(12)English(1) | Reward: 390,000/Advance payment: 40,000Experience: 360 |
+| **[Disappeared Viking](docs/Quests/Adventure/6001-7000/quest_6687.md)** | Adventure quest (8) | Exploration(10)Archaeology(12)English(1) | Reward: 390,000/Advance payment: 40,000Experience: 360 |

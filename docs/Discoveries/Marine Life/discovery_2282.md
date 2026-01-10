@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Undersea Devil](Quests/Adventure/quest_381.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Portuguese | Reward: 129,000 / Advance payment: 0Experience: 180 / Fame: 90 |
+| **[Undersea Devil](docs/Quests/Adventure/1-1000/quest_381.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Portuguese | Reward: 129,000 / Advance payment: 0Experience: 180 / Fame: 90 |

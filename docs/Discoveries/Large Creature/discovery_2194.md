@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[North American giant bull](Quests/Adventure/quest_3877.md)** | Adventure quest (5) 19th century | Ecological research (3) Biology (5) North American languages | Reward: 275,000 / Advance payment: 20,000 Experience: 320 / Fame: 280 |
+| **[North American giant bull](docs/Quests/Adventure/3001-4000/quest_3877.md)** | Adventure quest (5) 19th century | Ecological research (3) Biology (5) North American languages | Reward: 275,000 / Advance payment: 20,000 Experience: 320 / Fame: 280 |

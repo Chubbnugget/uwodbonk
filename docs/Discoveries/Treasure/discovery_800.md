@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Islamic historical perspective](Quests/Adventure/quest_43.md)** | Adventure quest (4) | Exploration (1) Treasures Appraisal (3) Arabic | Reward: 33,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Islamic historical perspective](docs/Quests/Adventure/1-1000/quest_43.md)** | Adventure quest (4) | Exploration (1) Treasures Appraisal (3) Arabic | Reward: 33,000 / Advance payment: 0Experience: 150 / Fame: 70 |

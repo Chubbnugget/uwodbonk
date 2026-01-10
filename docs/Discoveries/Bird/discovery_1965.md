@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[In search of rainbow colors](Quests/Adventure/quest_2986.md)** | Adventure quest (3) | Ecological research (5) Biology (7) Mayan languages | Reward: 167,000/ Advance: 10,000 Experience: 210/ Fame: 95 |
+| **[In search of rainbow colors](docs/Quests/Adventure/2001-3000/quest_2986.md)** | Adventure quest (3) | Ecological research (5) Biology (7) Mayan languages | Reward: 167,000/ Advance: 10,000 Experience: 210/ Fame: 95 |

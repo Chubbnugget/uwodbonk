@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bouncing Mouse Map](Quests/Other/quest_839.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |
+| **[Bouncing Mouse Map](docs/Quests/Other/1-1000/quest_839.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |

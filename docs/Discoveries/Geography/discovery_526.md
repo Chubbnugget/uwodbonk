@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Help with ethnic research](Quests/Adventure/quest_2501.md)** | Adventure quest (2) | Geography (3) Visual recognition (1) Chinese (1) | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Help with ethnic research](docs/Quests/Adventure/2001-3000/quest_2501.md)** | Adventure quest (2) | Geography (3) Visual recognition (1) Chinese (1) | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |

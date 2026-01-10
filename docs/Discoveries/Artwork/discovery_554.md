@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tapestry Map](Quests/Other/quest_205.md)** | 美術(2) | 探索(2)美術(2) |  |
+| **[Tapestry Map](docs/Quests/Other/1-1000/quest_205.md)** | 美術(2) | 探索(2)美術(2) |  |

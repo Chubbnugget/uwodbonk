@@ -1,6 +1,6 @@
 ---
 id: 621
-name: "Special dye #4"
+name: "\"Special dye #4\""
 type:  Item
 ---
 # Special dye #4
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Special dye #4 |
 | **Type** | thing |
-| **Group** | [Consumables](Categories/category_44.md) |
+| **Group** | [Consumables](docs/Categories/category_44.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 5,000 |
 | **Description** | A dye that dyes hair a bright red. Effect when used: Hair dye (changes hair color) |

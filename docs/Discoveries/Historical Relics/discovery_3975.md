@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flore de la Mar](Quests/Other/quest_6966.md)** | Sunken ship(9) | Salvage visibility (9) |  |
+| **[Flore de la Mar](docs/Quests/Other/6001-7000/quest_6966.md)** | Sunken ship(9) | Salvage visibility (9) |  |

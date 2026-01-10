@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King of Hellenism](Quests/Adventure/quest_280.md)** | Adventure Quest (3) B.C. | Exploration (1) Archeology (1) Arabic | Reward: 20,000Experience: 130/ Fame: 130 |
+| **[King of Hellenism](docs/Quests/Adventure/1-1000/quest_280.md)** | Adventure Quest (3) B.C. | Exploration (1) Archeology (1) Arabic | Reward: 20,000Experience: 130/ Fame: 130 |

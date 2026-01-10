@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of the lizard that causes miracles](Quests/Other/quest_6931.md)** | Pursuit quest (7) | Ecological research (7) Biology (9) Spanish (1) | Reward: 220,000Experience: 380/ Fame: 285 |
+| **[Additional investigation of the lizard that causes miracles](docs/Quests/Other/6001-7000/quest_6931.md)** | Pursuit quest (7) | Ecological research (7) Biology (9) Spanish (1) | Reward: 220,000Experience: 380/ Fame: 285 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Southern tip of Africa](Quests/Adventure/quest_29.md)** | Adventure Quest (5) 15th Century 5th Period | Geography (4) Visual recognition (2) Portuguese | Reward: 62,000 / Advance payment: 0Experience: 183 / Fame: 85 |
+| **[Southern tip of Africa](docs/Quests/Adventure/1-1000/quest_29.md)** | Adventure Quest (5) 15th Century 5th Period | Geography (4) Visual recognition (2) Portuguese | Reward: 62,000 / Advance payment: 0Experience: 183 / Fame: 85 |

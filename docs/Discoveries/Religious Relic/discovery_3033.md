@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[God of art in Norse mythology](Quests/Adventure/quest_5719.md)** | Adventure Quest (10) Mythology Era | Religious Studies(17)Explore(15)English | Reward: 351,000 / Advance payment: 30,000 Experience: 310 / Fame: 185 |
+| **[God of art in Norse mythology](docs/Quests/Adventure/5001-6000/quest_5719.md)** | Adventure Quest (10) Mythology Era | Religious Studies(17)Explore(15)English | Reward: 351,000 / Advance payment: 30,000 Experience: 310 / Fame: 185 |

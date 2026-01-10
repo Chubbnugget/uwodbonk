@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Floating Monastery](Quests/Adventure/quest_6441.md)** | Adventure quest (2) | Religious Studies (3) Visual Recognition (1) French (1) | Reward: 88,000 / Advance payment: 10,000 Experience: 140 / Fame: 75 |
+| **[Floating Monastery](docs/Quests/Adventure/6001-7000/quest_6441.md)** | Adventure quest (2) | Religious Studies (3) Visual Recognition (1) French (1) | Reward: 88,000 / Advance payment: 10,000 Experience: 140 / Fame: 75 |

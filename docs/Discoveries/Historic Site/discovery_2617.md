@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Birthplace of Hercules](Quests/Adventure/quest_4975.md)** | Adventure Quest (3) B.C. | Archeology (4) Visualization (2) Greek | Reward: 88,000Experience: 150/ Fame: 70 |
+| **[Birthplace of Hercules](docs/Quests/Adventure/4001-5000/quest_4975.md)** | Adventure Quest (3) B.C. | Archeology (4) Visualization (2) Greek | Reward: 88,000Experience: 150/ Fame: 70 |

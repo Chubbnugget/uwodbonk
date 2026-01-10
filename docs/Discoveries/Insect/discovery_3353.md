@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Creepy Insect Map](Quests/Other/quest_6217.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Creepy Insect Map](docs/Quests/Other/6001-7000/quest_6217.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blood of the King and Protection of the Gods](Quests/Adventure/quest_1200.md)** | Adventure quest (7) | Exploration (5) Archeology (7) Unlocking (5) | Reward: 10,000/ Advance payment: 10,000 Experience: 390/ Fame: 125 |
+| **[Blood of the King and Protection of the Gods](docs/Quests/Adventure/1001-2000/quest_1200.md)** | Adventure quest (7) | Exploration (5) Archeology (7) Unlocking (5) | Reward: 10,000/ Advance payment: 10,000 Experience: 390/ Fame: 125 |

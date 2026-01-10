@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Identity of the jar](Quests/Adventure/quest_3648.md)** | Adventure quest (3) 18th century third period | Exploration (6) Art (8) Unlocking (6) | Reward: 314,000 / Advance payment: 30,000 Experience: 340 / Fame: 280 |
+| **[Identity of the jar](docs/Quests/Adventure/3001-4000/quest_3648.md)** | Adventure quest (3) 18th century third period | Exploration (6) Art (8) Unlocking (6) | Reward: 314,000 / Advance payment: 30,000 Experience: 340 / Fame: 280 |

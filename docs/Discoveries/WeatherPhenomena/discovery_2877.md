@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[真珠母雲](Quests/Other/quest_5544.md)** | Weather/phenomena (5) | Visual recognition (5) | Experience：360 |
+| **[真珠母雲](docs/Quests/Other/5001-6000/quest_5544.md)** | Weather/phenomena (5) | Visual recognition (5) | Experience：360 |

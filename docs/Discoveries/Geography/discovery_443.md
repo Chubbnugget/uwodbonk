@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Washing cargo](Quests/Adventure/quest_1655.md)** | Adventure quest (9) | Geography (11) Visual recognition (9) Portuguese | Reward: 365,000 / Advance payment: 50,000 Experience: 390 / Fame: 130 |
+| **[Washing cargo](docs/Quests/Adventure/1001-2000/quest_1655.md)** | Adventure quest (9) | Geography (11) Visual recognition (9) Portuguese | Reward: 365,000 / Advance payment: 50,000 Experience: 390 / Fame: 130 |

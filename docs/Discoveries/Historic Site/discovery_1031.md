@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange things in unexplored lands](Quests/Adventure/quest_1826.md)** | Adventure quest (8) | Archeology (11) Visualization (9) Quechua | Reward: 219,000/ Advance: 20,000Experience: 260/ Fame: 110 |
+| **[Strange things in unexplored lands](docs/Quests/Adventure/1001-2000/quest_1826.md)** | Adventure quest (8) | Archeology (11) Visualization (9) Quechua | Reward: 219,000/ Advance: 20,000Experience: 260/ Fame: 110 |

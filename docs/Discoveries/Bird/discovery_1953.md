@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A small bird found only in Africa](Quests/Adventure/quest_20.md)** | Adventure quest (8) | Ecological research (7) Biology (9) Portuguese | Reward: 191,000 / Advance payment: 20,000 Experience: 180 / Fame: 100 |
+| **[A small bird found only in Africa](docs/Quests/Adventure/1-1000/quest_20.md)** | Adventure quest (8) | Ecological research (7) Biology (9) Portuguese | Reward: 191,000 / Advance payment: 20,000 Experience: 180 / Fame: 100 |

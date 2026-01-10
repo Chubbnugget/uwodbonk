@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legend related to the Great Lighthouse](Quests/Other/quest_6355.md)** | Treasure hunting (7) | Archeology (13) Visualization (11) Arabic (1) | Reward: 0/Advance payment: 0Experience: 2,410 |
+| **[Legend related to the Great Lighthouse](docs/Quests/Other/6001-7000/quest_6355.md)** | Treasure hunting (7) | Archeology (13) Visualization (11) Arabic (1) | Reward: 0/Advance payment: 0Experience: 2,410 |

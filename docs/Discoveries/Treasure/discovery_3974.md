@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient ornaments](Quests/Other/quest_6965.md)** | Treasures鑑定(11) | Exploration (11) Treasures Appraisal (11) Unlocking (11) | Experience：510 |
+| **[Map of ancient ornaments](docs/Quests/Other/6001-7000/quest_6965.md)** | Treasures鑑定(11) | Exploration (11) Treasures Appraisal (11) Unlocking (11) | Experience：510 |

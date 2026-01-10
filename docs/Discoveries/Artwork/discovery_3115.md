@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Japanese picture scrolls](Quests/Adventure/quest_5840.md)** | Adventure quest (10) | 探索(15)美術(17)日本語 | Reward: 950,000 / Advance payment: 90,000 Experience: 680 / Fame: 435 |
+| **[Japanese picture scrolls](docs/Quests/Adventure/5001-6000/quest_5840.md)** | Adventure quest (10) | 探索(15)美術(17)日本語 | Reward: 950,000 / Advance payment: 90,000 Experience: 680 / Fame: 435 |

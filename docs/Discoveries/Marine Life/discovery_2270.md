@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Jumping Fish](Quests/Other/quest_840.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |
+| **[Map of Jumping Fish](docs/Quests/Other/1-1000/quest_840.md)** | Biology学(2) | Ecological Survey(2)Biology(2) |  |

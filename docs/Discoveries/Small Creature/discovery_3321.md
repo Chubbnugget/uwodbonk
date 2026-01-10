@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Symbol of Kingship](Quests/Adventure/quest_6169.md)** | Adventure Quest (7) B.C. | Ecological research (7) Biology (9) Arabic | Reward: 103,000/Advance payment: 10,000Experience: 150 |
+| **[Symbol of Kingship](docs/Quests/Adventure/6001-7000/quest_6169.md)** | Adventure Quest (7) B.C. | Ecological research (7) Biology (9) Arabic | Reward: 103,000/Advance payment: 10,000Experience: 150 |

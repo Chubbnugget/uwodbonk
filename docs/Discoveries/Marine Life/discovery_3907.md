@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big shadow running on the sea](Quests/Adventure/quest_6895.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Spanish (1) | Remuneration: 540,000 / Advance payment: 50,000 |
+| **[Big shadow running on the sea](docs/Quests/Adventure/6001-7000/quest_6895.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Spanish (1) | Remuneration: 540,000 / Advance payment: 50,000 |

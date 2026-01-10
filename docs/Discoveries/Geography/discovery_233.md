@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Wetland](Quests/Adventure/quest_1323.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Mon-Khmer languages | Reward: 57,000 / Advance payment: 0Experience: 220 / Fame: 70 |
+| **[Giant Wetland](docs/Quests/Adventure/1001-2000/quest_1323.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Mon-Khmer languages | Reward: 57,000 / Advance payment: 0Experience: 220 / Fame: 70 |

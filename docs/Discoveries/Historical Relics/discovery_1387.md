@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[鄭和の航海誌](Quests/Adventure/quest_1532.md)** | Adventure quest (5) 15th century 1st period | Exploration (4) Archeology (6) Malayu Tagalog | Reward: 25,000 / Advance payment: 0Experience: 220 / Fame: 70 |
-| **[Indicators for advancing towards the Spice Islands](Quests/Other/quest_2076.md)** | Imperial command quest (3) | Exploration(4)Archaeology(6) |  |
+| **[鄭和の航海誌](docs/Quests/Adventure/1001-2000/quest_1532.md)** | Adventure quest (5) 15th century 1st period | Exploration (4) Archeology (6) Malayu Tagalog | Reward: 25,000 / Advance payment: 0Experience: 220 / Fame: 70 |
+| **[Indicators for advancing towards the Spice Islands](docs/Quests/Other/2001-3000/quest_2076.md)** | Imperial command quest (3) | Exploration(4)Archaeology(6) |  |

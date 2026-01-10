@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Azuchi Castle (deep hidden room)](Quests/Other/quest_4810.md)** | Dungeon (5) | - |  |
+| **[Azuchi Castle (deep hidden room)](docs/Quests/Other/4001-5000/quest_4810.md)** | Dungeon (5) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Respect for nature](Quests/Adventure/quest_3850.md)** | Adventure quest (5) 19th century | Geography (6) Visual recognition (4) North American languages | Reward: 72,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Respect for nature](docs/Quests/Adventure/3001-4000/quest_3850.md)** | Adventure quest (5) 19th century | Geography (6) Visual recognition (4) North American languages | Reward: 72,000 / Advance payment: 0Experience: 130 / Fame: 65 |

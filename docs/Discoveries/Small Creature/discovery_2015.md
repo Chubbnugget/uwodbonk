@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dark night commotion](Quests/Adventure/quest_1633.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Swahili | Reward: 92,000/ Advance: 10,000 Experience: 290/ Fame: 100 |
+| **[Dark night commotion](docs/Quests/Adventure/1001-2000/quest_1633.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Swahili | Reward: 92,000/ Advance: 10,000 Experience: 290/ Fame: 100 |

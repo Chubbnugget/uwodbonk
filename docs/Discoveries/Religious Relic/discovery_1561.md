@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue of Tathagata Buddha](Quests/Adventure/quest_1355.md)** | Adventure quest (7) | Religious Studies (9) Exploration (7) Unlocking (7) | Reward: 20,000 / Advance payment: 0Experience: 240 / Fame: 77 |
+| **[Statue of Tathagata Buddha](docs/Quests/Adventure/1001-2000/quest_1355.md)** | Adventure quest (7) | Religious Studies (9) Exploration (7) Unlocking (7) | Reward: 20,000 / Advance payment: 0Experience: 240 / Fame: 77 |

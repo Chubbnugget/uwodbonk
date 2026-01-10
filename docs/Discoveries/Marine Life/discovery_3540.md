@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of leopard octopus](Quests/Other/quest_6462.md)** | Pursuit quest (3) | Ecological research (8) Biology (10) Persian (1) | Reward: 215,000 / Advance payment: 0Experience: 380 |
+| **[Additional investigation of leopard octopus](docs/Quests/Other/6001-7000/quest_6462.md)** | Pursuit quest (3) | Ecological research (8) Biology (10) Persian (1) | Reward: 215,000 / Advance payment: 0Experience: 380 |

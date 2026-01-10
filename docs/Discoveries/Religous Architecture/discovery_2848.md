@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Church under the ground](Quests/Adventure/quest_5516.md)** | Adventure quest (4) | Religious Studies (6) Visual Recognition (4) Arabic | Reward: 141,000 / Advance payment: 10,000 Experience: 180 / Fame: 95 |
+| **[Church under the ground](docs/Quests/Adventure/5001-6000/quest_5516.md)** | Adventure quest (4) | Religious Studies (6) Visual Recognition (4) Arabic | Reward: 141,000 / Advance payment: 10,000 Experience: 180 / Fame: 95 |

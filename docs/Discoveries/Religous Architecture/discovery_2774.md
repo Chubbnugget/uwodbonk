@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Mysteries](Quests/Adventure/quest_5360.md)** | Adventure Quest (5) B.C. | Religious Studies (6) Visualization (4) Greek | Reward: 106,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[Ancient Mysteries](docs/Quests/Adventure/5001-6000/quest_5360.md)** | Adventure Quest (5) B.C. | Religious Studies (6) Visualization (4) Greek | Reward: 106,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

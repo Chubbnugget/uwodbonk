@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient paintings](Quests/Adventure/quest_5623.md)** | Adventure quest (3) | Archeology (5) Visualization (3) Norse | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Ancient paintings](docs/Quests/Adventure/5001-6000/quest_5623.md)** | Adventure quest (3) | Archeology (5) Visualization (3) Norse | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 70 |

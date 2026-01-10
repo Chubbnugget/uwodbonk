@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Alexandria](Quests/Other/quest_5020.md)** | Port/village (1) | - |  |
+| **[Alexandria](docs/Quests/Other/5001-6000/quest_5020.md)** | Port/village (1) | - |  |

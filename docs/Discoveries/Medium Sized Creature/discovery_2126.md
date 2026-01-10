@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Singing dog](Quests/Adventure/quest_3322.md)** | Adventure quest (6) | Ecological Survey (4) Biology (6) Spanish | Reward: 205,000 / Advance payment: 20,000 Experience: 240 / Fame: 210 |
+| **[Singing dog](docs/Quests/Adventure/3001-4000/quest_3322.md)** | Adventure quest (6) | Ecological Survey (4) Biology (6) Spanish | Reward: 205,000 / Advance payment: 20,000 Experience: 240 / Fame: 210 |

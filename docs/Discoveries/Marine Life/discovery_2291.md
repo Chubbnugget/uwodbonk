@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[President Baldi's Interest](Quests/Adventure/quest_2248.md)** | Adventure quest (8) | Ecological research (5) Biology (7) Mayan languages | Reward: 310,000 / Advance payment: 30,000 Experience: 330 / Fame: 140 |
+| **[President Baldi's Interest](docs/Quests/Adventure/2001-3000/quest_2248.md)** | Adventure quest (8) | Ecological research (5) Biology (7) Mayan languages | Reward: 310,000 / Advance payment: 30,000 Experience: 330 / Fame: 140 |

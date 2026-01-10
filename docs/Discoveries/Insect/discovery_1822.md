@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue Dragonfly Investigation](Quests/Adventure/quest_751.md)** | Adventure quest (4) | Ecological research (1) Biology (3) Italian | Reward: 22,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Blue Dragonfly Investigation](docs/Quests/Adventure/1-1000/quest_751.md)** | Adventure quest (4) | Ecological research (1) Biology (3) Italian | Reward: 22,000 / Advance payment: 0Experience: 140 / Fame: 65 |

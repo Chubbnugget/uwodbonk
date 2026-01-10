@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Greek bard](Quests/Adventure/quest_4973.md)** | Adventure Quest (2) Mythology Era | Astronomy (4) Visualization (2) Greek | Reward: 91,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Ancient Greek bard](docs/Quests/Adventure/4001-5000/quest_4973.md)** | Adventure Quest (2) Mythology Era | Astronomy (4) Visualization (2) Greek | Reward: 91,000 / Advance payment: 0Experience: 150 / Fame: 70 |

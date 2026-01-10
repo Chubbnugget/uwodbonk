@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rome](Quests/Other/quest_5180.md)** | Port/village (1) | - |  |
+| **[Rome](docs/Quests/Other/5001-6000/quest_5180.md)** | Port/village (1) | - |  |

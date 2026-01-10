@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on cottontail rabbits](Quests/Other/quest_6631.md)** | Pursuit quest (3) | Ecological research (10) Biology (12) English (1) | Reward: 160,000 |
+| **[Additional research on cottontail rabbits](docs/Quests/Other/6001-7000/quest_6631.md)** | Pursuit quest (3) | Ecological research (10) Biology (12) English (1) | Reward: 160,000 |

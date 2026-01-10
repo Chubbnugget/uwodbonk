@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Amber Burial Goods](Quests/Other/quest_6639.md)** | Legacy(1) | - |  |
+| **[Amber Burial Goods](docs/Quests/Other/6001-7000/quest_6639.md)** | Legacy(1) | - |  |

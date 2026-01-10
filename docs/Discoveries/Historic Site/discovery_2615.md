@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sacred place of the medical god](Quests/Adventure/quest_4970.md)** | Adventure Quest (7) B.C. | Archeology (12) Visualization (10) French (1) | Reward: 234,000 / Advance payment: 20,000 Experience: 270 / Fame: 230 |
+| **[Sacred place of the medical god](docs/Quests/Adventure/4001-5000/quest_4970.md)** | Adventure Quest (7) B.C. | Archeology (12) Visualization (10) French (1) | Reward: 234,000 / Advance payment: 20,000 Experience: 270 / Fame: 230 |

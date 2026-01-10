@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red Stars shining in the night sky](Quests/Adventure/quest_3770.md)** | Adventure quest (4) | Astronomy (5) Visual recognition (3) German | Reward: 145,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |
+| **[Red Stars shining in the night sky](docs/Quests/Adventure/3001-4000/quest_3770.md)** | Adventure quest (4) | Astronomy (5) Visual recognition (3) German | Reward: 145,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |

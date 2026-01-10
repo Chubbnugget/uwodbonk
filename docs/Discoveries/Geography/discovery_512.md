@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[An island where culture gathers](Quests/Adventure/quest_2351.md)** | Adventure Quest (7) 15th Century 2nd Period | Geography (8) Visualization (6) Spanish | Reward: 148,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[An island where culture gathers](docs/Quests/Adventure/2001-3000/quest_2351.md)** | Adventure Quest (7) 15th Century 2nd Period | Geography (8) Visualization (6) Spanish | Reward: 148,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

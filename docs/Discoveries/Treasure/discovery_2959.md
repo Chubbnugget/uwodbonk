@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars Book Map](Quests/Other/quest_5641.md)** | Treasures鑑定(8) | Exploration (8) Treasures Appraisal (8) Unlocking (8) |  |
+| **[Stars Book Map](docs/Quests/Other/5001-6000/quest_5641.md)** | Treasures鑑定(8) | Exploration (8) Treasures Appraisal (8) Unlocking (8) |  |

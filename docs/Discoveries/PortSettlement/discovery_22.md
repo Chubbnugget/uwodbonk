@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cairo](Quests/Other/quest_5032.md)** | Port/village (1) | - |  |
+| **[Cairo](docs/Quests/Other/5001-6000/quest_5032.md)** | Port/village (1) | - |  |

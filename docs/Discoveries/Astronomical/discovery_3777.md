@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ernat](Quests/Other/quest_6735.md)** | Celestial Object Discovery Name(7)14th century | Astronomy(7)Visualization(7) | Experience：510 |
+| **[Ernat](docs/Quests/Other/6001-7000/quest_6735.md)** | Celestial Object Discovery Name(7)14th century | Astronomy(7)Visualization(7) | Experience：510 |

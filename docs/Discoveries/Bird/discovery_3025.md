@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black and white bird map](Quests/Other/quest_5746.md)** | Re-examination reward (6) | Ecological Survey(6)Biology(6) |  |
+| **[Black and white bird map](docs/Quests/Other/5001-6000/quest_5746.md)** | Re-examination reward (6) | Ecological Survey(6)Biology(6) |  |

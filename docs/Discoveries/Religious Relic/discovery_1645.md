@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient books](Quests/Other/quest_2879.md)** | Religious Studies(5) | Religious Studies (5) Exploration (5) Unlocking (5) |  |
+| **[Map of ancient books](docs/Quests/Other/2001-3000/quest_2879.md)** | Religious Studies(5) | Religious Studies (5) Exploration (5) Unlocking (5) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Trieste](Quests/Other/quest_5098.md)** | Port/village (1) | - |  |
+| **[Trieste](docs/Quests/Other/5001-6000/quest_5098.md)** | Port/village (1) | - |  |

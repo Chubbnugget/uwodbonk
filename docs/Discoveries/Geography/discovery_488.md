@@ -26,5 +26,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Geography survey in Anping](Quests/Adventure/quest_2624.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Chinese | Reward: 101,000 / Advance payment: 10,000 Experience: 160 / Fame: 98 |
-| **[Securing water sources during research](Quests/Other/quest_2319.md)** | Imperial command quest (4) | Geography (5) Visual recognition (3) |  |
+| **[Geography survey in Anping](docs/Quests/Adventure/2001-3000/quest_2624.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Chinese | Reward: 101,000 / Advance payment: 10,000 Experience: 160 / Fame: 98 |
+| **[Securing water sources during research](docs/Quests/Other/2001-3000/quest_2319.md)** | Imperial command quest (4) | Geography (5) Visual recognition (3) |  |

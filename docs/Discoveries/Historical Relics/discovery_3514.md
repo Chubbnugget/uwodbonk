@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pope's Abacus](Quests/Other/quest_6436.md)** | Legacy(1) | - |  |
+| **[Pope's Abacus](docs/Quests/Other/6001-7000/quest_6436.md)** | Legacy(1) | - |  |

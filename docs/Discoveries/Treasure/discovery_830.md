@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[安土城（中層）](Quests/Other/quest_2435.md)** | Dungeon (5) | - |  |
+| **[安土城（中層）](docs/Quests/Other/2001-3000/quest_2435.md)** | Dungeon (5) | - |  |

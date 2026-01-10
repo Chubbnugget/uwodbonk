@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Servant of Zeus](Quests/Adventure/quest_3942.md)** | Adventure Quest (2) Mythology Era | Astronomy (3) Visualization (1) Greek | Reward: 149,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[Servant of Zeus](docs/Quests/Adventure/3001-4000/quest_3942.md)** | Adventure Quest (2) Mythology Era | Astronomy (3) Visualization (1) Greek | Reward: 149,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

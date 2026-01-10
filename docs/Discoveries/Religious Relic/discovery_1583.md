@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Prayer Scripture](Quests/Adventure/quest_2730.md)** | Adventure quest (4) | Religious Studies (6) Exploration (4) Unlocking (4) | Reward: 156,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[Prayer Scripture](docs/Quests/Adventure/2001-3000/quest_2730.md)** | Adventure quest (4) | Religious Studies (6) Exploration (4) Unlocking (4) | Reward: 156,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

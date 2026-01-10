@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Oohomora](Quests/Other/quest_5912.md)** | Fishing (1) | fishing | Experience：680 |
+| **[Oohomora](docs/Quests/Other/5001-6000/quest_5912.md)** | Fishing (1) | fishing | Experience：680 |

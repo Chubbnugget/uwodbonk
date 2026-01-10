@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Poisonous snake](Quests/Adventure/quest_5309.md)** | Adventure quest (9) | Ecological research (8) Biology (10) West African languages | Reward: 309,000 / Advance payment: 30,000 Experience: 280 / Fame: 165 |
+| **[Poisonous snake](docs/Quests/Adventure/5001-6000/quest_5309.md)** | Adventure quest (9) | Ecological research (8) Biology (10) West African languages | Reward: 309,000 / Advance payment: 30,000 Experience: 280 / Fame: 165 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[東西交易の要衝](Quests/Adventure/quest_1542.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Malayu Tagalog | Reward: 76,000 / Advance payment: 0Experience: 220 / Fame: 75 |
+| **[東西交易の要衝](docs/Quests/Adventure/1001-2000/quest_1542.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Malayu Tagalog | Reward: 76,000 / Advance payment: 0Experience: 220 / Fame: 75 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Spell-engraved pyramid](Quests/Adventure/quest_6954.md)** | Adventure quest (6) | Religious Studies (8) Visualization (6) Arabic (1) | Reward: 111,000/Advance: 10,000Experience: 160 |
+| **[Spell-engraved pyramid](docs/Quests/Adventure/6001-7000/quest_6954.md)** | Adventure quest (6) | Religious Studies (8) Visualization (6) Arabic (1) | Reward: 111,000/Advance: 10,000Experience: 160 |

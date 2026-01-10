@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kings' Rest](Quests/Adventure/quest_6775.md)** | Adventure quest (7) | Religious Studies (10) Visual Recognition (8) German | Reward: 180,000/ Advance: 20,000Experience: 150/ Fame: 120 |
+| **[Kings' Rest](docs/Quests/Adventure/6001-7000/quest_6775.md)** | Adventure quest (7) | Religious Studies (10) Visual Recognition (8) German | Reward: 180,000/ Advance: 20,000Experience: 150/ Fame: 120 |

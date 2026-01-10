@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Sword User](Quests/Adventure/quest_6777.md)** | Adventure quest (7) | 探索(8)Treasures鑑定(10)日本語(1) | Remuneration: 380,000 / Advance payment: 40,000 |
+| **[Giant Sword User](docs/Quests/Adventure/6001-7000/quest_6777.md)** | Adventure quest (7) | 探索(8)Treasures鑑定(10)日本語(1) | Remuneration: 380,000 / Advance payment: 40,000 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Producing area of ​​good port](Quests/Adventure/quest_1177.md)** | Adventure quest (2) | Geography (2) Visualization (1) Norse (1) |  |
+| **[Producing area of ​​good port](docs/Quests/Adventure/1001-2000/quest_1177.md)** | Adventure quest (2) | Geography (2) Visualization (1) Norse (1) |  |

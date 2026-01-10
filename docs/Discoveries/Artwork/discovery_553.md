@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stolen Gold Sculpture](Quests/Adventure/quest_1809.md)** | Adventure Quest (9) 16th Century 3rd Period | Exploration (11) Art (13) Unlocking (11) | Reward: 84,000 / Advance payment: 0Experience: 140 |
+| **[Stolen Gold Sculpture](docs/Quests/Adventure/1001-2000/quest_1809.md)** | Adventure Quest (9) 16th Century 3rd Period | Exploration (11) Art (13) Unlocking (11) | Reward: 84,000 / Advance payment: 0Experience: 140 |

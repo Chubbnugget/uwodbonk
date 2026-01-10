@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Angkor ruins](Quests/Other/quest_6729.md)** | Pursuit quest (9) | Religious Studies (13) Visual Recognition (11) French (1) | Reward: 400,000 / Advance payment: 0Experience: 790 |
+| **[Additional investigation of Angkor ruins](docs/Quests/Other/6001-7000/quest_6729.md)** | Pursuit quest (9) | Religious Studies (13) Visual Recognition (11) French (1) | Reward: 400,000 / Advance payment: 0Experience: 790 |

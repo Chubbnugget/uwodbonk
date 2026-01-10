@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Trumpet of the Apocalypse](Quests/Adventure/quest_5833.md)** | Adventure quest (15) | Exploration (15) Treasures Appraisal (17) Arctic languages | Reward: 406,000 / Advance payment: 40,000 Experience: 340 / Fame: 205 |
+| **[Trumpet of the Apocalypse](docs/Quests/Adventure/5001-6000/quest_5833.md)** | Adventure quest (15) | Exploration (15) Treasures Appraisal (17) Arctic languages | Reward: 406,000 / Advance payment: 40,000 Experience: 340 / Fame: 205 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Galileo's works](Quests/Adventure/quest_5231.md)** | Adventure quest (4) 17th century 1st period | Astronomy(1)Exploration(3)Treasures Identification(5) | Reward: 82,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Galileo's works](docs/Quests/Adventure/5001-6000/quest_5231.md)** | Adventure quest (4) 17th century 1st period | Astronomy(1)Exploration(3)Treasures Identification(5) | Reward: 82,000 / Advance payment: 0Experience: 140 / Fame: 70 |

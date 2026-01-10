@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Philosopher's Stone](Quests/Adventure/quest_479.md)** | Adventure Quest (6) 16th Century 2nd Period | Exploration (11) Treasures Appraisal (13) Italian | Reward: 0 / Advance payment: 0 Experience: 160 / Fame: 75 |
+| **[Philosopher's Stone](docs/Quests/Adventure/1-1000/quest_479.md)** | Adventure Quest (6) 16th Century 2nd Period | Exploration (11) Treasures Appraisal (13) Italian | Reward: 0 / Advance payment: 0 Experience: 160 / Fame: 75 |

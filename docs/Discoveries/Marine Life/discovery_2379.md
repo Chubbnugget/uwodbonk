@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Megane Mochino](Quests/Other/quest_1996.md)** | Fishing (6) | Fishing (6) |  |
+| **[Megane Mochino](docs/Quests/Other/1001-2000/quest_1996.md)** | Fishing (6) | Fishing (6) |  |

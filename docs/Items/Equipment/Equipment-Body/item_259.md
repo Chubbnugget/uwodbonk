@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | acton |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 3,800 |
 | **Description** | Durable clothes that are easy to move in. It is especially widely worn by adventurers. Gender restriction Male Durability 30 Formal wear 3 Defense 3 |

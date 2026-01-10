@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars of the Goddess of Beauty](Quests/Adventure/quest_3766.md)** | Adventure Quest (1) Myth Era | Astronomy (2) Visual recognition (1) Spanish | Reward: 115,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Stars of the Goddess of Beauty](docs/Quests/Adventure/3001-4000/quest_3766.md)** | Adventure Quest (1) Myth Era | Astronomy (2) Visual recognition (1) Spanish | Reward: 115,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

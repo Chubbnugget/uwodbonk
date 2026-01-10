@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ceylon](Quests/Other/quest_5082.md)** | Port/village (1) | - |  |
+| **[Ceylon](docs/Quests/Other/5001-6000/quest_5082.md)** | Port/village (1) | - |  |

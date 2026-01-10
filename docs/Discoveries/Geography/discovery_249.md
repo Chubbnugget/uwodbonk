@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Basic survey of the northwest coast of the continent](Quests/Adventure/quest_1518.md)** | Adventure Quest (5) 17th Century 2nd Period | Geography (6) Visual recognition (4) Oceanian languages | Reward: 136,000 / Advance payment: 10,000 Experience: 270 / Fame: 95 |
+| **[Basic survey of the northwest coast of the continent](docs/Quests/Adventure/1001-2000/quest_1518.md)** | Adventure Quest (5) 17th Century 2nd Period | Geography (6) Visual recognition (4) Oceanian languages | Reward: 136,000 / Advance payment: 10,000 Experience: 270 / Fame: 95 |

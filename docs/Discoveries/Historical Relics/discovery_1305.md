@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient history materials](Quests/Adventure/quest_2815.md)** | Adventure quest (5) | Exploration (4) Archeology (6) Unlocking (4) | Reward: 106,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[Ancient history materials](docs/Quests/Adventure/2001-3000/quest_2815.md)** | Adventure quest (5) | Exploration (4) Archeology (6) Unlocking (4) | Reward: 106,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

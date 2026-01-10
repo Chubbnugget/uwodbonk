@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black-headed bird map](Quests/Other/quest_5470.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：120 |
+| **[Black-headed bird map](docs/Quests/Other/5001-6000/quest_5470.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：120 |

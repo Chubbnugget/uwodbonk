@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Jewelry Map](Quests/Other/quest_546.md)** | Archeology(3) | Exploration (3) Archeology (3) Unlocking (3) |  |
+| **[Ancient Jewelry Map](docs/Quests/Other/1-1000/quest_546.md)** | Archeology(3) | Exploration (3) Archeology (3) Unlocking (3) |  |

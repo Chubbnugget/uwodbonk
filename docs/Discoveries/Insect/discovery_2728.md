@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Spider-like insect map](Quests/Other/quest_5317.md)** | Re-examination reward (7) | Ecological Survey(7)Biology(7) |  |
+| **[Spider-like insect map](docs/Quests/Other/5001-6000/quest_5317.md)** | Re-examination reward (7) | Ecological Survey(7)Biology(7) |  |

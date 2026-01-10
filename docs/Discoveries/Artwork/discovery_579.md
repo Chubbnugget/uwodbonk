@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The End of the Trojan War](Quests/Adventure/quest_1260.md)** | Adventure quest (8) | 探索(8)美術(10)Treasures鑑定(1) | Reward: 150,000/ Advance: 20,000 Experience: 300/ Fame: 120 |
+| **[The End of the Trojan War](docs/Quests/Adventure/1001-2000/quest_1260.md)** | Adventure quest (8) | 探索(8)美術(10)Treasures鑑定(1) | Reward: 150,000/ Advance: 20,000 Experience: 300/ Fame: 120 |

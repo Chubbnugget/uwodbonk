@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Headdress Map](Quests/Other/quest_6945.md)** | Archeology(9) | Exploration(9)Archaeology(9) | Experience：350 |
+| **[Ancient Headdress Map](docs/Quests/Other/6001-7000/quest_6945.md)** | Archeology(9) | Exploration(9)Archaeology(9) | Experience：350 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of armored animals](Quests/Other/quest_6566.md)** | Pursuit quest (4) | Ecological research (12) Biology (14) Indian languages | Reward: 400,000 / Advance payment: 0Experience: 1,550 |
+| **[Additional investigation of armored animals](docs/Quests/Other/6001-7000/quest_6566.md)** | Pursuit quest (4) | Ecological research (12) Biology (14) Indian languages | Reward: 400,000 / Advance payment: 0Experience: 1,550 |

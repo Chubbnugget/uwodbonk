@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The one who destroyed Western Rome](Quests/Adventure/quest_747.md)** | Adventure quest (4) | Exploration (1) Archeology (2) Italian | Reward: 2,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[The one who destroyed Western Rome](docs/Quests/Adventure/1-1000/quest_747.md)** | Adventure quest (4) | Exploration (1) Archeology (2) Italian | Reward: 2,000 / Advance payment: 0Experience: 130 / Fame: 65 |

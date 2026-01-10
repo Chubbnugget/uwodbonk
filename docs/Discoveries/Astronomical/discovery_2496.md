@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The outcome of the battle](Quests/Adventure/quest_4842.md)** | Adventure Quest (8) Mythology Era | Astronomy (8) Visualization (6) French | Reward: 563,000 / Advance payment: 50,000 Experience: 540 / Fame: 220 |
+| **[The outcome of the battle](docs/Quests/Adventure/4001-5000/quest_4842.md)** | Adventure Quest (8) Mythology Era | Astronomy (8) Visualization (6) French | Reward: 563,000 / Advance payment: 50,000 Experience: 540 / Fame: 220 |

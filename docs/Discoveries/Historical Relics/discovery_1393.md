@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Burial Clothes of Ancient Kings](Quests/Adventure/quest_2832.md)** | Adventure Quest (8) B.C. | Exploration (9) Archeology (11) Unlocking (9) | Reward: 236,000/ Advance: 20,000Experience: 290/ Fame: 125 |
+| **[Burial Clothes of Ancient Kings](docs/Quests/Adventure/2001-3000/quest_2832.md)** | Adventure Quest (8) B.C. | Exploration (9) Archeology (11) Unlocking (9) | Reward: 236,000/ Advance: 20,000Experience: 290/ Fame: 125 |

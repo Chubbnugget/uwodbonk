@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gift for a noble person](Quests/Adventure/quest_2902.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Chinese (1) | Reward: 162,000 / Advance payment: 10,000 Experience: 210 / Fame: 190 |
+| **[Gift for a noble person](docs/Quests/Adventure/2001-3000/quest_2902.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Chinese (1) | Reward: 162,000 / Advance payment: 10,000 Experience: 210 / Fame: 190 |

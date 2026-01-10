@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hippo hates water](Quests/Adventure/quest_709.md)** | Adventure quest (9) | Ecological Survey (9) Biology (11) Portuguese | Reward: 278,000 / Advance payment: 50,000 Experience: 230 / Fame: 125 |
-| **[Quest of the Master](Quests/Adventure/quest_823.md)** | Adventure quest (9) | Ecological Survey (11) Biology (11) Arabic | Reward: 260,000 / Advance payment: 0Experience: 270 |
+| **[Hippo hates water](docs/Quests/Adventure/1-1000/quest_709.md)** | Adventure quest (9) | Ecological Survey (9) Biology (11) Portuguese | Reward: 278,000 / Advance payment: 50,000 Experience: 230 / Fame: 125 |
+| **[Quest of the Master](docs/Quests/Adventure/1-1000/quest_823.md)** | Adventure quest (9) | Ecological Survey (11) Biology (11) Arabic | Reward: 260,000 / Advance payment: 0Experience: 270 |

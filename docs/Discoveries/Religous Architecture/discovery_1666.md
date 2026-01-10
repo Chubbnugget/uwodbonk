@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Authoritative oracle](Quests/Adventure/quest_475.md)** | Adventure Quest (3) B.C. | Religious Studies (1) Archeology (1) Visualization (1) Greek | Reward: 15,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Authoritative oracle](docs/Quests/Adventure/1-1000/quest_475.md)** | Adventure Quest (3) B.C. | Religious Studies (1) Archeology (1) Visualization (1) Greek | Reward: 15,000 / Advance payment: 0Experience: 130 / Fame: 65 |

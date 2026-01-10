@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Marriage certificate of a couple](Quests/Adventure/quest_37.md)** | Adventure Quest (4) 15th Century 2nd Period | Exploration (1) Art (3) Dutch | Reward: 23,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Marriage certificate of a couple](docs/Quests/Adventure/1-1000/quest_37.md)** | Adventure Quest (4) 15th Century 2nd Period | Exploration (1) Art (3) Dutch | Reward: 23,000 / Advance payment: 0Experience: 140 / Fame: 65 |

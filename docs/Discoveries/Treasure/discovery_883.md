@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue Treasure](Quests/Adventure/quest_2663.md)** | Adventure quest (2) | Exploration (2) Treasures Appraisal (4) Unlocking (2) | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 71 |
+| **[Blue Treasure](docs/Quests/Adventure/2001-3000/quest_2663.md)** | Adventure quest (2) | Exploration (2) Treasures Appraisal (4) Unlocking (2) | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 71 |

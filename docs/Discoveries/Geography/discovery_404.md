@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Island of Principe](Quests/Adventure/quest_270.md)** | Adventure quest (4) 15th century 4th period | Geography (2) Visual recognition (1) Portuguese | Reward: 104,500 / Advance payment: 0Experience: 385 / Fame: 192 |
+| **[Island of Principe](docs/Quests/Adventure/1-1000/quest_270.md)** | Adventure quest (4) 15th century 4th period | Geography (2) Visual recognition (1) Portuguese | Reward: 104,500 / Advance payment: 0Experience: 385 / Fame: 192 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mombasa](Quests/Other/quest_5164.md)** | Port/village (1) | - |  |
+| **[Mombasa](docs/Quests/Other/5001-6000/quest_5164.md)** | Port/village (1) | - |  |

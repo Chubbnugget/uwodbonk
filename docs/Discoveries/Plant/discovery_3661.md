@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tree that grows in the sea](Quests/Adventure/quest_6604.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Arabic (1) | Reward: 61,000/ Advance payment: 10,000 Experience: 130/ Fame: 65 |
+| **[Tree that grows in the sea](docs/Quests/Adventure/6001-7000/quest_6604.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Arabic (1) | Reward: 61,000/ Advance payment: 10,000 Experience: 130/ Fame: 65 |

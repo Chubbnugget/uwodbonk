@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The bell resounding throughout the Tang Dynasty](Quests/Adventure/quest_6894.md)** | Adventure quest (10) | Exploration(13)Archaeology(15)Chinese(1) | Remuneration: 268,000 / Advance payment: 30,000 |
+| **[The bell resounding throughout the Tang Dynasty](docs/Quests/Adventure/6001-7000/quest_6894.md)** | Adventure quest (10) | Exploration(13)Archaeology(15)Chinese(1) | Remuneration: 268,000 / Advance payment: 30,000 |

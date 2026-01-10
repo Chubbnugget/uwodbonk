@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Interrupted Quest](Quests/Adventure/quest_2508.md)** | Adventure Quest (8) 17th Century 2nd Period | Archeology (12) Visualization (10) Chinese | Reward: 217,000 / Advance payment: 20,000 Experience: 260 / Fame: 110 |
+| **[Interrupted Quest](docs/Quests/Adventure/2001-3000/quest_2508.md)** | Adventure Quest (8) 17th Century 2nd Period | Archeology (12) Visualization (10) Chinese | Reward: 217,000 / Advance payment: 20,000 Experience: 260 / Fame: 110 |

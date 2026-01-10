@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pepper Wreck](Quests/Other/quest_6662.md)** | Sunken ship (4) | salvage |  |
+| **[Pepper Wreck](docs/Quests/Other/6001-7000/quest_6662.md)** | Sunken ship (4) | salvage |  |

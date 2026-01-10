@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red Flower of Passion](Quests/Adventure/quest_6971.md)** | Adventure quest (9) | Ecological research (11) Biology (13) Spanish (1) | Reward: 555,000/Advance: 60,000Experience: 645 |
+| **[Red Flower of Passion](docs/Quests/Adventure/6001-7000/quest_6971.md)** | Adventure quest (9) | Ecological research (11) Biology (13) Spanish (1) | Reward: 555,000/Advance: 60,000Experience: 645 |

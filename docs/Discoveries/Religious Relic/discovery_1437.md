@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Egyptian Goddess](Quests/Adventure/quest_88.md)** | Adventure quest (4) | Religious Studies (2) Exploration (1) Arabic | Reward: 20,000 / Advance payment: 0Experience: 120 / Fame: 60 |
+| **[Egyptian Goddess](docs/Quests/Adventure/1-1000/quest_88.md)** | Adventure quest (4) | Religious Studies (2) Exploration (1) Arabic | Reward: 20,000 / Advance payment: 0Experience: 120 / Fame: 60 |

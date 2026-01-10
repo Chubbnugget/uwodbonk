@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Masuripatam](Quests/Other/quest_5152.md)** | Port/village (1) | - |  |
+| **[Masuripatam](docs/Quests/Other/5001-6000/quest_5152.md)** | Port/village (1) | - |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Free seaweed](Quests/Adventure/quest_1576.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Oceanian languages | Reward: 124,000 / Advance payment: 10,000 Experience: 330 / Fame: 110 |
+| **[Free seaweed](docs/Quests/Adventure/1001-2000/quest_1576.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Oceanian languages | Reward: 124,000 / Advance payment: 10,000 Experience: 330 / Fame: 110 |

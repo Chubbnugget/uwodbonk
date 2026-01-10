@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of African God Statues](Quests/Other/quest_26.md)** | Religious Studies(6) | Religious Studies(6)Exploration(6) |  |
+| **[Map of African God Statues](docs/Quests/Other/1-1000/quest_26.md)** | Religious Studies(6) | Religious Studies(6)Exploration(6) |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A small island that produces wealth](Quests/Adventure/quest_1318.md)** | Adventure Quest (4) 16th Century 2nd Period | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 75,000 / Advance payment: 0Experience: 290 / Fame: 100 |
+| **[A small island that produces wealth](docs/Quests/Adventure/1001-2000/quest_1318.md)** | Adventure Quest (4) 16th Century 2nd Period | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 75,000 / Advance payment: 0Experience: 290 / Fame: 100 |

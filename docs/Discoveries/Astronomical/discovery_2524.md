@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bright Stars observation record](Quests/Other/quest_4855.md)** | Astronomy(4) | Astronomy(4)Visualization(4) | Experience：180 |
+| **[Bright Stars observation record](docs/Quests/Other/4001-5000/quest_4855.md)** | Astronomy(4) | Astronomy(4)Visualization(4) | Experience：180 |

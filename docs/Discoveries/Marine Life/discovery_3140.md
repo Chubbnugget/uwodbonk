@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hoteyeso](Quests/Other/quest_5884.md)** | Fishing (4) | fishing | Experience：380 |
+| **[Hoteyeso](docs/Quests/Other/5001-6000/quest_5884.md)** | Fishing (4) | fishing | Experience：380 |

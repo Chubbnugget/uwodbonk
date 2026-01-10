@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Glass of Bohemia](Quests/Adventure/quest_5859.md)** | Adventure quest (10) | Exploration (15) Art (17) Dutch | Reward: 287,000/ Advance: 20,000Experience: 270/ Fame: 155 |
+| **[Glass of Bohemia](docs/Quests/Adventure/5001-6000/quest_5859.md)** | Adventure quest (10) | Exploration (15) Art (17) Dutch | Reward: 287,000/ Advance: 20,000Experience: 270/ Fame: 155 |

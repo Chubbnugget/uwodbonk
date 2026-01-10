@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Greek Games Statue](Quests/Adventure/quest_117.md)** | Adventure quest (5) | Exploration (2) Art (4) Greek | Reward: 42,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Greek Games Statue](docs/Quests/Adventure/1-1000/quest_117.md)** | Adventure quest (5) | Exploration (2) Art (4) Greek | Reward: 42,000 / Advance payment: 0Experience: 140 / Fame: 70 |

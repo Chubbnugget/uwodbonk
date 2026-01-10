@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Scorpion shining in the sky](Quests/Adventure/quest_3757.md)** | Adventure Quest (4) Mythology Era | Astronomy (5) Visual recognition (3) Italian | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Scorpion shining in the sky](docs/Quests/Adventure/3001-4000/quest_3757.md)** | Adventure Quest (4) Mythology Era | Astronomy (5) Visual recognition (3) Italian | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 70 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Goddess born from the sea](Quests/Adventure/quest_376.md)** | Adventure Quest (6) 15th Century 5th Period | Exploration (3) Art (5) Italian | Reward: 54,000 / Advance payment: 0Experience: 160 / Fame: 75 |
+| **[Goddess born from the sea](docs/Quests/Adventure/1-1000/quest_376.md)** | Adventure Quest (6) 15th Century 5th Period | Exploration (3) Art (5) Italian | Reward: 54,000 / Advance payment: 0Experience: 160 / Fame: 75 |

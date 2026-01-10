@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Record of the Great Lord](Quests/Adventure/quest_1016.md)** | Adventure Quest (5) B.C. | Exploration (2) Archeology (4) Arabic | Reward: 69,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Record of the Great Lord](docs/Quests/Adventure/1001-2000/quest_1016.md)** | Adventure Quest (5) B.C. | Exploration (2) Archeology (4) Arabic | Reward: 69,000 / Advance payment: 0Experience: 150 / Fame: 70 |

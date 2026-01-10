@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lima Church (Upper Level)](Quests/Other/quest_2919.md)** | Dungeon (5) | - |  |
+| **[Lima Church (Upper Level)](docs/Quests/Other/2001-3000/quest_2919.md)** | Dungeon (5) | - |  |

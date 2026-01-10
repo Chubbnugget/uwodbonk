@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Menelaus' Palace Investigation](Quests/Adventure/quest_4976.md)** | Adventure quest (3) 14th century | Religious Studies (4) Visualization (2) Greek | Reward: 67,000Experience: 130/ Fame: 65 |
+| **[Menelaus' Palace Investigation](docs/Quests/Adventure/4001-5000/quest_4976.md)** | Adventure quest (3) 14th century | Religious Studies (4) Visualization (2) Greek | Reward: 67,000Experience: 130/ Fame: 65 |

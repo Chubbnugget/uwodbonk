@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fascinated by Islamic architecture](Quests/Adventure/quest_5789.md)** | Adventure quest (10) | Religious Studies (17) Visual Recognition (15) Malayu Tagalog | Reward: 756,000 / Advance payment: 70,000 Experience: 560 / Fame: 350 |
+| **[Fascinated by Islamic architecture](docs/Quests/Adventure/5001-6000/quest_5789.md)** | Adventure quest (10) | Religious Studies (17) Visual Recognition (15) Malayu Tagalog | Reward: 756,000 / Advance payment: 70,000 Experience: 560 / Fame: 350 |

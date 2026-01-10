@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient village map](Quests/Other/quest_2336.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |
+| **[Ancient village map](docs/Quests/Other/2001-3000/quest_2336.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |

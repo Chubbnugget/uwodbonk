@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Blue feathered flower](Quests/Adventure/quest_752.md)** | Adventure quest (8) | Ecological research (7) Biology (9) West African languages | Reward: 180,000/ Advance: 20,000 Experience: 280/ Fame: 120 |
+| **[Blue feathered flower](docs/Quests/Adventure/1-1000/quest_752.md)** | Adventure quest (8) | Ecological research (7) Biology (9) West African languages | Reward: 180,000/ Advance: 20,000 Experience: 280/ Fame: 120 |

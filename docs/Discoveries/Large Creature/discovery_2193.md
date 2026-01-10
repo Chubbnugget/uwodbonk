@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Request for cooperation in bear investigation](Quests/Adventure/quest_3173.md)** | Adventure quest (7) | Ecological research (4) Biology (6) Spanish (1) | Reward: 141,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Request for cooperation in bear investigation](docs/Quests/Adventure/3001-4000/quest_3173.md)** | Adventure quest (7) | Ecological research (4) Biology (6) Spanish (1) | Reward: 141,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

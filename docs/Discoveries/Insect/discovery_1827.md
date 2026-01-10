@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rare insect map](Quests/Other/quest_2718.md)** | Biology学(5) | Ecological Survey(5)Biology(5) | Experience：170 |
+| **[Rare insect map](docs/Quests/Other/2001-3000/quest_2718.md)** | Biology学(5) | Ecological Survey(5)Biology(5) | Experience：170 |

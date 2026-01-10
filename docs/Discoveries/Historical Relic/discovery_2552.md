@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sacred Lands, Knights, and Treasures](Quests/Other/quest_3427.md)** | Treasure hunting (7) | Religion(12)Exploration(10)TreasuresIdentification(8) | Experience: 2,270/ Reputation: 905 |
+| **[Sacred Lands, Knights, and Treasures](docs/Quests/Other/3001-4000/quest_3427.md)** | Treasure hunting (7) | Religion(12)Exploration(10)TreasuresIdentification(8) | Experience: 2,270/ Reputation: 905 |

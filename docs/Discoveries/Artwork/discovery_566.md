@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Genius Young Era](Quests/Adventure/quest_861.md)** | Adventure Quest (7) 15th Century 5th Period | Exploration (4) Art (6) Italian | Reward: 68,000 / Advance payment: 0Experience: 180 / Fame: 85 |
+| **[Genius Young Era](docs/Quests/Adventure/1-1000/quest_861.md)** | Adventure Quest (7) 15th Century 5th Period | Exploration (4) Art (6) Italian | Reward: 68,000 / Advance payment: 0Experience: 180 / Fame: 85 |

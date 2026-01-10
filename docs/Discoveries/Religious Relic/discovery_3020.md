@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of old writing](Quests/Other/quest_5737.md)** | Re-examination reward (8) | Religious Studies(8)Exploration(8) |  |
+| **[Map of old writing](docs/Quests/Other/5001-6000/quest_5737.md)** | Re-examination reward (8) | Religious Studies(8)Exploration(8) |  |

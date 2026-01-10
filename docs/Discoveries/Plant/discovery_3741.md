@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of highly poisonous plants](Quests/Other/quest_6693.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |
+| **[Map of highly poisonous plants](docs/Quests/Other/6001-7000/quest_6693.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |

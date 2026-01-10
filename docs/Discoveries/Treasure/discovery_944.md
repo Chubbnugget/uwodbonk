@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Father's back](Quests/Adventure/quest_2935.md)** | Adventure quest (8) 17th century third period | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 214,000/ Advance: 20,000Experience: 270/ Fame: 115 |
+| **[Father's back](docs/Quests/Adventure/2001-3000/quest_2935.md)** | Adventure quest (8) 17th century third period | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 214,000/ Advance: 20,000Experience: 270/ Fame: 115 |

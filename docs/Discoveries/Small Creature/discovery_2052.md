@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lizard running on water](Quests/Adventure/quest_712.md)** | Adventure quest (8) | Ecological Survey (7) Biology (9) Spanish | Reward: 250,000 / Advance: 0Experience: 210 / Fame: 110 |
+| **[Lizard running on water](docs/Quests/Adventure/1-1000/quest_712.md)** | Adventure quest (8) | Ecological Survey (7) Biology (9) Spanish | Reward: 250,000 / Advance: 0Experience: 210 / Fame: 110 |

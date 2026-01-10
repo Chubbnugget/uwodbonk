@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Following Xuanzang's footsteps again](Quests/Adventure/quest_2836.md)** | Adventure quest (6) | 探索(6)Treasures鑑定(8)中国語 | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Following Xuanzang's footsteps again](docs/Quests/Adventure/2001-3000/quest_2836.md)** | Adventure quest (6) | 探索(6)Treasures鑑定(8)中国語 | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |

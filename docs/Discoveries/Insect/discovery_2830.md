@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful butterfly map](Quests/Other/quest_5486.md)** | Biology学(8) | Ecological Survey(8)Biology(8) | Experience：260 |
+| **[Beautiful butterfly map](docs/Quests/Other/5001-6000/quest_5486.md)** | Biology学(8) | Ecological Survey(8)Biology(8) | Experience：260 |

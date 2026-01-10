@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hairy Cloud](Quests/Other/quest_6741.md)** | Weather/phenomena (7) | Visual recognition (7) | Experience：450 |
+| **[Hairy Cloud](docs/Quests/Other/6001-7000/quest_6741.md)** | Weather/phenomena (7) | Visual recognition (7) | Experience：450 |

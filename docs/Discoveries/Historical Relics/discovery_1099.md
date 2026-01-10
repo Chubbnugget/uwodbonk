@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Caesar's Sword](Quests/Adventure/quest_99.md)** | Adventure Quest (6) B.C. | Exploration (4) Archeology (6) Unlocking (4) | Reward: 2,000 / Advance payment: 0Experience: 160 / Fame: 75 |
+| **[Caesar's Sword](docs/Quests/Adventure/1-1000/quest_99.md)** | Adventure Quest (6) B.C. | Exploration (4) Archeology (6) Unlocking (4) | Reward: 2,000 / Advance payment: 0Experience: 160 / Fame: 75 |

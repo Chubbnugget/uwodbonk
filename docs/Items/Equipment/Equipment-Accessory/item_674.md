@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | silk handkerchief |
 | **Type** | thing |
-| **Group** | [Equipment（服飾品）](Categories/category_28.md) |
+| **Group** | [Equipment（服飾品）](docs/Categories/category_28.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 20,000 |
 | **Description** | A handkerchief made of silk. It is a very expensive item. Durability 20 Formal Attire 3 Sociability +2 Total Fame Required 300 |

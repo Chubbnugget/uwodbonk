@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Do not track](Quests/Adventure/quest_6910.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Oceanian languages | Remuneration: 269,000 / Advance payment: 30,000 |
+| **[Do not track](docs/Quests/Adventure/6001-7000/quest_6910.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Oceanian languages | Remuneration: 269,000 / Advance payment: 30,000 |

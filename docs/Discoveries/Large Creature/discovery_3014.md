@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Alpine Livestock](Quests/Adventure/quest_5716.md)** | Adventure quest (7) | Ecological Survey (7) Biology (9) Thai-Burmese | Reward: 233,000/ Advance: 20,000Experience: 230/ Fame: 135 |
+| **[Alpine Livestock](docs/Quests/Adventure/5001-6000/quest_5716.md)** | Adventure quest (7) | Ecological Survey (7) Biology (9) Thai-Burmese | Reward: 233,000/ Advance: 20,000Experience: 230/ Fame: 135 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fisherman's Buddy](Quests/Adventure/quest_3196.md)** | Adventure quest (9) | Ecological research (6) Biology (8) Spanish (1) | Reward: 212,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[Fisherman's Buddy](docs/Quests/Adventure/3001-4000/quest_3196.md)** | Adventure quest (9) | Ecological research (6) Biology (8) Spanish (1) | Reward: 212,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

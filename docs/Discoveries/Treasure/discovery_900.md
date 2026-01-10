@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King who became a saint](Quests/Adventure/quest_743.md)** | Adventure quest (4) | Exploration (2) Treasures Appraisal (4) Unlocking (2) | Reward: 53,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[King who became a saint](docs/Quests/Adventure/1-1000/quest_743.md)** | Adventure quest (4) | Exploration (2) Treasures Appraisal (4) Unlocking (2) | Reward: 53,000 / Advance payment: 0Experience: 140 / Fame: 70 |

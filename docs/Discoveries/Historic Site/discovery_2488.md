@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sea Horn](Quests/Adventure/quest_4863.md)** | Adventure Quest (7) B.C. | Archeology (7) Visualization (5) Arabic | Reward: 276,000 / Advance payment: 20,000 Experience: 300 / Fame: 130 |
+| **[Sea Horn](docs/Quests/Adventure/4001-5000/quest_4863.md)** | Adventure Quest (7) B.C. | Archeology (7) Visualization (5) Arabic | Reward: 276,000 / Advance payment: 20,000 Experience: 300 / Fame: 130 |

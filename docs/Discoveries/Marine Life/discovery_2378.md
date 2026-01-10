@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Small whale map](Quests/Other/quest_3868.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：190 |
+| **[Small whale map](docs/Quests/Other/3001-4000/quest_3868.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：190 |

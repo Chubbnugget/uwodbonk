@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Achaemenid Golden Era](Quests/Adventure/quest_5.md)** | Adventure Quest (6) B.C. | Exploration (4) Archeology (6) Unlocking (4) | Reward: 159,000 / Advance payment: 0Experience: 160 / Fame: 85 |
+| **[Achaemenid Golden Era](docs/Quests/Adventure/1-1000/quest_5.md)** | Adventure Quest (6) B.C. | Exploration (4) Archeology (6) Unlocking (4) | Reward: 159,000 / Advance payment: 0Experience: 160 / Fame: 85 |

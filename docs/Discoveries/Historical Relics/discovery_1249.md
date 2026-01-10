@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Viking Country](Quests/Adventure/quest_75.md)** | Adventure quest (5) | Exploration (1) Archeology (3) Unlocking (1) | Reward: 31,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Viking Country](docs/Quests/Adventure/1-1000/quest_75.md)** | Adventure quest (5) | Exploration (1) Archeology (3) Unlocking (1) | Reward: 31,000 / Advance payment: 0Experience: 150 / Fame: 70 |

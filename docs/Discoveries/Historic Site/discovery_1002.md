@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Religious city of strange rocks](Quests/Adventure/quest_408.md)** | Adventure quest (6) | Geography (1) Archeology (5) Visualization (3) | Reward: 148,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |
+| **[Religious city of strange rocks](docs/Quests/Adventure/1-1000/quest_408.md)** | Adventure quest (6) | Geography (1) Archeology (5) Visualization (3) | Reward: 148,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |

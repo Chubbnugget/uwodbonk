@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Creepy Aquatic Biology Map](Quests/Other/quest_6808.md)** | Biology学(10) | Ecological Survey(10)Biology(10) |  |
+| **[Creepy Aquatic Biology Map](docs/Quests/Other/6001-7000/quest_6808.md)** | Biology学(10) | Ecological Survey(10)Biology(10) |  |

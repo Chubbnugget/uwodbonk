@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unusual shaped pot](Quests/Adventure/quest_5863.md)** | Adventure quest (10) | Exploration (15) Art (17) Malayu Tagalog | Reward: 748,000/Advance payment: 70,000Experience: 550 |
+| **[Unusual shaped pot](docs/Quests/Adventure/5001-6000/quest_5863.md)** | Adventure quest (10) | Exploration (15) Art (17) Malayu Tagalog | Reward: 748,000/Advance payment: 70,000Experience: 550 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Mesoamerican ritual vessels](Quests/Other/quest_1417.md)** | Religious Studies(8) | Religious Studies (8) Exploration (8) Unlocking (8) |  |
+| **[Map of Mesoamerican ritual vessels](docs/Quests/Other/1001-2000/quest_1417.md)** | Religious Studies(8) | Religious Studies (8) Exploration (8) Unlocking (8) |  |

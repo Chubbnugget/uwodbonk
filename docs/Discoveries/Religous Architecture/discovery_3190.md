@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Monastery under construction](Quests/Adventure/quest_5942.md)** | Adventure quest (7) | Religious Studies (9) Visual Recognition (7) Portuguese | Reward: 103,000 / Advance payment: 10,000 Experience: 225 / Fame: 120 |
+| **[Monastery under construction](docs/Quests/Adventure/5001-6000/quest_5942.md)** | Adventure quest (7) | Religious Studies (9) Visual Recognition (7) Portuguese | Reward: 103,000 / Advance payment: 10,000 Experience: 225 / Fame: 120 |

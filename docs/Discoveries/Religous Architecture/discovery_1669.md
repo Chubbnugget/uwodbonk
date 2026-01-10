@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cathedral dedicated to the Virgin](Quests/Adventure/quest_3150.md)** | Adventure quest (9) | Religious Studies (6) Visual Recognition (4) French (1) | Reward: 90,000Experience: 255/ Fame: 120 |
+| **[Cathedral dedicated to the Virgin](docs/Quests/Adventure/3001-4000/quest_3150.md)** | Adventure quest (9) | Religious Studies (6) Visual Recognition (4) French (1) | Reward: 90,000Experience: 255/ Fame: 120 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black Snow](Quests/Other/quest_6746.md)** | Weather/phenomena (8) | Visual recognition (8) |  |
+| **[Black Snow](docs/Quests/Other/6001-7000/quest_6746.md)** | Weather/phenomena (8) | Visual recognition (8) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation method of people's lives](Quests/Adventure/quest_2496.md)** | Adventure quest (3) | 探索(2)美術(4)日本語(1) | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Investigation method of people's lives](docs/Quests/Adventure/2001-3000/quest_2496.md)** | Adventure quest (3) | 探索(2)美術(4)日本語(1) | Reward: 66,000 / Advance payment: 0Experience: 130 / Fame: 65 |

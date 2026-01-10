@@ -3,6 +3,8 @@
 
 # Production
 /build
+build.zip
+yarn.lock
 
 # Generated files
 .docusaurus

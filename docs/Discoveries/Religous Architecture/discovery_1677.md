@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Architectural techniques of ancient Egypt](Quests/Adventure/quest_490.md)** | Adventure Quest (5) B.C. | Religious Studies (3) Visual Recognition (1) Arabic | Reward: 55,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Architectural techniques of ancient Egypt](docs/Quests/Adventure/1-1000/quest_490.md)** | Adventure Quest (5) B.C. | Religious Studies (3) Visual Recognition (1) Arabic | Reward: 55,000 / Advance payment: 0Experience: 130 / Fame: 65 |

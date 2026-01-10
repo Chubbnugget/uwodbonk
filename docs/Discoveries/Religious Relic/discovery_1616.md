@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rumors of the Mask of Ceuta](Quests/Adventure/quest_184.md)** | Adventure quest (4) | Religious Studies (1) Exploration (1) Portuguese | Reward: 0 / Advance payment: 0 Experience: 130 / Fame: 65 |
+| **[Rumors of the Mask of Ceuta](docs/Quests/Adventure/1-1000/quest_184.md)** | Adventure quest (4) | Religious Studies (1) Exploration (1) Portuguese | Reward: 0 / Advance payment: 0 Experience: 130 / Fame: 65 |

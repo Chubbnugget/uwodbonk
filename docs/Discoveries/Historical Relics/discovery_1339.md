@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of underground entrance](Quests/Other/quest_834.md)** | Archeology(9) | Exploration (9) Archeology (9) Unlocking (9) |  |
+| **[Map of underground entrance](docs/Quests/Other/1-1000/quest_834.md)** | Archeology(9) | Exploration (9) Archeology (9) Unlocking (9) |  |

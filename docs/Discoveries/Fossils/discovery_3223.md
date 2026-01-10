@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The height of strangeness](Quests/Adventure/quest_6024.md)** | Adventure Quest (10) B.C. | Exploration (12) Biology (14) North American languages | Reward: 638,000/Advance payment: 60,000Experience: 490 |
+| **[The height of strangeness](docs/Quests/Adventure/6001-7000/quest_6024.md)** | Adventure Quest (10) B.C. | Exploration (12) Biology (14) North American languages | Reward: 638,000/Advance payment: 60,000Experience: 490 |

@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Adventurer's Honor](Quests/Adventure/quest_2768.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Swordsmanship (7) | Remuneration: 100,000 / Advance payment: 20,000 |
-| **[The journey that connects dreams is long](Quests/Adventure/quest_1141.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Indian languages | Reward: 200,000/Advance payment: 20,000Experience: 480 |
+| **[Adventurer's Honor](docs/Quests/Adventure/2001-3000/quest_2768.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Swordsmanship (7) | Remuneration: 100,000 / Advance payment: 20,000 |
+| **[The journey that connects dreams is long](docs/Quests/Adventure/1001-2000/quest_1141.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Indian languages | Reward: 200,000/Advance payment: 20,000Experience: 480 |

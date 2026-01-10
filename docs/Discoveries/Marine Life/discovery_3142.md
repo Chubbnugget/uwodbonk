@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fish that looks like a stick](Quests/Adventure/quest_5871.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Japanese | Reward: 386,000/Advance payment: 30,000Experience: 330 |
+| **[Fish that looks like a stick](docs/Quests/Adventure/5001-6000/quest_5871.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Japanese | Reward: 386,000/Advance payment: 30,000Experience: 330 |

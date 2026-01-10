@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Encarnacion](Quests/Other/quest_6214.md)** | Sunken ship(8) | Salvage visibility (9) |  |
+| **[Encarnacion](docs/Quests/Other/6001-7000/quest_6214.md)** | Sunken ship(8) | Salvage visibility (9) |  |

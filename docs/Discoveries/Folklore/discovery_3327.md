@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore about Utopia](Quests/Other/quest_6184.md)** | Tradition (8) | Archeology(11) | Reward: 576,250 / Advance payment: 50,000 Experience: 580 / Fame: 290 |
+| **[Lore about Utopia](docs/Quests/Other/6001-7000/quest_6184.md)** | Tradition (8) | Archeology(11) | Reward: 576,250 / Advance payment: 50,000 Experience: 580 / Fame: 290 |

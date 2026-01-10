@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Track](Quests/Adventure/quest_1442.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Indian languages | Reward: 94,000 / Advance payment: 0Experience: 300 / Fame: 100 |
+| **[Track](docs/Quests/Adventure/1001-2000/quest_1442.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Indian languages | Reward: 94,000 / Advance payment: 0Experience: 300 / Fame: 100 |

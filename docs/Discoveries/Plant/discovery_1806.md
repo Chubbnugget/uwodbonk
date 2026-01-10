@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beyond Regret](Quests/Adventure/quest_3627.md)** | Adventure Quest (9) 17th Century 3rd Period | Ecological Survey (4) Biology (6) English | Reward: 273,000 / Advance payment: 20,000 Experience: 354 |
+| **[Beyond Regret](docs/Quests/Adventure/3001-4000/quest_3627.md)** | Adventure Quest (9) 17th Century 3rd Period | Ecological Survey (4) Biology (6) English | Reward: 273,000 / Advance payment: 20,000 Experience: 354 |

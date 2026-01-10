@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Great Stone House](Quests/Adventure/quest_800.md)** | Adventure Quest (5) 15th Century 3rd Period | Archeology (4) Visualization (2) Swahili | Reward: 120,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Great Stone House](docs/Quests/Adventure/1-1000/quest_800.md)** | Adventure Quest (5) 15th Century 3rd Period | Archeology (4) Visualization (2) Swahili | Reward: 120,000 / Advance payment: 0Experience: 140 / Fame: 70 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Searching for Hawaiki](Quests/Adventure/quest_1665.md)** | Adventure quest (7) | Religious Studies (7) Visual Recognition (5) Malayu Tagalog | Reward: 229,000 / Advance payment: 20,000 Experience: 370 / Fame: 122 |
+| **[Searching for Hawaiki](docs/Quests/Adventure/1001-2000/quest_1665.md)** | Adventure quest (7) | Religious Studies (7) Visual Recognition (5) Malayu Tagalog | Reward: 229,000 / Advance payment: 20,000 Experience: 370 / Fame: 122 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Long and beautiful tail feathers](Quests/Adventure/quest_1970.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Quechua | Reward: 210,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[Long and beautiful tail feathers](docs/Quests/Adventure/1001-2000/quest_1970.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Quechua | Reward: 210,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

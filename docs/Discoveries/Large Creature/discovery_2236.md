@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Arboreal Hunter](Quests/Adventure/quest_635.md)** | Adventure quest (7) | Ecological research (6) Biology (8) Swahili | Reward: 177,000 / Advance payment: 10,000 Experience: 180 / Fame: 95 |
+| **[Arboreal Hunter](docs/Quests/Adventure/1-1000/quest_635.md)** | Adventure quest (7) | Ecological research (6) Biology (8) Swahili | Reward: 177,000 / Advance payment: 10,000 Experience: 180 / Fame: 95 |

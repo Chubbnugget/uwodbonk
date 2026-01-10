@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Mesoamerican Artifacts](Quests/Other/quest_1565.md)** | Archeology(5) | Exploration (5) Archeology (5) Unlocking (5) |  |
+| **[Map of Mesoamerican Artifacts](docs/Quests/Other/1001-2000/quest_1565.md)** | Archeology(5) | Exploration (5) Archeology (5) Unlocking (5) |  |

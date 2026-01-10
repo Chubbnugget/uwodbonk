@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore about the nine tails](Quests/Other/quest_6648.md)** | Tradition (10) | Biology学(15) | Reward: 786,000/Advance payment: 80,000Experience: 700 |
+| **[Lore about the nine tails](docs/Quests/Other/6001-7000/quest_6648.md)** | Tradition (10) | Biology学(15) | Reward: 786,000/Advance payment: 80,000Experience: 700 |

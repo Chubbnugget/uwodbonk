@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Iron Map](Quests/Other/quest_6987.md)** | Archeology(8) | Exploration(8)Archaeology(8) |  |
+| **[Ancient Iron Map](docs/Quests/Other/6001-7000/quest_6987.md)** | Archeology(8) | Exploration(8)Archaeology(8) |  |

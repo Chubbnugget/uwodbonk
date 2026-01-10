@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The beginning of Russia](Quests/Adventure/quest_3655.md)** | Adventure quest (8) 18th century third period | Archeology (10) Visualization (8) Arctic languages | Reward: 699,000 / Advance payment: 60,000 Experience: 660 / Fame: 260 |
+| **[The beginning of Russia](docs/Quests/Adventure/3001-4000/quest_3655.md)** | Adventure quest (8) 18th century third period | Archeology (10) Visualization (8) Arctic languages | Reward: 699,000 / Advance payment: 60,000 Experience: 660 / Fame: 260 |

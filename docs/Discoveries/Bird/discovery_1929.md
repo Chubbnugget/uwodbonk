@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rainbow-colored divine bird](Quests/Adventure/quest_2082.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Spanish | Reward: 118,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Rainbow-colored divine bird](docs/Quests/Adventure/2001-3000/quest_2082.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Spanish | Reward: 118,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

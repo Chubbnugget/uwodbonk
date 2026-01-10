@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Incarnation of God](Quests/Adventure/quest_695.md)** | Adventure Quest (7) Mythology Era | Religious Studies (7) Exploration (5) Indian Languages | Reward: 128,000 / Advance payment: 0Experience: 210 / Fame: 95 |
+| **[Incarnation of God](docs/Quests/Adventure/1-1000/quest_695.md)** | Adventure Quest (7) Mythology Era | Religious Studies (7) Exploration (5) Indian Languages | Reward: 128,000 / Advance payment: 0Experience: 210 / Fame: 95 |

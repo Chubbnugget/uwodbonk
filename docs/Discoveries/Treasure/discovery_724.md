@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What my master left behind](Quests/Adventure/quest_3694.md)** | Adventure Quest (6) 18th Century Third Period | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 435,000 / Advance payment: 40,000 Experience: 440 / Fame: 180 |
+| **[What my master left behind](docs/Quests/Adventure/3001-4000/quest_3694.md)** | Adventure Quest (6) 18th Century Third Period | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 435,000 / Advance payment: 40,000 Experience: 440 / Fame: 180 |

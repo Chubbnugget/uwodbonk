@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on manta rays](Quests/Other/quest_6753.md)** | Pursuit quest (9) | Ecological research (11) Biology (13) Japanese (1) | Reward: 410,000 / Advance payment: 0Experience: 800 / Fame: 610 |
+| **[Additional research on manta rays](docs/Quests/Other/6001-7000/quest_6753.md)** | Pursuit quest (9) | Ecological research (11) Biology (13) Japanese (1) | Reward: 410,000 / Advance payment: 0Experience: 800 / Fame: 610 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mystery of Otaki Formation](Quests/Adventure/quest_5580.md)** | Adventure quest (7) | Geography (11) Visual recognition (9) North American languages | Reward: 525,000 / Advance payment: 50,000 Experience: 420 / Fame: 255 |
+| **[Mystery of Otaki Formation](docs/Quests/Adventure/5001-6000/quest_5580.md)** | Adventure quest (7) | Geography (11) Visual recognition (9) North American languages | Reward: 525,000 / Advance payment: 50,000 Experience: 420 / Fame: 255 |

@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wavy Cloud](Quests/Other/quest_6666.md)** | Weather/phenomena (1) | Visual recognition (5) | Experience：300 |
+| **[Wavy Cloud](docs/Quests/Other/6001-7000/quest_6666.md)** | Weather/phenomena (1) | Visual recognition (5) | Experience：300 |

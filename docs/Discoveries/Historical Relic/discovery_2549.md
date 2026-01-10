@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kunctator's Book of War](Quests/Other/quest_3629.md)** | Treasure hunting (7) | Exploration (11) Archeology (13) Latin | Experience: 2,600/ Reputation: 1,040 |
+| **[Kunctator's Book of War](docs/Quests/Other/3001-4000/quest_3629.md)** | Treasure hunting (7) | Exploration (11) Archeology (13) Latin | Experience: 2,600/ Reputation: 1,040 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gold shaped like a god](Quests/Adventure/quest_1870.md)** | Adventure quest (6) | Religious Studies (7) Exploration (5) Unlocking (5) | Reward: 78,000 / Advance payment: 0Experience: 140 / Fame: 140 |
+| **[Gold shaped like a god](docs/Quests/Adventure/1001-2000/quest_1870.md)** | Adventure quest (6) | Religious Studies (7) Exploration (5) Unlocking (5) | Reward: 78,000 / Advance payment: 0Experience: 140 / Fame: 140 |

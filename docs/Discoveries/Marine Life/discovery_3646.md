@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sohartongue](Quests/Other/quest_6589.md)** | Fishing (1) | fishing |  |
+| **[Sohartongue](docs/Quests/Other/6001-7000/quest_6589.md)** | Fishing (1) | fishing |  |

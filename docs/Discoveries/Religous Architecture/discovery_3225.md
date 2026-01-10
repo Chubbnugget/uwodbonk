@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sacred Land of the East](Quests/Adventure/quest_6036.md)** | Adventure quest (4) 15th century third period | Religious Studies (9) Visualization (7) Greek | Reward: 137,000/ Advance: 10,000 Experience: 170/ Fame: 95 |
+| **[Sacred Land of the East](docs/Quests/Adventure/6001-7000/quest_6036.md)** | Adventure quest (4) 15th century third period | Religious Studies (9) Visualization (7) Greek | Reward: 137,000/ Advance: 10,000 Experience: 170/ Fame: 95 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Indian art book](Quests/Other/quest_5261.md)** | Re-examination reward (4) | Exploration(4)Archaeology(4) | Experience: 250/ Reputation: 125 |
+| **[Map of Indian art book](docs/Quests/Other/5001-6000/quest_5261.md)** | Re-examination reward (4) | Exploration(4)Archaeology(4) | Experience: 250/ Reputation: 125 |

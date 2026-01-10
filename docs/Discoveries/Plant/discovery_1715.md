@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tableware tree](Quests/Adventure/quest_2962.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Mayan languages | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |
+| **[Tableware tree](docs/Quests/Adventure/2001-3000/quest_2962.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Mayan languages | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |

@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bow of the Robber](Quests/Other/quest_3704.md)** | Treasure hunting (9) | 探索(13)Treasures鑑定(15)英語 | Reward: 0 / Advance payment: 0 Experience: 3,030 / Fame: 2,420 |
+| **[Bow of the Robber](docs/Quests/Other/3001-4000/quest_3704.md)** | Treasure hunting (9) | 探索(13)Treasures鑑定(15)英語 | Reward: 0 / Advance payment: 0 Experience: 3,030 / Fame: 2,420 |

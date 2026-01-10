@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Abu Simbel Temple (Depth)](Quests/Other/quest_3734.md)** | Dungeon (3) | - |  |
+| **[Abu Simbel Temple (Depth)](docs/Quests/Other/3001-4000/quest_3734.md)** | Dungeon (3) | - |  |

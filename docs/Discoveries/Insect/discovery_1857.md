@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Boy-like bug hunting](Quests/Adventure/quest_2523.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Chinese (1) | Reward: 63,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Boy-like bug hunting](docs/Quests/Adventure/2001-3000/quest_2523.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Chinese (1) | Reward: 63,000 / Advance payment: 0Experience: 130 / Fame: 65 |

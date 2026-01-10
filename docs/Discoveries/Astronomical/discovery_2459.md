@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Winter Diamond](Quests/Other/quest_3782.md)** | Celestial Object Discovery Name(6)15th Century Issue 3 | Astronomy(6) |  |
+| **[Winter Diamond](docs/Quests/Other/3001-4000/quest_3782.md)** | Celestial Object Discovery Name(6)15th Century Issue 3 | Astronomy(6) |  |

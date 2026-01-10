@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Queen's Heart](Quests/Adventure/quest_654.md)** | Adventure quest (9) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 247,000/ Advance: 30,000Experience: 270/ Fame: 115 |
+| **[Queen's Heart](docs/Quests/Adventure/1-1000/quest_654.md)** | Adventure quest (9) | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 247,000/ Advance: 30,000Experience: 270/ Fame: 115 |

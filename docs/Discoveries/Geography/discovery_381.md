@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Trans-Pacific Route Plan](Quests/Adventure/quest_1639.md)** | Adventure Quest (4) 16th Century 2nd Period | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 93,000 / Advance payment: 5,000 Experience: 295 / Fame: 102 |
+| **[Trans-Pacific Route Plan](docs/Quests/Adventure/1001-2000/quest_1639.md)** | Adventure Quest (4) 16th Century 2nd Period | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 93,000 / Advance payment: 5,000 Experience: 295 / Fame: 102 |

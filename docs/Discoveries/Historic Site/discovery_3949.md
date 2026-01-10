@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient City Map](Quests/Other/quest_6936.md)** | Archeology(8) | Archeology(8)Visibility(8) | Experience：250 |
+| **[Ancient City Map](docs/Quests/Other/6001-7000/quest_6936.md)** | Archeology(8) | Archeology(8)Visibility(8) | Experience：250 |

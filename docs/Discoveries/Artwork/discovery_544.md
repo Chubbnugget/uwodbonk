@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hero Statue Map](Quests/Other/quest_1763.md)** | 美術(4) | 探索(4)美術(4) |  |
+| **[Hero Statue Map](docs/Quests/Other/1001-2000/quest_1763.md)** | 美術(4) | 探索(4)美術(4) |  |

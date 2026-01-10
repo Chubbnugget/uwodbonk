@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Onibi of the Far East](Quests/Adventure/quest_2381.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Japanese | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Onibi of the Far East](docs/Quests/Adventure/2001-3000/quest_2381.md)** | Adventure quest (4) | Ecological Survey (3) Biology (5) Japanese | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 65 |

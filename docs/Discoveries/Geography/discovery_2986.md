@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Frigid land](Quests/Adventure/quest_5693.md)** | Adventure quest (4) | Geography (9) Visual recognition (7) | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Frigid land](docs/Quests/Adventure/5001-6000/quest_5693.md)** | Adventure quest (4) | Geography (9) Visual recognition (7) | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |

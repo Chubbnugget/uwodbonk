@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Frozen Forest](Quests/Adventure/quest_3616.md)** | Adventure quest (7) 18th century third period | Geography (6) Visual recognition (4) | Reward: 134,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |
+| **[Frozen Forest](docs/Quests/Adventure/3001-4000/quest_3616.md)** | Adventure quest (7) 18th century third period | Geography (6) Visual recognition (4) | Reward: 134,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |

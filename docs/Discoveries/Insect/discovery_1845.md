@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wandering Ant](Quests/Adventure/quest_2052.md)** | Adventure quest (6) | Ecological research (6) Biology (8) West African languages | Reward: 75,000 / Advance payment: 0Experience: 140 / Fame: 130 |
+| **[Wandering Ant](docs/Quests/Adventure/2001-3000/quest_2052.md)** | Adventure quest (6) | Ecological research (6) Biology (8) West African languages | Reward: 75,000 / Advance payment: 0Experience: 140 / Fame: 130 |

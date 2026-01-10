@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | gunnery |
 | **Type** | thing |
-| **Group** | [Skill (combat)](Categories/category_41.md) |
+| **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 20,000 |
 | **Description** | Cannons load faster. Cannons are less likely to malfunction. Learning conditions 0/0/10/total 0 |
 | **Last Updated** | 2005-04-02 09:58:31 System |

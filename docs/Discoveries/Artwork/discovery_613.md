@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Art or heresy](Quests/Adventure/quest_1629.md)** | Adventure Quest (9) 16th Century 3rd Period | Exploration (10) Art (12) Italian | Reward: 255,000 / Advance payment: 20,000 Experience: 330 / Fame: 115 |
+| **[Art or heresy](docs/Quests/Adventure/1001-2000/quest_1629.md)** | Adventure Quest (9) 16th Century 3rd Period | Exploration (10) Art (12) Italian | Reward: 255,000 / Advance payment: 20,000 Experience: 330 / Fame: 115 |

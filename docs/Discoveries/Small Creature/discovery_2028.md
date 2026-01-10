@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Viper that eats snakes](Quests/Adventure/quest_274.md)** | Adventure quest (7) | Ecological research (6) Biology (8) Indian languages | Reward: 250,000 / Advance: 0Experience: 220 / Fame: 115 |
+| **[Viper that eats snakes](docs/Quests/Adventure/1-1000/quest_274.md)** | Adventure quest (7) | Ecological research (6) Biology (8) Indian languages | Reward: 250,000 / Advance: 0Experience: 220 / Fame: 115 |

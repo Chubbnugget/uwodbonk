@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lover Misaki](Quests/Adventure/quest_6286.md)** | Adventure quest (6) | Geography (8) Visual recognition (6) Oceanian languages | Reward: 414,000 / Advance payment: 40,000 Experience: 350 / Fame: 210 |
+| **[Lover Misaki](docs/Quests/Adventure/6001-7000/quest_6286.md)** | Adventure quest (6) | Geography (8) Visual recognition (6) Oceanian languages | Reward: 414,000 / Advance payment: 40,000 Experience: 350 / Fame: 210 |

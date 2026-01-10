@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Port town of Mayan civilization](Quests/Adventure/quest_5552.md)** | Adventure quest (5) 14th century | Archeology (8) Visualization (6) Spanish (1) | Reward: 406,000 / Advance payment: 40,000 Experience: 340 / Fame: 205 |
+| **[Port town of Mayan civilization](docs/Quests/Adventure/5001-6000/quest_5552.md)** | Adventure quest (5) 14th century | Archeology (8) Visualization (6) Spanish (1) | Reward: 406,000 / Advance payment: 40,000 Experience: 340 / Fame: 205 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[History of Humankind](Quests/Adventure/quest_3011.md)** | Adventure Quest (5) B.C. | Exploration (5) Archeology (7) Unlocking (5) | Reward: 231,000 / Advance payment: 20,000 Experience: 270 / Fame: 115 |
+| **[History of Humankind](docs/Quests/Adventure/3001-4000/quest_3011.md)** | Adventure Quest (5) B.C. | Exploration (5) Archeology (7) Unlocking (5) | Reward: 231,000 / Advance payment: 20,000 Experience: 270 / Fame: 115 |

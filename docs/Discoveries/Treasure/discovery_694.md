@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Aurora Drops](Quests/Adventure/quest_1201.md)** | Adventure quest (7) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 98,000 / Advance payment: 10,000 Experience: 285 / Fame: 100 |
+| **[Aurora Drops](docs/Quests/Adventure/1001-2000/quest_1201.md)** | Adventure quest (7) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 98,000 / Advance payment: 10,000 Experience: 285 / Fame: 100 |

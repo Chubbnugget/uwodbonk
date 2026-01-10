@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Southernmost tip of Ceylon Island](Quests/Adventure/quest_182.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Indian languages | Reward: 78,000 / Advance payment: 5,000 Experience: 130 / Fame: 65 |
+| **[Southernmost tip of Ceylon Island](docs/Quests/Adventure/1-1000/quest_182.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) Indian languages | Reward: 78,000 / Advance payment: 5,000 Experience: 130 / Fame: 65 |

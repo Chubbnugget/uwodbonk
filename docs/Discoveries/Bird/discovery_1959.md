@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flapping Crimson](Quests/Adventure/quest_2963.md)** | Adventure quest (2) | Ecological Survey (4) Biology (6) Spanish | Reward: 75,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Flapping Crimson](docs/Quests/Adventure/2001-3000/quest_2963.md)** | Adventure quest (2) | Ecological Survey (4) Biology (6) Spanish | Reward: 75,000 / Advance payment: 0Experience: 140 / Fame: 65 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ritual Symbol](Quests/Adventure/quest_1967.md)** | Adventure quest (6) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 80,000Experience: 140/ Fame: 140 |
+| **[Ritual Symbol](docs/Quests/Adventure/1001-2000/quest_1967.md)** | Adventure quest (6) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 80,000Experience: 140/ Fame: 140 |

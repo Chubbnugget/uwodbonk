@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Symbol of Courage](Quests/Adventure/quest_5284.md)** | Adventure quest (4) | Ecological research (2) Biology (4) West African languages | Reward: 133,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |
+| **[Symbol of Courage](docs/Quests/Adventure/5001-6000/quest_5284.md)** | Adventure quest (4) | Ecological research (2) Biology (4) West African languages | Reward: 133,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |

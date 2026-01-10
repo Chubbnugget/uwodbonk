@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unusual yellow bird](Quests/Adventure/quest_6322.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Indian languages | Reward: 129,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |
+| **[Unusual yellow bird](docs/Quests/Adventure/6001-7000/quest_6322.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Indian languages | Reward: 129,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |

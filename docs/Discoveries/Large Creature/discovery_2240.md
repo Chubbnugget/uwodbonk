@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A camel with two humps](Quests/Adventure/quest_3717.md)** | Adventure quest (6) 14th century | Ecological research (6) Biology (8) Chinese (1) | Reward: 238,000/Advance: 20,000Experience: 270 |
+| **[A camel with two humps](docs/Quests/Adventure/3001-4000/quest_3717.md)** | Adventure quest (6) 14th century | Ecological research (6) Biology (8) Chinese (1) | Reward: 238,000/Advance: 20,000Experience: 270 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Basis of the Papal States](Quests/Adventure/quest_5796.md)** | Adventure quest (10) | Exploration (15) Archeology (17) Italian | Reward: 555,000 / Advance payment: 50,000 Experience: 430 / Fame: 270 |
+| **[Basis of the Papal States](docs/Quests/Adventure/5001-6000/quest_5796.md)** | Adventure quest (10) | Exploration (15) Archeology (17) Italian | Reward: 555,000 / Advance payment: 50,000 Experience: 430 / Fame: 270 |

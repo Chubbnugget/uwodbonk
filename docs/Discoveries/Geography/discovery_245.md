@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigating the island you wandered into](Quests/Adventure/quest_2239.md)** | Adventure Quest (7) 16th Century 2nd Period | Geography (9) Visualization (7) Quechua | Reward: 212,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[Investigating the island you wandered into](docs/Quests/Adventure/2001-3000/quest_2239.md)** | Adventure Quest (7) 16th Century 2nd Period | Geography (9) Visualization (7) Quechua | Reward: 212,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Yoruba Genesis Story](Quests/Adventure/quest_308.md)** | Adventure quest (8) | Religious Studies (9) Exploration (7) Unlocking (7) | Reward: 84,150 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Yoruba Genesis Story](docs/Quests/Adventure/1-1000/quest_308.md)** | Adventure quest (8) | Religious Studies (9) Exploration (7) Unlocking (7) | Reward: 84,150 / Advance payment: 0Experience: 140 / Fame: 70 |

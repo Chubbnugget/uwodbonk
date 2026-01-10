@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Remains of the capital of Baekje](Quests/Adventure/quest_2675.md)** | Adventure quest (9) | Archeology (10) Vision (8) Swordsmanship (5) | Reward: 147,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[Remains of the capital of Baekje](docs/Quests/Adventure/2001-3000/quest_2675.md)** | Adventure quest (9) | Archeology (10) Vision (8) Swordsmanship (5) | Reward: 147,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

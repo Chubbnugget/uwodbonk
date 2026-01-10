@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Funeral pottery map](Quests/Other/quest_2335.md)** | Archeology(4) | Exploration(4)Archaeology(4) |  |
+| **[Funeral pottery map](docs/Quests/Other/2001-3000/quest_2335.md)** | Archeology(4) | Exploration(4)Archaeology(4) |  |

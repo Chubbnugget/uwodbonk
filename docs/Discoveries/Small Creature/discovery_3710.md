@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of a turtle with a protrusion on its back](Quests/Other/quest_6656.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |
+| **[Map of a turtle with a protrusion on its back](docs/Quests/Other/6001-7000/quest_6656.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |

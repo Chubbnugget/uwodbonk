@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fortress of Campeche Bay](Quests/Adventure/quest_3813.md)** | Adventure Quest (5) 18th Century 3rd Period | Archeology (7) Visualization (5) Spanish | Reward: 175,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |
+| **[Fortress of Campeche Bay](docs/Quests/Adventure/3001-4000/quest_3813.md)** | Adventure Quest (5) 18th Century 3rd Period | Archeology (7) Visualization (5) Spanish | Reward: 175,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |

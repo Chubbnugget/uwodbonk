@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stone pillar standing on the ground](Quests/Adventure/quest_2617.md)** | Adventure quest (9) | Exploration(11)Archaeology(13)Chinese(1) | Reward: 461,000/ Advance: 40,000Experience: 460/ Fame: 185 |
+| **[Stone pillar standing on the ground](docs/Quests/Adventure/2001-3000/quest_2617.md)** | Adventure quest (9) | Exploration(11)Archaeology(13)Chinese(1) | Reward: 461,000/ Advance: 40,000Experience: 460/ Fame: 185 |

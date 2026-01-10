@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Xin'an Shipwreck](Quests/Other/quest_6657.md)** | Sunken ship(7) | salvage |  |
+| **[Xin'an Shipwreck](docs/Quests/Other/6001-7000/quest_6657.md)** | Sunken ship(7) | salvage |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tudigong](Quests/Adventure/quest_2611.md)** | Adventure quest (8) | Religious Studies(11)Exploration(9)Chinese(1) | Reward: 185,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |
+| **[Tudigong](docs/Quests/Adventure/2001-3000/quest_2611.md)** | Adventure quest (8) | Religious Studies(11)Exploration(9)Chinese(1) | Reward: 185,000 / Advance payment: 10,000 Experience: 230 / Fame: 100 |

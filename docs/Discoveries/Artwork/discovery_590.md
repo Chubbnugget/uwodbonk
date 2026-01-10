@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Marble statue of Mary](Quests/Adventure/quest_816.md)** | Adventure Quest (2) 15th Century 5th Period | Exploration (1) Art (1) German | Reward: 6,000 / Advance payment: 0Experience: 130 / Fame: 60 |
+| **[Marble statue of Mary](docs/Quests/Adventure/1-1000/quest_816.md)** | Adventure Quest (2) 15th Century 5th Period | Exploration (1) Art (1) German | Reward: 6,000 / Advance payment: 0Experience: 130 / Fame: 60 |

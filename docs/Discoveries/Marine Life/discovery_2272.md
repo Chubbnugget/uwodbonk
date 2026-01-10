@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Creepy Fish Map](Quests/Other/quest_2067.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：60 |
+| **[Creepy Fish Map](docs/Quests/Other/2001-3000/quest_2067.md)** | Biology学(3) | Ecological Survey(3)Biology(3) | Experience：60 |

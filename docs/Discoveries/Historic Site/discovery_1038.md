@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sweet scent of invitation](Quests/Adventure/quest_2271.md)** | Adventure quest (6) | Archeology (7) Visualization (5) Oceanian languages | Reward: 102,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Sweet scent of invitation](docs/Quests/Adventure/2001-3000/quest_2271.md)** | Adventure quest (6) | Archeology (7) Visualization (5) Oceanian languages | Reward: 102,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

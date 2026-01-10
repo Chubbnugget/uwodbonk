@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Silversmith Map](Quests/Other/quest_518.md)** | Archeology(2) | Exploration(2)Archaeology(2) |  |
+| **[Ancient Silversmith Map](docs/Quests/Other/1-1000/quest_518.md)** | Archeology(2) | Exploration(2)Archaeology(2) |  |

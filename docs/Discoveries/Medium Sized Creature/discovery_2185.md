@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White and black striped pattern](Quests/Adventure/quest_914.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Swahili | Reward: 44,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[White and black striped pattern](docs/Quests/Adventure/1-1000/quest_914.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Swahili | Reward: 44,000 / Advance payment: 0Experience: 150 / Fame: 70 |

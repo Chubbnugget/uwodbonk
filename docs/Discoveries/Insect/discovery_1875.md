@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dream or reality](Quests/Adventure/quest_1748.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Malayu Tagalog | Reward: 174,000 / Advance payment: 10,000 Experience: 440 / Fame: 290 |
+| **[Dream or reality](docs/Quests/Adventure/1001-2000/quest_1748.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Malayu Tagalog | Reward: 174,000 / Advance payment: 10,000 Experience: 440 / Fame: 290 |

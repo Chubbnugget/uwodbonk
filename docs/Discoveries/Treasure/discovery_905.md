@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Nordic Conquest](Quests/Adventure/quest_1003.md)** | Adventure quest (4) | Exploration (1) Treasures Appraisal (3) Unlocking (1) | Reward: 27,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Nordic Conquest](docs/Quests/Adventure/1001-2000/quest_1003.md)** | Adventure quest (4) | Exploration (1) Treasures Appraisal (3) Unlocking (1) | Reward: 27,000 / Advance payment: 0Experience: 140 / Fame: 65 |

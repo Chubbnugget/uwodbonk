@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black streaks floating in the sky](Quests/Adventure/quest_5845.md)** | Adventure quest (8) | Astronomy (11) Visual recognition (9) West African languages | Reward: 332,000 / Advance payment: 30,000 Experience: 290 / Fame: 175 |
+| **[Black streaks floating in the sky](docs/Quests/Adventure/5001-6000/quest_5845.md)** | Adventure quest (8) | Astronomy (11) Visual recognition (9) West African languages | Reward: 332,000 / Advance payment: 30,000 Experience: 290 / Fame: 175 |

@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Javanese thought survey](Quests/Other/quest_3579.md)** | Imperial command quest (4) | Religious Studies(6)Exploration(4) | Experience: 250/ Reputation: 110 |
-| **[Undecipherable Scripture](Quests/Adventure/quest_1284.md)** | Adventure quest (5) | Religious Studies (6) Exploration (4) Malayu Tagalog | Reward: 18,000 / Advance payment: 0Experience: 250 / Fame: 82 |
+| **[Javanese thought survey](docs/Quests/Other/3001-4000/quest_3579.md)** | Imperial command quest (4) | Religious Studies(6)Exploration(4) | Experience: 250/ Reputation: 110 |
+| **[Undecipherable Scripture](docs/Quests/Adventure/1001-2000/quest_1284.md)** | Adventure quest (5) | Religious Studies (6) Exploration (4) Malayu Tagalog | Reward: 18,000 / Advance payment: 0Experience: 250 / Fame: 82 |

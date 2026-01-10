@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sacred Insect Ornaments](Quests/Adventure/quest_6970.md)** | Adventure quest (8) | Exploration (9) Treasures Appraisal (11) Greek (1) | Reward: 199,000 / Advance payment: 20,000 Experience: 210 / Fame: 120 |
+| **[Sacred Insect Ornaments](docs/Quests/Adventure/6001-7000/quest_6970.md)** | Adventure quest (8) | Exploration (9) Treasures Appraisal (11) Greek (1) | Reward: 199,000 / Advance payment: 20,000 Experience: 210 / Fame: 120 |

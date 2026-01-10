@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The origins of political science](Quests/Adventure/quest_6445.md)** | Adventure quest (1) | Exploration (1) Treasures Appraisal (1) Italian (1) | Reward: 11,000 / Advance payment: 0Experience: 120 / Fame: 60 |
+| **[The origins of political science](docs/Quests/Adventure/6001-7000/quest_6445.md)** | Adventure quest (1) | Exploration (1) Treasures Appraisal (1) Italian (1) | Reward: 11,000 / Advance payment: 0Experience: 120 / Fame: 60 |

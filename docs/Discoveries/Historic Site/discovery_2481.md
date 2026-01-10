@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[An errand from Mr. Da Vinci](Quests/Adventure/quest_4850.md)** | Adventure quest (10) | Archeology (10) Visualization (8) Arabic (1) | Reward: 389,000 / Advance payment: 30,000 Experience: 400 / Fame: 165 |
+| **[An errand from Mr. Da Vinci](docs/Quests/Adventure/4001-5000/quest_4850.md)** | Adventure quest (10) | Archeology (10) Visualization (8) Arabic (1) | Reward: 389,000 / Advance payment: 30,000 Experience: 400 / Fame: 165 |

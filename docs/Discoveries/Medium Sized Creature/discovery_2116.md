@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cowardly Animal](Quests/Adventure/quest_2651.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Korean | Reward: 131,000/ Advance: 10,000 Experience: 180/ Fame: 170 |
+| **[Cowardly Animal](docs/Quests/Adventure/2001-3000/quest_2651.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Korean | Reward: 131,000/ Advance: 10,000 Experience: 180/ Fame: 170 |

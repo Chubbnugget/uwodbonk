@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pictures of the Buddha Realm](Quests/Adventure/quest_2598.md)** | Adventure quest (5) | Religious Studies(7)Exploration(5)Japanese(1) | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |
+| **[Pictures of the Buddha Realm](docs/Quests/Adventure/2001-3000/quest_2598.md)** | Adventure quest (5) | Religious Studies(7)Exploration(5)Japanese(1) | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |

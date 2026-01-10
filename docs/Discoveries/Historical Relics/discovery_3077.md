@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King's Cart](Quests/Adventure/quest_5793.md)** | Adventure quest (10) | Exploration (15) Archeology (17) Arabic | Reward: 326,000 / Advance payment: 30,000 Experience: 290 / Fame: 175 |
+| **[King's Cart](docs/Quests/Adventure/5001-6000/quest_5793.md)** | Adventure quest (10) | Exploration (15) Archeology (17) Arabic | Reward: 326,000 / Advance payment: 30,000 Experience: 290 / Fame: 175 |

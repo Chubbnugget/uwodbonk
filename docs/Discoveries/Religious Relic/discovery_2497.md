@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Volcano God of Eternal Summer Island](Quests/Adventure/quest_4791.md)** | Adventure quest (4) 19th century | Religious Studies (5) Exploration (3) Oceanian Languages | Reward: 104,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[Volcano God of Eternal Summer Island](docs/Quests/Adventure/4001-5000/quest_4791.md)** | Adventure quest (4) 19th century | Religious Studies (5) Exploration (3) Oceanian Languages | Reward: 104,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

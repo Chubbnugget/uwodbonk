@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Forest Chorus](Quests/Adventure/quest_684.md)** | Adventure quest (7) | Ecological research (6) Biology (8) Swahili | Reward: 128,000 / Advance payment: 0Experience: 255 / Fame: 90 |
+| **[Forest Chorus](docs/Quests/Adventure/1-1000/quest_684.md)** | Adventure quest (7) | Ecological research (6) Biology (8) Swahili | Reward: 128,000 / Advance payment: 0Experience: 255 / Fame: 90 |

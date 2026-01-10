@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White Flight Biology Map](Quests/Other/quest_6915.md)** | Biology学(15) | Ecological Survey(15)Biology(15) |  |
+| **[White Flight Biology Map](docs/Quests/Other/6001-7000/quest_6915.md)** | Biology学(15) | Ecological Survey(15)Biology(15) |  |

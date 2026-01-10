@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Artistic and practical items](Quests/Adventure/quest_3643.md)** | Adventure Quest (5) 18th Century 3rd Period | Exploration (3) Treasures Appraisal (5) Arctic languages | Reward: 194,000 / Advance payment: 10,000 Experience: 240 / Fame: 105 |
+| **[Artistic and practical items](docs/Quests/Adventure/3001-4000/quest_3643.md)** | Adventure Quest (5) 18th Century 3rd Period | Exploration (3) Treasures Appraisal (5) Arctic languages | Reward: 194,000 / Advance payment: 10,000 Experience: 240 / Fame: 105 |

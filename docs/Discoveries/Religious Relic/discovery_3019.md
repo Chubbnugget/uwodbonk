@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Three gifts](Quests/Adventure/quest_5731.md)** | Adventure quest (10) | Religious Studies (17) Exploration (15) Swahili | Reward: 1,340,000 / Advance payment: 130,000 Experience: 920 / Fame: 595 |
+| **[Three gifts](docs/Quests/Adventure/5001-6000/quest_5731.md)** | Adventure quest (10) | Religious Studies (17) Exploration (15) Swahili | Reward: 1,340,000 / Advance payment: 130,000 Experience: 920 / Fame: 595 |

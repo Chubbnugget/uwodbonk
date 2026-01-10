@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ivory Goddess Statue Map](Quests/Other/quest_665.md)** | Treasures鑑定(7) | Exploration (7) Treasures Appraisal (7) Unlocking (7) |  |
+| **[Ivory Goddess Statue Map](docs/Quests/Other/1-1000/quest_665.md)** | Treasures鑑定(7) | Exploration (7) Treasures Appraisal (7) Unlocking (7) |  |

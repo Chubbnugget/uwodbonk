@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Arctic Stars and Dipper](Quests/Adventure/quest_3745.md)** | Adventure quest (1) | Astronomy (2) Visual recognition (1) Portuguese | Reward: 73,000 / Advance payment: 0Experience: 260 / Fame: 65 |
+| **[Arctic Stars and Dipper](docs/Quests/Adventure/3001-4000/quest_3745.md)** | Adventure quest (1) | Astronomy (2) Visual recognition (1) Portuguese | Reward: 73,000 / Advance payment: 0Experience: 260 / Fame: 65 |

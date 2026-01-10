@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | celtic language |
 | **Type** | thing |
-| **Group** | [Skills (Language)](Categories/category_42.md) |
+| **Group** | [Skills (Language)](docs/Categories/category_42.md) |
 | **Purchase Price** | 10,000 |
 | **Description** | You can view books (Etsuran). Used in ancient British manuscripts. |
 | **Last Updated** | 2007-01-20 17:05:26 When |

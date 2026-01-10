@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Warhammer of Karl Martel](Quests/Other/quest_3545.md)** | Treasure hunting (6) | Exploration (9) Archeology (11) French |  |
+| **[Warhammer of Karl Martel](docs/Quests/Other/3001-4000/quest_3545.md)** | Treasure hunting (6) | Exploration (9) Archeology (11) French |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Oceania God Statue Map](Quests/Other/quest_4795.md)** | Religious Studies(8) | Religious Studies(8)Exploration(8) |  |
+| **[Oceania God Statue Map](docs/Quests/Other/4001-5000/quest_4795.md)** | Religious Studies(8) | Religious Studies(8)Exploration(8) |  |

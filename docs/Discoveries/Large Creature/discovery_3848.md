@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of the White God's Messenger](Quests/Other/quest_6829.md)** | Pursuit quest (10) | Ecological research (13) Biology (15) Italian (1) | Reward: 390,000 Experience: 820 |
+| **[Additional investigation of the White God's Messenger](docs/Quests/Other/6001-7000/quest_6829.md)** | Pursuit quest (10) | Ecological research (13) Biology (15) Italian (1) | Reward: 390,000 Experience: 820 |

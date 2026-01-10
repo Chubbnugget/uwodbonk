@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[African Shaman](Quests/Adventure/quest_21.md)** | Adventure Quest (8) Mythology Era | Religious Studies (10) Exploration (8) Unlocking (8) | Reward: 239,000 / Advance payment: 20,000 Experience: 250 / Fame: 230 |
+| **[African Shaman](docs/Quests/Adventure/1-1000/quest_21.md)** | Adventure Quest (8) Mythology Era | Religious Studies (10) Exploration (8) Unlocking (8) | Reward: 239,000 / Advance payment: 20,000 Experience: 250 / Fame: 230 |

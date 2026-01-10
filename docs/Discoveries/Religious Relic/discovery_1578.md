@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Scenery of spirits and people](Quests/Adventure/quest_1607.md)** | Adventure quest (9) | Religious Studies (10) Exploration (8) Oceanian Languages | Reward: 133,000 / Advance payment: 10,000 Experience: 400 / Fame: 132 |
+| **[Scenery of spirits and people](docs/Quests/Adventure/1001-2000/quest_1607.md)** | Adventure quest (9) | Religious Studies (10) Exploration (8) Oceanian Languages | Reward: 133,000 / Advance payment: 10,000 Experience: 400 / Fame: 132 |

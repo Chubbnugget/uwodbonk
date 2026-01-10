@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of fish with line patterns](Quests/Other/quest_6362.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |
+| **[Map of fish with line patterns](docs/Quests/Other/6001-7000/quest_6362.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |

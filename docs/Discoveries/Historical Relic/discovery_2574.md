@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gawain's Battle Ax](Quests/Other/quest_3512.md)** | Treasure hunting (6) | Religious Studies (11) Exploration (9) Celtic |  |
+| **[Gawain's Battle Ax](docs/Quests/Other/3001-4000/quest_3512.md)** | Treasure hunting (6) | Religious Studies (11) Exploration (9) Celtic |  |

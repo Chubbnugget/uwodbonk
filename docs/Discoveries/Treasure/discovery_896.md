@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Old book map](Quests/Other/quest_2810.md)** | Treasures鑑定(6) | 探索(6)Treasures鑑定(6) |  |
+| **[Old book map](docs/Quests/Other/2001-3000/quest_2810.md)** | Treasures鑑定(6) | 探索(6)Treasures鑑定(6) |  |

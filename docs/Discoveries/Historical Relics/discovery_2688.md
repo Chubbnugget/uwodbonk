@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King's Relief Map](Quests/Other/quest_5270.md)** | Re-examination reward (12) | Exploration(12)Archaeology(12) |  |
+| **[King's Relief Map](docs/Quests/Other/5001-6000/quest_5270.md)** | Re-examination reward (12) | Exploration(12)Archaeology(12) |  |

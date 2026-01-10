@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Peacock-like insect](Quests/Adventure/quest_6504.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Malayu Tagalog | Reward: 684,000 / Advance payment: 70,000 Experience: 510 / Fame: 320 |
+| **[Peacock-like insect](docs/Quests/Adventure/6001-7000/quest_6504.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Malayu Tagalog | Reward: 684,000 / Advance payment: 70,000 Experience: 510 / Fame: 320 |

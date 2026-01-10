@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient megalithic temples](Quests/Other/quest_6367.md)** | Religious Studies(7) | Religious Studies(7)Visibility(7) |  |
+| **[Map of ancient megalithic temples](docs/Quests/Other/6001-7000/quest_6367.md)** | Religious Studies(7) | Religious Studies(7)Visibility(7) |  |

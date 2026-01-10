@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Miracles handed down in the East](Quests/Adventure/quest_6014.md)** | Adventure quest (5) | Religious Studies (9) Exploration (7) Unlocking (7) | Reward: 152,000/ Advance: 10,000 Experience: 180/ Fame: 100 |
+| **[Miracles handed down in the East](docs/Quests/Adventure/6001-7000/quest_6014.md)** | Adventure quest (5) | Religious Studies (9) Exploration (7) Unlocking (7) | Reward: 152,000/ Advance: 10,000 Experience: 180/ Fame: 100 |

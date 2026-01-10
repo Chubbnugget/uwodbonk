@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Proof in historical novels](Quests/Adventure/quest_2946.md)** | Adventure quest (8) | Exploration (11) Treasures Appraisal (13) Unlocking (11) | Reward: 739,000 / Advance payment: 70,000 Experience: 690 / Fame: 275 |
+| **[Proof in historical novels](docs/Quests/Adventure/2001-3000/quest_2946.md)** | Adventure quest (8) | Exploration (11) Treasures Appraisal (13) Unlocking (11) | Reward: 739,000 / Advance payment: 70,000 Experience: 690 / Fame: 275 |

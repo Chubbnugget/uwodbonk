@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The meaning of mother's words](Quests/Adventure/quest_5814.md)** | Adventure quest (9) | Ecological Survey (9) Biology (11) Malayu Tagalog | Reward: 582,000 / Advance payment: 50,000 Experience: 450 / Fame: 280 |
+| **[The meaning of mother's words](docs/Quests/Adventure/5001-6000/quest_5814.md)** | Adventure quest (9) | Ecological Survey (9) Biology (11) Malayu Tagalog | Reward: 582,000 / Advance payment: 50,000 Experience: 450 / Fame: 280 |

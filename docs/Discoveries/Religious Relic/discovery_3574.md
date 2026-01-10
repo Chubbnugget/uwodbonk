@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mysterious Aztec Goddess](Quests/Adventure/quest_6501.md)** | Adventure quest (7) | Religious Studies (9) Exploration (7) Nahuatl | Reward: 89,000/Advance payment: 10,000Experience: 550 |
+| **[Mysterious Aztec Goddess](docs/Quests/Adventure/6001-7000/quest_6501.md)** | Adventure quest (7) | Religious Studies (9) Exploration (7) Nahuatl | Reward: 89,000/Advance payment: 10,000Experience: 550 |

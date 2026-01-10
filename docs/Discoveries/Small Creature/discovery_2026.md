@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The true identity of the sound](Quests/Adventure/quest_3808.md)** | Adventure Quest (6) 18th Century Third Period | Ecological Survey (6) Biology (8) Spanish | Reward: 215,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[The true identity of the sound](docs/Quests/Adventure/3001-4000/quest_3808.md)** | Adventure Quest (6) 18th Century Third Period | Ecological Survey (6) Biology (8) Spanish | Reward: 215,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

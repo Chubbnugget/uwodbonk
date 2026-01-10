@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Request regarding ruins](Quests/Adventure/quest_6360.md)** | Adventure Quest (3) B.C. | Archeology (4) Visualization (2) Arabic (1) | Reward: 91,000 / Advance payment: 10,000 Experience: 140 / Fame: 75 |
+| **[Request regarding ruins](docs/Quests/Adventure/6001-7000/quest_6360.md)** | Adventure Quest (3) B.C. | Archeology (4) Visualization (2) Arabic (1) | Reward: 91,000 / Advance payment: 10,000 Experience: 140 / Fame: 75 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Things that should not be on land](Quests/Adventure/quest_1044.md)** | Adventure Quest (5) B.C. | Exploration (2) Biology (4) Portuguese | Reward: 58,000 / Advance payment: 5,000 Experience: 150 / Fame: 70 |
+| **[Things that should not be on land](docs/Quests/Adventure/1001-2000/quest_1044.md)** | Adventure Quest (5) B.C. | Exploration (2) Biology (4) Portuguese | Reward: 58,000 / Advance payment: 5,000 Experience: 150 / Fame: 70 |

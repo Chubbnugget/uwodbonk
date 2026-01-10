@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tips for attracting customers](Quests/Adventure/quest_4951.md)** | Adventure Quest (4) B.C. | Exploration (4) Archeology (6) Arabic (1) | Reward: 96,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Tips for attracting customers](docs/Quests/Adventure/4001-5000/quest_4951.md)** | Adventure Quest (4) B.C. | Exploration (4) Archeology (6) Arabic (1) | Reward: 96,000 / Advance payment: 0Experience: 150 / Fame: 75 |

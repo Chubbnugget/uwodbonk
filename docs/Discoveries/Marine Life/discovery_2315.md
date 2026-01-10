@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful fish of Korea](Quests/Adventure/quest_2722.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Korean | Reward: 145,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |
+| **[Beautiful fish of Korea](docs/Quests/Adventure/2001-3000/quest_2722.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Korean | Reward: 145,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |

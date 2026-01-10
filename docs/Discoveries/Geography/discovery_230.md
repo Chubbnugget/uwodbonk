@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Coral Sea](Quests/Adventure/quest_161.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) | Reward: 99,000 / Advance payment: 0Experience: 195 / Fame: 85 |
-| **[Mercator Investigation](Quests/Adventure/quest_302.md)** | Adventure quest (6) 16th century 4th period | Geography (11) Visual recognition (4) Dutch | Reward: 82,000 / Advance payment: 0Experience: 210 |
+| **[Coral Sea](docs/Quests/Adventure/1-1000/quest_161.md)** | Adventure quest (6) | Geography (6) Visual recognition (4) | Reward: 99,000 / Advance payment: 0Experience: 195 / Fame: 85 |
+| **[Mercator Investigation](docs/Quests/Adventure/1-1000/quest_302.md)** | Adventure quest (6) 16th century 4th period | Geography (11) Visual recognition (4) Dutch | Reward: 82,000 / Advance payment: 0Experience: 210 |

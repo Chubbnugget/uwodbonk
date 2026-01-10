@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Angry Waterfall](Quests/Adventure/quest_3010.md)** | Adventure quest (10) | Geography (13) Visual recognition (11) Spanish | Reward: 279,000 / Advance payment: 20,000 Experience: 310 / Fame: 130 |
+| **[Angry Waterfall](docs/Quests/Adventure/3001-4000/quest_3010.md)** | Adventure quest (10) | Geography (13) Visual recognition (11) Spanish | Reward: 279,000 / Advance payment: 20,000 Experience: 310 / Fame: 130 |

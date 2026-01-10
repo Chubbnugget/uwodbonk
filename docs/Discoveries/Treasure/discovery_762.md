@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Bronze Male Statue](Quests/Other/quest_758.md)** | Treasures鑑定(3) | 探索(3)Treasures鑑定(3) |  |
+| **[Map of Bronze Male Statue](docs/Quests/Other/1-1000/quest_758.md)** | Treasures鑑定(3) | 探索(3)Treasures鑑定(3) |  |

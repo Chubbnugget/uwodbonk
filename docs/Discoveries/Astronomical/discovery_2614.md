@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King Minos' daughter](Quests/Adventure/quest_4965.md)** | Adventure Quest (5) Mythology Era | Astronomy (6) Visualization (4) Greek | Reward: 102,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[King Minos' daughter](docs/Quests/Adventure/4001-5000/quest_4965.md)** | Adventure Quest (5) Mythology Era | Astronomy (6) Visualization (4) Greek | Reward: 102,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

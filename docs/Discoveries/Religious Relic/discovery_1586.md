@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Egyptian beliefs](Quests/Adventure/quest_493.md)** | Adventure Quest (9) B.C. | Religious Studies (11) Exploration (9) Arabic | Reward: 255,000 / Advance: 0Experience: 220 / Fame: 115 |
+| **[Ancient Egyptian beliefs](docs/Quests/Adventure/1-1000/quest_493.md)** | Adventure Quest (9) B.C. | Religious Studies (11) Exploration (9) Arabic | Reward: 255,000 / Advance: 0Experience: 220 / Fame: 115 |

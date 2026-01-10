@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Merida](Quests/Other/quest_5161.md)** | Port/village (1) | - |  |
+| **[Merida](docs/Quests/Other/5001-6000/quest_5161.md)** | Port/village (1) | - |  |

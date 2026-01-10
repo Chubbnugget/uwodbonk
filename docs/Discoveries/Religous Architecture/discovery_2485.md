@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Model of Babel](Quests/Adventure/quest_4839.md)** | Adventure quest (6) | Religious Studies (6) Visual Recognition (4) Spanish (1) | Reward: 245,000 / Advance payment: 20,000 Experience: 280 / Fame: 120 |
+| **[Model of Babel](docs/Quests/Adventure/4001-5000/quest_4839.md)** | Adventure quest (6) | Religious Studies (6) Visual Recognition (4) Spanish (1) | Reward: 245,000 / Advance payment: 20,000 Experience: 280 / Fame: 120 |

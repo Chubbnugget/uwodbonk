@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Founder of Buddhism](Quests/Adventure/quest_954.md)** | Adventure quest (6) | Religious Studies (5) Exploration (3) Indian Languages | Reward: 71,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Founder of Buddhism](docs/Quests/Adventure/1-1000/quest_954.md)** | Adventure quest (6) | Religious Studies (5) Exploration (3) Indian Languages | Reward: 71,000 / Advance payment: 0Experience: 150 / Fame: 75 |

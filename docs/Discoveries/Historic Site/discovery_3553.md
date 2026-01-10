@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Colossus of Rhodes pedestal in the past](Quests/Other/quest_6479.md)** | Legacy(1) | - |  |
+| **[Colossus of Rhodes pedestal in the past](docs/Quests/Other/6001-7000/quest_6479.md)** | Legacy(1) | - |  |

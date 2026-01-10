@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Colossus of the Seven Wonders](Quests/Adventure/quest_5252.md)** | Adventure Quest (6) B.C. | Religious Studies (10) Exploration (8) Greek | Reward: 120,000 / Advance payment: 10,000 Experience: 160 / Fame: 180 |
+| **[Colossus of the Seven Wonders](docs/Quests/Adventure/5001-6000/quest_5252.md)** | Adventure Quest (6) B.C. | Religious Studies (10) Exploration (8) Greek | Reward: 120,000 / Advance payment: 10,000 Experience: 160 / Fame: 180 |

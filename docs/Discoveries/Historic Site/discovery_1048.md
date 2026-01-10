@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The horror I saw in the cave](Quests/Adventure/quest_2083.md)** | Adventure quest (6) | Archeology (7) Visualization (5) Quechua (5) | Reward: 234,000/ Advance: 10,000Experience: 240/ Fame: 105 |
+| **[The horror I saw in the cave](docs/Quests/Adventure/2001-3000/quest_2083.md)** | Adventure quest (6) | Archeology (7) Visualization (5) Quechua (5) | Reward: 234,000/ Advance: 10,000Experience: 240/ Fame: 105 |

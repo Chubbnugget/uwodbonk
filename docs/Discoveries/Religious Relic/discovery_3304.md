@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Clergy's writing](Quests/Other/quest_6158.md)** | Religious Studies(6) | Religious Studies(6)Exploration(6) |  |
+| **[Clergy's writing](docs/Quests/Other/6001-7000/quest_6158.md)** | Religious Studies(6) | Religious Studies(6)Exploration(6) |  |

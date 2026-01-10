@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[African parasitic plants](Quests/Adventure/quest_5551.md)** | Adventure quest (10) | Ecological research (6) Biology (8) West African languages | Reward: 212,000 / Advance payment: 20,000 Experience: 220 / Fame: 125 |
+| **[African parasitic plants](docs/Quests/Adventure/5001-6000/quest_5551.md)** | Adventure quest (10) | Ecological research (6) Biology (8) West African languages | Reward: 212,000 / Advance payment: 20,000 Experience: 220 / Fame: 125 |

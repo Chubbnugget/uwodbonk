@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | rosewood recorder |
 | **Type** | thing |
-| **Group** | [Equipment](Categories/category_27.md) |
+| **Group** | [Equipment](docs/Categories/category_27.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 8,000 |
 | **Description** | A vertical flute made of rosewood. It is a musical instrument with a texture. Equipped location Items Durability 75 Effect when used Whistle performance (Plays the flute to recover sailors from fatigue, anxiety, and homesickness.) Operation +1 |

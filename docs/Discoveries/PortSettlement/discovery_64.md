@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jakarta](Quests/Other/quest_5074.md)** | Port/village (1) | - |  |
+| **[Jakarta](docs/Quests/Other/5001-6000/quest_5074.md)** | Port/village (1) | - |  |

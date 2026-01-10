@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Study for young children](Quests/Adventure/quest_2796.md)** | Adventure quest (6) | 探索(5)美術(7)中国語(1) | Reward: 119,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Study for young children](docs/Quests/Adventure/2001-3000/quest_2796.md)** | Adventure quest (6) | 探索(5)美術(7)中国語(1) | Reward: 119,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

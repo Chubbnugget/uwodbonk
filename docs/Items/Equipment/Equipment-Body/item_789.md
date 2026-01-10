@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | masai beads |
 | **Type** | thing |
-| **Group** | [Equipment (body)](Categories/category_24.md) |
+| **Group** | [Equipment (body)](docs/Categories/category_24.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 58,900 |
 | **Description** | Traditional clothing worn by Masai women. Features luxurious decoration. *Four colors: orange, white, yellow, and black Gender restrictions Female last name Durability 30 Formal wear 15 Defense 5 Swordsmanship +1 Total required fame 900 |

@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Distant Hawaiki](Quests/Adventure/quest_2261.md)** | Adventure Quest (8) 16th Century 5th Period | Geography (12) Visual recognition (10) Malayu Tagalog | Reward: 450,000/ Advance: 40,000Experience: 450/ Fame: 185 |
+| **[Distant Hawaiki](docs/Quests/Adventure/2001-3000/quest_2261.md)** | Adventure Quest (8) 16th Century 5th Period | Geography (12) Visual recognition (10) Malayu Tagalog | Reward: 450,000/ Advance: 40,000Experience: 450/ Fame: 185 |

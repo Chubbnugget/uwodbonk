@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hunting life in Anatolia](Quests/Adventure/quest_16.md)** | Adventure Quest (5) B.C. | Exploration (2) Archeology (4) Unlocking (2) | Reward: 63,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Hunting life in Anatolia](docs/Quests/Adventure/1-1000/quest_16.md)** | Adventure Quest (5) B.C. | Exploration (2) Archeology (4) Unlocking (2) | Reward: 63,000 / Advance payment: 0Experience: 140 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Smoker Stars](Quests/Adventure/quest_5864.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) French | Reward: 236,000/ Advance: 20,000Experience: 230/ Fame: 135 |
+| **[Smoker Stars](docs/Quests/Adventure/5001-6000/quest_5864.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) French | Reward: 236,000/ Advance: 20,000Experience: 230/ Fame: 135 |

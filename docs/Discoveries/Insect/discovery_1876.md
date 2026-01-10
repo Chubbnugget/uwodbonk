@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Vampire appears](Quests/Adventure/quest_2068.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Malayu Tagalog | Reward: 89,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Vampire appears](docs/Quests/Adventure/2001-3000/quest_2068.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Malayu Tagalog | Reward: 89,000 / Advance payment: 0Experience: 150 / Fame: 70 |

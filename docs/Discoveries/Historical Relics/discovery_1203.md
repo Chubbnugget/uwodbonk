@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Behind history](Quests/Adventure/quest_1054.md)** | Adventure Quest (8) B.C. | Exploration (8) Archeology (10) Unlocking (8) | Reward: 211,000 / Advance payment: 0Experience: 210 / Fame: 110 |
+| **[Behind history](docs/Quests/Adventure/1001-2000/quest_1054.md)** | Adventure Quest (8) B.C. | Exploration (8) Archeology (10) Unlocking (8) | Reward: 211,000 / Advance payment: 0Experience: 210 / Fame: 110 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[History seen in the burnt ruins](Quests/Adventure/quest_2728.md)** | Adventure quest (6) | Religious Studies (9) Visual Recognition (7) Korean | Reward: 154,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[History seen in the burnt ruins](docs/Quests/Adventure/2001-3000/quest_2728.md)** | Adventure quest (6) | Religious Studies (9) Visual Recognition (7) Korean | Reward: 154,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Eternal Stars](Quests/Adventure/quest_1727.md)** | Adventure quest (9) | Exploration (11) Treasures Appraisal (13) Unlocking (11) | Reward: 184,000 / Advance payment: 10,000 Experience: 480 / Fame: 160 |
+| **[Eternal Stars](docs/Quests/Adventure/1001-2000/quest_1727.md)** | Adventure quest (9) | Exploration (11) Treasures Appraisal (13) Unlocking (11) | Reward: 184,000 / Advance payment: 10,000 Experience: 480 / Fame: 160 |

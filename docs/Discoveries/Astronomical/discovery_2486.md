@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lie or error](Quests/Adventure/quest_4843.md)** | Adventure Quest (2) Mythology Era | Astronomy (1) Visualization (1) Greek (1) | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Lie or error](docs/Quests/Adventure/4001-5000/quest_4843.md)** | Adventure Quest (2) Mythology Era | Astronomy (1) Visualization (1) Greek (1) | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |

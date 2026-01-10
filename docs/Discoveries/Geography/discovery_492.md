@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mar Pacifico](Quests/Adventure/quest_1641.md)** | Adventure Quest (10) 16th Century 2nd Period | Geography (11) Visual recognition (9) Spanish | Reward: 500,000 / Advance payment: 50,000 Experience: 700 / Fame: 240 |
+| **[Mar Pacifico](docs/Quests/Adventure/1001-2000/quest_1641.md)** | Adventure Quest (10) 16th Century 2nd Period | Geography (11) Visual recognition (9) Spanish | Reward: 500,000 / Advance payment: 50,000 Experience: 700 / Fame: 240 |

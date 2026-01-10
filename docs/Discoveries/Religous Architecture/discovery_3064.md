@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Buddhism in Nepal](Quests/Adventure/quest_5788.md)** | Adventure quest (10) | Religious Studies (17) Visual Recognition (15) Malayu Tagalog | Reward: 778,000 / Advance payment: 70,000 Experience: 570 / Fame: 360 |
+| **[Buddhism in Nepal](docs/Quests/Adventure/5001-6000/quest_5788.md)** | Adventure quest (10) | Religious Studies (17) Visual Recognition (15) Malayu Tagalog | Reward: 778,000 / Advance payment: 70,000 Experience: 570 / Fame: 360 |

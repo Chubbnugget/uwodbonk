@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Creepy Animal Map](Quests/Other/quest_421.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |
+| **[Creepy Animal Map](docs/Quests/Other/1-1000/quest_421.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |

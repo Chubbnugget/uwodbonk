@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Survey of buildings in North China](Quests/Adventure/quest_2795.md)** | Adventure quest (9) | Archeology (13) Visualization (11) Chinese | Reward: 174,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |
+| **[Survey of buildings in North China](docs/Quests/Adventure/2001-3000/quest_2795.md)** | Adventure quest (9) | Archeology (13) Visualization (11) Chinese | Reward: 174,000 / Advance payment: 10,000 Experience: 220 / Fame: 100 |

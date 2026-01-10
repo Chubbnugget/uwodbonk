@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Roman Tyrant](Quests/Adventure/quest_555.md)** | Adventure quest (4) | Exploration (1) Archeology (2) Italian | Reward: 19,000 / Advance payment: 0Experience: 208 / Fame: 104 |
+| **[Ancient Roman Tyrant](docs/Quests/Adventure/1-1000/quest_555.md)** | Adventure quest (4) | Exploration (1) Archeology (2) Italian | Reward: 19,000 / Advance payment: 0Experience: 208 / Fame: 104 |

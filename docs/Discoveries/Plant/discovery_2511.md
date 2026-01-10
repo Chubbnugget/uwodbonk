@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Tree Map](Quests/Other/quest_4793.md)** | Biology学(7) | Ecological Survey(7)Biology(7) |  |
+| **[Giant Tree Map](docs/Quests/Other/4001-5000/quest_4793.md)** | Biology学(7) | Ecological Survey(7)Biology(7) |  |

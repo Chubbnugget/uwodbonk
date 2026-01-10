@@ -26,11 +26,11 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Guild's first task](Quests/Adventure/quest_130.md)** | Adventure quest (1) | Explore (1) Spanish |  |
-| **[Guild's first task](Quests/Adventure/quest_131.md)** | Adventure quest (1) | Explore (1) Spanish |  |
-| **[Guild's first task](Quests/Adventure/quest_132.md)** | Adventure quest (1) | Explore (1) Dutch | Reward: 3,000 / Advance payment: 0Experience: 192 / Fame: 96 |
-| **[Guild's first task](Quests/Adventure/quest_127.md)** | Adventure quest (1) | Search (1) English |  |
-| **[Guild's first task](Quests/Adventure/quest_129.md)** | Adventure quest (1) | Explore (1) Portuguese |  |
-| **[Guild's first task](Quests/Adventure/quest_128.md)** | Adventure quest (1) | Explore (1) Italian |  |
-| **[Job change to adventurer](Quests/Adventure/quest_6247.md)** | Adventure quest (2) | spanish french | Reward: 10,000 / Advance payment: 0Experience: 100 / Fame: 90 |
-| **[Virgin Stained Glass](Quests/Adventure/quest_1314.md)** | Adventure quest (1) | Explore (1) Portuguese | Reward: 3,000 / Advance payment: 0Experience: 120 / Fame: 60 |
+| **[Guild's first task](docs/Quests/Adventure/1-1000/quest_130.md)** | Adventure quest (1) | Explore (1) Spanish |  |
+| **[Guild's first task](docs/Quests/Adventure/1-1000/quest_131.md)** | Adventure quest (1) | Explore (1) Spanish |  |
+| **[Guild's first task](docs/Quests/Adventure/1-1000/quest_132.md)** | Adventure quest (1) | Explore (1) Dutch | Reward: 3,000 / Advance payment: 0Experience: 192 / Fame: 96 |
+| **[Guild's first task](docs/Quests/Adventure/1-1000/quest_127.md)** | Adventure quest (1) | Search (1) English |  |
+| **[Guild's first task](docs/Quests/Adventure/1-1000/quest_129.md)** | Adventure quest (1) | Explore (1) Portuguese |  |
+| **[Guild's first task](docs/Quests/Adventure/1-1000/quest_128.md)** | Adventure quest (1) | Explore (1) Italian |  |
+| **[Job change to adventurer](docs/Quests/Adventure/6001-7000/quest_6247.md)** | Adventure quest (2) | spanish french | Reward: 10,000 / Advance payment: 0Experience: 100 / Fame: 90 |
+| **[Virgin Stained Glass](docs/Quests/Adventure/1001-2000/quest_1314.md)** | Adventure quest (1) | Explore (1) Portuguese | Reward: 3,000 / Advance payment: 0Experience: 120 / Fame: 60 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Goldsmith Armor Map](Quests/Other/quest_458.md)** | Treasures鑑定(4) | Exploration (4) Treasures Appraisal (4) Unlocking (4) |  |
+| **[Goldsmith Armor Map](docs/Quests/Other/1-1000/quest_458.md)** | Treasures鑑定(4) | Exploration (4) Treasures Appraisal (4) Unlocking (4) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mediterranean Marlin](Quests/Other/quest_1716.md)** | Fishing (8) | Fishing (8) |  |
+| **[Mediterranean Marlin](docs/Quests/Other/1001-2000/quest_1716.md)** | Fishing (8) | Fishing (8) |  |

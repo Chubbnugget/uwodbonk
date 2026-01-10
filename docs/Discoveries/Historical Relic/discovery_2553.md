@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cold-hearted "Fool"](Quests/Other/quest_3532.md)** | Treasure hunting (6) | Exploration (9) Archeology (11) Latin | Experience: 2,210/ Reputation: 880 |
+| **[Cold-hearted "Fool"](docs/Quests/Other/3001-4000/quest_3532.md)** | Treasure hunting (6) | Exploration (9) Archeology (11) Latin | Experience: 2,210/ Reputation: 880 |

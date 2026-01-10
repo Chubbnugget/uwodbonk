@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Emperor's Villa](Quests/Adventure/quest_5226.md)** | Adventure Quest (3) B.C. | Archeology (6) Visualization (4) Italian (1) | Reward: 76,000 / Advance payment: 0Experience: 130 / Fame: 70 |
+| **[Emperor's Villa](docs/Quests/Adventure/5001-6000/quest_5226.md)** | Adventure Quest (3) B.C. | Archeology (6) Visualization (4) Italian (1) | Reward: 76,000 / Advance payment: 0Experience: 130 / Fame: 70 |

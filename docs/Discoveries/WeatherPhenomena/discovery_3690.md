@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Red Tide](Quests/Other/quest_6637.md)** | Weather/phenomena (1) | Visual recognition (6) | Experience：175 |
+| **[Red Tide](docs/Quests/Other/6001-7000/quest_6637.md)** | Weather/phenomena (1) | Visual recognition (6) | Experience：175 |

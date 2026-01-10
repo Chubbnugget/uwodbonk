@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[紅毛城（中層）](Quests/Other/quest_2554.md)** | Dungeon (5) | - |  |
+| **[紅毛城（中層）](docs/Quests/Other/2001-3000/quest_2554.md)** | Dungeon (5) | - |  |

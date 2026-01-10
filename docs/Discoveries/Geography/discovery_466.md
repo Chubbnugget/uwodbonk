@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Luck brought by the icy sea](Quests/Adventure/quest_3181.md)** | Adventure Quest (9) 15th Century 5th Period | Geography (13) Visual recognition (11) Norse | Reward: 330,000/Advance payment: 30,000Experience: 560 |
+| **[Luck brought by the icy sea](docs/Quests/Adventure/3001-4000/quest_3181.md)** | Adventure Quest (9) 15th Century 5th Period | Geography (13) Visual recognition (11) Norse | Reward: 330,000/Advance payment: 30,000Experience: 560 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Royal Tomb Map](Quests/Other/quest_5218.md)** | Re-examination reward (4) | Exploration(4)Archaeology(4) |  |
+| **[Royal Tomb Map](docs/Quests/Other/5001-6000/quest_5218.md)** | Re-examination reward (4) | Exploration(4)Archaeology(4) |  |

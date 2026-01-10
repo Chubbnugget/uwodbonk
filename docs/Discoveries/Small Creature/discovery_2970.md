@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of cats living in the desert](Quests/Other/quest_5660.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Map of cats living in the desert](docs/Quests/Other/5001-6000/quest_5660.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

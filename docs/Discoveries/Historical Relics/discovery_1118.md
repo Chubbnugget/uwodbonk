@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Relics of Xerxes I](Quests/Adventure/quest_138.md)** | Adventure Quest (5) B.C. | Exploration (1) Archeology (3) Persian | Reward: 40,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Relics of Xerxes I](docs/Quests/Adventure/1-1000/quest_138.md)** | Adventure Quest (5) B.C. | Exploration (1) Archeology (3) Persian | Reward: 40,000 / Advance payment: 0Experience: 140 / Fame: 65 |

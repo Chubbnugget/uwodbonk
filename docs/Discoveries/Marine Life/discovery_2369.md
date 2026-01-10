@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Permanent Resident of the Icy Sea](Quests/Adventure/quest_3742.md)** | Adventure quest (9) 18th century third period | Ecological research (9) Biology (11) Arctic languages | Reward: 153,000 / Advance payment: 10,000 Experience: 200 |
+| **[Permanent Resident of the Icy Sea](docs/Quests/Adventure/3001-4000/quest_3742.md)** | Adventure quest (9) 18th century third period | Ecological research (9) Biology (11) Arctic languages | Reward: 153,000 / Advance payment: 10,000 Experience: 200 |

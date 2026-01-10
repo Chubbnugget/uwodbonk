@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of tufted flowers](Quests/Other/quest_2982.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |
+| **[Map of tufted flowers](docs/Quests/Other/2001-3000/quest_2982.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Paintings that fill the ceiling](Quests/Adventure/quest_859.md)** | Adventure quest (9) 16th century 1st period | Exploration (9) Art (11) Italian | Reward: 148,000/ Advance: 20,000Experience: 240/ Fame: 105 |
+| **[Paintings that fill the ceiling](docs/Quests/Adventure/1-1000/quest_859.md)** | Adventure quest (9) 16th century 1st period | Exploration (9) Art (11) Italian | Reward: 148,000/ Advance: 20,000Experience: 240/ Fame: 105 |

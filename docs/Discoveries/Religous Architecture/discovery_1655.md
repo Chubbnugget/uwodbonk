@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigating Rano Raraku Statue](Quests/Adventure/quest_1669.md)** | Adventure quest (6) | Religious Studies (6) Visual Recognition (4) | Reward: 163,000 / Advance payment: 10,000 Experience: 350 / Fame: 115 |
+| **[Investigating Rano Raraku Statue](docs/Quests/Adventure/1001-2000/quest_1669.md)** | Adventure quest (6) | Religious Studies (6) Visual Recognition (4) | Reward: 163,000 / Advance payment: 10,000 Experience: 350 / Fame: 115 |

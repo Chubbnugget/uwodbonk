@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Mayan prophecies](Quests/Adventure/quest_6811.md)** | Adventure quest (10) | Exploration (13) Treasures Appraisal (15) Mayan Languages ​​(1) | Reward: 473,000/Advance payment: 50,000Experience: 380 |
+| **[Ancient Mayan prophecies](docs/Quests/Adventure/6001-7000/quest_6811.md)** | Adventure quest (10) | Exploration (13) Treasures Appraisal (15) Mayan Languages ​​(1) | Reward: 473,000/Advance payment: 50,000Experience: 380 |

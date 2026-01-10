@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Uluru](Quests/Other/quest_6417.md)** | Pursuit Quest (3) Myth Era | Archeology (10) Visualization (8) Malayu Tagalog (1) | Remuneration: 366,000 / Advance payment: 0 |
+| **[Additional investigation of Uluru](docs/Quests/Other/6001-7000/quest_6417.md)** | Pursuit Quest (3) Myth Era | Archeology (10) Visualization (8) Malayu Tagalog (1) | Remuneration: 366,000 / Advance payment: 0 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[In search of the right language](Quests/Adventure/quest_2692.md)** | Adventure quest (4) 15th century third period | 探索(3)Treasures鑑定(5)朝鮮語 | Reward: 104,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[In search of the right language](docs/Quests/Adventure/2001-3000/quest_2692.md)** | Adventure quest (4) 15th century third period | 探索(3)Treasures鑑定(5)朝鮮語 | Reward: 104,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

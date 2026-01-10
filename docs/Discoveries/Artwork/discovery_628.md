@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What are the top-notch paintings of our time](Quests/Adventure/quest_2499.md)** | Adventure Quest (4) 16th Century 3rd Period | 探索(4)美術(6)日本語(1) | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[What are the top-notch paintings of our time](docs/Quests/Adventure/2001-3000/quest_2499.md)** | Adventure Quest (4) 16th Century 3rd Period | 探索(4)美術(6)日本語(1) | Reward: 68,000 / Advance payment: 0Experience: 130 / Fame: 65 |

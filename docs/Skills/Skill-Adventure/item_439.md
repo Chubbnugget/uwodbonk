@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Treasure appraisal |
 | **Type** | thing |
-| **Group** | [Skill (Adventure)](Categories/category_39.md) |
+| **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 3,000 |
 | **Description** | You can collect information about treasures and appraise discovered items. Learning conditions 3/1/0/total 0 |
 | **Last Updated** | 2005-04-02 09:58:31 System |

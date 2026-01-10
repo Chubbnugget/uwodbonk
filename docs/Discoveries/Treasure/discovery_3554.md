@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Coin of Demetrios the Siege](Quests/Other/quest_6480.md)** | Legacy(1) | - | Experience：1,650 |
+| **[Coin of Demetrios the Siege](docs/Quests/Other/6001-7000/quest_6480.md)** | Legacy(1) | - | Experience：1,650 |

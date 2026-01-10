@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient village map](Quests/Other/quest_522.md)** | Archeology(1) | Exploration(1)Archaeology(1) |  |
+| **[Ancient village map](docs/Quests/Other/1-1000/quest_522.md)** | Archeology(1) | Exploration(1)Archaeology(1) |  |

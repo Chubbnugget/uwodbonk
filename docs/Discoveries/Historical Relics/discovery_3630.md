@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Thunder God's Warhammer](Quests/Other/quest_6569.md)** | Pursuit quest (4) | Exploration (12) Archeology (14) Norse | Reward: 390,000 / Advance payment: 0Experience: 780 / Fame: 395 |
+| **[Additional investigation of Thunder God's Warhammer](docs/Quests/Other/6001-7000/quest_6569.md)** | Pursuit quest (4) | Exploration (12) Archeology (14) Norse | Reward: 390,000 / Advance payment: 0Experience: 780 / Fame: 395 |

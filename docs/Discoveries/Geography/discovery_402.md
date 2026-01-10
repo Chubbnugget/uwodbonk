@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[African Geography Survey](Quests/Adventure/quest_28.md)** | Adventure quest (4) | Geography (2) Visual recognition (1) Portuguese | Reward: 21,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[African Geography Survey](docs/Quests/Adventure/1-1000/quest_28.md)** | Adventure quest (4) | Geography (2) Visual recognition (1) Portuguese | Reward: 21,000 / Advance payment: 0Experience: 130 / Fame: 65 |

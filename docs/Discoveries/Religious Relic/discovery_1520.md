@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Endless battle between good and evil](Quests/Adventure/quest_1479.md)** | Adventure quest (8) | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 10,000 / Advance payment: 40,000 Experience: 660 / Fame: 220 |
+| **[Endless battle between good and evil](docs/Quests/Adventure/1001-2000/quest_1479.md)** | Adventure quest (8) | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 10,000 / Advance payment: 40,000 Experience: 660 / Fame: 220 |

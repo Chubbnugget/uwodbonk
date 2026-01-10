@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dog that repel demons](Quests/Adventure/quest_6767.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Chinese (1) | Reward: 380,000/Advance: 40,000Experience: 860 |
+| **[Dog that repel demons](docs/Quests/Adventure/6001-7000/quest_6767.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Chinese (1) | Reward: 380,000/Advance: 40,000Experience: 860 |

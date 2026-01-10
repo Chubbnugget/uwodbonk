@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bordeaux Church basement (middle floor)](Quests/Other/quest_2770.md)** | Dungeon (2) | - |  |
+| **[Bordeaux Church basement (middle floor)](docs/Quests/Other/2001-3000/quest_2770.md)** | Dungeon (2) | - |  |

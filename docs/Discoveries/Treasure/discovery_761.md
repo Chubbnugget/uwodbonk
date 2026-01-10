@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Bronze Female Statue](Quests/Other/quest_757.md)** | Treasures鑑定(3) | 探索(3)Treasures鑑定(3) |  |
+| **[Map of Bronze Female Statue](docs/Quests/Other/1-1000/quest_757.md)** | Treasures鑑定(3) | 探索(3)Treasures鑑定(3) |  |

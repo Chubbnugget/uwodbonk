@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hometown of Manuscript](Quests/Adventure/quest_6177.md)** | Adventure Quest (6) 16th Century 2nd Period | Religious Studies (8) Visual Recognition (6) English | Reward: 106,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[Hometown of Manuscript](docs/Quests/Adventure/6001-7000/quest_6177.md)** | Adventure Quest (6) 16th Century 2nd Period | Religious Studies (8) Visual Recognition (6) English | Reward: 106,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

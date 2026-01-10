@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Orange Bright Stars](Quests/Adventure/quest_3747.md)** | Adventure quest (3) | Astronomy (4) Visualization (2) Greek | Reward: 109,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[Orange Bright Stars](docs/Quests/Adventure/3001-4000/quest_3747.md)** | Adventure quest (3) | Astronomy (4) Visualization (2) Greek | Reward: 109,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

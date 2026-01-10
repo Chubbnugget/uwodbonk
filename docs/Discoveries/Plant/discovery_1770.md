@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Insect weed again](Quests/Adventure/quest_2991.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Spanish | Reward: 141,000 / Advance payment: 10,000 Experience: 190 / Fame: 170 |
+| **[Insect weed again](docs/Quests/Adventure/2001-3000/quest_2991.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Spanish | Reward: 141,000 / Advance payment: 10,000 Experience: 190 / Fame: 170 |

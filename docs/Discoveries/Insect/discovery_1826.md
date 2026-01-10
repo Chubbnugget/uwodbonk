@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Butterfly that sticks to the ground](Quests/Adventure/quest_2562.md)** | Adventure quest (7) | Ecological research (9) Biology (11) Chinese (1) | Reward: 191,000 / Advance payment: 10,000 Experience: 230 / Fame: 210 |
+| **[Butterfly that sticks to the ground](docs/Quests/Adventure/2001-3000/quest_2562.md)** | Adventure quest (7) | Ecological research (9) Biology (11) Chinese (1) | Reward: 191,000 / Advance payment: 10,000 Experience: 230 / Fame: 210 |

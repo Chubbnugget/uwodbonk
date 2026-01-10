@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Field Goddess Theft Case](Quests/Adventure/quest_2087.md)** | Adventure quest (8) | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 132,000 / Advance payment: 10,000 Experience: 180 / Fame: 170 |
+| **[Field Goddess Theft Case](docs/Quests/Adventure/2001-3000/quest_2087.md)** | Adventure quest (8) | Religious Studies (11) Exploration (9) Unlocking (9) | Reward: 132,000 / Advance payment: 10,000 Experience: 180 / Fame: 170 |

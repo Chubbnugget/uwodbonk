@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on amulets to ward off evil eye](Quests/Other/quest_6457.md)** | Pursuit quest (3) | Exploration (8) Treasures Appraisal (10) Turkish | Reward: 200,000 / Advance payment: 0Experience: 360 / Fame: 600 |
+| **[Additional research on amulets to ward off evil eye](docs/Quests/Other/6001-7000/quest_6457.md)** | Pursuit quest (3) | Exploration (8) Treasures Appraisal (10) Turkish | Reward: 200,000 / Advance payment: 0Experience: 360 / Fame: 600 |

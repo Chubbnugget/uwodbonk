@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Successor dispute](Quests/Adventure/quest_569.md)** | Adventure Quest (6) B.C. | Exploration (4) Archeology (6) Unlocking (4) | Reward: 102,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Successor dispute](docs/Quests/Adventure/1-1000/quest_569.md)** | Adventure Quest (6) B.C. | Exploration (4) Archeology (6) Unlocking (4) | Reward: 102,000 / Advance payment: 0Experience: 150 / Fame: 70 |

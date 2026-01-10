@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Best Black Pearl](Quests/Adventure/quest_602.md)** | Adventure quest (8) | Exploration (9) Treasures Appraisal (11) Arabic | Reward: 190,000 / Advance payment: 0Experience: 400 / Fame: 165 |
+| **[Best Black Pearl](docs/Quests/Adventure/1-1000/quest_602.md)** | Adventure quest (8) | Exploration (9) Treasures Appraisal (11) Arabic | Reward: 190,000 / Advance payment: 0Experience: 400 / Fame: 165 |

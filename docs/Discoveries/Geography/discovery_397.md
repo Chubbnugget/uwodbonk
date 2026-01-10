@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Large island in the Canary Islands](Quests/Adventure/quest_102.md)** | Adventure quest (3) 15th century 1st period | Geography (1) Visual recognition (1) Spanish | Reward: 24,000 |
+| **[Large island in the Canary Islands](docs/Quests/Adventure/1-1000/quest_102.md)** | Adventure quest (3) 15th century 1st period | Geography (1) Visual recognition (1) Spanish | Reward: 24,000 |

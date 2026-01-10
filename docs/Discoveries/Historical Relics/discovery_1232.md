@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unusual Stone](Quests/Adventure/quest_1168.md)** | Adventure quest (5) | Exploration (3) Archeology (5) Unlocking (3) | Reward: 72,000 / Advance payment: 10,000 Experience: 255 / Fame: 85 |
+| **[Unusual Stone](docs/Quests/Adventure/1001-2000/quest_1168.md)** | Adventure quest (5) | Exploration (3) Archeology (5) Unlocking (3) | Reward: 72,000 / Advance payment: 10,000 Experience: 255 / Fame: 85 |

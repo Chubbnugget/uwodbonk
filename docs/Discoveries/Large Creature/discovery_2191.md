@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tiger survey in cold regions](Quests/Adventure/quest_3693.md)** | Adventure quest (8) 18th century third period | Ecological Survey (8) Biology (10) Korean | Reward: 204,000 / Advance payment: 20,000 Experience: 240 / Fame: 210 |
+| **[Tiger survey in cold regions](docs/Quests/Adventure/3001-4000/quest_3693.md)** | Adventure quest (8) 18th century third period | Ecological Survey (8) Biology (10) Korean | Reward: 204,000 / Advance payment: 20,000 Experience: 240 / Fame: 210 |

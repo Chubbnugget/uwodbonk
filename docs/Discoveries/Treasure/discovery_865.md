@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unusual percussion instruments](Quests/Adventure/quest_1466.md)** | Adventure quest (6) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 90,000 / Advance payment: 0Experience: 300 / Fame: 100 |
+| **[Unusual percussion instruments](docs/Quests/Adventure/1001-2000/quest_1466.md)** | Adventure quest (6) | Exploration (6) Treasures Appraisal (8) Unlocking (6) | Reward: 90,000 / Advance payment: 0Experience: 300 / Fame: 100 |

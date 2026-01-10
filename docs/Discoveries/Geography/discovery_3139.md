@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Scenery that feels ancient](Quests/Adventure/quest_5882.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) North American languages | Reward: 227,000/ Advance: 20,000Experience: 230/ Fame: 130 |
+| **[Scenery that feels ancient](docs/Quests/Adventure/5001-6000/quest_5882.md)** | Adventure quest (10) | Geography (17) Visual recognition (15) North American languages | Reward: 227,000/ Advance: 20,000Experience: 230/ Fame: 130 |

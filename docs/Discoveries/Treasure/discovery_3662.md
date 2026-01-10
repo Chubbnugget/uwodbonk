@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Turquoise Mask](Quests/Adventure/quest_6605.md)** | Adventure quest (10) | Exploration (13) Treasures Appraisal (15) Nahuatl (1) | Reward: 404,000/Advance payment: 40,000Experience: 1,300 |
+| **[Turquoise Mask](docs/Quests/Adventure/6001-7000/quest_6605.md)** | Adventure quest (10) | Exploration (13) Treasures Appraisal (15) Nahuatl (1) | Reward: 404,000/Advance payment: 40,000Experience: 1,300 |

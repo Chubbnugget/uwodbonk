@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Forest Devil](Quests/Adventure/quest_1493.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Norse | Reward: 79,000 / Advance payment: 0Experience: 380 / Fame: 125 |
+| **[Forest Devil](docs/Quests/Adventure/1001-2000/quest_1493.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Norse | Reward: 79,000 / Advance payment: 0Experience: 380 / Fame: 125 |

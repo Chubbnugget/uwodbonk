@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rainbow on the snowy mountain](Quests/Adventure/quest_6118.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Indian languages | Reward: 237,000 / Advance payment: 20,000 Experience: 240 / Fame: 135 |
+| **[Rainbow on the snowy mountain](docs/Quests/Adventure/6001-7000/quest_6118.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Indian languages | Reward: 237,000 / Advance payment: 20,000 Experience: 240 / Fame: 135 |

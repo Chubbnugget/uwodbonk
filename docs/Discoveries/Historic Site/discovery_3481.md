@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gates of Mindos](Quests/Other/quest_6403.md)** | Legacy(1) | - | Experience：2,250 |
+| **[Gates of Mindos](docs/Quests/Other/6001-7000/quest_6403.md)** | Legacy(1) | - | Experience：2,250 |

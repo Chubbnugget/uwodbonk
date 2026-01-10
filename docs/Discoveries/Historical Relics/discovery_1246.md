@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Old civilization of Anatolia Peninsula](Quests/Adventure/quest_15.md)** | Adventure Quest (5) B.C. | Exploration (2) Archeology (4) Unlocking (2) | Reward: 63,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Old civilization of Anatolia Peninsula](docs/Quests/Adventure/1-1000/quest_15.md)** | Adventure Quest (5) B.C. | Exploration (2) Archeology (4) Unlocking (2) | Reward: 63,000 / Advance payment: 0Experience: 130 / Fame: 65 |

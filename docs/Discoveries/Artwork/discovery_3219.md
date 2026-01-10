@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cage Map of North America](Quests/Other/quest_6033.md)** | 美術(5) | 探索(5)美術(5) |  |
+| **[Cage Map of North America](docs/Quests/Other/6001-7000/quest_6033.md)** | 美術(5) | 探索(5)美術(5) |  |

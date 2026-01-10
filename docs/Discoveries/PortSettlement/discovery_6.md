@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Abidjan](Quests/Other/quest_5016.md)** | Port/village (1) | - |  |
+| **[Abidjan](docs/Quests/Other/5001-6000/quest_5016.md)** | Port/village (1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Trading base island map](Quests/Other/quest_5941.md)** | Geography学(5) | Geography (5) Visual recognition (5) |  |
+| **[Trading base island map](docs/Quests/Other/5001-6000/quest_5941.md)** | Geography学(5) | Geography (5) Visual recognition (5) |  |

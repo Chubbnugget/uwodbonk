@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient documents](Quests/Other/quest_566.md)** | Archeology(1) | Exploration(1)Archaeology(1) |  |
+| **[Map of ancient documents](docs/Quests/Other/1-1000/quest_566.md)** | Archeology(1) | Exploration(1)Archaeology(1) |  |

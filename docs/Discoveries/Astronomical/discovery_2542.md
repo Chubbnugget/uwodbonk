@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Perseus Stars](Quests/Other/quest_4882.md)** | Celestial Object Discovery Name(8)19th century | Astronomy(8) | Experience：640 |
+| **[Perseus Stars](docs/Quests/Other/4001-5000/quest_4882.md)** | Celestial Object Discovery Name(8)19th century | Astronomy(8) | Experience：640 |

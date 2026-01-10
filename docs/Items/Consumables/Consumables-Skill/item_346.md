@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | 四分儀 |
 | **Type** | thing |
-| **Group** | [Consumables (skill activation)](Categories/category_31.md) |
-| **Sold by NPC** | [Workshop Craftsman](NPCs/npc_7.md) |
+| **Group** | [Consumables (skill activation)](docs/Categories/category_31.md) |
+| **Sold by NPC** | [Workshop Craftsman](docs/NPCs/npc_7.md) |
 | **Purchase Price** | 500 |
 | **Description** | A tool to check your current location based on the position of the stars. Equip location Inventory Durability 10 Effect when used Surveying |
 | **Last Updated** | 2008-04-16 17:55:28 Passing navigator @guest |

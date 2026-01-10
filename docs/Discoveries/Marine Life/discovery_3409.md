@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Friend who loves pandas](Quests/Adventure/quest_6325.md)** | Adventure quest (8) | Ecological research (10) Biology (12) Oceanian languages | Reward: 535,000 / Advance payment: 50,000 Experience: 420 / Fame: 260 |
+| **[Friend who loves pandas](docs/Quests/Adventure/6001-7000/quest_6325.md)** | Adventure quest (8) | Ecological research (10) Biology (12) Oceanian languages | Reward: 535,000 / Advance payment: 50,000 Experience: 420 / Fame: 260 |

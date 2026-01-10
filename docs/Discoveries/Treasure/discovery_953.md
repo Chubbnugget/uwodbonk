@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map from old medical book](Quests/Other/quest_2897.md)** | Treasures鑑定(7) | Exploration (7) Treasures Appraisal (7) Unlocking (7) |  |
+| **[Map from old medical book](docs/Quests/Other/2001-3000/quest_2897.md)** | Treasures鑑定(7) | Exploration (7) Treasures Appraisal (7) Unlocking (7) |  |

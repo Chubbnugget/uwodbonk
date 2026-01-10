@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Wagon Map](Quests/Other/quest_509.md)** | Archeology(8) | Exploration(8)Archaeology(8) |  |
+| **[Ancient Wagon Map](docs/Quests/Other/1-1000/quest_509.md)** | Archeology(8) | Exploration(8)Archaeology(8) |  |

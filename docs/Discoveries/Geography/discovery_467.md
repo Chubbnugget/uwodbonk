@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sea of ​​fog and ice](Quests/Adventure/quest_3190.md)** | Adventure quest (10) | Geography (10) Visual recognition (8) English | Reward: 261,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |
+| **[Sea of ​​fog and ice](docs/Quests/Adventure/3001-4000/quest_3190.md)** | Adventure quest (10) | Geography (10) Visual recognition (8) English | Reward: 261,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |

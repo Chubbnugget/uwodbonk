@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Weight of a wish](Quests/Adventure/quest_6779.md)** | Adventure quest (6) | Geography (8) Visual recognition (6) Japanese (1) | Reward: 376,000/Advance: 40,000Experience: 360 |
+| **[Weight of a wish](docs/Quests/Adventure/6001-7000/quest_6779.md)** | Adventure quest (6) | Geography (8) Visual recognition (6) Japanese (1) | Reward: 376,000/Advance: 40,000Experience: 360 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Fish Map](Quests/Other/quest_5605.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |
+| **[Strange Fish Map](docs/Quests/Other/5001-6000/quest_5605.md)** | Biology学(6) | Ecological Survey(6)Biology(6) |  |

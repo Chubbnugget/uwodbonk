@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Emperor of Trouble](Quests/Adventure/quest_6067.md)** | Adventure quest (6) | Exploration (6) Archeology (8) Italian | Reward: 109,000/ Advance: 10,000Experience: 160/ Fame: 85 |
+| **[Emperor of Trouble](docs/Quests/Adventure/6001-7000/quest_6067.md)** | Adventure quest (6) | Exploration (6) Archeology (8) Italian | Reward: 109,000/ Advance: 10,000Experience: 160/ Fame: 85 |

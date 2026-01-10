@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[反薄明光線](Quests/Other/quest_5720.md)** | Weather/phenomena (1) | Visual recognition (9) |  |
+| **[反薄明光線](docs/Quests/Other/5001-6000/quest_5720.md)** | Weather/phenomena (1) | Visual recognition (9) |  |

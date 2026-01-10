@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Shadow moving in the darkness](Quests/Adventure/quest_336.md)** | Adventure quest (8) | Ecological research (7) Biology (9) Swahili | Reward: 249,000/ Advance: 20,000Experience: 210/ Fame: 115 |
+| **[Shadow moving in the darkness](docs/Quests/Adventure/1-1000/quest_336.md)** | Adventure quest (8) | Ecological research (7) Biology (9) Swahili | Reward: 249,000/ Advance: 20,000Experience: 210/ Fame: 115 |

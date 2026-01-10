@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Andean musical instruments](Quests/Other/quest_5570.md)** | Treasures鑑定(7) | Exploration (7) Treasures Appraisal (7) Unlocking (7) |  |
+| **[Map of Andean musical instruments](docs/Quests/Other/5001-6000/quest_5570.md)** | Treasures鑑定(7) | Exploration (7) Treasures Appraisal (7) Unlocking (7) |  |

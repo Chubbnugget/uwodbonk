@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Temple that watches over the port town](Quests/Adventure/quest_6754.md)** | Adventure quest (8) | Religious Studies (12) Visual Recognition (10) Italian | Reward: 148,000 / Advance payment: 10,000 Experience: 250 / Fame: 150 |
+| **[Temple that watches over the port town](docs/Quests/Adventure/6001-7000/quest_6754.md)** | Adventure quest (8) | Religious Studies (12) Visual Recognition (10) Italian | Reward: 148,000 / Advance payment: 10,000 Experience: 250 / Fame: 150 |

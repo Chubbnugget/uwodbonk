@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mausoleum Mausoleum of the Days](Quests/Other/quest_6407.md)** | Legacy(1) | - |  |
+| **[Mausoleum Mausoleum of the Days](docs/Quests/Other/6001-7000/quest_6407.md)** | Legacy(1) | - |  |

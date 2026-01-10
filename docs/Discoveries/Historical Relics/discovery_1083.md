@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Expedition Narrative Poetry](Quests/Adventure/quest_3623.md)** | Adventure Quest (5) 18th Century 3rd Period | Exploration (3) Archeology (5) Unlocking (3) | Reward: 141,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Expedition Narrative Poetry](docs/Quests/Adventure/3001-4000/quest_3623.md)** | Adventure Quest (5) 18th Century 3rd Period | Exploration (3) Archeology (5) Unlocking (3) | Reward: 141,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

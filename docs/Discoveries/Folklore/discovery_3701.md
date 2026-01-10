@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore of the Watchdog of the Underworld](Quests/Other/quest_6647.md)** | Tradition (8) | Religious Studies(12) | Reward: 439,500 / Advance payment: 40,000 Experience: 690 / Fame: 350 |
+| **[Lore of the Watchdog of the Underworld](docs/Quests/Other/6001-7000/quest_6647.md)** | Tradition (8) | Religious Studies(12) | Reward: 439,500 / Advance payment: 40,000 Experience: 690 / Fame: 350 |

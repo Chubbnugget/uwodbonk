@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Assortment of secret medicines |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 1,300 |
 | **Description** | Items for land combat. When used, all allies will recover from damage. Great effect. Effect when used: Ground combat treatment (multiple) (Recovers damage for all allies.) Rank 15 Required gauge 130 Cooldown time 450 |

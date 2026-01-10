@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stones piled up by giants](Quests/Adventure/quest_3295.md)** | Adventure quest (8) | Archeology (9) Visualization (7) English | Reward: 103,000 / Advance payment: 10,000 Experience: 160 / Fame: 150 |
+| **[Stones piled up by giants](docs/Quests/Adventure/3001-4000/quest_3295.md)** | Adventure quest (8) | Archeology (9) Visualization (7) English | Reward: 103,000 / Advance payment: 10,000 Experience: 160 / Fame: 150 |

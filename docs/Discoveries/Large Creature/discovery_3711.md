@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Bighorn](Quests/Other/quest_6659.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) Norse | Reward: 320,000Experience: 790 |
+| **[Additional investigation of Bighorn](docs/Quests/Other/6001-7000/quest_6659.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) Norse | Reward: 320,000Experience: 790 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Bird's Dream](Quests/Adventure/quest_4848.md)** | Adventure quest (3) | Ecological research (1) Biology (3) Portuguese | Reward: 149,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[Giant Bird's Dream](docs/Quests/Adventure/4001-5000/quest_4848.md)** | Adventure quest (3) | Ecological research (1) Biology (3) Portuguese | Reward: 149,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

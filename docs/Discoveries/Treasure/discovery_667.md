@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Marine adventure story material](Quests/Adventure/quest_3802.md)** | Adventure Quest (5) 18th Century 3rd Period | Exploration (5) Treasures Appraisal (7) Spanish | Reward: 173,000 / Advance payment: 10,000 Experience: 220 / Fame: 190 |
+| **[Marine adventure story material](docs/Quests/Adventure/3001-4000/quest_3802.md)** | Adventure Quest (5) 18th Century 3rd Period | Exploration (5) Treasures Appraisal (7) Spanish | Reward: 173,000 / Advance payment: 10,000 Experience: 220 / Fame: 190 |

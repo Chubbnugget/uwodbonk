@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Character or symbol](Quests/Adventure/quest_6252.md)** | Adventure quest (6) | Exploration (6) Archeology (8) Slavic languages | Reward: 117,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[Character or symbol](docs/Quests/Adventure/6001-7000/quest_6252.md)** | Adventure quest (6) | Exploration (6) Archeology (8) Slavic languages | Reward: 117,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

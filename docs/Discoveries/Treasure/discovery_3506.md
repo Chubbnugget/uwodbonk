@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Philosopher's Stone](Quests/Other/quest_6428.md)** | Pursuit quest (4) 16th century 2nd period | Exploration (11) Treasures Appraisal (13) Italian (1) | Reward: 215,000 / Advance payment: 0Experience: 380 |
+| **[Additional investigation of Philosopher's Stone](docs/Quests/Other/6001-7000/quest_6428.md)** | Pursuit quest (4) 16th century 2nd period | Exploration (11) Treasures Appraisal (13) Italian (1) | Reward: 215,000 / Advance payment: 0Experience: 380 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mira](Quests/Other/quest_3967.md)** | Celestial Object Discovery Name(10)17th Century Issue 4 | Astronomy(10) | Experience：820 |
+| **[Mira](docs/Quests/Other/3001-4000/quest_3967.md)** | Celestial Object Discovery Name(10)17th Century Issue 4 | Astronomy(10) | Experience：820 |

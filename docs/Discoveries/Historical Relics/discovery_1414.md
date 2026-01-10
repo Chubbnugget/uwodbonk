@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Andean ritual tools](Quests/Other/quest_2016.md)** | Archeology(9) | Exploration (9) Archeology (9) Unlocking (9) | Experience：310 |
+| **[Map of Andean ritual tools](docs/Quests/Other/2001-3000/quest_2016.md)** | Archeology(9) | Exploration (9) Archeology (9) Unlocking (9) | Experience：310 |

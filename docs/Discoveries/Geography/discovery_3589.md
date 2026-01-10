@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional survey east of Madagascar](Quests/Other/quest_6505.md)** | Pursuit quest (4) | Geography (14) Visualization (12) Swahili (1) | Reward: 310,000 / Advance payment: 0Experience: 480 / Fame: 255 |
+| **[Additional survey east of Madagascar](docs/Quests/Other/6001-7000/quest_6505.md)** | Pursuit quest (4) | Geography (14) Visualization (12) Swahili (1) | Reward: 310,000 / Advance payment: 0Experience: 480 / Fame: 255 |

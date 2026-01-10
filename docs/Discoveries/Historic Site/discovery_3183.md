@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Not a work of nature](Quests/Adventure/quest_5930.md)** | Adventure quest (3) | Archeology (5) Visualization (3) Portuguese | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Not a work of nature](docs/Quests/Adventure/5001-6000/quest_5930.md)** | Adventure quest (3) | Archeology (5) Visualization (3) Portuguese | Reward: 70,000 / Advance payment: 0Experience: 130 / Fame: 65 |

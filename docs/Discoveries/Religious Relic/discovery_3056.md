@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Scribe's Tablet](Quests/Adventure/quest_5782.md)** | Adventure quest (10) | Religious Studies (17) Exploration (15) Persian (1) | Reward: 667,000 / Advance payment: 60,000 Experience: 500 / Fame: 315 |
+| **[Scribe's Tablet](docs/Quests/Adventure/5001-6000/quest_5782.md)** | Adventure quest (10) | Religious Studies (17) Exploration (15) Persian (1) | Reward: 667,000 / Advance payment: 60,000 Experience: 500 / Fame: 315 |

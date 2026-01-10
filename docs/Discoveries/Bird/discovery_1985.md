@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fluttering tail feathers](Quests/Adventure/quest_2509.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Chinese | Reward: 110,000/ Advance: 10,000 Experience: 170/ Fame: 80 |
+| **[Fluttering tail feathers](docs/Quests/Adventure/2001-3000/quest_2509.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Chinese | Reward: 110,000/ Advance: 10,000 Experience: 170/ Fame: 80 |

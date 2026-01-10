@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tactical Genius](Quests/Other/quest_3530.md)** | Treasure hunting (5) | Exploration (7) Archeology (9) Greek | Experience: 1,680/ Reputation: 670 |
+| **[Tactical Genius](docs/Quests/Other/3001-4000/quest_3530.md)** | Treasure hunting (5) | Exploration (7) Archeology (9) Greek | Experience: 1,680/ Reputation: 670 |

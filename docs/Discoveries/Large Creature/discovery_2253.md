@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Harmful beast](Quests/Adventure/quest_384.md)** | Adventure quest (7) | Ecological Survey (5) Biology (7) Persian | Reward: 151,000 / Advance payment: 5,000 Experience: 180 / Fame: 90 |
+| **[Harmful beast](docs/Quests/Adventure/1-1000/quest_384.md)** | Adventure quest (7) | Ecological Survey (5) Biology (7) Persian | Reward: 151,000 / Advance payment: 5,000 Experience: 180 / Fame: 90 |

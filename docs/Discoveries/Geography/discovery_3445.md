@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Coast made by giants](Quests/Adventure/quest_6358.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) English | Reward: 133,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |
+| **[Coast made by giants](docs/Quests/Adventure/6001-7000/quest_6358.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) English | Reward: 133,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |

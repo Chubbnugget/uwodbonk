@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Special drug for epidemics |
 | **Type** | thing |
-| **Group** | [Consumables](Categories/category_21.md) |
-| **Sold by NPC** | [peddler](NPCs/npc_32.md) |
+| **Group** | [Consumables](docs/Categories/category_21.md) |
+| **Sold by NPC** | [peddler](docs/NPCs/npc_32.md) |
 | **Purchase Price** | 500 |
 | **Description** | A medicine to quell epidemics. Effect when used: Epidemic recovery |
 | **Last Updated** | 2005-04-04 12:06:08 Kasumi |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[River where mysterious things lurk](Quests/Adventure/quest_1322.md)** | Adventure quest (6) | Geography (7) Visual recognition (5) Thai-Burmese | Reward: 60,000/ Advance: 10,000Experience: 290/ Fame: 92 |
+| **[River where mysterious things lurk](docs/Quests/Adventure/1001-2000/quest_1322.md)** | Adventure quest (6) | Geography (7) Visual recognition (5) Thai-Burmese | Reward: 60,000/ Advance: 10,000Experience: 290/ Fame: 92 |

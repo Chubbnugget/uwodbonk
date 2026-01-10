@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Brother Stars](Quests/Adventure/quest_3753.md)** | Adventure Quest (5) Mythology Era | Astronomy (6) Visual recognition (4) English | Reward: 88,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Brother Stars](docs/Quests/Adventure/3001-4000/quest_3753.md)** | Adventure Quest (5) Mythology Era | Astronomy (6) Visual recognition (4) English | Reward: 88,000 / Advance payment: 0Experience: 150 / Fame: 70 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lizard running on two legs](Quests/Adventure/quest_1571.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Oceanian languages | Reward: 77,000 / Advance payment: 0Experience: 280 / Fame: 184 |
+| **[Lizard running on two legs](docs/Quests/Adventure/1001-2000/quest_1571.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Oceanian languages | Reward: 77,000 / Advance payment: 0Experience: 280 / Fame: 184 |

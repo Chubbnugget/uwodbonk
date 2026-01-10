@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Great Palace of Ancient Persia](Quests/Adventure/quest_548.md)** | Adventure Quest (5) B.C. | Archeology (3) Visualization (1) Persian | Experience: 140/ Reputation: 70 |
+| **[Great Palace of Ancient Persia](docs/Quests/Adventure/1-1000/quest_548.md)** | Adventure Quest (5) B.C. | Archeology (3) Visualization (1) Persian | Experience: 140/ Reputation: 70 |

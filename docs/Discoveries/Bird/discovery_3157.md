@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Not a frog's mouth](Quests/Adventure/quest_5856.md)** | Adventure quest (10) | Ecological Survey (15) Biology (17) Malayu Tagalog | Reward: 175,000 / Advance payment: 10,000 Experience: 200 |
+| **[Not a frog's mouth](docs/Quests/Adventure/5001-6000/quest_5856.md)** | Adventure quest (10) | Ecological Survey (15) Biology (17) Malayu Tagalog | Reward: 175,000 / Advance payment: 10,000 Experience: 200 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wildcat Map (Archives)](Quests/Other/quest_613.md)** | Biology学(2) | Ecological Survey(2)Biology(2) | Experience：28 |
+| **[Wildcat Map (Archives)](docs/Quests/Other/1-1000/quest_613.md)** | Biology学(2) | Ecological Survey(2)Biology(2) | Experience：28 |

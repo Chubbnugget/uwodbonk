@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rambayeke](Quests/Other/quest_5170.md)** | Port/village (1) | - |  |
+| **[Rambayeke](docs/Quests/Other/5001-6000/quest_5170.md)** | Port/village (1) | - |  |

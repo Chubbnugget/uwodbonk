@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant Sea Monster Map](Quests/Other/quest_4823.md)** | Biology学(10) | Ecological Survey(10)Biology(10) |  |
+| **[Giant Sea Monster Map](docs/Quests/Other/4001-5000/quest_4823.md)** | Biology学(10) | Ecological Survey(10)Biology(10) |  |

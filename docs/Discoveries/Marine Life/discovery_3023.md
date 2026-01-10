@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Transparent fish map](Quests/Other/quest_5738.md)** | Biology学(9) | Ecological Survey(9)Biology(9) |  |
+| **[Transparent fish map](docs/Quests/Other/5001-6000/quest_5738.md)** | Biology学(9) | Ecological Survey(9)Biology(9) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Visby](Quests/Other/quest_5182.md)** | Port/village (1) | - |  |
+| **[Visby](docs/Quests/Other/5001-6000/quest_5182.md)** | Port/village (1) | - |  |

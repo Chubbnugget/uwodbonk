@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tail longer than body](Quests/Adventure/quest_1107.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Indian languages | Reward: 77,000 / Advance payment: 0Experience: 290 / Fame: 100 |
+| **[Tail longer than body](docs/Quests/Adventure/1001-2000/quest_1107.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Indian languages | Reward: 77,000 / Advance payment: 0Experience: 290 / Fame: 100 |

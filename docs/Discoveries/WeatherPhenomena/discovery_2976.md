@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Aerial Tornado](Quests/Other/quest_5663.md)** | Weather/phenomena (6) | Visual recognition (6) |  |
+| **[Aerial Tornado](docs/Quests/Other/5001-6000/quest_5663.md)** | Weather/phenomena (6) | Visual recognition (6) |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Luxury Clothes Map](Quests/Other/quest_579.md)** | Treasures鑑定(6) | Exploration (6) Treasures Appraisal (6) Unlocking (6) |  |
+| **[Luxury Clothes Map](docs/Quests/Other/1-1000/quest_579.md)** | Treasures鑑定(6) | Exploration (6) Treasures Appraisal (6) Unlocking (6) |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[God of Learning](Quests/Adventure/quest_2354.md)** | Adventure quest (5) | Exploration (4) Archeology (6) Japanese | Reward: 157,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[God of Learning](docs/Quests/Adventure/2001-3000/quest_2354.md)** | Adventure quest (5) | Exploration (4) Archeology (6) Japanese | Reward: 157,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

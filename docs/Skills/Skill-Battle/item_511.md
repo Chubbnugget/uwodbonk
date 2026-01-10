@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | shipbuilding |
 | **Type** | thing |
-| **Group** | [Skill (combat)](Categories/category_41.md) |
+| **Group** | [Skill (combat)](docs/Categories/category_41.md) |
 | **Purchase Price** | 25,000 |
 | **Description** | You can build a new ship at the shipyard. Learning conditions 0/0/7/total 0 Prerequisite skills Repair (3) |
 | **Last Updated** | 2005-04-02 09:58:31 System |

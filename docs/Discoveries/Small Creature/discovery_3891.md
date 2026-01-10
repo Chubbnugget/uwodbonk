@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Poisonous Frog Map](Quests/Other/quest_6878.md)** | Biology学(11) | Ecological Survey(11)Biology(11) |  |
+| **[Poisonous Frog Map](docs/Quests/Other/6001-7000/quest_6878.md)** | Biology学(11) | Ecological Survey(11)Biology(11) |  |

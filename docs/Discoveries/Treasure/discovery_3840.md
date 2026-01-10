@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mysterious Small Box](Quests/Adventure/quest_6812.md)** | Adventure quest (10) | Exploration (13) Treasures Appraisal (15) Swahili (1) | Remuneration: 827,000 / Advance payment: 80,000 |
+| **[Mysterious Small Box](docs/Quests/Adventure/6001-7000/quest_6812.md)** | Adventure quest (10) | Exploration (13) Treasures Appraisal (15) Swahili (1) | Remuneration: 827,000 / Advance payment: 80,000 |

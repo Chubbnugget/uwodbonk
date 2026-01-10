@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Big city of ancient civilization](Quests/Adventure/quest_561.md)** | Adventure Quest (6) B.C. | Geography (3) Archeology (6) Visualization (4) | Reward: 223,000 / Advance payment: 5,000 Experience: 170 / Fame: 90 |
+| **[Big city of ancient civilization](docs/Quests/Adventure/1-1000/quest_561.md)** | Adventure Quest (6) B.C. | Geography (3) Archeology (6) Visualization (4) | Reward: 223,000 / Advance payment: 5,000 Experience: 170 / Fame: 90 |

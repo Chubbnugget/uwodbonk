@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Little cicada map](Quests/Other/quest_2535.md)** | Biology学(9) | Ecological Survey(9)Biology(9) | Experience：340 |
+| **[Little cicada map](docs/Quests/Other/2001-3000/quest_2535.md)** | Biology学(9) | Ecological Survey(9)Biology(9) | Experience：340 |

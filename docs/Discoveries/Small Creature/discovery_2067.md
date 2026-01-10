@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Inescapable poisonous snake](Quests/Adventure/quest_875.md)** | Adventure quest (6) | Ecological research (3) Biology (5) Swahili | Reward: 89,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Inescapable poisonous snake](docs/Quests/Adventure/1-1000/quest_875.md)** | Adventure quest (6) | Ecological research (3) Biology (5) Swahili | Reward: 89,000 / Advance payment: 0Experience: 140 / Fame: 70 |

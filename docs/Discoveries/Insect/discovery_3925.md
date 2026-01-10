@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of white spider](Quests/Other/quest_6909.md)** | Pursuit quest (8) | Ecological research (9) Biology (11) Chinese (1) | Remuneration: 480,000／ Advance payment: 0 |
+| **[Additional investigation of white spider](docs/Quests/Other/6001-7000/quest_6909.md)** | Pursuit quest (8) | Ecological research (9) Biology (11) Chinese (1) | Remuneration: 480,000／ Advance payment: 0 |

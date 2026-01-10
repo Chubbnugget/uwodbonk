@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[River that nurtured ancient civilization](Quests/Adventure/quest_563.md)** | Adventure quest (6) | Geography (5) Visual recognition (3) Arabic | Reward: 73,000 / Advance payment: 0Experience: 160 / Fame: 75 |
+| **[River that nurtured ancient civilization](docs/Quests/Adventure/1-1000/quest_563.md)** | Adventure quest (6) | Geography (5) Visual recognition (3) Arabic | Reward: 73,000 / Advance payment: 0Experience: 160 / Fame: 75 |

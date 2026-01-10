@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fish with feathers](Quests/Adventure/quest_1831.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Arabic (1) | Reward: 75,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Fish with feathers](docs/Quests/Adventure/1001-2000/quest_1831.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Arabic (1) | Reward: 75,000 / Advance payment: 0Experience: 140 / Fame: 65 |

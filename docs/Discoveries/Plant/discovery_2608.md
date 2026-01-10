@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flowers carved into pillars](Quests/Adventure/quest_4980.md)** | Adventure Quest (2) 15th Century 1st Period | Ecological research (1) Biology (2) Italian | Reward: 104,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[Flowers carved into pillars](docs/Quests/Adventure/4001-5000/quest_4980.md)** | Adventure Quest (2) 15th Century 1st Period | Ecological research (1) Biology (2) Italian | Reward: 104,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

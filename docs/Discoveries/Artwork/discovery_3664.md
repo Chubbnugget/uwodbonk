@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient glasswork](Quests/Adventure/quest_6607.md)** | Adventure quest (9) | Exploration (11) Art (13) Unlocking (11) | Reward: 396,400 / Advance payment: 40,000 Experience: 360 / Fame: 200 |
+| **[Ancient glasswork](docs/Quests/Adventure/6001-7000/quest_6607.md)** | Adventure quest (9) | Exploration (11) Art (13) Unlocking (11) | Reward: 396,400 / Advance payment: 40,000 Experience: 360 / Fame: 200 |

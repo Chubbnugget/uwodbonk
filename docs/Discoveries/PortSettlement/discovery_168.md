@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lopburi](Quests/Other/quest_5178.md)** | Port/village (1) | - |  |
+| **[Lopburi](docs/Quests/Other/5001-6000/quest_5178.md)** | Port/village (1) | - |  |

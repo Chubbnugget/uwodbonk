@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mysterious clod](Quests/Adventure/quest_2837.md)** | Adventure quest (6) | Exploration(5)Archaeology(7)Chinese(1) | Reward: 91,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Mysterious clod](docs/Quests/Adventure/2001-3000/quest_2837.md)** | Adventure quest (6) | Exploration(5)Archaeology(7)Chinese(1) | Reward: 91,000 / Advance payment: 0Experience: 150 / Fame: 70 |

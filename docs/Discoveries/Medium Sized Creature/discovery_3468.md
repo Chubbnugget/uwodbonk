@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of dog climbing tree](Quests/Other/quest_6389.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |
+| **[Map of dog climbing tree](docs/Quests/Other/6001-7000/quest_6389.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |

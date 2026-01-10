@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Memories of certain saints](Quests/Adventure/quest_3633.md)** | Adventure quest (4) 18th century third period | Religious Studies (5) Exploration (3) Unlocking (3) | Reward: 60,000Experience: 130/ Fame: 65 |
+| **[Memories of certain saints](docs/Quests/Adventure/3001-4000/quest_3633.md)** | Adventure quest (4) 18th century third period | Religious Studies (5) Exploration (3) Unlocking (3) | Reward: 60,000Experience: 130/ Fame: 65 |

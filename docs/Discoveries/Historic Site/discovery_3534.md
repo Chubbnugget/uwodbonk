@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Mayan ruins](Quests/Other/quest_6456.md)** | Pursuit quest (4) | Archeology (14) Visualization (12) Mayan languages | Reward: 325,000 / Advance payment: 0Experience: 580 |
+| **[Additional investigation of Mayan ruins](docs/Quests/Other/6001-7000/quest_6456.md)** | Pursuit quest (4) | Archeology (14) Visualization (12) Mayan languages | Reward: 325,000 / Advance payment: 0Experience: 580 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of South American pottery](Quests/Other/quest_5273.md)** | Re-examination reward (7) | Exploration(7)Archaeology(7) | Experience：220 |
+| **[Map of South American pottery](docs/Quests/Other/5001-6000/quest_5273.md)** | Re-examination reward (7) | Exploration(7)Archaeology(7) | Experience：220 |

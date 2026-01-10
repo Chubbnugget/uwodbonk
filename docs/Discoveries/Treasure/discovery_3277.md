@@ -30,4 +30,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Veracity of Poetry](Quests/Adventure/quest_6111.md)** | Adventure quest (5) | 探索(4)Treasures鑑定(6)日本語 | Reward: 125,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |
+| **[Veracity of Poetry](docs/Quests/Adventure/6001-7000/quest_6111.md)** | Adventure quest (5) | 探索(4)Treasures鑑定(6)日本語 | Reward: 125,000 / Advance payment: 10,000 Experience: 170 / Fame: 90 |

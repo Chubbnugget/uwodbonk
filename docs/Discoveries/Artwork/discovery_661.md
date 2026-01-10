@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Landscape map](Quests/Other/quest_2490.md)** | 美術(7) | 探索(7)美術(7) | Experience：250 |
+| **[Landscape map](docs/Quests/Other/2001-3000/quest_2490.md)** | 美術(7) | 探索(7)美術(7) | Experience：250 |

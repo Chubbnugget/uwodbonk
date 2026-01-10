@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of large horned beasts](Quests/Other/quest_2889.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |
+| **[Map of large horned beasts](docs/Quests/Other/2001-3000/quest_2889.md)** | Biology学(8) | Ecological Survey(8)Biology(8) |  |

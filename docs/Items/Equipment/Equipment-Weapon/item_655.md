@@ -1,6 +1,6 @@
 ---
 id: 655
-name: "hunter's spear"
+name: "\"hunter's spear\""
 type:  Item
 ---
 # hunter's spear
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | hunter's spear |
 | **Type** | thing |
-| **Group** | [Equipment](Categories/category_27.md) |
+| **Group** | [Equipment](docs/Categories/category_27.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 38,700 |
 | **Description** | A wooden spear said to have been used by a great hunter. Durability 35 Attack power 28 Assault +1 Equipable occupation Combat type Total required fame 1280 Weapon type Spear |

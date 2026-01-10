@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Burned Ruins](Quests/Adventure/quest_664.md)** | Adventure quest (5) | Exploration (2) Archeology (4) Persian | Reward: 75,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Burned Ruins](docs/Quests/Adventure/1-1000/quest_664.md)** | Adventure quest (5) | Exploration (2) Archeology (4) Persian | Reward: 75,000 / Advance payment: 0Experience: 140 / Fame: 70 |

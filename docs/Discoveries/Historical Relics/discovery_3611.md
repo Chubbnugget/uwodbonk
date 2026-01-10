@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Collection of the Great Library of Alexandria](Quests/Other/quest_6545.md)** | Legacy(1) | - |  |
+| **[Collection of the Great Library of Alexandria](docs/Quests/Other/6001-7000/quest_6545.md)** | Legacy(1) | - |  |

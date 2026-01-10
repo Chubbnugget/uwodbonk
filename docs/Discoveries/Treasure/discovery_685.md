@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Soul of the Goddess](Quests/Adventure/quest_1855.md)** | Adventure Quest (10) 16th Century 3rd Period | Exploration (12) Treasures Appraisal (14) Unlocking (12) | Reward: 442,000 / Advance payment: 40,000 Experience: 630 / Fame: 275 |
+| **[Soul of the Goddess](docs/Quests/Adventure/1001-2000/quest_1855.md)** | Adventure Quest (10) 16th Century 3rd Period | Exploration (12) Treasures Appraisal (14) Unlocking (12) | Reward: 442,000 / Advance payment: 40,000 Experience: 630 / Fame: 275 |

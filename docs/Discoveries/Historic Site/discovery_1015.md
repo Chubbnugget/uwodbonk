@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hill or tomb](Quests/Adventure/quest_2967.md)** | Adventure quest (9) | Archeology (13) Visualization (11) English | Reward: 259,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |
+| **[Hill or tomb](docs/Quests/Adventure/2001-3000/quest_2967.md)** | Adventure quest (9) | Archeology (13) Visualization (11) English | Reward: 259,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |

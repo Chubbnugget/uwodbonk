@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White Storm](Quests/Other/quest_6361.md)** | Weather/phenomena (2) | Visual recognition | Experience：370 |
+| **[White Storm](docs/Quests/Other/6001-7000/quest_6361.md)** | Weather/phenomena (2) | Visual recognition | Experience：370 |

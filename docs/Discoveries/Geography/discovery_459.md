@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[East of Madagascar](Quests/Adventure/quest_291.md)** | Adventure Quest (6) 16th Century 1st Period | Geography (5) Visual recognition (3) Swahili | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 70 |
+| **[East of Madagascar](docs/Quests/Adventure/1-1000/quest_291.md)** | Adventure Quest (6) 16th Century 1st Period | Geography (5) Visual recognition (3) Swahili | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 70 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Assistance to researchers](Quests/Adventure/quest_3298.md)** | Adventure quest (5) | Geography (7) Visual recognition (5) Spanish | Reward: 199,000 / Advance payment: 10,000 Experience: 240 / Fame: 105 |
+| **[Assistance to researchers](docs/Quests/Adventure/3001-4000/quest_3298.md)** | Adventure quest (5) | Geography (7) Visual recognition (5) Spanish | Reward: 199,000 / Advance payment: 10,000 Experience: 240 / Fame: 105 |

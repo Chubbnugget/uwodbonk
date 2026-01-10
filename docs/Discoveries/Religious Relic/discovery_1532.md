@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Study of Slavic mythology](Quests/Adventure/quest_3634.md)** | Adventure quest (4) 18th century third period | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 142,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |
+| **[Study of Slavic mythology](docs/Quests/Adventure/3001-4000/quest_3634.md)** | Adventure quest (4) 18th century third period | Religious Studies (8) Exploration (6) Unlocking (6) | Reward: 142,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |

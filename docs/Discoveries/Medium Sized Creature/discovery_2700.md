@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Grassland Master Hunter](Quests/Adventure/quest_5286.md)** | Adventure quest (5) | Ecological research (2) Biology (4) Swahili | Reward: 168,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |
+| **[Grassland Master Hunter](docs/Quests/Adventure/5001-6000/quest_5286.md)** | Adventure quest (5) | Ecological research (2) Biology (4) Swahili | Reward: 168,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |

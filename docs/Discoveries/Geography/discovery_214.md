@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mother River of India](Quests/Adventure/quest_70.md)** | Adventure quest (6) | Geography (5) Visual recognition (3) Indian languages | Reward: 73,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Mother River of India](docs/Quests/Adventure/1-1000/quest_70.md)** | Adventure quest (6) | Geography (5) Visual recognition (3) Indian languages | Reward: 73,000 / Advance payment: 0Experience: 150 / Fame: 75 |

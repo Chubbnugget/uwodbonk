@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Clothes Map](Quests/Other/quest_507.md)** | Archeology(1) | Exploration(1)Archaeology(1) |  |
+| **[Ancient Clothes Map](docs/Quests/Other/1-1000/quest_507.md)** | Archeology(1) | Exploration(1)Archaeology(1) |  |

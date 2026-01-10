@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Marble relief map](Quests/Other/quest_6838.md)** | 美術(12) | 探索(12)美術(12) |  |
+| **[Marble relief map](docs/Quests/Other/6001-7000/quest_6838.md)** | 美術(12) | 探索(12)美術(12) |  |

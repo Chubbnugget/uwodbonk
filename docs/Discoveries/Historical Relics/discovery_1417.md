@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flightless Bird](Quests/Adventure/quest_922.md)** | Adventure Quest (7) B.C. | Exploration (5) Archeology (7) Unlocking (5) | Reward: 127,000 / Advance: 0Experience: 240 / Fame: 85 |
+| **[Flightless Bird](docs/Quests/Adventure/1-1000/quest_922.md)** | Adventure Quest (7) B.C. | Exploration (5) Archeology (7) Unlocking (5) | Reward: 127,000 / Advance: 0Experience: 240 / Fame: 85 |

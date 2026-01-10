@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Korean religious paintings](Quests/Adventure/quest_2681.md)** | Adventure quest (5) | 探索(5)美術(7)朝鮮語 | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Korean religious paintings](docs/Quests/Adventure/2001-3000/quest_2681.md)** | Adventure quest (5) | 探索(5)美術(7)朝鮮語 | Reward: 73,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stationary butterfly](Quests/Adventure/quest_1527.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Malayu Tagalog | Remuneration: 82,000 / Advance payment: 0 |
-| **[Offerings from the Spice Islands](Quests/Other/quest_2077.md)** | Imperial command quest (4) | Ecological research (4) Biology (6) | Reward: 80 |
+| **[Stationary butterfly](docs/Quests/Adventure/1001-2000/quest_1527.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Malayu Tagalog | Remuneration: 82,000 / Advance payment: 0 |
+| **[Offerings from the Spice Islands](docs/Quests/Other/2001-3000/quest_2077.md)** | Imperial command quest (4) | Ecological research (4) Biology (6) | Reward: 80 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Another Tower of Babel](Quests/Adventure/quest_303.md)** | Adventure quest (4) 16th century 4th period | Exploration (1) Art (3) Dutch | Reward: 22,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Another Tower of Babel](docs/Quests/Adventure/1-1000/quest_303.md)** | Adventure quest (4) 16th century 4th period | Exploration (1) Art (3) Dutch | Reward: 22,000 / Advance payment: 0Experience: 140 / Fame: 70 |

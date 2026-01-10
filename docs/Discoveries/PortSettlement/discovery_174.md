@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Veracruz](Quests/Other/quest_5184.md)** | Port/village (1) | - |  |
+| **[Veracruz](docs/Quests/Other/5001-6000/quest_5184.md)** | Port/village (1) | - |  |

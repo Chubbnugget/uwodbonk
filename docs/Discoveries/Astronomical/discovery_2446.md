@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars shining in the southern sky](Quests/Adventure/quest_3756.md)** | Adventure quest (1) | Astronomy (2) Visualization (1) Arabic | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Stars shining in the southern sky](docs/Quests/Adventure/3001-4000/quest_3756.md)** | Adventure quest (1) | Astronomy (2) Visualization (1) Arabic | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 65 |

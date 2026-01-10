@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Broken Temple Map](Quests/Other/quest_6330.md)** | Religious Studies(10) | Religious Studies (10) Visual Recognition (10) |  |
+| **[Broken Temple Map](docs/Quests/Other/6001-7000/quest_6330.md)** | Religious Studies(10) | Religious Studies (10) Visual Recognition (10) |  |

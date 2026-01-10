@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Where is the legendary island](Quests/Other/quest_3509.md)** | Treasure hunting (9) | Religious Studies (15) Exploration (13) Celtic |  |
+| **[Where is the legendary island](docs/Quests/Other/3001-4000/quest_3509.md)** | Treasure hunting (9) | Religious Studies (15) Exploration (13) Celtic |  |

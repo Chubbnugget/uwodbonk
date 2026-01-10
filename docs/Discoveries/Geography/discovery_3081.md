@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The greatest place](Quests/Adventure/quest_5816.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) Spanish | Reward: 112,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[The greatest place](docs/Quests/Adventure/5001-6000/quest_5816.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) Spanish | Reward: 112,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

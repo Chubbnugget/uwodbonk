@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Drum of Silence](Quests/Adventure/quest_2742.md)** | Adventure Quest (2) 15th Century 1st Period | 探索(4)Treasures鑑定(6)朝鮮語 | Reward: 112,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Drum of Silence](docs/Quests/Adventure/2001-3000/quest_2742.md)** | Adventure Quest (2) 15th Century 1st Period | 探索(4)Treasures鑑定(6)朝鮮語 | Reward: 112,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

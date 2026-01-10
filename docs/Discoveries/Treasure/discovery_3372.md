@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Itinerant Monk](Quests/Adventure/quest_6257.md)** | Adventure quest (3) | Exploration (2) Treasures Appraisal (4) Latin | Reward: 110,000/Advance: 10,000Experience: 160 |
+| **[Itinerant Monk](docs/Quests/Adventure/6001-7000/quest_6257.md)** | Adventure quest (3) | Exploration (2) Treasures Appraisal (4) Latin | Reward: 110,000/Advance: 10,000Experience: 160 |

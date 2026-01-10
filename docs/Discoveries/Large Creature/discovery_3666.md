@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of deer endemic to China](Quests/Adventure/quest_6609.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Chinese (1) | Reward: 217,700 / Advance payment: 20,000 Experience: 260 / Fame: 115 |
+| **[Investigation of deer endemic to China](docs/Quests/Adventure/6001-7000/quest_6609.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Chinese (1) | Reward: 217,700 / Advance payment: 20,000 Experience: 260 / Fame: 115 |

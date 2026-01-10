@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigating a mysterious place](Quests/Adventure/quest_2346.md)** | Adventure quest (5) | Religious Studies(6)Explore(4)Japanese | Reward: 118,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Investigating a mysterious place](docs/Quests/Adventure/2001-3000/quest_2346.md)** | Adventure quest (5) | Religious Studies(6)Explore(4)Japanese | Reward: 118,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

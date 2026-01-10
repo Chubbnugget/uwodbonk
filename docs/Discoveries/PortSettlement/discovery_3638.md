@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Manama](Quests/Other/quest_6583.md)** | Port/village (1) | - |  |
+| **[Manama](docs/Quests/Other/6001-7000/quest_6583.md)** | Port/village (1) | - |  |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fastest Monkey](Quests/Adventure/quest_5292.md)** | Adventure quest (6) | Ecological research (5) Biology (7) West African languages | Reward: 156,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |
+| **[Fastest Monkey](docs/Quests/Adventure/5001-6000/quest_5292.md)** | Adventure quest (6) | Ecological research (5) Biology (7) West African languages | Reward: 156,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |

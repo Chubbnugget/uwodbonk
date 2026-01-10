@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stylish tablecloth](Quests/Adventure/quest_4953.md)** | Adventure Quest (4) 15th Century 5th Period | Exploration (3) Treasures Appraisal (5) Norse | Reward: 159,000/ Advance: 10,000 Experience: 210/ Fame: 95 |
+| **[Stylish tablecloth](docs/Quests/Adventure/4001-5000/quest_4953.md)** | Adventure Quest (4) 15th Century 5th Period | Exploration (3) Treasures Appraisal (5) Norse | Reward: 159,000/ Advance: 10,000 Experience: 210/ Fame: 95 |

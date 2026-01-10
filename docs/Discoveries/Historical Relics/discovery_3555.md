@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kares Colossus Blueprint](Quests/Other/quest_6481.md)** | Legacy(1) | - |  |
+| **[Kares Colossus Blueprint](docs/Quests/Other/6001-7000/quest_6481.md)** | Legacy(1) | - |  |

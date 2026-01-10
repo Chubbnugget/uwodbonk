@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dangerous Sea Serpent Map](Quests/Other/quest_406.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |
+| **[Dangerous Sea Serpent Map](docs/Quests/Other/1-1000/quest_406.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |

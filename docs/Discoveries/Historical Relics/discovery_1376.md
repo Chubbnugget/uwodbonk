@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Relics of the Three Kingdoms Era](Quests/Adventure/quest_2820.md)** | Adventure quest (4) | Exploration(3)Archaeology(5)Chinese(1) | Reward: 82,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Relics of the Three Kingdoms Era](docs/Quests/Adventure/2001-3000/quest_2820.md)** | Adventure quest (4) | Exploration(3)Archaeology(5)Chinese(1) | Reward: 82,000 / Advance payment: 0Experience: 140 / Fame: 70 |

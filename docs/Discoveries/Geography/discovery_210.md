@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant mountains on the west coast of the New World](Quests/Adventure/quest_1594.md)** | Adventure Quest (8) 16th Century 2nd Period | Geography (8) Visualization (6) Spanish | Reward: 221,000 / Advance payment: 20,000 Experience: 360 / Fame: 120 |
+| **[Giant mountains on the west coast of the New World](docs/Quests/Adventure/1001-2000/quest_1594.md)** | Adventure Quest (8) 16th Century 2nd Period | Geography (8) Visualization (6) Spanish | Reward: 221,000 / Advance payment: 20,000 Experience: 360 / Fame: 120 |

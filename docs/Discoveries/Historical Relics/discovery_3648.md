@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Keel](Quests/Other/quest_6591.md)** | Legacy(1) | - | Experience：2,250 |
+| **[Keel](docs/Quests/Other/6001-7000/quest_6591.md)** | Legacy(1) | - | Experience：2,250 |

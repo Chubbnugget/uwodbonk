@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Babylonian Romance](Quests/Adventure/quest_4846.md)** | Adventure Quest (8) B.C. | Exploration (6) Treasures Appraisal (8) Persian | Reward: 371,000 / Advance payment: 30,000 Experience: 380 / Fame: 160 |
+| **[Babylonian Romance](docs/Quests/Adventure/4001-5000/quest_4846.md)** | Adventure Quest (8) B.C. | Exploration (6) Treasures Appraisal (8) Persian | Reward: 371,000 / Advance payment: 30,000 Experience: 380 / Fame: 160 |

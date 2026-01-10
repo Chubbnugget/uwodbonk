@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient ritual sites](Quests/Other/quest_519.md)** | Religious Studies(3) | Religious Studies(3)Explore(3) |  |
+| **[Map of ancient ritual sites](docs/Quests/Other/1-1000/quest_519.md)** | Religious Studies(3) | Religious Studies(3)Explore(3) |  |

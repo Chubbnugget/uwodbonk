@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Glittering Garden](Quests/Adventure/quest_2848.md)** | Adventure quest (7) 16th century 4th period | Archeology (10) Visualization (8) Chinese | Reward: 132,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |
+| **[Glittering Garden](docs/Quests/Adventure/2001-3000/quest_2848.md)** | Adventure quest (7) 16th century 4th period | Archeology (10) Visualization (8) Chinese | Reward: 132,000 / Advance payment: 10,000 Experience: 180 / Fame: 85 |

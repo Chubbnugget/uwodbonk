@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Quest for Mesopotamian civilization](Quests/Adventure/quest_301.md)** | Adventure Quest (8) B.C. | Exploration (8) Archeology (10) Arabic | Reward: 276,000 / Advance: 0Experience: 220 / Fame: 120 |
+| **[Quest for Mesopotamian civilization](docs/Quests/Adventure/1-1000/quest_301.md)** | Adventure Quest (8) B.C. | Exploration (8) Archeology (10) Arabic | Reward: 276,000 / Advance: 0Experience: 220 / Fame: 120 |

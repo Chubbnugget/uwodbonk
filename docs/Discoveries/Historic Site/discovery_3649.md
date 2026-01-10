@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ait Ben Haddou](Quests/Other/quest_6592.md)** | Legacy(1) | - | Experience：2,250 |
+| **[Ait Ben Haddou](docs/Quests/Other/6001-7000/quest_6592.md)** | Legacy(1) | - | Experience：2,250 |

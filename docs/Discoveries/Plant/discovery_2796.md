@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of plants used for tea leaves](Quests/Other/quest_5413.md)** | Re-examination reward (5) | Ecological Survey(5)Biology(5) |  |
+| **[Map of plants used for tea leaves](docs/Quests/Other/5001-6000/quest_5413.md)** | Re-examination reward (5) | Ecological Survey(5)Biology(5) |  |

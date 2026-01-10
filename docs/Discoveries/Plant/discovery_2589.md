@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Aphrodite's sad flower](Quests/Adventure/quest_4956.md)** | Adventure Quest (2) Mythology Era | Ecological research (1) Biology (3) Greek (1) | Reward: 87,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Aphrodite's sad flower](docs/Quests/Adventure/4001-5000/quest_4956.md)** | Adventure Quest (2) Mythology Era | Ecological research (1) Biology (3) Greek (1) | Reward: 87,000 / Advance payment: 0Experience: 150 / Fame: 70 |

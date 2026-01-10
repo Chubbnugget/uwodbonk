@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Record of those who believe](Quests/Adventure/quest_679.md)** | Adventure Quest (9) B.C. | Religious Studies (12) Exploration (10) Greek English | Reward: 365,000 / Advance payment: 50,000 Experience: 330 / Fame: 140 |
+| **[Record of those who believe](docs/Quests/Adventure/1-1000/quest_679.md)** | Adventure Quest (9) B.C. | Religious Studies (12) Exploration (10) Greek English | Reward: 365,000 / Advance payment: 50,000 Experience: 330 / Fame: 140 |

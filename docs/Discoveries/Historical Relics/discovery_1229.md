@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Merlin's Staff](Quests/Adventure/quest_285.md)** | Adventure quest (9) | Exploration(10)Archaeology(12)English | Reward: 330,000 / Advance payment: 50,000 Experience: 240 / Fame: 125 |
+| **[Merlin's Staff](docs/Quests/Adventure/1-1000/quest_285.md)** | Adventure quest (9) | Exploration(10)Archaeology(12)English | Reward: 330,000 / Advance payment: 50,000 Experience: 240 / Fame: 125 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Legendary Bard](Quests/Adventure/quest_3941.md)** | Adventure Quest (2) Mythology Era | Astronomy (3) Religious Studies (1) Visualization (1) Greek | Reward: 121,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Legendary Bard](docs/Quests/Adventure/3001-4000/quest_3941.md)** | Adventure Quest (2) Mythology Era | Astronomy (3) Religious Studies (1) Visualization (1) Greek | Reward: 121,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

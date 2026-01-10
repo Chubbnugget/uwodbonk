@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[City of Stacked Stones](Quests/Adventure/quest_2267.md)** | Adventure quest (9) | Religious studies (10) Visual recognition (8) Oceanian languages | Reward: 144,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |
+| **[City of Stacked Stones](docs/Quests/Adventure/2001-3000/quest_2267.md)** | Adventure quest (9) | Religious studies (10) Visual recognition (8) Oceanian languages | Reward: 144,000 / Advance payment: 10,000 Experience: 190 / Fame: 90 |

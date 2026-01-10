@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Defense base map](Quests/Other/quest_6256.md)** | Archeology(1) | Archeology(1)Visibility(1) |  |
+| **[Defense base map](docs/Quests/Other/6001-7000/quest_6256.md)** | Archeology(1) | Archeology(1)Visibility(1) |  |

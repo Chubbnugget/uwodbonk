@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Roland's Horn](Quests/Adventure/quest_329.md)** | Adventure quest (7) | Exploration (7) Archeology (9) Unlocking (7) | Reward: 0 / Advance payment: 0 Experience: 150 / Fame: 75 |
+| **[Roland's Horn](docs/Quests/Adventure/1-1000/quest_329.md)** | Adventure quest (7) | Exploration (7) Archeology (9) Unlocking (7) | Reward: 0 / Advance payment: 0 Experience: 150 / Fame: 75 |

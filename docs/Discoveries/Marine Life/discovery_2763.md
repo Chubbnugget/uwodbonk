@@ -34,4 +34,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bodward](Quests/Other/quest_5371.md)** | Fishing (1) | Fishing (10) | Experience：660 |
+| **[Bodward](docs/Quests/Other/5001-6000/quest_5371.md)** | Fishing (1) | Fishing (10) | Experience：660 |

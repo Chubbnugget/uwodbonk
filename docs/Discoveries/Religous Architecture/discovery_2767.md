@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beginning of the Roman Republic](Quests/Adventure/quest_5370.md)** | Adventure Quest (5) B.C. | Religious Studies (6) Visual Recognition (4) Spanish (1) | Reward: 122,000 / Advance payment: 10,000 Experience: 240 / Fame: 135 |
+| **[Beginning of the Roman Republic](docs/Quests/Adventure/5001-6000/quest_5370.md)** | Adventure Quest (5) B.C. | Religious Studies (6) Visual Recognition (4) Spanish (1) | Reward: 122,000 / Advance payment: 10,000 Experience: 240 / Fame: 135 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of the Book of Chivalry](Quests/Other/quest_6641.md)** | Treasures鑑定(8) | 探索(8)Treasures鑑定(8) |  |
+| **[Map of the Book of Chivalry](docs/Quests/Other/6001-7000/quest_6641.md)** | Treasures鑑定(8) | 探索(8)Treasures鑑定(8) |  |

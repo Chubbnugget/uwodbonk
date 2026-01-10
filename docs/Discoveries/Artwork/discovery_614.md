@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Venice church ceiling painting](Quests/Adventure/quest_80.md)** | Adventure quest (2) 16th century 4th period | Exploration (1) Art (1) Italian | Reward: 6,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Venice church ceiling painting](docs/Quests/Adventure/1-1000/quest_80.md)** | Adventure quest (2) 16th century 4th period | Exploration (1) Art (1) Italian | Reward: 6,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Heraclea's Bronze Plate](Quests/Other/quest_6993.md)** | Legacy(1) | - |  |
+| **[Heraclea's Bronze Plate](docs/Quests/Other/6001-7000/quest_6993.md)** | Legacy(1) | - |  |

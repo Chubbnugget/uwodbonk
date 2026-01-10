@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Solomon's dream](Quests/Adventure/quest_1703.md)** | Adventure Quest (9) Myth Era | Religious Studies (14) Exploration (12) Unlocking (12) | Reward: 278,000 / Advance payment: 20,000 Experience: 720 / Fame: 240 |
+| **[Solomon's dream](docs/Quests/Adventure/1001-2000/quest_1703.md)** | Adventure Quest (9) Myth Era | Religious Studies (14) Exploration (12) Unlocking (12) | Reward: 278,000 / Advance payment: 20,000 Experience: 720 / Fame: 240 |

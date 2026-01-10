@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient coin map](Quests/Other/quest_6720.md)** | Treasures鑑定(8) | 探索(8)Treasures鑑定(8) |  |
+| **[Ancient coin map](docs/Quests/Other/6001-7000/quest_6720.md)** | Treasures鑑定(8) | 探索(8)Treasures鑑定(8) |  |

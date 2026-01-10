@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beginning of steam engine research](Quests/Adventure/quest_5502.md)** | Adventure quest (6) | Exploration (9) Archeology (11) Arabic | Reward: 236,000/ Advance: 20,000Experience: 345/ Fame: 202 |
+| **[Beginning of steam engine research](docs/Quests/Adventure/5001-6000/quest_5502.md)** | Adventure quest (6) | Exploration (9) Archeology (11) Arabic | Reward: 236,000/ Advance: 20,000Experience: 345/ Fame: 202 |

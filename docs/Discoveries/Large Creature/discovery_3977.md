@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of the golden predator](Quests/Other/quest_6968.md)** | Pursuit quest (8) | Ecological research (10) Biology (12) Portuguese (1) | Reward: 320,000 / Advance payment: 0Experience: 720 |
+| **[Additional investigation of the golden predator](docs/Quests/Other/6001-7000/quest_6968.md)** | Pursuit quest (8) | Ecological research (10) Biology (12) Portuguese (1) | Reward: 320,000 / Advance payment: 0Experience: 720 |

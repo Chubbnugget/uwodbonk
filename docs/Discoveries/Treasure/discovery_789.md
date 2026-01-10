@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Poetry Collection](Quests/Adventure/quest_2051.md)** | Adventure quest (5) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 130 |
+| **[Strange Poetry Collection](docs/Quests/Adventure/2001-3000/quest_2051.md)** | Adventure quest (5) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 130 |

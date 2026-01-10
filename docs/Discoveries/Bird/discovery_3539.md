@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional survey of black-faced spoonbill](Quests/Other/quest_6461.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) Korean | Reward: 215,000 / Advance payment: 0Experience: 1,650 |
+| **[Additional survey of black-faced spoonbill](docs/Quests/Other/6001-7000/quest_6461.md)** | Pursuit quest (4) | Ecological Survey (12) Biology (14) Korean | Reward: 215,000 / Advance payment: 0Experience: 1,650 |

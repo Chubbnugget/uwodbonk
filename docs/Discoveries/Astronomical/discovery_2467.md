@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Great Comet Stars](Quests/Other/quest_3883.md)** | Celestial Object Discovery Name(2)19th century | Astronomy(3) | Experience：220 |
+| **[Great Comet Stars](docs/Quests/Other/3001-4000/quest_3883.md)** | Celestial Object Discovery Name(2)19th century | Astronomy(3) | Experience：220 |

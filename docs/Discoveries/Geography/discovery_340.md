@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Canary Islands Survey](Quests/Adventure/quest_103.md)** | Adventure Quest (3) 15th Century 5th Period | Geography (1) Visual recognition (1) Spanish | Reward: 24,000Experience: 130/ Fame: 65 |
+| **[Canary Islands Survey](docs/Quests/Adventure/1-1000/quest_103.md)** | Adventure Quest (3) 15th Century 5th Period | Geography (1) Visual recognition (1) Spanish | Reward: 24,000Experience: 130/ Fame: 65 |

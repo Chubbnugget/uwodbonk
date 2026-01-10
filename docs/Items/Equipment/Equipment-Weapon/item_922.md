@@ -14,8 +14,8 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | long sword |
 | **Type** | thing |
-| **Group** | [Equipment](Categories/category_27.md) |
-| **Sold by NPC** | [Ruins Dungeon](NPCs/npc_45.md) |
+| **Group** | [Equipment](docs/Categories/category_27.md) |
+| **Sold by NPC** | [Ruins Dungeon](docs/NPCs/npc_45.md) |
 | **Description** | *Azuchi Castle Dungeon Durability 30 Attack Power 46 Swordsmanship +2 Applied Swordsmanship +2 Total Required Fame 3000 Weapon Type Sword |
 | **Last Updated** | 2010-10-14 15:11:03 Passing navigator @guest |
 

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Economic painting technique](Quests/Adventure/quest_373.md)** | Adventure quest (3) 15th century third period | Exploration (1) Art (2) Italian | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Economic painting technique](docs/Quests/Adventure/1-1000/quest_373.md)** | Adventure quest (3) 15th century third period | Exploration (1) Art (2) Italian | Reward: 14,000 / Advance payment: 0Experience: 130 / Fame: 65 |

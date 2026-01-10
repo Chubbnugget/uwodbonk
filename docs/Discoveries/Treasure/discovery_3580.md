@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of automatic performance equipment](Quests/Other/quest_6508.md)** | Pursuit quest (3) 19th century | Exploration (8) Treasures Appraisal (10) Dutch | Reward: 300,000 / Advance payment: 0Experience: 1,120 |
+| **[Additional investigation of automatic performance equipment](docs/Quests/Other/6001-7000/quest_6508.md)** | Pursuit quest (3) 19th century | Exploration (8) Treasures Appraisal (10) Dutch | Reward: 300,000 / Advance payment: 0Experience: 1,120 |

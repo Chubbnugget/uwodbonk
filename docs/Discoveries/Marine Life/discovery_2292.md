@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Misplaced fish](Quests/Adventure/quest_2721.md)** | Adventure quest (5) | Ecological Survey (5) Biology (7) Korean | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Misplaced fish](docs/Quests/Adventure/2001-3000/quest_2721.md)** | Adventure quest (5) | Ecological Survey (5) Biology (7) Korean | Reward: 74,000 / Advance payment: 0Experience: 140 / Fame: 65 |

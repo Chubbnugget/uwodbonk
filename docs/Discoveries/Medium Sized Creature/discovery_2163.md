@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Phantom pink lizard](Quests/Adventure/quest_2247.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Quechua | Reward: 325,000 / Advance payment: 30,000 Experience: 350 / Fame: 145 |
+| **[Phantom pink lizard](docs/Quests/Adventure/2001-3000/quest_2247.md)** | Adventure quest (7) | Ecological Survey (8) Biology (10) Quechua | Reward: 325,000 / Advance payment: 30,000 Experience: 350 / Fame: 145 |

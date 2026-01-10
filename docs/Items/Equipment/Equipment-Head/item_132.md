@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | turban |
 | **Type** | thing |
-| **Group** | [Equipment（頭）](Categories/category_23.md) |
+| **Group** | [Equipment（頭）](docs/Categories/category_23.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 31,500 |
 | **Description** | A headgear made of cloth wrapped around the head, widely used in Arab countries. Durability 30 Formal wear 5 Disguise 20 Defense 3 Total required fame 450 |

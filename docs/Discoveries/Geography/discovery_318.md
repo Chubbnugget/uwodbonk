@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Marine survey east of New Guinea](Quests/Adventure/quest_1648.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 210,000 / Advance payment: 20,000 Experience: 430 / Fame: 142 |
+| **[Marine survey east of New Guinea](docs/Quests/Adventure/1001-2000/quest_1648.md)** | Adventure quest (5) | Geography (6) Visual recognition (4) Malayu Tagalog | Reward: 210,000 / Advance payment: 20,000 Experience: 430 / Fame: 142 |

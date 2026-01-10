@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue of the God of War](Quests/Adventure/quest_465.md)** | Adventure Quest (4) Mythology Era | Religious Studies (2) Exploration (1) Greek | Reward: 16,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Statue of the God of War](docs/Quests/Adventure/1-1000/quest_465.md)** | Adventure Quest (4) Mythology Era | Religious Studies (2) Exploration (1) Greek | Reward: 16,000 / Advance payment: 0Experience: 130 / Fame: 65 |

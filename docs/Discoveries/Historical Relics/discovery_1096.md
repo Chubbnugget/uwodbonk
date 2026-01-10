@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Pointed Stone Pillars](Quests/Other/quest_216.md)** | Archeology(2) | Exploration(2)Archaeology(2) |  |
+| **[Map of Pointed Stone Pillars](docs/Quests/Other/1-1000/quest_216.md)** | Archeology(2) | Exploration(2)Archaeology(2) |  |

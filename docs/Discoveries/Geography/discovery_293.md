@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Land of Forest and Water](Quests/Adventure/quest_683.md)** | Adventure Quest (6) 15th Century 5th Period | Geography (6) Visual recognition (4) Spanish | Reward: 99,000 / Advance payment: 0Experience: 190 / Fame: 85 |
+| **[Land of Forest and Water](docs/Quests/Adventure/1-1000/quest_683.md)** | Adventure Quest (6) 15th Century 5th Period | Geography (6) Visual recognition (4) Spanish | Reward: 99,000 / Advance payment: 0Experience: 190 / Fame: 85 |

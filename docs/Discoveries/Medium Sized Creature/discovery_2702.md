@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Desert Turtle](Quests/Adventure/quest_5290.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Portuguese | Reward: 271,000 / Advance payment: 20,000 Experience: 260 / Fame: 150 |
+| **[Desert Turtle](docs/Quests/Adventure/5001-6000/quest_5290.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Portuguese | Reward: 271,000 / Advance payment: 20,000 Experience: 260 / Fame: 150 |

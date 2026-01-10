@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stars made in the Netherlands](Quests/Adventure/quest_4963.md)** | Adventure quest (7) 17th century 1st period | Astronomy (9) Visualization (7) Dutch | Reward: 345,000 / Advance payment: 30,000 Experience: 360 / Fame: 150 |
+| **[Stars made in the Netherlands](docs/Quests/Adventure/4001-5000/quest_4963.md)** | Adventure quest (7) 17th century 1st period | Astronomy (9) Visualization (7) Dutch | Reward: 345,000 / Advance payment: 30,000 Experience: 360 / Fame: 150 |

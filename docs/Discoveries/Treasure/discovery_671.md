@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Green gemstone vein map](Quests/Other/quest_1051.md)** | Treasures鑑定(10) | Exploration (10) Treasures Appraisal (10) Unlocking (10) |  |
+| **[Green gemstone vein map](docs/Quests/Other/1001-2000/quest_1051.md)** | Treasures鑑定(10) | Exploration (10) Treasures Appraisal (10) Unlocking (10) |  |

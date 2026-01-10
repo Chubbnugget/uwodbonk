@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful shell ornaments](Quests/Adventure/quest_1155.md)** | Adventure quest (5) | Exploration (3) Archeology (5) Unlocking (3) | Reward: 72,000 / Advance payment: 10,000 Experience: 285 / Fame: 85 |
+| **[Beautiful shell ornaments](docs/Quests/Adventure/1001-2000/quest_1155.md)** | Adventure quest (5) | Exploration (3) Archeology (5) Unlocking (3) | Reward: 72,000 / Advance payment: 10,000 Experience: 285 / Fame: 85 |

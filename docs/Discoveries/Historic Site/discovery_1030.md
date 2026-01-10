@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[How to walk around ancient ruins](Quests/Adventure/quest_3156.md)** | Adventure quest (4) | Archeology (7) Visualization (5) Italian (1) | Reward: 80,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[How to walk around ancient ruins](docs/Quests/Adventure/3001-4000/quest_3156.md)** | Adventure quest (4) | Archeology (7) Visualization (5) Italian (1) | Reward: 80,000 / Advance payment: 0Experience: 140 / Fame: 70 |

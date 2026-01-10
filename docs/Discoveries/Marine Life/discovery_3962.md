@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Moving String](Quests/Adventure/quest_6953.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Chinese (1) | Remuneration: 145,000 / Advance payment: 10,000 |
+| **[Moving String](docs/Quests/Adventure/6001-7000/quest_6953.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Chinese (1) | Remuneration: 145,000 / Advance payment: 10,000 |

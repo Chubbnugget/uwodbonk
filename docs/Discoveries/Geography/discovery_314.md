@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Signpost to Calicut](Quests/Adventure/quest_108.md)** | Adventure quest (3) | Geography (4) Visual recognition (2) West African languages | Reward: 35,000/ Advance payment: 5,000 Experience: 130/ Fame: 65 |
+| **[Signpost to Calicut](docs/Quests/Adventure/1-1000/quest_108.md)** | Adventure quest (3) | Geography (4) Visual recognition (2) West African languages | Reward: 35,000/ Advance payment: 5,000 Experience: 130/ Fame: 65 |

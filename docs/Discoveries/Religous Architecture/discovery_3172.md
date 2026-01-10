@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A person named Yasavi](Quests/Adventure/quest_5908.md)** | Adventure quest (10) | Religious Studies (17) Visual Recognition (15) Turkish | Reward: 174,000 / Advance payment: 10,000 Experience: 200 / Fame: 110 |
+| **[A person named Yasavi](docs/Quests/Adventure/5001-6000/quest_5908.md)** | Adventure quest (10) | Religious Studies (17) Visual Recognition (15) Turkish | Reward: 174,000 / Advance payment: 10,000 Experience: 200 / Fame: 110 |

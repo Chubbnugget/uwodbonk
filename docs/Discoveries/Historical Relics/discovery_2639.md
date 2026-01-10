@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of contract documents](Quests/Other/quest_5213.md)** | Re-examination reward (12) | Exploration(12)Archaeology(12) |  |
+| **[Map of contract documents](docs/Quests/Other/5001-6000/quest_5213.md)** | Re-examination reward (12) | Exploration(12)Archaeology(12) |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Soldier conditions](Quests/Adventure/quest_4957.md)** | Adventure quest (2) | Astronomy (4) Visualization (2) Spanish (1) | Reward: 90,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Soldier conditions](docs/Quests/Adventure/4001-5000/quest_4957.md)** | Adventure quest (2) | Astronomy (4) Visualization (2) Spanish (1) | Reward: 90,000 / Advance payment: 0Experience: 150 / Fame: 70 |

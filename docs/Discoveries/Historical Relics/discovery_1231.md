@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Vinland Poem](Quests/Adventure/quest_3232.md)** | Adventure quest (10) | Exploration (13) Archeology (15) Unlocking (13) | Reward: 200,000/Advance: 30,000Experience: 490 |
+| **[Vinland Poem](docs/Quests/Adventure/3001-4000/quest_3232.md)** | Adventure quest (10) | Exploration (13) Archeology (15) Unlocking (13) | Reward: 200,000/Advance: 30,000Experience: 490 |

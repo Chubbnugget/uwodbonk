@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Plant that never dies](Quests/Adventure/quest_5940.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Portuguese | Reward: 147,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |
+| **[Plant that never dies](docs/Quests/Adventure/5001-6000/quest_5940.md)** | Adventure quest (8) | Ecological Survey (10) Biology (12) Portuguese | Reward: 147,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |

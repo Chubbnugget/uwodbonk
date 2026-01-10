@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Qualification to follow the legend](Quests/Adventure/quest_1934.md)** | Adventure quest (10) | Ecological research (12) Biology (14) Mayan languages | Reward: 350,000 / Advance payment: 15,000 Experience: 600 / Fame: 200 |
+| **[Qualification to follow the legend](docs/Quests/Adventure/1001-2000/quest_1934.md)** | Adventure quest (10) | Ecological research (12) Biology (14) Mayan languages | Reward: 350,000 / Advance payment: 15,000 Experience: 600 / Fame: 200 |

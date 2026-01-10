@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Remains of a master craftsman](Quests/Adventure/quest_1017.md)** | Adventure quest (2) | Exploration (1) Treasures Appraisal (1) Dutch | Reward: 2,000 / Advance payment: 0Experience: 130 / Fame: 120 |
+| **[Remains of a master craftsman](docs/Quests/Adventure/1001-2000/quest_1017.md)** | Adventure quest (2) | Exploration (1) Treasures Appraisal (1) Dutch | Reward: 2,000 / Advance payment: 0Experience: 130 / Fame: 120 |

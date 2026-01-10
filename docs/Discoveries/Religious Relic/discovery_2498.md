@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Light of Faith](Quests/Adventure/quest_4841.md)** | Adventure Quest (5) B.C. | Religious Studies (5) Exploration (3) Arabic (1) | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Light of Faith](docs/Quests/Adventure/4001-5000/quest_4841.md)** | Adventure Quest (5) B.C. | Religious Studies (5) Exploration (3) Arabic (1) | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 70 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of ermine](Quests/Other/quest_6420.md)** | Pursuit quest (3) | Ecological Survey (8) Biology (10) English | Reward: 180,000 |
+| **[Additional investigation of ermine](docs/Quests/Other/6001-7000/quest_6420.md)** | Pursuit quest (3) | Ecological Survey (8) Biology (10) English | Reward: 180,000 |

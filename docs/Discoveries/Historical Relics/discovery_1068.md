@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Treasures of Atlantis](Quests/Adventure/quest_13.md)** | Adventure Quest (5) Mythology Era | Exploration (7) Archeology (9) Greek | Reward: 0 / Advance payment: 0 Experience: 130 / Fame: 65 |
+| **[Treasures of Atlantis](docs/Quests/Adventure/1-1000/quest_13.md)** | Adventure Quest (5) Mythology Era | Exploration (7) Archeology (9) Greek | Reward: 0 / Advance payment: 0 Experience: 130 / Fame: 65 |

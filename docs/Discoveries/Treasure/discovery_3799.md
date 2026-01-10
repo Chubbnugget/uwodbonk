@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[My brother's whereabouts](Quests/Adventure/quest_6758.md)** | Adventure quest (10) | 探索(13)Treasures鑑定(15)中国語(1) | Reward: 1,200,000/Advance payment: 120,000Experience: 960 |
+| **[My brother's whereabouts](docs/Quests/Adventure/6001-7000/quest_6758.md)** | Adventure quest (10) | 探索(13)Treasures鑑定(15)中国語(1) | Reward: 1,200,000/Advance payment: 120,000Experience: 960 |

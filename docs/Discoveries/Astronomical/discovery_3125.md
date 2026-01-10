@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The source of the Stars group](Quests/Adventure/quest_5865.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) French | Reward: 395,000 / Advance payment: 30,000 Experience: 330 / Fame: 200 |
+| **[The source of the Stars group](docs/Quests/Adventure/5001-6000/quest_5865.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) French | Reward: 395,000 / Advance payment: 30,000 Experience: 330 / Fame: 200 |

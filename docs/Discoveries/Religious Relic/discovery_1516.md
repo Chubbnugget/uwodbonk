@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Monkey God Helping Rama](Quests/Adventure/quest_1476.md)** | Adventure quest (4) | Religious Studies (5) Exploration (3) Mon-Khmer languages | Reward: 99,000 / Advance payment: 0Experience: 230 / Fame: 75 |
+| **[Monkey God Helping Rama](docs/Quests/Adventure/1001-2000/quest_1476.md)** | Adventure quest (4) | Religious Studies (5) Exploration (3) Mon-Khmer languages | Reward: 99,000 / Advance payment: 0Experience: 230 / Fame: 75 |

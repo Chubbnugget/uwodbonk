@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Collared Dragon Investigation](Quests/Adventure/quest_2953.md)** | Adventure Quest (7) B.C. | Exploration (7) Biology (9) Spanish (1) | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 140 |
+| **[Collared Dragon Investigation](docs/Quests/Adventure/2001-3000/quest_2953.md)** | Adventure Quest (7) B.C. | Exploration (7) Biology (9) Spanish (1) | Reward: 84,000 / Advance payment: 0Experience: 140 / Fame: 140 |

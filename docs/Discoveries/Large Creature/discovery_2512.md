@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Large Leopard Map](Quests/Other/quest_4872.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：220 |
+| **[Large Leopard Map](docs/Quests/Other/4001-5000/quest_4872.md)** | Biology学(6) | Ecological Survey(6)Biology(6) | Experience：220 |

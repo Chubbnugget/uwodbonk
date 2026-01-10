@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Heroes](Quests/Other/quest_5209.md)** | Re-examination reward (6) | Exploration(6)Archaeology(6) |  |
+| **[Map of Heroes](docs/Quests/Other/5001-6000/quest_5209.md)** | Re-examination reward (6) | Exploration(6)Archaeology(6) |  |

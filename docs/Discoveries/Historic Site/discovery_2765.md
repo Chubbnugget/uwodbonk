@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of the mysterious pyramid](Quests/Adventure/quest_5373.md)** | Adventure Quest (8) Mythology Era | Archeology (11) Visualization (9) Spanish | Reward: 168,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |
+| **[Investigation of the mysterious pyramid](docs/Quests/Adventure/5001-6000/quest_5373.md)** | Adventure Quest (8) Mythology Era | Archeology (11) Visualization (9) Spanish | Reward: 168,000 / Advance payment: 10,000 Experience: 190 / Fame: 105 |

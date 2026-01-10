@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Spirit Bear](Quests/Adventure/quest_3849.md)** | Adventure quest (9) 19th century | Ecological research (11) Biology (13) North American languages | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 140 |
+| **[Spirit Bear](docs/Quests/Adventure/3001-4000/quest_3849.md)** | Adventure quest (9) 19th century | Ecological research (11) Biology (13) North American languages | Reward: 86,000 / Advance payment: 0Experience: 150 / Fame: 140 |

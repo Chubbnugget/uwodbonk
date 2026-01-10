@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Favorite wind instrument](Quests/Adventure/quest_5932.md)** | Adventure quest (5) | Exploration (3) Treasures Appraisal (5) German | Reward: 133,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |
+| **[Favorite wind instrument](docs/Quests/Adventure/5001-6000/quest_5932.md)** | Adventure quest (5) | Exploration (3) Treasures Appraisal (5) German | Reward: 133,000 / Advance payment: 10,000 Experience: 170 / Fame: 95 |

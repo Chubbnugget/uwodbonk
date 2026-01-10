@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Caribbean Mermaid](Quests/Adventure/quest_112.md)** | Adventure quest (8) | Ecological Survey (7) Biology (9) Spanish | Reward: 158,000 / Advance payment: 0Experience: 180 / Fame: 100 |
+| **[Caribbean Mermaid](docs/Quests/Adventure/1-1000/quest_112.md)** | Adventure quest (8) | Ecological Survey (7) Biology (9) Spanish | Reward: 158,000 / Advance payment: 0Experience: 180 / Fame: 100 |

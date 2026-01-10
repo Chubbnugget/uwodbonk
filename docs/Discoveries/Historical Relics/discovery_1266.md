@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Historic Sites of Prehistoric Era](Quests/Other/quest_772.md)** | Archeology(1) | Exploration(1)Archaeology(1) |  |
+| **[Map of Historic Sites of Prehistoric Era](docs/Quests/Other/1-1000/quest_772.md)** | Archeology(1) | Exploration(1)Archaeology(1) |  |

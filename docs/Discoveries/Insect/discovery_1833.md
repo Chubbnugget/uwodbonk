@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[High quality textile material](Quests/Adventure/quest_2850.md)** | Adventure quest (5) | Ecological Survey (5) Biology (7) Chinese | Reward: 157,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |
+| **[High quality textile material](docs/Quests/Adventure/2001-3000/quest_2850.md)** | Adventure quest (5) | Ecological Survey (5) Biology (7) Chinese | Reward: 157,000 / Advance payment: 10,000 Experience: 200 / Fame: 90 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Whereabouts of the shining blue butterfly](Quests/Adventure/quest_6318.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Oceanian languages | Reward: 279,000 / Advance payment: 30,000 Experience: 260 / Fame: 155 |
+| **[Whereabouts of the shining blue butterfly](docs/Quests/Adventure/6001-7000/quest_6318.md)** | Adventure quest (6) | Ecological research (5) Biology (7) Oceanian languages | Reward: 279,000 / Advance payment: 30,000 Experience: 260 / Fame: 155 |

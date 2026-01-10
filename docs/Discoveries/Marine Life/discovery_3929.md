@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Creepy fish again](Quests/Adventure/quest_6913.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Arabic (1) | Remuneration: 769,000 / Advance payment: 80,000 |
+| **[Creepy fish again](docs/Quests/Adventure/6001-7000/quest_6913.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Arabic (1) | Remuneration: 769,000 / Advance payment: 80,000 |

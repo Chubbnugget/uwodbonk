@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jewels hidden in the sea](Quests/Adventure/quest_3601.md)** | Adventure quest (5) | Geography (10) Visual recognition (8) | Reward: 488,000 / Advance payment: 40,000 Experience: 480 / Fame: 195 |
+| **[Jewels hidden in the sea](docs/Quests/Adventure/3001-4000/quest_3601.md)** | Adventure quest (5) | Geography (10) Visual recognition (8) | Reward: 488,000 / Advance payment: 40,000 Experience: 480 / Fame: 195 |

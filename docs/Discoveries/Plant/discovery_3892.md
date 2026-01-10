@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flower without leaves](Quests/Adventure/quest_6879.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Indian languages ​​(1) | Reward: 687,000/Advance payment: 10,000Experience: 520 |
+| **[Flower without leaves](docs/Quests/Adventure/6001-7000/quest_6879.md)** | Adventure quest (10) | Ecological research (13) Biology (15) Indian languages ​​(1) | Reward: 687,000/Advance payment: 10,000Experience: 520 |

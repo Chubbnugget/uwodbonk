@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of the fruit tree](Quests/Other/quest_6902.md)** | Biology学(14) | Ecological Survey(14)Biology(14) |  |
+| **[Map of the fruit tree](docs/Quests/Other/6001-7000/quest_6902.md)** | Biology学(14) | Ecological Survey(14)Biology(14) |  |

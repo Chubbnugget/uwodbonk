@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Art-themed Stars](Quests/Adventure/quest_5517.md)** | Adventure quest (8) 18th century third period | Astronomy (11) Visualization (9) French (1) | Reward: 216,000/ Advance: 20,000Experience: 220/ Fame: 125 |
+| **[Art-themed Stars](docs/Quests/Adventure/5001-6000/quest_5517.md)** | Adventure quest (8) 18th century third period | Astronomy (11) Visualization (9) French (1) | Reward: 216,000/ Advance: 20,000Experience: 220/ Fame: 125 |

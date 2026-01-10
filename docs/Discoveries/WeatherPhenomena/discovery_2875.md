@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Pororocca](Quests/Other/quest_5542.md)** | Weather/phenomena (4) | Visual recognition (9) | Experience：680 |
+| **[Pororocca](docs/Quests/Other/5001-6000/quest_5542.md)** | Weather/phenomena (4) | Visual recognition (9) | Experience：680 |

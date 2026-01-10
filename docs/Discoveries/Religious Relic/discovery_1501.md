@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Armor of the Templar Commander](Quests/Adventure/quest_212.md)** | Adventure quest (3) | Religious Studies (2) Exploration (1) French | Reward: 2,000/ Advance payment: 0 |
+| **[Armor of the Templar Commander](docs/Quests/Adventure/1-1000/quest_212.md)** | Adventure quest (3) | Religious Studies (2) Exploration (1) French | Reward: 2,000/ Advance payment: 0 |

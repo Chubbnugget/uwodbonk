@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful flower map](Quests/Other/quest_6655.md)** | Biology学(7) | Ecological Survey(7)Biology(7) |  |
+| **[Beautiful flower map](docs/Quests/Other/6001-7000/quest_6655.md)** | Biology学(7) | Ecological Survey(7)Biology(7) |  |

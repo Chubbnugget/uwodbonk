@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange gossip investigation](Quests/Adventure/quest_5450.md)** | Adventure quest (4) | Ecological Survey (4) Biology (6) Portuguese | Reward: 146,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |
+| **[Strange gossip investigation](docs/Quests/Adventure/5001-6000/quest_5450.md)** | Adventure quest (4) | Ecological Survey (4) Biology (6) Portuguese | Reward: 146,000 / Advance payment: 10,000 Experience: 180 / Fame: 100 |

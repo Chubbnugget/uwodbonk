@@ -45,8 +45,7 @@ export default function Home() {
                 </div>
                 <div className="card__body">
                   <ul style={{listStyle: 'none', padding: 0}}>
-                    <li><Link to="/docs/quests/new-quest-1">• Mystery of the High Seas</Link></li>
-                    <li><Link to="/docs/quests/new-quest-2">• Merchant's Dilemma</Link></li>
+                    <li><Link to="/docs/quests/new-quest-1">• idk</Link></li>
                   </ul>
                 </div>
               </div>
@@ -60,8 +59,7 @@ export default function Home() {
                 </div>
                 <div className="card__body">
                    <ul style={{listStyle: 'none', padding: 0}}>
-                    <li>• Item: Spicy Curry (2 mins ago)</li>
-                    <li>• Quest: Baltic Trade (10 mins ago)</li>
+                    <li>• Item: idk (2 mins ago)</li>
                   </ul>
                 </div>
               </div>

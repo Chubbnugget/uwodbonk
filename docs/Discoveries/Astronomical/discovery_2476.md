@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Copernicus' request](Quests/Adventure/quest_3765.md)** | Adventure quest (2) 18th century third period | Astronomy (3) Visual recognition (1) German | Reward: 111,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Copernicus' request](docs/Quests/Adventure/3001-4000/quest_3765.md)** | Adventure quest (2) 18th century third period | Astronomy (3) Visual recognition (1) German | Reward: 111,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Night Heron](Quests/Other/quest_6834.md)** | Pursuit quest (9) | Ecological research (11) Biology (13) Portuguese (1) | Reward: 370,000 / Advance payment: 0Experience: 810 |
+| **[Additional investigation of Night Heron](docs/Quests/Other/6001-7000/quest_6834.md)** | Pursuit quest (9) | Ecological research (11) Biology (13) Portuguese (1) | Reward: 370,000 / Advance payment: 0Experience: 810 |

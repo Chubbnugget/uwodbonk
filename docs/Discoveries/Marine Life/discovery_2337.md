@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dog-faced fish map](Quests/Other/quest_2374.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |
+| **[Dog-faced fish map](docs/Quests/Other/2001-3000/quest_2374.md)** | Biology学(4) | Ecological Survey(4)Biology(4) |  |

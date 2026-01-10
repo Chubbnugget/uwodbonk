@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Relaxing whale](Quests/Adventure/quest_238.md)** | Adventure quest (4) | Ecological research (1) Biology (2) West African languages | Reward: 57,500 / Advance payment: 0Experience: 175 / Fame: 100 |
+| **[Relaxing whale](docs/Quests/Adventure/1-1000/quest_238.md)** | Adventure quest (4) | Ecological research (1) Biology (2) West African languages | Reward: 57,500 / Advance payment: 0Experience: 175 / Fame: 100 |

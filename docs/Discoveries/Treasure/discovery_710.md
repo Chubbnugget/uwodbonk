@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Demon Diamond](Quests/Adventure/quest_1965.md)** | Adventure Quest (9) 16th Century 2nd Period | Exploration (11) Treasures Appraisal (13) Unlocking (11) | Reward: 112,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[Demon Diamond](docs/Quests/Adventure/1001-2000/quest_1965.md)** | Adventure Quest (9) 16th Century 2nd Period | Exploration (11) Treasures Appraisal (13) Unlocking (11) | Reward: 112,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

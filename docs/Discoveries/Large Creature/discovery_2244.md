@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Threat of expansion into the new continent](Quests/Other/quest_1147.md)** | Imperial command quest (5) | Ecological research (3) Biology (5) |  |
-| **[Things that tighten](Quests/Adventure/quest_1246.md)** | Adventure quest (5) | Ecological research (3) Biology (5) Mayan languages | Reward: 90,000 / Advance payment: 0Experience: 225 / Fame: 110 |
+| **[Threat of expansion into the new continent](docs/Quests/Other/1001-2000/quest_1147.md)** | Imperial command quest (5) | Ecological research (3) Biology (5) |  |
+| **[Things that tighten](docs/Quests/Adventure/1001-2000/quest_1246.md)** | Adventure quest (5) | Ecological research (3) Biology (5) Mayan languages | Reward: 90,000 / Advance payment: 0Experience: 225 / Fame: 110 |

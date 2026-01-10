@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Brightly colored bird map](Quests/Other/quest_2887.md)** | Biology学(9) | Ecological Survey(9)Biology(9) |  |
+| **[Brightly colored bird map](docs/Quests/Other/2001-3000/quest_2887.md)** | Biology学(9) | Ecological Survey(9)Biology(9) |  |

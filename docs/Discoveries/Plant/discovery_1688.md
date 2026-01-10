@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White Flower Map](Quests/Other/quest_905.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |
+| **[White Flower Map](docs/Quests/Other/1-1000/quest_905.md)** | Biology学(3) | Ecological Survey(3)Biology(3) |  |

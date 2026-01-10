@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Great River Told in the Apocalypse](Quests/Adventure/quest_1023.md)** | Adventure quest (6) | Geography (5) Religious studies (2) Visual recognition (3) | Reward: 268,000 / Advance payment: 0Experience: 520 / Fame: 280 |
+| **[The Great River Told in the Apocalypse](docs/Quests/Adventure/1001-2000/quest_1023.md)** | Adventure quest (6) | Geography (5) Religious studies (2) Visual recognition (3) | Reward: 268,000 / Advance payment: 0Experience: 520 / Fame: 280 |

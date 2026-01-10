@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[White Bird Map](Quests/Other/quest_911.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |
+| **[White Bird Map](docs/Quests/Other/1-1000/quest_911.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |

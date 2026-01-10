@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Alderamin](Quests/Other/quest_6683.md)** | Celestial Object Discovery Name(9)17th Century Issue 4 | Astronomy(9)Visualization(9) | Experience：710 |
+| **[Alderamin](docs/Quests/Other/6001-7000/quest_6683.md)** | Celestial Object Discovery Name(9)17th Century Issue 4 | Astronomy(9)Visualization(9) | Experience：710 |

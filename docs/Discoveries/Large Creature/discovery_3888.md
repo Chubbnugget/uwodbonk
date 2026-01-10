@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Small rhino map](Quests/Other/quest_6875.md)** | Biology学(17) | Ecological Survey(17)Biology(17) |  |
+| **[Small rhino map](docs/Quests/Other/6001-7000/quest_6875.md)** | Biology学(17) | Ecological Survey(17)Biology(17) |  |

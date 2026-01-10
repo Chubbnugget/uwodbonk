@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Crown of Saint Stephen](Quests/Other/quest_6617.md)** | Legacy(1) | - |  |
+| **[Crown of Saint Stephen](docs/Quests/Other/6001-7000/quest_6617.md)** | Legacy(1) | - |  |

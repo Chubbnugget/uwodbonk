@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Collapsing Masterpiece](Quests/Adventure/quest_972.md)** | Adventure Quest (5) 15th Century 5th Period | Exploration (2) Art (4) French | Reward: 38,000Experience: 190/ Fame: 90 |
+| **[Collapsing Masterpiece](docs/Quests/Adventure/1-1000/quest_972.md)** | Adventure Quest (5) 15th Century 5th Period | Exploration (2) Art (4) French | Reward: 38,000Experience: 190/ Fame: 90 |

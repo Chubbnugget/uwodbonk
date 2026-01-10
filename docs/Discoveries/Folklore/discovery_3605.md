@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore of the Fire Spirit](Quests/Other/quest_6538.md)** | Tradition (8) | Religious Studies(8) | Reward: 786,000 / Advance payment: 80,000 Experience: 700 / Fame: 360 |
+| **[Lore of the Fire Spirit](docs/Quests/Other/6001-7000/quest_6538.md)** | Tradition (8) | Religious Studies(8) | Reward: 786,000 / Advance payment: 80,000 Experience: 700 / Fame: 360 |

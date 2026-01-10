@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Little Bird Map](Quests/Other/quest_3177.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |
+| **[Little Bird Map](docs/Quests/Other/3001-4000/quest_3177.md)** | Biology学(5) | Ecological Survey(5)Biology(5) |  |

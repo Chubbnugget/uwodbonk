@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mountain shrouded in mystery](Quests/Adventure/quest_2060.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) | Reward: 76,000 / Advance payment: 0Experience: 140 / Fame: 65 |
+| **[Mountain shrouded in mystery](docs/Quests/Adventure/2001-3000/quest_2060.md)** | Adventure quest (4) | Geography (5) Visual recognition (3) | Reward: 76,000 / Advance payment: 0Experience: 140 / Fame: 65 |

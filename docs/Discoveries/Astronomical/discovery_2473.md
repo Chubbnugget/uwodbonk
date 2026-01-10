@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Arc drawn in the night sky](Quests/Adventure/quest_3746.md)** | Adventure quest (2) | Astronomy (3) Visual recognition (1) Spanish | Reward: 92,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[Arc drawn in the night sky](docs/Quests/Adventure/3001-4000/quest_3746.md)** | Adventure quest (2) | Astronomy (3) Visual recognition (1) Spanish | Reward: 92,000 / Advance payment: 0Experience: 150 / Fame: 70 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Extremely gorgeous tomb](Quests/Adventure/quest_5899.md)** | Adventure quest (15) | Archeology (17) Visualization (15) Chinese | Reward: 574,000 / Advance payment: 50,000 Experience: 450 / Fame: 275 |
+| **[Extremely gorgeous tomb](docs/Quests/Adventure/5001-6000/quest_5899.md)** | Adventure quest (15) | Archeology (17) Visualization (15) Chinese | Reward: 574,000 / Advance payment: 50,000 Experience: 450 / Fame: 275 |

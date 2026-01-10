@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of ancient Roman emperor's relics](Quests/Other/quest_6573.md)** | Pursuit quest (4) | Exploration (12) Archeology (14) Italian | Reward: 320,000 / Advance payment: 0Experience: 948 |
+| **[Additional investigation of ancient Roman emperor's relics](docs/Quests/Other/6001-7000/quest_6573.md)** | Pursuit quest (4) | Exploration (12) Archeology (14) Italian | Reward: 320,000 / Advance payment: 0Experience: 948 |

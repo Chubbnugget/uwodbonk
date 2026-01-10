@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Northeast Passage Landmark](Quests/Adventure/quest_3650.md)** | Adventure Quest (5) 18th Century 3rd Period | Geography(8)Visibility(6) | Reward: 159,000 / Advance payment: 10,000 Experience: 380 / Fame: 310 |
+| **[Northeast Passage Landmark](docs/Quests/Adventure/3001-4000/quest_3650.md)** | Adventure Quest (5) 18th Century 3rd Period | Geography(8)Visibility(6) | Reward: 159,000 / Advance payment: 10,000 Experience: 380 / Fame: 310 |

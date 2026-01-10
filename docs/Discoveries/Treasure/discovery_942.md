@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of circular musical instruments](Quests/Other/quest_2806.md)** | Treasures鑑定(4) | Exploration (4) Treasures Appraisal (4) Unlocking (4) |  |
+| **[Map of circular musical instruments](docs/Quests/Other/2001-3000/quest_2806.md)** | Treasures鑑定(4) | Exploration (4) Treasures Appraisal (4) Unlocking (4) |  |

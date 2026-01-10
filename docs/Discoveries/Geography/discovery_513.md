@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[River of History](Quests/Adventure/quest_2674.md)** | Adventure quest (4) | Geography (6) Visual recognition (4) Korean (1) | Reward: 72,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[River of History](docs/Quests/Adventure/2001-3000/quest_2674.md)** | Adventure quest (4) | Geography (6) Visual recognition (4) Korean (1) | Reward: 72,000 / Advance payment: 0Experience: 130 / Fame: 65 |

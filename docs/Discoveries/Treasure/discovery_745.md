@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dragon's Fang](Quests/Adventure/quest_222.md)** | Adventure quest (6) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 92,000 / Advance payment: 0Experience: 150 / Fame: 80 |
+| **[Dragon's Fang](docs/Quests/Adventure/1-1000/quest_222.md)** | Adventure quest (6) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 92,000 / Advance payment: 0Experience: 150 / Fame: 80 |

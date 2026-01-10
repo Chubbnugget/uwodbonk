@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Second Book](Quests/Adventure/quest_5821.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) Portuguese (1) | Reward: 147,000/Advance payment: 10,000Experience: 180 |
+| **[Second Book](docs/Quests/Adventure/5001-6000/quest_5821.md)** | Adventure quest (6) | Religious Studies (8) Exploration (6) Portuguese (1) | Reward: 147,000/Advance payment: 10,000Experience: 180 |

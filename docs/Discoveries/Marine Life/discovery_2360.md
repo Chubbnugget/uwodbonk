@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Creepy Fish Map](Quests/Other/quest_947.md)** | Biology学(9) | Ecological Survey(9)Biology(9) |  |
+| **[Creepy Fish Map](docs/Quests/Other/1-1000/quest_947.md)** | Biology学(9) | Ecological Survey(9)Biology(9) |  |

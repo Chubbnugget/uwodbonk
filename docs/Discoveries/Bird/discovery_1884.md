@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[High-pitched blue bird](Quests/Adventure/quest_2954.md)** | Adventure quest (1) | Ecological research (3) Biology (5) Maya languages ​​(1) | Reward: 87,000 / Advance payment: 0Experience: 150 / Fame: 70 |
+| **[High-pitched blue bird](docs/Quests/Adventure/2001-3000/quest_2954.md)** | Adventure quest (1) | Ecological research (3) Biology (5) Maya languages ​​(1) | Reward: 87,000 / Advance payment: 0Experience: 150 / Fame: 70 |

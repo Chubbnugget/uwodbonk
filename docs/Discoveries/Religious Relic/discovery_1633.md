@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Placed Hanging Bell](Quests/Adventure/quest_2606.md)** | Adventure quest (5) | Religious Studies(7)Exploration(5)Japanese(1) | Reward: 167,000/ Advance: 10,000 Experience: 210/ Fame: 95 |
+| **[Placed Hanging Bell](docs/Quests/Adventure/2001-3000/quest_2606.md)** | Adventure quest (5) | Religious Studies(7)Exploration(5)Japanese(1) | Reward: 167,000/ Advance: 10,000 Experience: 210/ Fame: 95 |

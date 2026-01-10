@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange Skull Map](Quests/Other/quest_2492.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |
+| **[Strange Skull Map](docs/Quests/Other/2001-3000/quest_2492.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |

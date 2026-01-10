@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Doctor's Oath](Quests/Adventure/quest_343.md)** | Adventure quest (4) | Exploration (1) Archeology (3) French | Reward: 36,000 / Advance payment: 0Experience: 170 / Fame: 80 |
+| **[Doctor's Oath](docs/Quests/Adventure/1-1000/quest_343.md)** | Adventure quest (4) | Exploration (1) Archeology (3) French | Reward: 36,000 / Advance payment: 0Experience: 170 / Fame: 80 |

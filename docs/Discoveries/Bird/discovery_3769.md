@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Little Bird Map](Quests/Other/quest_6727.md)** | Biology学(8) | Ecological Survey(8)Biology(8) | Experience：915 |
+| **[Little Bird Map](docs/Quests/Other/6001-7000/quest_6727.md)** | Biology学(8) | Ecological Survey(8)Biology(8) | Experience：915 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Temple of the Goddess](Quests/Adventure/quest_3155.md)** | Adventure Quest (9) B.C. | Religious Studies (7) Visual Recognition (5) Italian | Reward: 95,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Temple of the Goddess](docs/Quests/Adventure/3001-4000/quest_3155.md)** | Adventure Quest (9) B.C. | Religious Studies (7) Visual Recognition (5) Italian | Reward: 95,000 / Advance payment: 0Experience: 150 / Fame: 75 |

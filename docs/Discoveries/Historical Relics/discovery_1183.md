@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The Last King](Quests/Adventure/quest_1292.md)** | Adventure quest (6) | Exploration (5) Archeology (7) Unlocking (5) | Reward: 78,000 / Advance payment: 10,000 Experience: 315 / Fame: 100 |
+| **[The Last King](docs/Quests/Adventure/1001-2000/quest_1292.md)** | Adventure quest (6) | Exploration (5) Archeology (7) Unlocking (5) | Reward: 78,000 / Advance payment: 10,000 Experience: 315 / Fame: 100 |

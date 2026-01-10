@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Reinvestigate Rhodes Island](Quests/Adventure/quest_4984.md)** | Adventure quest (6) 14th century | Archeology (8) Visualization (6) Greek | Reward: 107,000/ Advance: 10,000 Experience: 160/ Fame: 75 |
+| **[Reinvestigate Rhodes Island](docs/Quests/Adventure/4001-5000/quest_4984.md)** | Adventure quest (6) 14th century | Archeology (8) Visualization (6) Greek | Reward: 107,000/ Advance: 10,000 Experience: 160/ Fame: 75 |

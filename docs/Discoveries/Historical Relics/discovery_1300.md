@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Greek trireme](Quests/Other/quest_3327.md)** | Sunken ship(6) | Salvage Archeology(7) |  |
+| **[Ancient Greek trireme](docs/Quests/Other/3001-4000/quest_3327.md)** | Sunken ship(6) | Salvage Archeology(7) |  |

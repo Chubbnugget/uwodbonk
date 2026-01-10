@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation of Olympus Statues](Quests/Adventure/quest_6139.md)** | Adventure quest (3) | Religious Studies (2) Exploration (1) Greek | Reward: 36,000 / Advance payment: 0Experience: 208 |
-| **[King of the Underworld](Quests/Adventure/quest_1015.md)** | Adventure Quest (4) Mythology Era | Religious Studies (2) Exploration (1) Greek | Reward: 16,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Investigation of Olympus Statues](docs/Quests/Adventure/6001-7000/quest_6139.md)** | Adventure quest (3) | Religious Studies (2) Exploration (1) Greek | Reward: 36,000 / Advance payment: 0Experience: 208 |
+| **[King of the Underworld](docs/Quests/Adventure/1001-2000/quest_1015.md)** | Adventure Quest (4) Mythology Era | Religious Studies (2) Exploration (1) Greek | Reward: 16,000 / Advance payment: 0Experience: 130 / Fame: 65 |

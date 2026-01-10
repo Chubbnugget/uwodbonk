@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Colossus of the Sun God](Quests/Adventure/quest_4983.md)** | Adventure quest (6) | Geography (8) Visualization (6) Greek | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |
+| **[Colossus of the Sun God](docs/Quests/Adventure/4001-5000/quest_4983.md)** | Adventure quest (6) | Geography (8) Visualization (6) Greek | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |

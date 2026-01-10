@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on Plato's manual](Quests/Other/quest_6415.md)** | Pursuit Quest (3) B.C. | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 138,000 |
+| **[Additional research on Plato's manual](docs/Quests/Other/6001-7000/quest_6415.md)** | Pursuit Quest (3) B.C. | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 138,000 |

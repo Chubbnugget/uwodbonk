@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What the boy wanted to see](Quests/Adventure/quest_2106.md)** | Adventure quest (8) 16th century 1st period | Exploration (9) Art (11) Dutch | Reward: 119,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |
+| **[What the boy wanted to see](docs/Quests/Adventure/2001-3000/quest_2106.md)** | Adventure quest (8) 16th century 1st period | Exploration (9) Art (11) Dutch | Reward: 119,000 / Advance payment: 10,000 Experience: 170 / Fame: 80 |

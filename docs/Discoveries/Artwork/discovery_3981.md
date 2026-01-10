@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Church religious painting map](Quests/Other/quest_6973.md)** | 美術(7) | 探索(7)美術(7) | Experience：240 |
+| **[Church religious painting map](docs/Quests/Other/6001-7000/quest_6973.md)** | 美術(7) | 探索(7)美術(7) | Experience：240 |

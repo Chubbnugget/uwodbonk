@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Treasure called information](Quests/Adventure/quest_6379.md)** | Adventure quest (8) 16th century 1st period | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 157,000 / Advance payment: 20,000 Experience: 190 / Fame: 105 |
+| **[Treasure called information](docs/Quests/Adventure/6001-7000/quest_6379.md)** | Adventure quest (8) 16th century 1st period | Exploration (10) Treasures Appraisal (12) Unlocking (10) | Reward: 157,000 / Advance payment: 20,000 Experience: 190 / Fame: 105 |

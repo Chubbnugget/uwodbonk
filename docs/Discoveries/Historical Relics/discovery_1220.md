@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Treasures of Troy](Quests/Adventure/quest_227.md)** | Adventure Quest (8) B.C. | Exploration (8) Archeology (10) Greek | Reward: 184,000/ Advance: 20,000Experience: 180/ Fame: 100 |
+| **[Treasures of Troy](docs/Quests/Adventure/1-1000/quest_227.md)** | Adventure Quest (8) B.C. | Exploration (8) Archeology (10) Greek | Reward: 184,000/ Advance: 20,000Experience: 180/ Fame: 100 |

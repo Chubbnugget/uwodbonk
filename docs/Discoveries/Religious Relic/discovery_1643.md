@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ashuku Nyorai Statue](Quests/Adventure/quest_1354.md)** | Adventure quest (5) | Religious Studies (7) Exploration (5) Unlocking (5) | Reward: 17,000 Experience: 220 / Fame: 70 |
+| **[Ashuku Nyorai Statue](docs/Quests/Adventure/1001-2000/quest_1354.md)** | Adventure quest (5) | Religious Studies (7) Exploration (5) Unlocking (5) | Reward: 17,000 Experience: 220 / Fame: 70 |

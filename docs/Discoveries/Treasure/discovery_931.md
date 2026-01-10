@@ -24,5 +24,5 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Search for Merchant Ship Cargo](Quests/Adventure/quest_2073.md)** | Adventure quest (4) | Exploration (3) Treasures Appraisal (5) Mayan Languages | Reward: 75,000Experience: 140/ Fame: 65 |
-| **[Follow-up investigation of the missing research team](Quests/Other/quest_1882.md)** | Imperial command quest (4) | 探索(3)Treasures鑑定(5) |  |
+| **[Search for Merchant Ship Cargo](docs/Quests/Adventure/2001-3000/quest_2073.md)** | Adventure quest (4) | Exploration (3) Treasures Appraisal (5) Mayan Languages | Reward: 75,000Experience: 140/ Fame: 65 |
+| **[Follow-up investigation of the missing research team](docs/Quests/Other/1001-2000/quest_1882.md)** | Imperial command quest (4) | 探索(3)Treasures鑑定(5) |  |

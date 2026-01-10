@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[How to chant a mantra](Quests/Adventure/quest_5810.md)** | Adventure quest (2) | Religious Studies (6) Exploration (4) Malayu Tagalog | Reward: 230,000/ Advance: 20,000Experience: 230/ Fame: 135 |
+| **[How to chant a mantra](docs/Quests/Adventure/5001-6000/quest_5810.md)** | Adventure quest (2) | Religious Studies (6) Exploration (4) Malayu Tagalog | Reward: 230,000/ Advance: 20,000Experience: 230/ Fame: 135 |

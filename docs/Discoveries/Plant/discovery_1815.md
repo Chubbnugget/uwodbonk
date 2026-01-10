@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fruit resembling a dragon's eye](Quests/Adventure/quest_2522.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Chinese (1) | Reward: 83,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Fruit resembling a dragon's eye](docs/Quests/Adventure/2001-3000/quest_2522.md)** | Adventure quest (3) | Ecological research (2) Biology (4) Chinese (1) | Reward: 83,000 / Advance payment: 0Experience: 140 / Fame: 70 |

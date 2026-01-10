@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | social contact |
 | **Type** | thing |
-| **Group** | [Skill (Trade)](Categories/category_40.md) |
+| **Group** | [Skill (Trade)](docs/Categories/category_40.md) |
 | **Purchase Price** | 2,000 |
 | **Description** | The conditions for speaking with people of high status will be relaxed. Learning conditions 0/3/0/total 0 |
 | **Last Updated** | 2005-04-02 09:58:31 System |

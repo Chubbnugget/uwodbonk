@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King of the Old Era](Quests/Adventure/quest_481.md)** | Adventure quest (2) | Exploration (1) Treasures Appraisal (1) Portuguese | Reward: 7,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[King of the Old Era](docs/Quests/Adventure/1-1000/quest_481.md)** | Adventure quest (2) | Exploration (1) Treasures Appraisal (1) Portuguese | Reward: 7,000 / Advance payment: 0Experience: 130 / Fame: 65 |

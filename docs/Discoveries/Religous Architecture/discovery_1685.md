@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Temple mural investigation](Quests/Adventure/quest_1211.md)** | Adventure quest (5) | Religious Studies (5) Visual Recognition (3) Spanish | Reward: 68,000 / Advance payment: 10,000 Experience: 240 / Fame: 80 |
+| **[Temple mural investigation](docs/Quests/Adventure/1001-2000/quest_1211.md)** | Adventure quest (5) | Religious Studies (5) Visual Recognition (3) Spanish | Reward: 68,000 / Advance payment: 10,000 Experience: 240 / Fame: 80 |

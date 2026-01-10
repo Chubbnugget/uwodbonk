@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The woman offering flowers to the sky](Quests/Adventure/quest_2881.md)** | Adventure quest (5) | Geography (7) Visual recognition (5) Chinese | Reward: 173,000 / Advance payment: 10,000 Experience: 220 / Fame: 95 |
+| **[The woman offering flowers to the sky](docs/Quests/Adventure/2001-3000/quest_2881.md)** | Adventure quest (5) | Geography (7) Visual recognition (5) Chinese | Reward: 173,000 / Advance payment: 10,000 Experience: 220 / Fame: 95 |

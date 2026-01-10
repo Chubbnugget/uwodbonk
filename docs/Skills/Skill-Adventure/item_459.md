@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | observation |
 | **Type** | thing |
-| **Group** | [Skill (Adventure)](Categories/category_39.md) |
+| **Group** | [Skill (Adventure)](docs/Categories/category_39.md) |
 | **Purchase Price** | 2,000 |
 | **Description** | You can identify where something is likely to be. Acquisition conditions 1/0/0/total 5 Prerequisite skills Exploration (1) |
 | **Last Updated** | 2005-04-02 09:58:31 System |

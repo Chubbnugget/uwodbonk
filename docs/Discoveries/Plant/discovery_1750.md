@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flowers that bloom quietly in the jungle](Quests/Adventure/quest_1012.md)** | Adventure quest (6) | Ecological research (3) Biology (5) West African languages | Reward: 187,600 / Advance payment: 10,000 Experience: 266 / Fame: 142 |
+| **[Flowers that bloom quietly in the jungle](docs/Quests/Adventure/1001-2000/quest_1012.md)** | Adventure quest (6) | Ecological research (3) Biology (5) West African languages | Reward: 187,600 / Advance payment: 10,000 Experience: 266 / Fame: 142 |

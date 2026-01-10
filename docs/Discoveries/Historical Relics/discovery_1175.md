@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Islamic Monarchy](Quests/Adventure/quest_42.md)** | Adventure quest (7) | Exploration (5) Archeology (7) Unlocking (5) | Reward: 144,000 / Advance payment: 0Experience: 160 / Fame: 85 |
+| **[Islamic Monarchy](docs/Quests/Adventure/1-1000/quest_42.md)** | Adventure quest (7) | Exploration (5) Archeology (7) Unlocking (5) | Reward: 144,000 / Advance payment: 0Experience: 160 / Fame: 85 |

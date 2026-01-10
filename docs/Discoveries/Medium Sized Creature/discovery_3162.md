@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Dazed face](Quests/Adventure/quest_5896.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Indian languages | Reward: 192,000 / Advance payment: 10,000 Experience: 210 / Fame: 115 |
+| **[Dazed face](docs/Quests/Adventure/5001-6000/quest_5896.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Indian languages | Reward: 192,000 / Advance payment: 10,000 Experience: 210 / Fame: 115 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black and delicious bird](Quests/Adventure/quest_593.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Spanish | Reward: 177,000 / Advance payment: 10,000 Experience: 200 / Fame: 95 |
+| **[Black and delicious bird](docs/Quests/Adventure/1-1000/quest_593.md)** | Adventure quest (7) | Ecological Survey (6) Biology (8) Spanish | Reward: 177,000 / Advance payment: 10,000 Experience: 200 / Fame: 95 |

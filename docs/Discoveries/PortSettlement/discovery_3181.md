@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sagres](Quests/Other/quest_5934.md)** | Port/village (1) | - |  |
+| **[Sagres](docs/Quests/Other/5001-6000/quest_5934.md)** | Port/village (1) | - |  |

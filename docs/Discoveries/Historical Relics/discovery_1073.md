@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Syracuse Church Basement (Middle Level Hidden Passage)](Quests/Other/quest_3660.md)** | Dungeon (1) | - | Experience：510 |
+| **[Syracuse Church Basement (Middle Level Hidden Passage)](docs/Quests/Other/3001-4000/quest_3660.md)** | Dungeon (1) | - | Experience：510 |

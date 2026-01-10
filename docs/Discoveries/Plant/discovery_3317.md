@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Those without law](Quests/Adventure/quest_6179.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) English | Reward: 97,000 / Advance payment: 0Experience: 150 / Fame: 80 |
+| **[Those without law](docs/Quests/Adventure/6001-7000/quest_6179.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) English | Reward: 97,000 / Advance payment: 0Experience: 150 / Fame: 80 |

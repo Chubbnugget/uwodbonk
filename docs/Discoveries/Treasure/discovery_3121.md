@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[If there is a Tale of Genji](Quests/Adventure/quest_5861.md)** | Adventure quest (10) | 探索(15)Treasures鑑定(17)日本語 | Reward: 884,000 / Advance payment: 80,000 Experience: 640 / Fame: 405 |
+| **[If there is a Tale of Genji](docs/Quests/Adventure/5001-6000/quest_5861.md)** | Adventure quest (10) | 探索(15)Treasures鑑定(17)日本語 | Reward: 884,000 / Advance payment: 80,000 Experience: 640 / Fame: 405 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue of the supreme god of Greece](Quests/Adventure/quest_124.md)** | Adventure Quest (3) Mythology Era | Religious Studies (1) Exploration (1) Greek | Reward: 6,000Experience: 120/ Fame: 60 |
+| **[Statue of the supreme god of Greece](docs/Quests/Adventure/1-1000/quest_124.md)** | Adventure Quest (3) Mythology Era | Religious Studies (1) Exploration (1) Greek | Reward: 6,000Experience: 120/ Fame: 60 |

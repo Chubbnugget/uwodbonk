@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lake where God descends](Quests/Adventure/quest_1772.md)** | Adventure quest (7) | Geography (10) Visual recognition (8) Quechua | Reward: 259,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |
+| **[Lake where God descends](docs/Quests/Adventure/1001-2000/quest_1772.md)** | Adventure quest (7) | Geography (10) Visual recognition (8) Quechua | Reward: 259,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |

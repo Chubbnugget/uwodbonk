@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Mystery](Quests/Adventure/quest_538.md)** | Adventure Quest (8) B.C. | Exploration (7) Archeology (9) Indian languages | Reward: 250,000 / Advance payment: 0Experience: 200 / Fame: 110 |
+| **[Ancient Mystery](docs/Quests/Adventure/1-1000/quest_538.md)** | Adventure Quest (8) B.C. | Exploration (7) Archeology (9) Indian languages | Reward: 250,000 / Advance payment: 0Experience: 200 / Fame: 110 |

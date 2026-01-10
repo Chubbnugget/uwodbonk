@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of a vessel with round engravings](Quests/Other/quest_6918.md)** | Treasures鑑定(16) | Exploration (16) Treasures Appraisal (16) Unlocking (16) |  |
+| **[Map of a vessel with round engravings](docs/Quests/Other/6001-7000/quest_6918.md)** | Treasures鑑定(16) | Exploration (16) Treasures Appraisal (16) Unlocking (16) |  |

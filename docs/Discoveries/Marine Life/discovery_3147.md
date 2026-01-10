@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Octopus or squid](Quests/Adventure/quest_5888.md)** | Adventure quest (10) | Ecological Survey (15) Biology (17) Portuguese | Reward: 227,000/Advance: 20,000Experience: 230 |
+| **[Octopus or squid](docs/Quests/Adventure/5001-6000/quest_5888.md)** | Adventure quest (10) | Ecological Survey (15) Biology (17) Portuguese | Reward: 227,000/Advance: 20,000Experience: 230 |

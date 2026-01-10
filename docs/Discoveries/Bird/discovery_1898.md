@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Birds that use tools](Quests/Adventure/quest_883.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Arabic | Reward: 95,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Birds that use tools](docs/Quests/Adventure/1-1000/quest_883.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Arabic | Reward: 95,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Javanese shadow play](Quests/Adventure/quest_1726.md)** | Adventure quest (6) | Exploration (3) Treasures Appraisal (5) Malayu Tagalog | Reward: 85,000 / Advance payment: 0Experience: 290 / Fame: 100 |
+| **[Javanese shadow play](docs/Quests/Adventure/1001-2000/quest_1726.md)** | Adventure quest (6) | Exploration (3) Treasures Appraisal (5) Malayu Tagalog | Reward: 85,000 / Advance payment: 0Experience: 290 / Fame: 100 |

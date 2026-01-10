@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Yoi no Akira Stars](Quests/Other/quest_3784.md)** | Celestial Object Discovery Name(1)15th Century Issue 5 | Astronomy(1) |  |
+| **[Yoi no Akira Stars](docs/Quests/Other/3001-4000/quest_3784.md)** | Celestial Object Discovery Name(1)15th Century Issue 5 | Astronomy(1) |  |

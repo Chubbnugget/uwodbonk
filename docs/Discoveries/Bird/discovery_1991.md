@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Stories about strange birds](Quests/Adventure/quest_956.md)** | Adventure quest (5) | Ecological Survey (2) Biology (4) Portuguese | Reward: 70,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Stories about strange birds](docs/Quests/Adventure/1-1000/quest_956.md)** | Adventure quest (5) | Ecological Survey (2) Biology (4) Portuguese | Reward: 70,000 / Advance payment: 0Experience: 140 / Fame: 70 |

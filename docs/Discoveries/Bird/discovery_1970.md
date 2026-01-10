@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Intellectual fashion](Quests/Adventure/quest_3263.md)** | Adventure quest (7) | Ecological research (5) Biology (7) West African languages ​​(1) | Reward: 197,000 / Advance payment: 10,000 Experience: 240 / Fame: 210 |
+| **[Intellectual fashion](docs/Quests/Adventure/3001-4000/quest_3263.md)** | Adventure quest (7) | Ecological research (5) Biology (7) West African languages ​​(1) | Reward: 197,000 / Advance payment: 10,000 Experience: 240 / Fame: 210 |

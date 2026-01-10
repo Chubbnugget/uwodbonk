@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Another crossbow](Quests/Adventure/quest_2844.md)** | Adventure quest (9) | Exploration (11) Archeology (13) Unlocking (11) | Reward: 214,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |
+| **[Another crossbow](docs/Quests/Adventure/2001-3000/quest_2844.md)** | Adventure quest (9) | Exploration (11) Archeology (13) Unlocking (11) | Reward: 214,000 / Advance payment: 20,000 Experience: 250 / Fame: 110 |

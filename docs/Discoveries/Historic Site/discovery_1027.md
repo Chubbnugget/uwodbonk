@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A city dedicated to the goddess of beauty](Quests/Adventure/quest_930.md)** | Adventure Quest (4) B.C. | Archeology (2) Visualization (1) Greek | Reward: 41,000Experience: 130/ Fame: 130 |
+| **[A city dedicated to the goddess of beauty](docs/Quests/Adventure/1-1000/quest_930.md)** | Adventure Quest (4) B.C. | Archeology (2) Visualization (1) Greek | Reward: 41,000Experience: 130/ Fame: 130 |

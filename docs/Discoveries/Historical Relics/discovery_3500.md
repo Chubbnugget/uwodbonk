@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Excalibur](Quests/Other/quest_6419.md)** | Pursuit quest (3) | Exploration (8) Archeology (10) Unlocking (8) | Remuneration: 180,000/Advance payment: 0 |
+| **[Additional investigation of Excalibur](docs/Quests/Other/6001-7000/quest_6419.md)** | Pursuit quest (3) | Exploration (8) Archeology (10) Unlocking (8) | Remuneration: 180,000/Advance payment: 0 |

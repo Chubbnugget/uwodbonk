@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wooden tablet of laws and regulations](Quests/Other/quest_6997.md)** | Legacy(1) | - | Experience：3,000 |
+| **[Wooden tablet of laws and regulations](docs/Quests/Other/6001-7000/quest_6997.md)** | Legacy(1) | - | Experience：3,000 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Seven Colored Bird](Quests/Adventure/quest_629.md)** | Adventure quest (8) | Ecological Survey (8) Biology (10) Spanish | Reward: 249,000 / Advance payment: 10,000 Experience: 210 / Fame: 110 |
+| **[Seven Colored Bird](docs/Quests/Adventure/1-1000/quest_629.md)** | Adventure quest (8) | Ecological Survey (8) Biology (10) Spanish | Reward: 249,000 / Advance payment: 10,000 Experience: 210 / Fame: 110 |

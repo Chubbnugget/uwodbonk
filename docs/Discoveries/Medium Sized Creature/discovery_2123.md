@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[On my parents' backs](Quests/Adventure/quest_1446.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Malayu Tagalog | Reward: 76,000 / Advance payment: 0Experience: 280 / Fame: 92 |
+| **[On my parents' backs](docs/Quests/Adventure/1001-2000/quest_1446.md)** | Adventure quest (5) | Ecological Survey (4) Biology (6) Malayu Tagalog | Reward: 76,000 / Advance payment: 0Experience: 280 / Fame: 92 |

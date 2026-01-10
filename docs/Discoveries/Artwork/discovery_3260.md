@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Valuable tea utensils](Quests/Adventure/quest_6037.md)** | Adventure quest (10) | 探索(15)美術(17)日本語 | Reward: 440,000 / Advance payment: 40,000 Experience: 360 / Fame: 220 |
+| **[Valuable tea utensils](docs/Quests/Adventure/6001-7000/quest_6037.md)** | Adventure quest (10) | 探索(15)美術(17)日本語 | Reward: 440,000 / Advance payment: 40,000 Experience: 360 / Fame: 220 |

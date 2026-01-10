@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Russian traditional musical instruments](Quests/Adventure/quest_3689.md)** | Adventure Quest (6) 18th Century Third Period | Exploration (5) Treasures Appraisal (7) Arctic languages | Reward: 331,000 / Advance payment: 30,000 Experience: 350 / Fame: 145 |
+| **[Russian traditional musical instruments](docs/Quests/Adventure/3001-4000/quest_3689.md)** | Adventure Quest (6) 18th Century Third Period | Exploration (5) Treasures Appraisal (7) Arctic languages | Reward: 331,000 / Advance payment: 30,000 Experience: 350 / Fame: 145 |

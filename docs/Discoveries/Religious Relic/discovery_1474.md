@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Supreme Goddess](Quests/Adventure/quest_603.md)** | Adventure Quest (7) Mythology Era | Religious Studies (7) Exploration (5) Indian Languages | Reward: 110,000Experience: 170/ Fame: 90 |
+| **[Supreme Goddess](docs/Quests/Adventure/1-1000/quest_603.md)** | Adventure Quest (7) Mythology Era | Religious Studies (7) Exploration (5) Indian Languages | Reward: 110,000Experience: 170/ Fame: 90 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Jeanne's successor](Quests/Other/quest_3540.md)** | Treasure hunting (7) | Exploration (10) Archeology (12) French |  |
+| **[Jeanne's successor](docs/Quests/Other/3001-4000/quest_3540.md)** | Treasure hunting (7) | Exploration (10) Archeology (12) French |  |

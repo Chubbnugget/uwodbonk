@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Gouged Earth](Quests/Adventure/quest_1547.md)** | Adventure Quest (4) 17th Century 2nd Period | Geography (5) Visual recognition (3) Oceanian languages | Reward: 101,000 / Advance payment: 10,000 Experience: 260 / Fame: 90 |
+| **[Gouged Earth](docs/Quests/Adventure/1001-2000/quest_1547.md)** | Adventure Quest (4) 17th Century 2nd Period | Geography (5) Visual recognition (3) Oceanian languages | Reward: 101,000 / Advance payment: 10,000 Experience: 260 / Fame: 90 |

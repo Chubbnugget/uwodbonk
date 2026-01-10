@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[古代交易路の証](Quests/Adventure/quest_558.md)** | Adventure quest (6) | Exploration (4) Archeology (6) Arabic | Reward: 71,000 / Advance payment: 0Experience: 170 / Fame: 80 |
+| **[古代交易路の証](docs/Quests/Adventure/1-1000/quest_558.md)** | Adventure quest (6) | Exploration (4) Archeology (6) Arabic | Reward: 71,000 / Advance payment: 0Experience: 170 / Fame: 80 |

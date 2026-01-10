@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Famous paintings passed down](Quests/Adventure/quest_6912.md)** | Adventure quest (10) | 探索(15)美術(17)中国語(1) | Reward: 217,000 / Advance payment: 20,000 Experience: 1,460 |
+| **[Famous paintings passed down](docs/Quests/Adventure/6001-7000/quest_6912.md)** | Adventure quest (10) | 探索(15)美術(17)中国語(1) | Reward: 217,000 / Advance payment: 20,000 Experience: 1,460 |

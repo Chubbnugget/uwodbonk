@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of ancient sake vessels](Quests/Other/quest_2878.md)** | Archeology(8) | Exploration (8) Archeology (8) Unlocking (8) |  |
+| **[Map of ancient sake vessels](docs/Quests/Other/2001-3000/quest_2878.md)** | Archeology(8) | Exploration (8) Archeology (8) Unlocking (8) |  |

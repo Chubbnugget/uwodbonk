@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mesopotamian literary figure](Quests/Adventure/quest_3386.md)** | Adventure quest (8) | Religious Studies (9) Exploration (7) Unlocking (7) | Reward: 671,000 / Advance payment: 60,000 Experience: 630 / Fame: 255 |
+| **[Mesopotamian literary figure](docs/Quests/Adventure/3001-4000/quest_3386.md)** | Adventure quest (8) | Religious Studies (9) Exploration (7) Unlocking (7) | Reward: 671,000 / Advance payment: 60,000 Experience: 630 / Fame: 255 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Kobushime](Quests/Other/quest_1981.md)** | Fishing (3) | Fishing (3) |  |
+| **[Kobushime](docs/Quests/Other/1001-2000/quest_1981.md)** | Fishing (3) | Fishing (3) |  |

@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | saber |
 | **Type** | thing |
-| **Group** | [Equipment](Categories/category_27.md) |
+| **Group** | [Equipment](docs/Categories/category_27.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 29,100 |
 | **Description** | A light, long sword suitable for cutting, mainly used by cavalry. Durability 35 Attack power 26 Swordsmanship +1 Equipable profession Combat type Total required fame 520 Weapon type Sword |

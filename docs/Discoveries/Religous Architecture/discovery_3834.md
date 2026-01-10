@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Indian Islamic Dynasty](Quests/Adventure/quest_6806.md)** | Adventure quest (8) | Religious Studies (12) Visual Recognition (10) Arabic (1) | Reward: 667,000/Advance payment: 70,000Experience: 500 |
+| **[Indian Islamic Dynasty](docs/Quests/Adventure/6001-7000/quest_6806.md)** | Adventure quest (8) | Religious Studies (12) Visual Recognition (10) Arabic (1) | Reward: 667,000/Advance payment: 70,000Experience: 500 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Excellent Livestock](Quests/Adventure/quest_5883.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Mayan languages | Reward: 533,000/Advance payment: 50,000Experience: 420 |
+| **[Excellent Livestock](docs/Quests/Adventure/5001-6000/quest_5883.md)** | Adventure quest (10) | Ecological research (15) Biology (17) Mayan languages | Reward: 533,000/Advance payment: 50,000Experience: 420 |

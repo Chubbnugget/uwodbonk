@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The truth behind the royal ship sinking incident](Quests/Adventure/quest_5933.md)** | Adventure Quest (2) 15th Century 1st Period | Exploration (1) Treasures Appraisal (3) Portuguese | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[The truth behind the royal ship sinking incident](docs/Quests/Adventure/5001-6000/quest_5933.md)** | Adventure Quest (2) 15th Century 1st Period | Exploration (1) Treasures Appraisal (3) Portuguese | Reward: 61,000 / Advance payment: 0Experience: 130 / Fame: 65 |

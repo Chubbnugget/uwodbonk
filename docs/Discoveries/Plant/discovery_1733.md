@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Bouquet of flowers for your lover](Quests/Adventure/quest_2809.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Chinese (1) | Reward: 128,000 / Advance payment: 10,000 Experience: 180 / Fame: 170 |
+| **[Bouquet of flowers for your lover](docs/Quests/Adventure/2001-3000/quest_2809.md)** | Adventure quest (5) | Ecological research (4) Biology (6) Chinese (1) | Reward: 128,000 / Advance payment: 10,000 Experience: 180 / Fame: 170 |

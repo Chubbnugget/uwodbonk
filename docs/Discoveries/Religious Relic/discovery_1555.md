@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[God Returned to Heaven](Quests/Adventure/quest_858.md)** | Adventure Quest (8) Mythology Era | Religious Studies (10) Exploration (8) Unlocking (8) | Reward: 211,000 / Advance payment: 0Experience: 210 / Fame: 110 |
+| **[God Returned to Heaven](docs/Quests/Adventure/1-1000/quest_858.md)** | Adventure Quest (8) Mythology Era | Religious Studies (10) Exploration (8) Unlocking (8) | Reward: 211,000 / Advance payment: 0Experience: 210 / Fame: 110 |

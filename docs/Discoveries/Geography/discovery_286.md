@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Coastline of northwest France](Quests/Adventure/quest_264.md)** | Adventure quest (3) | Geography (1) Visual recognition (1) English | Reward: 6,000 |
+| **[Coastline of northwest France](docs/Quests/Adventure/1-1000/quest_264.md)** | Adventure quest (3) | Geography (1) Visual recognition (1) English | Reward: 6,000 |

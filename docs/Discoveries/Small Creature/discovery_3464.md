@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Client who likes cute things](Quests/Adventure/quest_6382.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Quechua | Reward: 89,000/ Advance: 10,000 Experience: 140/ Fame: 75 |
+| **[Client who likes cute things](docs/Quests/Adventure/6001-7000/quest_6382.md)** | Adventure quest (6) | Ecological Survey (6) Biology (8) Quechua | Reward: 89,000/ Advance: 10,000 Experience: 140/ Fame: 75 |

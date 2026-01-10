@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Text for chefs](Quests/Adventure/quest_6023.md)** | Adventure quest (4) 14th century | 探索(2)Treasures鑑定(4)英語 | Reward: 80,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Text for chefs](docs/Quests/Adventure/6001-7000/quest_6023.md)** | Adventure quest (4) 14th century | 探索(2)Treasures鑑定(4)英語 | Reward: 80,000 / Advance payment: 0Experience: 140 / Fame: 70 |

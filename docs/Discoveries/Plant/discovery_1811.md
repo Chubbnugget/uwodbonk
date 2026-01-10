@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flower Tears](Quests/Adventure/quest_2801.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Chinese (1) | Reward: 82,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Flower Tears](docs/Quests/Adventure/2001-3000/quest_2801.md)** | Adventure quest (4) | Ecological research (3) Biology (5) Chinese (1) | Reward: 82,000 / Advance payment: 0Experience: 140 / Fame: 70 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Coast Monster](Quests/Adventure/quest_6211.md)** | Adventure quest (3) | Exploration (2) Biology (4) Oceanian languages | Reward: 110,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |
+| **[Coast Monster](docs/Quests/Adventure/6001-7000/quest_6211.md)** | Adventure quest (3) | Exploration (2) Biology (4) Oceanian languages | Reward: 110,000 / Advance payment: 10,000 Experience: 160 / Fame: 85 |

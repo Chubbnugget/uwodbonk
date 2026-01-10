@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[World of Possibilities](Quests/Adventure/quest_5460.md)** | Adventure Quest (10) Mythology Era | Exploration (9) Treasures Appraisal (11) Greek | Reward: 428,000 / Advance payment: 40,000 Experience: 407 / Fame: 253 |
+| **[World of Possibilities](docs/Quests/Adventure/5001-6000/quest_5460.md)** | Adventure Quest (10) Mythology Era | Exploration (9) Treasures Appraisal (11) Greek | Reward: 428,000 / Advance payment: 40,000 Experience: 407 / Fame: 253 |

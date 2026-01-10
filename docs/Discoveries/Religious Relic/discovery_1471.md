@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional research on indigenous flutes](Quests/Adventure/quest_3884.md)** | Adventure quest (6) 19th century | Religious Studies (9) Exploration (7) North American Languages ​​(1) | Reward: 266,000 / Advance payment: 20,000 Experience: 400 / Fame: 175 |
+| **[Additional research on indigenous flutes](docs/Quests/Adventure/3001-4000/quest_3884.md)** | Adventure quest (6) 19th century | Religious Studies (9) Exploration (7) North American Languages ​​(1) | Reward: 266,000 / Advance payment: 20,000 Experience: 400 / Fame: 175 |

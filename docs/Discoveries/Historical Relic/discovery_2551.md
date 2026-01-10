@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Adventures of the Hobuki Baron](Quests/Other/quest_3905.md)** | Treasure hunting (5) | Exploration (7) Treasures Appraisal (9) German | Reward: 0/Advance payment: 0Experience: 2,260 |
+| **[Adventures of the Hobuki Baron](docs/Quests/Other/3001-4000/quest_3905.md)** | Treasure hunting (5) | Exploration (7) Treasures Appraisal (9) German | Reward: 0/Advance payment: 0Experience: 2,260 |

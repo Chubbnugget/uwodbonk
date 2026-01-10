@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King's Library](Quests/Adventure/quest_4844.md)** | Adventure Quest (10) B.C. | Archeology (10) Visualization (8) Arabic | Reward: 405,000 / Advance payment: 40,000 Experience: 410 / Fame: 170 |
+| **[King's Library](docs/Quests/Adventure/4001-5000/quest_4844.md)** | Adventure Quest (10) B.C. | Archeology (10) Visualization (8) Arabic | Reward: 405,000 / Advance payment: 40,000 Experience: 410 / Fame: 170 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A prosperous capital since ancient times](Quests/Other/quest_6891.md)** | Treasure hunting (9) | Exploration(13)Archaeology(15)Chinese(1) |  |
+| **[A prosperous capital since ancient times](docs/Quests/Other/6001-7000/quest_6891.md)** | Treasure hunting (9) | Exploration(13)Archaeology(15)Chinese(1) |  |

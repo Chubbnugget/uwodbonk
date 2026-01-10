@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Gu Yuzhi's drawings](Quests/Other/quest_6856.md)** | Pursuit quest (10) | 探索(13)美術(15)中国語(1) | Reward: 360,000 / Advance payment: 0Experience: 540 |
+| **[Additional investigation of Gu Yuzhi's drawings](docs/Quests/Other/6001-7000/quest_6856.md)** | Pursuit quest (10) | 探索(13)美術(15)中国語(1) | Reward: 360,000 / Advance payment: 0Experience: 540 |

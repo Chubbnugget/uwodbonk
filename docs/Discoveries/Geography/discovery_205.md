@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ocean trade routes](Quests/Adventure/quest_1042.md)** | Adventure quest (5) | Geography (3) Visual recognition (1) Arabic | Reward: 32,000 / Advance payment: 0Experience: 140 / Fame: 70 |
+| **[Ocean trade routes](docs/Quests/Adventure/1001-2000/quest_1042.md)** | Adventure quest (5) | Geography (3) Visual recognition (1) Arabic | Reward: 32,000 / Advance payment: 0Experience: 140 / Fame: 70 |

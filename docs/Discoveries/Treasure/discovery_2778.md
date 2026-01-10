@@ -28,4 +28,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hunting in mythology](Quests/Adventure/quest_5366.md)** | Adventure Quest (6) Mythology Era | Religious Studies(4)Exploration(6)Treasures Identification(8) | Reward: 170,000 / Advance payment: 10,000 Experience: 190 / Fame: 110 |
+| **[Hunting in mythology](docs/Quests/Adventure/5001-6000/quest_5366.md)** | Adventure Quest (6) Mythology Era | Religious Studies(4)Exploration(6)Treasures Identification(8) | Reward: 170,000 / Advance payment: 10,000 Experience: 190 / Fame: 110 |

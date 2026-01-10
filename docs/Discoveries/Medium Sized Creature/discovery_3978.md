@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of black and white monkeys](Quests/Other/quest_6969.md)** | Pursuit quest (7) | Ecological research (7) Biology (9) Dutch (1) | Reward: 135,000 / Advance payment: 0Experience: 340 |
+| **[Additional investigation of black and white monkeys](docs/Quests/Other/6001-7000/quest_6969.md)** | Pursuit quest (7) | Ecological research (7) Biology (9) Dutch (1) | Reward: 135,000 / Advance payment: 0Experience: 340 |

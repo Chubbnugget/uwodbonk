@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of a squirrel living in a burrow](Quests/Other/quest_5294.md)** | Biology学(5) | Ecological Survey(5)Biology(5) | Experience：170 |
+| **[Map of a squirrel living in a burrow](docs/Quests/Other/5001-6000/quest_5294.md)** | Biology学(5) | Ecological Survey(5)Biology(5) | Experience：170 |

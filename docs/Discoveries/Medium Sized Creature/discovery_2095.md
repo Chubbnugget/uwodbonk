@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Black and white monkey](Quests/Adventure/quest_916.md)** | Adventure quest (6) | Ecological research (3) Biology (5) Arabic | Reward: 99,000 / Advance payment: 5,000 Experience: 140 / Fame: 75 |
+| **[Black and white monkey](docs/Quests/Adventure/1-1000/quest_916.md)** | Adventure quest (6) | Ecological research (3) Biology (5) Arabic | Reward: 99,000 / Advance payment: 5,000 Experience: 140 / Fame: 75 |

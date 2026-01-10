@@ -30,4 +30,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Familiar bird](Quests/Adventure/quest_2356.md)** | Adventure quest (5) | Religious Studies(5)Explore(3)Japanese | Reward: 136,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Familiar bird](docs/Quests/Adventure/2001-3000/quest_2356.md)** | Adventure quest (5) | Religious Studies(5)Explore(3)Japanese | Reward: 136,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

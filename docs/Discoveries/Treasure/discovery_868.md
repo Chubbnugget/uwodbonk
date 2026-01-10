@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rare Book Map](Quests/Other/quest_2808.md)** | Treasures鑑定(8) | Exploration (8) Treasures Appraisal (8) Unlocking (8) |  |
+| **[Rare Book Map](docs/Quests/Other/2001-3000/quest_2808.md)** | Treasures鑑定(8) | Exploration (8) Treasures Appraisal (8) Unlocking (8) |  |

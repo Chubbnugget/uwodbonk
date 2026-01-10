@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Meaning of mountain](Quests/Adventure/quest_3164.md)** | Adventure quest (3) | Geography (8) Visualization (6) Mayan languages ​​(1) | Reward: 108,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[Meaning of mountain](docs/Quests/Adventure/3001-4000/quest_3164.md)** | Adventure quest (3) | Geography (8) Visualization (6) Mayan languages ​​(1) | Reward: 108,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

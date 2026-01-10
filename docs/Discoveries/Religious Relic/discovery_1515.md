@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Luxor Temple (Upper Level)](Quests/Other/quest_2415.md)** | Dungeon (2) | - |  |
+| **[Luxor Temple (Upper Level)](docs/Quests/Other/2001-3000/quest_2415.md)** | Dungeon (2) | - |  |

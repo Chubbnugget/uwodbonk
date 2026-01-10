@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of Buddhist scriptures](Quests/Other/quest_6907.md)** | Religious Studies(18) | Religious Studies(18)Exploration(18) | Experience：660 |
+| **[Map of Buddhist scriptures](docs/Quests/Other/6001-7000/quest_6907.md)** | Religious Studies(18) | Religious Studies(18)Exploration(18) | Experience：660 |

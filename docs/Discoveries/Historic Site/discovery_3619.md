@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tower of Hercules](Quests/Other/quest_6553.md)** | Legacy(5) | - |  |
+| **[Tower of Hercules](docs/Quests/Other/6001-7000/quest_6553.md)** | Legacy(5) | - |  |

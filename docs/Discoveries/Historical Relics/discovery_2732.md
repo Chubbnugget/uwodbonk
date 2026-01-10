@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Stone Tool Map](Quests/Other/quest_5325.md)** | Re-examination reward (5) | Exploration(5)Archaeology(5) |  |
+| **[Ancient Stone Tool Map](docs/Quests/Other/5001-6000/quest_5325.md)** | Re-examination reward (5) | Exploration(5)Archaeology(5) |  |

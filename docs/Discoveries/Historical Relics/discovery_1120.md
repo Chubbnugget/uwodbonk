@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lord of the Seven Wonders of the World](Quests/Adventure/quest_715.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Unlocking (3) Arabic | Reward: 74,000Experience: 130/ Fame: 65 |
+| **[Lord of the Seven Wonders of the World](docs/Quests/Adventure/1-1000/quest_715.md)** | Adventure Quest (6) B.C. | Exploration (3) Archeology (5) Unlocking (3) Arabic | Reward: 74,000Experience: 130/ Fame: 65 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Colonial city wine merchant](Quests/Adventure/quest_6117.md)** | Adventure quest (7) | Exploration (8) Archeology (10) German | Reward: 161,000 / Advance payment: 10,000 Experience: 285 / Fame: 157 |
+| **[Colonial city wine merchant](docs/Quests/Adventure/6001-7000/quest_6117.md)** | Adventure quest (7) | Exploration (8) Archeology (10) German | Reward: 161,000 / Advance payment: 10,000 Experience: 285 / Fame: 157 |

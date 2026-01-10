@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The prophesied comet Stars appears](Quests/Adventure/quest_5241.md)** | Adventure quest (8) 18th century third period | Astronomy (12) Visual recognition (10) English | Reward: 303,000 / Advance payment: 30,000 Experience: 280 / Fame: 165 |
+| **[The prophesied comet Stars appears](docs/Quests/Adventure/5001-6000/quest_5241.md)** | Adventure quest (8) 18th century third period | Astronomy (12) Visual recognition (10) English | Reward: 303,000 / Advance payment: 30,000 Experience: 280 / Fame: 165 |

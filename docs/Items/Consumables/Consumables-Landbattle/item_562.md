@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | hawk feather |
 | **Type** | thing |
-| **Group** | [Consumables (Land/Deck Battle)](Categories/category_29.md) |
+| **Group** | [Consumables (Land/Deck Battle)](docs/Categories/category_29.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 200 |
 | **Description** | Makes it easier to dodge enemy attacks. Effect/medium. Effect when used: Complete evasion (Enemy's normal attacks will not hit you.) Rank 6 Required gauge 100 Cooldown time 750 |

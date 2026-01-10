@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Statue of the God of Destruction](Quests/Adventure/quest_902.md)** | Adventure Quest (7) Mythology Era | Religious Studies (8) Exploration (6) Indian Languages | Reward: 128,000 / Advance payment: 0Experience: 220 / Fame: 100 |
+| **[Statue of the God of Destruction](docs/Quests/Adventure/1-1000/quest_902.md)** | Adventure Quest (7) Mythology Era | Religious Studies (8) Exploration (6) Indian Languages | Reward: 128,000 / Advance payment: 0Experience: 220 / Fame: 100 |

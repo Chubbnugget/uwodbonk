@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Curry](Quests/Other/quest_5042.md)** | Port/village (1) | - |  |
+| **[Curry](docs/Quests/Other/5001-6000/quest_5042.md)** | Port/village (1) | - |  |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[King who achieved independence](Quests/Adventure/quest_5937.md)** | Adventure quest (7) | Archeology (9) Visualization (7) Portuguese | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[King who achieved independence](docs/Quests/Adventure/5001-6000/quest_5937.md)** | Adventure quest (7) | Archeology (9) Visualization (7) Portuguese | Reward: 67,000 / Advance payment: 0Experience: 130 / Fame: 65 |

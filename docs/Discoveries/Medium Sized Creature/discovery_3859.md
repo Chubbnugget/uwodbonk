@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Wild Biology Habitat Map](Quests/Other/quest_6841.md)** | Biology学(11) | Ecological Survey(11)Biology(11) |  |
+| **[Wild Biology Habitat Map](docs/Quests/Other/6001-7000/quest_6841.md)** | Biology学(11) | Ecological Survey(11)Biology(11) |  |

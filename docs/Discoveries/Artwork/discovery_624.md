@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Love story to enjoy with pictures](Quests/Adventure/quest_2597.md)** | Adventure quest (7) | 探索(6)美術(8)日本語(1) | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Love story to enjoy with pictures](docs/Quests/Adventure/2001-3000/quest_2597.md)** | Adventure quest (7) | 探索(6)美術(8)日本語(1) | Reward: 71,000 / Advance payment: 0Experience: 130 / Fame: 65 |

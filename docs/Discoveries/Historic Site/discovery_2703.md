@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mysterious Rock Mountain](Quests/Adventure/quest_5291.md)** | Adventure Quest (6) B.C. | Archeology (7) Visualization (5) Arabic | Reward: 109,000/ Advance: 10,000Experience: 160/ Fame: 85 |
+| **[Mysterious Rock Mountain](docs/Quests/Adventure/5001-6000/quest_5291.md)** | Adventure Quest (6) B.C. | Archeology (7) Visualization (5) Arabic | Reward: 109,000/ Advance: 10,000Experience: 160/ Fame: 85 |

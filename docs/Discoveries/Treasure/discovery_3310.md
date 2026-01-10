@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Unfinished map](Quests/Other/quest_6162.md)** | Treasures鑑定(8) | Exploration (8) Treasures Appraisal (8) Unlocking (8) |  |
+| **[Unfinished map](docs/Quests/Other/6001-7000/quest_6162.md)** | Treasures鑑定(8) | Exploration (8) Treasures Appraisal (8) Unlocking (8) |  |

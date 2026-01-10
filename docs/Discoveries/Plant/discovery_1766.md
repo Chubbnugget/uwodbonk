@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[What connects life in the desert](Quests/Adventure/quest_3379.md)** | Adventure quest (8) | Ecological research (7) Biology (9) Arabic | Reward: 60,000/ Advance payment: 6,000 Experience: 280/ Fame: 120 |
+| **[What connects life in the desert](docs/Quests/Adventure/3001-4000/quest_3379.md)** | Adventure quest (8) | Ecological research (7) Biology (9) Arabic | Reward: 60,000/ Advance payment: 6,000 Experience: 280/ Fame: 120 |

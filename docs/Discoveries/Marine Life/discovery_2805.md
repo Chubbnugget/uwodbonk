@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Four-eyed fish](Quests/Adventure/quest_5457.md)** | Adventure quest (3) | Ecological Survey (2) Biology (4) Portuguese | Reward: 100,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |
+| **[Four-eyed fish](docs/Quests/Adventure/5001-6000/quest_5457.md)** | Adventure quest (3) | Ecological Survey (2) Biology (4) Portuguese | Reward: 100,000 / Advance payment: 10,000 Experience: 150 / Fame: 80 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of gorgeous flowers and trees](Quests/Other/quest_3328.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：210 |
+| **[Map of gorgeous flowers and trees](docs/Quests/Other/3001-4000/quest_3328.md)** | Biology学(4) | Ecological Survey(4)Biology(4) | Experience：210 |

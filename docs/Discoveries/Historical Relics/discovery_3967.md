@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Disc burned in the conflagration](Quests/Adventure/quest_6958.md)** | Adventure quest (8) | Exploration (10) Archeology (12) Greek (1) | Reward: 152,000/Advance payment: 20,000Experience: 180 |
+| **[Disc burned in the conflagration](docs/Quests/Adventure/6001-7000/quest_6958.md)** | Adventure quest (8) | Exploration (10) Archeology (12) Greek (1) | Reward: 152,000/Advance payment: 20,000Experience: 180 |

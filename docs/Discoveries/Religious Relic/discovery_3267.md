@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strange connection](Quests/Adventure/quest_6105.md)** | Adventure quest (5) 16th century 4th period | Religious Studies (6) Exploration (4) Spanish | Reward: 96,000Experience: 150/ Fame: 75 |
+| **[Strange connection](docs/Quests/Adventure/6001-7000/quest_6105.md)** | Adventure quest (5) 16th century 4th period | Religious Studies (6) Exploration (4) Spanish | Reward: 96,000Experience: 150/ Fame: 75 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Cow Chaser](Quests/Adventure/quest_3878.md)** | Adventure quest (3) 19th century | Exploration (2) Treasures Appraisal (4) North American languages | Reward: 119,000 / Advance payment: 10,000 Experience: 260 / Fame: 220 |
+| **[Cow Chaser](docs/Quests/Adventure/3001-4000/quest_3878.md)** | Adventure quest (3) 19th century | Exploration (2) Treasures Appraisal (4) North American languages | Reward: 119,000 / Advance payment: 10,000 Experience: 260 / Fame: 220 |

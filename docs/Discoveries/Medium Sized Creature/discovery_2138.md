@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Coastal seal map](Quests/Other/quest_3870.md)** | Biology学(5) | Ecological Survey(5)Biology(5) | Experience：200 |
+| **[Coastal seal map](docs/Quests/Other/3001-4000/quest_3870.md)** | Biology学(5) | Ecological Survey(5)Biology(5) | Experience：200 |

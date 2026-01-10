@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mermaid's Tears](Quests/Adventure/quest_708.md)** | Adventure quest (6) | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 110,000 / Advance payment: 0Experience: 150 / Fame: 80 |
+| **[Mermaid's Tears](docs/Quests/Adventure/1-1000/quest_708.md)** | Adventure quest (6) | Exploration (5) Treasures Appraisal (7) Unlocking (5) | Reward: 110,000 / Advance payment: 0Experience: 150 / Fame: 80 |

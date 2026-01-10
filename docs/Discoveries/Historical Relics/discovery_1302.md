@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ancient Roman Shield Map](Quests/Other/quest_552.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |
+| **[Ancient Roman Shield Map](docs/Quests/Other/1-1000/quest_552.md)** | Archeology(5) | Exploration(5)Archaeology(5) |  |

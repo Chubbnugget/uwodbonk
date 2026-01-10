@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of ancient dolls](Quests/Other/quest_6575.md)** | Pursuit quest (4) | Exploration (12) Archeology (14) Portuguese (1) | Reward: 400,000 / Advance payment: 0Experience: 790 |
+| **[Additional investigation of ancient dolls](docs/Quests/Other/6001-7000/quest_6575.md)** | Pursuit quest (4) | Exploration (12) Archeology (14) Portuguese (1) | Reward: 400,000 / Advance payment: 0Experience: 790 |

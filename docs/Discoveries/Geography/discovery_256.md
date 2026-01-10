@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Ice Land](Quests/Adventure/quest_3741.md)** | Adventure Quest (10) 18th Century Third Period | Geography (12) Visual recognition (10) English | Reward: 163,000 / Advance payment: 10,000 Experience: 210 / Fame: 95 |
+| **[Ice Land](docs/Quests/Adventure/3001-4000/quest_3741.md)** | Adventure Quest (10) 18th Century Third Period | Geography (12) Visual recognition (10) English | Reward: 163,000 / Advance payment: 10,000 Experience: 210 / Fame: 95 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Norashinga](Quests/Other/quest_6487.md)** | Pursuit quest (3) | Religious Studies (10) Exploration (8) Thai/Burmese | Remuneration: 190,000 / Advance payment: 0 |
+| **[Additional investigation of Norashinga](docs/Quests/Other/6001-7000/quest_6487.md)** | Pursuit quest (3) | Religious Studies (10) Exploration (8) Thai/Burmese | Remuneration: 190,000 / Advance payment: 0 |

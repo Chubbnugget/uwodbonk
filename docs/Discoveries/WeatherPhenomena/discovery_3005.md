@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sand Tornado](Quests/Other/quest_5715.md)** | Weather/phenomena (2) | Visual recognition (5) | Experience：290 |
+| **[Sand Tornado](docs/Quests/Other/5001-6000/quest_5715.md)** | Weather/phenomena (2) | Visual recognition (5) | Experience：290 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[High-speed hairball](Quests/Adventure/quest_2966.md)** | Adventure quest (2) | Ecological research (1) Biology (3) Portuguese | Reward: 95,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[High-speed hairball](docs/Quests/Adventure/2001-3000/quest_2966.md)** | Adventure quest (2) | Ecological research (1) Biology (3) Portuguese | Reward: 95,000 / Advance payment: 0Experience: 150 / Fame: 75 |

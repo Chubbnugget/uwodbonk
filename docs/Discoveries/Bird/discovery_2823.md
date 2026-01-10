@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Beautiful voice that resonates in South America](Quests/Adventure/quest_5452.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Portuguese | Reward: 180,000 / Advance payment: 10,000 Experience: 200 / Fame: 110 |
+| **[Beautiful voice that resonates in South America](docs/Quests/Adventure/5001-6000/quest_5452.md)** | Adventure quest (6) | Ecological Survey (5) Biology (7) Portuguese | Reward: 180,000 / Advance payment: 10,000 Experience: 200 / Fame: 110 |

@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Strongest Mole](Quests/Adventure/quest_1447.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Oceanian languages ​​(1) | Reward: 118,000 / Advance payment: 10,000 Experience: 350 / Fame: 230 |
+| **[Strongest Mole](docs/Quests/Adventure/1001-2000/quest_1447.md)** | Adventure quest (6) | Ecological research (6) Biology (8) Oceanian languages ​​(1) | Reward: 118,000 / Advance payment: 10,000 Experience: 350 / Fame: 230 |

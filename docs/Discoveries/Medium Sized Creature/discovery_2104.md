@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Sea lizard](Quests/Adventure/quest_2244.md)** | Adventure quest (6) | Ecological research (4) Biology (6) | Reward: 225,000 / Advance payment: 20,000 Experience: 260 / Fame: 230 |
+| **[Sea lizard](docs/Quests/Adventure/2001-3000/quest_2244.md)** | Adventure quest (6) | Ecological research (4) Biology (6) | Reward: 225,000 / Advance payment: 20,000 Experience: 260 / Fame: 230 |

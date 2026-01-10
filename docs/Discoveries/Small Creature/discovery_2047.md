@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Rocky Animal Map](Quests/Other/quest_404.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |
+| **[Rocky Animal Map](docs/Quests/Other/1-1000/quest_404.md)** | Biology学(1) | Ecological research (1) Biology (1) |  |

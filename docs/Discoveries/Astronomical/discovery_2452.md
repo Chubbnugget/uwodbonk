@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Procyon](Quests/Other/quest_3785.md)** | Celestial Object Discovery Name(3)16th Century Issue 1 | Astronomy(3) | Experience：450 |
+| **[Procyon](docs/Quests/Other/3001-4000/quest_3785.md)** | Celestial Object Discovery Name(3)16th Century Issue 1 | Astronomy(3) | Experience：450 |

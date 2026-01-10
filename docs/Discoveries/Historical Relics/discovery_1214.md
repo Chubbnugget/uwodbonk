@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Fragalach](Quests/Adventure/quest_262.md)** | Adventure Quest (10) Mythology Era | Exploration (11) Archeology (13) Unlocking (11) | Reward: 2,000 / Advance payment: 0Experience: 250 |
+| **[Fragalach](docs/Quests/Adventure/1-1000/quest_262.md)** | Adventure Quest (10) Mythology Era | Exploration (11) Archeology (13) Unlocking (11) | Reward: 2,000 / Advance payment: 0Experience: 250 |

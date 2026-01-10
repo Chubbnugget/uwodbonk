@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Investigation request to a distant place](Quests/Adventure/quest_2569.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Chinese (1) | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |
+| **[Investigation request to a distant place](docs/Quests/Adventure/2001-3000/quest_2569.md)** | Adventure quest (7) | Ecological research (8) Biology (10) Chinese (1) | Reward: 124,000/ Advance: 10,000 Experience: 180/ Fame: 80 |

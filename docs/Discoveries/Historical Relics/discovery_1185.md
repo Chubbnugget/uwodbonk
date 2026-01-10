@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[A long-established high-performance ship](Quests/Adventure/quest_759.md)** | Adventure quest (7) | Exploration (5) Archeology (7) Swahili | Reward: 148,000/ Advance: 20,000Experience: 240/ Fame: 105 |
+| **[A long-established high-performance ship](docs/Quests/Adventure/1-1000/quest_759.md)** | Adventure quest (7) | Exploration (5) Archeology (7) Swahili | Reward: 148,000/ Advance: 20,000Experience: 240/ Fame: 105 |

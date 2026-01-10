@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hawaii's strange god](Quests/Adventure/quest_4801.md)** | Adventure quest (5) 19th century | Religious Studies (6) Exploration (4) Oceanian Languages | Reward: 97,000 / Advance payment: 0Experience: 150 / Fame: 75 |
+| **[Hawaii's strange god](docs/Quests/Adventure/4001-5000/quest_4801.md)** | Adventure quest (5) 19th century | Religious Studies (6) Exploration (4) Oceanian Languages | Reward: 97,000 / Advance payment: 0Experience: 150 / Fame: 75 |

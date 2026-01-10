@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Lore about African Giant Biology](Quests/Other/quest_6315.md)** | Tradition (9) | Biology学(13) | Reward: 778,000 / Advance payment: 80,000 Experience: 690 / Fame: 720 |
+| **[Lore about African Giant Biology](docs/Quests/Other/6001-7000/quest_6315.md)** | Tradition (9) | Biology学(13) | Reward: 778,000 / Advance payment: 80,000 Experience: 690 / Fame: 720 |

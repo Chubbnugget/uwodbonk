@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Hidden Treasures](Quests/Adventure/quest_3820.md)** | Adventure quest (8) 17th century 4th period | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 1,340,000/Advance payment: 30,000Experience: 360 |
+| **[Hidden Treasures](docs/Quests/Adventure/3001-4000/quest_3820.md)** | Adventure quest (8) 17th century 4th period | Exploration (8) Treasures Appraisal (10) Unlocking (8) | Reward: 1,340,000/Advance payment: 30,000Experience: 360 |

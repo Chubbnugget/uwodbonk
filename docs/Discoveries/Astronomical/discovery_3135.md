@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mythless Stars](Quests/Adventure/quest_5877.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) German | Reward: 452,000 / Advance payment: 40,000 Experience: 370 / Fame: 225 |
+| **[Mythless Stars](docs/Quests/Adventure/5001-6000/quest_5877.md)** | Adventure quest (10) | Astronomy (17) Visualization (15) German | Reward: 452,000 / Advance payment: 40,000 Experience: 370 / Fame: 225 |

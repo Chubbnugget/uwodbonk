@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mastermind of the Rebellion](Quests/Other/quest_3529.md)** | Treasure hunting (4) | Exploration (6) Archeology (8) Latin | Experience: 1,550/ Reputation: 1,240 |
+| **[Mastermind of the Rebellion](docs/Quests/Other/3001-4000/quest_3529.md)** | Treasure hunting (4) | Exploration (6) Archeology (8) Latin | Experience: 1,550/ Reputation: 1,240 |

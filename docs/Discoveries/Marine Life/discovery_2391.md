@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Giant fish as big as a boat](Quests/Adventure/quest_776.md)** | Adventure quest (7) | Ecological research (5) Biology (7) West African languages | Reward: 124,000 / Advance payment: 0Experience: 180 / Fame: 95 |
+| **[Giant fish as big as a boat](docs/Quests/Adventure/1-1000/quest_776.md)** | Adventure quest (7) | Ecological research (5) Biology (7) West African languages | Reward: 124,000 / Advance payment: 0Experience: 180 / Fame: 95 |

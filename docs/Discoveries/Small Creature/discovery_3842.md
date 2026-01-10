@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Additional investigation of Snow Rabbit](Quests/Other/quest_6814.md)** | Pursuit quest (10) | Ecological research (13) Biology (15) Arctic languages ​​(1) | Reward: 196,000 / Advance payment: 0Experience: 450 |
+| **[Additional investigation of Snow Rabbit](docs/Quests/Other/6001-7000/quest_6814.md)** | Pursuit quest (10) | Ecological research (13) Biology (15) Arctic languages ​​(1) | Reward: 196,000 / Advance payment: 0Experience: 450 |

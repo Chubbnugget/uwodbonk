@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flame Taiko](Quests/Other/quest_6718.md)** | Legacy(1) | - |  |
+| **[Flame Taiko](docs/Quests/Other/6001-7000/quest_6718.md)** | Legacy(1) | - |  |

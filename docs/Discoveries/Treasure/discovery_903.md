@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Interest in the Tang Dynasty Emperor](Quests/Adventure/quest_2876.md)** | Adventure quest (6) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 136,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |
+| **[Interest in the Tang Dynasty Emperor](docs/Quests/Adventure/2001-3000/quest_2876.md)** | Adventure quest (6) | Exploration (4) Treasures Appraisal (6) Unlocking (4) | Reward: 136,000 / Advance payment: 10,000 Experience: 190 / Fame: 85 |

@@ -26,4 +26,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tone to interact](Quests/Adventure/quest_3256.md)** | Adventure quest (5) | Exploration (4) Treasures Appraisal (6) Portuguese | Reward: 109,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |
+| **[Tone to interact](docs/Quests/Adventure/3001-4000/quest_3256.md)** | Adventure quest (5) | Exploration (4) Treasures Appraisal (6) Portuguese | Reward: 109,000 / Advance payment: 10,000 Experience: 160 / Fame: 75 |

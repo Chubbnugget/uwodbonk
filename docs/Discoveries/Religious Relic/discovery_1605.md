@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Syracuse Church Underground Labyrinth (Upper Level)](Quests/Other/quest_2764.md)** | Dungeon (1) | - |  |
+| **[Syracuse Church Underground Labyrinth (Upper Level)](docs/Quests/Other/2001-3000/quest_2764.md)** | Dungeon (1) | - |  |

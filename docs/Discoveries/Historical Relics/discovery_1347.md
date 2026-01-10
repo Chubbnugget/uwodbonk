@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Requests needed for studying](Quests/Adventure/quest_2855.md)** | Adventure quest (3) | Exploration (2) Archeology (4) Unlocking (2) | Reward: 60,000 / Advance payment: 0Experience: 130 / Fame: 65 |
+| **[Requests needed for studying](docs/Quests/Adventure/2001-3000/quest_2855.md)** | Adventure quest (3) | Exploration (2) Archeology (4) Unlocking (2) | Reward: 60,000 / Advance payment: 0Experience: 130 / Fame: 65 |

@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 | :--- | :--- |
 | **Item Name** | Notes of a famous explorer |
 | **Type** | thing |
-| **Group** | [Equipment（服飾品）](Categories/category_28.md) |
+| **Group** | [Equipment（服飾品）](docs/Categories/category_28.md) |
 | **Sold by NPC** | [Tool shop owner] (npc_2.md) |
 | **Purchase Price** | 8,000 |
 | **Description** | Written by a legendary explorer. It will help you find food. Durability 25 Effect when used Procurement |

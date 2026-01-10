@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Tree that produces syrup](Quests/Adventure/quest_5582.md)** | Adventure quest (2) | Ecological research (2) Biology (4) North American languages | Reward: 229,000 / Advance payment: 20,000 Experience: 230 / Fame: 135 |
+| **[Tree that produces syrup](docs/Quests/Adventure/5001-6000/quest_5582.md)** | Adventure quest (2) | Ecological research (2) Biology (4) North American languages | Reward: 229,000 / Advance payment: 20,000 Experience: 230 / Fame: 135 |

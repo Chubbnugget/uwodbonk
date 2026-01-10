@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Flower named after bird](Quests/Adventure/quest_1954.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Mayan languages | Reward: 257,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |
+| **[Flower named after bird](docs/Quests/Adventure/1001-2000/quest_1954.md)** | Adventure quest (7) | Ecological research (7) Biology (9) Mayan languages | Reward: 257,000 / Advance payment: 20,000 Experience: 290 / Fame: 125 |

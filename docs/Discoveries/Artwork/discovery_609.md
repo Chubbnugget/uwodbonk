@@ -25,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[The real face of the villain](Quests/Adventure/quest_2829.md)** | Adventure quest (9) | Exploration (8) Art (10) Unlocking (8) | Reward: 192,000 / Advance payment: 10,000 Experience: 230 / Fame: 105 |
+| **[The real face of the villain](docs/Quests/Adventure/2001-3000/quest_2829.md)** | Adventure quest (9) | Exploration (8) Art (10) Unlocking (8) | Reward: 192,000 / Advance payment: 10,000 Experience: 230 / Fame: 105 |

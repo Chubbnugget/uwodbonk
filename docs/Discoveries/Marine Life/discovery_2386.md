@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Violent Eel](Quests/Adventure/quest_2964.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Portuguese | Reward: 296,000 / Advance payment: 20,000 Experience: 320 / Fame: 135 |
+| **[Violent Eel](docs/Quests/Adventure/2001-3000/quest_2964.md)** | Adventure quest (8) | Ecological Survey (9) Biology (11) Portuguese | Reward: 296,000 / Advance payment: 20,000 Experience: 320 / Fame: 135 |

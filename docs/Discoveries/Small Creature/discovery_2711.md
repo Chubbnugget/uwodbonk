@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Mysterious Viper](Quests/Adventure/quest_5299.md)** | Adventure quest (6) | Ecological research (7) Biology (9) West African languages | Reward: 179,000 / Advance payment: 10,000 Experience: 200 / Fame: 110 |
+| **[Mysterious Viper](docs/Quests/Adventure/5001-6000/quest_5299.md)** | Adventure quest (6) | Ecological research (7) Biology (9) West African languages | Reward: 179,000 / Advance payment: 10,000 Experience: 200 / Fame: 110 |

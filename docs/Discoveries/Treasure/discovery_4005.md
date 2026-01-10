@@ -24,4 +24,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Map of long wind instruments](Quests/Other/quest_6996.md)** | Treasures鑑定(9) | Exploration (9) Treasures Appraisal (9) Unlocking (9) |  |
+| **[Map of long wind instruments](docs/Quests/Other/6001-7000/quest_6996.md)** | Treasures鑑定(9) | Exploration (9) Treasures Appraisal (9) Unlocking (9) |  |
