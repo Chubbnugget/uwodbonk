@@ -3,7 +3,7 @@ id: 15
 name: Pisa
 type: Port
 ---
-# Port: ピサ
+# Port: Pisa
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ An old city that was developed during the ancient Roman era. Famous for the Lean
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [crossbow](docs/Items/TradeGoods/TradeGoods-Weapons/item_537.md) | [Trading Items (Arms)](docs/Categories/category_16.md) | 936 | (819) |  |
 | [dragonfly ball](docs/Items/TradeGoods/TradeGoods-Luxuries/item_294.md) | [Trading goods (artificial goods)](docs/Categories/category_13.md) | 1,113 | (974) |  |
@@ -60,7 +60,7 @@ An old city that was developed during the ancient Roman era. Famous for the Lean
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -165,7 +165,7 @@ An old city that was developed during the ancient Roman era. Famous for the Lean
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -347,7 +347,7 @@ An old city that was developed during the ancient Roman era. Famous for the Lean
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### galileo galilei
@@ -363,7 +363,7 @@ An old city that was developed during the ancient Roman era. Famous for the Lean
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -408,7 +408,7 @@ An old city that was developed during the ancient Roman era. Famous for the Lean
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -450,7 +450,7 @@ An old city that was developed during the ancient Roman era. Famous for the Lean
   </TabItem>
   <TabItem value="Painter" label="Painter">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (emblem)](docs/Categories/category_36.md)
@@ -466,7 +466,7 @@ An old city that was developed during the ancient Roman era. Famous for the Lean
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -491,7 +491,7 @@ An old city that was developed during the ancient Roman era. Famous for the Lean
   </TabItem>
   <TabItem value="salesperson" label="salesperson">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (cooking)](docs/Categories/category_32.md)
@@ -506,7 +506,7 @@ An old city that was developed during the ancient Roman era. Famous for the Lean
   </TabItem>
   <TabItem value="translator" label="translator">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (skill activation)](docs/Categories/category_31.md)
@@ -517,7 +517,7 @@ An old city that was developed during the ancient Roman era. Famous for the Lean
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -565,7 +565,7 @@ An old city that was developed during the ancient Roman era. Famous for the Lean
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -603,7 +603,7 @@ An old city that was developed during the ancient Roman era. Famous for the Lean
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)

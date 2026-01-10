@@ -1,9 +1,9 @@
 ---
 id: 69
-name: bergen
+name: Bergen
 type: Port
 ---
-# Port: ベルゲン
+# Port: Bergen
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | bergen |
+| **Port Name** | Bergen |
 | **Port Type** | port of alliance |
 | **Region** | northern europe |
 | **Sea Area** | norwegian sea |
@@ -40,7 +40,7 @@ A city in the southwestern part of the Scandinavian Peninsula. Although it is a 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [aquavit](docs/Items/TradeGoods/TradeGoods-Alcohol/item_572.md) | [交易品（酒類）](docs/Categories/category_9.md) | 575 | (504) |  |
 | [duck meat](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_32.md) | [Trading items (food items)](docs/Categories/category_3.md) | 306 | 268 |  |
@@ -58,7 +58,7 @@ A city in the southwestern part of the Scandinavian Peninsula. Although it is a 
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading items (food items)](docs/Categories/category_3.md)
@@ -136,7 +136,7 @@ A city in the southwestern part of the Scandinavian Peninsula. Although it is a 
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -217,7 +217,7 @@ A city in the southwestern part of the Scandinavian Peninsula. Although it is a 
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -227,7 +227,7 @@ A city in the southwestern part of the Scandinavian Peninsula. Although it is a 
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -277,7 +277,7 @@ A city in the southwestern part of the Scandinavian Peninsula. Although it is a 
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -307,7 +307,7 @@ A city in the southwestern part of the Scandinavian Peninsula. Although it is a 
   </TabItem>
   <TabItem value="sculptor" label="sculptor">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -340,7 +340,7 @@ A city in the southwestern part of the Scandinavian Peninsula. Although it is a 
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -370,7 +370,7 @@ A city in the southwestern part of the Scandinavian Peninsula. Although it is a 
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

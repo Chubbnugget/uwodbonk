@@ -1,9 +1,9 @@
 ---
 id: 122
-name: rio de janeiro
+name: Rio de janeiro
 type: Port
 ---
-# Port: リオデジャネイロ
+# Port: Rio de janeiro
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | rio de janeiro |
+| **Port Name** | Rio de janeiro |
 | **Port Type** | port of alliance |
 | **Region** | South America |
 | **Sea Area** | southwest atlantic |
@@ -40,7 +40,7 @@ It was discovered in the early 16th century by the explorer Gaspar de Lemos, who
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [Gerep](docs/Items/TradeGoods/TradeGoods-Dye/item_1814.md) | [Trading Goods (Dye)](docs/Categories/category_2.md) | 492 | (431) |  |
 | 要投資（必要投資額：320,000） |
@@ -55,7 +55,7 @@ It was discovered in the early 16th century by the explorer Gaspar de Lemos, who
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -158,7 +158,7 @@ It was discovered in the early 16th century by the explorer Gaspar de Lemos, who
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -271,14 +271,14 @@ It was discovered in the early 16th century by the explorer Gaspar de Lemos, who
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -307,7 +307,7 @@ It was discovered in the early 16th century by the explorer Gaspar de Lemos, who
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -329,7 +329,7 @@ It was discovered in the early 16th century by the explorer Gaspar de Lemos, who
   </TabItem>
   <TabItem value="salesperson" label="salesperson">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (cooking)](docs/Categories/category_32.md)
@@ -345,7 +345,7 @@ It was discovered in the early 16th century by the explorer Gaspar de Lemos, who
   </TabItem>
   <TabItem value="translator" label="translator">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (skill activation)](docs/Categories/category_31.md)
@@ -356,7 +356,7 @@ It was discovered in the early 16th century by the explorer Gaspar de Lemos, who
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -370,7 +370,7 @@ It was discovered in the early 16th century by the explorer Gaspar de Lemos, who
   </TabItem>
   <TabItem value="Tavern Master" label="Tavern Master">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [adjutant](docs/Categories/category_46.md)

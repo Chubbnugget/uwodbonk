@@ -3,7 +3,7 @@ id: 49
 name: Amsterdam
 type: Port
 ---
-# Port: アムステルダム
+# Port: Amsterdam
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [dutch calico](docs/Items/TradeGoods/TradeGoods-Fabrics/item_1435.md) | [交易品（織物）](docs/Categories/category_20.md) | 935 | 820 |  |
 | When in alliance: confirmed at 100% |
@@ -58,7 +58,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -491,7 +491,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
 | [Awaiyo](docs/Items/TradeGoods/TradeGoods-Fabrics/item_3002.md) | 交易品（織物） | (8,913) | 10,400 |  |
 | When in alliance: confirmed at 100% |
 | [indian chintz](docs/Items/TradeGoods/TradeGoods-Fabrics/item_159.md) | 交易品（織物） | 4,269 | 4,324 |  |
-| 同盟時 102% 4410 |
+| Allied Price 102% 4410 |
 | [gobelin weave](docs/Items/TradeGoods/TradeGoods-Fabrics/item_1276.md) | 交易品（織物） | (3,317) | 3,870 |  |
 | When in alliance: confirmed at 100% |
 | [java chintz](docs/Items/TradeGoods/TradeGoods-Fabrics/item_1970.md) | 交易品（織物） | (3,857) | 4,500 |  |
@@ -521,7 +521,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -969,7 +969,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### adventure guild
@@ -1029,7 +1029,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
   </TabItem>
   <TabItem value="Market Manager" label="Market Manager">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [shipbuilding materials](docs/Categories/category_47.md)
@@ -1039,7 +1039,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -1125,7 +1125,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -1192,7 +1192,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -1214,7 +1214,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
   </TabItem>
   <TabItem value="trading merchant" label="trading merchant">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -1231,7 +1231,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
   </TabItem>
   <TabItem value="salesperson" label="salesperson">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (cooking)](docs/Categories/category_32.md)
@@ -1246,7 +1246,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
   </TabItem>
   <TabItem value="translator" label="translator">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (skill activation)](docs/Categories/category_31.md)
@@ -1256,7 +1256,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
   </TabItem>
   <TabItem value="trainer" label="trainer">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -1268,7 +1268,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -1325,7 +1325,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -1348,7 +1348,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -1386,7 +1386,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -1396,7 +1396,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -1472,7 +1472,7 @@ Among the seven provinces of the Northern Netherlands, this city is particularly
   </TabItem>
   <TabItem value="Tavern Master" label="Tavern Master">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

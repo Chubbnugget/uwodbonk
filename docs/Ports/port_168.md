@@ -3,7 +3,7 @@ id: 168
 name: Nagasaki
 type: Port
 ---
-# Port: 長崎
+# Port: Nagasaki
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A town located in northwestern Kyushu. Because of its complicated coastline, it 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [buckwheat](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_3430.md) | [Trading items (food items)](docs/Categories/category_3.md) | [Edit Purchase Price](docs/Ports/port_168.md) |  |
 | [Rush](docs/Items/TradeGoods/TradeGoods-Fibers/item_3675.md) | [交易品（繊維）](docs/Categories/category_1.md) | [Edit Purchase Price](docs/Ports/port_168.md) |  |
@@ -66,19 +66,19 @@ A town located in northwestern Kyushu. Because of its complicated coastline, it 
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | Sales information for trade items with specialty judgment set is not registered. |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | There is no information on the sale of trade goods. |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### william adams
@@ -87,7 +87,7 @@ A town located in northwestern Kyushu. Because of its complicated coastline, it 
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -121,7 +121,7 @@ A town located in northwestern Kyushu. Because of its complicated coastline, it 
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -142,7 +142,7 @@ A town located in northwestern Kyushu. Because of its complicated coastline, it 
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -155,7 +155,7 @@ A town located in northwestern Kyushu. Because of its complicated coastline, it 
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (additional armor)](docs/Categories/category_35.md)
@@ -164,7 +164,7 @@ A town located in northwestern Kyushu. Because of its complicated coastline, it 
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (auxiliary sails)](docs/Categories/category_33.md)
@@ -173,7 +173,7 @@ A town located in northwestern Kyushu. Because of its complicated coastline, it 
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)

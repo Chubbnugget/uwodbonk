@@ -3,7 +3,7 @@ id: 140
 name: Davao
 type: Port
 ---
-# Port: ダバオ
+# Port: Davao
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A city located on the southern coast of Mindanao. Mindanao has a stable climate,
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [coconut](docs/Items/TradeGoods/TradeGoods-Sunddries/item_96.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | (292) | 256 |  |
 | [banana](docs/Items/TradeGoods/TradeGoods-Sunddries/item_1947.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | (150) | 132 |  |
@@ -55,7 +55,7 @@ A city located on the southern coast of Mindanao. Mindanao has a stable climate,
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -123,7 +123,7 @@ A city located on the southern coast of Mindanao. Mindanao has a stable climate,
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -182,14 +182,14 @@ A city located on the southern coast of Mindanao. Mindanao has a stable climate,
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)
@@ -225,7 +225,7 @@ A city located on the southern coast of Mindanao. Mindanao has a stable climate,
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -242,7 +242,7 @@ A city located on the southern coast of Mindanao. Mindanao has a stable climate,
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -260,7 +260,7 @@ A city located on the southern coast of Mindanao. Mindanao has a stable climate,
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)

@@ -1,9 +1,9 @@
 ---
 id: 112
-name: pernambuco
+name: Pernambuco
 type: Port
 ---
-# Port: ペルナンブコ
+# Port: Pernambuco
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | pernambuco |
+| **Port Name** | Pernambuco |
 | **Port Type** | 開拓地 |
 | **Region** | Caribbean/Central America |
 | **Sea Area** | Off Cape San Roque |
@@ -40,7 +40,7 @@ A port city located on the eastern coast of the South American continent. It dev
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [sugar cane](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_93.md) | [Trading items (food items)](docs/Categories/category_3.md) | 218 | 192 |  |
 | [sherry](docs/Items/TradeGoods/TradeGoods-Alcohol/item_844.md) | [交易品（酒類）](docs/Categories/category_9.md) | (1,162) | 1,017 |  |
@@ -59,7 +59,7 @@ A port city located on the eastern coast of the South American continent. It dev
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -140,7 +140,7 @@ A port city located on the eastern coast of the South American continent. It dev
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -234,7 +234,7 @@ A port city located on the eastern coast of the South American continent. It dev
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -248,7 +248,7 @@ A port city located on the eastern coast of the South American continent. It dev
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -283,7 +283,7 @@ A port city located on the eastern coast of the South American continent. It dev
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -310,7 +310,7 @@ A port city located on the eastern coast of the South American continent. It dev
   </TabItem>
   <TabItem value="Painter" label="Painter">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (emblem)](docs/Categories/category_36.md)
@@ -326,7 +326,7 @@ A port city located on the eastern coast of the South American continent. It dev
   </TabItem>
   <TabItem value="sculptor" label="sculptor">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -356,7 +356,7 @@ A port city located on the eastern coast of the South American continent. It dev
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -375,7 +375,7 @@ A port city located on the eastern coast of the South American continent. It dev
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -392,7 +392,7 @@ A port city located on the eastern coast of the South American continent. It dev
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -407,7 +407,7 @@ A port city located on the eastern coast of the South American continent. It dev
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -420,7 +420,7 @@ A port city located on the eastern coast of the South American continent. It dev
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -433,7 +433,7 @@ A port city located on the eastern coast of the South American continent. It dev
   </TabItem>
   <TabItem value="dock manager" label="dock manager">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -448,7 +448,7 @@ A port city located on the eastern coast of the South American continent. It dev
   </TabItem>
   <TabItem value="scholar" label="scholar">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

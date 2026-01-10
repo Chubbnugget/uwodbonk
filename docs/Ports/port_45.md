@@ -1,9 +1,9 @@
 ---
 id: 45
-name: goa
+name: Goa
 type: Port
 ---
-# Port: ゴア
+# Port: Goa
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | goa |
+| **Port Name** | Goa |
 | **Port Type** | port of alliance |
 | **Region** | Eastern Africa/India |
 | **Sea Area** | Off the west coast of India |
@@ -40,7 +40,7 @@ A city on the west coast of India. It thrives on trade, and its products include
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [indian chintz](docs/Items/TradeGoods/TradeGoods-Fabrics/item_159.md) | [交易品（織物）](docs/Categories/category_20.md) | 876 | (767) |  |
 | [jasmine](docs/Items/TradeGoods/TradeGoods-Perfume/item_772.md) | [Trading Goods (Spices)](docs/Categories/category_11.md) | 2,954 | (2,585) |  |
@@ -56,7 +56,7 @@ A city on the west coast of India. It thrives on trade, and its products include
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -136,7 +136,7 @@ A city on the west coast of India. It thrives on trade, and its products include
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -216,14 +216,14 @@ A city on the west coast of India. It thrives on trade, and its products include
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (head)](docs/Categories/category_23.md)
@@ -258,7 +258,7 @@ A city on the west coast of India. It thrives on trade, and its products include
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -273,7 +273,7 @@ A city on the west coast of India. It thrives on trade, and its products include
   </TabItem>
   <TabItem value="Painter" label="Painter">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (emblem)](docs/Categories/category_36.md)
@@ -289,7 +289,7 @@ A city on the west coast of India. It thrives on trade, and its products include
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -310,7 +310,7 @@ A city on the west coast of India. It thrives on trade, and its products include
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -337,7 +337,7 @@ A city on the west coast of India. It thrives on trade, and its products include
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (auxiliary sails)](docs/Categories/category_33.md)
@@ -368,7 +368,7 @@ A city on the west coast of India. It thrives on trade, and its products include
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -381,7 +381,7 @@ A city on the west coast of India. It thrives on trade, and its products include
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)

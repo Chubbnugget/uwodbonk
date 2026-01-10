@@ -3,7 +3,7 @@ id: 109
 name: Joffar
 type: Port
 ---
-# Port: ジョファール
+# Port: Joffar
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A port town located on the coast of the Arabian Sea. There is a lot of rain duri
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [cow](docs/Items/TradeGoods/TradeGoods-Livestock/item_17.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | 319 | (280) |  |
 | [pistachio](docs/Items/TradeGoods/TradeGoods-Sunddries/item_2353.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | 392 | (343) |  |
@@ -55,7 +55,7 @@ A port town located on the coast of the Arabian Sea. There is a lot of rain duri
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Dye)](docs/Categories/category_2.md)
@@ -127,7 +127,7 @@ A port town located on the coast of the Arabian Sea. There is a lot of rain duri
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading items (food items)](docs/Categories/category_3.md)
@@ -210,14 +210,14 @@ A port town located on the coast of the Arabian Sea. There is a lot of rain duri
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)

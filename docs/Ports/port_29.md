@@ -3,7 +3,7 @@ id: 29
 name: Ragusa
 type: Port
 ---
-# Port: ラグーザ
+# Port: Ragusa
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A city on the eastern coast of the Italian peninsula. Ever since the ancient Rom
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [duck meat](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_32.md) | [Trading items (food items)](docs/Categories/category_3.md) | 306 | 268 |  |
 | When in alliance: confirmed at 100% |
@@ -63,7 +63,7 @@ A city on the eastern coast of the Italian peninsula. Ever since the ancient Rom
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -465,7 +465,7 @@ A city on the eastern coast of the Italian peninsula. Ever since the ancient Rom
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -811,7 +811,7 @@ A city on the eastern coast of the Italian peninsula. Ever since the ancient Rom
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### veronica franco
@@ -821,7 +821,7 @@ A city on the eastern coast of the Italian peninsula. Ever since the ancient Rom
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -864,7 +864,7 @@ A city on the eastern coast of the Italian peninsula. Ever since the ancient Rom
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -888,7 +888,7 @@ A city on the eastern coast of the Italian peninsula. Ever since the ancient Rom
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -941,7 +941,7 @@ A city on the eastern coast of the Italian peninsula. Ever since the ancient Rom
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -963,7 +963,7 @@ A city on the eastern coast of the Italian peninsula. Ever since the ancient Rom
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -1000,7 +1000,7 @@ A city on the eastern coast of the Italian peninsula. Ever since the ancient Rom
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

@@ -3,7 +3,7 @@ id: 94
 name: Odessa
 type: Port
 ---
-# Port: オデッサ
+# Port: Odessa
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A port city facing the Black Sea. It is a trading port where various goods are c
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [anise](docs/Items/TradeGoods/TradeGoods-Medicine/item_1050.md) | [Trading products (medical products)](docs/Categories/category_6.md) | (214) | 188 |  |
 | Investment required (Required investment amount: 320,000) At alliance: Confirmed at 100% |
@@ -55,7 +55,7 @@ A port city facing the Black Sea. It is a trading port where various goods are c
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -163,7 +163,7 @@ A port city facing the Black Sea. It is a trading port where various goods are c
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Dye)](docs/Categories/category_2.md)
@@ -271,14 +271,14 @@ A port city facing the Black Sea. It is a trading port where various goods are c
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
@@ -300,7 +300,7 @@ A port city facing the Black Sea. It is a trading port where various goods are c
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -333,7 +333,7 @@ A port city facing the Black Sea. It is a trading port where various goods are c
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

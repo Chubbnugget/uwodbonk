@@ -1,9 +1,9 @@
 ---
 id: 38
-name: zanzibar
+name: Zanzibar
 type: Port
 ---
-# Port: ザンジバル
+# Port: Zanzibar
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | zanzibar |
+| **Port Name** | Zanzibar |
 | **Port Type** | port of alliance |
 | **Region** | Eastern Africa/India |
 | **Sea Area** | Off the coast of Zanzibar |
@@ -40,7 +40,7 @@ A town on an island in East Africa. It flourished as a trading point between Afr
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [emerald](docs/Items/TradeGoods/TradeGoods-Gems/item_777.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | 3,450 | (3,019) |  |
 | [coffee](docs/Items/TradeGoods/TradeGoods-Sunddries/item_445.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | 429 | (376) |  |
@@ -56,7 +56,7 @@ A town on an island in East Africa. It flourished as a trading point between Afr
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -151,7 +151,7 @@ A town on an island in East Africa. It flourished as a trading point between Afr
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -258,7 +258,7 @@ A town on an island in East Africa. It flourished as a trading point between Afr
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### Genro Majid
@@ -268,7 +268,7 @@ A town on an island in East Africa. It flourished as a trading point between Afr
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (head)](docs/Categories/category_23.md)
@@ -311,7 +311,7 @@ A town on an island in East Africa. It flourished as a trading point between Afr
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -325,7 +325,7 @@ A town on an island in East Africa. It flourished as a trading point between Afr
   </TabItem>
   <TabItem value="Painter" label="Painter">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (emblem)](docs/Categories/category_36.md)
@@ -341,7 +341,7 @@ A town on an island in East Africa. It flourished as a trading point between Afr
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -362,7 +362,7 @@ A town on an island in East Africa. It flourished as a trading point between Afr
   </TabItem>
   <TabItem value="salesperson" label="salesperson">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (cooking)](docs/Categories/category_32.md)
@@ -377,7 +377,7 @@ A town on an island in East Africa. It flourished as a trading point between Afr
   </TabItem>
   <TabItem value="translator" label="translator">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (skill activation)](docs/Categories/category_31.md)
@@ -388,7 +388,7 @@ A town on an island in East Africa. It flourished as a trading point between Afr
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -413,7 +413,7 @@ A town on an island in East Africa. It flourished as a trading point between Afr
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -426,7 +426,7 @@ A town on an island in East Africa. It flourished as a trading point between Afr
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)

@@ -3,7 +3,7 @@ id: 179
 name: Sakai
 type: Port
 ---
-# Port: 堺
+# Port: Sakai
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A port town facing Osaka Bay and thriving with trade. It is a land of free spiri
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [buckwheat](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_3430.md) | [Trading items (food items)](docs/Categories/category_3.md) | [Edit Purchase Price](docs/Ports/port_179.md) |  |
 | [boar](docs/Items/TradeGoods/TradeGoods-Livestock/item_3476.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | [Edit Purchase Price](docs/Ports/port_179.md) |  |
@@ -67,26 +67,26 @@ A port town facing Osaka Bay and thriving with trade. It is a land of free spiri
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | Sales information for trade items with specialty judgment set is not registered. |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | There is no information on the sale of trade goods. |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -128,7 +128,7 @@ A port town facing Osaka Bay and thriving with trade. It is a land of free spiri
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -147,7 +147,7 @@ A port town facing Osaka Bay and thriving with trade. It is a land of free spiri
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -166,7 +166,7 @@ A port town facing Osaka Bay and thriving with trade. It is a land of free spiri
   </TabItem>
   <TabItem value="salesperson" label="salesperson">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (cooking)](docs/Categories/category_32.md)
@@ -181,7 +181,7 @@ A port town facing Osaka Bay and thriving with trade. It is a land of free spiri
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -198,7 +198,7 @@ A port town facing Osaka Bay and thriving with trade. It is a land of free spiri
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (additional armor)](docs/Categories/category_35.md)
@@ -207,7 +207,7 @@ A port town facing Osaka Bay and thriving with trade. It is a land of free spiri
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (auxiliary sails)](docs/Categories/category_33.md)
@@ -216,7 +216,7 @@ A port town facing Osaka Bay and thriving with trade. It is a land of free spiri
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -230,7 +230,7 @@ A port town facing Osaka Bay and thriving with trade. It is a land of free spiri
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)
@@ -246,7 +246,7 @@ A port town facing Osaka Bay and thriving with trade. It is a land of free spiri
   </TabItem>
   <TabItem value="Tavern Master" label="Tavern Master">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [adjutant](docs/Categories/category_46.md)

@@ -1,9 +1,9 @@
 ---
 id: 5
-name: malaga
+name: Malaga
 type: Port
 ---
-# Port: マラガ
+# Port: Malaga
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | malaga |
+| **Port Name** | Malaga |
 | **Port Type** | 領地 |
 | **Region** | western europe |
 | **Sea Area** | Strait of Gibraltar |
@@ -40,7 +40,7 @@ The city was founded by the Phoenicians and has continued to develop as the ruli
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [almond](docs/Items/TradeGoods/TradeGoods-Sunddries/item_367.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | 138 | 124 |  |
 | [cow](docs/Items/TradeGoods/TradeGoods-Livestock/item_17.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | 310 | 280 |  |
@@ -58,7 +58,7 @@ The city was founded by the Phoenicians and has continued to develop as the ruli
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -184,7 +184,7 @@ The city was founded by the Phoenicians and has continued to develop as the ruli
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -343,14 +343,14 @@ The city was founded by the Phoenicians and has continued to develop as the ruli
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -382,7 +382,7 @@ The city was founded by the Phoenicians and has continued to develop as the ruli
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -412,7 +412,7 @@ The city was founded by the Phoenicians and has continued to develop as the ruli
   </TabItem>
   <TabItem value="sculptor" label="sculptor">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (figurehead)](docs/Categories/category_34.md)

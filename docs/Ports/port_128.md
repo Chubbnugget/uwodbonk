@@ -3,7 +3,7 @@ id: 128
 name: Malacca
 type: Port
 ---
-# Port: マラッカ
+# Port: Malacca
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ The capital of the Kingdom of Malacca, a country of Malays whose official religi
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [coriander](docs/Items/TradeGoods/TradeGoods-Spices/item_1044.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | 310 | (272) |  |
 | [tin ore](docs/Items/TradeGoods/TradeGoods-Minerals/item_23.md) | [Trading Items (Iron Stone)](docs/Categories/category_7.md) | 483 | (423) |  |
@@ -52,7 +52,7 @@ The capital of the Kingdom of Malacca, a country of Malays whose official religi
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading goods (hobby goods)](docs/Categories/category_10.md)
@@ -74,7 +74,7 @@ The capital of the Kingdom of Malacca, a country of Malays whose official religi
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -154,14 +154,14 @@ The capital of the Kingdom of Malacca, a country of Malays whose official religi
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)
@@ -193,7 +193,7 @@ The capital of the Kingdom of Malacca, a country of Malays whose official religi
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -210,7 +210,7 @@ The capital of the Kingdom of Malacca, a country of Malays whose official religi
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -228,7 +228,7 @@ The capital of the Kingdom of Malacca, a country of Malays whose official religi
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (auxiliary sails)](docs/Categories/category_33.md)

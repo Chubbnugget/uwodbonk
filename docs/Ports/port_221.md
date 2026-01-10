@@ -1,9 +1,9 @@
 ---
 id: 221
-name: gothenburg
+name: Gothenburg
 type: Port
 ---
-# Port: ヨーテボリ
+# Port: Gothenburg
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | gothenburg |
+| **Port Name** | Gothenburg |
 | **Port Type** | port of alliance |
 | **Region** | northern europe |
 | **Sea Area** | Off the coast of Jutland |
@@ -40,7 +40,7 @@ A city at the mouth of the Göta River on the Scandinavian Peninsula. It is thri
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [nettle](docs/Items/TradeGoods/TradeGoods-Medicine/item_6189.md) | [Trading products (medical products)](docs/Categories/category_6.md) | (443) | 388 |  |
 | [Oat](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_275.md) | [Trading items (food items)](docs/Categories/category_3.md) | 33 | 32 |  |
@@ -58,7 +58,7 @@ A city at the mouth of the Göta River on the Scandinavian Peninsula. It is thri
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Spices)](docs/Categories/category_12.md)
@@ -81,7 +81,7 @@ A city at the mouth of the Göta River on the Scandinavian Peninsula. It is thri
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -153,7 +153,7 @@ A city at the mouth of the Göta River on the Scandinavian Peninsula. It is thri
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -163,7 +163,7 @@ A city at the mouth of the Göta River on the Scandinavian Peninsula. It is thri
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -200,7 +200,7 @@ A city at the mouth of the Göta River on the Scandinavian Peninsula. It is thri
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -221,7 +221,7 @@ A city at the mouth of the Göta River on the Scandinavian Peninsula. It is thri
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -254,7 +254,7 @@ A city at the mouth of the Göta River on the Scandinavian Peninsula. It is thri
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (additional armor)](docs/Categories/category_35.md)
@@ -269,7 +269,7 @@ A city at the mouth of the Göta River on the Scandinavian Peninsula. It is thri
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

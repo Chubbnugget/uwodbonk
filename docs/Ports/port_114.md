@@ -1,9 +1,9 @@
 ---
 id: 114
-name: grand cayman
+name: Grand cayman
 type: Port
 ---
-# Port: グランドケイマン
+# Port: Grand cayman
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | grand cayman |
+| **Port Name** | Grand cayman |
 | **Port Type** | 開拓地 |
 | **Region** | Caribbean/Central America |
 | **Sea Area** | western caribbean |
@@ -40,7 +40,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [cow](docs/Items/TradeGoods/TradeGoods-Livestock/item_17.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | (320) | 280 |  |
 | [coffee](docs/Items/TradeGoods/TradeGoods-Sunddries/item_445.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | (429) | 376 |  |
@@ -57,7 +57,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Dye)](docs/Categories/category_2.md)
@@ -75,7 +75,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading items (food items)](docs/Categories/category_3.md)
@@ -122,7 +122,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -134,7 +134,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -170,7 +170,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -197,7 +197,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
   </TabItem>
   <TabItem value="Painter" label="Painter">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (emblem)](docs/Categories/category_36.md)
@@ -214,7 +214,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
   </TabItem>
   <TabItem value="sculptor" label="sculptor">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -243,7 +243,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -277,7 +277,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -290,7 +290,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -305,7 +305,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -318,7 +318,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -331,7 +331,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
   </TabItem>
   <TabItem value="dock manager" label="dock manager">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -348,7 +348,7 @@ A city located in the western West Indies, on the largest island of the Cayman I
   </TabItem>
   <TabItem value="scholar" label="scholar">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

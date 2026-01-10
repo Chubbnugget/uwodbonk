@@ -1,9 +1,9 @@
 ---
 id: 133
-name: bun gel machine
+name: Bun gel machine
 type: Port
 ---
-# Port: バンジェルマシン
+# Port: Bun gel machine
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | bun gel machine |
+| **Port Name** | Bun gel machine |
 | **Port Type** | port of alliance |
 | **Region** | Southeast Asia |
 | **Sea Area** | java sea |
@@ -40,7 +40,7 @@ A port on the south coast of Kalimantan Island. In the 14th century, it was rule
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [Cassava](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_1805.md) | [Trading items (food items)](docs/Categories/category_3.md) | 69 | (61) |  |
 | [sweet potato](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_1931.md) | [Trading items (food items)](docs/Categories/category_3.md) | 86 | (76) |  |
@@ -53,7 +53,7 @@ A port on the south coast of Kalimantan Island. In the 14th century, it was rule
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading goods (hobby goods)](docs/Categories/category_10.md)
@@ -80,7 +80,7 @@ A port on the south coast of Kalimantan Island. In the 14th century, it was rule
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -153,14 +153,14 @@ A port on the south coast of Kalimantan Island. In the 14th century, it was rule
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)

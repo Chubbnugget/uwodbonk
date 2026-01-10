@@ -3,7 +3,7 @@ id: 67
 name: Cairo
 type: Port
 ---
-# Port: カイロ
+# Port: Cairo
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ Originally a fortress of the Byzantine Empire, the city was established by Islam
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [fava beans](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_102.md) | [Trading items (food items)](docs/Categories/category_3.md) | 58 | 52 |  |
 | When in alliance: confirmed at 100% |
@@ -61,7 +61,7 @@ Originally a fortress of the Byzantine Empire, the city was established by Islam
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -430,7 +430,7 @@ Originally a fortress of the Byzantine Empire, the city was established by Islam
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -763,7 +763,7 @@ Originally a fortress of the Byzantine Empire, the city was established by Islam
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### khan sauf
@@ -773,7 +773,7 @@ Originally a fortress of the Byzantine Empire, the city was established by Islam
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -815,7 +815,7 @@ Originally a fortress of the Byzantine Empire, the city was established by Islam
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -830,7 +830,7 @@ Originally a fortress of the Byzantine Empire, the city was established by Islam
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -854,7 +854,7 @@ Originally a fortress of the Byzantine Empire, the city was established by Islam
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -897,7 +897,7 @@ Originally a fortress of the Byzantine Empire, the city was established by Islam
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (additional armor)](docs/Categories/category_35.md)
@@ -910,7 +910,7 @@ Originally a fortress of the Byzantine Empire, the city was established by Islam
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)

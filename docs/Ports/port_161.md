@@ -3,7 +3,7 @@ id: 161
 name: Lambayeque
 type: Port
 ---
-# Port: ランバイェケ
+# Port: Lambayeque
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A cultural center that flourished before the Inca Empire flourished. It is bless
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [alpaca](docs/Items/TradeGoods/TradeGoods-Livestock/item_2995.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | (681) | 596 |  |
 | [Awaiyo](docs/Items/TradeGoods/TradeGoods-Fabrics/item_3002.md) | [交易品（織物）](docs/Categories/category_20.md) | (1,771) | 1,550 |  |
@@ -53,7 +53,7 @@ A cultural center that flourished before the Inca Empire flourished. It is bless
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading products (medical products)](docs/Categories/category_6.md)
@@ -102,7 +102,7 @@ A cultural center that flourished before the Inca Empire flourished. It is bless
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -176,14 +176,14 @@ A cultural center that flourished before the Inca Empire flourished. It is bless
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)

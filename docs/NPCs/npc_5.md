@@ -1,41 +1,18 @@
 ---
 id: 5
-name: maritime guild
+name: Maritime Guild Master
 type: NPC
 ---
-# NPC: 海事ギルド
+# NPC: Maritime Guild Master
 
 ## NPC: General Information
 
 | Attribute | Details |
 | :--- | :--- |
-| **Name** | maritime guild |
+| **Name** | Maritime Guild Master |
 | **Notes** | Introducing maritime quests.
  Also, the guild master handles skills. |
 | **Last Updated** | 2005-04-15 02:00:34 System |
-
-## NPC: Name
-
-| Attribute | Details |
-| :--- | :--- |
-| **Name** | maritime guild |
-| **Notes** | Introducing maritime quests.
- Also, the guild master handles skills. |
-| **Last Updated** | 2005-04-15 02:00:34 System |
-
-## NPC: Name
-
-## NPC: City
-
-## NPC: Discovery Preferences
-
-## NPC: Location
-
-## NPC: Notes
-
-## NPC: Last Updated
-
-## NPC: Items / Inventory
 
 | Item Name | Group | Purchase Price | Notes |
 | --- | --- | --- | --- |

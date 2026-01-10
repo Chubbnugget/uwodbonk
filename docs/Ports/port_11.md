@@ -1,9 +1,9 @@
 ---
 id: 11
-name: genoa
+name: Genoa
 type: Port
 ---
-# Port: ジェノヴァ
+# Port: Genoa
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | genoa |
+| **Port Name** | Genoa |
 | **Port Type** | Headquarters |
 | **Region** | western europe |
 | **Sea Area** | ligurian sea |
@@ -40,7 +40,7 @@ The city was founded in the ancient Roman era and flourished during the Crusades
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [knit](docs/Items/TradeGoods/TradeGoods-Fabrics/item_164.md) | [交易品（織物）](docs/Categories/category_20.md) | 483 | 456 |  |
 | [velvet](docs/Items/TradeGoods/TradeGoods-Fabrics/item_902.md) | [交易品（織物）](docs/Categories/category_20.md) | 3,082 | 2,900 |  |
@@ -62,7 +62,7 @@ The city was founded in the ancient Roman era and flourished during the Crusades
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -388,7 +388,7 @@ The city was founded in the ancient Roman era and flourished during the Crusades
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -667,7 +667,7 @@ The city was founded in the ancient Roman era and flourished during the Crusades
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### adventure guild
@@ -697,7 +697,7 @@ The city was founded in the ancient Roman era and flourished during the Crusades
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -752,7 +752,7 @@ The city was founded in the ancient Roman era and flourished during the Crusades
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -802,7 +802,7 @@ The city was founded in the ancient Roman era and flourished during the Crusades
   </TabItem>
   <TabItem value="sculptor" label="sculptor">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (figurehead)](docs/Categories/category_34.md)
@@ -827,7 +827,7 @@ The city was founded in the ancient Roman era and flourished during the Crusades
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -852,7 +852,7 @@ The city was founded in the ancient Roman era and flourished during the Crusades
   </TabItem>
   <TabItem value="salesperson" label="salesperson">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (cooking)](docs/Categories/category_32.md)
@@ -867,7 +867,7 @@ The city was founded in the ancient Roman era and flourished during the Crusades
   </TabItem>
   <TabItem value="translator" label="translator">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (skill activation)](docs/Categories/category_31.md)
@@ -878,7 +878,7 @@ The city was founded in the ancient Roman era and flourished during the Crusades
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -929,7 +929,7 @@ The city was founded in the ancient Roman era and flourished during the Crusades
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -942,7 +942,7 @@ The city was founded in the ancient Roman era and flourished during the Crusades
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)
@@ -1036,7 +1036,7 @@ The city was founded in the ancient Roman era and flourished during the Crusades
   </TabItem>
   <TabItem value="Tavern Master" label="Tavern Master">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [adjutant](docs/Categories/category_46.md)

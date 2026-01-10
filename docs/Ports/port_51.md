@@ -1,9 +1,9 @@
 ---
 id: 51
-name: edinburgh
+name: Edinburgh
 type: Port
 ---
-# Port: エディンバラ
+# Port: Edinburgh
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | edinburgh |
+| **Port Name** | Edinburgh |
 | **Port Type** | 領地 |
 | **Region** | northern europe |
 | **Sea Area** | northern britain |
@@ -40,7 +40,7 @@ The center of Scotland, located in the northeast of Britain. The castle was buil
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [whiskey](docs/Items/TradeGoods/TradeGoods-Alcohol/item_1.md) | [交易品（酒類）](docs/Categories/category_9.md) | 630 | 552 |  |
 | [cow](docs/Items/TradeGoods/TradeGoods-Livestock/item_17.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | 319 | 280 |  |
@@ -55,7 +55,7 @@ The center of Scotland, located in the northeast of Britain. The castle was buil
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（調味料）](docs/Categories/category_4.md)
@@ -130,7 +130,7 @@ The center of Scotland, located in the northeast of Britain. The castle was buil
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -233,7 +233,7 @@ The center of Scotland, located in the northeast of Britain. The castle was buil
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -242,7 +242,7 @@ The center of Scotland, located in the northeast of Britain. The castle was buil
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -265,7 +265,7 @@ The center of Scotland, located in the northeast of Britain. The castle was buil
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -285,7 +285,7 @@ The center of Scotland, located in the northeast of Britain. The castle was buil
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

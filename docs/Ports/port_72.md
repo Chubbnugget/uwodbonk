@@ -1,9 +1,9 @@
 ---
 id: 72
-name: trieste
+name: Trieste
 type: Port
 ---
-# Port: トリエステ
+# Port: Trieste
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | trieste |
+| **Port Name** | Trieste |
 | **Port Type** | 領地 |
 | **Region** | eastern europe |
 | **Sea Area** | adriatic sea |
@@ -40,7 +40,7 @@ A city near Venice. Located at the far end of the Adriatic Sea, it has prospered
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [arquebus gun](docs/Items/TradeGoods/TradeGoods-Firearms/item_14.md) | [Trading Items (Firearms)](docs/Categories/category_17.md) | 1,673 | (1,464) |  |
 | Period-limited (1st period of 16th century, 2nd period of 16th century, 3rd period of 16th century) During alliance: Confirmed at 100% |
@@ -59,7 +59,7 @@ A city near Venice. Located at the far end of the Adriatic Sea, it has prospered
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -439,7 +439,7 @@ A city near Venice. Located at the far end of the Adriatic Sea, it has prospered
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -737,14 +737,14 @@ A city near Venice. Located at the far end of the Adriatic Sea, it has prospered
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -763,7 +763,7 @@ A city near Venice. Located at the far end of the Adriatic Sea, it has prospered
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

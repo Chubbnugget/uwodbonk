@@ -3,7 +3,7 @@ id: 147
 name: Holo
 type: Port
 ---
-# Port: ホロ
+# Port: Holo
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,14 +40,14 @@ In the mid-15th century, an Islamic kingdom called the Kingdom of Sulu was estab
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [log](docs/Items/TradeGoods/TradeGoods-Wares/item_846.md) | [交易品（工業品）](docs/Categories/category_19.md) | 164 | (144) |  |
 | [魚肉](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_10.md) | [Trading items (food items)](docs/Categories/category_3.md) | 146 | 128 |  |
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading goods (artificial goods)](docs/Categories/category_13.md)
@@ -64,7 +64,7 @@ In the mid-15th century, an Islamic kingdom called the Kingdom of Sulu was estab
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Spices)](docs/Categories/category_12.md)
@@ -79,7 +79,7 @@ In the mid-15th century, an Islamic kingdom called the Kingdom of Sulu was estab
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -89,7 +89,7 @@ In the mid-15th century, an Islamic kingdom called the Kingdom of Sulu was estab
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (belongings)](docs/Categories/category_27.md)
@@ -101,7 +101,7 @@ In the mid-15th century, an Islamic kingdom called the Kingdom of Sulu was estab
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -122,7 +122,7 @@ In the mid-15th century, an Islamic kingdom called the Kingdom of Sulu was estab
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)

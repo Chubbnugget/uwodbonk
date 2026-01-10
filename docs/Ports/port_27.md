@@ -3,7 +3,7 @@ id: 27
 name: Gijon
 type: Port
 ---
-# Port: ヒホン
+# Port: Gijon
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ It is a small city on the south coast of the Bay of Biscay, west of Bordeaux. It
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [duck](docs/Items/TradeGoods/TradeGoods-Livestock/item_38.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | 59 | 56 |  |
 | [pig](docs/Items/TradeGoods/TradeGoods-Livestock/item_37.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | 59 | 56 |  |
@@ -50,7 +50,7 @@ It is a small city on the south coast of the Bay of Biscay, west of Bordeaux. It
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -193,7 +193,7 @@ It is a small city on the south coast of the Bay of Biscay, west of Bordeaux. It
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -344,7 +344,7 @@ It is a small city on the south coast of the Bay of Biscay, west of Bordeaux. It
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -353,7 +353,7 @@ It is a small city on the south coast of the Bay of Biscay, west of Bordeaux. It
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

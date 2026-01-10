@@ -1,9 +1,9 @@
 ---
 id: 99
-name: bengela
+name: Bengela
 type: Port
 ---
-# Port: ベンゲラ
+# Port: Bengela
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | bengela |
+| **Port Name** | Bengela |
 | **Port Type** | port of alliance |
 | **Region** | southern africa |
 | **Sea Area** | Off the coast of Namibia |
@@ -40,7 +40,7 @@ A city located in southwest Africa, facing the Atlantic Ocean. The surrounding l
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [wax](docs/Items/TradeGoods/TradeGoods-Wares/item_54.md) | [交易品（工業品）](docs/Categories/category_19.md) | 719 | 764 |  |
 | [silver](docs/Items/TradeGoods/TradeGoods-Metals/item_136.md) | [Trading products (precious metals)](docs/Categories/category_8.md) | 2,713 | 2,510 |  |
@@ -50,7 +50,7 @@ A city located in southwest Africa, facing the Atlantic Ocean. The surrounding l
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Dye)](docs/Categories/category_2.md)
@@ -126,7 +126,7 @@ A city located in southwest Africa, facing the Atlantic Ocean. The surrounding l
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading items (food items)](docs/Categories/category_3.md)
@@ -190,14 +190,14 @@ A city located in southwest Africa, facing the Atlantic Ocean. The surrounding l
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)

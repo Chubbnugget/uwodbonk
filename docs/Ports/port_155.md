@@ -3,7 +3,7 @@ id: 155
 name: Valparaiso
 type: Port
 ---
-# Port: バルパライソ
+# Port: Valparaiso
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A port town that prospered as a anchorage for ships passing through the Straits 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [Yerba mate tea](docs/Items/TradeGoods/TradeGoods-Sunddries/item_1808.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | 265 | (232) |  |
 | [coconut fiber](docs/Items/TradeGoods/TradeGoods-Fibers/item_444.md) | [交易品（繊維）](docs/Categories/category_1.md) | 146 | (128) |  |
@@ -52,7 +52,7 @@ A port town that prospered as a anchorage for ships passing through the Straits 
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading goods (hobby goods)](docs/Categories/category_10.md)
@@ -70,7 +70,7 @@ A port town that prospered as a anchorage for ships passing through the Straits 
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -131,14 +131,14 @@ A port town that prospered as a anchorage for ships passing through the Straits 
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)

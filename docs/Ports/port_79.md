@@ -1,9 +1,9 @@
 ---
 id: 79
-name: candia
+name: Candia
 type: Port
 ---
-# Port: カンディア
+# Port: Candia
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | candia |
+| **Port Name** | Candia |
 | **Port Type** | port of alliance |
 | **Region** | eastern europe |
 | **Sea Area** | eastern mediterranean |
@@ -40,7 +40,7 @@ A town on the island of Crete. Because the latitude is quite low, the temperatur
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [olive](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_47.md) | [Trading items (food items)](docs/Categories/category_3.md) | 256 | 224 |  |
 | When in alliance: confirmed at 100% |
@@ -63,7 +63,7 @@ A town on the island of Crete. Because the latitude is quite low, the temperatur
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -460,7 +460,7 @@ A town on the island of Crete. Because the latitude is quite low, the temperatur
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -831,7 +831,7 @@ A town on the island of Crete. Because the latitude is quite low, the temperatur
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### murshid
@@ -845,7 +845,7 @@ A town on the island of Crete. Because the latitude is quite low, the temperatur
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -908,7 +908,7 @@ A town on the island of Crete. Because the latitude is quite low, the temperatur
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -944,7 +944,7 @@ A town on the island of Crete. Because the latitude is quite low, the temperatur
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -968,7 +968,7 @@ A town on the island of Crete. Because the latitude is quite low, the temperatur
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -1009,7 +1009,7 @@ A town on the island of Crete. Because the latitude is quite low, the temperatur
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (additional armor)](docs/Categories/category_35.md)
@@ -1026,7 +1026,7 @@ A town on the island of Crete. Because the latitude is quite low, the temperatur
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

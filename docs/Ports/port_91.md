@@ -1,9 +1,9 @@
 ---
 id: 91
-name: pondicherry
+name: Pondicherry
 type: Port
 ---
-# Port: ポンディシェリ
+# Port: Pondicherry
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | pondicherry |
+| **Port Name** | Pondicherry |
 | **Port Type** | port of alliance |
 | **Region** | Eastern Africa/India |
 | **Sea Area** | bay of bengal |
@@ -40,7 +40,7 @@ A city located on the eastern coast of India. It is a major transit point to Sou
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [Indian indigo](docs/Items/TradeGoods/TradeGoods-Dye/item_157.md) | [Trading Goods (Dye)](docs/Categories/category_2.md) | 360 | 336 |  |
 | [cat's eye](docs/Items/TradeGoods/TradeGoods-Gems/item_1047.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | 2,742 | 2,565 |  |
@@ -54,7 +54,7 @@ A city located on the eastern coast of India. It is a major transit point to Sou
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Dye)](docs/Categories/category_2.md)
@@ -119,7 +119,7 @@ A city located on the eastern coast of India. It is a major transit point to Sou
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -213,14 +213,14 @@ A city located on the eastern coast of India. It is a major transit point to Sou
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (belongings)](docs/Categories/category_27.md)
@@ -240,7 +240,7 @@ A city located on the eastern coast of India. It is a major transit point to Sou
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -257,7 +257,7 @@ A city located on the eastern coast of India. It is a major transit point to Sou
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

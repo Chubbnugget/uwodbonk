@@ -3,7 +3,7 @@ id: 132
 name: Surabaya
 type: Port
 ---
-# Port: スラバヤ
+# Port: Surabaya
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A city located on the northeast coast of Java. It was under the rule of the Maja
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [java chintz](docs/Items/TradeGoods/TradeGoods-Fabrics/item_1970.md) | [交易品（織物）](docs/Categories/category_20.md) | 657 | 576 |  |
 | [taro](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_1960.md) | [Trading items (food items)](docs/Categories/category_3.md) | 77 | 68 |  |
@@ -53,7 +53,7 @@ A city located on the northeast coast of Java. It was under the rule of the Maja
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -121,7 +121,7 @@ A city located on the northeast coast of Java. It was under the rule of the Maja
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -193,14 +193,14 @@ A city located on the northeast coast of Java. It was under the rule of the Maja
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)
@@ -227,7 +227,7 @@ A city located on the northeast coast of Java. It was under the rule of the Maja
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -244,7 +244,7 @@ A city located on the northeast coast of Java. It was under the rule of the Maja
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -262,7 +262,7 @@ A city located on the northeast coast of Java. It was under the rule of the Maja
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)

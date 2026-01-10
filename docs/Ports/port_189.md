@@ -3,7 +3,7 @@ id: 189
 name: Kokkola
 type: Port
 ---
-# Port: コッコラ
+# Port: Kokkola
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A Finnish city located in the center of the Gulf of Bothnia. It was built by Gus
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [Oat](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_275.md) | [Trading items (food items)](docs/Categories/category_3.md) | 28 | (25) |  |
 | [rye](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_61.md) | [Trading items (food items)](docs/Categories/category_3.md) | 28 | (25) |  |
@@ -57,7 +57,7 @@ A Finnish city located in the center of the Gulf of Bothnia. It was built by Gus
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（美術品）](docs/Categories/category_14.md)
@@ -66,7 +66,7 @@ A Finnish city located in the center of the Gulf of Bothnia. It was built by Gus
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading items (food items)](docs/Categories/category_3.md)
@@ -105,14 +105,14 @@ A Finnish city located in the center of the Gulf of Bothnia. It was built by Gus
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -141,7 +141,7 @@ A Finnish city located in the center of the Gulf of Bothnia. It was built by Gus
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -174,7 +174,7 @@ A Finnish city located in the center of the Gulf of Bothnia. It was built by Gus
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (additional armor)](docs/Categories/category_35.md)
@@ -189,7 +189,7 @@ A Finnish city located in the center of the Gulf of Bothnia. It was built by Gus
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (auxiliary sails)](docs/Categories/category_33.md)
@@ -219,7 +219,7 @@ A Finnish city located in the center of the Gulf of Bothnia. It was built by Gus
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)

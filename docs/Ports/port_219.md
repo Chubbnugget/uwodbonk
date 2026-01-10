@@ -1,9 +1,9 @@
 ---
 id: 219
-name: manama
+name: Manama
 type: Port
 ---
-# Port: マナーマ
+# Port: Manama
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | manama |
+| **Port Name** | Manama |
 | **Port Type** | port of alliance |
 | **Region** | Eastern Africa/India |
 | **Sea Area** | persian gulf |
@@ -40,7 +40,7 @@ A city in the northeast of Bahrain Island, located in the Persian Gulf. Because 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [olive oil](docs/Items/TradeGoods/TradeGoods-Seasonings/item_48.md) | [交易品（調味料）](docs/Categories/category_4.md) | 289 | (253) |  |
 | [ginger](docs/Items/TradeGoods/TradeGoods-Spices/item_112.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | 238 | (209) |  |
@@ -59,26 +59,26 @@ A city in the northeast of Bahrain Island, located in the Persian Gulf. Because 
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | Sales information for trade items with specialty judgment set is not registered. |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | There is no information on the sale of trade goods. |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)
@@ -99,7 +99,7 @@ A city in the northeast of Bahrain Island, located in the Persian Gulf. Because 
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

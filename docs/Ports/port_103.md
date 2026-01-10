@@ -1,9 +1,9 @@
 ---
 id: 103
-name: socotra
+name: Socotra
 type: Port
 ---
-# Port: ソコトラ
+# Port: Socotra
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | socotra |
+| **Port Name** | Socotra |
 | **Port Type** | port of alliance |
 | **Region** | Eastern Africa/India |
 | **Sea Area** | arabian sea |
@@ -40,7 +40,7 @@ A city located on an island in the Indian Ocean off the coast of the Arabian Pen
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [pomegranate](docs/Items/TradeGoods/TradeGoods-Dye/item_907.md) | [Trading Goods (Dye)](docs/Categories/category_2.md) | (444) | 389 |  |
 | Investment required (Required investment amount: 500,000) A fruit with yellowish-red skin. The peel becomes a brown dye. |
@@ -54,7 +54,7 @@ A city located on an island in the Indian Ocean off the coast of the Arabian Pen
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Dye)](docs/Categories/category_2.md)
@@ -131,7 +131,7 @@ A city located on an island in the Indian Ocean off the coast of the Arabian Pen
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -212,14 +212,14 @@ A city located on an island in the Indian Ocean off the coast of the Arabian Pen
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (land battle/deck battle)](docs/Categories/category_29.md)
@@ -235,7 +235,7 @@ A city located on an island in the Indian Ocean off the coast of the Arabian Pen
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)

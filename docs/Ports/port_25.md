@@ -1,9 +1,9 @@
 ---
 id: 25
-name: plymouth
+name: Plymouth
 type: Port
 ---
-# Port: プリマス
+# Port: Plymouth
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | plymouth |
+| **Port Name** | Plymouth |
 | **Port Type** | 領地 |
 | **Region** | northern europe |
 | **Sea Area** | Southern Britain |
@@ -40,7 +40,7 @@ A port town in southwestern England. It is flourishing because of its important 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [crossbow](docs/Items/TradeGoods/TradeGoods-Weapons/item_537.md) | [Trading Items (Arms)](docs/Categories/category_16.md) | 738 | (646) |  |
 | 時代限定（15世紀第3期、15世紀第4期） |
@@ -58,7 +58,7 @@ A port town in southwestern England. It is flourishing because of its important 
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -202,7 +202,7 @@ A port town in southwestern England. It is flourishing because of its important 
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -353,7 +353,7 @@ A port town in southwestern England. It is flourishing because of its important 
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -365,7 +365,7 @@ A port town in southwestern England. It is flourishing because of its important 
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -397,7 +397,7 @@ A port town in southwestern England. It is flourishing because of its important 
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -444,7 +444,7 @@ A port town in southwestern England. It is flourishing because of its important 
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -468,7 +468,7 @@ A port town in southwestern England. It is flourishing because of its important 
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -514,7 +514,7 @@ A port town in southwestern England. It is flourishing because of its important 
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -527,7 +527,7 @@ A port town in southwestern England. It is flourishing because of its important 
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

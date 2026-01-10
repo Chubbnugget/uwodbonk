@@ -3,7 +3,7 @@ id: 55
 name: Karibib
 type: Port
 ---
-# Port: カリビブ
+# Port: Karibib
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A town on the west coast of South Africa. It is a small town whose focus is on a
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [geranium](docs/Items/TradeGoods/TradeGoods-Perfume/item_145.md) | [Trading Goods (Spices)](docs/Categories/category_11.md) | (566) | 496 |  |
 | [diamond](docs/Items/TradeGoods/TradeGoods-Gems/item_449.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | (3,171) | 2,775 |  |
@@ -55,7 +55,7 @@ A town on the west coast of South Africa. It is a small town whose focus is on a
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -149,7 +149,7 @@ A town on the west coast of South Africa. It is a small town whose focus is on a
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading items (food items)](docs/Categories/category_3.md)
@@ -245,14 +245,14 @@ A town on the west coast of South Africa. It is a small town whose focus is on a
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)

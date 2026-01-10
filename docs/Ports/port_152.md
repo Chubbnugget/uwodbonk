@@ -1,9 +1,9 @@
 ---
 id: 152
-name: hobart
+name: Hobart
 type: Port
 ---
-# Port: ホバート
+# Port: Hobart
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | hobart |
+| **Port Name** | Hobart |
 | **Port Type** | port of alliance |
 | **Region** | Oceania |
 | **Sea Area** | tasman sea |
@@ -40,7 +40,7 @@ A town on the southern coast of Van Diemen's Land, an island in southern Austral
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [kangaroo meat](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_2285.md) | [Trading items (food items)](docs/Categories/category_3.md) | (356) | 312 |  |
 | [wood](docs/Items/TradeGoods/TradeGoods-Wares/item_277.md) | [交易品（工業品）](docs/Categories/category_19.md) | (676) | 592 |  |
@@ -53,7 +53,7 @@ A town on the southern coast of Van Diemen's Land, an island in southern Austral
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -121,7 +121,7 @@ A town on the southern coast of Van Diemen's Land, an island in southern Austral
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -210,14 +210,14 @@ A town on the southern coast of Van Diemen's Land, an island in southern Austral
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (belongings)](docs/Categories/category_27.md)
@@ -239,7 +239,7 @@ A town on the southern coast of Van Diemen's Land, an island in southern Austral
   </TabItem>
   <TabItem value="Tavern Master" label="Tavern Master">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

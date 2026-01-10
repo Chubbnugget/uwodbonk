@@ -1,9 +1,9 @@
 ---
 id: 17
-name: casablanca
+name: Casablanca
 type: Port
 ---
-# Port: カサブランカ
+# Port: Casablanca
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | casablanca |
+| **Port Name** | Casablanca |
 | **Port Type** | port of alliance |
 | **Region** | western europe |
 | **Sea Area** | off the coast of lisbon |
@@ -40,7 +40,7 @@ A small city located in the northwest of the African continent. It was once home
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [fava beans](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_102.md) | [Trading items (food items)](docs/Categories/category_3.md) | 57 | 52 |  |
 | [olive](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_47.md) | [Trading items (food items)](docs/Categories/category_3.md) | 253 | (222) |  |
@@ -51,7 +51,7 @@ A small city located in the northwest of the African continent. It was once home
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -134,7 +134,7 @@ A small city located in the northwest of the African continent. It was once home
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -270,14 +270,14 @@ A small city located in the northwest of the African continent. It was once home
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (belongings)](docs/Categories/category_27.md)
@@ -301,7 +301,7 @@ A small city located in the northwest of the African continent. It was once home
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

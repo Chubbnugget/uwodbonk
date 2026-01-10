@@ -1,9 +1,9 @@
 ---
 id: 21
-name: curry
+name: Curry
 type: Port
 ---
-# Port: カレー
+# Port: Curry
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | curry |
+| **Port Name** | Curry |
 | **Port Type** | 領地 |
 | **Region** | northern europe |
 | **Sea Area** | Southern Britain |
@@ -40,7 +40,7 @@ A town in northern France facing the Strait of Dover. It has been a source of co
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [cow](docs/Items/TradeGoods/TradeGoods-Livestock/item_17.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | 299 | 280 |  |
 | [gobelin weave](docs/Items/TradeGoods/TradeGoods-Fabrics/item_1276.md) | [交易品（織物）](docs/Categories/category_20.md) | (3,566) | 3,120 |  |
@@ -59,7 +59,7 @@ A town in northern France facing the Strait of Dover. It has been a source of co
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -170,7 +170,7 @@ A town in northern France facing the Strait of Dover. It has been a source of co
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -330,7 +330,7 @@ A town in northern France facing the Strait of Dover. It has been a source of co
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### Jeanne, Duchess of Berry
@@ -341,7 +341,7 @@ A town in northern France facing the Strait of Dover. It has been a source of co
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -372,7 +372,7 @@ A town in northern France facing the Strait of Dover. It has been a source of co
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -423,7 +423,7 @@ A town in northern France facing the Strait of Dover. It has been a source of co
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -436,7 +436,7 @@ A town in northern France facing the Strait of Dover. It has been a source of co
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)

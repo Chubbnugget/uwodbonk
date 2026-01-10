@@ -1,9 +1,9 @@
 ---
 id: 123
-name: buenos aires
+name: Buenos aires
 type: Port
 ---
-# Port: ブエノスアイレス
+# Port: Buenos aires
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | buenos aires |
+| **Port Name** | Buenos aires |
 | **Port Type** | port of alliance |
 | **Region** | South America |
 | **Sea Area** | Off the coast of Buenos Aires |
@@ -40,7 +40,7 @@ The name of the town means "good air". The city is located on the east coast of 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [cow](docs/Items/TradeGoods/TradeGoods-Livestock/item_17.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | (320) | 280 |  |
 | [garlic](docs/Items/TradeGoods/TradeGoods-Spices/item_526.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | 278 | 244 |  |
@@ -52,7 +52,7 @@ The name of the town means "good air". The city is located on the east coast of 
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（酒類）](docs/Categories/category_9.md)
@@ -83,7 +83,7 @@ The name of the town means "good air". The city is located on the east coast of 
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -144,7 +144,7 @@ The name of the town means "good air". The city is located on the east coast of 
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### Diaz de Solis
@@ -154,7 +154,7 @@ The name of the town means "good air". The city is located on the east coast of 
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)
@@ -181,7 +181,7 @@ The name of the town means "good air". The city is located on the east coast of 
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

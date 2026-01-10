@@ -1,9 +1,9 @@
 ---
 id: 191
-name: port royal
+name: Port royal
 type: Port
 ---
-# Port: ポートロイヤル
+# Port: Port royal
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | port royal |
+| **Port Name** | Port royal |
 | **Port Type** | pirate island |
 | **Region** | Caribbean/Central America |
 | **Sea Area** | Off the coast of the Antilles |
@@ -40,7 +40,7 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [tobacco](docs/Items/TradeGoods/TradeGoods-Sunddries/item_109.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | 581 | (509) |  |
 | [tequila](docs/Items/TradeGoods/TradeGoods-Alcohol/item_108.md) | [交易品（酒類）](docs/Categories/category_9.md) | 1,283 | (1,123) |  |
@@ -53,13 +53,13 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | Sales information for trade items with specialty judgment set is not registered. |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading products (precious metals)](docs/Categories/category_8.md)
@@ -74,7 +74,7 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -86,7 +86,7 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [装備品（服飾品）](docs/Categories/category_28.md)
@@ -105,7 +105,7 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -122,7 +122,7 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -131,7 +131,7 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (additional armor)](docs/Categories/category_35.md)
@@ -140,7 +140,7 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (auxiliary sails)](docs/Categories/category_33.md)
@@ -150,7 +150,7 @@ A port city located almost in the center of the Caribbean Sea. Because of its go
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)

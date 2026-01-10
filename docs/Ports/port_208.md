@@ -1,9 +1,9 @@
 ---
 id: 208
-name: Le Havre
+name: Le havre
 type: Port
 ---
-# Port: ルアーブル
+# Port: Le havre
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | Le Havre |
+| **Port Name** | Le havre |
 | **Port Type** | 領地 |
 | **Region** | northern europe |
 | **Sea Area** | Southern Britain |
@@ -40,7 +40,7 @@ A port city in northern France. Located at the mouth of the Seine River. It thri
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [oyster](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_872.md) | [Trading items (food items)](docs/Categories/category_3.md) | 1,090 | (954) |  |
 | 要投資（必要投資額：600,000） |
@@ -55,7 +55,7 @@ A port city in northern France. Located at the mouth of the Seine River. It thri
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（調味料）](docs/Categories/category_4.md)
@@ -85,7 +85,7 @@ A port city in northern France. Located at the mouth of the Seine River. It thri
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading items (food items)](docs/Categories/category_3.md)
@@ -125,14 +125,14 @@ A port city in northern France. Located at the mouth of the Seine River. It thri
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -159,7 +159,7 @@ A port city in northern France. Located at the mouth of the Seine River. It thri
   </TabItem>
   <TabItem value="production factory" label="production factory">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

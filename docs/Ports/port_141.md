@@ -3,7 +3,7 @@ id: 141
 name: Manila
 type: Port
 ---
-# Port: マニラ
+# Port: Manila
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A port town located in the southern part of Luzon. Malay settlements existed the
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [banana](docs/Items/TradeGoods/TradeGoods-Sunddries/item_1947.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | (150) | 132 |  |
 | [patchouli](docs/Items/TradeGoods/TradeGoods-Perfume/item_1963.md) | [Trading Goods (Spices)](docs/Categories/category_11.md) | (1,396) | 1,222 |  |
@@ -52,7 +52,7 @@ A port town located in the southern part of Luzon. Malay settlements existed the
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -202,7 +202,7 @@ A port town located in the southern part of Luzon. Malay settlements existed the
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -313,7 +313,7 @@ A port town located in the southern part of Luzon. Malay settlements existed the
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### López de Legazpi
@@ -324,7 +324,7 @@ A port town located in the southern part of Luzon. Malay settlements existed the
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)
@@ -352,7 +352,7 @@ A port town located in the southern part of Luzon. Malay settlements existed the
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know. | Handling NPC | remarks |
+| Item | Group | Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know. | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -367,7 +367,7 @@ A port town located in the southern part of Luzon. Malay settlements existed the
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -393,7 +393,7 @@ A port town located in the southern part of Luzon. Malay settlements existed the
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -411,7 +411,7 @@ A port town located in the southern part of Luzon. Malay settlements existed the
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (auxiliary sails)](docs/Categories/category_33.md)

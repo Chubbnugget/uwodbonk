@@ -3,7 +3,7 @@ id: 119
 name: Willemstad
 type: Port
 ---
-# Port: ウィレムスタッド
+# Port: Willemstad
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [dutch calico](docs/Items/TradeGoods/TradeGoods-Fabrics/item_1435.md) | [交易品（織物）](docs/Categories/category_20.md) | (2,124) | 1,859 |  |
 | 要投資（必要投資額：400,000） |
@@ -60,7 +60,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -155,7 +155,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -241,7 +241,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -255,7 +255,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)
@@ -286,7 +286,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -313,7 +313,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
   </TabItem>
   <TabItem value="Painter" label="Painter">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (emblem)](docs/Categories/category_36.md)
@@ -330,7 +330,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
   </TabItem>
   <TabItem value="sculptor" label="sculptor">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (figurehead)](docs/Categories/category_34.md)
@@ -355,7 +355,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -403,7 +403,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -416,7 +416,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -431,7 +431,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -444,7 +444,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -457,7 +457,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
   </TabItem>
   <TabItem value="dock manager" label="dock manager">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -473,7 +473,7 @@ A city located in the southeastern part of Curaçao, the southernmost tip of the
   </TabItem>
   <TabItem value="scholar" label="scholar">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

@@ -1,9 +1,9 @@
 ---
 id: 218
-name: visakhapatnam
+name: Visakhapatnam
 type: Port
 ---
-# Port: ヴィシャーカパトナム
+# Port: Visakhapatnam
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | visakhapatnam |
+| **Port Name** | Visakhapatnam |
 | **Port Type** | port of alliance |
 | **Region** | Eastern Africa/India |
 | **Sea Area** | bay of bengal |
@@ -40,7 +40,7 @@ A port city located on the east coast of India, there are many Buddhist ruins, a
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [Indian indigo](docs/Items/TradeGoods/TradeGoods-Dye/item_157.md) | [Trading Goods (Dye)](docs/Categories/category_2.md) | 352 | (308) |  |
 | [pepper](docs/Items/TradeGoods/TradeGoods-Spices/item_58.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | 268 | (235) |  |
@@ -57,26 +57,26 @@ A port city located on the east coast of India, there are many Buddhist ruins, a
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | Sales information for trade items with specialty judgment set is not registered. |
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | There is no information on the sale of trade goods. |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)
@@ -107,7 +107,7 @@ A port city located on the east coast of India, there are many Buddhist ruins, a
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

@@ -1,9 +1,9 @@
 ---
 id: 90
-name: ceylon
+name: Ceylon
 type: Port
 ---
-# Port: セイロン
+# Port: Ceylon
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | ceylon |
+| **Port Name** | Ceylon |
 | **Port Type** | alliance port |
 | **Region** | Eastern Africa/India |
 | **Sea Area** | Off the south coast of India |
@@ -40,7 +40,7 @@ An island town on the southern tip of India. The island has many highlands, and 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [coconut](docs/Items/TradeGoods/TradeGoods-Sunddries/item_96.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | 292 | (256) |  |
 | [sapphire](docs/Items/TradeGoods/TradeGoods-Gems/item_676.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | 3,693 | 3,242 |  |
@@ -53,7 +53,7 @@ An island town on the southern tip of India. The island has many highlands, and 
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -130,7 +130,7 @@ An island town on the southern tip of India. The island has many highlands, and 
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -229,14 +229,14 @@ An island town on the southern tip of India. The island has many highlands, and 
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (belongings)](docs/Categories/category_27.md)
@@ -258,7 +258,7 @@ An island town on the southern tip of India. The island has many highlands, and 
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

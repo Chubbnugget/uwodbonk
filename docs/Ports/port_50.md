@@ -1,9 +1,9 @@
 ---
 id: 50
-name: hamburg
+name: Hamburg
 type: Port
 ---
-# Port: ハンブルク
+# Port: Hamburg
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | hamburg |
+| **Port Name** | Hamburg |
 | **Port Type** | port of alliance |
 | **Region** | northern europe |
 | **Sea Area** | Off the coast of Jutland |
@@ -40,7 +40,7 @@ The city flourishes as an important trading port in northern Germany. There are 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [corduroy](docs/Items/TradeGoods/TradeGoods-Fabrics/item_824.md) | [交易品（織物）](docs/Categories/category_20.md) | 788 | (690) |  |
 | 要投資（必要投資額：400,000） EO第４章で追加 |
@@ -58,7 +58,7 @@ The city flourishes as an important trading port in northern Germany. There are 
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -190,7 +190,7 @@ The city flourishes as an important trading port in northern Germany. There are 
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -333,7 +333,7 @@ The city flourishes as an important trading port in northern Germany. There are 
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### martin luther
@@ -351,7 +351,7 @@ The city flourishes as an important trading port in northern Germany. There are 
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -413,7 +413,7 @@ The city flourishes as an important trading port in northern Germany. There are 
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -461,7 +461,7 @@ The city flourishes as an important trading port in northern Germany. There are 
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -510,7 +510,7 @@ The city flourishes as an important trading port in northern Germany. There are 
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -533,7 +533,7 @@ The city flourishes as an important trading port in northern Germany. There are 
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -546,7 +546,7 @@ The city flourishes as an important trading port in northern Germany. There are 
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

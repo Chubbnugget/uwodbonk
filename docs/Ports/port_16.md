@@ -1,9 +1,9 @@
 ---
 id: 16
-name: ceuta
+name: Ceuta
 type: Port
 ---
-# Port: セウタ
+# Port: Ceuta
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | ceuta |
+| **Port Name** | Ceuta |
 | **Port Type** | port of alliance |
 | **Region** | western europe |
 | **Sea Area** | Strait of Gibraltar |
@@ -40,7 +40,7 @@ The city is said to have been founded by the Phoenicians in BC. It was then unde
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [coriander](docs/Items/TradeGoods/TradeGoods-Spices/item_1044.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | 310 | 272 |  |
 | 要投資（必要投資額：120,000） |
@@ -58,7 +58,7 @@ The city is said to have been founded by the Phoenicians in BC. It was then unde
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -144,7 +144,7 @@ The city is said to have been founded by the Phoenicians in BC. It was then unde
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -288,7 +288,7 @@ The city is said to have been founded by the Phoenicians in BC. It was then unde
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -298,7 +298,7 @@ The city is said to have been founded by the Phoenicians in BC. It was then unde
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -329,7 +329,7 @@ The city is said to have been founded by the Phoenicians in BC. It was then unde
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -377,7 +377,7 @@ The city is said to have been founded by the Phoenicians in BC. It was then unde
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -414,7 +414,7 @@ The city is said to have been founded by the Phoenicians in BC. It was then unde
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

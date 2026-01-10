@@ -1,9 +1,9 @@
 ---
 id: 2
-name: lisbon
+name: Lisbon
 type: Port
 ---
-# Port: リスボン
+# Port: Lisbon
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,13 +14,13 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | lisbon |
+| **Port Name** | Lisbon |
 | **Port Type** | Headquarters |
-| **Region** | western europe |
+| **Region** | Western Europe |
 | **Sea Area** | off the coast of lisbon |
-| **Required Language** | portuguese |
+| **Required Language** | Portuguese |
 | **Coordinates** | （15782，3205） |
-| **Investment Reward** | [Collection of Western Mediterranean specialties](docs/Items/RecipeBooks/item_750.md) （必要投資額：1,000,000ドゥカード） |
+| **Investment Reward** | [Collection of Western Mediterranean specialties](docs/Items/RecipeBooks/item_750.md) （Required Investment：1,000,000 Ducats） |
 
 ### Available Facilities
 
@@ -40,7 +40,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [almond](docs/Items/TradeGoods/TradeGoods-Sunddries/item_367.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | 141 | 124 |  |
 | [almond oil](docs/Items/TradeGoods/TradeGoods-Seasonings/item_578.md) | [交易品（調味料）](docs/Categories/category_4.md) | (512) | 448 |  |
@@ -58,7 +58,8 @@ An old city built by the Phoenicians. It developed greatly during the period whe
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
+
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -287,7 +288,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -538,7 +539,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### adventure guild
@@ -590,7 +591,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -673,7 +674,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -739,7 +740,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -761,7 +762,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
   </TabItem>
   <TabItem value="trading merchant" label="trading merchant">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -778,7 +779,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
   </TabItem>
   <TabItem value="salesperson" label="salesperson">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (cooking)](docs/Categories/category_32.md)
@@ -793,7 +794,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
   </TabItem>
   <TabItem value="translator" label="translator">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (skill activation)](docs/Categories/category_31.md)
@@ -802,7 +803,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
   </TabItem>
   <TabItem value="wealthy merchant" label="wealthy merchant">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (naval/hand-to-hand combat)](docs/Categories/category_30.md)
@@ -815,7 +816,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
   </TabItem>
   <TabItem value="trainer" label="trainer">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -826,7 +827,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -888,7 +889,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -911,7 +912,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -953,7 +954,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -963,7 +964,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -1058,7 +1059,7 @@ An old city built by the Phoenicians. It developed greatly during the period whe
   </TabItem>
   <TabItem value="Tavern Master" label="Tavern Master">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [adjutant](docs/Categories/category_46.md)

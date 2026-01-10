@@ -1,9 +1,9 @@
 ---
 id: 126
-name: nassau
+name: Nassau
 type: Port
 ---
-# Port: ナッソー
+# Port: Nassau
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | nassau |
+| **Port Name** | Nassau |
 | **Port Type** | pirate island |
 | **Region** | Caribbean/Central America |
 | **Sea Area** | Off the coast of the Antilles |
@@ -40,7 +40,7 @@ A city on New Providence Island in the northern West Indies, south of the Florid
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [tequila](docs/Items/TradeGoods/TradeGoods-Alcohol/item_108.md) | [交易品（酒類）](docs/Categories/category_9.md) | 749 | (656) |  |
 | [Beer](docs/Items/TradeGoods/TradeGoods-Alcohol/item_2.md) | [交易品（酒類）](docs/Categories/category_9.md) | 268 | (235) |  |
@@ -52,7 +52,7 @@ A city on New Providence Island in the northern West Indies, south of the Florid
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading products (medical products)](docs/Categories/category_6.md)
@@ -78,7 +78,7 @@ A city on New Providence Island in the northern West Indies, south of the Florid
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -108,7 +108,7 @@ A city on New Providence Island in the northern West Indies, south of the Florid
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -122,7 +122,7 @@ A city on New Providence Island in the northern West Indies, south of the Florid
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)
@@ -150,7 +150,7 @@ A city on New Providence Island in the northern West Indies, south of the Florid
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -171,7 +171,7 @@ A city on New Providence Island in the northern West Indies, south of the Florid
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)

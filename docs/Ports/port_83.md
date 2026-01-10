@@ -1,9 +1,9 @@
 ---
 id: 83
-name: basra
+name: Basra
 type: Port
 ---
-# Port: バスラ
+# Port: Basra
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | basra |
+| **Port Name** | Basra |
 | **Port Type** | port of alliance |
 | **Region** | Eastern Africa/India |
 | **Sea Area** | persian gulf |
@@ -40,7 +40,7 @@ A city located in the depths of the Persian Gulf. It was founded in the 7th cent
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [senna](docs/Items/TradeGoods/TradeGoods-Medicine/item_155.md) | [Trading products (medical products)](docs/Categories/category_6.md) | 278 | (244) |  |
 | [cheese](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_20.md) | [Trading items (food items)](docs/Categories/category_3.md) | 347 | (304) |  |
@@ -57,7 +57,7 @@ A city located in the depths of the Persian Gulf. It was founded in the 7th cent
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Dye)](docs/Categories/category_2.md)
@@ -123,7 +123,7 @@ A city located in the depths of the Persian Gulf. It was founded in the 7th cent
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -213,7 +213,7 @@ A city located in the depths of the Persian Gulf. It was founded in the 7th cent
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -223,7 +223,7 @@ A city located in the depths of the Persian Gulf. It was founded in the 7th cent
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (head)](docs/Categories/category_23.md)
@@ -274,7 +274,7 @@ A city located in the depths of the Persian Gulf. It was founded in the 7th cent
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)

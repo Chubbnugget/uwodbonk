@@ -1,9 +1,9 @@
 ---
 id: 40
-name: muscat
+name: Muscat
 type: Port
 ---
-# Port: マスカット
+# Port: Muscat
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | muscat |
+| **Port Name** | Muscat |
 | **Port Type** | port of alliance |
 | **Region** | Eastern Africa/India |
 | **Sea Area** | persian gulf |
@@ -40,7 +40,7 @@ A city located between the Persian Gulf and the Arabian Sea. It has been an impo
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [Sesame](docs/Items/TradeGoods/TradeGoods-Spices/item_437.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | 180 | 192 |  |
 | [camel hair](docs/Items/TradeGoods/TradeGoods-Fibers/item_577.md) | [交易品（繊維）](docs/Categories/category_1.md) | 392 | (343) |  |
@@ -55,7 +55,7 @@ A city located between the Persian Gulf and the Arabian Sea. It has been an impo
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Dye)](docs/Categories/category_2.md)
@@ -132,7 +132,7 @@ A city located between the Persian Gulf and the Arabian Sea. It has been an impo
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -235,7 +235,7 @@ A city located between the Persian Gulf and the Arabian Sea. It has been an impo
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### Al Ghauri
@@ -246,7 +246,7 @@ A city located between the Persian Gulf and the Arabian Sea. It has been an impo
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)
@@ -282,7 +282,7 @@ A city located between the Persian Gulf and the Arabian Sea. It has been an impo
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -293,7 +293,7 @@ A city located between the Persian Gulf and the Arabian Sea. It has been an impo
   </TabItem>
   <TabItem value="Painter" label="Painter">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (emblem)](docs/Categories/category_36.md)
@@ -309,7 +309,7 @@ A city located between the Persian Gulf and the Arabian Sea. It has been an impo
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -333,7 +333,7 @@ A city located between the Persian Gulf and the Arabian Sea. It has been an impo
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -360,7 +360,7 @@ A city located between the Persian Gulf and the Arabian Sea. It has been an impo
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (additional armor)](docs/Categories/category_35.md)
@@ -375,7 +375,7 @@ A city located between the Persian Gulf and the Arabian Sea. It has been an impo
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (auxiliary sails)](docs/Categories/category_33.md)

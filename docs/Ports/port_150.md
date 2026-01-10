@@ -1,9 +1,9 @@
 ---
 id: 150
-name: kakadu
+name: Kakadu
 type: Port
 ---
-# Port: カカドゥ
+# Port: Kakadu
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | kakadu |
+| **Port Name** | Kakadu |
 | **Port Type** | port of alliance |
 | **Region** | Oceania |
 | **Sea Area** | Arafura Sea |
@@ -40,7 +40,7 @@ A city located on the north coast of Australia. The name comes from the ethnic n
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [tea tree](docs/Items/TradeGoods/TradeGoods-Medicine/item_2283.md) | [Trading products (medical products)](docs/Categories/category_6.md) | 516 | (452) |  |
 | [peridot](docs/Items/TradeGoods/TradeGoods-Gems/item_1098.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | (1,437) | 1,258 |  |
@@ -56,7 +56,7 @@ A city located on the north coast of Australia. The name comes from the ethnic n
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -138,7 +138,7 @@ A city located on the north coast of Australia. The name comes from the ethnic n
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -243,14 +243,14 @@ A city located on the north coast of Australia. The name comes from the ethnic n
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (belongings)](docs/Categories/category_27.md)
@@ -276,7 +276,7 @@ A city located on the north coast of Australia. The name comes from the ethnic n
   </TabItem>
   <TabItem value="Tavern Master" label="Tavern Master">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

@@ -1,9 +1,9 @@
 ---
 id: 24
-name: dover
+name: Dover
 type: Port
 ---
-# Port: ドーバー
+# Port: Dover
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | dover |
+| **Port Name** | Dover |
 | **Port Type** | 領地 |
 | **Region** | northern europe |
 | **Sea Area** | Southern Britain |
@@ -40,7 +40,7 @@ A town located in the southeast of Britain. It faces the Strait of Dover. A defe
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [herbal vinegar](docs/Items/TradeGoods/TradeGoods-Seasonings/item_908.md) | [交易品（調味料）](docs/Categories/category_4.md) | (205) | 180 |  |
 | 時代限定（15世紀第1期） |
@@ -56,7 +56,7 @@ A town located in the southeast of Britain. It faces the Strait of Dover. A defe
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -187,7 +187,7 @@ A town located in the southeast of Britain. It faces the Strait of Dover. A defe
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -274,14 +274,14 @@ A town located in the southeast of Britain. It faces the Strait of Dover. A defe
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

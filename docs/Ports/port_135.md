@@ -1,9 +1,9 @@
 ---
 id: 135
-name: jakarta
+name: Jakarta
 type: Port
 ---
-# Port: ジャカルタ
+# Port: Jakarta
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | jakarta |
+| **Port Name** | Jakarta |
 | **Port Type** | port of alliance |
 | **Region** | Southeast Asia |
 | **Sea Area** | java sea |
@@ -40,7 +40,7 @@ A city located on the northwest coast of Java. It was originally a small village
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [duck](docs/Items/TradeGoods/TradeGoods-Livestock/item_38.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | 64 | 56 |  |
 | [Paddy rice](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_654.md) | [Trading items (food items)](docs/Categories/category_3.md) | 50 | (44) |  |
@@ -50,7 +50,7 @@ A city located on the northwest coast of Java. It was originally a small village
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -170,7 +170,7 @@ A city located on the northwest coast of Java. It was originally a small village
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -298,7 +298,7 @@ A city located on the northwest coast of Java. It was originally a small village
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -311,7 +311,7 @@ A city located on the northwest coast of Java. It was originally a small village
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)
@@ -346,7 +346,7 @@ A city located on the northwest coast of Java. It was originally a small village
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -361,7 +361,7 @@ A city located on the northwest coast of Java. It was originally a small village
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -386,7 +386,7 @@ A city located on the northwest coast of Java. It was originally a small village
   </TabItem>
   <TabItem value="salesperson" label="salesperson">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (cooking)](docs/Categories/category_32.md)
@@ -403,7 +403,7 @@ A city located on the northwest coast of Java. It was originally a small village
   </TabItem>
   <TabItem value="translator" label="translator">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (skill activation)](docs/Categories/category_31.md)
@@ -414,7 +414,7 @@ A city located on the northwest coast of Java. It was originally a small village
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -432,7 +432,7 @@ A city located on the northwest coast of Java. It was originally a small village
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (additional armor)](docs/Categories/category_35.md)

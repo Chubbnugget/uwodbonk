@@ -1,9 +1,9 @@
 ---
 id: 96
-name: groningen
+name: Groningen
 type: Port
 ---
-# Port: フローニンゲン
+# Port: Groningen
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | groningen |
+| **Port Name** | Groningen |
 | **Port Type** | 領地 |
 | **Region** | northern europe |
 | **Sea Area** | North Sea |
@@ -40,7 +40,7 @@ A city located in the northern Netherlands. One of the few Hanseatic cities in t
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [gin](docs/Items/TradeGoods/TradeGoods-Alcohol/item_291.md) | [交易品（酒類）](docs/Categories/category_9.md) | 589 | 516 |  |
 | When in alliance: confirmed at 100% |
@@ -56,7 +56,7 @@ A city located in the northern Netherlands. One of the few Hanseatic cities in t
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -397,7 +397,7 @@ A city located in the northern Netherlands. One of the few Hanseatic cities in t
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -617,14 +617,14 @@ A city located in the northern Netherlands. One of the few Hanseatic cities in t
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -643,7 +643,7 @@ A city located in the northern Netherlands. One of the few Hanseatic cities in t
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -681,7 +681,7 @@ A city located in the northern Netherlands. One of the few Hanseatic cities in t
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)

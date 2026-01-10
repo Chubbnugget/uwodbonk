@@ -3,7 +3,7 @@ id: 127
 name: Palembang
 type: Port
 ---
-# Port: パレンバン
+# Port: Palembang
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A town on the north coast of southern Sumatra. It was the capital of the Srivija
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [Saikaku](docs/Items/TradeGoods/TradeGoods-Medicine/item_1959.md) | [Trading products (medical products)](docs/Categories/category_6.md) | 2,183 | (1,910) |  |
 | [cinnamon](docs/Items/TradeGoods/TradeGoods-Spices/item_1432.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | 474 | (415) |  |
@@ -51,7 +51,7 @@ A town on the north coast of southern Sumatra. It was the capital of the Srivija
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading products (precious metals)](docs/Categories/category_8.md)
@@ -73,7 +73,7 @@ A town on the north coast of southern Sumatra. It was the capital of the Srivija
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Items (Iron Stone)](docs/Categories/category_7.md)
@@ -124,14 +124,14 @@ A town on the north coast of southern Sumatra. It was the capital of the Srivija
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)

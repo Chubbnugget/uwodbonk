@@ -3,7 +3,7 @@ id: 106
 name: Visby
 type: Port
 ---
-# Port: ヴィスビー
+# Port: Visby
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A Hanseatic city on the island of Gotland in the Baltic Sea. Towards the end of 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [aquavit](docs/Items/TradeGoods/TradeGoods-Alcohol/item_572.md) | [交易品（酒類）](docs/Categories/category_9.md) | 565 | 504 |  |
 | [arquebus gun](docs/Items/TradeGoods/TradeGoods-Firearms/item_14.md) | [Trading Items (Firearms)](docs/Categories/category_17.md) | 2,856 | (2,499) |  |
@@ -60,7 +60,7 @@ A Hanseatic city on the island of Gotland in the Baltic Sea. Towards the end of 
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -116,7 +116,7 @@ A Hanseatic city on the island of Gotland in the Baltic Sea. Towards the end of 
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -198,14 +198,14 @@ A Hanseatic city on the island of Gotland in the Baltic Sea. Towards the end of 
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

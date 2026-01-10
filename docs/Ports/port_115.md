@@ -3,7 +3,7 @@ id: 115
 name: Trujillo
 type: Port
 ---
-# Port: トルヒーヨ
+# Port: Trujillo
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [allspice](docs/Items/TradeGoods/TradeGoods-Spices/item_1848.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | 336 | 336 |  |
 | [coffee](docs/Items/TradeGoods/TradeGoods-Sunddries/item_445.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | 376 | 376 |  |
@@ -55,7 +55,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Dye)](docs/Categories/category_2.md)
@@ -116,7 +116,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -217,14 +217,14 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)
@@ -257,7 +257,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -284,7 +284,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
   </TabItem>
   <TabItem value="Painter" label="Painter">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (emblem)](docs/Categories/category_36.md)
@@ -300,7 +300,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
   </TabItem>
   <TabItem value="sculptor" label="sculptor">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -330,7 +330,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -349,7 +349,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -375,7 +375,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -390,7 +390,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -403,7 +403,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -416,7 +416,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
   </TabItem>
   <TabItem value="dock manager" label="dock manager">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -432,7 +432,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
   </TabItem>
   <TabItem value="Skilled foundry technician" label="Skilled foundry technician">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -442,7 +442,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
   </TabItem>
   <TabItem value="熟練縫製技師" label="熟練縫製技師">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -452,7 +452,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
   </TabItem>
   <TabItem value="調理名人" label="調理名人">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -462,7 +462,7 @@ A town facing the Gulf of Honduras in the Caribbean Sea, discovered by Cristobal
   </TabItem>
   <TabItem value="scholar" label="scholar">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

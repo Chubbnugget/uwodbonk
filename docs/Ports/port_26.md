@@ -1,9 +1,9 @@
 ---
 id: 26
-name: bordeaux
+name: Bordeaux
 type: Port
 ---
-# Port: ボルドー
+# Port: Bordeaux
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | bordeaux |
+| **Port Name** | Bordeaux |
 | **Port Type** | 領地 |
 | **Region** | northern europe |
 | **Sea Area** | bay of biscay |
@@ -40,7 +40,7 @@ The city has been inhabited since ancient times, so much so that prehistoric mur
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [duck meat](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_32.md) | [Trading items (food items)](docs/Categories/category_3.md) | 306 | 268 |  |
 | [Elder](docs/Items/TradeGoods/TradeGoods-Medicine/item_34.md) | [Trading products (medical products)](docs/Categories/category_6.md) | 192 | (168) |  |
@@ -59,7 +59,7 @@ The city has been inhabited since ancient times, so much so that prehistoric mur
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -153,7 +153,7 @@ The city has been inhabited since ancient times, so much so that prehistoric mur
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -289,7 +289,7 @@ The city has been inhabited since ancient times, so much so that prehistoric mur
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### Palais
@@ -300,7 +300,7 @@ The city has been inhabited since ancient times, so much so that prehistoric mur
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -349,7 +349,7 @@ The city has been inhabited since ancient times, so much so that prehistoric mur
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -375,7 +375,7 @@ The city has been inhabited since ancient times, so much so that prehistoric mur
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -427,7 +427,7 @@ The city has been inhabited since ancient times, so much so that prehistoric mur
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

@@ -1,9 +1,9 @@
 ---
 id: 204
-name: manchester
+name: Manchester
 type: Port
 ---
-# Port: マンチェスター
+# Port: Manchester
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | manchester |
+| **Port Name** | Manchester |
 | **Port Type** | port of alliance |
 | **Region** | northern europe |
 | **Sea Area** | northern britain |
@@ -40,7 +40,7 @@ A town located in the western part of Britain. It originates from Mancunium, an 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [tweed](docs/Items/TradeGoods/TradeGoods-Fabrics/item_31.md) | [交易品（織物）](docs/Categories/category_20.md) | (1,283) | 1,123 |  |
 | 要投資（必要投資額：500,000） |
@@ -55,7 +55,7 @@ A town located in the western part of Britain. It originates from Mancunium, an 
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading products (medical products)](docs/Categories/category_6.md)
@@ -108,7 +108,7 @@ A town located in the western part of Britain. It originates from Mancunium, an 
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading goods (hobby goods)](docs/Categories/category_10.md)
@@ -121,7 +121,7 @@ A town located in the western part of Britain. It originates from Mancunium, an 
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### John Kay
@@ -132,7 +132,7 @@ A town located in the western part of Britain. It originates from Mancunium, an 
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -180,7 +180,7 @@ A town located in the western part of Britain. It originates from Mancunium, an 
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -213,7 +213,7 @@ A town located in the western part of Britain. It originates from Mancunium, an 
   </TabItem>
   <TabItem value="production factory" label="production factory">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

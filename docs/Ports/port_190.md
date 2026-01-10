@@ -1,9 +1,9 @@
 ---
 id: 190
-name: st petersburg
+name: St petersburg
 type: Port
 ---
-# Port: サンクトペテルブルク
+# Port: St petersburg
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | st petersburg |
+| **Port Name** | St petersburg |
 | **Port Type** | Headquarters |
 | **Region** | northern europe |
 | **Sea Area** | baltic sea |
@@ -40,7 +40,7 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [alexandrite](docs/Items/TradeGoods/TradeGoods-Gems/item_4429.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | 3,562 | (3,117) |  |
 | 時代限定（17世紀第5期、18世紀第1期、18世紀第2期、18世紀第3期） |
@@ -62,7 +62,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（雑貨）](docs/Categories/category_5.md)
@@ -87,7 +87,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Items (Gemstones)](docs/Categories/category_15.md)
@@ -96,7 +96,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### adventure guild
@@ -129,7 +129,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -191,7 +191,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -214,7 +214,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -238,7 +238,7 @@ import TabItem from '@theme/TabItem';
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (additional armor)](docs/Categories/category_35.md)
@@ -255,7 +255,7 @@ import TabItem from '@theme/TabItem';
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (auxiliary sails)](docs/Categories/category_33.md)
@@ -278,7 +278,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)
@@ -317,7 +317,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="Tavern Master" label="Tavern Master">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

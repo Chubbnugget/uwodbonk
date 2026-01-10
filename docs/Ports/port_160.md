@@ -3,7 +3,7 @@ id: 160
 name: Tumbes
 type: Port
 ---
-# Port: トゥンベス
+# Port: Tumbes
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ This is the town where Francisco Pizarro stopped by on his way to the Inca Empir
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [inca rose](docs/Items/TradeGoods/TradeGoods-Gems/item_3014.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | 4,576 | 4,016 |  |
 | 要投資（必要投資額：320,000） |
@@ -55,7 +55,7 @@ This is the town where Francisco Pizarro stopped by on his way to the Inca Empir
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Dye)](docs/Categories/category_2.md)
@@ -97,7 +97,7 @@ This is the town where Francisco Pizarro stopped by on his way to the Inca Empir
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -171,14 +171,14 @@ This is the town where Francisco Pizarro stopped by on his way to the Inca Empir
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)

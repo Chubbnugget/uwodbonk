@@ -1,9 +1,9 @@
 ---
 id: 58
-name: tripoli
+name: Tripoli
 type: Port
 ---
-# Port: トリポリ
+# Port: Tripoli
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | tripoli |
+| **Port Name** | Tripoli |
 | **Port Type** | port of alliance |
 | **Region** | western europe |
 | **Sea Area** | Tyrrhenian Sea |
@@ -40,7 +40,7 @@ An old town that flourished since BC. It was called by various names depending o
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [fava beans](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_102.md) | [Trading items (food items)](docs/Categories/category_3.md) | 56 | 52 |  |
 | 要投資（必要投資額：150,000） |
@@ -59,7 +59,7 @@ An old town that flourished since BC. It was called by various names depending o
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Dye)](docs/Categories/category_2.md)
@@ -122,7 +122,7 @@ An old town that flourished since BC. It was called by various names depending o
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -238,7 +238,7 @@ An old town that flourished since BC. It was called by various names depending o
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### Sinan Pasha
@@ -249,7 +249,7 @@ An old town that flourished since BC. It was called by various names depending o
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (head)](docs/Categories/category_23.md)
@@ -285,7 +285,7 @@ An old town that flourished since BC. It was called by various names depending o
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -318,7 +318,7 @@ An old town that flourished since BC. It was called by various names depending o
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)

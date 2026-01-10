@@ -3,7 +3,7 @@ id: 131
 name: Run
 type: Port
 ---
-# Port: ルン
+# Port: Run
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A town on Lung Island located in the western part of the Banda Islands. It is a 
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [tamarind](docs/Items/TradeGoods/TradeGoods-Seasonings/item_1968.md) | [交易品（調味料）](docs/Categories/category_4.md) | 812 | (711) |  |
 | [nutmeg](docs/Items/TradeGoods/TradeGoods-Spices/item_1969.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | 406 | (356) |  |
@@ -51,7 +51,7 @@ A town on Lung Island located in the western part of the Banda Islands. It is a 
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -109,7 +109,7 @@ A town on Lung Island located in the western part of the Banda Islands. It is a 
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -163,14 +163,14 @@ A town on Lung Island located in the western part of the Banda Islands. It is a 
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)

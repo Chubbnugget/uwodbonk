@@ -1,9 +1,9 @@
 ---
 id: 62
-name: lübeck
+name: Lübeck
 type: Port
 ---
-# Port: リューベック
+# Port: Lübeck
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | lübeck |
+| **Port Name** | Lübeck |
 | **Port Type** | port of alliance |
 | **Region** | northern europe |
 | **Sea Area** | Off the coast of Jutland |
@@ -40,7 +40,7 @@ The city was once known as the "Hanseatic Queen" as it was the center of the Han
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [zinc ore](docs/Items/TradeGoods/TradeGoods-Minerals/item_626.md) | [Trading Items (Iron Stone)](docs/Categories/category_7.md) | 383 | (336) |  |
 | [salt](docs/Items/TradeGoods/TradeGoods-Seasonings/item_42.md) | [交易品（調味料）](docs/Categories/category_4.md) | 237 | 208 |  |
@@ -57,7 +57,7 @@ The city was once known as the "Hanseatic Queen" as it was the center of the Han
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -173,7 +173,7 @@ The city was once known as the "Hanseatic Queen" as it was the center of the Han
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -240,7 +240,7 @@ The city was once known as the "Hanseatic Queen" as it was the center of the Han
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### durer
@@ -256,7 +256,7 @@ The city was once known as the "Hanseatic Queen" as it was the center of the Han
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -294,7 +294,7 @@ The city was once known as the "Hanseatic Queen" as it was the center of the Han
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -321,7 +321,7 @@ The city was once known as the "Hanseatic Queen" as it was the center of the Han
   </TabItem>
   <TabItem value="sculptor" label="sculptor">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (figurehead)](docs/Categories/category_34.md)
@@ -347,7 +347,7 @@ The city was once known as the "Hanseatic Queen" as it was the center of the Han
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -379,7 +379,7 @@ The city was once known as the "Hanseatic Queen" as it was the center of the Han
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)

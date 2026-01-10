@@ -1,9 +1,9 @@
 ---
 id: 4
-name: seville
+name: Seville
 type: Port
 ---
-# Port: セビリア
+# Port: Seville
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | seville |
+| **Port Name** | Seville |
 | **Port Type** | Headquarters |
 | **Region** | western europe |
 | **Sea Area** | Strait of Gibraltar |
@@ -40,7 +40,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [arquebus gun](docs/Items/TradeGoods/TradeGoods-Firearms/item_14.md) | [Trading Items (Firearms)](docs/Categories/category_17.md) | 1,909 | 1,670 |  |
 | When in alliance: confirmed at 100% |
@@ -61,7 +61,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -261,7 +261,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -507,7 +507,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### adventure guild
@@ -562,7 +562,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -652,7 +652,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -707,7 +707,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -729,7 +729,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
   </TabItem>
   <TabItem value="trading merchant" label="trading merchant">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -746,7 +746,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
   </TabItem>
   <TabItem value="salesperson" label="salesperson">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (cooking)](docs/Categories/category_32.md)
@@ -761,7 +761,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
   </TabItem>
   <TabItem value="translator" label="translator">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (skill activation)](docs/Categories/category_31.md)
@@ -770,7 +770,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
   </TabItem>
   <TabItem value="trainer" label="trainer">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -781,7 +781,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -840,7 +840,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -863,7 +863,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
 
 ### Sail-maker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -900,7 +900,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -910,7 +910,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -1004,7 +1004,7 @@ Its foundations were laid by the Phoenicians, and it flourished from the time of
   </TabItem>
   <TabItem value="Tavern Master" label="Tavern Master">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [adjutant](docs/Categories/category_46.md)

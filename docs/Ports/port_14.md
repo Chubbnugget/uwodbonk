@@ -3,7 +3,7 @@ id: 14
 name: Cagliari
 type: Port
 ---
-# Port: カリアリ
+# Port: Cagliari
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A city in the southern part of Sardinia. Geographically, it was easy to get invo
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [olive oil](docs/Items/TradeGoods/TradeGoods-Seasonings/item_48.md) | [交易品（調味料）](docs/Categories/category_4.md) | (315) | 276 |  |
 | [peonies](docs/Items/TradeGoods/TradeGoods-Medicine/item_1051.md) | [Trading products (medical products)](docs/Categories/category_6.md) | 346 | 312 |  |
@@ -60,7 +60,7 @@ A city in the southern part of Sardinia. Geographically, it was easy to get invo
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -170,7 +170,7 @@ A city in the southern part of Sardinia. Geographically, it was easy to get invo
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -320,14 +320,14 @@ A city in the southern part of Sardinia. Geographically, it was easy to get invo
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

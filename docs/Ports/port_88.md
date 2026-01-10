@@ -3,7 +3,7 @@ id: 88
 name: Havana
 type: Port
 ---
-# Port: ハバナ
+# Port: Havana
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -40,7 +40,7 @@ A city located on the northwest coast of the Caribbean island of Cuba. It is a g
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [ward](docs/Items/TradeGoods/TradeGoods-Dye/item_57.md) | [Trading Goods (Dye)](docs/Categories/category_2.md) | (2,784) | 2,436 |  |
 | 要投資（必要投資額：不明） |
@@ -60,7 +60,7 @@ A city located on the northwest coast of the Caribbean island of Cuba. It is a g
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -138,7 +138,7 @@ A city located on the northwest coast of the Caribbean island of Cuba. It is a g
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Dye)](docs/Categories/category_2.md)
@@ -247,7 +247,7 @@ A city located on the northwest coast of the Caribbean island of Cuba. It is a g
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### Chief Uareo
@@ -258,7 +258,7 @@ A city located on the northwest coast of the Caribbean island of Cuba. It is a g
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -286,7 +286,7 @@ A city located on the northwest coast of the Caribbean island of Cuba. It is a g
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -306,7 +306,7 @@ A city located on the northwest coast of the Caribbean island of Cuba. It is a g
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -330,7 +330,7 @@ A city located on the northwest coast of the Caribbean island of Cuba. It is a g
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -364,7 +364,7 @@ A city located on the northwest coast of the Caribbean island of Cuba. It is a g
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (additional armor)](docs/Categories/category_35.md)

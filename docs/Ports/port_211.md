@@ -1,9 +1,9 @@
 ---
 id: 211
-name: boston
+name: Boston
 type: Port
 ---
-# Port: ボストン
+# Port: Boston
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | boston |
+| **Port Name** | Boston |
 | **Port Type** | port of alliance |
 | **Region** | east coast of north america |
 | **Sea Area** |  |
@@ -40,7 +40,7 @@ I was able to see all trade items with an investment of 720,000. ↑Investment r
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [tobacco](docs/Items/TradeGoods/TradeGoods-Sunddries/item_109.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | (1,028) | 900 |  |
 | 要投資（必要投資額：500,000） |
@@ -60,7 +60,7 @@ I was able to see all trade items with an investment of 720,000. ↑Investment r
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -119,7 +119,7 @@ I was able to see all trade items with an investment of 720,000. ↑Investment r
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading items (food items)](docs/Categories/category_3.md)
@@ -155,7 +155,7 @@ I was able to see all trade items with an investment of 720,000. ↑Investment r
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -165,7 +165,7 @@ I was able to see all trade items with an investment of 720,000. ↑Investment r
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -197,7 +197,7 @@ I was able to see all trade items with an investment of 720,000. ↑Investment r
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)

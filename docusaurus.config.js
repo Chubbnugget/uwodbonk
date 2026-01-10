@@ -19,6 +19,7 @@ const config = {
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
+  onBrokenAnchors: 'warn',
 
   //i18n: {
     //defaultLocale: 'en',
@@ -34,8 +35,8 @@ const config = {
       swcJsMinimizer: true,
       swcHtmlMinimizer: true,
       lightningCssMinimizer: true,
-      rspackBundler: false,
-      rspackPersistentCache: false,
+      rspackBundler: true,
+      rspackPersistentCache: true,
       ssgWorkerThreads: true,
       mdxCrossCompilerCache: true,
     },
@@ -68,6 +69,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
+    },
       algolia: {
         appId: 'BYEYO94311',
         apiKey: '00d9c74be1902e7bdda61dbd1e85f34b',
@@ -108,6 +114,22 @@ const config = {
             label: 'Ports',
           },
           {
+            type: 'dropdown',
+            label: 'Tools',
+            position: 'left',
+            items: [
+              {
+                label: 'Melee Calculator',
+                to: '/tools/melee-calculator',
+              },
+              // Future tools go here:
+              // {
+              //   label: 'Ship Build Calc',
+              //   to: '/tools/ship-calc',
+              // },
+            ],
+          },
+          {
             href: 'https://github.com/Chubbnugget/uwodbonk',
             label: 'GitHub',
             position: 'right',
@@ -132,6 +154,20 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/Chubbnugget/uwodbonk',
+              },
+              
+            ],
+          },
+          {
+            title: 'Support',
+            items: [
+              {
+                label: 'Report a Bug',
+                href: 'https://github.com/Chubbnugget/uwodbonk/issues/new',
+              },
+              {
+                label: 'Contact (Email)',
+                href: 'mailto:chubbnugget@bonk.town',
               },
             ],
           },

@@ -1,9 +1,9 @@
 ---
 id: 76
-name: Saint Georges
+name: Saint georges
 type: Port
 ---
-# Port: サンジョルジュ
+# Port: Saint georges
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | Saint Georges |
+| **Port Name** | Saint georges |
 | **Port Type** | port of alliance |
 | **Region** | western africa |
 | **Sea Area** | gulf of guinea |
@@ -40,7 +40,7 @@ A city on the Gulf of Guinea in West Africa. The kingdoms of Oyo and Dahomey flo
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [coconut](docs/Items/TradeGoods/TradeGoods-Sunddries/item_96.md) | [Trading goods (hobby goods)](docs/Categories/category_10.md) | 292 | (256) |  |
 | [diamond](docs/Items/TradeGoods/TradeGoods-Gems/item_449.md) | [Trading Items (Gemstones)](docs/Categories/category_15.md) | 3,797 | (3,322) |  |
@@ -56,7 +56,7 @@ A city on the Gulf of Guinea in West Africa. The kingdoms of Oyo and Dahomey flo
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading Goods (Dye)](docs/Categories/category_2.md)
@@ -154,7 +154,7 @@ A city on the Gulf of Guinea in West Africa. The kingdoms of Oyo and Dahomey flo
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -262,7 +262,7 @@ A city on the Gulf of Guinea in West Africa. The kingdoms of Oyo and Dahomey flo
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### Nzinga Nkwa
@@ -272,7 +272,7 @@ A city on the Gulf of Guinea in West Africa. The kingdoms of Oyo and Dahomey flo
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)
@@ -298,7 +298,7 @@ A city on the Gulf of Guinea in West Africa. The kingdoms of Oyo and Dahomey flo
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -312,7 +312,7 @@ A city on the Gulf of Guinea in West Africa. The kingdoms of Oyo and Dahomey flo
   </TabItem>
   <TabItem value="Painter" label="Painter">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (emblem)](docs/Categories/category_36.md)
@@ -328,7 +328,7 @@ A city on the Gulf of Guinea in West Africa. The kingdoms of Oyo and Dahomey flo
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -353,7 +353,7 @@ A city on the Gulf of Guinea in West Africa. The kingdoms of Oyo and Dahomey flo
   </TabItem>
   <TabItem value="salesperson" label="salesperson">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (cooking)](docs/Categories/category_32.md)
@@ -368,7 +368,7 @@ A city on the Gulf of Guinea in West Africa. The kingdoms of Oyo and Dahomey flo
   </TabItem>
   <TabItem value="translator" label="translator">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (skill activation)](docs/Categories/category_31.md)

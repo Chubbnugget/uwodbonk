@@ -1,9 +1,9 @@
 ---
 id: 210
-name: portsmouth
+name: Portsmouth
 type: Port
 ---
-# Port: ポーツマス
+# Port: Portsmouth
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | portsmouth |
+| **Port Name** | Portsmouth |
 | **Port Type** | 領地 |
 | **Region** | northern europe |
 | **Sea Area** | Southern Britain |
@@ -40,7 +40,7 @@ A town in southern Britain. It served as a military port during the Crusades and
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [garlic](docs/Items/TradeGoods/TradeGoods-Spices/item_526.md) | [Trading Goods (Spices)](docs/Categories/category_12.md) | (278) | 244 |  |
 | [bacon](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_566.md) | [Trading items (food items)](docs/Categories/category_3.md) | (370) | 324 |  |
@@ -55,7 +55,7 @@ A town in southern Britain. It served as a military port during the Crusades and
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -113,20 +113,20 @@ A town in southern Britain. It served as a military port during the Crusades and
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | There is no information on the sale of trade goods. |
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -153,7 +153,7 @@ A town in southern Britain. It served as a military port during the Crusades and
   </TabItem>
   <TabItem value="production factory" label="production factory">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

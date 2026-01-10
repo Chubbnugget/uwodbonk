@@ -1,9 +1,9 @@
 ---
 id: 59
-name: dublin
+name: Dublin
 type: Port
 ---
-# Port: ダブリン
+# Port: Dublin
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | dublin |
+| **Port Name** | Dublin |
 | **Port Type** | port of alliance |
 | **Region** | northern europe |
 | **Sea Area** | northern britain |
@@ -40,7 +40,7 @@ It is Ireland's largest city. The Vikings once built a fort, and later a castle.
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [whiskey](docs/Items/TradeGoods/TradeGoods-Alcohol/item_1.md) | [交易品（酒類）](docs/Categories/category_9.md) | 630 | 552 |  |
 | [glasswork](docs/Items/TradeGoods/TradeGoods-Luxuries/item_60.md) | [Trading goods (artificial goods)](docs/Categories/category_13.md) | 1,743 | 1,660 |  |
@@ -59,7 +59,7 @@ It is Ireland's largest city. The Vikings once built a fort, and later a castle.
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -170,7 +170,7 @@ It is Ireland's largest city. The Vikings once built a fort, and later a castle.
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -312,7 +312,7 @@ It is Ireland's largest city. The Vikings once built a fort, and later a castle.
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -324,7 +324,7 @@ It is Ireland's largest city. The Vikings once built a fort, and later a castle.
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -365,7 +365,7 @@ It is Ireland's largest city. The Vikings once built a fort, and later a castle.
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -413,7 +413,7 @@ It is Ireland's largest city. The Vikings once built a fort, and later a castle.
 
 ### Shipwright
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

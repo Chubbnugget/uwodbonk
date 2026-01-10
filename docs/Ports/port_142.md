@@ -1,9 +1,9 @@
 ---
 id: 142
-name: brunei
+name: Brunei
 type: Port
 ---
-# Port: ブルネイ
+# Port: Brunei
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | brunei |
+| **Port Name** | Brunei |
 | **Port Type** | port of alliance |
 | **Region** | Southeast Asia |
 | **Sea Area** | celebes sea |
@@ -40,7 +40,7 @@ Islam is propagated in the center of the Kingdom of Brunei. It is a country rich
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [wood](docs/Items/TradeGoods/TradeGoods-Wares/item_277.md) | [交易品（工業品）](docs/Categories/category_19.md) | 675 | (591) |  |
 | [agarwood](docs/Items/TradeGoods/TradeGoods-Perfume/item_1058.md) | [Trading Goods (Spices)](docs/Categories/category_11.md) | 1,954 | (1,710) |  |
@@ -52,7 +52,7 @@ Islam is propagated in the center of the Kingdom of Brunei. It is a country rich
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -175,7 +175,7 @@ Islam is propagated in the center of the Kingdom of Brunei. It is a country rich
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -242,14 +242,14 @@ Islam is propagated in the center of the Kingdom of Brunei. It is a country rich
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Equipment (body)](docs/Categories/category_24.md)
@@ -277,7 +277,7 @@ Islam is propagated in the center of the Kingdom of Brunei. It is a country rich
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -294,7 +294,7 @@ Islam is propagated in the center of the Kingdom of Brunei. It is a country rich
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -312,7 +312,7 @@ Islam is propagated in the center of the Kingdom of Brunei. It is a country rich
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (additional armor)](docs/Categories/category_35.md)

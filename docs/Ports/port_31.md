@@ -1,9 +1,9 @@
 ---
 id: 31
-name: stockholm
+name: Stockholm
 type: Port
 ---
-# Port: ストックホルム
+# Port: Stockholm
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | stockholm |
+| **Port Name** | Stockholm |
 | **Port Type** | Headquarters |
 | **Region** | northern europe |
 | **Sea Area** | baltic sea |
@@ -40,7 +40,7 @@ The city was founded by the Swedish Bilger Jarl in the mid-13th century. It cons
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [Wormwood](docs/Items/TradeGoods/TradeGoods-Medicine/item_62.md) | [Trading products (medical products)](docs/Categories/category_6.md) | 327 | 292 |  |
 | [heath](docs/Items/TradeGoods/TradeGoods-Medicine/item_63.md) | [Trading products (medical products)](docs/Categories/category_6.md) | 170 | 152 |  |
@@ -58,7 +58,7 @@ The city was founded by the Swedish Bilger Jarl in the mid-13th century. It cons
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（雑貨）](docs/Categories/category_5.md)
@@ -125,7 +125,7 @@ The city was founded by the Swedish Bilger Jarl in the mid-13th century. It cons
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -231,7 +231,7 @@ The city was founded by the Swedish Bilger Jarl in the mid-13th century. It cons
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -243,7 +243,7 @@ The city was founded by the Swedish Bilger Jarl in the mid-13th century. It cons
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -291,7 +291,7 @@ The city was founded by the Swedish Bilger Jarl in the mid-13th century. It cons
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -316,7 +316,7 @@ The city was founded by the Swedish Bilger Jarl in the mid-13th century. It cons
   </TabItem>
   <TabItem value="Painter" label="Painter">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (emblem)](docs/Categories/category_36.md)
@@ -332,7 +332,7 @@ The city was founded by the Swedish Bilger Jarl in the mid-13th century. It cons
   </TabItem>
   <TabItem value="peddler" label="peddler">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -351,7 +351,7 @@ The city was founded by the Swedish Bilger Jarl in the mid-13th century. It cons
   </TabItem>
   <TabItem value="salesperson" label="salesperson">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (cooking)](docs/Categories/category_32.md)
@@ -366,7 +366,7 @@ The city was founded by the Swedish Bilger Jarl in the mid-13th century. It cons
   </TabItem>
   <TabItem value="translator" label="translator">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (skill activation)](docs/Categories/category_31.md)
@@ -378,7 +378,7 @@ The city was founded by the Swedish Bilger Jarl in the mid-13th century. It cons
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)
@@ -410,7 +410,7 @@ The city was founded by the Swedish Bilger Jarl in the mid-13th century. It cons
 
 ### Lumbermaker
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Ship parts (additional armor)](docs/Categories/category_35.md)
@@ -425,7 +425,7 @@ The city was founded by the Swedish Bilger Jarl in the mid-13th century. It cons
   </TabItem>
   <TabItem value="weapon craftsman" label="weapon craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -494,7 +494,7 @@ The city was founded by the Swedish Bilger Jarl in the mid-13th century. It cons
   </TabItem>
   <TabItem value="Tavern Master" label="Tavern Master">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)

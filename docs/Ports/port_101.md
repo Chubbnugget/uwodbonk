@@ -1,9 +1,9 @@
 ---
 id: 101
-name: danzig
+name: Danzig
 type: Port
 ---
-# Port: ダンツィヒ
+# Port: Danzig
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | danzig |
+| **Port Name** | Danzig |
 | **Port Type** | port of alliance |
 | **Region** | northern europe |
 | **Sea Area** | baltic sea |
@@ -40,7 +40,7 @@ A city built around the 10th century. In the 14th century, it also joined the Ha
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [georgette](docs/Items/TradeGoods/TradeGoods-Fabrics/item_1000.md) | [交易品（織物）](docs/Categories/category_20.md) | (2,980) | 2,608 |  |
 | 時代限定（15世紀第1期、15世紀第2期、15世紀第3期） |
@@ -59,7 +59,7 @@ A city built around the 10th century. In the 14th century, it also joined the Ha
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（雑貨）](docs/Categories/category_5.md)
@@ -109,7 +109,7 @@ A city built around the 10th century. In the 14th century, it also joined the Ha
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -162,7 +162,7 @@ A city built around the 10th century. In the 14th century, it also joined the Ha
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### others
@@ -172,7 +172,7 @@ A city built around the 10th century. In the 14th century, it also joined the Ha
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [recipe book](docs/Categories/category_22.md)
@@ -195,7 +195,7 @@ A city built around the 10th century. In the 14th century, it also joined the Ha
   </TabItem>
   <TabItem value="kobo_craftsmen" label="Craftsman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)
@@ -215,7 +215,7 @@ A city built around the 10th century. In the 14th century, it also joined the Ha
 
 ### Shipyard Master
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Boat](docs/Categories/category_43.md)

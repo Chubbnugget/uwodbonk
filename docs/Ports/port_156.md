@@ -1,9 +1,9 @@
 ---
 id: 156
-name: copiapo
+name: Copiapo
 type: Port
 ---
-# Port: コピアポ
+# Port: Copiapo
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | copiapo |
+| **Port Name** | Copiapo |
 | **Port Type** | port of alliance |
 | **Region** | South America |
 | **Sea Area** | peruvian basin |
@@ -40,7 +40,7 @@ An oasis town located in the south of a long desert that stretches north and sou
 <Tabs>
   <TabItem value="trade_goods_sales" label="Trade Goods Sales">
 
-| item | group | purchase price | 同盟時 | remarks |
+| Item | Group | Purchase Price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 | [alpaca](docs/Items/TradeGoods/TradeGoods-Livestock/item_2995.md) | [Trading Goods (Livestock)](docs/Categories/category_18.md) | 679 | (595) |  |
 | [Quinoa](docs/Items/TradeGoods/TradeGoods-Foodstuffs/item_2994.md) | [Trading items (food items)](docs/Categories/category_3.md) | 187 | (164) |  |
@@ -52,7 +52,7 @@ An oasis town located in the south of a long desert that stretches north and sou
   </TabItem>
   <TabItem value="sale_specialty" label="Sale (Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Trading goods (hobby goods)](docs/Categories/category_10.md)
@@ -69,7 +69,7 @@ An oasis town located in the south of a long desert that stretches north and sou
   </TabItem>
   <TabItem value="sale_no_specialty" label="Sale (No Specialty)">
 
-| item | group | sale price | 同盟時 | remarks |
+| Item | Group | sale price | Allied Price | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [交易品（繊維）](docs/Categories/category_1.md)
@@ -121,14 +121,14 @@ An oasis town located in the south of a long desert that stretches north and sou
   </TabItem>
   <TabItem value="guild_&_others" label="Guild & Others">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
-| There is no sales information for the item |
+| There is no sales information for the Item |
 | --- |
   </TabItem>
   <TabItem value="toolman" label="Toolman">
 
-| item | group | Sales price | Handling NPC | remarks |
+| Item | Group | Sales price | Handling NPC | Remarks |
 | --- | --- | --- | --- | --- |
 
 #### [Consumables (condition recovery)](docs/Categories/category_21.md)

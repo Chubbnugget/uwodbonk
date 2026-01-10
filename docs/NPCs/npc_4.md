@@ -1,41 +1,18 @@
 ---
 id: 4
-name: merchant guild
+name: Merchant Guild Master
 type: NPC
 ---
-# NPC: 商人ギルド
+# NPC: Merchant Guild Master
 
 ## NPC: General Information
 
 | Attribute | Details |
 | :--- | :--- |
-| **Name** | merchant guild |
+| **Name** | Merchant Guild Master |
 | **Notes** | Introducing merchant quests.
  Also, the guild master handles skills. |
 | **Last Updated** | 2005-04-15 02:00:34 System |
-
-## NPC: Name
-
-| Attribute | Details |
-| :--- | :--- |
-| **Name** | merchant guild |
-| **Notes** | Introducing merchant quests.
- Also, the guild master handles skills. |
-| **Last Updated** | 2005-04-15 02:00:34 System |
-
-## NPC: Name
-
-## NPC: City
-
-## NPC: Discovery Preferences
-
-## NPC: Location
-
-## NPC: Notes
-
-## NPC: Last Updated
-
-## NPC: Items / Inventory
 
 | Item Name | Group | Purchase Price | Notes |
 | --- | --- | --- | --- |
