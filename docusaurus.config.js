@@ -1,4 +1,3 @@
-
 import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
@@ -18,13 +17,13 @@ const config = {
   organizationName: 'chubbnugget', // Usually your GitHub org/user name.
   projectName: 'uwodbonk', // Usually your repo name.
 
-  onBrokenLinks: 'ignore',
-  onBrokenMarkdownLinks: 'ignore',
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: 'warn',
 
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  },
+  //i18n: {
+    //defaultLocale: 'en',
+    //locales: ['en'],
+  //},
   future: {
     v4: {
       removeLegacyPostBuildHeadAttribute: true,
@@ -88,19 +87,19 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'QuestSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Quests',
           },
                     {
             type: 'docSidebar',
             sidebarId: 'TradeGoodSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Trade Goods',
           },
                     {
             type: 'docSidebar',
             sidebarId: 'SkillSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Skills',
           },
           {
             href: 'https://github.com/Chubbnugget/uwodbonk',
@@ -113,10 +112,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [],
-          },
-          {
             title: 'Community',
             items: [
               {
@@ -128,10 +123,6 @@ const config = {
           {
             title: 'More',  
             items: [
-              {
-                label: 'News',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/Chubbnugget/uwodbonk',
