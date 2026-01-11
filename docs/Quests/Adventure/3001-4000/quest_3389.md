@@ -21,7 +21,7 @@ A scholar from Athens called me about Mesopotamian mythology. I realized somethi
 | **Time Limit** | none |
 | **Town** | [Naples](docs/Ports/port_60.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (13), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (15), [Unlocking](docs/Skills/Skill-Adventure/item_460.md) (13) |
-| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Enuma Elish](docs/Discoveries/Historical Relics/discovery_1091.md) Genesis epic in Babylonian mythology. The names of many gods are written in it, and it is thought to be a record of how superior the once prosperous Babylonian Empire was compared to other towns. Epic of Creation Rank: 5, Points: 10, Difficulty: 15, Experience Points: 1,400 |
+| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Enuma Elish](docs/Discoveries/Historical Relic/discovery_1091.md) Genesis epic in Babylonian mythology. The names of many gods are written in it, and it is thought to be a record of how superior the once prosperous Babylonian Empire was compared to other towns. Epic of Creation Rank: 5, Points: 10, Difficulty: 15, Experience Points: 1,400 |
 | **Reward/Advance** | Remuneration: 242,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 460 / Fame: 170 |
 | **Items Obtained** | Request letter x8 |

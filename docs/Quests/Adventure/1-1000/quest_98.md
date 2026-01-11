@@ -21,7 +21,7 @@ You know the story of Caesar and Cleopatra. Cleopatra gained control of Egypt th
 | **Time Limit** | none |
 | **Town** | [Tunis](docs/Ports/port_46.md), [Marseille](docs/Ports/port_10.md), [Venice](docs/Ports/port_30.md), [Istanbul](docs/Ports/port_78.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (2), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (4), [Unlocking](docs/Skills/Skill-Adventure/item_460.md) (2) |
-| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Caesar's Golden Cup](docs/Discoveries/Historical Relics/discovery_1101.md) A golden cup said to have been given to Julius Caesar by Cleopatra VII. It is said that Egypt was rich in gold because gold dust was extracted from the Nile River. Caesar and Cleopatra Rank: 2, Points: 2, Difficulty: 4, Experience Points: 250 |
+| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Caesar's Golden Cup](docs/Discoveries/Historical Relic/discovery_1101.md) A golden cup said to have been given to Julius Caesar by Cleopatra VII. It is said that Egypt was rich in gold because gold dust was extracted from the Nile River. Caesar and Cleopatra Rank: 2, Points: 2, Difficulty: 4, Experience Points: 250 |
 | **Reward/Advance** | Remuneration: 83,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 150 / Fame: 70 |
 | **Items Obtained** | Request letter x5 |

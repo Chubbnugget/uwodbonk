@@ -21,6 +21,8 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   onBrokenAnchors: 'warn',
 
+  trailingSlash: true,
+
   //i18n: {
     //defaultLocale: 'en',
     //locales: ['en'],
@@ -81,7 +83,7 @@ const config = {
         contextualSearch: true,
      },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/socialcard.jpg',
       navbar: {
         title: 'UWODBonk',
         logo: {

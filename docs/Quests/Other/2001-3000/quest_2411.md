@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Cartouche](docs/Discoveries/Historical Relics/discovery_1109.md) One of the hieroglyphs of ancient Egypt. A curved line surrounding the name of a pharaoh, often depicted on murals. This is believed to be protected by enclosing the name of the pharaoh. Dungeon Rank: 3, Points: 5, Difficulty: 6, Experience Points: 420 |
+| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Cartouche](docs/Discoveries/Historical Relic/discovery_1109.md) One of the hieroglyphs of ancient Egypt. A curved line surrounding the name of a pharaoh, often depicted on murals. This is believed to be protected by enclosing the name of the pharaoh. Dungeon Rank: 3, Points: 5, Difficulty: 6, Experience Points: 420 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | Ancient God's Curse, Crystal Scarab, Luxury Fur, Luxury Dye, Tarot Card |

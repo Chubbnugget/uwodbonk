@@ -21,7 +21,7 @@ It was a request from a certain senior figure in the military. He wants me to fi
 | **Time Limit** | none |
 | **Town** | [Marseille](docs/Ports/port_10.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (4), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (6), [Unlocking](docs/Skills/Skill-Adventure/item_460.md) (4) |
-| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Caesar's Armor](docs/Discoveries/Historical Relics/discovery_1100.md) Julius [Caesar's Armor](docs/Discoveries/Historical Relics/discovery_1100.md). The many scars carved there may have been from when they conquered Gaul, or from when they crossed the Rubicon River and occupied Rome. Alexandria Campaign Rank: 3, Points: 3, Difficulty: 6, Experience Points: 440 |
+| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Caesar's Armor](docs/Discoveries/Historical Relic/discovery_1100.md) Julius [Caesar's Armor](docs/Discoveries/Historical Relic/discovery_1100.md). The many scars carved there may have been from when they conquered Gaul, or from when they crossed the Rubicon River and occupied Rome. Alexandria Campaign Rank: 3, Points: 3, Difficulty: 6, Experience Points: 440 |
 | **Reward/Advance** | Reward: 2,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience: 170 / Fame: 80 |
 | **Items Obtained** | Caesar's armor, request letter x6 |

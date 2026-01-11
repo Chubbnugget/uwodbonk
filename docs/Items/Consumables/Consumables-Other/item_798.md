@@ -1,6 +1,6 @@
 ---
 id: 798
-name: "\"Special dye #6\""
+name: "\"\\"Special dye #6\\"\""
 type:  Item
 ---
 # Special dye #6

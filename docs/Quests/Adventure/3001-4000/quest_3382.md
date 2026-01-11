@@ -21,7 +21,7 @@ I hear you're involved in the research into Mesopotamian civilization that schol
 | **Time Limit** | none |
 | **Town** | [Naples](docs/Ports/port_60.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (11), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (13), [Unlocking](docs/Skills/Skill-Adventure/item_460.md) (11) |
-| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Epic of Atrahasis](docs/Discoveries/Historical Relics/discovery_1067.md) An epic poem of ancient Mesopotamia. Like the Epic of Gilgamesh, it contains a flood legend. The name of the humans who escaped the flood and survived is said to be ``Atra Hasis''. Noah's alias Experience value at discovery 1230 Discovery card experience value 615 Rank: 5, Points: 10, Difficulty: 13, Experience value: 1,230 |
+| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Epic of Atrahasis](docs/Discoveries/Historical Relic/discovery_1067.md) An epic poem of ancient Mesopotamia. Like the Epic of Gilgamesh, it contains a flood legend. The name of the humans who escaped the flood and survived is said to be ``Atra Hasis''. Noah's alias Experience value at discovery 1230 Discovery card experience value 615 Rank: 5, Points: 10, Difficulty: 13, Experience value: 1,230 |
 | **Reward/Advance** | Remuneration: 212,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 350 / Fame: 150 |
 | **Items Obtained** | Request letter x6 |

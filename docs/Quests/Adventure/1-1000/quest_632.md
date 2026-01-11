@@ -21,7 +21,7 @@ I have an interesting story. It is said that a long time ago, a utopia existed i
 | **Time Limit** | none |
 | **Town** | [Lisbon](docs/Ports/port_2.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (3), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (5), [Unlocking](docs/Skills/Skill-Adventure/item_460.md) (3), [Greek](docs/Skills/Skills-Language/item_604.md) |
-| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Armor of Epameinondas](docs/Discoveries/Historical Relics/discovery_1092.md) Epameinondas was a political and military figure from Thebes, ancient Greece. They devised new tactics and defeated Sparta's crowded tactics. Real Utopia Rank: 2, Points: 3, Difficulty: 5, Experience Points: 275 |
+| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Armor of Epameinondas](docs/Discoveries/Historical Relic/discovery_1092.md) Epameinondas was a political and military figure from Thebes, ancient Greece. They devised new tactics and defeated Sparta's crowded tactics. Real Utopia Rank: 2, Points: 3, Difficulty: 5, Experience Points: 275 |
 | **Reward/Advance** | Remuneration: 74,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience: 170 / Fame: 80 |
 | **Items Obtained** | Armor of Epameinondas, request letter x6 |

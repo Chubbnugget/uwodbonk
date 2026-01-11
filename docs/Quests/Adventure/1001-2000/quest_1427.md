@@ -21,7 +21,7 @@ Have you researched the Teotihuacan civilization before? The scholar at that tim
 | **Time Limit** | none |
 | **Town** | [Santo Domingo](docs/Ports/port_33.md), [Portobelo](docs/Ports/port_110.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (5), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (7), [Unlocking](docs/Skills/Skill-Adventure/item_460.md) (5) |
-| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Kakk Sif's Arms](docs/Discoveries/Historical Relics/discovery_1103.md) Arms said to have been used by Kakk Sif, a Teotihuacan general who was involved in bringing Mutupul under his control. Where the fire sleeps Rank: 3, Points: 8, Difficulty: 7, Experience points: 506 |
+| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Kakk Sif's Arms](docs/Discoveries/Historical Relic/discovery_1103.md) Arms said to have been used by Kakk Sif, a Teotihuacan general who was involved in bringing Mutupul under his control. Where the fire sleeps Rank: 3, Points: 8, Difficulty: 7, Experience points: 506 |
 | **Reward/Advance** | Remuneration: 112,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience points: 300 / Fame: 105 |
 | **Items Obtained** | 7 request letters |

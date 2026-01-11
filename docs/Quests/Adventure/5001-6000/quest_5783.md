@@ -21,7 +21,7 @@ What a great discovery! It seems that an ancient human mummy in good condition h
 | **Time Limit** | none |
 | **Town** | [Santo Domingo](docs/Ports/port_33.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (15), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (17), [Spanish](docs/Skills/Skills-Language/item_425.md) |
-| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Iceman](docs/Discoveries/Historical Relics/discovery_3074.md) (B.C.) A mummy discovered in the Alps. Because it was frozen under the snow, it is in very good condition. When he was discovered, there were several tools and other items that appeared to belong to him. Iceman Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,400 |
+| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Iceman](docs/Discoveries/Historical Relic/discovery_3074.md) (B.C.) A mummy discovered in the Alps. Because it was frozen under the snow, it is in very good condition. When he was discovered, there were several tools and other items that appeared to belong to him. Iceman Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,400 |
 | **Reward/Advance** | Remuneration: 317,000 / Advance payment: 30,000 |
 | **Exp/Fame** | Experience: 290 / Fame: 170 |
 | **Items Obtained** | Request letter x10 |

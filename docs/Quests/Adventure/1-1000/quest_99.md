@@ -21,7 +21,7 @@ I've received some interesting information. Apparently there's a sword that Caes
 | **Time Limit** | none |
 | **Town** | [Amsterdam](docs/Ports/port_49.md), [London](docs/Ports/port_23.md), [Lisbon](docs/Ports/port_2.md), [Seville](docs/Ports/port_4.md), [Marseille](docs/Ports/port_10.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (4), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (6), [Unlocking](docs/Skills/Skill-Adventure/item_460.md) (4) |
-| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Caesar's Sword](docs/Discoveries/Historical Relics/discovery_1099.md) Julius [Caesar's Sword](docs/Discoveries/Historical Relics/discovery_1099.md). It is said to have been worn while conquering the Gaul region. It was excavated from the ruins of Pompeii, and the blade had inscriptions about Celtic treasures. [Caesar's Sword] (quest_1099.md) Rank: 3, Points: 5, Difficulty: 6, Experience Points: 440 |
+| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Caesar's Sword](docs/Discoveries/Historical Relic/discovery_1099.md) Julius [Caesar's Sword](docs/Discoveries/Historical Relic/discovery_1099.md). It is said to have been worn while conquering the Gaul region. It was excavated from the ruins of Pompeii, and the blade had inscriptions about Celtic treasures. [Caesar's Sword] (quest_1099.md) Rank: 3, Points: 5, Difficulty: 6, Experience Points: 440 |
 | **Reward/Advance** | Reward: 2,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 160 / Fame: 75 |
 | **Items Obtained** | Caesar's Sword/6 Request Messages |

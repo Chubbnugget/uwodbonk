@@ -21,7 +21,7 @@ I see, even if it's a flame of burning water, if you pour water on it, the fire 
 | **Time Limit** | none |
 | **Town** | [Genoa](docs/Ports/port_11.md), [Naples](docs/Ports/port_60.md), [Venice](docs/Ports/port_30.md), [Athens](docs/Ports/port_28.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (1), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (1), [Arabic](docs/Skills/Skills-Language/item_440.md) |
-| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Greek Fire](docs/Discoveries/Historical Relics/discovery_1116.md) A flame agent used in the Byzantine Empire around the 7th century. It is said that a mixture of petroleum, sulfur and pine resin causes a violent ignition that cannot be extinguished with water. It seems that it was originally introduced from the east. [Greek Fire] (quest_1116.md) Rank: 1, Points: 3, Difficulty: 1, Experience Points: 80 |
+| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Greek Fire](docs/Discoveries/Historical Relic/discovery_1116.md) A flame agent used in the Byzantine Empire around the 7th century. It is said that a mixture of petroleum, sulfur and pine resin causes a violent ignition that cannot be extinguished with water. It seems that it was originally introduced from the east. [Greek Fire] (quest_1116.md) Rank: 1, Points: 3, Difficulty: 1, Experience Points: 80 |
 | **Reward/Advance** | Reward: 14,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | Request letter x 4 |

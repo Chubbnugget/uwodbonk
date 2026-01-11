@@ -21,7 +21,7 @@ It seems that a new request has arrived at the guild from the bar master who use
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (8), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (10), [Greek](docs/Skills/Skills-Language/item_604.md) |
-| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Horned Cup](docs/Discoveries/Historical Relics/discovery_3628.md) A cup made from the horn of a beast. It is said to have been used in rituals and even appears in ancient mythology. According to the bar master, ``Drinking alcohol from [Kakugai] (quest_3628.md) lifts your spirits and makes you feel great.'' Pursuit Quest Rank: 5, Points: 8, Difficulty: 3, Experience Points: 1,100 |
+| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Horned Cup](docs/Discoveries/Historical Relic/discovery_3628.md) A cup made from the horn of a beast. It is said to have been used in rituals and even appears in ancient mythology. According to the bar master, ``Drinking alcohol from [Kakugai] (quest_3628.md) lifts your spirits and makes you feel great.'' Pursuit Quest Rank: 5, Points: 8, Difficulty: 3, Experience Points: 1,100 |
 | **Reward/Advance** | Reward: 220,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 468 |
 | **Items Obtained** | treasure chest of pursuit |

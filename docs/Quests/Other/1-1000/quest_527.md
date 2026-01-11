@@ -21,7 +21,7 @@ Inside the ruins in the Campagna region on the outskirts of Naples
 | **Time Limit** | none |
 | **Town** | [Venice](docs/Ports/port_30.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (2), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (2) |
-| **Discovery** | [Historical Relics](docs/Categories/category_7.md) / [Glass Accessories](docs/Discoveries/Historical Relics/discovery_1112.md) Glass that has been processed for decoration. They are found in various civilizations and have distinctive colors and shapes. Glass is one of the materials that has been used since ancient times. Ancient Trinket Map Rank: 1, Points: 1, Difficulty: 2, Experience Points: 34 |
+| **Discovery** | [Historical Relics](docs/Categories/category_7.md) / [Glass Accessories](docs/Discoveries/Historical Relic/discovery_1112.md) Glass that has been processed for decoration. They are found in various civilizations and have distinctive colors and shapes. Glass is one of the materials that has been used since ancient times. Ancient Trinket Map Rank: 1, Points: 1, Difficulty: 2, Experience Points: 34 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | Glasswork(7) |

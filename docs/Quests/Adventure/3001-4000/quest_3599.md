@@ -21,7 +21,7 @@ You seem to know a lot about the Kiev Rus. A religious scholar has made a reques
 | **Time Limit** | none |
 | **Town** | [Saint Petersburg](docs/Ports/port_190.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (5), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (7), [Unlocking](docs/Skills/Skill-Adventure/item_460.md) (5) |
-| **Discovery** | [Historical Relics](docs/Categories/category_7.md) / [Gold Coin of Vladimir I](docs/Discoveries/Historical Relics/discovery_1084.md) A gold coin engraved with the portrait and coat of arms of Vladimir I, who ruled the Kiev Grand Duchy. Vladimir I had excellent political skills, marrying the sister of the Byzantine Emperor Basil II and greatly increasing the authority of the Kievan Rus. Heyday of Kiev Grand Duchy Rank: 4, Points: 4, Difficulty: 7, Experience Points: 640 |
+| **Discovery** | [Historical Relics](docs/Categories/category_7.md) / [Gold Coin of Vladimir I](docs/Discoveries/Historical Relic/discovery_1084.md) A gold coin engraved with the portrait and coat of arms of Vladimir I, who ruled the Kiev Grand Duchy. Vladimir I had excellent political skills, marrying the sister of the Byzantine Emperor Basil II and greatly increasing the authority of the Kievan Rus. Heyday of Kiev Grand Duchy Rank: 4, Points: 4, Difficulty: 7, Experience Points: 640 |
 | **Reward/Advance** | Remuneration: 122,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience: 180 / Fame: 80 |
 | **Items Obtained** | Request letter*5 |

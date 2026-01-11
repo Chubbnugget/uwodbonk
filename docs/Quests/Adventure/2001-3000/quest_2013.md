@@ -21,7 +21,7 @@ The guild has sent you a request to investigate the Inca Empire. As you probably
 | **Time Limit** | none |
 | **Town** | [Santo Domingo](docs/Ports/port_33.md), [Portobelo](docs/Ports/port_110.md), [Rio de Janeiro](docs/Ports/port_122.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (4), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (6), [ケチュア语](docs/Skills/Skills-Language/item_3010.md) |
-| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Inca stone wall](docs/Discoveries/Historical Relics/discovery_1081.md) A smooth, beautifully shaped stone. With stones of this size, there would be problems with stacking and transporting them, but these stones are stacked regularly, with not even the slightest gap in sight. I wonder how it was created... Quest “The Inca Stone Wall” Discovery Card: 180 Rank: 2, Points: 6, Difficulty: 6, Experience Points: 360 |
+| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Inca stone wall](docs/Discoveries/Historical Relic/discovery_1081.md) A smooth, beautifully shaped stone. With stones of this size, there would be problems with stacking and transporting them, but these stones are stacked regularly, with not even the slightest gap in sight. I wonder how it was created... Quest “The Inca Stone Wall” Discovery Card: 180 Rank: 2, Points: 6, Difficulty: 6, Experience Points: 360 |
 | **Reward/Advance** | Remuneration: 154,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience: 200 / Fame: 180 |
 | **Items Obtained** | Request letter x5 |

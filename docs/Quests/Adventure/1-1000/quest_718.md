@@ -21,7 +21,7 @@ I heard you found a stone tablet from Mesopotamia. I've received a request from 
 | **Time Limit** | none |
 | **Town** | [London](docs/Ports/port_23.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (9), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (11), [English](docs/Skills/Skills-Language/item_341.md) |
-| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Epic of Gilgamesh](docs/Discoveries/Historical Relics/discovery_1117.md) An epic poem of ancient Mesopotamia. It can be said to be the oldest literature of mankind. The adventure story of King Gilgamesh is told, and there are parts of it that are thought to be the prototype of the flood legend. Where the stars dwell Rank: 5, Points: 7, Difficulty: 11, Experience points: 1,066 |
+| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Epic of Gilgamesh](docs/Discoveries/Historical Relic/discovery_1117.md) An epic poem of ancient Mesopotamia. It can be said to be the oldest literature of mankind. The adventure story of King Gilgamesh is told, and there are parts of it that are thought to be the prototype of the flood legend. Where the stars dwell Rank: 5, Points: 7, Difficulty: 11, Experience points: 1,066 |
 | **Reward/Advance** | Remuneration: 343,000 / Advance payment: 20,000 |
 | **Exp/Fame** | Experience points: 260 / Fame: 125 |
 | **Items Obtained** | Ancient epic (clothing equipment, archeology +1), request letter x9 |

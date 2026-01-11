@@ -21,7 +21,7 @@ There are many tyrants who left their mark on history, but one of the most famou
 | **Time Limit** | none |
 | **Town** | [Seville](docs/Ports/port_4.md), [Genoa](docs/Ports/port_11.md), [Marseille](docs/Ports/port_10.md), [Venice](docs/Ports/port_30.md), [Athens](docs/Ports/port_28.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (1), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (1), [Italian](docs/Skills/Skills-Language/item_422.md) |
-| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Marble statue of Emperor Caligula](docs/Discoveries/Historical Relics/discovery_1108.md) in ancient Rome. The name Caligula is not his real name. It is said that he was a tyrant who competed for number one or number two in history. Statue of the Violent Emperor Rank: 1, Points: 2, Difficulty: 1, Experience Points: 50 |
+| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Marble statue of Emperor Caligula](docs/Discoveries/Historical Relic/discovery_1108.md) in ancient Rome. The name Caligula is not his real name. It is said that he was a tyrant who competed for number one or number two in history. Statue of the Violent Emperor Rank: 1, Points: 2, Difficulty: 1, Experience Points: 50 |
 | **Reward/Advance** | Reward: 18,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 130 / Fame: 65 |
 | **Items Obtained** | Tyrant's Orb (durability: 5, effect when used: assault, operation +1), 3 request letters |

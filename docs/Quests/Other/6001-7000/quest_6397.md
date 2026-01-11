@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Historical relics](docs/Categories/category_7.md) / [Papyrus from the era of King Khufu](docs/Discoveries/Historical Relics/discovery_3476.md) Documents from the era of King Khufu. It is believed to be the world's oldest papyrus. It seems that the daily lives of the workers involved in building the pyramids and transporting the stones used in them are written on pieces of paper made from beaten papyrus stalks. Legacy: Megalithic civilization that flourished in the desert Rank: 5, Points: 6, Experience points: 1,950 |
+| **Discovery** | [Historical relics](docs/Categories/category_7.md) / [Papyrus from the era of King Khufu](docs/Discoveries/Historical Relic/discovery_3476.md) Documents from the era of King Khufu. It is believed to be the world's oldest papyrus. It seems that the daily lives of the workers involved in building the pyramids and transporting the stones used in them are written on pieces of paper made from beaten papyrus stalks. Legacy: Megalithic civilization that flourished in the desert Rank: 5, Points: 6, Experience points: 1,950 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | sun gemstone |

@@ -21,7 +21,7 @@ A scholar who studies Islamic history asked me to research a certain dynasty. It
 | **Time Limit** | none |
 | **Town** | [Calicut](docs/Ports/port_44.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (3), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (5), [Unlocking](docs/Skills/Skill-Adventure/item_460.md) (3) |
-| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Sword of Abbas](docs/Discoveries/Historical Relics/discovery_1065.md) A sword used by Abu al-Abbas, who defeated the Umayyad dynasty and established the Abbasid dynasty. The Abbasid dynasty lasted for about five centuries before being overthrown by the Mongol Hulagu. The person who built Baghdad Rank: 2, Points: 4, Difficulty: 5, Experience points: 290 |
+| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Sword of Abbas](docs/Discoveries/Historical Relic/discovery_1065.md) A sword used by Abu al-Abbas, who defeated the Umayyad dynasty and established the Abbasid dynasty. The Abbasid dynasty lasted for about five centuries before being overthrown by the Mongol Hulagu. The person who built Baghdad Rank: 2, Points: 4, Difficulty: 5, Experience points: 290 |
 | **Reward/Advance** | Reward: 2,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 140 / Fame: 75 |
 | **Items Obtained** | Sword of Abbas/6 request letters |

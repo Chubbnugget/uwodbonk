@@ -21,7 +21,7 @@ Speaking of ancient Rome, Nero is famous as a violent emperor. However, the moth
 | **Time Limit** | none |
 | **Town** | [London](docs/Ports/port_23.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (4), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (6), [Italian](docs/Skills/Skills-Language/item_422.md) |
-| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Agrippina's hair ornament](docs/Discoveries/Historical Relics/discovery_1062.md) Agrippina was the sister of Emperor Caligula of ancient Rome and the wife of Emperor Claudius. She is also the mother of Emperor Nero. This is what he was wearing when he was assassinated by his son. Evil wife and demon mother Rank: 2, Points: 3, Difficulty: 6, Experience points: 370 |
+| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Agrippina's hair ornament](docs/Discoveries/Historical Relic/discovery_1062.md) Agrippina was the sister of Emperor Caligula of ancient Rome and the wife of Emperor Claudius. She is also the mother of Emperor Nero. This is what he was wearing when he was assassinated by his son. Evil wife and demon mother Rank: 2, Points: 3, Difficulty: 6, Experience points: 370 |
 | **Reward/Advance** | Reward: 112,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 255 / Fame: 120 |
 | **Items Obtained** | Agrippina's hair ornament, request letter x6 |

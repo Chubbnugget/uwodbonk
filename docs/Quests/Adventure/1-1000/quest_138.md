@@ -21,7 +21,7 @@ Do you know about the great war in which Persia invaded the Mediterranean during
 | **Time Limit** | none |
 | **Town** | [Aden](docs/Ports/port_43.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (1), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (3), [Persian](docs/Skills/Skills-Language/item_591.md) |
-| **Discovery** | [Historical Relics](docs/Categories/category_7.md) / [Stone Statue of Xerxes I](docs/Discoveries/Historical Relics/discovery_1118.md) Xerxes I was the king of the Achaemenid Empire of Persia. He was the son of Darius I and took over the construction of Persepolis. Relics of Xerxes I Rank: 1, Points: 4, Difficulty: 3, Experience Points: 180 |
+| **Discovery** | [Historical Relics](docs/Categories/category_7.md) / [Stone Statue of Xerxes I](docs/Discoveries/Historical Relic/discovery_1118.md) Xerxes I was the king of the Achaemenid Empire of Persia. He was the son of Darius I and took over the construction of Persepolis. Relics of Xerxes I Rank: 1, Points: 4, Difficulty: 3, Experience Points: 180 |
 | **Reward/Advance** | Reward: 40,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 140 / Fame: 65 |
 | **Items Obtained** | Master's Orb/Request Message 5 pieces |

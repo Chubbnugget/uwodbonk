@@ -21,7 +21,7 @@ It was a request from Shakespeare. I asked him to find out anything about Russia
 | **Time Limit** | none |
 | **Town** | [London](docs/Ports/port_23.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (3), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (5), [Unlocking](docs/Skills/Skill-Adventure/item_460.md) (3) |
-| **Discovery** | [Historical Relics](docs/Categories/category_7.md) / [Story of Igor's Expedition](docs/Discoveries/Historical Relics/discovery_1083.md) An epic poem that records the expedition by Prince Igor. It is said to have been written during the era of the Kievan Rus. Prince Igor went on an expedition to defeat the nomads. Expedition Epic Rank: 3, Points: 3, Difficulty: 5, Experience Points: 460 |
+| **Discovery** | [Historical Relics](docs/Categories/category_7.md) / [Story of Igor's Expedition](docs/Discoveries/Historical Relic/discovery_1083.md) An epic poem that records the expedition by Prince Igor. It is said to have been written during the era of the Kievan Rus. Prince Igor went on an expedition to defeat the nomads. Expedition Epic Rank: 3, Points: 3, Difficulty: 5, Experience Points: 460 |
 | **Reward/Advance** | Remuneration: 141,000 / Advance payment: 10,000 |
 | **Exp/Fame** | Experience: 190 / Fame: 85 |
 | **Items Obtained** | 5 request letters |

@@ -21,7 +21,7 @@ Did you discover the ruins of Ur, an ancient Mesopotamian town? Apparently, a ri
 | **Time Limit** | none |
 | **Town** | [Cape](docs/Ports/port_37.md), [Zanzibar](docs/Ports/port_38.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (4), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (6), [Arabic](docs/Skills/Skills-Language/item_440.md) |
-| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Uru Standard](docs/Discoveries/Historical Relics/discovery_1085.md) A box of unknown purpose excavated from the tomb of the King of Ur. It is said that it may be part of a military flag or musical instrument. It is decorated with a mosaic of seashells and lapis lazuli, with a depiction of war and an opposing depiction of peace. Proof of Ancient Trade Routes Rank: 2, Points: 4, Difficulty: 6, Experience Points: 370 |
+| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Uru Standard](docs/Discoveries/Historical Relic/discovery_1085.md) A box of unknown purpose excavated from the tomb of the King of Ur. It is said that it may be part of a military flag or musical instrument. It is decorated with a mosaic of seashells and lapis lazuli, with a depiction of war and an opposing depiction of peace. Proof of Ancient Trade Routes Rank: 2, Points: 4, Difficulty: 6, Experience Points: 370 |
 | **Reward/Advance** | Reward: 71,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience: 170 / Fame: 80 |
 | **Items Obtained** | Request letter x6 |

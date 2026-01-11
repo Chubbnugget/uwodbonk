@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Visibility](docs/Skills/Skill-Adventure/item_458.md) (3) |
-| **Discovery** | [Historical relics](docs/Categories/category_7.md) / [Estrela](docs/Discoveries/Historical Relics/discovery_1090.md) Nossa Senhora da [Estrela](docs/Discoveries/Historical Relics/discovery_1090.md). A Portuguese East India trading ship wrecked northwest of Ascension Island in the Atlantic Ocean. Salvage Rank: 2, Points: 3, Difficulty: 3, Experience Points: 280 |
+| **Discovery** | [Historical relics](docs/Categories/category_7.md) / [Estrela](docs/Discoveries/Historical Relic/discovery_1090.md) Nossa Senhora da [Estrela](docs/Discoveries/Historical Relic/discovery_1090.md). A Portuguese East India trading ship wrecked northwest of Ascension Island in the Atlantic Ocean. Salvage Rank: 2, Points: 3, Difficulty: 3, Experience Points: 280 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** | Onyx brooch, main royal staple, star ruby ​​earrings |

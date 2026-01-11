@@ -21,7 +21,7 @@ Do you know the Five Wise Emperors of Rome? These are the five emperors who crea
 | **Time Limit** | none |
 | **Town** | [Amsterdam](docs/Ports/port_49.md), [London](docs/Ports/port_23.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (1), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (3), [Unlocking](docs/Skills/Skill-Adventure/item_460.md) (1) |
-| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Antoninus Pius's royal tin](docs/Discoveries/Historical Relics/discovery_1079.md) This is believed to be the royal tin of Antoninus Pius, the fourth of the Five Wise Emperors of Rome. It is an elegant thing made of marble, gold, coral, and pearls. Gentle Emperor Rank: 1, Points: 1, Difficulty: 3, Experience Points: 150 |
+| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Antoninus Pius's royal tin](docs/Discoveries/Historical Relic/discovery_1079.md) This is believed to be the royal tin of Antoninus Pius, the fourth of the Five Wise Emperors of Rome. It is an elegant thing made of marble, gold, coral, and pearls. Gentle Emperor Rank: 1, Points: 1, Difficulty: 3, Experience Points: 150 |
 | **Reward/Advance** | Reward: 35,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 150 / Fame: 70 |
 | **Items Obtained** | Master's orb, request letter x5 |

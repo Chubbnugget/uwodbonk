@@ -20,7 +20,7 @@ category: Other
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | There are no required skills. |
-| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Canopic jar](docs/Discoveries/Historical Relics/discovery_1105.md) A jar said to have been used to preserve the most important organ after the heart during mummification in ancient Egypt. It is shaped like the four gods known as the sons of Horus. Dungeon Rank: 3, Points: 5, Experience Points: 450 |
+| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Canopic jar](docs/Discoveries/Historical Relic/discovery_1105.md) A jar said to have been used to preserve the most important organ after the heart during mummification in ancient Egypt. It is shaped like the four gods known as the sons of Horus. Dungeon Rank: 3, Points: 5, Experience Points: 450 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

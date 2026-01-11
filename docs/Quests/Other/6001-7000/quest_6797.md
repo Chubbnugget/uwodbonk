@@ -21,7 +21,7 @@ Let's do some further research on Zheng He's voyage that was previously discover
 | **Time Limit** | none |
 | **Town** | There are no Towns available for offers. |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (7), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (9), [Malayu Tagalog](docs/Skills/Skills-Language/item_1967.md) |
-| **Discovery** | [Historical Relics](docs/Categories/category_7.md) / [Yingai Shengran](docs/Discoveries/Historical Relics/discovery_3825.md) A document written by Ma Huan, who accompanied Zheng He on his voyage. It is read as "Eigaishoran". Details include the route of Zheng He's voyage and the climate of the countries he visited. It is considered one of the most important documents for researching Zheng He. Pursuit Quest Discovery Card: 320 Rank: 4, Points: 7, Difficulty: 7, Experience Points: 640 |
+| **Discovery** | [Historical Relics](docs/Categories/category_7.md) / [Yingai Shengran](docs/Discoveries/Historical Relic/discovery_3825.md) A document written by Ma Huan, who accompanied Zheng He on his voyage. It is read as "Eigaishoran". Details include the route of Zheng He's voyage and the climate of the countries he visited. It is considered one of the most important documents for researching Zheng He. Pursuit Quest Discovery Card: 320 Rank: 4, Points: 7, Difficulty: 7, Experience Points: 640 |
 | **Reward/Advance** | Remuneration: 136,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 340 |
 | **Items Obtained** | treasure chest of pursuit |

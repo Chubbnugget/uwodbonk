@@ -21,7 +21,7 @@ A long time ago, the Achaemenid Empire of Persia, which conquered this area, had
 | **Time Limit** | none |
 | **Town** | [Aden](docs/Ports/port_43.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (2), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (4), [Arabic](docs/Skills/Skills-Language/item_440.md) |
-| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Ganjiname inscription](docs/Discoveries/Historical Relics/discovery_1114.md) "Hibun". An inscription carved into the rock face of a mountain. There are two, one belonging to Darius I and the other to his son Xerxes I. Proof of Prosperity Rank: 2, Points: 3, Difficulty: 4, Experience Points: 210 |
+| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Ganjiname inscription](docs/Discoveries/Historical Relic/discovery_1114.md) "Hibun". An inscription carved into the rock face of a mountain. There are two, one belonging to Darius I and the other to his son Xerxes I. Proof of Prosperity Rank: 2, Points: 3, Difficulty: 4, Experience Points: 210 |
 | **Reward/Advance** | Remuneration: 69,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 150 / Fame: 70 |
 | **Items Obtained** | 5 request letters |

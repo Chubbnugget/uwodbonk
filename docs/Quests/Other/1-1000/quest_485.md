@@ -21,7 +21,7 @@ Landed on the west coast of India. Near the table rock in the center.
 | **Time Limit** | none |
 | **Town** | [London](docs/Ports/port_23.md), [Calicut](docs/Ports/port_44.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (5), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (5) |
-| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Indus style square seal](docs/Discoveries/Historical Relics/discovery_1082.md) A square seal used in the Indus civilization. Indus script is written on it, along with geometric patterns and animal designs. Ancient Indian Seal Map Rank: 1, Points: 3, Difficulty: 5, Experience Points: 120 |
+| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Indus style square seal](docs/Discoveries/Historical Relic/discovery_1082.md) A square seal used in the Indus civilization. Indus script is written on it, along with geometric patterns and animal designs. Ancient Indian Seal Map Rank: 1, Points: 3, Difficulty: 5, Experience Points: 120 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |

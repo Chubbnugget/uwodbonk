@@ -21,7 +21,7 @@ I've received a request from President Shylock, who is in town, to help investig
 | **Time Limit** | none |
 | **Town** | [Venice](docs/Ports/port_30.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (6), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (8), [Unlocking](docs/Skills/Skill-Adventure/item_460.md) (6) |
-| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Ostracon](docs/Discoveries/Historical Relics/discovery_1094.md) A fragment of pottery with letters and pictures drawn on it. It means "pottery shard" in Greek. It was used in a vote to oust a dictator. Some believe that this system led to the decline of Athens at the time. Fragment of Exile Rank: 4, Points: 5, Difficulty: 8, Experience Points: 660 |
+| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Ostracon](docs/Discoveries/Historical Relic/discovery_1094.md) A fragment of pottery with letters and pictures drawn on it. It means "pottery shard" in Greek. It was used in a vote to oust a dictator. Some believe that this system led to the decline of Athens at the time. Fragment of Exile Rank: 4, Points: 5, Difficulty: 8, Experience Points: 660 |
 | **Reward/Advance** | Remuneration: 89,000 / Advance payment: 0 |
 | **Exp/Fame** | Experience points: 150 / Fame: 70 |
 | **Items Obtained** | Request letter x6 |

@@ -1,6 +1,6 @@
 ---
 id: 118
-name: "\"Charlatan's Dowsing Rod\""
+name: "\"\\"Charlatan's Dowsing Rod\\"\""
 type:  Item
 ---
 # Charlatan's Dowsing Rod

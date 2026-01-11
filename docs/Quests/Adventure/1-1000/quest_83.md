@@ -21,7 +21,7 @@ You said earlier that Avalon, where King Arthur left, might be an island in the 
 | **Time Limit** | none |
 | **Town** | [London](docs/Ports/port_23.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (13), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (15), [Unlocking](docs/Skills/Skill-Adventure/item_460.md) (13) |
-| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Excalibur](docs/Discoveries/Historical Relics/discovery_1086.md) A holy sword that appears in the legend of King Arthur. It is said that King Arthur received it from the spirit of the lake. The sword can cut through iron, and the scabbard heals the owner's wounds and makes him immortal. [Excalibur](docs/Discoveries/Historical Relics/discovery_1086.md) Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,235 |
+| **Discovery** | [Historical Relic](docs/Categories/category_7.md) / [Excalibur](docs/Discoveries/Historical Relic/discovery_1086.md) A holy sword that appears in the legend of King Arthur. It is said that King Arthur received it from the spirit of the lake. The sword can cut through iron, and the scabbard heals the owner's wounds and makes him immortal. [Excalibur](docs/Discoveries/Historical Relic/discovery_1086.md) Rank: 5, Points: 9, Difficulty: 15, Experience Points: 1,235 |
 | **Reward/Advance** | Remuneration: 12,000 / Advance payment: 20,000 |
 | **Exp/Fame** |  |
 | **Items Obtained** | Excalibur request letter 10 pieces |

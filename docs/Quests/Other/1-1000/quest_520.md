@@ -21,7 +21,7 @@ Outside the gates of Athens (west), west end
 | **Time Limit** | none |
 | **Town** | [Venice](docs/Ports/port_30.md) |
 | **Required Skills** | [Exploration](docs/Skills/Skill-Adventure/item_257.md) (1), [Archaeology](docs/Skills/Skill-Adventure/item_342.md) (1) |
-| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Glass fragments](docs/Discoveries/Historical Relics/discovery_1111.md) Fragments of glass vessels used in ancient times. There are differences in color, transparency, and processing techniques depending on civilization. Ancient village map Rank: 1, Points: 1, Difficulty: 1, Experience points: 9 |
+| **Discovery** | [Historical relic](docs/Categories/category_7.md) / [Glass fragments](docs/Discoveries/Historical Relic/discovery_1111.md) Fragments of glass vessels used in ancient times. There are differences in color, transparency, and processing techniques depending on civilization. Ancient village map Rank: 1, Points: 1, Difficulty: 1, Experience points: 9 |
 | **Reward/Advance** |  |
 | **Exp/Fame** |  |
 | **Items Obtained** |  |
