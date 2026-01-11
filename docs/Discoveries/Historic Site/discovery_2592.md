@@ -3,6 +3,7 @@ id: 2592
 category: Historic Site
 ---
 # Discovery: Temple of Apollo Epicurius
+### Missing link
 
 ## Discovery Details
 | Attribute | Details |
@@ -24,4 +25,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Another Temple of Apollo](quest_4959.md)** | Adventure Quest (2) B.C. | Archeology (2) Visualization (1) Greek | Reward: 63,000Experience: 130/ Fame: 65 |
+| **[Another Temple of Apollo] (quest_4959.md)** | Adventure Quest (2) B.C. | Archeology (2) Visualization (1) Greek | Reward: 63,000Experience: 130/ Fame: 65 |

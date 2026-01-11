@@ -3,6 +3,7 @@ id: 673
 category: Treasure
 ---
 # Discovery: Astaroth's Jewel
+### Missing link
 
 ## Discovery Details
 | Attribute | Details |
@@ -26,4 +27,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Astaroth's Jewel](quest_10.md)** | Adventure Quest (3) Mythology Era | Exploration (1) Treasures Appraisal (3) Unlocking (1) | Reward: 2,000 / Advance payment: 0Experience: 120 / Fame: 60 |
+| **[Astaroth's Jewel] (quest_10.md)** | Adventure Quest (3) Mythology Era | Exploration (1) Treasures Appraisal (3) Unlocking (1) | Reward: 2,000 / Advance payment: 0Experience: 120 / Fame: 60 |

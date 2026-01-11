@@ -3,6 +3,7 @@ id: 2594
 category: Astronomical
 ---
 # Discovery: Virgo Swirl Stars Cloud
+### Missing link
 
 ## Discovery Details
 | Attribute | Details |
@@ -26,4 +27,4 @@ The following quests are associated with this discovery:
 
 | Quest Name | Category | Necessary Skills | Rewards |
 | :--- | :--- | :--- | :--- |
-| **[Astronomer's observation record](quest_4961.md)** | Astronomy(6) | Astronomy(6)Visualization(6) | Experience：190 |
+| **[Astronomer's observation record] (quest_4961.md)** | Astronomy(6) | Astronomy(6)Visualization(6) | Experience：190 |
