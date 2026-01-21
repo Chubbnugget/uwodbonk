@@ -1,6 +1,6 @@
 ---
 id: 743
-name: "\"\\"\\\"Staff officer's guide\\\"\\"\""
+name: "Staff officer's guide"
 type:  Item
 ---
 # Staff officer's guide

@@ -1,6 +1,6 @@
 ---
 id: 122
-name: "\"\\"\\\"A famous doctor's secret medicine\\\"\\"\""
+name: "A famous doctor's secret medicine"
 type:  Item
 ---
 # A famous doctor's secret medicine

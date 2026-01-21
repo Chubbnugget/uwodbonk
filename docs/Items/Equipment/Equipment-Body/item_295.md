@@ -1,6 +1,6 @@
 ---
 id: 295
-name: "\"\\"\\\"monk's robe\\\"\\"\""
+name: "monk's robe"
 type:  Item
 ---
 # monk's robe

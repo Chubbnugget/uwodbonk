@@ -1,6 +1,6 @@
 ---
 id: 305
-name: "\"\\"\\\"Traveler's Notes\\\"\\"\""
+name: "Traveler's Notes"
 type:  Item
 ---
 # Traveler's Notes

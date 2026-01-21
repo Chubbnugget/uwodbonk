@@ -1,9 +1,9 @@
 ---
 id: 923
-name: 複帆補助帆縫製法
+name: Re-sail supplementary sail sewing method
 type:  Item
 ---
-# 複帆補助帆縫製法
+# Re-sail supplementary sail sewing method
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | 複帆補助帆縫製法 |
+| **Item Name** | Re-sail supplementary sail sewing method |
 | **Type** | thing |
 | **Group** | [Recipe book](docs/Categories/category_22.md) |
 | **Sold by NPC** | [Workshop Craftsman](docs/NPCs/npc_7.md) |

@@ -1,6 +1,6 @@
 ---
 id: 918
-name: "\"\\"\\\"Craftsman's training book\\\"\\"\""
+name: "Craftsman's training book"
 type:  Item
 ---
 # Craftsman's training book

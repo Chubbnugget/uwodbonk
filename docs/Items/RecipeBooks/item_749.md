@@ -1,6 +1,6 @@
 ---
 id: 749
-name: "\"\\"\\\"confectioner's recipes\\\"\\"\""
+name: "confectioner's recipes"
 type:  Item
 ---
 # confectioner's recipes
