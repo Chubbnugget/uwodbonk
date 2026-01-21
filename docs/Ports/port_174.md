@@ -177,7 +177,7 @@ The pronunciation is "Chongchin". The city is located on the upper reaches of th
 
 #### [Ship parts (special weapons)](docs/Categories/category_37.md)
 
-| [Boathouse](docs/Items/ShipParts/Shipparts-Special-Weapons/item_3394.md) | Ship parts (special weapons) | 35,000 | weapon craftsman |  |
+| [Boathouse](docs/Items/ShipParts/Shipparts-Special-Equipment/item_3394.md) | Ship parts (special weapons) | 35,000 | weapon craftsman |  |
 
 #### [Ship parts (cannon)](docs/Categories/category_38.md)
 

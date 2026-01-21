@@ -1,6 +1,6 @@
 ---
 id: 518
-name: "\"\\"priest's staff\\"\""
+name: "\"\\"\\\"priest's staff\\\"\\"\""
 type:  Item
 ---
 # priest's staff

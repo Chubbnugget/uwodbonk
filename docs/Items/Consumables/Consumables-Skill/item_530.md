@@ -1,6 +1,6 @@
 ---
 id: 530
-name: "\"\\"Greedy Merchant's Iron Chain\\"\""
+name: "\"\\"\\\"Greedy Merchant's Iron Chain\\\"\\"\""
 type:  Item
 ---
 # Greedy Merchant's Iron Chain

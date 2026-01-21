@@ -1,6 +1,6 @@
 ---
 id: 655
-name: "\"\\"hunter's spear\\"\""
+name: "\"\\"\\\"hunter's spear\\\"\\"\""
 type:  Item
 ---
 # hunter's spear
