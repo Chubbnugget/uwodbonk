@@ -1,9 +1,9 @@
 ---
 id: 21
-name: Consumables (condition recovery)
+name: Consumables (Condition Recovery)
 type: Category
 ---
-# Item Group: 消耗品（状態回復）
+# Item Group: Consumables (Condition Recovery)
 
 ## Overview
 | Attribute | Details |

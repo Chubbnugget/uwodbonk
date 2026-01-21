@@ -3,7 +3,7 @@ id: 222
 name: "xi'an"
 type: Port
 ---
-# Port: "\"xi'an\""
+# Port: "xi'an"
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | "\"xi'an\"" |
+| **Port Name** | "xi'an" |
 | **Port Type** | port of alliance |
 | **Region** | east asia |
 | **Sea Area** | western east asia |

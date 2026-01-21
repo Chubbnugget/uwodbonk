@@ -1,9 +1,9 @@
 ---
 id: 62
-name: Lübeck
+name: Lubeck
 type: Port
 ---
-# Port: Lübeck
+# Port: Lubeck
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,11 +14,11 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | Lübeck |
+| **Port Name** | Lubeck |
 | **Port Type** | port of alliance |
 | **Region** | northern europe |
 | **Sea Area** | Off the coast of Jutland |
-| **Required Language** | german |
+| **Required Language** | German |
 | **Coordinates** | （484，2333） |
 | **Investment Reward** | [Casting method for high-class armor](docs/Items/RecipeBooks/item_1147.md) （必要投資額：2,000,000ドゥカード） |
 

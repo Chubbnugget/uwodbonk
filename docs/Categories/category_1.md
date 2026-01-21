@@ -1,9 +1,9 @@
 ---
 id: 1
-name: Trade goods (fiber)
+name: Trade goods (Fibre)
 type: Category
 ---
-# Item Group: Trade goods (Fibers)
+# Item Group: Trade goods (Fibres)
 
 ## Overview
 | Attribute | Details |

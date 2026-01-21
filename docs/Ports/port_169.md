@@ -1,6 +1,6 @@
 ---
 id: 169
-name: 澳門
+name: Macau
 type: Port
 ---
 # Port: 澳門
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | 澳門 |
+| **Port Name** | Macau |
 | **Port Type** | port of alliance |
 | **Region** | east asia |
 | **Sea Area** | western east asia |

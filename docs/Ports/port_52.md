@@ -1,9 +1,9 @@
 ---
 id: 52
-name: Algin
+name: Abidjan
 type: Port
 ---
-# Port: Algin
+# Port: Abidjan
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | Algin |
+| **Port Name** | Abidjan |
 | **Port Type** | port of alliance |
 | **Region** | western africa |
 | **Sea Area** | off the coast of canary |

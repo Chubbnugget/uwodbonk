@@ -1,9 +1,9 @@
 ---
 id: 482
-name: textile trading
+name: Textile Trading
 type:  Item
 ---
-# textile trading
+# Textile Trading
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | textile trading |
-| **Type** | thing |
+| **Item Name** | Textile Trading |
+| **Type** | Skill |
 | **Group** | [Skill (Trade)](docs/Categories/category_40.md) |
 | **Purchase Price** | 10,000 |
-| **Description** | You can buy more textiles at the trading post. Acquisition requirements 0/3/0/total 0 Prerequisite skills Accounting (1) |
-| **Last Updated** | 2005-04-02 09:58:31 System |
-
-## Trade Data
-
+| **Description** | More fibre can be bought at the market. Acquisition requirements 0/3/0 Prerequisite Skills: Accounting (1) |
+| **Last Updated** | 2026-01-20 07:22:30 Bear |

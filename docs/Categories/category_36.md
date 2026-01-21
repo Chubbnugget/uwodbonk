@@ -1,9 +1,9 @@
 ---
 id: 36
-name: Ship parts (emblem)
+name: Ship parts (Crests)
 type: Category
 ---
-# Item Group: 船部品（紋章）
+# Item Group: Ship Parts (Crests)
 
 ## Overview
 | Attribute | Details |

@@ -14,6 +14,5 @@ $env:DOCUSAURUS_PERF_LOGGER = "false"
 
 npm install
 npm run build
-npm run serve
 
 Write-Host "🚀 Build complete and running..." -ForegroundColor Cyan

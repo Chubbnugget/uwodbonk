@@ -3,7 +3,7 @@ id: 22
 name: recipe book
 type: Category
 ---
-# Item Group: レシピ帳
+# Item Group: Recipe Books
 
 ## Overview
 | Attribute | Details |

@@ -1,9 +1,9 @@
 ---
 id: 38
-name: Ship parts (cannon)
+name: Ship parts (Cannons)
 type: Category
 ---
-# Item Group: 船部品（大砲）
+# Item Group: Ship Parts (Cannons)
 
 ## Overview
 | Attribute | Details |

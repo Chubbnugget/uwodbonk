@@ -1,9 +1,9 @@
 ---
 id: 7
-name: Parma
+name: Palma
 type: Port
 ---
-# Port: Parma
+# Port: Palma
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | Parma |
+| **Port Name** | Palma |
 | **Port Type** | 領地 |
 | **Region** | western europe |
 | **Sea Area** | Off the Balearic Islands |

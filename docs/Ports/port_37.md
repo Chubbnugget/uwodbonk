@@ -1,9 +1,9 @@
 ---
 id: 37
-name: Cape
+name: Cape Town
 type: Port
 ---
-# Port: Cape
+# Port: Cape Town
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | Cape |
+| **Port Name** | Cape Town |
 | **Port Type** | port of alliance |
 | **Region** | southern africa |
 | **Sea Area** | Off the Cape of Good Hope |

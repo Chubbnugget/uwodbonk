@@ -1,9 +1,9 @@
 ---
 id: 483
-name: textile trade
+name: Fabric Trading
 type:  Item
 ---
-# textile trade
+# Fabric Trading
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -12,12 +12,9 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Item Name** | textile trade |
-| **Type** | thing |
+| **Item Name** | Fabric Trading |
+| **Type** | Skill |
 | **Group** | [Skill (Trade)](docs/Categories/category_40.md) |
 | **Purchase Price** | 35,000 |
-| **Description** | You can buy more textiles at the trading post. Learning conditions 0/7/0/total 0 Prerequisite skills Textile trading (3) |
-| **Last Updated** | 2008-04-04 11:28:36 Passing navigator @guest |
-
-## Trade Data
-
+| **Description** | More fabric can be bought at market. Learning conditions: 0/7/0 Prerequisite Skills: Textile trading (3) |
+| **Last Updated** | 2026-01-20 07:22:30 Bear |

@@ -1,9 +1,9 @@
 ---
 id: 53
-name: Sierra leone
+name: Sierra Leone
 type: Port
 ---
-# Port: Sierra leone
+# Port: Sierra Leone
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | Sierra leone |
+| **Port Name** | Sierra Leone |
 | **Port Type** | port of alliance |
 | **Region** | western africa |
 | **Sea Area** | off the grain coast |

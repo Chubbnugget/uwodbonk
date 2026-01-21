@@ -1,9 +1,9 @@
 ---
 id: 54
-name: Cape verde
+name: Cabo Verde
 type: Port
 ---
-# Port: Cape verde
+# Port: Cabo Verde
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 
 | Attribute | Details |
 | :--- | :--- |
-| **Port Name** | Cape verde |
+| **Port Name** | Cabo Verde |
 | **Port Type** | port of alliance |
 | **Region** | western africa |
 | **Sea Area** | off the grain coast |
